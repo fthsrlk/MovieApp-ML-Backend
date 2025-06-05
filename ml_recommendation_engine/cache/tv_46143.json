@@ -1,0 +1,1220 @@
+{
+  "adult": false,
+  "backdrop_path": "/dPdzrv1VgURVtopBsB6aCD77ctJ.jpg",
+  "created_by": [
+    {
+      "id": 1244781,
+      "credit_id": "5a1b65ffc3a3680b96048bff",
+      "name": "Walcyr Carrasco",
+      "original_name": "Walcyr Carrasco",
+      "gender": 2,
+      "profile_path": "/uQq1U3PSssPsWkIahtlimxmpetZ.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1996-09-17",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Pembe Dizi"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    }
+  ],
+  "homepage": "",
+  "id": 46143,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "1997-08-11",
+  "last_episode_to_air": {
+    "id": 2986586,
+    "name": "231. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "1997-08-11",
+    "episode_number": 231,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 46143,
+    "still_path": null
+  },
+  "name": "Xica da Silva",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 512,
+      "logo_path": "/5PyrCDbFSf3rVa3WyyfstEPQHS3.png",
+      "name": "Rede Manchete",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 231,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Xica da Silva",
+  "overview": "",
+  "popularity": 88.4923,
+  "poster_path": "/uWxMIZeg1Mqz0KFOZ1etFdUIuXa.jpg",
+  "production_companies": [
+    {
+      "id": 97822,
+      "logo_path": null,
+      "name": "Rede Manchete",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1996-09-17",
+      "episode_count": 231,
+      "id": 197360,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/78AJj9BCFDbA229eZ8DOvd3ve4u.jpg",
+      "season_number": 1,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.8,
+  "vote_count": 135,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 137374,
+        "known_for_department": "Acting",
+        "name": "Taís Araújo",
+        "original_name": "Taís Araújo",
+        "popularity": 0.9792,
+        "profile_path": "/jy2bViOZjvDfMv7jfPeuWAFWDyt.jpg",
+        "character": "Xica da Silva",
+        "credit_id": "60b2ad6d4772150058034f0f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1175163,
+        "known_for_department": "Acting",
+        "name": "Victor Wagner",
+        "original_name": "Victor Wagner",
+        "popularity": 0.3332,
+        "profile_path": "/8eSTGHesSy8k44AAMZq822zHDv2.jpg",
+        "character": "Contratador João Fernandes Oliveira",
+        "credit_id": "648855d3e27260010723df13",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 112180,
+        "known_for_department": "Acting",
+        "name": "Drica Moraes",
+        "original_name": "Drica Moraes",
+        "popularity": 0.5975,
+        "profile_path": "/qQO47cN3esrDZn1eXWmzzG08CRI.jpg",
+        "character": "Violante Cabral",
+        "credit_id": "60b2ad89aafebd00290ca403",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1181465,
+        "known_for_department": "Acting",
+        "name": "Carla Regina",
+        "original_name": "Carla Regina",
+        "popularity": 0.195,
+        "profile_path": "/hjPPEfsZPzhSEN4WLHK5JrEbQmE.jpg",
+        "character": "Maria das Dores Gonçalo (Das Dores)",
+        "credit_id": "6488663ebf31f25057080b18",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 587923,
+        "known_for_department": "Acting",
+        "name": "Murilo Rosa",
+        "original_name": "Murilo Rosa",
+        "popularity": 0.2777,
+        "profile_path": "/7151dJTIoayM6qJfxjYaD9jLJw2.jpg",
+        "character": "Martim Caldeira Brant",
+        "credit_id": "6488664be2726000e8c283b7",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 996215,
+        "known_for_department": "Acting",
+        "name": "Adriane Galisteu",
+        "original_name": "Adriane Galisteu",
+        "popularity": 0.7821,
+        "profile_path": "/m3p6SZBg9sqe7sXt5FEEQSaOZLz.jpg",
+        "character": "Clara Caldeira Brant",
+        "credit_id": "64886654bf31f250569d3f1a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 582439,
+        "known_for_department": "Acting",
+        "name": "Carlos Alberto",
+        "original_name": "Carlos Alberto",
+        "popularity": 0.1685,
+        "profile_path": "/ndpmcjhNoIOD8M9Y4L3IteBSasL.jpg",
+        "character": "Sargento-Mor Thomaz Cabral",
+        "credit_id": "6488668c6f8d9501023dbd60",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 931852,
+        "known_for_department": "Acting",
+        "name": "Eduardo Dusek",
+        "original_name": "Eduardo Dusek",
+        "popularity": 0.1244,
+        "profile_path": "/tXBYrfG4qkHdbSbZLFanv0Kf2ku.jpg",
+        "character": "Capitão-mor Emanuel Gonçalo",
+        "credit_id": "648866d46f8d9500afde7959",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 240591,
+        "known_for_department": "Acting",
+        "name": "Zezé Motta",
+        "original_name": "Zezé Motta",
+        "popularity": 0.8495,
+        "profile_path": "/zj4Lry4VxYdxCBkhQyd4BF5qEUx.jpg",
+        "character": "Maria da Silva",
+        "credit_id": "60b2add2c49048002a0fa3b5",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1270767,
+        "known_for_department": "Acting",
+        "name": "Ângela Leal",
+        "original_name": "Ângela Leal",
+        "popularity": 0.2812,
+        "profile_path": "/mvevHCKg9c5fkcbr04SaKtg6FmL.jpg",
+        "character": "Carlota de Almeida, Marquesa de Mogadouro",
+        "credit_id": "648866eee375c0011c8175d5",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87340,
+        "known_for_department": "Acting",
+        "name": "Maurício Gonçalves",
+        "original_name": "Maurício Gonçalves",
+        "popularity": 0.7128,
+        "profile_path": "/2r1cLpS831Gj38nY1swYMo7myJU.jpg",
+        "character": "Quilôa",
+        "credit_id": "6488670fe272600147bb836c",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 130044,
+        "known_for_department": "Acting",
+        "name": "Giovanna Antonelli",
+        "original_name": "Giovanna Antonelli",
+        "popularity": 1.3322,
+        "profile_path": "/6zQcN3FSOFvNuFzok1YTFBtUfcO.jpg",
+        "character": "Elvira",
+        "credit_id": "64886718d2b209010c1ae34a",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1274899,
+        "known_for_department": "Acting",
+        "name": "Guilherme Piva",
+        "original_name": "Guilherme Piva",
+        "popularity": 0.3386,
+        "profile_path": "/p5meW5fVGhBHg7NvHe029toOwyq.jpg",
+        "character": "José Maria Moura (Zé Maria)",
+        "credit_id": "6488672299259c00ff106ff3",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1247862,
+        "known_for_department": "Acting",
+        "name": "Deo Garcez",
+        "original_name": "Deo Garcez",
+        "popularity": 0.2842,
+        "profile_path": "/whIAywRTa5fTtYPyNy9c4Cz8vz8.jpg",
+        "character": "Paulo",
+        "credit_id": "64886734e375c000ff4a1ee4",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1988862,
+        "known_for_department": "Acting",
+        "name": "Eliana Guttman",
+        "original_name": "Eliana Guttman",
+        "popularity": 0.1938,
+        "profile_path": "/7oAs5wB8ZAksokja0XWYNl1DNNw.jpg",
+        "character": "Maria do Céu Gonçalo",
+        "credit_id": "64886741e375c000acc70435",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2268592,
+        "known_for_department": "Acting",
+        "name": "Teresa Siqueira",
+        "original_name": "Teresa Siqueira",
+        "popularity": 0.0381,
+        "profile_path": null,
+        "character": "Micaela Cabral",
+        "credit_id": "6488674abf31f25054b7904a",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 929296,
+        "known_for_department": "Acting",
+        "name": "Fernando Eiras",
+        "original_name": "Fernando Eiras",
+        "popularity": 0.3213,
+        "profile_path": "/u4Nb5oMoye59UDfobfKEY03kjRq.jpg",
+        "character": "Luís Felipe Cabral",
+        "credit_id": "6488675be375c000e2511023",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2264204,
+        "known_for_department": "Directing",
+        "name": "Charles Moeller",
+        "original_name": "Charles Moeller",
+        "popularity": 0.0482,
+        "profile_path": null,
+        "character": "Santiago Cabral",
+        "credit_id": "64886782e375c0011c817618",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3563869,
+        "known_for_department": "Acting",
+        "name": "António Marques",
+        "original_name": "António Marques",
+        "popularity": 0.2913,
+        "profile_path": "/g7J8NyIqMSuPpzqeXAMEUGYBb66.jpg",
+        "character": "Teodoro Pereira",
+        "credit_id": "628f87247d5db510a51ae6ad",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 941261,
+        "known_for_department": "Acting",
+        "name": "Lídia Franco",
+        "original_name": "Lídia Franco",
+        "popularity": 0.665,
+        "profile_path": "/fFHjasYGu07LJkseUKmuPGKubpL.jpg",
+        "character": "Guiomar Pereira",
+        "credit_id": "64886798d2b209014e0addd5",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1169647,
+        "known_for_department": "Acting",
+        "name": "Miriam Pires",
+        "original_name": "Miriam Pires",
+        "popularity": 0.3118,
+        "profile_path": "/zVb4PNkqSSqQsNIMQF6KBFrXOyN.jpg",
+        "character": "Bemvinda Moura",
+        "credit_id": "648867bd6f8d9501023dbe27",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1272782,
+        "known_for_department": "Acting",
+        "name": "Altair Lima",
+        "original_name": "Altair Lima",
+        "popularity": 0.134,
+        "profile_path": "/rKmCuDgz5hQm0eCAcidTlN0W6Xh.jpg",
+        "character": "Jacobino",
+        "credit_id": "648867c899259c00ff10704b",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1256840,
+        "known_for_department": "Acting",
+        "name": "André Di Mauro",
+        "original_name": "André Di Mauro",
+        "popularity": 0.2652,
+        "profile_path": "/khLf9pRIjk9ZIOjLPRtuXLe3ZVg.jpg",
+        "character": "Dom Duarte",
+        "credit_id": "648867d0e375c000ff4a1f2d",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1330507,
+        "known_for_department": "Acting",
+        "name": "Jayme Periard",
+        "original_name": "Jayme Periard",
+        "popularity": 0.4183,
+        "profile_path": "/3446IK03VANPHsy8cj7iNQlhbDR.jpg",
+        "character": "Félix",
+        "credit_id": "648867d8e375c000e251106a",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 937206,
+        "known_for_department": "Acting",
+        "name": "Anabela Teixeira",
+        "original_name": "Anabela Teixeira",
+        "popularity": 0.2943,
+        "profile_path": "/84SZHdrwl0ArWXXe6dNkS9Yw4kh.jpg",
+        "character": "Graça Pereira",
+        "credit_id": "648867e2e375c0011c817636",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1548923,
+        "known_for_department": "Acting",
+        "name": "Rosa Castro André",
+        "original_name": "Rosa Castro André",
+        "popularity": 0.2083,
+        "profile_path": "/7C2EIQlGhFp0cIYM02xjjkGbEdB.jpg",
+        "character": "Joaquina Pereira",
+        "credit_id": "62728e26caaca200667d5590",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1558737,
+        "known_for_department": "Acting",
+        "name": "Andréa Avancini",
+        "original_name": "Andréa Avancini",
+        "popularity": 0.2508,
+        "profile_path": "/m3iBd3pCUox1ayJHvsBCnZNj4n4.jpg",
+        "character": "Eugênia",
+        "credit_id": "648867fa6f8d95013c747c62",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1463135,
+        "known_for_department": "Acting",
+        "name": "Leci Brandão",
+        "original_name": "Leci Brandão",
+        "popularity": 0.1313,
+        "profile_path": "/8sMqXtbpSiU3pv7ET4bw23qYdCQ.jpg",
+        "character": "Severina",
+        "credit_id": "6488680399259c00e2f6ba2d",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4100620,
+        "known_for_department": "Acting",
+        "name": "Matheus Petinatti",
+        "original_name": "Matheus Petinatti",
+        "popularity": 0.0767,
+        "profile_path": null,
+        "character": "Xavier Cabral",
+        "credit_id": "64886af6e375c000acc705ef",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1322554,
+        "known_for_department": "Acting",
+        "name": "Rita Ribeiro",
+        "original_name": "Rita Ribeiro",
+        "popularity": 0.324,
+        "profile_path": "/bNBYG9yiQbzRC6T3KLiKtfRKgbD.jpg",
+        "character": "Úrsula Aguiar",
+        "credit_id": "61ca4e6ca284eb004236f57e",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2255065,
+        "known_for_department": "Acting",
+        "name": "Maria Clara Mattos",
+        "original_name": "Maria Clara Mattos",
+        "popularity": 0.1557,
+        "profile_path": "/tyOC2P0HxZvCJ8mWzckfGMx89Wl.jpg",
+        "character": "Paulina Caldeira Brant",
+        "credit_id": "64886c6d6f8d9500c88b4222",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1433394,
+        "known_for_department": "Acting",
+        "name": "Alexandre Lippiani",
+        "original_name": "Alexandre Lippiani",
+        "popularity": 0.2214,
+        "profile_path": "/1OjfOVZNLgpAqIHHZ8sl6AraUBn.jpg",
+        "character": "Padre Eurico",
+        "credit_id": "64886c74bf31f250569d41c0",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1511190,
+        "known_for_department": "Acting",
+        "name": "José Steimberg",
+        "original_name": "José Steimberg",
+        "popularity": 0.1168,
+        "profile_path": "/cWVjp5HGIvPINvsnkryglA1LFJ9.jpg",
+        "character": "Padre Aguiar",
+        "credit_id": "64886c816f8d9500c88b4231",
+        "order": 32
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1902792,
+        "known_for_department": "Acting",
+        "name": "Gonçalo Diniz",
+        "original_name": "Gonçalo Diniz",
+        "popularity": 0.2288,
+        "profile_path": "/iCtj8hAq1Sz7GmDKv4HzVC3pis9.jpg",
+        "character": "Dragão Macário",
+        "credit_id": "64886c88e272600147bb861b",
+        "order": 33
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1717537,
+        "known_for_department": "Acting",
+        "name": "Fernando Vieira",
+        "original_name": "Fernando Vieira",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "character": "Dragão Bonifácio",
+        "credit_id": "64886c9ebf31f25055a2a4fc",
+        "order": 34
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 573842,
+        "known_for_department": "Acting",
+        "name": "Maria Alves",
+        "original_name": "Maria Alves",
+        "popularity": 0.2892,
+        "profile_path": "/7PSPabK2bEEpn83m0Yc1viUxEn6.jpg",
+        "character": "Rosa",
+        "credit_id": "64886cb5e272600147bb862e",
+        "order": 35
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1549828,
+        "known_for_department": "Acting",
+        "name": "Haroldo de Oliveira",
+        "original_name": "Haroldo de Oliveira",
+        "popularity": 0.2118,
+        "profile_path": "/2NnDXUXyrsX65VruprGdHlXXcOT.jpg",
+        "character": "Jacinto",
+        "credit_id": "64886cbfe375c000ff4a2120",
+        "order": 36
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2330694,
+        "known_for_department": "Acting",
+        "name": "Alexandre Moreno",
+        "original_name": "Alexandre Moreno",
+        "popularity": 0.3294,
+        "profile_path": "/8Xc1M6AHwTyBRVZR4jBvxVT3xFG.jpg",
+        "character": "Jerônimo",
+        "credit_id": "64886d12d2b209014e0ae10c",
+        "order": 37
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2303716,
+        "known_for_department": "Acting",
+        "name": "Iléa Ferraz",
+        "original_name": "Iléa Ferraz",
+        "popularity": 0.1669,
+        "profile_path": "/fyrHlRJuN1l1Y0yJuQAys6fXUwW.jpg",
+        "character": "Fátima",
+        "credit_id": "64886d2e6f8d9501023dc0de",
+        "order": 38
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1870595,
+        "known_for_department": "Acting",
+        "name": "Joana Limaverde",
+        "original_name": "Joana Limaverde",
+        "popularity": 0.2186,
+        "profile_path": "/anAuNerRiA6ZVjnSu4JzgsYM8OX.jpg",
+        "character": "Catarina",
+        "credit_id": "64886d3599259c00e2f6bcb6",
+        "order": 39
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1333904,
+        "known_for_department": "Acting",
+        "name": "Walney Costa",
+        "original_name": "Walney Costa",
+        "popularity": 0.1617,
+        "profile_path": "/4fnji5TwQnYTDdfxVSc41RtwwB5.jpg",
+        "character": "Dr. Lourenço",
+        "credit_id": "64886d3c6f8d9500afde7ce9",
+        "order": 40
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1546242,
+        "known_for_department": "Acting",
+        "name": "Edson Montenegro",
+        "original_name": "Edson Montenegro",
+        "popularity": 0.2352,
+        "profile_path": "/y2EH6XsB5auCKfgjlaD3l4BJCap.jpg",
+        "character": "Mandinga",
+        "credit_id": "64886d486f8d9500c88b4292",
+        "order": 41
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4109611,
+        "known_for_department": "Acting",
+        "name": "Lucimara Martins",
+        "original_name": "Lucimara Martins",
+        "popularity": 0.0475,
+        "profile_path": null,
+        "character": "Maria Benguela",
+        "credit_id": "64886d61e2726000afc42e07",
+        "order": 42
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 137376,
+        "known_for_department": "Acting",
+        "name": "Ludmila Dayer",
+        "original_name": "Ludmila Dayer",
+        "popularity": 0.3657,
+        "profile_path": "/afr4Z8CLhqLdolucPkHGWqmybWa.jpg",
+        "character": "Isabel Gonçalo",
+        "credit_id": "64886d746f8d95011f2387d3",
+        "order": 43
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1304977,
+        "known_for_department": "Acting",
+        "name": "Lourdes Mayer",
+        "original_name": "Lourdes Mayer",
+        "popularity": 0.1109,
+        "profile_path": "/6404mlV2kUDCJiutxl6I7NRTZqm.jpg",
+        "character": "Madre Superiora Luzia",
+        "credit_id": "67aa83c0b274e6a7d1bb13d4",
+        "order": 44
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2596769,
+        "known_for_department": "Acting",
+        "name": "Sorys Gabriela",
+        "original_name": "Sorys Gabriela",
+        "popularity": 0.1833,
+        "profile_path": "/n0VpqKPNAB18rvgASYXsz14bl33.jpg",
+        "character": "",
+        "credit_id": "662b2193764841011b2c24e9",
+        "order": 45
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1244781,
+        "known_for_department": "Creator",
+        "name": "Walcyr Carrasco",
+        "original_name": "Walcyr Carrasco",
+        "popularity": 0.3048,
+        "profile_path": "/uQq1U3PSssPsWkIahtlimxmpetZ.jpg",
+        "credit_id": "60b2ad57bf31f20059b874f1",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1183627,
+        "known_for_department": "Directing",
+        "name": "Walter Avancini",
+        "original_name": "Walter Avancini",
+        "popularity": 0.3588,
+        "profile_path": "/yIiUkA3fqaYrMHmyfrspEInmlzR.jpg",
+        "credit_id": "60b2ad406dea3a006f69a03c",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "slavery",
+        "id": 2831
+      },
+      {
+        "name": "rags to riches",
+        "id": 5626
+      },
+      {
+        "name": "minas gerais, brazil",
+        "id": 281357
+      },
+      {
+        "name": "xica da silva",
+        "id": 319237
+      },
+      {
+        "name": "colonial brazil",
+        "id": 319239
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/wj7oWhPrtEreQl4Ciqhr4ixMXzM.jpg",
+        "id": 35519,
+        "name": "Presença de Anita",
+        "original_name": "Presença de Anita",
+        "overview": "Written by Manoel Carlos, “The Presence of Anita” is an amazing story about love, passion and the traps of destiny. Anita is an angel faced teenager who seduces a writer, destroying his family and his life. According to her, nothing is coincidence. Destiny is already written and she cannot change her fate.",
+        "poster_path": "/ydrjCb8C8KhT6Sk7mk8Uggtfo1l.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "pt",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 4.9385,
+        "first_air_date": "2001-08-07",
+        "vote_average": 7.7,
+        "vote_count": 15,
+        "origin_country": [
+          "BR"
+        ]
+      },
+      {
+        "backdrop_path": "/ixBejBFsBub9dIEHYsfAeF1fDP4.jpg",
+        "id": 137366,
+        "name": "No nos quieren ver",
+        "original_name": "No nos quieren ver",
+        "overview": "After the death of a teenager in a children's shelter house, a lawyer discovers endless irregularities, errors and horrors within the institution that will shake political power.",
+        "poster_path": "/j4Y7btCFC0sEycs8imaWaEqjVU.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 1.7844,
+        "first_air_date": "2021-11-08",
+        "vote_average": 7.8,
+        "vote_count": 29,
+        "origin_country": [
+          "CL"
+        ]
+      },
+      {
+        "backdrop_path": "/ojTJF5sRACCPzSufKoGIY03274f.jpg",
+        "id": 15150,
+        "name": "Palabra de Mujer",
+        "original_name": "Palabra de Mujer",
+        "overview": "Palabra De Mujer is a telenovela remake of El Amor Tiene Cara De Mujer was made by Televisa, starring Edith González, Yadhira Carrillo, Ludwika Paleta, and Lidia Ávila. The telenovela, a production of José Alberto Castro, premiered October 22, 2007 and ended on May 9, 2008 in El Canal de las Estrellas.",
+        "poster_path": "/fyh9m7TGNqOMU4Ai5sXV1Ct5ani.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18,
+          10751
+        ],
+        "popularity": 11.9445,
+        "first_air_date": "2007-10-22",
+        "vote_average": 6.1,
+        "vote_count": 35,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/mOnqgMv8S2laeQqp7cszs6iWpIz.jpg",
+        "id": 6080,
+        "name": "Once Upon a Time… Man",
+        "original_name": "Il était une fois… l'Homme",
+        "overview": "The history of mankind from prehistoric times to the 20th century.",
+        "poster_path": "/rtKEeBmEFUVzrNLnYuMnVot6DVK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          16,
+          10762
+        ],
+        "popularity": 9.4461,
+        "first_air_date": "1978-09-23",
+        "vote_average": 8.2,
+        "vote_count": 119,
+        "origin_country": [
+          "FR"
+        ]
+      },
+      {
+        "backdrop_path": "/8n8Zdn9RKCTKw3j44J2kOirWdao.jpg",
+        "id": 92394,
+        "name": "Por siempre Joan Sebastián",
+        "original_name": "Por siempre Joan Sebastián",
+        "overview": "Biographical miniseries about the late Mexican singer Joan Sebastian.",
+        "poster_path": "/1efZPo4B65PZkwOUHhVee8BSqpo.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          99,
+          18
+        ],
+        "popularity": 2.7753,
+        "first_air_date": "2016-08-01",
+        "vote_average": 6.935,
+        "vote_count": 123,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/ljzstoXZZofhn6wOzAmdPigpeK7.jpg",
+        "id": 40345,
+        "name": "El secretario",
+        "original_name": "El secretario",
+        "overview": "",
+        "poster_path": "/1WcdmYiVEkqbYhr9bFGyCLByIzK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 21.2104,
+        "first_air_date": "2011-08-22",
+        "vote_average": 7.9,
+        "vote_count": 120,
+        "origin_country": [
+          "CO"
+        ]
+      },
+      {
+        "backdrop_path": "/vQi00V5qQ5gEJiql9GjWWzDKwdu.jpg",
+        "id": 129897,
+        "name": "Day of the Dead",
+        "original_name": "Day of the Dead",
+        "overview": "A group of strangers try to survive the first 24 hours of an undead invasion. This ode to George A. Romero’s famous flesh-eaters reminds us that sometimes all it takes to bring people together is a horde of hungry zombies trying to rip them apart.",
+        "poster_path": "/iBeWa2Ds2uCjTOlMikiBqETsS2X.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10765
+        ],
+        "popularity": 2.5184,
+        "first_air_date": "2021-10-15",
+        "vote_average": 6.761,
+        "vote_count": 199,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zij44Un0vGkjJ1eu1por8FVi1ZR.jpg",
+        "id": 13179,
+        "name": "The Slave Isaura",
+        "original_name": "A Escrava Isaura",
+        "overview": "Isaura was born in 1835, in the farm of Commender Almeida. She is the daughter of the slave Juliana and the tenant of the farm, Miguel. Juliana dies right after the birth, because she denied going to bed with the Commender. He whips her to death in revenge. So, Isaura is raised and educated by Gertrudes, wife of the Commender, who always wanted to have a daughter. In spite of her excellent education and the white skin, Isaura, as a daughter of a slave,will always be treated as a slave.",
+        "poster_path": "/k7mAReVoGtDYfHGt5OVqNhwIUTI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "pt",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 19.1076,
+        "first_air_date": "2004-10-18",
+        "vote_average": 7.429,
+        "vote_count": 177,
+        "origin_country": [
+          "BR"
+        ]
+      },
+      {
+        "backdrop_path": "/mPbu3mRRDuQU1Z3DULM6XRyz9ds.jpg",
+        "id": 9051,
+        "name": "La mujer en el espejo",
+        "original_name": "La mujer en el espejo",
+        "overview": "La Mujer en el Espejo is the title of a Colombian telenovela that first aired in Colombia in 1997 and was later remade & aired again in Colombia in 2004 by Telemundo.",
+        "poster_path": "/55mTUGuoj3r8xOf3pTqWGpHorm4.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          9648,
+          18
+        ],
+        "popularity": 15.1203,
+        "first_air_date": "2004-12-07",
+        "vote_average": 7.138,
+        "vote_count": 377,
+        "origin_country": [
+          "CO"
+        ]
+      },
+      {
+        "backdrop_path": "/11nGiX6hLdexBD4TVUAAVzSIAQy.jpg",
+        "id": 14929,
+        "name": "Heartland",
+        "original_name": "Heartland",
+        "overview": "Amy ve Lou Fleming kardeşler, bir araba kazasında kaybettikleri annelerinin hatırasını yaşatmak için çiftliklerinde bakıma muhtaç ve başıboş atlara bakarlar. İki kızkardeşin ve büyükbabaları Jack Bartlett'ın at çiftliğindeki hayatı hergün yepyeni sürprizlerle doludur.",
+        "poster_path": "/uc2gtWczT58BiAUJWFz9P5aZmNF.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          18,
+          35
+        ],
+        "popularity": 75.5064,
+        "first_air_date": "2007-10-14",
+        "vote_average": 8.273,
+        "vote_count": 563,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/6GVjKfxBrPBLEKWebRxDzsHHMgO.jpg",
+        "id": 5459,
+        "name": "Don't Mess with an Angel",
+        "original_name": "Cuidado con el Ángel",
+        "overview": "Cuidado Con El Ángel is a Telenovela distributed by Televisa starring Maite Perroni and William Levy. The telenovela, a production of Nathalie Lartilleux, premiered on June 9, 2008 and finished its broadcast March 6, 2009. It had millions of viewers worldwide, and broke records in America.",
+        "poster_path": "/8lVsyvIfxEDYUfZTZ3weIwQCu6j.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 33.5902,
+        "first_air_date": "2008-06-09",
+        "vote_average": 7.5,
+        "vote_count": 474,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/oz5zbMBKCUsb7hsbjdxvK8yagPD.jpg",
+        "id": 61709,
+        "name": "Dragon Ball Z Kai",
+        "original_name": "ドラゴンボール改「カイ」",
+        "overview": "Rejoin Goku and his friends in a series of cosmic battles! Toei has redubbed, recut, and cleaned up the animation of the original 1989 animated series. The show's story arc has been refined to better follow the comic book series on which it is based. The show also features a new opening and ending. In the series, martial artist Goku, and his various friends, battle increasingly powerful enemies to defend the world against evil. Can Earth's defender defeat demons, aliens, and other villains?",
+        "poster_path": "/ykl67ghR2ug6KGFH3CQcI01pzQJ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          10765,
+          16,
+          10759,
+          35
+        ],
+        "popularity": 20.0426,
+        "first_air_date": "2009-04-05",
+        "vote_average": 7.466,
+        "vote_count": 776,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/6neiLkVRYIVbbRTLhlSLtt8o5di.jpg",
+        "id": 537,
+        "name": "Hey Arnold!",
+        "original_name": "Hey Arnold!",
+        "overview": "The daily life of Arnold--a fourth-grader with a wild imagination, street smarts and a head shaped like a football.",
+        "poster_path": "/c1Yv042okfvMdT1Ulwlat9Tj70B.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          16,
+          35,
+          10762
+        ],
+        "popularity": 59.947,
+        "first_air_date": "1996-10-07",
+        "vote_average": 8.0,
+        "vote_count": 926,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lrh8reksSZ5XC91Vpnfb2ZJs1bd.jpg",
+        "id": 13023,
+        "name": "El Chapulín Colorado",
+        "original_name": "El Chapulín Colorado",
+        "overview": "",
+        "poster_path": "/qF8NDpVBSTDhdLlEjVAhNhfqB8K.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          35,
+          10751,
+          80,
+          10765,
+          9648
+        ],
+        "popularity": 42.0359,
+        "first_air_date": "1973-02-28",
+        "vote_average": 8.03,
+        "vote_count": 726,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/wQoyCT75vPgWybLp4o11gatSFoJ.jpg",
+        "id": 5522,
+        "name": "Doña Bárbara",
+        "original_name": "Doña Bárbara",
+        "overview": "Doña Bárbara is a Spanish-language telenovela produced by the United States-based television network Telemundo, Sony Pictures Television International and RTI Colombia. Edith González and Christian Meier star in this adaptation of the 1929 novel by Venezuelan author Rómulo Gallegos.",
+        "poster_path": "/H8Gz2bG7p2lmbrtM6duGpkY7z8.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18,
+          35,
+          10766
+        ],
+        "popularity": 68.3758,
+        "first_air_date": "2008-08-04",
+        "vote_average": 7.742,
+        "vote_count": 719,
+        "origin_country": [
+          "CO",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/z6fUdAWIqSenjIYsPmRltaGHcTq.jpg",
+        "id": 4556,
+        "name": "Scrubs",
+        "original_name": "Scrubs",
+        "overview": "Genç doktorların garip deneyimlerini ekrana taşıyan Scrubs, prestijli Humanitas Prize Ödülü’ne sahip, iki kez de Emmy’ye aday gösterilmiş keyifli bir komedi dizisi. J.D. olarak tanınan John Dorian, dizimizin ana karakteri. J.D:’nin doktorluk macerasını izlerken ‘gerçeküstü’ bir hastane olan Sacred Heart Hospital’ın koridorlarında mizahı da trajediyi de birlikte izleyeceğiz. Chris Turk, genç doktorlarımızdan bir diğeri. J.D.’nin kolejdeki en yakın arkadaşı ve seçkin cerrahi grubunun bir üyesi. Güzel Elliot Reid’in ise tek kusuru gerçek bir asosyal oluşu. Gözleri her zaman bu genç doktorların üzerinde olan Dr. Bob, zaman zaman insanı zorlasa da onlar için endişelenen ve onlara yardımcı olmaya çalışan Dr. Perry Cox ve garip hemşire Carla Espinosa Scrubs’ın diğer karakterleri arasında. J.D.’nin baş düşmanı, hastanenin temizlikçisini de unutmamak lazım.",
+        "poster_path": "/u1z05trCA7AuSuDhi365grwdos1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 42.8261,
+        "first_air_date": "2001-10-02",
+        "vote_average": 8.015,
+        "vote_count": 1930,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/jcPYAff4ZFt1wempn729RsBh7uu.jpg",
+        "id": 63109,
+        "name": "Moses and the Ten Commandments",
+        "original_name": "Os Dez Mandamentos",
+        "overview": "The story begins in the city of Pi-Ramesses, in Egypt, at approximately 1300 B.C, when the powerful pharaoh Seti, orders the death of every male newborn in his hatred of the Hebrew people. Amidst the horrors of mass infanticide, one brave Hebrew family defies Pharaoh`s command and hides their child in a basket set afloat on the river Nile, trusting that God would carry him to safety.",
+        "poster_path": "/fQRLMWx39G3SBZSq8kVZ18bezBs.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "pt",
+        "genre_ids": [
+          18,
+          10749,
+          36,
+          10766,
+          9648
+        ],
+        "popularity": 9.4767,
+        "first_air_date": "2015-03-23",
+        "vote_average": 7.879,
+        "vote_count": 1057,
+        "origin_country": [
+          "BR"
+        ]
+      },
+      {
+        "backdrop_path": "/yPCeoIWrVl79Set8XZ46dgayjDK.jpg",
+        "id": 58450,
+        "name": "What Life Took From Me",
+        "original_name": "Lo Que La Vida Me Robó",
+        "overview": "\"What Life Took From Me\" is a Mexican telenovela produced by Angelli Nesma Medina for Televisa. It is a remake of Bodas de odio, produced by Ernesto Alonso in 1983. In 2003, \"True Love\", the first remake, was produced by Carla Estrada. Unlike Bodas de odio and \"True Love\", \"What Life Took From Me\" has been adapted to the present time.",
+        "poster_path": "/qHPdvdPE0U2B4nuQaU0IrWtqoQ2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 55.3217,
+        "first_air_date": "2013-10-28",
+        "vote_average": 7.709,
+        "vote_count": 1313,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/p8HpZSUZk3WDikfCqjhxyG8NPOI.jpg",
+        "id": 16420,
+        "name": "Yaban Çiçeği",
+        "original_name": "꽃보다 남자",
+        "overview": "Mütevazı bir liseli kız olan Jan-di, okulun en güçlü grubundan zengin şımarık bir çocuğa kafa tutar ve sonunda ona aşık olur.",
+        "poster_path": "/9Wup52WspaRW0CcR7yNGyyXM4Ef.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 14.4029,
+        "first_air_date": "2009-01-05",
+        "vote_average": 8.265,
+        "vote_count": 1748,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/8VXhcrl5z2I1zEU9X3pkkNrZlD.jpg",
+        "id": 65494,
+        "name": "The Crown",
+        "original_name": "The Crown",
+        "overview": "II. Dünya Savaşı’nın yarattığı yıkımın ardından İngiltere siyasi karışıklık içindedir ve bu zorlu dönemde tahta bir kadın geçmektedir. II. Elizabeth'in tahta geçmesi ile yeni bir dönem başlayacaktır. Kraliçe II. Elizabeth'in tahttaki ilk yıllarının perde arkasının konu edildiği dizide, siyasi rekabetler, aşk ve 20. Yüzyılın ikinci yarısına şekil veren olaylar anlatılıyor.",
+        "poster_path": "/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 41.6652,
+        "first_air_date": "2016-11-04",
+        "vote_average": 8.2,
+        "vote_count": 2172,
+        "origin_country": [
+          "GB",
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

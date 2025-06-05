@@ -1,0 +1,870 @@
+{
+  "adult": false,
+  "backdrop_path": "/ftiQHOrAGTGXVsJ1pcAVC5Dau78.jpg",
+  "created_by": [
+    {
+      "id": 1237661,
+      "credit_id": "57c451449251416b61004a0a",
+      "name": "Fernando Gaitán",
+      "original_name": "Fernando Gaitán",
+      "gender": 2,
+      "profile_path": "/rMkuo6DEU5pJeluTQhJj7Zbr1pG.jpg"
+    }
+  ],
+  "episode_run_time": [
+    39
+  ],
+  "first_air_date": "1999-10-25",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Pembe Dizi"
+    },
+    {
+      "id": 35,
+      "name": "Komedi"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    }
+  ],
+  "homepage": "",
+  "id": 16286,
+  "in_production": false,
+  "languages": [
+    "it",
+    "es"
+  ],
+  "last_air_date": "2001-02-06",
+  "last_episode_to_air": {
+    "id": 2311856,
+    "name": "335. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2001-02-06",
+    "episode_number": 335,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 16286,
+    "still_path": "/xZ5WDhztJBW3Zxb0KPWY6gZDOgR.jpg"
+  },
+  "name": "Yo soy Betty, la fea",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 183,
+      "logo_path": "/46LNdPSG2gBxy3s3G9csA8vLH8l.png",
+      "name": "RCN",
+      "origin_country": "CO"
+    }
+  ],
+  "number_of_episodes": 335,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CO"
+  ],
+  "original_language": "es",
+  "original_name": "Yo soy Betty, la fea",
+  "overview": "",
+  "popularity": 97.2494,
+  "poster_path": "/iEBOiXiDGaxVR6w8aKgG5MEusuO.jpg",
+  "production_companies": [
+    {
+      "id": 59028,
+      "logo_path": "/lV4ZJIG0MrYgqFZz1rjhyEUe1Xc.png",
+      "name": "RCN",
+      "origin_country": "CO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CO",
+      "name": "Colombia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1999-10-25",
+      "episode_count": 335,
+      "id": 79678,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/ru4dlW0RrWmyYLKd4OBcpXI3NbV.jpg",
+      "season_number": 1,
+      "vote_average": 9.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.346,
+  "vote_count": 3431,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1065253,
+        "known_for_department": "Acting",
+        "name": "Ana María Orozco",
+        "original_name": "Ana María Orozco",
+        "popularity": 0.3308,
+        "profile_path": "/jTvQ7N3txOkEBYv7iPjhUzxsBDE.jpg",
+        "character": "Beatriz Pinzon",
+        "credit_id": "5bcf3f80c3a36866220120a0",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2380748,
+        "known_for_department": "Acting",
+        "name": "Jorge Enrique Abello",
+        "original_name": "Jorge Enrique Abello",
+        "popularity": 0.5434,
+        "profile_path": "/t1flvA4CcmEK8RcJCwm86hDh5ja.jpg",
+        "character": "Don Armando",
+        "credit_id": "67ec6ca04ed5b52721ce3ca2",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2022400,
+        "known_for_department": "Acting",
+        "name": "Natalia Ramírez",
+        "original_name": "Natalia Ramírez",
+        "popularity": 0.2059,
+        "profile_path": "/iXjGgLhDcLzEXUi1ElOnT3IWk3O.jpg",
+        "character": "Marcela Valencia",
+        "credit_id": "5bcf410b0e0a266245014f93",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2158642,
+        "known_for_department": "Acting",
+        "name": "Luis Mesa",
+        "original_name": "Luis Mesa",
+        "popularity": 0.2271,
+        "profile_path": "/dISc5QIvqlcuzjxn6PVBARlGrZx.jpg",
+        "character": "Daniel Valencia",
+        "credit_id": "5bcf413a92514172df0129d5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1245883,
+        "known_for_department": "Acting",
+        "name": "Scarlet Ortiz",
+        "original_name": "Scarlet Ortiz",
+        "popularity": 0.4003,
+        "profile_path": "/d1jKISylkJFG37F75hNcMhwr79Z.jpg",
+        "character": "Alejandra Zingg",
+        "credit_id": "5c2beabf0e0a2655f039be21",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 932617,
+        "known_for_department": "Acting",
+        "name": "Ricardo Vélez",
+        "original_name": "Ricardo Vélez",
+        "popularity": 0.3006,
+        "profile_path": "/o4Rzhm8KKNQNPk7HzsGiBSQ8M4c.jpg",
+        "character": "Mario Calderón",
+        "credit_id": "6352f41fa843c10091b2834a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1246148,
+        "known_for_department": "Acting",
+        "name": "Mario Duarte",
+        "original_name": "Mario Duarte",
+        "popularity": 0.3116,
+        "profile_path": "/cD4YBg8UayOPv9D0wlpiS4esj8z.jpg",
+        "character": "Nicólas Mora",
+        "credit_id": "6352f44ca843c1007d884d24",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1431703,
+        "known_for_department": "Acting",
+        "name": "Julián Arango",
+        "original_name": "Julián Arango",
+        "popularity": 0.5193,
+        "profile_path": "/vmQBwXnPImyO5BQRQEIHhdnxLPJ.jpg",
+        "character": "Hugo Lombardi",
+        "credit_id": "6352f466a0f1a20079633ab3",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1432320,
+        "known_for_department": "Acting",
+        "name": "Kepa Amuchastegui",
+        "original_name": "Kepa Amuchastegui",
+        "popularity": 0.2327,
+        "profile_path": "/eIdfYEfFECoUdfeH0SFUvLaKSYL.jpg",
+        "character": "Roberto Mendoza",
+        "credit_id": "6352f4904ca676007fe3ed20",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3429525,
+        "known_for_department": "Acting",
+        "name": "Talú Quintero",
+        "original_name": "Talú Quintero",
+        "popularity": 0.0895,
+        "profile_path": "/v54RjyLipHmPFqesO2bhCT0XuC3.jpg",
+        "character": "Margarita Sáenz de Mendoza",
+        "credit_id": "6352f4a4c9dbf9007f0213f9",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61745,
+        "known_for_department": "Acting",
+        "name": "Jorge Herrera",
+        "original_name": "Jorge Herrera",
+        "popularity": 0.1245,
+        "profile_path": "/gKZQnmOH8NEqDiUKM7qrW5HinuB.jpg",
+        "character": "Don Hermes",
+        "credit_id": "6352f51984448e007f77eade",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2261057,
+        "known_for_department": "Acting",
+        "name": "Adriana Franco",
+        "original_name": "Adriana Franco",
+        "popularity": 0.1016,
+        "profile_path": "/xKMesLCqWsGlQXiyaFwU50vk489.jpg",
+        "character": "Julia Solano Galindo de Pinzón",
+        "credit_id": "6352f53056b9f7007b1344a4",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1857635,
+        "known_for_department": "Acting",
+        "name": "Pilar Uribe",
+        "original_name": "Pilar Uribe",
+        "popularity": 0.3604,
+        "profile_path": "/dU5ENAPoSDCFIUf1WPyu01ov5RE.jpg",
+        "character": "María Beatriz Valencia",
+        "credit_id": "6352f54a5f4b73008d566d9b",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1431700,
+        "known_for_department": "Acting",
+        "name": "Julio Cesar Herrera",
+        "original_name": "Julio Cesar Herrera",
+        "popularity": 0.1337,
+        "profile_path": "/kCGbuITSh8jvDFezf6jRfXuIGKn.jpg",
+        "character": "Freddy Stewart Contreras",
+        "credit_id": "6352f561a0f1a2007cddeb31",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2526134,
+        "known_for_department": "Acting",
+        "name": "Dora Cadavid",
+        "original_name": "Dora Cadavid",
+        "popularity": 0.2124,
+        "profile_path": "/nPXZqbbVieu9DYdVurrlPAlFF7j.jpg",
+        "character": "Inés 'Inesita' Peña de Gómez",
+        "credit_id": "6352f57215c636007dca40d5",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2597264,
+        "known_for_department": "Acting",
+        "name": "Estefanía Gómez",
+        "original_name": "Estefanía Gómez",
+        "popularity": 0.1334,
+        "profile_path": "/pAfwPL3vKbjbCNpA6s709uCQWBx.jpg",
+        "character": "Aura María Fuentes",
+        "credit_id": "6352f588c9dbf9007f021436",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3692578,
+        "known_for_department": "Acting",
+        "name": "Paula Peña",
+        "original_name": "Paula Peña",
+        "popularity": 0.1082,
+        "profile_path": "/gAXy06eUDnAwNcL7PDcQ8YeqAFM.jpg",
+        "character": "Sofía de Rodríguez",
+        "credit_id": "6352f599ca835400992e6ed3",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1524502,
+        "known_for_department": "Acting",
+        "name": "Luces Velásquez",
+        "original_name": "Luces Velásquez",
+        "popularity": 0.1436,
+        "profile_path": "/qFBOdnLo5gF23RSKTWqBnZg8Xtb.jpg",
+        "character": "Bertha Muñoz de González",
+        "credit_id": "6352f5a8244182007f238e82",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1263353,
+        "known_for_department": "Acting",
+        "name": "María Eugenia Arboleda",
+        "original_name": "María Eugenia Arboleda",
+        "popularity": 0.2548,
+        "profile_path": "/9FAo3M1TaKmlRwud5aijKK8z9A9.jpg",
+        "character": "Mariana Valdés",
+        "credit_id": "6352fa80ca8354007ecf8e5e",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 589110,
+        "known_for_department": "Acting",
+        "name": "Diego Cadavid",
+        "original_name": "Diego Cadavid",
+        "popularity": 0.2118,
+        "profile_path": "/wkZJ5hYJ8VmO3dtSfsIIqJngZJL.jpg",
+        "character": "Román",
+        "credit_id": "63b987df6d675a008a287e22",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2446697,
+        "known_for_department": "Acting",
+        "name": "Lorna Cepeda",
+        "original_name": "Lorna Cepeda",
+        "popularity": 0.3177,
+        "profile_path": "/8mCVvUnGYBLvUEdIkXqwr9KhTru.jpg",
+        "character": "Patricia Fernández",
+        "credit_id": "66b149e0d60bd61097dc5d6d",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3671800,
+        "known_for_department": "Acting",
+        "name": "Yesenia Valencia",
+        "original_name": "Yesenia Valencia",
+        "popularity": 0.2749,
+        "profile_path": "/hj64HJXa8BSYLKvvakUrUcb5RYe.jpg",
+        "character": "Susy",
+        "credit_id": "680e52d9baac1c5a7d812a65",
+        "order": 21
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "telenovela",
+        "id": 199262
+      },
+      {
+        "name": "betty \"la cozza\"",
+        "id": 312631
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/xy92C7oWrvd31rHcwM0MhqI5s1x.jpg",
+        "id": 73481,
+        "name": "Ecomoda",
+        "original_name": "Ecomoda",
+        "overview": "Betty and Armando face new challenges as leaders of Ecomoda, a company in crisis. Between rivalries, betrayals, and the return of the unforgettable \"Ugly Quarters,\" they must balance their family life while fighting to save the company's future.",
+        "poster_path": "/eQgvi0yufzRV8A3i4lVheMxU2RN.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 3.183,
+        "first_air_date": "2001-08-24",
+        "vote_average": 7.9,
+        "vote_count": 1074,
+        "origin_country": [
+          "CO"
+        ]
+      },
+      {
+        "backdrop_path": "/cvHNEZqPguUT97MjwNpsRbtRTDp.jpg",
+        "id": 11721,
+        "name": "La fea más bella",
+        "original_name": "La fea más bella",
+        "overview": "La Fea Más Bella is a Mexican telenovela produced by Televisa. It is the second Mexican version of the popular Colombian telenovela: Betty la fea. La Fea más Bella stars popular actress/singer/comedian Angélica Vale and actor/singer Jaime Camil, with one of the most diverse and popular supporting casts ever assembled in Mexico, including Angélica María, José José, Sergio Mayer, Elizabeth Álvarez, Patricia Navidad and many others.\n\nUnivision broadcast 2 hour episodes of La Fea Más Bella from September 13, 2010 to April 15, 2011 La Fea Más Bella also won the TV y Novelas award for best telenovela of the year. In 2009 it was dubbed into Arabic and aired on MTV Lebanon as Letty instead of La Fea Más Bella.\n\n\"The Best Telenovela of the Year 2007\".",
+        "poster_path": "/AbSoUYjEu4lNe1cPCEBrpRj6fAl.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 60.1177,
+        "first_air_date": "2006-01-23",
+        "vote_average": 8.1,
+        "vote_count": 594,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 106837,
+        "name": "La costeña y el cachaco",
+        "original_name": "La costeña y el cachaco",
+        "overview": "",
+        "poster_path": "/in5JNF4zjoo4xyfFVeYfHhYTG7M.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [],
+        "popularity": 0.9058,
+        "first_air_date": "2003-02-15",
+        "vote_average": 7.4,
+        "vote_count": 137,
+        "origin_country": []
+      },
+      {
+        "backdrop_path": "/wQoyCT75vPgWybLp4o11gatSFoJ.jpg",
+        "id": 5522,
+        "name": "Doña Bárbara",
+        "original_name": "Doña Bárbara",
+        "overview": "Doña Bárbara is a Spanish-language telenovela produced by the United States-based television network Telemundo, Sony Pictures Television International and RTI Colombia. Edith González and Christian Meier star in this adaptation of the 1929 novel by Venezuelan author Rómulo Gallegos.",
+        "poster_path": "/H8Gz2bG7p2lmbrtM6duGpkY7z8.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18,
+          35,
+          10766
+        ],
+        "popularity": 68.3758,
+        "first_air_date": "2008-08-04",
+        "vote_average": 7.742,
+        "vote_count": 719,
+        "origin_country": [
+          "CO",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/bkRRLubzrEiIvztAYj5pIRZntcZ.jpg",
+        "id": 7217,
+        "name": "Casados con Hijos",
+        "original_name": "Casados con Hijos",
+        "overview": "Argentine re-make of American television series Married... with Children. It follows the Argento family and their lives.",
+        "poster_path": "/dtH2Rn6MqZ8pstFzvEC2XGROKpt.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 27.3453,
+        "first_air_date": "2005-04-12",
+        "vote_average": 8.068,
+        "vote_count": 250,
+        "origin_country": [
+          "AR"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 33148,
+        "name": "En Los Tacones De Eva",
+        "original_name": "En Los Tacones De Eva",
+        "overview": "",
+        "poster_path": "/8GruFOP8B5GZhg3AFK4S8GJdld2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 0.5232,
+        "first_air_date": "2006-11-14",
+        "vote_average": 7.6,
+        "vote_count": 132,
+        "origin_country": [
+          "CO"
+        ]
+      },
+      {
+        "backdrop_path": "/zfxdi95MRPYd945uyNsUXrQnwjF.jpg",
+        "id": 7311,
+        "name": "Nuevo Rico Nuevo Pobre",
+        "original_name": "Nuevo Rico Nuevo Pobre",
+        "overview": "Nuevo Rico Nuevo Pobre is a Colombian telenovela produced and broadcast by Caracol TV starring Martín Karpan, John Alex Toro, Maria Cecilia Botero, Carolina Acevedo, Hugo Gómez, former Miss Colombia Andrea Noceti and Andrés Toro.\n\nThe show started on July 16, 2007 on Caracol TV and it is also broadcast on Ecuador's Teleamazonas in primetime. Caracol TV has sold the rights of the show to Telemundo and Fox. It is, as of May 2008, one of the highest rated TV shows in Colombia.",
+        "poster_path": "/rqkZi3rcReCJ3zbJl4OUOsJrqh7.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 43.8779,
+        "first_air_date": "2007-07-16",
+        "vote_average": 7.758,
+        "vote_count": 364,
+        "origin_country": [
+          "CO"
+        ]
+      },
+      {
+        "backdrop_path": "/2wMQYJrpNCe58VGRH0KPccXhnQc.jpg",
+        "id": 73777,
+        "name": "María de Todos los Ángeles",
+        "original_name": "María de Todos los Ángeles",
+        "overview": "",
+        "poster_path": "/yy70db0qN04qKh1HXOR8V85gVPa.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18,
+          35,
+          10751
+        ],
+        "popularity": 4.9732,
+        "first_air_date": "2009-08-02",
+        "vote_average": 7.6,
+        "vote_count": 621,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/vCegizcgxwvi2vcx9Om6jGMdxEa.jpg",
+        "id": 12777,
+        "name": "Corazón salvaje",
+        "original_name": "Corazón salvaje",
+        "overview": "A telenovela that dramatizes the romances and rivalries between two brothers and two sisters in Mexico between the years 1885 and 1900.",
+        "poster_path": "/r7O2OTPM6xU6YAIVkHdhETLeqEb.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 26.2961,
+        "first_air_date": "1993-07-05",
+        "vote_average": 7.876,
+        "vote_count": 595,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/nJwrbIIu4PRMuRm92NRpv9CKJK9.jpg",
+        "id": 78722,
+        "name": "A Family of Ten",
+        "original_name": "Una Familia de Diez",
+        "overview": "Ten members of the same family share a small house and stumble together through life's mishaps.",
+        "poster_path": "/ds2t2T4dFGiCFo2PeP4hlwt9NRD.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          35,
+          18,
+          10762,
+          10751
+        ],
+        "popularity": 24.0683,
+        "first_air_date": "2007-03-22",
+        "vote_average": 8.055,
+        "vote_count": 795,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/34ONpXo3HAqDjP9cGXgG0HeHyHF.jpg",
+        "id": 42350,
+        "name": "Por ella soy Eva",
+        "original_name": "Por ella soy Eva",
+        "overview": "Por Ella Soy Eva is a Mexican soap opera produced by Rosy Ocampo for Televisa based on the Colombian soap opera En los tacones de Eva. Jaime Camil and Lucero starred as main protagonists, while Mariana Seoane and Marcelo Córdoba starred as the main antagonists.\n\n\"The Best Telenovela of the Year 2013.\"",
+        "poster_path": "/vERzXYHkNxQaHhenEgeO77D1Bmw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 28.4313,
+        "first_air_date": "2012-02-20",
+        "vote_average": 7.796,
+        "vote_count": 289,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/e33MQuDUKGc4EpgeVmXx1EHHeWj.jpg",
+        "id": 86189,
+        "name": "Betty in New York",
+        "original_name": "Betty en NY",
+        "overview": "Genç, Hispanik bir kadın, New York'ta moda sektörüne girmeye çabalar, ama daha da büyük bir zorlukla karşı karşıyadır: aşkı bulmak.",
+        "poster_path": "/sPmwvryzRnCoEv8oeTAT2jeM8Yy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 19.371,
+        "first_air_date": "2019-02-06",
+        "vote_average": 8.044,
+        "vote_count": 194,
+        "origin_country": [
+          "MX",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/i5WyNy4tVmRbcOvTfYXWuEpTNK7.jpg",
+        "id": 12926,
+        "name": "Teresa",
+        "original_name": "Teresa",
+        "overview": "Teresa telenovela ve Televisa tarafından başrollerini Angelique Boyer, Aarón Díaz, Sebastián Rulli ve Ana Brenda Contreras'ın paylaştığı Meksika yapımı pembe dizidir. Meksika tarihinin en yüksek reytingli dizilerinden birisidir.",
+        "poster_path": "/5U8eEPG2ESPOsjDB0J9aXMelctc.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 24.2397,
+        "first_air_date": "2010-08-02",
+        "vote_average": 7.674,
+        "vote_count": 1770,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/15cXN3XFs0q8Sf45VrGQeFplbF3.jpg",
+        "id": 100087,
+        "name": "Hasta que la plata nos separe",
+        "original_name": "Hasta que la plata nos separe",
+        "overview": "Rafael Méndez and Alejandra Maldonado are salesmen from opposite sides of life. While Méndez depends on informal sales, and that without any higher education degree, Alejandra carries her duties as the Commercial Manager of a car dealership with an MBA degree and a hard attitude up her sleeve. An unfortunate car accident will bring them together, and they will have to get the best of each other in order to survive their respective realities.",
+        "poster_path": "/vsg1BiSfwUP5ujM5zYMcXvYLwqR.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 10.2485,
+        "first_air_date": "2006-05-22",
+        "vote_average": 8.311,
+        "vote_count": 392,
+        "origin_country": [
+          "CO"
+        ]
+      },
+      {
+        "backdrop_path": "/qabMMIpNUUKYFqQxHEWErEEBD8G.jpg",
+        "id": 11250,
+        "name": "Pasión de Gavilanes",
+        "original_name": "Pasión de gavilanes",
+        "overview": "The Reyes-Elizondo's idyllic lives are shattered by a murder charge against Eric and León.",
+        "poster_path": "/91UV7pNcDPhIzJl7EuK36sK5vRG.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 38.4728,
+        "first_air_date": "2003-10-21",
+        "vote_average": 7.643,
+        "vote_count": 2041,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/z5yI0aIRyogoflSXdI17iwTqzjG.jpg",
+        "id": 1660,
+        "name": "I Dream of Jeannie",
+        "original_name": "I Dream of Jeannie",
+        "overview": "While on a mission, American astronaut Captain Tony Nelson is forced to make an emergency landing that will forever change his life. On a deserted South Pacific island, Captain Nelson happens upon a bottle containing a beautiful two-thousand-year-old female genie named Jeannie. Rescuing her from the bottle nets Tony the requisite three wishes, and then some, when Jeannie pledges total devotion to her new \"master\".",
+        "poster_path": "/ljlyB3C3uU8Hd1krfEsYn2BVyaj.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          35,
+          10751
+        ],
+        "popularity": 42.2158,
+        "first_air_date": "1965-09-18",
+        "vote_average": 7.8,
+        "vote_count": 778,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/xuFNUGqEJ4cKNR7eKCowhDruhSd.jpg",
+        "id": 61720,
+        "name": "Violetta",
+        "original_name": "Violetta",
+        "overview": "A musically talented teenager returns to her native Buenos Aires with her father, Herman, after living in Europe for several years, navigating the trials and tribulations of growing up.",
+        "poster_path": "/b3MUGJeKakAZwQa7lNJxTP1pJmD.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          10751,
+          18,
+          35,
+          10766
+        ],
+        "popularity": 45.7639,
+        "first_air_date": "2012-05-14",
+        "vote_average": 8.14,
+        "vote_count": 301,
+        "origin_country": [
+          "AR"
+        ]
+      },
+      {
+        "backdrop_path": "/1NrkA5hNqkP7lB8ClHSTmiHr51C.jpg",
+        "id": 98013,
+        "name": "Se rentan cuartos",
+        "original_name": "Se rentan cuartos",
+        "overview": "",
+        "poster_path": "/nOswAPPazUWXFSmVrMHmjo9JmsH.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          35,
+          18,
+          10751
+        ],
+        "popularity": 9.1138,
+        "first_air_date": "2019-10-30",
+        "vote_average": 7.811,
+        "vote_count": 185,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/zD2OojSW5EvOYY5LbZivyafNJ58.jpg",
+        "id": 7022,
+        "name": "Burning for Revenge",
+        "original_name": "Fuego en la Sangre",
+        "overview": "Fuego en la sangre is a telenovela that began transmissions on January 21, 2008, through Mexico's Canal de las Estrellas network. Starring Adela Noriega, Eduardo Yáñez, Diana Bracho, and Guillermo García Cantú.\n\nIt is the Mexican remake of the Colombian soap operas Las Aguas Mansas and Pasion de Gavilanes. The theme song called \"Para Siempre\" is sung by Vicente Fernández.\n\nThe telenovela received TVyNovelas Award for Best Telenovela, in 2009.",
+        "poster_path": "/qTbAFrYK6jIlvHwv7qdvRKfA3jE.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18,
+          9648,
+          10766
+        ],
+        "popularity": 61.9592,
+        "first_air_date": "2008-01-21",
+        "vote_average": 7.486,
+        "vote_count": 138,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/qgcx8M52bOXUPqdFH9xtujBOakN.jpg",
+        "id": 12970,
+        "name": "Two Women, One Road",
+        "original_name": "Dos mujeres, un camino",
+        "overview": "Dos mujeres, un camino is a Mexican telenovela, produced by Televisa, which originally aired from August 2, 1993 to July 1, 1994, on Canal de las Estrellas.",
+        "poster_path": "/rDWuYnHRr36xUW2gsDA4X4kwcJ2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 16.2574,
+        "first_air_date": "1993-08-16",
+        "vote_average": 7.263,
+        "vote_count": 293,
+        "origin_country": [
+          "MX"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

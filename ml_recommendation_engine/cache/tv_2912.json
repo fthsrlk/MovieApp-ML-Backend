@@ -1,0 +1,1024 @@
+{
+  "adult": false,
+  "backdrop_path": "/55tcKzl0gZ0lR1q7TrVJm0h9lkT.jpg",
+  "created_by": [
+    {
+      "id": 97128,
+      "credit_id": "52574a3c760ee36aaa123bd2",
+      "name": "Merv Griffin",
+      "original_name": "Merv Griffin",
+      "gender": 2,
+      "profile_path": "/tYU8HL88jJvQb4zZVJi988Jeux9.jpg"
+    }
+  ],
+  "episode_run_time": [
+    30,
+    22
+  ],
+  "first_air_date": "1984-09-10",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Gerçeklik"
+    },
+    {
+      "id": 10751,
+      "name": "Aile"
+    }
+  ],
+  "homepage": "http://www.jeopardy.com/",
+  "id": 2912,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-03-06",
+  "last_episode_to_air": {
+    "id": 6004285,
+    "name": "129. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-06",
+    "episode_number": 129,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 41,
+    "show_id": 2912,
+    "still_path": null
+  },
+  "name": "Jeopardy!",
+  "next_episode_to_air": {
+    "id": 6004286,
+    "name": "130. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-07",
+    "episode_number": 130,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 41,
+    "show_id": 2912,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 184,
+      "logo_path": null,
+      "name": "Syndication",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 9063,
+  "number_of_seasons": 41,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Jeopardy!",
+  "overview": "",
+  "popularity": 2898.528,
+  "poster_path": "/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
+  "production_companies": [
+    {
+      "id": 11073,
+      "logo_path": "/aCbASRcI1MI7DXjPbSW9Fcv9uGR.png",
+      "name": "Sony Pictures Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 10471,
+      "logo_path": "/tHIwIKoXdLKA8Nt3XeRInh71OvD.png",
+      "name": "Columbia TriStar Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 62313,
+      "logo_path": null,
+      "name": "Jeopardy Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 119837,
+      "logo_path": null,
+      "name": "Merv Griffin Enterprises",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2009-11-19",
+      "episode_count": 9,
+      "id": 9401,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1984-09-10",
+      "episode_count": 162,
+      "id": 9367,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "1985-09-09",
+      "episode_count": 194,
+      "id": 9368,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1986-09-01",
+      "episode_count": 231,
+      "id": 9369,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1987-09-07",
+      "episode_count": 220,
+      "id": 9370,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1988-09-05",
+      "episode_count": 215,
+      "id": 9371,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1989-09-04",
+      "episode_count": 201,
+      "id": 9372,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1990-09-03",
+      "episode_count": 212,
+      "id": 9373,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1991-09-02",
+      "episode_count": 194,
+      "id": 9374,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1992-09-07",
+      "episode_count": 229,
+      "id": 9375,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "1993-09-06",
+      "episode_count": 230,
+      "id": 9378,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1994-09-05",
+      "episode_count": 213,
+      "id": 9380,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1995-09-04",
+      "episode_count": 229,
+      "id": 9381,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1996-09-02",
+      "episode_count": 218,
+      "id": 9383,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1997-09-01",
+      "episode_count": 230,
+      "id": 9385,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1998-09-07",
+      "episode_count": 230,
+      "id": 9386,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1999-09-06",
+      "episode_count": 230,
+      "id": 9387,
+      "name": "Sezon 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2000-09-04",
+      "episode_count": 230,
+      "id": 9389,
+      "name": "Sezon 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2001-09-03",
+      "episode_count": 229,
+      "id": 9390,
+      "name": "Sezon 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2002-09-02",
+      "episode_count": 230,
+      "id": 9392,
+      "name": "Sezon 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2003-09-08",
+      "episode_count": 230,
+      "id": 9393,
+      "name": "Sezon 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2004-09-06",
+      "episode_count": 230,
+      "id": 9394,
+      "name": "Sezon 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2005-09-12",
+      "episode_count": 230,
+      "id": 9395,
+      "name": "Sezon 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2006-09-11",
+      "episode_count": 230,
+      "id": 9396,
+      "name": "Sezon 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2007-09-10",
+      "episode_count": 230,
+      "id": 9397,
+      "name": "Sezon 24",
+      "overview": "",
+      "poster_path": "/4oQeIPhQdhGIfDv4XOpx6ovY7w5.jpg",
+      "season_number": 24,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2008-09-08",
+      "episode_count": 230,
+      "id": 9398,
+      "name": "Sezon 25",
+      "overview": "",
+      "poster_path": "/l3DmfjuJl2ux1WXzsjtjljUZHoR.jpg",
+      "season_number": 25,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2009-09-14",
+      "episode_count": 230,
+      "id": 9399,
+      "name": "Sezon 26",
+      "overview": "",
+      "poster_path": "/l3DmfjuJl2ux1WXzsjtjljUZHoR.jpg",
+      "season_number": 26,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2010-09-13",
+      "episode_count": 230,
+      "id": 9400,
+      "name": "Sezon 27",
+      "overview": "",
+      "poster_path": "/l3DmfjuJl2ux1WXzsjtjljUZHoR.jpg",
+      "season_number": 27,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-09-19",
+      "episode_count": 230,
+      "id": 176960,
+      "name": "Sezon 28",
+      "overview": "",
+      "poster_path": "/l3DmfjuJl2ux1WXzsjtjljUZHoR.jpg",
+      "season_number": 28,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2012-09-17",
+      "episode_count": 230,
+      "id": 176961,
+      "name": "Sezon 29",
+      "overview": "",
+      "poster_path": "/l3DmfjuJl2ux1WXzsjtjljUZHoR.jpg",
+      "season_number": 29,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2013-09-16",
+      "episode_count": 230,
+      "id": 9402,
+      "name": "Sezon 30",
+      "overview": "",
+      "poster_path": "/1H7g10a25KyjhcptPeDhRiezptU.jpg",
+      "season_number": 30,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2014-09-15",
+      "episode_count": 230,
+      "id": 176962,
+      "name": "Sezon 31",
+      "overview": "",
+      "poster_path": "/w6IuAySlbGtxY1A2uUpkrVjnXMr.jpg",
+      "season_number": 31,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2015-09-14",
+      "episode_count": 230,
+      "id": 176963,
+      "name": "Sezon 32",
+      "overview": "",
+      "poster_path": "/wJmIG2CIjGM4ChEFf6PcV762eIB.jpg",
+      "season_number": 32,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2016-09-12",
+      "episode_count": 230,
+      "id": 176849,
+      "name": "Sezon 33",
+      "overview": "",
+      "poster_path": "/gznNccjuVhNEjYt8IUopLuBh6GV.jpg",
+      "season_number": 33,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2017-09-11",
+      "episode_count": 230,
+      "id": 176680,
+      "name": "Sezon 34",
+      "overview": "",
+      "poster_path": "/gznNccjuVhNEjYt8IUopLuBh6GV.jpg",
+      "season_number": 34,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2018-09-10",
+      "episode_count": 230,
+      "id": 176725,
+      "name": "Sezon 35",
+      "overview": "",
+      "poster_path": "/mK0a4VYtDpi3wfXOBbzlmZBErQ4.jpg",
+      "season_number": 35,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2019-09-09",
+      "episode_count": 190,
+      "id": 176665,
+      "name": "Sezon 36",
+      "overview": "",
+      "poster_path": "/8CqBrGO5JLR7OMmBmLXzdLshkP5.jpg",
+      "season_number": 36,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2020-09-14",
+      "episode_count": 230,
+      "id": 175754,
+      "name": "Sezon 37",
+      "overview": "",
+      "poster_path": "/aSIHw2DyO6QqW2k2Ak5J2JPojG.jpg",
+      "season_number": 37,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2021-09-13",
+      "episode_count": 240,
+      "id": 202365,
+      "name": "Sezon 38",
+      "overview": "",
+      "poster_path": "/6Iwg6enhbWr54vVSmvD1ttPAQSj.jpg",
+      "season_number": 38,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2022-09-12",
+      "episode_count": 230,
+      "id": 308231,
+      "name": "Sezon 39",
+      "overview": "",
+      "poster_path": "/67JYOtGQLYRldIgZMgHr0dyjlIn.jpg",
+      "season_number": 39,
+      "vote_average": 2.0
+    },
+    {
+      "air_date": "2023-09-11",
+      "episode_count": 236,
+      "id": 349424,
+      "name": "Sezon 40",
+      "overview": "",
+      "poster_path": "/7dJGVVaxTIwJOGkyYHGcXSIMeHg.jpg",
+      "season_number": 40,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2024-09-09",
+      "episode_count": 130,
+      "id": 403730,
+      "name": "Sezon 41",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 6.8,
+  "vote_count": 133,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1213789,
+        "known_for_department": "Acting",
+        "name": "Johnny Gilbert",
+        "original_name": "Johnny Gilbert",
+        "popularity": 1.667,
+        "profile_path": "/kaemnryG3n9coES6AwsU2YJHRnD.jpg",
+        "character": "Self - Announcer (voice)",
+        "credit_id": "64774b2389d97f00db4e45b8",
+        "order": 2
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "game show",
+        "id": 4325
+      },
+      {
+        "name": "quiz",
+        "id": 6784
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/DFRKXpyk1n5RZFDmgnax3ry7fC.jpg",
+        "id": 51808,
+        "name": "Robot and Monster",
+        "original_name": "Robot and Monster",
+        "overview": "It's Robot and Monster, an unlikely duo in society where their different species usually don't get along, but everyone does share one common trait - they all love bacon! This buddy comedy shows that opposites really do attract, hilariously!",
+        "poster_path": "/rcckppfyUFVgPIxWtYJjRtjSytI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10759,
+          10765,
+          10762
+        ],
+        "popularity": 83.567,
+        "first_air_date": "2012-08-04",
+        "vote_average": 5.5,
+        "vote_count": 16,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/jMcioUQCt1clALE1XnioTFvAcQQ.jpg",
+        "id": 56,
+        "name": "Newlyweds: Nick and Jessica",
+        "original_name": "Newlyweds: Nick and Jessica",
+        "overview": "Newlyweds follows the always interesting, and sometimes funny, newly married Nick Lachey and Jessica Simpson. Don't miss the parties, the performing, the love, and of course, the 'Jessica Moments' as Nick and Jess put their celebrity marriage on display in Newlyweds: Nick and Jessica.",
+        "poster_path": "/gXLtrw4TizEl1S7Dx6MvaXINDEl.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 34.382,
+        "first_air_date": "2003-08-19",
+        "vote_average": 6.7,
+        "vote_count": 10,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wg6EpIGcedRSkUuiA7eAbVCPLXM.jpg",
+        "id": 32066,
+        "name": "Geronimo Stilton",
+        "original_name": "Geronimo Stilton",
+        "overview": "Geronimo Stilton is about the titular character, a mouse journalist and head of the Geronimo Stilton Media Group. He searches New Mouse City and places around the world for new scoops while having adventures along the way with his nephew Benjamin, cousin Trap, sister Thea and Benjamin's friend Pandora Woz. Most episodes share no story connections and are generally self-contained, though some episodes feature ties and characters from others.",
+        "poster_path": "/eQ9WP2eG6TOfQbwViq1ZISxyrFT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "it",
+        "genre_ids": [
+          9648,
+          35,
+          16
+        ],
+        "popularity": 20.945,
+        "first_air_date": "2009-09-15",
+        "vote_average": 7.8,
+        "vote_count": 17,
+        "origin_country": [
+          "IT"
+        ]
+      },
+      {
+        "backdrop_path": "/AtMPi0dZcVACEMfTQMTe0l7HfPA.jpg",
+        "id": 6582,
+        "name": "American Gladiators",
+        "original_name": "American Gladiators",
+        "overview": "American Gladiators is an American competition television program that aired weekly in syndication from September 1989 to May 1996. The series matched a cast of amateur athletes against each other, as well as against the show's own gladiators, in contests of strength and agility.\n\nThe concept was created by Dan Carr and John C. Ferraro, who held the original competition at Erie Tech High School in Erie, Pennsylvania. They sold the show to The Samuel Goldwyn Company where the concept was enhanced and became American Gladiators.\n\nAn effort in 2004 to launch a live American Gladiators show on the Las Vegas Strip became mired in a securities fraud prosecution. However, the television series was restarted in 2008. Episodes from the original series were played on ESPN Classic from 2007 to 2009. Several episodes are available for download on Apple's iTunes Service.",
+        "poster_path": "/xFWYHXAXrVl1AD9WLOcl7ip3r3Y.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 114.987,
+        "first_air_date": "1988-12-31",
+        "vote_average": 5.6,
+        "vote_count": 24,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/bbKJzFCf4IdQaVRhk6LJWasLSke.jpg",
+        "id": 110494,
+        "name": "I Can See Your Voice",
+        "original_name": "I Can See Your Voice",
+        "overview": "Each week one contestant will have the chance to win a cash prize if he or she can tell the difference between the good and bad singers, without ever hearing them sing a note.",
+        "poster_path": "/kLk5RG9G0NIWJrKuoHa3TQzw69U.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 24.967,
+        "first_air_date": "2020-09-23",
+        "vote_average": 7.4,
+        "vote_count": 7,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 21459,
+        "name": "Rock & Roll",
+        "original_name": "Rock & Roll",
+        "overview": "This 10-part documentary mini-series traces the history and evolution of rock and roll music, from its rhythm and blues, country, gospel and jazz roots in the early 1950s, through the advent of folk rock, soul, psychadelia, heavy metal, glam, funk, punk, and reggae, to the emergence of rap in the early 1990s.",
+        "poster_path": "/pVcPxEA4chFeTEYStwJi3u3hlY9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [],
+        "popularity": 0.612,
+        "first_air_date": "",
+        "vote_average": 9.0,
+        "vote_count": 1,
+        "origin_country": []
+      },
+      {
+        "backdrop_path": "/lnpGQXFPChQg5D0dsJdjBUWe8PQ.jpg",
+        "id": 60908,
+        "name": "North Woods Law",
+        "original_name": "North Woods Law",
+        "overview": "Follow Maine's elite Game Wardens as they navigate the Pine Tree State's rugged terrain and twisted back roads. Each Autumn brings the hunting season, the Warden's busiest and most dangerous time of year. These 'State Police of the Woods' never know what to expect from one moment to the next.",
+        "poster_path": "/kS93EaTX8ZTjdS2ZrarYvNbRG21.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764,
+          80
+        ],
+        "popularity": 9.847,
+        "first_air_date": "2012-03-11",
+        "vote_average": 7.3,
+        "vote_count": 7,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 13118,
+        "name": "Cash Explosion",
+        "original_name": "Cash Explosion",
+        "overview": "Cash Explosion, known as Cash Explosion Double Play from 1989 until 2006, is an official Ohio Lottery TV game show, which is broadcast on television stations throughout Ohio. The show originated in Cleveland and is now taped by Mills James Productions in Columbus, Ohio. Cash Explosion originally aired from February 7, 1987 to September 30, 2006, at which point the Ohio Lottery replaced it with Make Me Famous, Make Me Rich. However, slumping ticket sales and poor ratings prompted the return of the Cash Explosion format a year later, on October 6, 2007, and it has remained on the air since. Cash Explosion is the second longest-running state lottery based game show. As of July 3, 2010, Cash Explosion is the only weekly lottery game show airing in the U.S..",
+        "poster_path": null,
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [],
+        "popularity": 0.08,
+        "first_air_date": "",
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zhLrML5jLVIlln5QFZdYHgtmFXr.jpg",
+        "id": 1790,
+        "name": "Family Feud",
+        "original_name": "Family Feud",
+        "overview": "Two families compete against each other in a contest to name the most popular responses to a survey question posed to 100 people.",
+        "poster_path": "/r95u35TP2QeQ41IG6DlCT7QxCRk.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10764
+        ],
+        "popularity": 158.121,
+        "first_air_date": "1999-09-20",
+        "vote_average": 7.7,
+        "vote_count": 37,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/hpmdT9PoI0vkfim6RyVyusI23V6.jpg",
+        "id": 1655,
+        "name": "PBS News Hour",
+        "original_name": "PBS News Hour",
+        "overview": "America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.",
+        "poster_path": "/r8uKLWTegeog1lSbfHxDgnFRd9A.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10763
+        ],
+        "popularity": 825.958,
+        "first_air_date": "1975-10-20",
+        "vote_average": 5.4,
+        "vote_count": 47,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qxVTe9JOL33AJIlOv4s504hf8pp.jpg",
+        "id": 2778,
+        "name": "Wheel of Fortune",
+        "original_name": "Wheel of Fortune",
+        "overview": "This game show sees contestants solve word puzzles, similar to those used in Hangman, to win cash and prizes determined by spinning a giant carnival wheel.",
+        "poster_path": "/a6XruJ8a8LFNhrB0L20QcjmDXi6.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          10764
+        ],
+        "popularity": 746.348,
+        "first_air_date": "1983-09-19",
+        "vote_average": 6.8,
+        "vote_count": 71,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/eDnrGNNMD8IyitmRojrRomY9vtW.jpg",
+        "id": 4545,
+        "name": "Blossom",
+        "original_name": "Blossom",
+        "overview": "Blossom Russo is a highly intelligent and spunky teenager. The youngest of three, she lives with her divorced musician father, Nick, eldest brother and recovering substance abuser Anthony, and decidedly not-so-bright middle brother Joey. Along for the ride is Blossom's ditzy best friend, Six, who sometimes shows flashes of great perception.",
+        "poster_path": "/qZVQ73nf4N43LLvKzs0cSkXRne5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35,
+          10751
+        ],
+        "popularity": 86.177,
+        "first_air_date": "1990-07-05",
+        "vote_average": 6.16,
+        "vote_count": 103,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wHaNXo7V8ZORngvvaQ4i84vze25.jpg",
+        "id": 4415,
+        "name": "In Living Color",
+        "original_name": "In Living Color",
+        "overview": "In Living Color is an American sketch comedy television series that originally ran on the Fox Network from April 15, 1990, to May 19, 1994. Brothers Keenen and Damon Wayans created, wrote and starred in the program. The show was produced by Ivory Way Productions in association with 20th Century Fox Television and was taped before a live studio audience at stage 7 at the Fox Television Center on Sunset Boulevard in Hollywood, California. The title of the series was inspired by the NBC announcement of broadcasts being presented \"in living color\" during the 1950s and 1960s, prior to mainstream color television. It also refers to the fact that most of the show's cast were black, unlike other sketch comedy shows such as Saturday Night Live whose casts are usually mostly white.",
+        "poster_path": "/vr4bfbEvkAN4VreDwG9dyEOf4x4.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 175.167,
+        "first_air_date": "1990-04-15",
+        "vote_average": 7.6,
+        "vote_count": 115,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7rqkQ2P0Q8QOXL0ITZctnzSx2Jl.jpg",
+        "id": 58832,
+        "name": "Naked and Afraid",
+        "original_name": "Naked and Afraid",
+        "overview": "İki yabancının vahşi doğada 21 gün boyunca çıplak olarak hayatta kalmaya çalıştığı realite şovu.",
+        "poster_path": "/plV0HqZs3nHW8PhaLzV18puxtP2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 137.209,
+        "first_air_date": "2013-06-23",
+        "vote_average": 6.7,
+        "vote_count": 85,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/Ahau5SbGYBISr1fNCtCqbnxqfsV.jpg",
+        "id": 2410,
+        "name": "Diff'rent Strokes",
+        "original_name": "Diff'rent Strokes",
+        "overview": "The series stars Gary Coleman and Todd Bridges as Arnold and Willis Jackson, two African American boys from Harlem who are taken in by a rich white Park Avenue businessman named Phillip Drummond and his daughter Kimberly, for whom their deceased mother previously worked. During the first season and first half of the second season, Charlotte Rae also starred as the Drummonds' housekeeper, Mrs. Garrett.",
+        "poster_path": "/7Z8BcfA2CD0CQ0m4ltgPqT5rdr9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751,
+          18
+        ],
+        "popularity": 14.095,
+        "first_air_date": "1978-11-03",
+        "vote_average": 7.031,
+        "vote_count": 276,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5AZcrUUht7RQXzomXBUovdPOqoG.jpg",
+        "id": 1678,
+        "name": "The Golden Girls",
+        "original_name": "The Golden Girls",
+        "overview": "Four Southern Florida seniors share a house, their dreams, and a whole lot of cheesecake. Bright, promiscuous, clueless and hilarious, these lovely, mismatched ladies form the perfect circle of friends.",
+        "poster_path": "/lJKAjneNGquVBmUqHY6ZFOFImfD.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 122.949,
+        "first_air_date": "1985-09-14",
+        "vote_average": 7.538,
+        "vote_count": 345,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/bdhFPMYxuG769gaOA7awyYpcGP.jpg",
+        "id": 58811,
+        "name": "Helix",
+        "original_name": "Helix",
+        "overview": "Battlestar Galactica'nın yaratıcısı Ronald D. Moore'un televizyona dönüş projesi. Karanlık ve gerilimli bir bilimkurgu olacak Helix; Kuzey Kutbunda bir araştırma tesisinde ortaya çıkan salgını engellemeye çalışan bir grup bilim insanının, kendilerini dünyadaki canlıların katledilmesine engel olmaya çalışırken bulmalarını anlatıyor. Tabii bu sadece başlangıç..",
+        "poster_path": "/7goT0IcsXjRo9fdMlWKr6ZRmaNP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 35.113,
+        "first_air_date": "2014-01-10",
+        "vote_average": 6.622,
+        "vote_count": 431,
+        "origin_country": [
+          "US",
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/71PGVaGN2Aiy0nWsmdUWP88ne32.jpg",
+        "id": 49009,
+        "name": "The Goldbergs",
+        "original_name": "The Goldbergs",
+        "overview": "Anne babalığa dair bloglardan önce, 80’ler diye bildiğimiz daha kolay bir zaman vardı. 11 yaşındaki Adam (Sean Giambrone) için bunlar onun merak yıllarıydı. O bu yıllarını videoya kaydetmişti. Goldberg’ler diğer aileler gibi sevimli bir ailedir, tek farkları biraz daha yüksek sesli bağırışları olur. Anne Beverly (Wendi McClendon-Covey) klasik bir annedir; fazla koruyucu yapısıyla bu aileyi sıfır sınırlarla ve yüzde yüz otoriteyle yönetir. Baba Murray (Jeff Garlin) aksi ve sinirli bir babadır ama babalığı bağırmadan yapmaya çalışır. Abla Erica (Hayley Orrantia) 17 yaşındadır ve kimsenin bulaşmaması gereken bir yapısı vardır. Barry (Troy Gentile) 16 yaşındadır ve hep A alan bir çocuktur. Adam (Sam Giambrone) en küçükleridir ve kendisinden daha büyük bir kadına aşık geleceğin yönetmenidir. Tüm ailenin saygı duyduğu kişi ise büyük baba Al “Pops” Solomon’dur (George Segal).",
+        "poster_path": "/pZyaKyry0V1muunoTt6pZ6cLduR.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          35
+        ],
+        "popularity": 190.972,
+        "first_air_date": "2013-09-24",
+        "vote_average": 7.5,
+        "vote_count": 336,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5U7NIuRK836GutAlo7TLPfmVtGW.jpg",
+        "id": 141,
+        "name": "Cheers",
+        "original_name": "Cheers",
+        "overview": "The story about a blue-collar Boston bar run by former sports star Sam Malone and the quirky and wonderful people who worked and drank there.",
+        "poster_path": "/tO5TZBXfZddzepY6CaZIN519vHD.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 142.598,
+        "first_air_date": "1982-09-30",
+        "vote_average": 7.554,
+        "vote_count": 595,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/fhmpYAxnF17CRWRcAWSeDRPWJi5.jpg",
+        "id": 15819,
+        "name": "Warehouse 13",
+        "original_name": "Warehouse 13",
+        "overview": "Warehouse 13, SyFy televizyonunda 2009 yılında yayınlanmaya başlanmış bir bilimkurgu, drama dizisidir.\n\nWarehouse 13 dizisi, iki gizli servis ajanının Amerika Birleşik Devletleri Başkanı'nı terörist bir saldırıdan kurtardıktan sonra Warehouse 13 (Depo 13) adlı gizli bir departmana transfer edilmeleriyle başlıyor. Güney Dakota'nın ıssız ve gizli bir bölgesinde bulunan bu depoda, devlet tarafından ele geçirilen bir takım garip ve gizemli nesneler incelenmektedir. Bu iki ajanın görevide devlet tarafından istenen bu esrarengiz nesneleri depoya getirmek ve gizemini çözmektir.\n\nAjanlardan Pete, kural tanımaz ve meraklı bir yapıya sahipken ortağı Myka, Pete'in tam aksine kuralcı ve dikkatlidir. Bu iki zıt karakter, bir şekilde birbirlerini tamamlayarak görevlerini sürdürüyorlar.",
+        "poster_path": "/vK6KMBDUzZdwQcxPkfPO1iUSN0r.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          35,
+          10759,
+          18
+        ],
+        "popularity": 172.169,
+        "first_air_date": "2009-07-07",
+        "vote_average": 7.653,
+        "vote_count": 678,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

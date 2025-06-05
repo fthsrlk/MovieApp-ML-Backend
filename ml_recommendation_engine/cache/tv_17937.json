@@ -1,0 +1,893 @@
+{
+  "adult": false,
+  "backdrop_path": "/u64huzTnF3jEYUXJ4BDlpHy2L3K.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2008-10-17",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Gerçeklik"
+    }
+  ],
+  "homepage": "https://www.discovery.com/shows/ghost-adventures",
+  "id": 17937,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-04-30",
+  "last_episode_to_air": {
+    "id": 6139857,
+    "name": "4. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-05-07",
+    "episode_number": 4,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 26,
+    "show_id": 17937,
+    "still_path": null
+  },
+  "name": "Ghost Adventures",
+  "next_episode_to_air": {
+    "id": 6139859,
+    "name": "5. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-05-14",
+    "episode_number": 5,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 26,
+    "show_id": 17937,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 64,
+      "logo_path": "/tmttRFo2OiXQD0EHMxxlw8EzUuZ.png",
+      "name": "Discovery",
+      "origin_country": "US"
+    },
+    {
+      "id": 209,
+      "logo_path": "/8SwN81R7P5vD5mhtOE0taw5mji4.png",
+      "name": "Travel Channel",
+      "origin_country": "US"
+    },
+    {
+      "id": 4353,
+      "logo_path": "/1D1bS3Dyw4ScYnFWTlBOvJXC3nb.png",
+      "name": "discovery+",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 311,
+  "number_of_seasons": 26,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Ghost Adventures",
+  "overview": "",
+  "popularity": 87.5134,
+  "poster_path": "/xLJZuDxdeUqRFHFlqs0mIk9faMR.jpg",
+  "production_companies": [
+    {
+      "id": 119786,
+      "logo_path": "/617z13TctFxkOmajNAdDAP1h7cY.png",
+      "name": "MY Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2009-10-30",
+      "episode_count": 22,
+      "id": 28669,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/5TikYNJNWp2OG7aeozx69hLfqnP.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2008-10-17",
+      "episode_count": 8,
+      "id": 28666,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/6DnF7p2FQDrB7VtkC9O1gL2y1ox.jpg",
+      "season_number": 1,
+      "vote_average": 9.8
+    },
+    {
+      "air_date": "2009-06-05",
+      "episode_count": 8,
+      "id": 28665,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/dK1FeJDHgtjUqj24yE3jOSMAeP7.jpg",
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2009-11-06",
+      "episode_count": 9,
+      "id": 28667,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/nujNDAPWMRGTIiO5JF6JNzoxbMa.jpg",
+      "season_number": 3,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2010-09-17",
+      "episode_count": 26,
+      "id": 28668,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/9925RSdgmu30ytkWlpUS0X6fuaB.jpg",
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-09-23",
+      "episode_count": 10,
+      "id": 28670,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/hzIE6Ap18csfHhgN7SRwKkNLbjZ.jpg",
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2012-03-09",
+      "episode_count": 9,
+      "id": 28671,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/mBLwOtBhKAMBVmCRdg0sBLZE3FX.jpg",
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2012-09-14",
+      "episode_count": 30,
+      "id": 28672,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/vYbdqW65lT75zCoQ0hENDCJlCcZ.jpg",
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2013-08-16",
+      "episode_count": 11,
+      "id": 28673,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/4GjhnHGmu3xGXALzXu4U7smHRiu.jpg",
+      "season_number": 8,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2014-02-15",
+      "episode_count": 13,
+      "id": 60580,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/7i8tpBMILqIktmiddmCYlHxyJRS.jpg",
+      "season_number": 9,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2014-10-04",
+      "episode_count": 11,
+      "id": 64462,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/aKcJF7xDPef34vOoSXMNCJSr73p.jpg",
+      "season_number": 10,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2015-08-22",
+      "episode_count": 12,
+      "id": 69573,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/lne3gnpyPv5p8qPjsnaYRRiLkEC.jpg",
+      "season_number": 11,
+      "vote_average": 9.3
+    },
+    {
+      "air_date": "2016-01-30",
+      "episode_count": 13,
+      "id": 74100,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/rJrSoXhZBiZpKqSRWIHRtTzTTDW.jpg",
+      "season_number": 12,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2016-09-24",
+      "episode_count": 13,
+      "id": 80456,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": "/i2SbgCQr2NCjygSCkaIuAxwcQoP.jpg",
+      "season_number": 13,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2017-03-24",
+      "episode_count": 11,
+      "id": 86618,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": "/2wdsMqQ9cx9jGOY3n50tRlJboip.jpg",
+      "season_number": 14,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2017-09-23",
+      "episode_count": 15,
+      "id": 93106,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": "/pKQV72CWkqrYM6EQluF0DyqsI5v.jpg",
+      "season_number": 15,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2018-06-16",
+      "episode_count": 10,
+      "id": 101707,
+      "name": "Sezon 16",
+      "overview": "",
+      "poster_path": "/nGWHNC8QNwLHylAycXB3LnCVk8f.jpg",
+      "season_number": 16,
+      "vote_average": 9.0
+    },
+    {
+      "air_date": "2018-10-31",
+      "episode_count": 10,
+      "id": 110413,
+      "name": "Sezon 17",
+      "overview": "",
+      "poster_path": "/etebsMRDYvkejTjPKrZ2A8uKToF.jpg",
+      "season_number": 17,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2019-02-23",
+      "episode_count": 13,
+      "id": 119353,
+      "name": "Sezon 18",
+      "overview": "",
+      "poster_path": "/nD7ZA4nOHWfWvKTfpJeTbmfo8Co.jpg",
+      "season_number": 18,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2019-10-31",
+      "episode_count": 4,
+      "id": 141866,
+      "name": "Sezon 19",
+      "overview": "",
+      "poster_path": "/ghAs2lSF6UCbVYEcHx27BiYmdy.jpg",
+      "season_number": 19,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2020-02-27",
+      "episode_count": 12,
+      "id": 145472,
+      "name": "Sezon 20",
+      "overview": "",
+      "poster_path": "/d4nRddppzWqtWdJj18Uq6OmqGdj.jpg",
+      "season_number": 20,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2020-11-05",
+      "episode_count": 11,
+      "id": 174661,
+      "name": "Sezon 21",
+      "overview": "",
+      "poster_path": "/4hewcyfdXxcdsVv5o72es3SJU9C.jpg",
+      "season_number": 21,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2021-07-22",
+      "episode_count": 24,
+      "id": 204171,
+      "name": "Sezon 22",
+      "overview": "",
+      "poster_path": "/mpnhLMaj4vLK8VybHZipXBws77E.jpg",
+      "season_number": 22,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2023-06-07",
+      "episode_count": 11,
+      "id": 341075,
+      "name": "Sezon 23",
+      "overview": "",
+      "poster_path": "/cxv4FHAle7HoFXGnWHNqwBobaB1.jpg",
+      "season_number": 23,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "2023-10-11",
+      "episode_count": 5,
+      "id": 369336,
+      "name": "Sezon 24",
+      "overview": "",
+      "poster_path": "/y0VEHm5cbzRYXj74bfuRTJKr0jg.jpg",
+      "season_number": 24,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2024-05-14",
+      "episode_count": 5,
+      "id": 395230,
+      "name": "Sezon 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2025-04-16",
+      "episode_count": 7,
+      "id": 446988,
+      "name": "Sezon 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 7.7,
+  "vote_count": 196,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 104776,
+        "known_for_department": "Acting",
+        "name": "Zak Bagans",
+        "original_name": "Zak Bagans",
+        "popularity": 0.937,
+        "profile_path": "/gaD9Enay58eP8AAR6vQ5c0PxHSW.jpg",
+        "character": "Self",
+        "credit_id": "555b7d1fc3a3682f61005b2b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 104778,
+        "known_for_department": "Acting",
+        "name": "Aaron Goodwin",
+        "original_name": "Aaron Goodwin",
+        "popularity": 0.5621,
+        "profile_path": "/cgwEUMkERvg4joLr5dKarpce5DJ.jpg",
+        "character": "Self",
+        "credit_id": "555b7d35c3a3681024002d3e",
+        "order": 1
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "investigation",
+        "id": 5340
+      },
+      {
+        "name": "paranormal",
+        "id": 9853
+      },
+      {
+        "name": "paranormal phenomena",
+        "id": 11627
+      },
+      {
+        "name": "las vegas",
+        "id": 14570
+      },
+      {
+        "name": "paranormal investigation",
+        "id": 15043
+      },
+      {
+        "name": "reenactment",
+        "id": 155876
+      },
+      {
+        "name": "ghost story",
+        "id": 156580
+      },
+      {
+        "name": "ghost",
+        "id": 162846
+      },
+      {
+        "name": "paranormal activity",
+        "id": 172808
+      },
+      {
+        "name": "spirit box",
+        "id": 312264
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/vw6qDWNIL1d48WeBQ2d98tN2gPx.jpg",
+        "id": 63635,
+        "name": "Ghost Adventures: Aftershocks",
+        "original_name": "Ghost Adventures: Aftershocks",
+        "overview": "Zak helps a young filmmaker, and survivor of a brutal attack, who has become obsessed with spirits that allegedly haunt a hotel in Seguin, Texas. And later, he gathers compelling evidence of a possession at Birmingham's Sloss Furnaces",
+        "poster_path": "/p1z6WyKpgQpz7kd56MrsoFB4ZSl.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 3.2418,
+        "first_air_date": "2014-04-26",
+        "vote_average": 7.8,
+        "vote_count": 29,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/jRFfm76e0QBFJ4s606os4n4vKn7.jpg",
+        "id": 60918,
+        "name": "My Haunted House",
+        "original_name": "My Haunted House",
+        "overview": "The shocking eyewitness accounts of terrified people whose dream homes have become nightmares are brought to life in vivid, blood-curdling style on \"My Haunted House\".  Told via gripping first person interviews and strikingly crafted re-enactments, each episode of this nerve-wracking new series tells two, compelling horror stories of people literally living in terror.",
+        "poster_path": "/8xBCjXwsOqmOWAOVkvwr5Kqqp6P.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          99
+        ],
+        "popularity": 7.5376,
+        "first_air_date": "2013-05-04",
+        "vote_average": 6.7,
+        "vote_count": 9,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4RuPZJzrAuWJe7nI3F1Bcljuy8G.jpg",
+        "id": 97121,
+        "name": "Ghost Adventures: Screaming Room",
+        "original_name": "Ghost Adventures: Screaming Room",
+        "overview": "Paranormal investigators Zak Bagans, Aaron Goodwin, Jay Wasley and Billy Tolley are opening up to viewers as they’ve never done before. The guys are kicking back in their screening room to watch their favorite episodes of the hit series \"Ghost Adventures\" and get candid with fans – and each other – about their craziest experiences over the past decade. Away from the haunted locations we usually see them in, with no equipment or investigations, it’s just the team, some munchies and never-before-heard stories from the moments that created a legacy. Get ready for laughs, screams and surprises alongside the crew in the ultimate tell-all event.",
+        "poster_path": "/moYtOsylVicJMMQJZnWuhrhA5yd.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 13.4427,
+        "first_air_date": "2020-01-01",
+        "vote_average": 7.4,
+        "vote_count": 16,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/chfzeUlDStYiaLufGLM6ttIBJ2p.jpg",
+        "id": 65815,
+        "name": "Paranormal Lockdown",
+        "original_name": "Paranormal Lockdown",
+        "overview": "Nick Groff, a paranormal investigator who's \"on a mission to discover something new in the paranormal field\", and his paranormal researcher Katrina Weidman spend 72 hours together locked down in the most haunted locations in their quest to learn more about the unknown. They stay with the dead at these reportedly haunted places, many of which have never been filmed for a production and some will be investigated for the first time on television. Groff and Weidman believe, that \"the longer they stay, the more the spirits will communicate with them and the more information they can gather about the unknown\".",
+        "poster_path": "/oOq6uNptoBSbv3vGMBCs3OiGJkw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764,
+          99
+        ],
+        "popularity": 5.2172,
+        "first_air_date": "2016-03-04",
+        "vote_average": 7.8,
+        "vote_count": 34,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/6oPp1dJftr7JO7grTPTApHKyp4h.jpg",
+        "id": 14058,
+        "name": "Ghost Hunters International",
+        "original_name": "Ghost Hunters International",
+        "overview": "Ghost Hunters International was a spin-off series of Ghost Hunters that aired on Syfy. The series premiered on January 9, 2008. Like its parent series, GHI was a reality series that followed a team of paranormal investigators; whereas, the original series primarily covers only locations within the United States, the GHI team traveled around the world and documented some of the world's most legendary haunted locations.",
+        "poster_path": "/1WAjct2Nqc6hB5maRaAwXUwjQHP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 13.8544,
+        "first_air_date": "2008-01-09",
+        "vote_average": 8.4,
+        "vote_count": 28,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/L9jhdUquJYSbv0lB0iuBxo5Nid.jpg",
+        "id": 65843,
+        "name": "Deadly Possessions",
+        "original_name": "Deadly Possessions",
+        "overview": "Zak Bagans is fulfilling a lifelong dream of opening a museum in downtown Las Vegas, full of the haunted, cursed objects he has been collecting through the years. Each episode features haunted, iconic items and their owners. They share stories of how these objects have terrorized them and, in some cases, even killed people. Bagans interviews the owners and works with them to get to the root of their “attachment,” so they can free themselves…or at least escape harm from these “deadly possessions.”",
+        "poster_path": "/nyeC0RH8SAS8XUu8VzyyL9PJXET.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 1.0616,
+        "first_air_date": "2016-04-02",
+        "vote_average": 5.8,
+        "vote_count": 13,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 30920,
+        "name": "Russell Howard's Good News",
+        "original_name": "Russell Howard's Good News",
+        "overview": "Russell Howard offers his unique perspective on the big stories dominating all of our news outlets, from online and print to broadcast, as well as picking up on those sometimes overlooked things. He uses clips, sketches and studio guests to look at things that have made him smile during the week.\n\n",
+        "poster_path": "/huVLgbyr2JcAHBzWLcNL7K99Qn8.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10763
+        ],
+        "popularity": 20.6131,
+        "first_air_date": "2009-10-22",
+        "vote_average": 7.0,
+        "vote_count": 34,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/3GBkukPGWm8oC5kMUetR9UrEalL.jpg",
+        "id": 32722,
+        "name": "Angry Boys",
+        "original_name": "Angry Boys",
+        "overview": "Angry Boys is an Australian television mockumentary series written by and starring Chris Lilley. Continuing the mockumentary style of his previous series, the show explores the issues faced by young males in the 21st century – their influences, their pressures, their dreams and ambitions. In Angry Boys, Lilley plays multiple characters: S.mouse, an American rapper; Jen, a manipulative Japanese mother; Blake Oakfield, a champion surfer; Ruth \"Gran\" Sims, a guard at a juvenile detention facility; and her grandchildren, South Australian twins Daniel and Nathan Sims.\n\nThe series is a co-production between the Australian Broadcasting Corporation and US cable channel HBO, with a pre-sale to BBC Three in the United Kingdom. Filmed in Melbourne, Los Angeles and Tokyo, Angry Boys premièred on 11 May 2011 at 9:00 pm on ABC1.",
+        "poster_path": "/kviE2G5B4X5SfuQOITDkKhyYepH.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 2.4444,
+        "first_air_date": "2011-05-11",
+        "vote_average": 7.0,
+        "vote_count": 31,
+        "origin_country": [
+          "AU"
+        ]
+      },
+      {
+        "backdrop_path": "/eIfhuQ4Lmqx2bbmcsda7cLCfX6F.jpg",
+        "id": 219828,
+        "name": "Ghost Adventures: Where Are They Now?",
+        "original_name": "Ghost Adventures: Where Are They Now?",
+        "overview": "Zak revisits some of Ghost Adventures' most chilling paranormal investigations. He follows up with the real people featured on fan-favorite episodes to find out what happened after the crew left.",
+        "poster_path": "/cJ4og2jQs78kgXpeC9f3S98VNUZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764,
+          99
+        ],
+        "popularity": 2.0461,
+        "first_air_date": "2019-09-30",
+        "vote_average": 10.0,
+        "vote_count": 3,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lJOTsVaD0SLONYXYMH61m2AQTB8.jpg",
+        "id": 46490,
+        "name": "Chris Rock: Bigger and Blacker",
+        "original_name": "Chris Rock: Bigger and Blacker",
+        "overview": "Chris Rock brings his critically acclaimed brand of social commentary-themed humor to this 1999 standup comedy presentation from HBO. Also released as an album, Chris Rock: Bigger & Blacker features Rock on-stage extolling his razor-sharp wit and wisdom on such topics as gun control, President Clinton, homophobia, racism, black leaders, and relationships. ",
+        "poster_path": null,
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 0.2271,
+        "first_air_date": "",
+        "vote_average": 7.9,
+        "vote_count": 7,
+        "origin_country": []
+      },
+      {
+        "backdrop_path": "/oHSM4b6qRwNinHB2h8dbu5gHHv2.jpg",
+        "id": 88691,
+        "name": "Ghost Bait",
+        "original_name": "Ghost Bait",
+        "overview": "A paranormal pioneer and empathic investigator help victims of the most severe hauntings in America reclaim their sense of peace and control.",
+        "poster_path": "/pzJSEVJ1PYw8rwZpjKJpNdQwlI9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 1.195,
+        "first_air_date": "2019-04-04",
+        "vote_average": 8.0,
+        "vote_count": 2,
+        "origin_country": []
+      },
+      {
+        "backdrop_path": "/aNYE3GKV0MsmlQtwzZI7bEq55Xq.jpg",
+        "id": 13999,
+        "name": "The X Factor",
+        "original_name": "The X Factor",
+        "overview": "The X Factor is a British television music competition to find new singing talent, contested by aspiring singers drawn from public auditions.",
+        "poster_path": "/8vBwAUaiFEcQQHx2vgj5cG6OB6b.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 69.3459,
+        "first_air_date": "2004-09-04",
+        "vote_average": 5.049,
+        "vote_count": 91,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/bUGTUoS4UIiznZvannNgLczSIvF.jpg",
+        "id": 95705,
+        "name": "Deadly Tropics",
+        "original_name": "Tropiques criminels",
+        "overview": "On the Caribbean island of Martinique, in the middle of the tropics, several mysterious murders occur. Now it is up to the two investigators Mélissa Sainte-Rose and Gaëlle Crivelli to solve the case - even if the two women have very different views of law.",
+        "poster_path": "/s3OCHZagbD9srLgpb0Do5qMIQc3.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 10.0025,
+        "first_air_date": "2019-11-22",
+        "vote_average": 6.9,
+        "vote_count": 24,
+        "origin_country": [
+          "FR"
+        ]
+      },
+      {
+        "backdrop_path": "/wz8CsRmtPgbD9h95DDaaOWj0CVW.jpg",
+        "id": 443,
+        "name": "Hayalet Avcıları",
+        "original_name": "Ghost Hunters",
+        "overview": "Dünyayı gerçek paranormal soruşturma alanıyla tanıştırdıktan on beş yıl sonra, \"Hayalet Avcıları\" televizyona geri döndü. 11 sezon boyunca hayranları dehşete düşüren ve büyüleyen dizi, orijinal takım liderlerinden biri olan Grant Wilson ve onun özenle seçilmiş profesyonel hayalet avcıları grubunu, ülke çapındaki musallat vakalarını araştırmak için onlarca yıllık saha deneyimlerini kullanırken izleyecek. Adli tıp uzmanlarını, tarihi kayıtları ve mevcut en modern teknolojiyi bir araya getiren ekip, açıklanamayan doğaüstü olaylarla mücadele eden sıradan insanlara yardımcı olacak. Ekip, paranormal aktivitelerden rahatsız olanların gönlüne su serpmek için gerçeği keşfetmeye kararlılar ve ortaya çıkardıkları kanıtları işin sonu nereye varırsa varsın takip edecekler.",
+        "poster_path": "/yTJAKibxeynINA61p00oBsfc2mq.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10764
+        ],
+        "popularity": 23.9503,
+        "first_air_date": "2004-10-06",
+        "vote_average": 6.2,
+        "vote_count": 72,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lcZCw8D6PqiVtsIMbApl7aiACU0.jpg",
+        "id": 32025,
+        "name": "American Pickers",
+        "original_name": "American Pickers",
+        "overview": "Pickers like Mike Wolfe and Frank Fritz are on a mission to recycle America, even if it means diving into countless piles of grimy junk or getting chased off a gun-wielding homeowner’s land. Hitting back roads from coast to coast, the two men earn a living by restoring forgotten relics to their former glory, transforming one person’s trash into another’s treasure.",
+        "poster_path": "/obWweSxU8XrAtCqteHLasV8ktmD.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 13.3156,
+        "first_air_date": "2010-01-18",
+        "vote_average": 6.9,
+        "vote_count": 100,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/blal5XDKs2nKU8zcWNZrYnb4XkO.jpg",
+        "id": 35370,
+        "name": "Face Off",
+        "original_name": "Face Off",
+        "overview": "In this competition/elimination series, special effects make-up artists participate in elaborate challenges for a grand prize and the honor of being Hollywood's next great effects artist.",
+        "poster_path": "/rlEzwvdlBJ0PvUVr4nzZbau9yKX.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 14.1471,
+        "first_air_date": "2011-01-26",
+        "vote_average": 7.062,
+        "vote_count": 81,
+        "origin_country": [
+          "US",
+          "FR"
+        ]
+      },
+      {
+        "backdrop_path": "/wVuVvxpp1ljzlhBrFW22xktyaFL.jpg",
+        "id": 34971,
+        "name": "Depo Savaşları",
+        "original_name": "Storage Wars",
+        "overview": "When rent is not paid on a storage locker for three months in California, the contents can be sold by an auctioneer as a single lot of items in the form of a cash-only auction. The show follows professional buyers who purchase the contents based only on a five-minute inspection of what they can see from the door when it is open. The goal is to turn a profit on the merchandise.",
+        "poster_path": "/aI4HWTpEnps1lDyxy5vScazpxDy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 55.2044,
+        "first_air_date": "2010-12-01",
+        "vote_average": 5.674,
+        "vote_count": 118,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/8HXpiwtxO9BerJE24RvqT4RqCkX.jpg",
+        "id": 40971,
+        "name": "The Dead Files",
+        "original_name": "The Dead Files",
+        "overview": "Psychic medium Amy Allan and former NYPD homicide detective Steve DiSchiavi investigate locations that are reported to be haunted.",
+        "poster_path": "/44LifGcFC0n1vsuyU0rcNWc8Gx8.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          10764
+        ],
+        "popularity": 32.3274,
+        "first_air_date": "2011-09-23",
+        "vote_average": 6.8,
+        "vote_count": 61,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1t5y4iwBZ9vDA18L0aJTGvd0R7h.jpg",
+        "id": 67831,
+        "name": "People of Earth",
+        "original_name": "People of Earth",
+        "overview": "Dizi, uzaylılar tarafından kaçırılan insanlar hakkında hikayeler yazan fakat olaylara şüpheci yaklaşan gazeteci Ozzie Graham'ı (Wyatt Cenac) merkezine almaktadır. Kendisi de uzaylılar tarafından kaçırılınca eskiden yabancısı olduğu bu eklektik sistemin bir parçası olur.",
+        "poster_path": "/8xZoGQAwj0Qq1PVZBdd35gJWxij.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 5.4898,
+        "first_air_date": "2016-10-17",
+        "vote_average": 6.989,
+        "vote_count": 90,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vh5IfyhVPnsXCQ5wA19pPzQNtYC.jpg",
+        "id": 65766,
+        "name": "Lab Rats: Elite Force",
+        "original_name": "Lab Rats: Elite Force",
+        "overview": "In a bustling metropolis after the Mighty Med hospital is destroyed by a band of unknown super-villains, Adam and Leo volunteer to oversee the students at Davenport's Bionic Academy. Kaz, Oliver and Skylar join forces with Chase and Bree to form a powerful elite force that combines bionic heroes and superheroes. Together, they vow to track down the villains and keep the world safe.",
+        "poster_path": "/g5zm08nb0SRS7Pra4iImrQiROzk.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10762,
+          10765
+        ],
+        "popularity": 5.9451,
+        "first_air_date": "2016-03-02",
+        "vote_average": 7.9,
+        "vote_count": 85,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

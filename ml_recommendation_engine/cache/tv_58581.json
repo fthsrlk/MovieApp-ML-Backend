@@ -1,0 +1,838 @@
+{
+  "adult": false,
+  "backdrop_path": "/fyPE888ASexXOTEXTzKvM0mWyRE.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2010-03-08",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Belgesel"
+    }
+  ],
+  "homepage": "http://www.bbc.co.uk/programmes/b00xgqvf",
+  "id": 58581,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-03-06",
+  "last_episode_to_air": {
+    "id": 5994284,
+    "name": "19. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-06",
+    "episode_number": 19,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 30,
+    "show_id": 58581,
+    "still_path": "/ets8dljcEcoci03T8CbK8rBtGu3.jpg"
+  },
+  "name": "Antiques Road Trip",
+  "next_episode_to_air": {
+    "id": 5994285,
+    "name": "20. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-07",
+    "episode_number": 20,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 30,
+    "show_id": 58581,
+    "still_path": "/3bFZGdUqg6qitOkvE4KOtRbdemC.jpg"
+  },
+  "networks": [
+    {
+      "id": 332,
+      "logo_path": "/7HVPn1p2w1nC5oRKBehXVHpss7e.png",
+      "name": "BBC Two",
+      "origin_country": "GB"
+    },
+    {
+      "id": 4,
+      "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+      "name": "BBC One",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 550,
+  "number_of_seasons": 22,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Antiques Road Trip",
+  "overview": "",
+  "popularity": 1596.004,
+  "poster_path": "/wBMFyk3SwOkBwoByEaGKeSvY5Ns.jpg",
+  "production_companies": [
+    {
+      "id": 75600,
+      "logo_path": "/qvDku9orSiMgA1vIragz227hul8.png",
+      "name": "STV Studios",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2010-03-08",
+      "episode_count": 20,
+      "id": 64541,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-01-03",
+      "episode_count": 30,
+      "id": 64542,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-09-12",
+      "episode_count": 30,
+      "id": 64543,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2012-02-13",
+      "episode_count": 30,
+      "id": 64544,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2012-10-01",
+      "episode_count": 30,
+      "id": 64545,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2013-01-07",
+      "episode_count": 30,
+      "id": 64546,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2013-11-04",
+      "episode_count": 30,
+      "id": 64547,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2014-02-24",
+      "episode_count": 30,
+      "id": 64548,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2014-09-22",
+      "episode_count": 20,
+      "id": 64549,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2015-01-05",
+      "episode_count": 20,
+      "id": 64550,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/hyjIJ1AcEL8x3M2nEpHRU17ZJQL.jpg",
+      "season_number": 10,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2015-09-07",
+      "episode_count": 25,
+      "id": 329470,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2016-01-04",
+      "episode_count": 25,
+      "id": 329941,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2020-11-09",
+      "episode_count": 25,
+      "id": 329861,
+      "name": "Sezon 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2021-05-10",
+      "episode_count": 25,
+      "id": 329580,
+      "name": "Sezon 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2021-09-06",
+      "episode_count": 25,
+      "id": 329539,
+      "name": "Sezon 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2022-01-03",
+      "episode_count": 25,
+      "id": 329480,
+      "name": "Sezon 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2022-09-12",
+      "episode_count": 25,
+      "id": 329464,
+      "name": "Sezon 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2023-02-13",
+      "episode_count": 20,
+      "id": 329461,
+      "name": "Sezon 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2023-11-13",
+      "episode_count": 25,
+      "id": 365809,
+      "name": "Sezon 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2024-08-19",
+      "episode_count": 20,
+      "id": 405600,
+      "name": "Sezon 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2024-11-04",
+      "episode_count": 20,
+      "id": 424883,
+      "name": "Sezon 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2025-02-10",
+      "episode_count": 20,
+      "id": 442280,
+      "name": "Sezon 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 5.0,
+  "vote_count": 8,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1222800,
+        "known_for_department": "Acting",
+        "name": "Tim Wonnacott",
+        "original_name": "Tim Wonnacott",
+        "popularity": 0.244,
+        "profile_path": null,
+        "character": "",
+        "credit_id": "6230707a23a3140076807994",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5033550,
+        "known_for_department": "Directing",
+        "name": "Ian Hendry",
+        "original_name": "Ian Hendry",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "67ade850d0fd64d9f2d0caf4",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1576406,
+        "known_for_department": "Production",
+        "name": "Rosy Marshall-McCrae",
+        "original_name": "Rosy Marshall-McCrae",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "671915c8427c5c19f025a6b1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5017516,
+        "known_for_department": "Production",
+        "name": "Ami Anderson",
+        "original_name": "Ami Anderson",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "671915d3427c5c19f025a6bc",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": []
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/9QFjutkUGHXgj1Umvw3n87uFEln.jpg",
+        "id": 39077,
+        "name": "Blackstone",
+        "original_name": "Blackstone",
+        "overview": "The lives of Indians on the Blackstone Indian reserve, told from an Aboriginal point of view.",
+        "poster_path": "/qjjsSbZFEgwdme5g1WZNDv5Xl2V.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 19.906,
+        "first_air_date": "2011-01-25",
+        "vote_average": 7.0,
+        "vote_count": 1,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/1t5y4iwBZ9vDA18L0aJTGvd0R7h.jpg",
+        "id": 67831,
+        "name": "People of Earth",
+        "original_name": "People of Earth",
+        "overview": "Dizi, uzaylılar tarafından kaçırılan insanlar hakkında hikayeler yazan fakat olaylara şüpheci yaklaşan gazeteci Ozzie Graham'ı (Wyatt Cenac) merkezine almaktadır. Kendisi de uzaylılar tarafından kaçırılınca eskiden yabancısı olduğu bu eklektik sistemin bir parçası olur.",
+        "poster_path": "/8xZoGQAwj0Qq1PVZBdd35gJWxij.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 28.063,
+        "first_air_date": "2016-10-17",
+        "vote_average": 7.0,
+        "vote_count": 88,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/8L98xr6jp8wkYe8bBWxKpaIFCzp.jpg",
+        "id": 5885,
+        "name": "The Colour of Magic",
+        "original_name": "The Colour of Magic",
+        "overview": "As Rincewind involuntarily becomes a guide to the naive tourist Twoflower, they find themselves forced to flee the city of Ankh-Morpork to escape a terrible fire, and begin on a journey across the Disc. Unknown to them, their journey and fate is being decided by the Gods playing a board game the whole time.",
+        "poster_path": "/bsjAjZChPTvZs9oTcuER41RChRe.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10765,
+          35,
+          18
+        ],
+        "popularity": 32.693,
+        "first_air_date": "2008-03-23",
+        "vote_average": 6.7,
+        "vote_count": 166,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
+        "id": 57243,
+        "name": "Doctor Who",
+        "original_name": "Doctor Who",
+        "overview": "Bu Doktor bambaşka bir doktor. Adı, karakteri, tavırları her şeyiyle bir muamma. Rose Tyler adında bir kadın, kendisini Doktor diye adlandıran gizemli bir yabancıyla tanışır ve bundan sonra hayatı baştan sona değişir. Kısa süre içerisinde ailesi de dahil bütün dünyanın tehlike altında olduğunu öğrenir. Yapması gereken ise kurtuluş yolunu bulmaktır.",
+        "poster_path": "/4edFyasCrkH4MKs6H4mHqlrxA6b.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10765
+        ],
+        "popularity": 445.678,
+        "first_air_date": "2005-03-26",
+        "vote_average": 7.537,
+        "vote_count": 3076,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/y5Fd3V1fJ6AksyKG90IbKTlIj30.jpg",
+        "id": 74170,
+        "name": "Atomic Train",
+        "original_name": "Atomic Train",
+        "overview": "A train carrying a Russian atomic weapon is on a runaway course with disaster - and time's running out! Only John Seger, a renegade investigator for the NTSB, can stop the speeding locomotive.",
+        "poster_path": "/u7lAf5faocOuXt487xckx7LZNjE.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759
+        ],
+        "popularity": 9.442,
+        "first_air_date": "1999-05-16",
+        "vote_average": 4.8,
+        "vote_count": 44,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2bfdpmknShJgvczyJO76sNARQJF.jpg",
+        "id": 76692,
+        "name": "Catherine the Great",
+        "original_name": "Catherine the Great",
+        "overview": "This four-part historical drama follows the end of Catherine the Great's reign and her affair with Russian military leader Grigory Potemkin that helped shape the future of Russian politics.",
+        "poster_path": "/s50flEj06i7HmZx0lVMTHD4p6MF.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10768
+        ],
+        "popularity": 28.254,
+        "first_air_date": "2019-10-03",
+        "vote_average": 6.8,
+        "vote_count": 158,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/nxqRVJ3QP76CZBaunWl42hQVK0.jpg",
+        "id": 1803,
+        "name": "The Facts of Life",
+        "original_name": "The Facts of Life",
+        "overview": "Mrs. Edna Garrett, housemother and dietitian at the Eastland School, teaches a group of girls in her charge how to solve those problems that every teenager has to face.",
+        "poster_path": "/45i9VujUbQITmHl3QE3eNs9ZUv3.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 127.687,
+        "first_air_date": "1979-08-24",
+        "vote_average": 7.011,
+        "vote_count": 94,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/iMFsQ7yyToYg7SkS9Ml0by9UJ0X.jpg",
+        "id": 2025,
+        "name": "Beverly Hills, 90210",
+        "original_name": "Beverly Hills, 90210",
+        "overview": "Follow the lives of a group of teenagers living in the upscale, star-studded community of Beverly Hills, California and attending the fictitious West Beverly Hills High School and, subsequently, the fictitious California University after graduation.",
+        "poster_path": "/b7BYfkhu653D894krwGO1ysIKTf.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 219.554,
+        "first_air_date": "1990-10-04",
+        "vote_average": 7.4,
+        "vote_count": 737,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2Qy30HCQ4nJRBLAj6qfBBsk6FQh.jpg",
+        "id": 67265,
+        "name": "Chesapeake Shores",
+        "original_name": "Chesapeake Shores",
+        "overview": "A divorced mom deals with an old romance and complicated family issues when she returns to her hometown with her twin daughters.",
+        "poster_path": "/wAWnKnDwrhfUZZ3hKlwr23yBOwM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 66.596,
+        "first_air_date": "2016-08-14",
+        "vote_average": 7.8,
+        "vote_count": 135,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lOtqhEeng0lBjsYU2AJ1t6GssV3.jpg",
+        "id": 9693,
+        "name": "The Civil War",
+        "original_name": "The Civil War",
+        "overview": "A documentary on the American Civil War narrated by Ken Burns, covering the secession of the Confederacy to the assassination of Abraham Lincoln.",
+        "poster_path": "/qs6J3T0mfAlmoOOUt0B2d4zd6je.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          10768,
+          18
+        ],
+        "popularity": 47.453,
+        "first_air_date": "1990-09-23",
+        "vote_average": 8.1,
+        "vote_count": 106,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/6k6vAUa0Fm73HB0QBOJbFGTgPq5.jpg",
+        "id": 186,
+        "name": "Weeds",
+        "original_name": "Weeds",
+        "overview": "Weeds, New York’ta geçen bir kara komedi dizisi.Şehirli bir annenin nasıl esrar satıcısı haline dönüştüğünün çarpıcı ve komik hikayesi. Kocası Judah’ın ani bir kalp krizi sonucu ölmesinden sonra 10 yaşındaki oğlu Shane ile birlikte kocaman şehirde hayatta kalma mücadelesi verir.",
+        "poster_path": "/gKUsBTa5b0GY7U4iWBseeBalfjO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          80,
+          18
+        ],
+        "popularity": 123.116,
+        "first_air_date": "2005-08-07",
+        "vote_average": 7.475,
+        "vote_count": 888,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/esC8zNwCcP2e3HUPcVa7v94yj1U.jpg",
+        "id": 13943,
+        "name": "Beavis and Butt-Head",
+        "original_name": "Beavis and Butt-Head",
+        "overview": "Yıkık dökük, içinde sadece televizyon ve bir koltuk bulunan bir evde yaşayan Beavis ve Butt-head, başlarına buyruk bir yaşam sürer. Heavy metal ve Hard Rock müzik kültürünü hayatlarının merkezine koyan iki gence göre her şey ya süperdir ya da iğrenç. İkilinin hayatı üç temel şeyin etrafında döner; Okula gidip gelmek, kızlarla zaman geçirmek ve TV izlemek. Bolca TV izleyen gençlerin gerçek dünyada karşılaştıkları bir şey televizyondan öğrendiklerine uygun değilse o mutlaka berbattır.",
+        "poster_path": "/5hgVcFr4eWGGRpjYwxb03z7wuqg.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 310.931,
+        "first_air_date": "1993-03-08",
+        "vote_average": 7.084,
+        "vote_count": 400,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/bMwb6jZYemWvH8Td1qP0QYzwRZe.jpg",
+        "id": 79863,
+        "name": "Pretty Little Liars: The Perfectionists",
+        "original_name": "Pretty Little Liars: The Perfectionists",
+        "overview": "Beacon Heights'ın kusursuzluk takıntısının yarattığı stres, bir cinayete neden olur. Kısa süre sonra da her Mükemmeliyetçinin sakladığı bir sır, bir yalan ve sığınacağı bir mazereti olduğu anlaşılır.",
+        "poster_path": "/xIpqBtVpu9bUq05dT3VTRYPjBP7.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          80,
+          18
+        ],
+        "popularity": 46.826,
+        "first_air_date": "2019-03-20",
+        "vote_average": 7.803,
+        "vote_count": 489,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/8tko4lM3VE6Rpye7IbilDpdHsWh.jpg",
+        "id": 9156,
+        "name": "Frank Herbert's Children of Dune",
+        "original_name": "Frank Herbert's Children of Dune",
+        "overview": "İlk serinin devamında çekilen yeni bölümler, Frank Herbert'ın Dune serisindeki ikinci kitap olan Dune Mesihi ve üçüncü kitap olan Dune'un Çocukları'nda anlatılan hikayeyi konu alıyor. Mini dizinin ilk bölümünde Paul Atreides'in çöle giderek ortadan kayboluşu, ikinci ve üçüncü bölümlerde ise kız kardeşi Alia'nın, İmparatorluğu'n Naib'i olarak tahtta oturuşu konu ediliyor. Paul ile Chani'nin çocukları Leto ve Ganima, Fremenlerin koruması altında yaşamaktadırlar. İkizlerin farklı yaratılışları dizi boyunca kendini yavaş yavaş ortaya koyarken Alia'nın daveti üzerine Arrakis'e geri dönen Leydi Jessica, kızını değişmiş olarak bulacaktır...",
+        "poster_path": "/yCP8lKXBMtcG1CU9K3NsWlu1RgF.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 30.441,
+        "first_air_date": "2003-03-16",
+        "vote_average": 7.0,
+        "vote_count": 213,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/egSDCK4n50i4Rr6mpctXwbJsrf9.jpg",
+        "id": 35339,
+        "name": "Alcatraz",
+        "original_name": "Alcatraz",
+        "overview": "Suç temalı film ve diziler genellikle yoğun ilgi toplayan yapımlar arasında yer almaktadırlar. Başarılı ve ilginç bir senaryoya sahip olan bu dizilerin en dikkat çekenlerinden birisi olan Alcatraz, efsane hapishanede yaşanan onlarca yıllık bir gizemin aydınlanmasını sağlamakta. Alcatraz hapishanesi bir adada bulunan ve yüz senelik hayatı boyunca tek bir mahkûmun bile kaçış gerçekleştiremediği üst düzey bir cezaevidir. Fakat bir gece üç yüzden fazla mahkûm bir anda ortadan kaybolur ve nereye gittikleri asla bulunamaz. Hükümet bu durumu mahkûmların başka bir bölgeye nakledildiğini açıklayarak kapatsa da, seneler sonra 2011 yılında mahkûmlardan birisinin parmak izinin bir cinayet mahallinde bulunması, dava ile ilgilenen dedektifin dikkatini çeker. Bu olay karşısında şaşkına düşen dedektif, mahkûmların hayatını araştırırken bu konuda çalışmalar yapan insanlara danışmaktadır. İlk bakışta basit bir polisiye gibi gelse de, Alcatraz birkaç bölüm sonrasında izleyicilerini kendisine bağlayan ve bu esrarengiz hikâyenin devamını merak ettiren başarılı bir yapım olarak nitelendiriliyor. Benzer temaların işlendiği Prison Brake ve Oz gibi dizilerin izinden giden yapım, mahkûm psikolojisini tam anlamı ile inceleyerek bunu esrarengiz öğeler ile süslüyor. Dizinin bir sezon sürdükten sonra yayından kalkması her ne kadar izleyicilerini hayal kırıklığına uğratsa da, yayına devam edileceği hakkında bir bilgi bulunmamakta. Gerek oyuncu kadrosunun tecrübesi gerekse hikâyesinin orijinalliği ile tüm dünyada milyonlarca kişiyi ekrana bağlayan dizinin farklı oyuncular ile tekrar çekileceği konusunda bazı duyumlar alınmış durumda. \n\n Suçluluk duygusu, hapishane hayatı ve bilinmezliğin yoğun şekilde işlendiği dizi yediden yetmişe tüm izleyicileri adeta büyülüyor. Bu tarzda yapımlardan hoşlanan herkesin Alcatraz’ı bir an önce tecrübe ederek en azından hikâyenin belirli bir kısmını izlemesi tavsiye ediliyor.    ",
+        "poster_path": "/yES1yqjp6Jl2CEVKHdfwKrIsnqd.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          10759,
+          18
+        ],
+        "popularity": 37.057,
+        "first_air_date": "2012-01-16",
+        "vote_average": 6.337,
+        "vote_count": 276,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/xSejbnuKiyIfdvRjh48Qnrml8W1.jpg",
+        "id": 105804,
+        "name": "Candy",
+        "original_name": "Candy",
+        "overview": "Candy, Amerikan tarihinde önemli yere sahip olan Betty Gore'un ölümünün sorumlusu olan Candy Montgomery'nin hikayesini konu ediyor. Bir kilisenin üyeleri arasında bulunan Candy Montgomery, sevgi dolu bir ortamda kocasıyla birlikte yaşar. Banliyölerde hayatını sürdüren kadın, kiliseye gelen arkadaşı Betty Gore'u bir baltayla saldırarak öldürür. Bunun nedeni ise yıllardır akıllarda kalan bir soru işaretidir.",
+        "poster_path": "/8vlxmTkiF2rzpvrWoN4mOoeVg1z.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 17.612,
+        "first_air_date": "2022-05-09",
+        "vote_average": 7.2,
+        "vote_count": 188,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/yg6goCewFMVYQC9Vypz6YpwVOUf.jpg",
+        "id": 46910,
+        "name": "Catfish: The TV Show",
+        "original_name": "Catfish: The TV Show",
+        "overview": "Nev and his co-hosts -- from Max to Kamie to celebrity guests -- help people in dubious online relationships track down their baes IRL so they can sort out what's fact and what's fiction.",
+        "poster_path": "/gy6kqWfIWaVyjU7ifa3KkkTDSHd.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764,
+          18
+        ],
+        "popularity": 480.632,
+        "first_air_date": "2012-11-12",
+        "vote_average": 6.8,
+        "vote_count": 124,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ebE8OvTLBkgP5u64jOHHATvQyXK.jpg",
+        "id": 67157,
+        "name": "The Great Indoors",
+        "original_name": "The Great Indoors",
+        "overview": "An adventure reporter must adapt to the times when he becomes the boss to a group of millennials in the digital department of the magazine.",
+        "poster_path": "/ot4gdEwuXHf0wOOmKJW86Cd1b69.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 31.015,
+        "first_air_date": "2016-10-27",
+        "vote_average": 5.6,
+        "vote_count": 57,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/t6L5QIqmiHyH94yVbzofoQ7ZHF4.jpg",
+        "id": 18156,
+        "name": "Emma",
+        "original_name": "Emma",
+        "overview": "Nothing delights Emma more than meddling in the love lives of others. But when she takes protege Harriet Smith under her wing, her plans can only end in disaster...",
+        "poster_path": "/nwTYHGzc4wtf8uFWwXAaUQH94Jx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 21.038,
+        "first_air_date": "2009-10-04",
+        "vote_average": 7.7,
+        "vote_count": 135,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/baUdHUODpdBE6yhiGIl7bK2PNfL.jpg",
+        "id": 4551,
+        "name": "America's Got Talent",
+        "original_name": "America's Got Talent",
+        "overview": "A weekly talent competition where an array of performers – from singers and dancers, to comedians and novelty acts – vie for a $1 million cash prize.",
+        "poster_path": "/1YLiZqge79k4M0sIbiWi1ByNags.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 445.749,
+        "first_air_date": "2006-06-21",
+        "vote_average": 5.7,
+        "vote_count": 255,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

@@ -1,0 +1,675 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "1999-08-30",
+  "genres": [
+    {
+      "id": 10763,
+      "name": "Haber"
+    }
+  ],
+  "homepage": "",
+  "id": 64190,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2022-10-17",
+  "last_episode_to_air": {
+    "id": 5601600,
+    "name": "39. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2024-05-06",
+    "episode_number": 39,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 25,
+    "show_id": 64190,
+    "still_path": null
+  },
+  "name": "Volle Kanne",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 31,
+      "logo_path": "/2OHAgbf6QUj4cWjmFkFKu4jIsq1.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 4546,
+  "number_of_seasons": 25,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Volle Kanne",
+  "overview": "",
+  "popularity": 1541.555,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1999-08-30",
+      "episode_count": 198,
+      "id": 71473,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2001-01-02",
+      "episode_count": 214,
+      "id": 127790,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2002-01-07",
+      "episode_count": 216,
+      "id": 127810,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2003-01-03",
+      "episode_count": 218,
+      "id": 127811,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2004-01-07",
+      "episode_count": 224,
+      "id": 127812,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2005-01-03",
+      "episode_count": 233,
+      "id": 127813,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2006-01-02",
+      "episode_count": 236,
+      "id": 127814,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2007-01-02",
+      "episode_count": 241,
+      "id": 127815,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2008-01-02",
+      "episode_count": 238,
+      "id": 127816,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2009-01-02",
+      "episode_count": 241,
+      "id": 127817,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2010-01-04",
+      "episode_count": 239,
+      "id": 128149,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-01-03",
+      "episode_count": 239,
+      "id": 128150,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2012-01-02",
+      "episode_count": 244,
+      "id": 128595,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2013-01-02",
+      "episode_count": 244,
+      "id": 128596,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2014-01-02",
+      "episode_count": 234,
+      "id": 128699,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2015-01-02",
+      "episode_count": 240,
+      "id": 128744,
+      "name": "Sezon 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2016-01-04",
+      "episode_count": 230,
+      "id": 128745,
+      "name": "Sezon 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2017-01-02",
+      "episode_count": 232,
+      "id": 128878,
+      "name": "Sezon 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2018-01-03",
+      "episode_count": 236,
+      "id": 128879,
+      "name": "Sezon 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2019-01-02",
+      "episode_count": 246,
+      "id": 129026,
+      "name": "Sezon 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2020-01-02",
+      "episode_count": 246,
+      "id": 345216,
+      "name": "Sezon 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2021-01-04",
+      "episode_count": 237,
+      "id": 345217,
+      "name": "Sezon 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2022-01-03",
+      "episode_count": 158,
+      "id": 345218,
+      "name": "Sezon 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2023-01-18",
+      "episode_count": 208,
+      "id": 406321,
+      "name": "Sezon 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2024-01-02",
+      "episode_count": 39,
+      "id": 406322,
+      "name": "Sezon 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "News",
+  "vote_average": 4.4,
+  "vote_count": 5,
+  "credits": {
+    "cast": [],
+    "crew": []
+  },
+  "keywords": {
+    "results": []
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/kJLwKqiRavPD73JwpUuuTpWZKNb.jpg",
+        "id": 23318,
+        "name": "The Daytime Emmy Awards",
+        "original_name": "The Daytime Emmy Awards",
+        "overview": "An annual awards ceremony in recognition of excellence in American daytime television programming.",
+        "poster_path": "/uBbdeUjskJa0ASfcO1B3JBb20tC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [],
+        "popularity": 89.482,
+        "first_air_date": "1974-05-28",
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dqL9yqbSdXudQ16ro7rZujX4xKi.jpg",
+        "id": 276007,
+        "name": "儿歌点点经典故事",
+        "original_name": "儿歌点点经典故事",
+        "overview": "",
+        "poster_path": "/6wzRrK8qSZk4fPJAo5eOGZMTLjM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "zh",
+        "genre_ids": [],
+        "popularity": 1.247,
+        "first_air_date": "2020-01-01",
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "origin_country": [
+          "CN"
+        ]
+      },
+      {
+        "backdrop_path": "/urFV8cgMs1gZyjmrIzQhznASXi1.jpg",
+        "id": 102751,
+        "name": "Dahleez",
+        "original_name": "दहलीज़",
+        "overview": "Swadheenta, a lawyer, falls in love with an honest IAS officer, Adarsh Sinha. However, their relationship has to go through several tests, the reins of which are in the hands of his mother, Suhasini.",
+        "poster_path": "/dDU4HQu7yrfQcmKvNIwXV91QOZo.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "hi",
+        "genre_ids": [
+          10751,
+          18,
+          10766
+        ],
+        "popularity": 11.421,
+        "first_air_date": "2016-03-14",
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "origin_country": [
+          "IN"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 273590,
+        "name": "The One Serving House",
+        "original_name": "일인분하우스",
+        "overview": "Depicts the lives of people with different backgrounds of growth, living in a single-person house.",
+        "poster_path": "/lP1vK8YWQ55kB0gX2K1TtICAs9n.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [],
+        "popularity": 0.162,
+        "first_air_date": "2021-12-01",
+        "vote_average": 4.0,
+        "vote_count": 1,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/1OFX0RTm15YNR3nIJIaw72lUUmV.jpg",
+        "id": 125089,
+        "name": "Ana",
+        "original_name": "Ana",
+        "overview": "Dizi Başrollerinde Ayşen Gruda ve Aykut Oray'ın oynadığı absürd komedi türündeki dizidir.",
+        "poster_path": null,
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "tr",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 19.728,
+        "first_air_date": "1991-01-01",
+        "vote_average": 10.0,
+        "vote_count": 2,
+        "origin_country": [
+          "TR"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 4758,
+        "name": "The Krofft Superstar Hour",
+        "original_name": "The Krofft Superstar Hour",
+        "overview": "The Krofft Superstar Hour is a Saturday morning children's variety show, produced by Sid and Marty Krofft. After eight episodes, the show was renamed The Bay City Rollers Show. It aired for one season from September 9, 1978 to November 28, 1979 on NBC.",
+        "poster_path": "/mwziHKAkTk0pzWo2bSHMAbmcJKi.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 1.296,
+        "first_air_date": "1978-09-09",
+        "vote_average": 4.0,
+        "vote_count": 1,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 41999,
+        "name": "The Return of the Shaggy Dog",
+        "original_name": "The Return of the Shaggy Dog",
+        "overview": "The Return of the Shaggy Dog is a 1987 two-part television movie midquel to the 1959 feature film, The Shaggy Dog, set before the events of The Shaggy D.A..",
+        "poster_path": "/96A0AsPQnPqLCiEAftJNWEJ1uXD.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [],
+        "popularity": 0.425,
+        "first_air_date": "",
+        "vote_average": 3.2,
+        "vote_count": 4,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/tyvnsFPbLSbQLwi1OZPEHGgSoAr.jpg",
+        "id": 131623,
+        "name": "Two Idiots",
+        "original_name": "废柴兄弟",
+        "overview": "",
+        "poster_path": "/ljTM5SwvvcRc7w83Ide2R0W4yTG.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "zh",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 19.181,
+        "first_air_date": "2014-03-28",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "origin_country": [
+          "CN"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 253248,
+        "name": "Genghis Khan",
+        "original_name": "成吉思汗",
+        "overview": "Genghis Khan is a 1987 Hong Kong television series based on the life of Genghis Khan, the founder of the Mongol Empire in the 13th century. The series was produced by ATV and released three months after a similarly titled television series was aired by ATV's rival TVB.",
+        "poster_path": "/jHUmB5UtBkj3f7o1svjqPYE0QN5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "cn",
+        "genre_ids": [],
+        "popularity": 15.98,
+        "first_air_date": "1987-12-14",
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "origin_country": [
+          "HK"
+        ]
+      },
+      {
+        "backdrop_path": "/oSTfSYChSRTVu6PmNvyKb0yXUPw.jpg",
+        "id": 236298,
+        "name": "Selena + Chef: Home for the Holidays",
+        "original_name": "Selena + Chef: Home for the Holidays",
+        "overview": "Selena Gomez is at the top of her game as a musical artist, actor, businesswoman, and philanthropist, but she calls in the experts to help amp up her kitchen skills for the holidays. This year she has invited all-star chefs Eric Adjepong, Alex Guarnaschelli, Michael Symon, and Claudette Zepeda to bring their favorite dishes and culinary wisdom to her home kitchen so they can cook up perfect holiday meals to share with friends and family.",
+        "poster_path": "/xlxfOdtYHIhM9QVFT31bvmwitkb.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 13.243,
+        "first_air_date": "2023-11-30",
+        "vote_average": 9.7,
+        "vote_count": 17,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 23954,
+        "name": "Three Piece Suite",
+        "original_name": "Three Piece Suite",
+        "overview": "",
+        "poster_path": "/f4YW5nO7dpzplUmQF1AJnBA4FX2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [],
+        "popularity": 8.792,
+        "first_air_date": "1977-03-15",
+        "vote_average": 0.0,
+        "vote_count": 1,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/80mq8WIiDUVUgkXdseN5gDW1RYO.jpg",
+        "id": 255504,
+        "name": "Bujji & Bhairava",
+        "original_name": "బుజ్జి అండ్ భైరవా",
+        "overview": "It's the year 2896, in future city of Kasi, Bhairava is a bounty hunter with dreams of getting into the Complex, and BU-JZ1, an AI pilot of a Cargo ship, waiting for her promotion. At their lowest point, these two unlikely souls, find each other to set off a crackling story of ambition, adventure, partnership and mainly friendship.",
+        "poster_path": "/10asomsbajzVy2NePfRipyC1Bgv.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "te",
+        "genre_ids": [
+          10759,
+          35,
+          10765,
+          16
+        ],
+        "popularity": 7.44,
+        "first_air_date": "2024-05-31",
+        "vote_average": 8.0,
+        "vote_count": 1,
+        "origin_country": [
+          "IN"
+        ]
+      },
+      {
+        "backdrop_path": "/pY0Npw8633KLFHtetwae6244ftJ.jpg",
+        "id": 138138,
+        "name": "Pushkin's Fairy Tales. For Adults",
+        "original_name": "Сказки Пушкина. Для взрослых",
+        "overview": "In each episode, the action of Pushkin's fairy tales is transferred to our reality. The familiar Pushkin images will become even clearer: The Princess will turn out to be an instablogger, Elisha will be a rapper, and the Golden Cockerel will be a neural network.",
+        "poster_path": "/8Cxhziv14YVUosi4DmZx8hxsTbz.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ru",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 7.414,
+        "first_air_date": "2021-11-10",
+        "vote_average": 8.2,
+        "vote_count": 4,
+        "origin_country": [
+          "RU"
+        ]
+      },
+      {
+        "backdrop_path": "/7DoZ2UWVVUabZVWqrqoDIyBn8X.jpg",
+        "id": 120061,
+        "name": "Terres sauvages du Grand Nord",
+        "original_name": "Terres sauvages du Grand Nord",
+        "overview": "",
+        "poster_path": "/hKKA7FXsEstkhBp42dH7CodAG22.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 3.069,
+        "first_air_date": "2020-01-01",
+        "vote_average": 9.0,
+        "vote_count": 1,
+        "origin_country": []
+      },
+      {
+        "backdrop_path": "/fGw0htQOmgq1MCBfkSkJJojvJyW.jpg",
+        "id": 116913,
+        "name": "Stage Fright",
+        "original_name": "Stage Fright",
+        "overview": "Lizzy is the stage manager for Crown Lake's latest production: Phantom. But when the show's lead and Lizzy's biggest crush, Noah, is put in a coma by a tragic accident during dress rehearsal, she must unite unlikely allies to get to the bottom of this whodunnit mystery",
+        "poster_path": "/DDC3NrJLtsUJNg5EEPkT5TsuiN.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18,
+          9648
+        ],
+        "popularity": 3.632,
+        "first_air_date": "2020-03-26",
+        "vote_average": 6.0,
+        "vote_count": 1,
+        "origin_country": []
+      },
+      {
+        "backdrop_path": null,
+        "id": 44659,
+        "name": "Magical Play",
+        "original_name": "魔法遊戯 飛び出す!! ハナマル大冒険",
+        "overview": "Padudu is an apprentice witch, chosen to represent her town. Donning her magical fish costume, she sets off on her journey.",
+        "poster_path": "/7EvcdtdkhdsU10z3HN3XzZzXOQt.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10765
+        ],
+        "popularity": 12.108,
+        "first_air_date": "2001-11-16",
+        "vote_average": 7.0,
+        "vote_count": 4,
+        "origin_country": [
+          "JP"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

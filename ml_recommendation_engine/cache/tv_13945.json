@@ -1,0 +1,988 @@
+{
+  "adult": false,
+  "backdrop_path": "/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    23
+  ],
+  "first_air_date": "1992-05-11",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 10766,
+      "name": "Pembe Dizi"
+    }
+  ],
+  "homepage": "http://www.gzsz.de",
+  "id": 13945,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2025-02-28",
+  "last_episode_to_air": {
+    "id": 6011242,
+    "name": "45. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-05",
+    "episode_number": 45,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 23,
+    "season_number": 34,
+    "show_id": 13945,
+    "still_path": null
+  },
+  "name": "Gute Zeiten, schlechte Zeiten",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 207,
+      "logo_path": "/g5w1CvcMMBnxmXcsFUTLVBhH9Qp.png",
+      "name": "RTL",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 8225,
+  "number_of_seasons": 34,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Gute Zeiten, schlechte Zeiten",
+  "overview": "",
+  "popularity": 1406.924,
+  "poster_path": "/qujVFLAlBnPU9mZElV4NZgL8iXT.jpg",
+  "production_companies": [
+    {
+      "id": 51150,
+      "logo_path": null,
+      "name": "UFA Serial Drama",
+      "origin_country": ""
+    },
+    {
+      "id": 2018,
+      "logo_path": null,
+      "name": "Grundy UFA TV Produktions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 192725,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1992-05-11",
+      "episode_count": 160,
+      "id": 25198,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "1993-01-01",
+      "episode_count": 242,
+      "id": 131248,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1994-01-03",
+      "episode_count": 245,
+      "id": 131249,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1995-01-02",
+      "episode_count": 241,
+      "id": 131250,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1996-01-02",
+      "episode_count": 249,
+      "id": 131251,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1997-01-02",
+      "episode_count": 245,
+      "id": 131252,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1998-01-02",
+      "episode_count": 253,
+      "id": 131253,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 6.0
+    },
+    {
+      "air_date": "1999-01-04",
+      "episode_count": 253,
+      "id": 131254,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2000-01-03",
+      "episode_count": 250,
+      "id": 131255,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2001-01-02",
+      "episode_count": 244,
+      "id": 131256,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2002-01-02",
+      "episode_count": 250,
+      "id": 131257,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2003-01-02",
+      "episode_count": 249,
+      "id": 131258,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2004-01-02",
+      "episode_count": 253,
+      "id": 131259,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2005-01-03",
+      "episode_count": 255,
+      "id": 131260,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2006-01-02",
+      "episode_count": 257,
+      "id": 131261,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2007-01-02",
+      "episode_count": 249,
+      "id": 131262,
+      "name": "Sezon 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2008-01-02",
+      "episode_count": 252,
+      "id": 131263,
+      "name": "Sezon 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2009-01-02",
+      "episode_count": 252,
+      "id": 131264,
+      "name": "Sezon 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2010-01-04",
+      "episode_count": 248,
+      "id": 131265,
+      "name": "Sezon 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-01-03",
+      "episode_count": 254,
+      "id": 131266,
+      "name": "Sezon 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2012-01-02",
+      "episode_count": 251,
+      "id": 131267,
+      "name": "Sezon 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2013-01-02",
+      "episode_count": 250,
+      "id": 131268,
+      "name": "Sezon 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2014-01-02",
+      "episode_count": 250,
+      "id": 131269,
+      "name": "Sezon 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2015-01-02",
+      "episode_count": 252,
+      "id": 131270,
+      "name": "Sezon 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2016-01-04",
+      "episode_count": 256,
+      "id": 131271,
+      "name": "Sezon 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2017-01-02",
+      "episode_count": 254,
+      "id": 131272,
+      "name": "Sezon 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2018-01-02",
+      "episode_count": 252,
+      "id": 131273,
+      "name": "Sezon 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2019-01-02",
+      "episode_count": 251,
+      "id": 131274,
+      "name": "Sezon 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2020-01-02",
+      "episode_count": 248,
+      "id": 144089,
+      "name": "Sezon 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2021-01-04",
+      "episode_count": 252,
+      "id": 186998,
+      "name": "Sezon 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2022-01-03",
+      "episode_count": 256,
+      "id": 238509,
+      "name": "Sezon 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2023-01-02",
+      "episode_count": 254,
+      "id": 315027,
+      "name": "Sezon 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2024-01-02",
+      "episode_count": 253,
+      "id": 369662,
+      "name": "Sezon 33",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2025-01-02",
+      "episode_count": 45,
+      "id": 433683,
+      "name": "Sezon 34",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.7,
+  "vote_count": 35,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1244762,
+        "known_for_department": "Acting",
+        "name": "Wolfgang Bahro",
+        "original_name": "Wolfgang Bahro",
+        "popularity": 2.72,
+        "profile_path": "/hGwwtRfwnRg5Q7bfCQ8NlmPxUKO.jpg",
+        "character": "Prof. Dr. Dr. Hans-Joachim 'Jo' Gerner",
+        "credit_id": "52582d25760ee36aaa8a0ba6",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1244767,
+        "known_for_department": "Acting",
+        "name": "Anne Menden",
+        "original_name": "Anne Menden",
+        "popularity": 1.148,
+        "profile_path": "/iq2fCO6g1xBDToe3hKSo0J9A6Cw.jpg",
+        "character": "Emily Höfer-Wiedmann",
+        "credit_id": "60812c542b8a43006ca5262a",
+        "order": 16
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "love triangle",
+        "id": 128
+      },
+      {
+        "name": "berlin, germany",
+        "id": 220
+      },
+      {
+        "name": "jealousy",
+        "id": 931
+      },
+      {
+        "name": "infidelity",
+        "id": 1326
+      },
+      {
+        "name": "success",
+        "id": 3836
+      },
+      {
+        "name": "friendship",
+        "id": 6054
+      },
+      {
+        "name": "love",
+        "id": 9673
+      },
+      {
+        "name": "revenge",
+        "id": 9748
+      },
+      {
+        "name": "murder",
+        "id": 9826
+      },
+      {
+        "name": "betrayal",
+        "id": 10085
+      },
+      {
+        "name": "family",
+        "id": 18035
+      },
+      {
+        "name": "intrigue",
+        "id": 34038
+      },
+      {
+        "name": "death",
+        "id": 34079
+      },
+      {
+        "name": "neighborhood",
+        "id": 180523
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/h0y3OzHzG4yNvn8u3Za6ByH8lrQ.jpg",
+        "id": 45789,
+        "name": "Sturm der Liebe",
+        "original_name": "Sturm der Liebe",
+        "overview": "These are the stories of relationships taking place in the fictional five-star hotel Fürstenhof, located in Feldkirchen-Westerham near Rosenheim with the plot revolving around members of the family room area, the hotel owners, and employees.",
+        "poster_path": "/jfFNydakwvbeACEwSd2Gh8UWtba.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 2574.453,
+        "first_air_date": "2005-09-26",
+        "vote_average": 5.8,
+        "vote_count": 32,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "backdrop_path": "/ucqqZFs1KztAEPiC7DEFPeO1z8K.jpg",
+        "id": 113867,
+        "name": "Verbotene Liebe - Next Generation",
+        "original_name": "Verbotene Liebe - Next Generation",
+        "overview": "",
+        "poster_path": "/waYP73PwvBxTSiFfMrikytbTqeG.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 20.228,
+        "first_air_date": "2020-11-23",
+        "vote_average": 7.6,
+        "vote_count": 5,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "backdrop_path": "/aizbHLcKVWvJ7jxkflJzTu5Z8GE.jpg",
+        "id": 81329,
+        "name": "Chronicles of the Sun",
+        "original_name": "Un si grand soleil",
+        "overview": "Claire is surprised when she gets arrested for the murder of her childhood friend after she returns to Montpellier.",
+        "poster_path": "/t6jVlbPMtZOJoAOfeoR4yQmnjXM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          10766
+        ],
+        "popularity": 3299.616,
+        "first_air_date": "2018-08-27",
+        "vote_average": 6.846,
+        "vote_count": 117,
+        "origin_country": [
+          "FR"
+        ]
+      },
+      {
+        "backdrop_path": "/jBFOVEE5sMIyT141YIqIwyU8Y1D.jpg",
+        "id": 116799,
+        "name": "Güneşin Karanlığında",
+        "original_name": "The Lincoln Lawyer",
+        "overview": "Bir kaza sonrası gözden düşen Los Angeleslı yetenekli avukat Mickey Haller, aldığı cinayet davasıyla kendiyle özdeşleşen Lincoln'ünde kariyerine yeni bir başlangıç yapar.",
+        "poster_path": "/los3u8RGDdylr0NUQMHfHAT8lsf.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 96.07,
+        "first_air_date": "2022-05-13",
+        "vote_average": 7.7,
+        "vote_count": 340,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lBoHzOgft2QfpjkVVvZCqeM4ttT.jpg",
+        "id": 90228,
+        "name": "Dune: Prophecy",
+        "original_name": "Dune: Prophecy",
+        "overview": "Sıradışı yeteneklere sahip Bene Gesserit kadınları, zihinleri ve vücutlarını tamamen kendi kontrollerinde yönetebilmek için eğitim alarak insanlığı kendi planlarına göre yönlendirebilecektir. Yetenekleri sayesinde imparatorluğun politikalarına karşı koymayı başaran bu zeki birlik nihayetinde kendilerini, Dune adını verdikleri karmaşık bir gezegen olan Arrakis'te bulurlar.",
+        "poster_path": "/5B8Cxz8ZZXp3w2WmmdKTXpkS24e.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 161.398,
+        "first_air_date": "2024-11-17",
+        "vote_average": 7.559,
+        "vote_count": 339,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lN13BPAEnc5iXmoxxBQHOZ1ScfZ.jpg",
+        "id": 86031,
+        "name": "Dr. Stone",
+        "original_name": "Dr.STONE",
+        "overview": "Kaçınılmaz bir günde, tüm insanlık kör edici bir ışık parlamasıyla donakalmıştı. Birkaç bin yıl sonra, Liseli Taiju uyanır ve kendini heykellerin dünyasında kaybolmuş şekilde bulur. Ama, yanlız değildir! Onun Bilime aşık arkadaşı Senku kalkmış ve bir kaç aydır çalışıyordu ve bilimin gücüyle medeniyeti yeniden inşa etmek için aklında bir fikri vardı.",
+        "poster_path": "/xbZQ3fDl0y5mt0ARwfeyrgQ4JTw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759,
+          35,
+          10765
+        ],
+        "popularity": 48.297,
+        "first_air_date": "2019-07-05",
+        "vote_average": 8.5,
+        "vote_count": 1486,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/20eIP9o5ebArmu2HxJutaBjhLf4.jpg",
+        "id": 87108,
+        "name": "Çernobil",
+        "original_name": "Chernobyl",
+        "overview": "1986 senesinde Sovyet nükleer santralinde meydana gelen patlama sonrası santral işçileri ve itfaiyeciler faciayı kontrol altına almaya çalışır.",
+        "poster_path": "/87QSOjVXFwXpCcczMLhh2WRJDV5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 86.964,
+        "first_air_date": "2019-05-06",
+        "vote_average": 8.7,
+        "vote_count": 6644,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9faGSFi5jam6pDWGNd0p8JcJgXQ.jpg",
+        "id": 1396,
+        "name": "Breaking Bad",
+        "original_name": "Breaking Bad",
+        "overview": "Kanserden öleceğini öğrenen bir kimya öğretmeni, ailesinin geleceğini garanti altına almak için metamfetamin üretip satmak üzere eski bir öğrencisiyle kafa kafaya verir.",
+        "poster_path": "/ineLOBPG8AZsluYwnkMpHRyu7L.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 540.297,
+        "first_air_date": "2008-01-20",
+        "vote_average": 8.923,
+        "vote_count": 15146,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2MaumbgBlW1NoPo3ZJO38A6v7OS.jpg",
+        "id": 66732,
+        "name": "Stranger Things",
+        "original_name": "Stranger Things",
+        "overview": "Ufak bir kasabada küçük bir çocuk kaybolunca, gizli deneyler, korkutucu doğaüstü güçler ve tuhaf bir küçük kızın da parçası olduğu bir gizem ortaya çıkar.",
+        "poster_path": "/hjVNQA2a12OxkpDEOQTBMbKVZ1K.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765,
+          9648
+        ],
+        "popularity": 293.245,
+        "first_air_date": "2016-07-15",
+        "vote_average": 8.6,
+        "vote_count": 18087,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
+        "id": 1668,
+        "name": "Friends",
+        "original_name": "Friends",
+        "overview": "1990'ların Manhattan'ında iş hayatının, aşkın ve gündelik yaşamın zorluklarıyla uğraşan 20'li yaşlarda üçü kadın, üçü erkek altı kişilik yakın arkadaş gurubunun komik maceraları.",
+        "poster_path": "/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 391.305,
+        "first_air_date": "1994-09-22",
+        "vote_average": 8.4,
+        "vote_count": 8242,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2eIlCirgcvEwmCSYh2wDfz5Sxvz.jpg",
+        "id": 46952,
+        "name": "The Blacklist",
+        "original_name": "The Blacklist",
+        "overview": "FBI'ın arananlar listesindeki kaçak, diğer kötüleri yakalamaları için FBI'a yardım teklifinde bulunur; tek şartı çaylak profil uzmanı Elizabeth Keen'in ortağı olmasıdır.",
+        "poster_path": "/4HTfd1PhgFUenJxVuBDNdLmdr0c.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "popularity": 576.204,
+        "first_air_date": "2013-09-23",
+        "vote_average": 7.628,
+        "vote_count": 3231,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lNpkvX2s8LGB0mjGODMT4o6Up7j.jpg",
+        "id": 1398,
+        "name": "The Sopranos",
+        "original_name": "The Sopranos",
+        "overview": "New Jersey'deki bir Amerikan-İtalyan mafya ailesinin babası olan Tony Soprano'nun ve Soprano Ailesi'nin diğer fertlerinin hayatlarından kesitler sunan dizi, toplamda 86 bölüm yayınlanmış, kazandığı ödüller ve aldığı olumlu eleştirilerle adını \"gelmiş geçmiş en iyi diziler\" arasına yazdırmıştır.",
+        "poster_path": "/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 368.94,
+        "first_air_date": "1999-01-10",
+        "vote_average": 8.7,
+        "vote_count": 2871,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/xGexTKCJDkl12dTW4YCBDXWb1AD.jpg",
+        "id": 71446,
+        "name": "Money Heist",
+        "original_name": "La casa de papel",
+        "overview": "Bir suç dehası planını gerçekleştirmek üzere polisi ustalıkla yönlendirirken sekiz hırsız, rehineler alarak kendilerini İspanya Kraliyet Darphanesine kilitler.",
+        "poster_path": "/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 112.802,
+        "first_air_date": "2017-05-02",
+        "vote_average": 8.2,
+        "vote_count": 18793,
+        "origin_country": [
+          "ES"
+        ]
+      },
+      {
+        "backdrop_path": "/qVBExiGdG8uiPK9BcWD0881u8uh.jpg",
+        "id": 64464,
+        "name": "11.22.63",
+        "original_name": "11.22.63",
+        "overview": "Jake Epping zamanda geri giderek 22 Kasım 1963 tarihinde John F. Kennedy suikastı önlemek isteyen sıradan bir lise öğretmenidir. Yaptığı bu yolculuk sonrasında 3 yıl kadar geçmişte yaşaması gerekir. 20. yüzyılda hala büyük bir merak konusu olan JFK suikastini önlemeye çalışacaktır. Ancak geçmiş onu hep geri itecektir.",
+        "poster_path": "/1fH41ccMKvgDTbbcCxWWH6fznah.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 45.678,
+        "first_air_date": "2016-02-15",
+        "vote_average": 7.775,
+        "vote_count": 1531,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uJUe985oIuRiD3hmHQYskIMc2WU.jpg",
+        "id": 62560,
+        "name": "Mr. Robot",
+        "original_name": "Mr. Robot",
+        "overview": "Gündüz yazılım güvenliği şirketinde çalışan geceleri ise sanal evrenin kahramanı olan Elliot'ın heyecan dolu dünyasına giriş yapmaya hazır olun! Merak uyandıran senaryosuyla başarılı bir psikolojik gerilim olan dizide, başroldeki Rami Malek'e Mr.Robot rolünde ünlü aktör Christian Slater eşlik ediyor.",
+        "poster_path": "/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 117.18,
+        "first_air_date": "2015-06-24",
+        "vote_average": 8.2,
+        "vote_count": 4762,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+        "id": 1399,
+        "name": "Game of Thrones",
+        "original_name": "Game of Thrones",
+        "overview": "Krallık dediğin savaşsız olur mu? En güçlü krallığı kurup, huzuru sağlamış olsan bile bu gücü elinde nasıl koruyacaksın? Burada yanlış yapana yer yok, affetmek yok. Kuzey Krallığının hükümdarı Lord Ned Stark, uzun ve zorlu savaşlardan sonra anayurduna dönüp krallığını bütünlük içerisinde tutmayı başarmıştır. Kral Robert Baratheon ile yıllarca omuz omuza çarpışan ve Baratheon'un kral olmasını sağlayan Ned Stark'ın tek istediği kuzey sınırlarını koruyan krallığında ailesiyle ve halkıyla yaşamaktır. \n\nFakat suyun öte yanında kendi topraklarından ve krallığından kovulduğunu iddia eden Viserys Targaryen , kız kardeşi Daenerys'i barbar kavimlerin başı Han Drogo'ya vererek, güç birliği planları yapmaktadır. Tahtını büyük bir iştahla geri isteyen ama kraliyet oyunlarından habersiz olan Viserys'in planları Kral Baratheon'a ulaşır. Savaş alanında büyük cengaver olan ama ülke ve aile yönetiminde aynı başarıyı tutturamayan Baratheon'un tamamen güvenebileceği ve her yanlış hamlesini arkasından toplayacak yeni bir sağ kola ihtiyacı vardır. Kuzeyin Lordu Ned Stark bu görev için seçilen tek aday isimdir. Kış yaklaşıyor...\n\nHanedan entrikaları, kapılı kapılar ardında dönen oyunlar, birilerinin kuyusunu kazmak için düşmanın koynuna girmekten çekinmeyen kadınlar, kardeşler arası çekişmeler, dışlanmalar... Hepsi tek bir hedef için: Taht kavgası..",
+        "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 723.189,
+        "first_air_date": "2011-04-17",
+        "vote_average": 8.456,
+        "vote_count": 24678,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/jmtmDc9GrrbuIUc6QjmEM1Yr8gH.jpg",
+        "id": 91239,
+        "name": "Bridgerton",
+        "original_name": "Bridgerton",
+        "overview": "Bridgerton ailesinin en büyük kızı Daphne Bridgerton, ailesinin izinden gidip çok seveceği bir adamla evlenmek ister. Genç kadının seçenekleri çok olsa da ağabeyi teker teker adayları eler. Ancak Leydi Whistledown'ın hazırladığı bir skandal, Daphne'nin adının lekelenmesine neden olur. Bu sırada sosyeteye yeni katılan kızların annelerinin gözdesi olan Hastings Dükü ile Daphne arasında bir çekim oluşur.",
+        "poster_path": "/luoKpgVwi1E5nQsi7W0UuKHu2Rq.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 172.572,
+        "first_air_date": "2020-12-25",
+        "vote_average": 8.114,
+        "vote_count": 2904,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5C3UcPKVcg3rwGBYPE18wXpZMw8.jpg",
+        "id": 106379,
+        "name": "Fallout",
+        "original_name": "Fallout",
+        "overview": "Kıyametten 200 yıl sonra, lüks nükleer sığınakların edepli sakinleri, kendilerini yüzeyde bekleyen inanılmaz karmaşık, oldukça tuhaf ve çok vahşi dünyaya adım atmak zorunda kalıyor.",
+        "poster_path": "/AnsSKR9LuK0T9bAOcPVA3PUvyWj.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 115.839,
+        "first_air_date": "2024-04-10",
+        "vote_average": 8.272,
+        "vote_count": 1756,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/34OGjFEbHj0E3lE2w0iTUVq0CBz.jpg",
+        "id": 87739,
+        "name": "The Queen's Gambit",
+        "original_name": "The Queen's Gambit",
+        "overview": "1950'lerde bir yetimhanede, küçük bir kız müthiş bir satranç yeteneği sergiler. Ancak yıldızlığa uzanan umulmadık yolculuğunda bağımlılıkla mücadele etmek zorunda kalır.",
+        "poster_path": "/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 72.508,
+        "first_air_date": "2020-10-23",
+        "vote_average": 8.5,
+        "vote_count": 4790,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ukewRnKD05Si7DkED2tSKBTXeEd.jpg",
+        "id": 84773,
+        "name": "Yüzüklerin Efendisi: Güç Yüzükleri",
+        "original_name": "The Lord of the Rings: The Rings of Power",
+        "overview": "Göreceli bir barış döneminden başlayarak, Orta Dünya'ya geri dönen kötülükle yüzleşen bir dizi karakteri izleyeceğiz. Dumanlı Dağlar'ın en karanlık derinliklerinden Lindon'un görkemli ormanlarına, nefes kesen ada krallığı Númenor'a, haritanın en uzak noktalarına kadar tüm bu karakterlerin ve krallıkların kendileri yok olduktan çağlar sonra bile hatırlanacak destanlar yaratmasına tanık olacağız.",
+        "poster_path": "/8YXqUPhOCQGSzdtAtFUpmxoSCGy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10765,
+          18
+        ],
+        "popularity": 336.598,
+        "first_air_date": "2022-09-01",
+        "vote_average": 7.3,
+        "vote_count": 3223,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

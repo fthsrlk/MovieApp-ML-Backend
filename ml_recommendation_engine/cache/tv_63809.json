@@ -1,0 +1,956 @@
+{
+  "adult": false,
+  "backdrop_path": "/4WWlz8co7RbVBuCny2CicYuWJ8y.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    10,
+    5
+  ],
+  "first_air_date": "2003-10-06",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Komedi"
+    }
+  ],
+  "homepage": "",
+  "id": 63809,
+  "in_production": false,
+  "languages": [
+    "it"
+  ],
+  "last_air_date": "2017-12-21",
+  "last_episode_to_air": {
+    "id": 1941401,
+    "name": "145. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2017-12-21",
+    "episode_number": 145,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 6,
+    "show_id": 63809,
+    "still_path": "/h8NPqRbyRUeMrfZphQhRd3kJ8kj.jpg"
+  },
+  "name": "Camera Café",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 402,
+      "logo_path": "/2cXinuyZFHdOT0hZW9ZSZpcQOe.png",
+      "name": "Italia 1",
+      "origin_country": "IT"
+    },
+    {
+      "id": 236,
+      "logo_path": "/ar0fBQkxzbBYe4S8zEGnrfZNBnm.png",
+      "name": "Rai 2",
+      "origin_country": "IT"
+    }
+  ],
+  "number_of_episodes": 1769,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_name": "Camera Café",
+  "overview": "",
+  "popularity": 1662.683,
+  "poster_path": "/gnRp736aSqXHhxOXCbLGB30qc8D.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2003-10-05",
+      "episode_count": 1,
+      "id": 198843,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2003-10-06",
+      "episode_count": 479,
+      "id": 70098,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2004-10-04",
+      "episode_count": 354,
+      "id": 71015,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/7eAO6ciMXJk0CyGUfyllP7ONDwE.jpg",
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2005-11-27",
+      "episode_count": 313,
+      "id": 71016,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2007-09-10",
+      "episode_count": 298,
+      "id": 71017,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-12-13",
+      "episode_count": 180,
+      "id": 71018,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2017-09-04",
+      "episode_count": 145,
+      "id": 92349,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.8,
+  "vote_count": 52,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 47827,
+        "known_for_department": "Acting",
+        "name": "Luca Bizzarri",
+        "original_name": "Luca Bizzarri",
+        "popularity": 2.23,
+        "profile_path": "/2STmjs7N8w5rnHMvMh3uyK2Rqgp.jpg",
+        "character": "Luca Nervi",
+        "credit_id": "5609a68c925141719400035c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 47828,
+        "known_for_department": "Acting",
+        "name": "Paolo Kessisoglu",
+        "original_name": "Paolo Kessisoglu",
+        "popularity": 2.148,
+        "profile_path": "/u2EUZ2likLnbRY0EkyWcu7FnRJm.jpg",
+        "character": "Paolo Bitta",
+        "credit_id": "5609a6a4c3a3686824000354",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1093683,
+        "known_for_department": "Acting",
+        "name": "Alessandro Sampaoli",
+        "original_name": "Alessandro Sampaoli",
+        "popularity": 0.836,
+        "profile_path": "/o6Er5J2yo9MbcZD12vkJENdOBNc.jpg",
+        "character": "Silvano Rogi",
+        "credit_id": "5609a7a492514171a30003ab",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1516224,
+        "known_for_department": "Acting",
+        "name": "Renato Liprandi",
+        "original_name": "Renato Liprandi",
+        "popularity": 0.024,
+        "profile_path": "/hjfosDhF5Lk08k9WrNuOFh3zWPV.jpg",
+        "character": "Augusto De Marinis",
+        "credit_id": "5609a7dac3a368680e000359",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1516225,
+        "known_for_department": "Acting",
+        "name": "Paolo Bufalino",
+        "original_name": "Paolo Bufalino",
+        "popularity": 0.519,
+        "profile_path": "/pjZnJxTeMe5Yi7L2kBFFpQMssV6.jpg",
+        "character": "Andrea Pellegrino",
+        "credit_id": "5609a8b4c3a368680b0003f5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1516227,
+        "known_for_department": "Acting",
+        "name": "Riccardo Magherini",
+        "original_name": "Riccardo Magherini",
+        "popularity": 0.013,
+        "profile_path": "/lfMbm1QWAKrGUZmLoX1B9zeHwyO.jpg",
+        "character": "Vittorio Ubbiali",
+        "credit_id": "5609a8d6c3a368681400038d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1058137,
+        "known_for_department": "Directing",
+        "name": "Massimo Costa",
+        "original_name": "Massimo Costa",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Giuseppe \"Pippo\" Lo Cascio",
+        "credit_id": "5609a896c3a3686814000386",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 145603,
+        "known_for_department": "Acting",
+        "name": "Margherita Fumero",
+        "original_name": "Margherita Fumero",
+        "popularity": 1.432,
+        "profile_path": "/9stZlOREj4OWEx2DT0rAdkpFrac.jpg",
+        "character": "Wanda Sordi",
+        "credit_id": "5609a878c3a368681000041f",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2544804,
+        "known_for_department": "Acting",
+        "name": "Alberto Boubakar Malanchino",
+        "original_name": "Alberto Boubakar Malanchino",
+        "popularity": 1.441,
+        "profile_path": "/8ANRNv7UnIO4Qh44cfJtE8oinYB.jpg",
+        "character": "Asafa N'Kono",
+        "credit_id": "5e15e724d399e60016fda060",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1381618,
+        "known_for_department": "Acting",
+        "name": "Sabrina Corabi",
+        "original_name": "Sabrina Corabi",
+        "popularity": 1.231,
+        "profile_path": "/8T8qVkhfKaGibsrXeAnbS92ta06.jpg",
+        "character": "Alessandra \"Alex\" Costa",
+        "credit_id": "5e15e409d399e60016fd9a7c",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 128226,
+        "known_for_department": "Acting",
+        "name": "Roberto Accornero",
+        "original_name": "Roberto Accornero",
+        "popularity": 1.124,
+        "profile_path": "/k4ZZuHrIQdhMEJoGv9MQDiF9xum.jpg",
+        "character": "Guido Geller",
+        "credit_id": "5e15e46bd8af670012c49bc5",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 231995,
+        "known_for_department": "Acting",
+        "name": "Serena Autieri",
+        "original_name": "Serena Autieri",
+        "popularity": 2.309,
+        "profile_path": "/wx17GgF6GnSwa8ZK9tpKtok2uQ4.jpg",
+        "character": "dottoressa S. Corte",
+        "credit_id": "5e15e6635907de0012e59013",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1343866,
+        "known_for_department": "Acting",
+        "name": "Marco Palvetti",
+        "original_name": "Marco Palvetti",
+        "popularity": 1.296,
+        "profile_path": "/tqLoo00yOqrOcYnld5vEKGN5A5z.jpg",
+        "character": "Stefano Ambrosini",
+        "credit_id": "5e15e6756262080014c83399",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1209767,
+        "known_for_department": "Acting",
+        "name": "Sara Cardinaletti",
+        "original_name": "Sara Cardinaletti",
+        "popularity": 1.629,
+        "profile_path": "/hdwMnZJ8oHdXKlNGoERHyGMOXSz.jpg",
+        "character": "Chiara Giordano",
+        "credit_id": "5e15e6955907de0017e5534e",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1293960,
+        "known_for_department": "Acting",
+        "name": "Ippolita Baldini",
+        "original_name": "Ippolita Baldini",
+        "popularity": 0.749,
+        "profile_path": "/e5ZGzKjiHqy39MauQxWqDzWdldS.jpg",
+        "character": "Beatrice Mucciardini",
+        "credit_id": "5e15e6a45907de0012e5906e",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2183808,
+        "known_for_department": "Acting",
+        "name": "Brenda Lodigiani",
+        "original_name": "Brenda Lodigiani",
+        "popularity": 1.449,
+        "profile_path": "/yptq0hQSCryq1gDJRNbYlXDB61B.jpg",
+        "character": "Martina Paroli",
+        "credit_id": "5e15e6b56262080014c837e4",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1899098,
+        "known_for_department": "Acting",
+        "name": "Beatrice Schiros",
+        "original_name": "Beatrice Schiros",
+        "popularity": 2.941,
+        "profile_path": "/iZ4vctPlVPIcJX2TbaaNosNxjew.jpg",
+        "character": "Cristina Meloni",
+        "credit_id": "5e15e6c69020120015bd9be8",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1871752,
+        "known_for_department": "Acting",
+        "name": "Alessia Giuliani",
+        "original_name": "Alessia Giuliani",
+        "popularity": 0.706,
+        "profile_path": "/gfvLh7Ltqm4VJulZSLfzNKAXMJa.jpg",
+        "character": "Cristiana",
+        "credit_id": "5e15e6d49020120013bdc546",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1686360,
+        "known_for_department": "Acting",
+        "name": "Roberta Mengozzi",
+        "original_name": "Roberta Mengozzi",
+        "popularity": 0.427,
+        "profile_path": "/6J3GM0oWBOy34kqh3uLcaQR50Z4.jpg",
+        "character": "Arianna Marelli",
+        "credit_id": "5e15e6e69020120013bdc550",
+        "order": 32
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2191709,
+        "known_for_department": "Acting",
+        "name": "Jin Liyu",
+        "original_name": "Jin Liyu",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Lin",
+        "credit_id": "5e15e6f59020120013bdc56a",
+        "order": 33
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 234821,
+        "known_for_department": "Acting",
+        "name": "Pier Giorgio Bellocchio",
+        "original_name": "Pier Giorgio Bellocchio",
+        "popularity": 5.859,
+        "profile_path": "/hZTd1cLRnlB9eibCZTeBq1UvDOQ.jpg",
+        "character": "Fegato Marcio",
+        "credit_id": "5e15e70c9020120015bd9c23",
+        "order": 34
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1143028,
+        "known_for_department": "Acting",
+        "name": "Simone Borrelli",
+        "original_name": "Simone Borrelli",
+        "popularity": 0.847,
+        "profile_path": "/mi3C5C8J5djJB9a2OJ0fH2JvBwC.jpg",
+        "character": "Mario (Il tecnico della Macchinetta)",
+        "credit_id": "66133d426c84920149fbf95a",
+        "order": 35
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77734,
+        "known_for_department": "Acting",
+        "name": "Bruno Solo",
+        "original_name": "Bruno Solo",
+        "popularity": 5.727,
+        "profile_path": "/t7Hn92TFs0vwk7EaZ6alFc4APjD.jpg",
+        "credit_id": "6464ef82d05a0300e2f51129",
+        "department": "Writing",
+        "job": "Original Series Creator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1168535,
+        "known_for_department": "Production",
+        "name": "Alain Kappauf",
+        "original_name": "Alain Kappauf",
+        "popularity": 1.066,
+        "profile_path": null,
+        "credit_id": "6464efa4f48b34011b618541",
+        "department": "Writing",
+        "job": "Original Series Creator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77735,
+        "known_for_department": "Acting",
+        "name": "Yvan Le Bolloc'h",
+        "original_name": "Yvan Le Bolloc'h",
+        "popularity": 2.873,
+        "profile_path": "/uLw8OO2a7HbweRcHRhhutSKY4bI.jpg",
+        "credit_id": "6464ef98f48b3401552dbb49",
+        "department": "Writing",
+        "job": "Original Series Creator"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "cafe",
+        "id": 14766
+      },
+      {
+        "name": "sitcom",
+        "id": 193171
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/zSRj7rMOrwjgMjgwsYkyEcAZ2wN.jpg",
+        "id": 104563,
+        "name": "Avrupa Sınır Kontrolü",
+        "original_name": "Control de fronteras: Europa",
+        "overview": "Sınır Kontrolü: Avrupa, İtalya, Almanya, Danimarka ve İspanya'nın da aralarında bulunduğu Avrupa'daki farklı ülkelerin sınır ve gümrüklerine Güvenlik Servislerinin müdahalelerini gösteren bir dizidir.",
+        "poster_path": "/7idbyF3WjQvKcyZa2NTzrXpzLXU.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          10764,
+          99
+        ],
+        "popularity": 3.875,
+        "first_air_date": "2020-03-01",
+        "vote_average": 6.2,
+        "vote_count": 4,
+        "origin_country": [
+          "ES"
+        ]
+      },
+      {
+        "backdrop_path": "/koqtAffjlC5WDXz5SHwCBea7mjQ.jpg",
+        "id": 89630,
+        "name": "The L Word: Generation Q",
+        "original_name": "The L Word: Generation Q",
+        "overview": "In this sequel to The L Word, we continue to follow the intermingled lives of Bette Porter, Alice Pieszecki and Shane McCutcheon, along with a new generation of diverse, self-possessed LGBTQIA+ characters experiencing love, heartbreak, sex, setbacks and success in L.A.",
+        "poster_path": "/riq4xVG3FflKAB7JlIQPs9bkFw5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 95.045,
+        "first_air_date": "2019-12-08",
+        "vote_average": 7.6,
+        "vote_count": 114,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/90b5d67rcpYfh5aVOwfd9jrbnfL.jpg",
+        "id": 217766,
+        "name": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
+        "original_name": "ゾン100～ゾンビになるまでにしたい100のこと～",
+        "overview": "Çöplerle dolu bir apartman dairesinde, 24 yaşındaki Akira Tendou cansız ve kıskanç gözlerle bir zombi filmi izlemektedir. Japonya'da sömürücü bir şirkette üç zor yıl geçirdikten sonra, ruhu kırılmıştır. Güzel iş arkadaşı Ootori'ye duygularını itiraf edecek cesareti bile toplayamamaktadır. Sonra bir sabah, ev sahibini öğle yemeği yerken bulur - ki o da başka bir kiracıdır! Tüm şehir zombi kaynıyor ve canını kurtarmak için kaçıyor olsa da Akira kendini hiç bu kadar canlı hissetmemişti!",
+        "poster_path": "/bTYMgERNC9rVdmxTSzKuex4GWbF.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759,
+          35,
+          10765
+        ],
+        "popularity": 52.799,
+        "first_air_date": "2023-07-09",
+        "vote_average": 7.6,
+        "vote_count": 141,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/w0s1EmnmgkBYMSqZIrYgbiRt3j6.jpg",
+        "id": 1558,
+        "name": "Home Improvement",
+        "original_name": "Home Improvement",
+        "overview": "The daily trials and tribulations of handyman Tim Taylor, a TV show host raising three boys with help from his loyal co-host, domineering wife, and unseen neighbor.",
+        "poster_path": "/sa3J2ZXeg7TiziuXGyfz99HdYDS.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 112.933,
+        "first_air_date": "1991-09-17",
+        "vote_average": 7.393,
+        "vote_count": 638,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/btFkAI2q3Dx3VVOdNRG93Pnqv90.jpg",
+        "id": 2875,
+        "name": "MacGyver",
+        "original_name": "MacGyver",
+        "overview": "MacGyver,Kanada yapılmış bir Amerikan televizyon dizisidir. Başrolünde, becerikli gizli ajan olarak, Richard Dean Anderson'ın yeraldığı dizi, Lee David Zlotoff tarafından yaratıldı ve 29 Eylül 1985'den 21 Mayıs 1992'ye kadar yedi sezon boyunca devam etti. Richard Dean Anderson'un oynadığı karakter olan Angus Macgyver (isminden çok hoşlanmadığı için dizide sık kullanmaz) bir taksi şoförü iken, taksisine aldığı Fonex'in bir çalışanı tarafından keşfedilir. Fonex çalışanı bir takibe uğrar ve Macgyver bu takipten ilginç yöntemlerini kullanarak kurtulur. Seri, daha sonra Fonex için gizli ajan olarak çalışmaya başlayan Macgyver'ın maceralarını anlatır. Silah kullanmayı sevmeyen Macgyver, fizik ve kimya bilgilerini kullanarak çevresinde bulduğu araç gereçlerden silah, bomba vs. yaparak düşmanlarının elinden kurtulacaktır.",
+        "poster_path": "/h9mTpeDz4WuPaVIBzpr4iughLhw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          80
+        ],
+        "popularity": 208.071,
+        "first_air_date": "1985-09-29",
+        "vote_average": 7.7,
+        "vote_count": 843,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/px5mLaDKXmRAp9MxVGaXswmzDyh.jpg",
+        "id": 4429,
+        "name": "Timon ve Pumba",
+        "original_name": "Timon and Pumbaa",
+        "overview": "Programın başrollerinde, Disney animasyon filmi Aslan Kral'dan tanıdığımız iki karakter olan mirket Timon ve yaban domuzu Pumbaa vardır. Orijinal filmin sonrasında geçen dizide karakterler hem ormanda hem de Kanada, İngiltere, Amerika Birleşik Devletleri ve İspanya gibi dünyanın çeşitli yerlerinde talihsizlikler yaşar.",
+        "poster_path": "/sn9PTOwI6ktLHZcysCrP8cqOw1b.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10762,
+          10751
+        ],
+        "popularity": 403.337,
+        "first_air_date": "1995-09-08",
+        "vote_average": 7.2,
+        "vote_count": 628,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/a4vlzUSTzVb8NMfsvlVIT3Q1nJd.jpg",
+        "id": 2942,
+        "name": "The Tudors",
+        "original_name": "The Tudors",
+        "overview": "Genç kral VIII. Henry'nin çalkantılı yaşamı ve olaylı aşklarını konu edinen çarpıcı bir yapım. 1500'lerin büyülü atmosferinde bir yolculuğa çıkarken İngiliz tarihinin en ünlü krallarından biri olan Henry, izleyicilere her saniyesi dolu geçen bir dram sunuyor. Sırf metresiyle birlikte olabilmek için yeni bir din yaratıp karısından boşanan bu adama kim karşı gelebilir ki? 10 bölümden oluşan bu yeni dizi, Henry'nin siyasi entrikalarının yanı sıra Aragonlu Katherine ve Anne Boleyn gibi önemli kadınlarla girdiği romantik ilişkileri de işliyor. Henry'nin güç tutkusu ve kişisel düşkünlükleri tüm dünyanın akışını değiştirdi.",
+        "poster_path": "/7wmyiVEhmJ7OUvwBIsvOFqMa0q9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "popularity": 116.842,
+        "first_air_date": "2007-04-01",
+        "vote_average": 7.8,
+        "vote_count": 743,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lNpkvX2s8LGB0mjGODMT4o6Up7j.jpg",
+        "id": 1398,
+        "name": "The Sopranos",
+        "original_name": "The Sopranos",
+        "overview": "New Jersey'deki bir Amerikan-İtalyan mafya ailesinin babası olan Tony Soprano'nun ve Soprano Ailesi'nin diğer fertlerinin hayatlarından kesitler sunan dizi, toplamda 86 bölüm yayınlanmış, kazandığı ödüller ve aldığı olumlu eleştirilerle adını \"gelmiş geçmiş en iyi diziler\" arasına yazdırmıştır.",
+        "poster_path": "/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 368.94,
+        "first_air_date": "1999-01-10",
+        "vote_average": 8.7,
+        "vote_count": 2871,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/bKxiLRPVWe2nZXCzt6JPr5HNWYm.jpg",
+        "id": 110316,
+        "name": "Alice in Borderland",
+        "original_name": "今際の国のアリス",
+        "overview": "Amaçsız bir bilgisayar oyuncusu ve iki arkadaşı kendilerini paralel evrendeki Tokyo'da bulur. Burada hayatta kalmak için bir dizi acımasız oyuna katılmaları gerekir.",
+        "poster_path": "/Ac8ruycRXzgcsndTZFK6ouGA0FA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          9648,
+          18,
+          10759
+        ],
+        "popularity": 145.96,
+        "first_air_date": "2020-12-10",
+        "vote_average": 8.168,
+        "vote_count": 2161,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/aSGSxGMTP893DPMCvMl9AdnEICE.jpg",
+        "id": 1405,
+        "name": "Dexter",
+        "original_name": "Dexter",
+        "overview": "O, 'ince ruhlu' bir katil. O, Miami'de yaşanan cinayetleri araştıran bir 'kan' inceleme uzmanı. O, dünyaya adalet sağlamak için öldürüyor. Onun adı Dexter ve düzenin adaletini kişisel bakışa göre sağlamak hayatta kalma amacı.\n\nHem işinin ehli bir seri katil hem de sosyal kişilikli bir adam portresi çizen Dexter Morgan, 2006 yılından itibaren kendi ahlak anlayışına göre kötüleri yer yüzünden silmeye devam etti. Yayınlandığı yıldan itibaren onlarca televizyon ödülüne aday gösterilen, Emmy ve Altın Küre ödüllü Dexter, televizyon tarihinin de en sıra dışı karakterlerinden birini ekranlara taşıdı.",
+        "poster_path": "/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 607.416,
+        "first_air_date": "2006-10-01",
+        "vote_average": 8.2,
+        "vote_count": 4534,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ysaA0BInz4071p3LKqAQnWKZCsK.jpg",
+        "id": 2004,
+        "name": "Malcolm in the Middle",
+        "original_name": "Malcolm in the Middle",
+        "overview": "Kaykay yapmak ve en iyi arkadaşı Stevie ile takılmaktan hoşlanan 9 yaşındaki Malcolm, \"yetenekliler\" sınıfına girmeye zorlanınca hayatı alt üst olur ve etrafı toplumdan dışlanan bir grup yetenekliyle çevrelenir.",
+        "poster_path": "/ckLLIsNy3Z0Go1PYHA2PHzVymUA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          35,
+          18
+        ],
+        "popularity": 295.632,
+        "first_air_date": "2000-01-09",
+        "vote_average": 8.479,
+        "vote_count": 4449,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
+        "id": 1429,
+        "name": "Attack on Titan",
+        "original_name": "進撃の巨人",
+        "overview": "Birkaç yüzyıl önce insanlar, devler tarafından neredeyse tamamen yok edilmiştir. Bu devler uzun boyludur, zeki değildirler ve insanları yiyerek beslenirler. Küçük bir grup insan, çareyi en büyük devlerden bile uzun olan yüksek duvarlarla çevrili bir şehre kendilerini kapatarak bulmuşlardır. Günümüze gelindiğinde şehirde 100 yıldır hiç dev görülmemiştir. Genç çocuk Eren ve üvey kız kardeşi Mikasa, büyük bir dev tarafından şehrin duvarlarının yıkılışına tanık olurlar. Devler şehre akın etmeye başlar ve iki çocuk da annelerinin canlı canlı yenişine korku içinde tanıklık ederler. Eren her bir devi öldürüp tüm insanlığın intikamını alacağına yemin eder.",
+        "poster_path": "/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10765,
+          10759
+        ],
+        "popularity": 132.322,
+        "first_air_date": "2013-04-07",
+        "vote_average": 8.7,
+        "vote_count": 6613,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/sccDflItNho4OiHkzpiDxB2fUFw.jpg",
+        "id": 1418,
+        "name": "The Big Bang Theory",
+        "original_name": "The Big Bang Theory",
+        "overview": "En büyük zevkleri kuantum fiziğine kafa yormak olan üstün zekalı iki arkadaş, güzel bir kızla karşılaşınca ne yaparlar? The Big Bang Theory, işte o karşılaşma anında gerçekleşen büyük patlama ve sonrasını anlatan bir komedi dizisi. Leonard ve Sheldon adlarındaki iki arkadaşın oturdukları apartmanda yan dairelerine yeni bir komşu taşınır. Adı Penny olan bu komşu güzeller güzeli bir sarışındır. Üstelik maceralı bir ilişkiden daha yeni sapasağlam ayakta çıkmıştır. Penny, zekaları gereğinden fazla ilerlemiş, ancak kızlar konusunda oldukça geri kalmış bu yeni iki komşusuna hayat hakkında öğretebileceği bir şeyleri olduğunu düşünmektedir. Yaşanacak olanlar da zaman içinde onun ne kadar haklı olduğunu gösterecektir. ",
+        "poster_path": "/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 222.02,
+        "first_air_date": "2007-09-24",
+        "vote_average": 7.91,
+        "vote_count": 11545,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/mQJVtl7SYjNLwjsUZZsITmAxtdU.jpg",
+        "id": 77169,
+        "name": "Cobra Kai",
+        "original_name": "Cobra Kai",
+        "overview": "Amansız düşmanlar, kavgalı iki dövüş okulu, tazekan... Daniel ve Johnny, \"Karate Kid\" serisinin devamı niteliğindeki bu dizide West Valley'deki ezelî rekabeti kızıştırıyor.",
+        "poster_path": "/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          35
+        ],
+        "popularity": 484.596,
+        "first_air_date": "2018-05-02",
+        "vote_average": 8.2,
+        "vote_count": 6521,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/20eIP9o5ebArmu2HxJutaBjhLf4.jpg",
+        "id": 87108,
+        "name": "Çernobil",
+        "original_name": "Chernobyl",
+        "overview": "1986 senesinde Sovyet nükleer santralinde meydana gelen patlama sonrası santral işçileri ve itfaiyeciler faciayı kontrol altına almaya çalışır.",
+        "poster_path": "/87QSOjVXFwXpCcczMLhh2WRJDV5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 86.964,
+        "first_air_date": "2019-05-06",
+        "vote_average": 8.7,
+        "vote_count": 6644,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+        "id": 93405,
+        "name": "Squid Game",
+        "original_name": "오징어 게임",
+        "overview": "Para sıkıntısı çeken yüzlerce oyuncu, çocuk oyunlarında yarışmaları için aldıkları tuhaf daveti kabul eder. İçeride onları cazip bir ödül ve ölüm riski beklemektedir.",
+        "poster_path": "/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          10759,
+          9648,
+          18
+        ],
+        "popularity": 603.484,
+        "first_air_date": "2021-09-17",
+        "vote_average": 7.862,
+        "vote_count": 15548,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/wyspZaGs7CXceV3Ct7NJhcKNDkn.jpg",
+        "id": 48891,
+        "name": "Brooklyn Nine-Nine",
+        "original_name": "Brooklyn Nine-Nine",
+        "overview": "Jake, işinde iyi, yetenekli ve ekibi içinde yakalama oranı en iyi polistir. Ama öteki yandan ciddiyetten yoksun ve sıkı çalışması gerekmemiş biri olarak oldukça da rahat biridir. Ekibe yeni gelen patron, emrindekilerin “rozetin hakkını vermesi” gerektiğini düşünen biri olarak işe koyulur ve Jake’ten başlar. Bu da komik pek çok olayın yaşanmasına sebebiyet verir. Brooklyn 99, New York’lu bir grup dedektifin ekip içi ve suçlularla yaşadığı komik olaylar üstüne kurulu olacak.",
+        "poster_path": "/qYjAdP0n62dJ9WLl8WGeQj7CGPH.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          80
+        ],
+        "popularity": 473.676,
+        "first_air_date": "2013-09-17",
+        "vote_average": 8.2,
+        "vote_count": 3482,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
+        "id": 119051,
+        "name": "Wednesday",
+        "original_name": "Wednesday",
+        "overview": "Zeki, alaycı ve azıcık içi geçmiş bir kız olan Wednesday Addams, Nevermore Akademisinde yeni dostlar ve düşmanlar edinirken art arda gerçekleşen cinayetleri araştırır.",
+        "poster_path": "/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          9648,
+          35
+        ],
+        "popularity": 130.303,
+        "first_air_date": "2022-11-23",
+        "vote_average": 8.433,
+        "vote_count": 8902,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+        "id": 1399,
+        "name": "Game of Thrones",
+        "original_name": "Game of Thrones",
+        "overview": "Krallık dediğin savaşsız olur mu? En güçlü krallığı kurup, huzuru sağlamış olsan bile bu gücü elinde nasıl koruyacaksın? Burada yanlış yapana yer yok, affetmek yok. Kuzey Krallığının hükümdarı Lord Ned Stark, uzun ve zorlu savaşlardan sonra anayurduna dönüp krallığını bütünlük içerisinde tutmayı başarmıştır. Kral Robert Baratheon ile yıllarca omuz omuza çarpışan ve Baratheon'un kral olmasını sağlayan Ned Stark'ın tek istediği kuzey sınırlarını koruyan krallığında ailesiyle ve halkıyla yaşamaktır. \n\nFakat suyun öte yanında kendi topraklarından ve krallığından kovulduğunu iddia eden Viserys Targaryen , kız kardeşi Daenerys'i barbar kavimlerin başı Han Drogo'ya vererek, güç birliği planları yapmaktadır. Tahtını büyük bir iştahla geri isteyen ama kraliyet oyunlarından habersiz olan Viserys'in planları Kral Baratheon'a ulaşır. Savaş alanında büyük cengaver olan ama ülke ve aile yönetiminde aynı başarıyı tutturamayan Baratheon'un tamamen güvenebileceği ve her yanlış hamlesini arkasından toplayacak yeni bir sağ kola ihtiyacı vardır. Kuzeyin Lordu Ned Stark bu görev için seçilen tek aday isimdir. Kış yaklaşıyor...\n\nHanedan entrikaları, kapılı kapılar ardında dönen oyunlar, birilerinin kuyusunu kazmak için düşmanın koynuna girmekten çekinmeyen kadınlar, kardeşler arası çekişmeler, dışlanmalar... Hepsi tek bir hedef için: Taht kavgası..",
+        "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 723.189,
+        "first_air_date": "2011-04-17",
+        "vote_average": 8.5,
+        "vote_count": 24677,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/aTjbqMONy77fHJrIYu14g1F0d5h.jpg",
+        "id": 88396,
+        "name": "The Falcon and the Winter Soldier",
+        "original_name": "The Falcon and the Winter Soldier",
+        "overview": "Marvel Studios'dan \"The Falcon and The Winter Soldier\"da, Anthony Mackie Sam Wilson/Falcon olarak ve Sebastian Stan Bucky Barnes/Kış Askeri olarak rol almaktadır. \"Avengers: Endgame\"in son sahnelerinde bir araya gelen bu ikili, yeteneğinin ve sabrının sınandığı küresel bir macerada birlik olur.",
+        "poster_path": "/lRk6NxH6BTnEKdRdxkyPaoxGb3i.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "popularity": 81.848,
+        "first_air_date": "2021-03-19",
+        "vote_average": 7.635,
+        "vote_count": 8529,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

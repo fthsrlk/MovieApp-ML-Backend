@@ -1,0 +1,903 @@
+{
+  "adult": false,
+  "backdrop_path": "/9giQxevgoCWfSfXALGmuaXmqEq0.jpg",
+  "created_by": [
+    {
+      "id": 1230176,
+      "credit_id": "52572b64760ee3776a2dbc75",
+      "name": "Madeleine Smithberg",
+      "original_name": "Madeleine Smithberg",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 1230175,
+      "credit_id": "52572b63760ee3776a2dbc6d",
+      "name": "Lizz Winstead",
+      "original_name": "Lizz Winstead",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30,
+    22
+  ],
+  "first_air_date": "1996-07-22",
+  "genres": [
+    {
+      "id": 10763,
+      "name": "Haber"
+    },
+    {
+      "id": 35,
+      "name": "Komedi"
+    }
+  ],
+  "homepage": "https://www.cc.com/shows/the-daily-show",
+  "id": 2224,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-03-06",
+  "last_episode_to_air": {
+    "id": 5961730,
+    "name": "32. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-06",
+    "episode_number": 32,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 30,
+    "show_id": 2224,
+    "still_path": "/nTeIVWtnT0z9OgTA7UXvOH3IOzN.jpg"
+  },
+  "name": "The Daily Show",
+  "next_episode_to_air": {
+    "id": 5968067,
+    "name": "33. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-17",
+    "episode_number": 33,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 30,
+    "show_id": 2224,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 47,
+      "logo_path": "/6ooPjtXufjsoskdJqj6pxuvHEno.png",
+      "name": "Comedy Central",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 4063,
+  "number_of_seasons": 30,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Daily Show",
+  "overview": "",
+  "popularity": 3342.248,
+  "poster_path": "/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+  "production_companies": [
+    {
+      "id": 8136,
+      "logo_path": "/zHS0wY1haJ3GOvkHFOf8Dfjkyt3.png",
+      "name": "MTV",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1999-12-15",
+      "episode_count": 97,
+      "id": 6869,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1996-07-22",
+      "episode_count": 6,
+      "id": 6853,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/yCk9E4zzDi5W9zpDc2L8vCeLA.jpg",
+      "season_number": 1,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "1997-01-06",
+      "episode_count": 16,
+      "id": 6854,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/w7sob0PFeYV0S2Q8v1PMhge8qQS.jpg",
+      "season_number": 2,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "1998-03-09",
+      "episode_count": 33,
+      "id": 6855,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/jXrc4QyW1berVN4ZaX2eX0jOPsq.jpg",
+      "season_number": 3,
+      "vote_average": 5.2
+    },
+    {
+      "air_date": "1999-01-11",
+      "episode_count": 159,
+      "id": 6856,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/5geFJYuUrQPdNSiKPvJAfw1xCAu.jpg",
+      "season_number": 4,
+      "vote_average": 5.2
+    },
+    {
+      "air_date": "2000-01-04",
+      "episode_count": 166,
+      "id": 6857,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/qd87rtrifcts3nV9pza1N17xWtU.jpg",
+      "season_number": 5,
+      "vote_average": 5.1
+    },
+    {
+      "air_date": "2001-01-09",
+      "episode_count": 158,
+      "id": 6858,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/yiQeAEBblEDLVqg2ninkMvgj1d7.jpg",
+      "season_number": 6,
+      "vote_average": 5.2
+    },
+    {
+      "air_date": "2002-01-08",
+      "episode_count": 160,
+      "id": 6859,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/rnbkP4MG91w72LyGyHlBUfZC3Rv.jpg",
+      "season_number": 7,
+      "vote_average": 5.1
+    },
+    {
+      "air_date": "2003-01-07",
+      "episode_count": 161,
+      "id": 6860,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/1Vii2YyKtU6fLcKhHzsx5zk2Kay.jpg",
+      "season_number": 8,
+      "vote_average": 5.0
+    },
+    {
+      "air_date": "2004-01-06",
+      "episode_count": 161,
+      "id": 6861,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/mtE8VmeNr0UX1Q6B48HTjhu33kN.jpg",
+      "season_number": 9,
+      "vote_average": 5.1
+    },
+    {
+      "air_date": "2005-01-04",
+      "episode_count": 159,
+      "id": 6862,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/y5LJHtLDL1H7ZIcNUfuGQpmYbaG.jpg",
+      "season_number": 10,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2006-01-04",
+      "episode_count": 161,
+      "id": 6863,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/pn7dQLjbYCpthiGTOKh2svdKscr.jpg",
+      "season_number": 11,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "2007-01-08",
+      "episode_count": 138,
+      "id": 6864,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/7FGRSBm7ofcsGrGm8t1qPRfNAKG.jpg",
+      "season_number": 12,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "2008-01-07",
+      "episode_count": 160,
+      "id": 6865,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": "/y7hvsKSD8rwVcFcFrK01SrbdKQv.jpg",
+      "season_number": 13,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2009-01-05",
+      "episode_count": 161,
+      "id": 6866,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": "/rDXpjby6TwgZGgOIV2C3TGV7pFz.jpg",
+      "season_number": 14,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2010-01-04",
+      "episode_count": 161,
+      "id": 6867,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": "/9RJ8xiky5HjRaHyTqHr6Wnq7PsX.jpg",
+      "season_number": 15,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2011-01-03",
+      "episode_count": 124,
+      "id": 6868,
+      "name": "Sezon 16",
+      "overview": "",
+      "poster_path": "/kqgmQuTwhhLVfKryvvRsDbphgP6.jpg",
+      "season_number": 16,
+      "vote_average": 6.3
+    },
+    {
+      "air_date": "2011-10-03",
+      "episode_count": 157,
+      "id": 6870,
+      "name": "Sezon 17",
+      "overview": "",
+      "poster_path": "/gF5TfevTC8TygbP7UxAhHyxcBX.jpg",
+      "season_number": 17,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2012-10-01",
+      "episode_count": 158,
+      "id": 6871,
+      "name": "Sezon 18",
+      "overview": "",
+      "poster_path": "/slYpAA2Z59Hqe9hly1Icie77j0N.jpg",
+      "season_number": 18,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2013-09-30",
+      "episode_count": 159,
+      "id": 6872,
+      "name": "Sezon 19",
+      "overview": "",
+      "poster_path": "/uW0IkZO2jTkkvcJNnQyORow567m.jpg",
+      "season_number": 19,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2014-09-29",
+      "episode_count": 142,
+      "id": 62883,
+      "name": "Sezon 20",
+      "overview": "",
+      "poster_path": "/sef2tN05NkqEBebMpxYUbqmhtTJ.jpg",
+      "season_number": 20,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2015-09-28",
+      "episode_count": 161,
+      "id": 69386,
+      "name": "Sezon 21",
+      "overview": "",
+      "poster_path": "/eD57c6ZXKhCXDL1x04BQ8f3UvUo.jpg",
+      "season_number": 21,
+      "vote_average": 6.2
+    },
+    {
+      "air_date": "2016-10-03",
+      "episode_count": 163,
+      "id": 82654,
+      "name": "Sezon 22",
+      "overview": "",
+      "poster_path": "/tsZObxYYSYHW5T4BJh2tx43awxi.jpg",
+      "season_number": 22,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "2017-10-02",
+      "episode_count": 157,
+      "id": 93178,
+      "name": "Sezon 23",
+      "overview": "",
+      "poster_path": "/tsZObxYYSYHW5T4BJh2tx43awxi.jpg",
+      "season_number": 23,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2018-10-01",
+      "episode_count": 158,
+      "id": 110826,
+      "name": "Sezon 24",
+      "overview": "",
+      "poster_path": "/tsZObxYYSYHW5T4BJh2tx43awxi.jpg",
+      "season_number": 24,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2019-09-30",
+      "episode_count": 160,
+      "id": 136086,
+      "name": "Sezon 25",
+      "overview": "",
+      "poster_path": "/tsZObxYYSYHW5T4BJh2tx43awxi.jpg",
+      "season_number": 25,
+      "vote_average": 6.3
+    },
+    {
+      "air_date": "2020-09-28",
+      "episode_count": 116,
+      "id": 168511,
+      "name": "Sezon 26",
+      "overview": "",
+      "poster_path": "/nz5fAg1OomLZ7fxiM4RnLbJxppc.jpg",
+      "season_number": 26,
+      "vote_average": 6.0
+    },
+    {
+      "air_date": "2021-09-27",
+      "episode_count": 140,
+      "id": 202361,
+      "name": "Sezon 27",
+      "overview": "",
+      "poster_path": "/keWvkxMEfa3whsRyWFGPcNVbIN8.jpg",
+      "season_number": 27,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2022-10-03",
+      "episode_count": 122,
+      "id": 310853,
+      "name": "Sezon 28",
+      "overview": "",
+      "poster_path": "/9xcM8pbsMNR7eLdVCzzfcB59xgT.jpg",
+      "season_number": 28,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2024-02-12",
+      "episode_count": 138,
+      "id": 375682,
+      "name": "Sezon 29",
+      "overview": "",
+      "poster_path": "/9mK4ZRWpKUA77XNv6rnI8gnyrhQ.jpg",
+      "season_number": 29,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2025-01-06",
+      "episode_count": 48,
+      "id": 433278,
+      "name": "Sezon 30",
+      "overview": "",
+      "poster_path": "/3ILKVWrfRAH5eJhRRlOVIpw6s1O.jpg",
+      "season_number": 30,
+      "vote_average": 8.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 6.4,
+  "vote_count": 553,
+  "credits": {
+    "cast": [],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "sarcasm",
+        "id": 2466
+      },
+      {
+        "name": "interview",
+        "id": 4434
+      },
+      {
+        "name": "politics",
+        "id": 6078
+      },
+      {
+        "name": "political satire",
+        "id": 169086
+      },
+      {
+        "name": "late-night show",
+        "id": 242216
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/uXhIpe03EaFffpRa7IoPPSnFptS.jpg",
+        "id": 1489,
+        "name": "Jimmy Kimmel Live!",
+        "original_name": "Jimmy Kimmel Live!",
+        "overview": "Jimmy Kimmel Live! is an American late-night talk show, created and hosted by Jimmy Kimmel and broadcast on ABC.",
+        "poster_path": "/z1CAt5BCQEmmqtkze8B1UelQzkY.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767,
+          35
+        ],
+        "popularity": 288.829,
+        "first_air_date": "2003-01-26",
+        "vote_average": 5.5,
+        "vote_count": 162,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/iEg2LHsFV3vC6LywkBAL3c1n9PP.jpg",
+        "id": 61818,
+        "name": "Late Night with Seth Meyers",
+        "original_name": "Late Night with Seth Meyers",
+        "overview": "Seth Meyers, who is \"Saturday Night Live’s\" longest serving anchor on the show’s wildly popular \"Weekend Update,\" takes over as host of NBC’s \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+        "poster_path": "/jm95V8XjfvqmEhw0MN09wbg9Mi3.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767,
+          35
+        ],
+        "popularity": 4670.664,
+        "first_air_date": "2014-02-25",
+        "vote_average": 5.4,
+        "vote_count": 98,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uganUhifpqzzAunI0PETnutlmR.jpg",
+        "id": 8621,
+        "name": "Late Night with Jimmy Fallon",
+        "original_name": "Late Night with Jimmy Fallon",
+        "overview": "Late Night with Jimmy Fallon is an American late-night talk show airing weeknights at 12:35 am Eastern/11:35 pm Central on NBC in the United States. The hour-long show premiered on March 2, 2009, and is hosted by actor, comedian and performer Jimmy Fallon, an alumnus of Saturday Night Live. Hip hop/neo soul band The Roots serve as the show's house band, and Steve Higgins is the show's announcer.\n\nThe third incarnation of the Late Night franchise originated by David Letterman, the program originates from NBC Studio 6B in the GE Building at 30 Rockefeller Center in New York City. The show typically opens with a brief monologue from Fallon, followed by a comedy \"desk piece,\" as well as prerecorded segments and audience competitions. The next segment is devoted to a celebrity interview, with guests ranging from actors and musicians to media personalities and political figures. The show then closes with either a musical or comedy performance. The show frequently employs digital media into its comedy, which has become crucial to its success. Fallon has been appointed to become the next host of The Tonight Show, where he will succeed the current host Jay Leno at the conclusion of the 2014 Winter Olympics, with fellow SNL alum Seth Meyers slated to replace Fallon.",
+        "poster_path": "/l8WzbOr7vg3WDlB3hoy32wZDxwj.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 487.481,
+        "first_air_date": "2009-03-02",
+        "vote_average": 6.0,
+        "vote_count": 93,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vC3My8tteHqwGngu9u5aeIOi8vX.jpg",
+        "id": 66309,
+        "name": "Lady Dynamite",
+        "original_name": "Lady Dynamite",
+        "overview": "A single-camera half-hour comedy based on what Maria Bamford has accepted to be \"her life.\" It's the sometimes surreal story of a woman who loses — and then finds — her s**t.",
+        "poster_path": "/ke7ShO4UdZ3M2WwAooUTQXoZAua.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 23.709,
+        "first_air_date": "2016-05-20",
+        "vote_average": 6.831,
+        "vote_count": 65,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/l4fcSRT8lbpcWVqmAzZZR79n1OW.jpg",
+        "id": 69715,
+        "name": "Humorously Yours",
+        "original_name": "Humorously Yours",
+        "overview": "Follows the life of Vipul Goyal , a Stand Up comedian. As the tagline says \"The drama behind the comedy\"",
+        "poster_path": "/138zC3znm8vY0EtXEhvvCMVGI45.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "hi",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 11.088,
+        "first_air_date": "2016-12-11",
+        "vote_average": 7.1,
+        "vote_count": 18,
+        "origin_country": [
+          "IN"
+        ]
+      },
+      {
+        "backdrop_path": "/5p0Y4z588I4kwmSemNC8Mfm3LuG.jpg",
+        "id": 68901,
+        "name": "Leah Remini: Scientology and the Aftermath",
+        "original_name": "Leah Remini: Scientology and the Aftermath",
+        "overview": "Leah Remini, along with high level former Scientology executives and Church members, explores individual accounts from ex-Church members and their families through meetings and interviews with Leah. Each episode features stories from former members whose lives have been affected by the Church's harmful practices, even well after they left the organization.",
+        "poster_path": "/uMLztzfmIFAmmD2BHXVwWGxwfO2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 50.854,
+        "first_air_date": "2016-11-29",
+        "vote_average": 8.0,
+        "vote_count": 61,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/c4pDqJF0RugviUlFp0pjqNsSajz.jpg",
+        "id": 240457,
+        "name": "Douglas Is Cancelled",
+        "original_name": "Douglas Is Cancelled",
+        "overview": "The career of respected news presenter Douglas is threatened after he makes an ill-advised joke. With her 2 million social media followers, tech-savvy co-anchor Madeline could throw Douglas a lifeline by posting in his defense… but will she?",
+        "poster_path": "/yjw2KjAFnqPzCNOYgh3yiLQOZl5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 26.774,
+        "first_air_date": "2024-06-27",
+        "vote_average": 7.393,
+        "vote_count": 28,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg",
+        "id": 4573,
+        "name": "Late Night with Conan O'Brien",
+        "original_name": "Late Night with Conan O'Brien",
+        "overview": "Stepping into the late-late slot vacated by David Letterman, Conan O'Brien stars in a show that far outdoes its competition in sheer strangeness. Along with the celebrity interviews and musical numbers typical of late-night talk shows, this program make frequent use of odd walk-on characters and frequent \"visits\" from celebrity guests.",
+        "poster_path": "/gJZ1rhLLFpatuAeylJoUI82DKC7.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 151.179,
+        "first_air_date": "1993-09-13",
+        "vote_average": 7.1,
+        "vote_count": 136,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/n242HclzlGD5UZDkYBDUYQi7f0w.jpg",
+        "id": 41776,
+        "name": "Vinnie & Bobby",
+        "original_name": "Vinnie & Bobby",
+        "overview": "",
+        "poster_path": "/84iMS4DJMbdIsQrRb6tXzATDGJq.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 7.954,
+        "first_air_date": "1992-05-30",
+        "vote_average": 7.5,
+        "vote_count": 2,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 9870,
+        "name": "Steve Harvey's Big Time Challenge",
+        "original_name": "Steve Harvey's Big Time Challenge",
+        "overview": "Multi-talented, award-winning comedian Steve Harvey host a show designed to showcase real people with extraordinary and humorous gifts.",
+        "poster_path": null,
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 17.211,
+        "first_air_date": "2003-09-11",
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gMMnf8VRg3Z98WaFmOLr9Jk8pIs.jpg",
+        "id": 63770,
+        "name": "The Late Show with Stephen Colbert",
+        "original_name": "The Late Show with Stephen Colbert",
+        "overview": "Doğaçlama oyuncusu ve komedyen Stephen Colbert, uzun zamandır beklenen televizyona dönüşünü yaparken \"The Colbert Report\" karakterini geride bırakıyor. New York'taki tarihi Ed Sullivan Tiyatrosu'nda kaydedilen The Late Show franchise redux'un ev sahibi olarak Colbert, aktörler, sporcular, politikacılar, çizgi romanlar, sanatçılar ve müzisyenlerle ilk kez kendisi olarak konuşuyor. Bununla birlikte, sadık hayranlar, Colbert'in eski girişiminden yazı ve dijital ekibinin birçok üyesi tarafından desteklenmeye devam ettiği için tutarlılık muamelesi görecek. Julliard tarafından eğitilmiş Jon Batiste, grup lideri olarak görev yapıyor.",
+        "poster_path": "/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 4211.46,
+        "first_air_date": "2015-09-08",
+        "vote_average": 6.5,
+        "vote_count": 290,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/3u5b6Zy3EKQX0ALvg1uBC7wd1Jw.jpg",
+        "id": 4419,
+        "name": "Real Time with Bill Maher",
+        "original_name": "Real Time with Bill Maher",
+        "overview": "Each week Bill Maher surrounds himself with a panel of guests which include politicians, actors, comedians, musicians and the like to discuss what's going on in the world.",
+        "poster_path": "/pbpoLLp4kvnYVfnEGiEhagpJuVZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 1377.986,
+        "first_air_date": "2003-02-21",
+        "vote_average": 6.0,
+        "vote_count": 209,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qFfWFwfaEHzDLWLuttWiYq7Poy2.jpg",
+        "id": 2261,
+        "name": "The Tonight Show Starring Johnny Carson",
+        "original_name": "The Tonight Show Starring Johnny Carson",
+        "overview": "The Tonight Show Starring Johnny Carson is a talk show hosted by Johnny Carson under The Tonight Show franchise from 1962 to 1992. It originally aired during late-night. For its first ten years, Carson's Tonight Show was based in New York City with occasional trips to Burbank, California; in May 1972, the show moved permanently to Burbank, California. In 2002, The Tonight Show Starring Johnny Carson was ranked #12 on TV Guide's 50 Greatest TV Shows of All Time.",
+        "poster_path": "/oA8QVTGlAN511uCAMDN60aVQUs1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 3828.286,
+        "first_air_date": "1962-10-01",
+        "vote_average": 7.41,
+        "vote_count": 72,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gEs0kv3PNIWSYgqTjswTiCHiUe4.jpg",
+        "id": 38657,
+        "name": "Ridiculousness",
+        "original_name": "Ridiculousness",
+        "overview": "Rob Dyrdek takes the funniest amateur internet videos and builds them into an episode of edgy, funny, and most importantly, timeless television.",
+        "poster_path": "/4rJdcHQrE4stnZTEAP0m4gnlVQi.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767,
+          10764
+        ],
+        "popularity": 451.519,
+        "first_air_date": "2011-08-29",
+        "vote_average": 6.9,
+        "vote_count": 109,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/bk7QdAIUqkGpZO5GUX4AMB2AZIB.jpg",
+        "id": 82873,
+        "name": "The Kelly Clarkson Show",
+        "original_name": "The Kelly Clarkson Show",
+        "overview": "Kelly Clarkson presents the biggest newsmakers and names in film, television and music; as well as emerging new talent and everyday people who are beacons of hope in their communities.",
+        "poster_path": "/9Gg1oM8Us8gCS5aJA8e0ZRuIHnf.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 1445.093,
+        "first_air_date": "2019-09-09",
+        "vote_average": 6.3,
+        "vote_count": 59,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4MRgkPa85umPuvNpahlQo1JtzMP.jpg",
+        "id": 31497,
+        "name": "The League",
+        "original_name": "The League",
+        "overview": "The League is an American sitcom and semi-improvised comedy about a about a fantasy football league and its members and their everyday lives.",
+        "poster_path": "/2l9lrTVG0BxU7zqsf5UQ1g4AbBH.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 99.44,
+        "first_air_date": "2009-10-29",
+        "vote_average": 7.387,
+        "vote_count": 195,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/butPVWgcbtAjL9Z7jU7Xj1KA8KD.jpg",
+        "id": 22980,
+        "name": "Watch What Happens Live with Andy Cohen",
+        "original_name": "Watch What Happens Live with Andy Cohen",
+        "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+        "poster_path": "/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767,
+          35
+        ],
+        "popularity": 3751.723,
+        "first_air_date": "2009-07-16",
+        "vote_average": 4.8,
+        "vote_count": 60,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/Ajku4m7jbMpCTEPr794Imv19mCA.jpg",
+        "id": 4385,
+        "name": "The Colbert Report",
+        "original_name": "The Colbert Report",
+        "overview": "Colbert Raporu, Pazartesi ile Perşembe günleri Komedi Merkezi'nde yayınlanan Amerikan hicivli bir gece televizyon programı. Jon Stewart ile The Daily Show'un eski muhabiri olan politik mizahcı Stephen Colbert'i canlandırıyor. Colbert Raporu, politikaya ve medyaya benzer şekilde yorum yapan The Daily Show'dan bir ve ikiye bölündü. Özellikle Fox News'in The O'Reilly Factor adlı muhafazakar kişiliğe dayalı politik pundit programlarını hicvediyor. Gösteri, gerçek hayat isimleriyle oynanan Stephen Colbert adlı kurgusal bir çapa karakterine odaklanıyor. Colbert tarafından “iyi niyetli, iyi bilgilendirilmiş, yüksek mevkili bir aptal” olarak tanımlanan karakter, televizyonda siyaset uzmanlarının karikatürüdür.\n\nColbert Raporu her biri 2006, 2007, 2008, 2009, 2010, 2011 ve 2012'de yedi Primetime Emmy Ödülü, iki Televizyon Eleştirmenleri Derneği Ödülü ve iki Uydu Ödülüne aday gösterildi. 2013 yılında iki Emmys kazandı. Tom DeLay Legal Defence Trust ve Robert Wexler'ın programa verdiği röportajı takiben birçok örnekte hicivsiz bir gazetecilik olarak sunuldu. Söz konusu rapor, 17 Ekim 2005'te Colbert'in “hakikat” terimini, söz konusu yayınevini Merriam-Webster'ın 2006 Yılı Kelimesi olarak adlandırdığı ilk filmi izleyerek, medyada önemli ölçüde yer aldı.",
+        "poster_path": "/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10763,
+          35
+        ],
+        "popularity": 2794.133,
+        "first_air_date": "2005-10-17",
+        "vote_average": 6.801,
+        "vote_count": 266,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dnePq1kDs0On398Oc7sVUCZgtft.jpg",
+        "id": 1952,
+        "name": "Mystery Science Theater 3000",
+        "original_name": "Mystery Science Theater 3000",
+        "overview": "1988 -1999 tarihleri arasında amerikan televizyonlarında yayınlanmış alternatif bir bilim kurgu dizisidir. Dizinin ana kahramanı Joel, çılgın bilim adamları tarafından kaçırılır ve uzayda bir uydunun içine hapsedilir ve birbirinden kotu filmler seyretmeye zorlanır. Bilim adamlarının amacı olabilecek bütün kotu filmleri Joel'e izlettirip, aralarından en kötüsünü insanlık üzerinde kullanıp dünyayı ele geçirmektir. her bölümde ayrı bir film vardır ve biz filmi sanki sinema salonunda seyredermiş gibi görürüz ekranda. Dizinin eğlenceli yani filmin kendisi değil, öndeki izleyenlerin yorumlarıdır. Her bölüm yaklaşık 2 saat sürmektedir.",
+        "poster_path": "/nNeb35RFoeLwxu0CFzZ9NAI5UTA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10765
+        ],
+        "popularity": 143.322,
+        "first_air_date": "1989-11-25",
+        "vote_average": 7.708,
+        "vote_count": 204,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5tGYbT3irV4ZuO7M65HewlVT6fx.jpg",
+        "id": 2730,
+        "name": "I Love Lucy",
+        "original_name": "I Love Lucy",
+        "overview": "Cuban Bandleader Ricky Ricardo would be happy if his wife Lucy would just be a housewife. Instead she tries constantly to perform at the Tropicana where he works, and make life comically frantic in the apartment building they share with landlords Fred and Ethel Mertz, who also happen to be their best friends.",
+        "poster_path": "/mPUSrFTvQqwEqTtfukxJBtkbxWj.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 280.453,
+        "first_air_date": "1951-10-15",
+        "vote_average": 7.905,
+        "vote_count": 226,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

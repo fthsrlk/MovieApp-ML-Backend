@@ -1,0 +1,558 @@
+{
+  "adult": false,
+  "backdrop_path": "/tLL91JBiCCvBF7oKSN6dFR7yd8c.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2021-12-20",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Gerçeklik"
+    }
+  ],
+  "homepage": "https://www.sonyliv.com/shows/shark-tank-india-1700000741",
+  "id": 153870,
+  "in_production": true,
+  "languages": [
+    "hi"
+  ],
+  "last_air_date": "2025-02-28",
+  "last_episode_to_air": {
+    "id": 6017355,
+    "name": "44. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-06",
+    "episode_number": 44,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 4,
+    "show_id": 153870,
+    "still_path": null
+  },
+  "name": "शार्क टैंक इंडिया",
+  "next_episode_to_air": {
+    "id": 6017357,
+    "name": "45. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-07",
+    "episode_number": 45,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 4,
+    "show_id": 153870,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 676,
+      "logo_path": "/vamK8zdyD953QvkMIGf4J93MPKz.png",
+      "name": "Sony Entertainment Television",
+      "origin_country": "IN"
+    },
+    {
+      "id": 2646,
+      "logo_path": "/1PAnuglMmNBiUSFn6HWWtE7GOAJ.png",
+      "name": "Sony Liv",
+      "origin_country": "IN"
+    }
+  ],
+  "number_of_episodes": 184,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_name": "शार्क टैंक इंडिया",
+  "overview": "",
+  "popularity": 1362.459,
+  "poster_path": "/iGw6R4e4G07xjffVifFLSN3dEAb.jpg",
+  "production_companies": [
+    {
+      "id": 167164,
+      "logo_path": null,
+      "name": "StudioNEXT",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-12-22",
+      "episode_count": 30,
+      "id": 306368,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2021-12-20",
+      "episode_count": 36,
+      "id": 236666,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/nbRAI7XITtplOgJ6xNMtiAUy8Ch.jpg",
+      "season_number": 1,
+      "vote_average": 9.0
+    },
+    {
+      "air_date": "2023-01-02",
+      "episode_count": 51,
+      "id": 314952,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/iGw6R4e4G07xjffVifFLSN3dEAb.jpg",
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2024-01-22",
+      "episode_count": 52,
+      "id": 372386,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/mcnfDB06UgfKsyBTrL1nlkNoIwp.jpg",
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2025-01-06",
+      "episode_count": 45,
+      "id": 435209,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/itJ8ovy0bE7Cx20FfCYTv7VRgAJ.jpg",
+      "season_number": 4,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 7.5,
+  "vote_count": 16,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2473849,
+        "known_for_department": "Acting",
+        "name": "Sahiba Bali",
+        "original_name": "Sahiba Bali",
+        "popularity": 2.957,
+        "profile_path": "/rE7UARkX1ZX3ak6WE2DIq2raXZh.jpg",
+        "character": "Anchor",
+        "credit_id": "677e075044d649ffae7afb7e",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4686824,
+        "known_for_department": "Crew",
+        "name": "Aashish Solanki",
+        "original_name": "Aashish Solanki",
+        "popularity": 0.001,
+        "profile_path": "/41mSWX00T4paLGBzG93JUnjahMc.jpg",
+        "character": "Anchor",
+        "credit_id": "6780a7b6ed679e53f87b1d83",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5166106,
+        "known_for_department": "Camera",
+        "name": "Sukhvinder Singh Chauhan",
+        "original_name": "Sukhvinder Singh Chauhan",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "677de6a7601acfe7bd4e57c0",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4543166,
+        "known_for_department": "Editing",
+        "name": "Sohail Khan",
+        "original_name": "Sohail Khan",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "677de6f389fc5d94424e5c09",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "business",
+        "id": 12094
+      },
+      {
+        "name": "entrepreneurship",
+        "id": 159983
+      },
+      {
+        "name": "investor",
+        "id": 160483
+      },
+      {
+        "name": "product pitch",
+        "id": 260866
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/8eQZE28pvjdlWyZGShpqSJ7cKZK.jpg",
+        "id": 275204,
+        "name": "Dhindora",
+        "original_name": "Dhindora",
+        "overview": "The story revolves around Bhuvan and his family's everyday lives, when an unexpected purchase leads to a series of events and depicts every common man's larger than life dreams.",
+        "poster_path": "/cI0yjDelQsYHgURMNCFWlKEqvcB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "hi",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 1.583,
+        "first_air_date": "2021-10-14",
+        "vote_average": 6.6,
+        "vote_count": 5,
+        "origin_country": [
+          "IN"
+        ]
+      },
+      {
+        "backdrop_path": "/n85GMdNw2pDVtkgoTdpHNpM89Uh.jpg",
+        "id": 42316,
+        "name": "Devon Ke Dev...Mahadev",
+        "original_name": "देवों के देव...महादेव",
+        "overview": "He is the supreme being and the destroyer of evil. Witness lord Shiva's story, his avatars, and a union that sha more.",
+        "poster_path": "/oMzXcYsUVIt6pQEODc6FRe8IBug.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "hi",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 164.464,
+        "first_air_date": "2011-12-18",
+        "vote_average": 9.1,
+        "vote_count": 7,
+        "origin_country": [
+          "IO"
+        ]
+      },
+      {
+        "backdrop_path": "/5772mIxerrOtleSmFadAV8RyXQZ.jpg",
+        "id": 130542,
+        "name": "Bhagya Lakshmi",
+        "original_name": "Bhagya Lakshmi",
+        "overview": "Hailing from a middle-class family, Lakshmi’s life is upended when she realises that her marriage to Rishi Oberoi, an industrialist’s son, is a sham to keep his death at bay.",
+        "poster_path": "/gG7VzFKAOuGqCJyHQJRTn9f7UMl.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "hi",
+        "genre_ids": [
+          10766
+        ],
+        "popularity": 111.5,
+        "first_air_date": "2021-08-03",
+        "vote_average": 5.9,
+        "vote_count": 109,
+        "origin_country": [
+          "IN"
+        ]
+      },
+      {
+        "backdrop_path": "/3tMoVDRl6QYm0uffYyrTCmSGadT.jpg",
+        "id": 100720,
+        "name": "Local Perspective",
+        "original_name": "局部",
+        "overview": "Follow Chen Danqing's eyes to gain insight into the subtle and vast world of Wanhua and enjoy the wonderful details of famous paintings. Chen Danqing's eyes are a precious artistic treasure of this era. This program, through his eyes, his words, his insight and aesthetics, tells the story of each minute part of a masterpiece of Chinese and Western painting, a wonderful detail that no one notices but will be enlightened and applauded after seeing it. The whole film was shot in Chen Danqing's studio and later supplemented with a lot of animation effects. Through topics and stories of interest to young people, the film is guided to re-examine the neglected corners of art creation and artists in various periods.",
+        "poster_path": "/ardYSurlkOyFZCT35cSoEx7CNzQ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "zh",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 8.565,
+        "first_air_date": "2015-06-16",
+        "vote_average": 9.0,
+        "vote_count": 3,
+        "origin_country": [
+          "CN"
+        ]
+      },
+      {
+        "backdrop_path": "/eCAt3ImTgup0rOjYcSOFU31Ser1.jpg",
+        "id": 130519,
+        "name": "The Super Trio Mega Show",
+        "original_name": "驚天動地獎門人",
+        "overview": "",
+        "poster_path": "/lDOMV8at3FdP2Gy7woA9IPsk4zt.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "cn",
+        "genre_ids": [
+          10764,
+          35
+        ],
+        "popularity": 12.161,
+        "first_air_date": "1999-09-05",
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "origin_country": [
+          "HK"
+        ]
+      },
+      {
+        "backdrop_path": "/84l9trPPTmiBH44PXTiGYUGtPVU.jpg",
+        "id": 137149,
+        "name": "Moebius Project 2012: The Veil",
+        "original_name": "뫼비우스: 검은태양",
+        "overview": "The story of a huge incident faced by Seo Soo-yeon from the support management team that supports and manages NIS field agents in China, Jang Cheon-woo, a hidden NIS black agent and Do Jin-sook, deputy director of overseas parts.",
+        "poster_path": "/zFTUHOqC0WGNwo32MDKdPJyxpXw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          9648,
+          10759
+        ],
+        "popularity": 5.386,
+        "first_air_date": "2021-10-29",
+        "vote_average": 7.7,
+        "vote_count": 13,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/7zTpY9iQPsU0sLhjr2HJJHAuPR0.jpg",
+        "id": 208057,
+        "name": "HI-YENA",
+        "original_name": "HI-YENA",
+        "overview": "",
+        "poster_path": "/wd7Qmb8MhxJXXVqX9LtQt8O1f6Y.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 3.281,
+        "first_air_date": "2022-01-15",
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/jgq9UNKZlV9GhpIrXA5CoIFMYmS.jpg",
+        "id": 117532,
+        "name": "Hip Hop Uncovered",
+        "original_name": "Hip Hop Uncovered",
+        "overview": "Hip hopun hayatta kalma ve isyan ifadesinden müziğin en baskın türüne yolculuğunda Amerika sokaklarının bu kültürü şekillendirmeye nasıl yardımcı olduğunun anlatılmamış hikâyesi.",
+        "poster_path": "/nfzGM9G4cMhByE3LCLEYsAH9duO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 7.348,
+        "first_air_date": "2021-02-12",
+        "vote_average": 6.0,
+        "vote_count": 6,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 131437,
+        "name": "異次元の世界エルハザード",
+        "original_name": "異次元の世界エルハザード",
+        "overview": "",
+        "poster_path": "/jYzkkQ4nlFxmuiHFGvRVX6ZAVvC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [],
+        "popularity": 0.61,
+        "first_air_date": "1998-01-07",
+        "vote_average": 7.0,
+        "vote_count": 1,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/oSTfSYChSRTVu6PmNvyKb0yXUPw.jpg",
+        "id": 236298,
+        "name": "Selena + Chef: Home for the Holidays",
+        "original_name": "Selena + Chef: Home for the Holidays",
+        "overview": "Selena Gomez is at the top of her game as a musical artist, actor, businesswoman, and philanthropist, but she calls in the experts to help amp up her kitchen skills for the holidays. This year she has invited all-star chefs Eric Adjepong, Alex Guarnaschelli, Michael Symon, and Claudette Zepeda to bring their favorite dishes and culinary wisdom to her home kitchen so they can cook up perfect holiday meals to share with friends and family.",
+        "poster_path": "/xlxfOdtYHIhM9QVFT31bvmwitkb.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 13.243,
+        "first_air_date": "2023-11-30",
+        "vote_average": 9.7,
+        "vote_count": 17,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 236360,
+        "name": "Re: Follower",
+        "original_name": "Re:フォロワー",
+        "overview": "A rumor spreads that Kureshida is able to solve people's problems. Because of this, Kureshida's popularity on social media explodes. Kureshida actually consists of its leader Hitomi, Yusaku, Tomoki and Kimito, but the public is unaware of their individual identities. Every day, the 4 members of Kureshida gather at the library where Tomoki works. They select a client among the people who have sent in their stories, collect information about that person and try to solve their problems.",
+        "poster_path": "/zAPGNiRvcbtZnG7KajMwI4qlsVa.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [],
+        "popularity": 3.3,
+        "first_air_date": "2019-10-05",
+        "vote_average": 5.0,
+        "vote_count": 1,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/xUnFMLzOkIoOMWL5GMNG2rMJboc.jpg",
+        "id": 155169,
+        "name": "Harem Marriage",
+        "original_name": "ハレ婚。",
+        "overview": "All the men she has dated while living in Tokyo have been married. Tired of love and life in Tokyo, Koharu Maezono (Haruka Shimazaki) returns to her hometown. There, she learns that her father has fallen ill and the coffee shop Lupin, which her parents run, has been forced to close due to massive debts!",
+        "poster_path": "/tm4LEFuiY8idTnVAmpmNoLmQ2ax.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 7.523,
+        "first_air_date": "2022-01-16",
+        "vote_average": 8.5,
+        "vote_count": 2,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/9rrPIrtDfCmwP57Cf3Fj60DADvC.jpg",
+        "id": 114599,
+        "name": "Hellbenders",
+        "original_name": "Hellbenders",
+        "overview": "The adventures of two young boys, Chris and Zach, who live in a world surrounded by not so normal things.",
+        "poster_path": "/lLZPXPsxUWgo4cYr9vyJFAODTec.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 2.71,
+        "first_air_date": "2012-11-07",
+        "vote_average": 6.6,
+        "vote_count": 5,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 138499,
+        "name": "中國の食文化",
+        "original_name": "中國の食文化",
+        "overview": "",
+        "poster_path": "/p7kvPSamth21wP4koIkJqguPY6T.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 0.036,
+        "first_air_date": "1985-10-25",
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 217213,
+        "name": "Pay-Ibig",
+        "original_name": "PAY-IBIG",
+        "overview": "A unique story about uncertainty, sickness, gender identity vs sexual preference, and unrequited love vs unconditional love.",
+        "poster_path": "/bTBQEJnSixHEFA5Glgqv678Neba.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "tl",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 6.204,
+        "first_air_date": "2021-12-08",
+        "vote_average": 7.0,
+        "vote_count": 1,
+        "origin_country": [
+          "PH"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

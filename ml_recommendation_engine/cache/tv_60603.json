@@ -1,0 +1,817 @@
+{
+  "adult": false,
+  "backdrop_path": "/5pN8ouV9pWL5M7pSbz22IEXtNO8.jpg",
+  "created_by": [
+    {
+      "id": 6868,
+      "credit_id": "5490478b9251412203001a6e",
+      "name": "Kevin Burns",
+      "original_name": "Kevin Burns",
+      "gender": 2,
+      "profile_path": "/xGGMVmWHYzEiThXPWfC0EZI42H8.jpg"
+    }
+  ],
+  "episode_run_time": [
+    43
+  ],
+  "first_air_date": "2014-01-05",
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Gizem"
+    },
+    {
+      "id": 10759,
+      "name": "Aksiyon & Macera"
+    },
+    {
+      "id": 10764,
+      "name": "Gerçeklik"
+    },
+    {
+      "id": 99,
+      "name": "Belgesel"
+    }
+  ],
+  "homepage": "https://www.history.com/shows/the-curse-of-oak-island/",
+  "id": 60603,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-04-01",
+  "last_episode_to_air": {
+    "id": 6165488,
+    "name": "23. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-05-06",
+    "episode_number": 23,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 42,
+    "season_number": 12,
+    "show_id": 60603,
+    "still_path": "/98H57v4FgEvkW0nmLB0OJhsze8g.jpg"
+  },
+  "name": "The Curse of Oak Island",
+  "next_episode_to_air": {
+    "id": 6199489,
+    "name": "24. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-05-13",
+    "episode_number": 24,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 12,
+    "show_id": 60603,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 65,
+      "logo_path": "/9fGgdJz17aBX7dOyfHJtsozB7bf.png",
+      "name": "History",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 227,
+  "number_of_seasons": 14,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Curse of Oak Island",
+  "overview": "",
+  "popularity": 101.2924,
+  "poster_path": "/gtkxUUmHDF31iDUOlxQqUXmiU71.jpg",
+  "production_companies": [
+    {
+      "id": 11453,
+      "logo_path": "/82y8ld5VUXjAy7k3U3h61XO5lrx.png",
+      "name": "Prometheus Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2015-11-10",
+      "episode_count": 47,
+      "id": 82094,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2014-01-05",
+      "episode_count": 5,
+      "id": 59978,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/8i5JvPZWkqOvpWG4BIfXdt4hY2k.jpg",
+      "season_number": 1,
+      "vote_average": 5.6
+    },
+    {
+      "air_date": "2014-11-04",
+      "episode_count": 10,
+      "id": 63381,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/loTRt4yNp9JVXc7lwvtIBpyJilW.jpg",
+      "season_number": 2,
+      "vote_average": 4.0
+    },
+    {
+      "air_date": "2015-11-10",
+      "episode_count": 13,
+      "id": 71915,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/gmCBiA8x8S5PY2hMKnpq2xflCn5.jpg",
+      "season_number": 3,
+      "vote_average": 3.9
+    },
+    {
+      "air_date": "2016-11-15",
+      "episode_count": 16,
+      "id": 82053,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/y7x5OmZunb57kynTB4nDPFMDx6E.jpg",
+      "season_number": 4,
+      "vote_average": 4.5
+    },
+    {
+      "air_date": "2017-11-06",
+      "episode_count": 18,
+      "id": 94972,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/5j6BVmHbW3qZRc2YHO2VJJsatGw.jpg",
+      "season_number": 5,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2018-11-12",
+      "episode_count": 22,
+      "id": 112576,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/o3HXPVdkDxnWHzYjb9eTaBKznVo.jpg",
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2019-11-04",
+      "episode_count": 23,
+      "id": 133844,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/5N71fLFWRsC186nMr02j0MQwMOE.jpg",
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2020-11-10",
+      "episode_count": 25,
+      "id": 166451,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/AvaGrTElZI6uGZZHrUYYlkB7ltl.jpg",
+      "season_number": 8,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2021-11-02",
+      "episode_count": 25,
+      "id": 214695,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/gtkxUUmHDF31iDUOlxQqUXmiU71.jpg",
+      "season_number": 9,
+      "vote_average": 9.0
+    },
+    {
+      "air_date": "2022-11-15",
+      "episode_count": 25,
+      "id": 311986,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/ioxqD0epe046x4WfOJ37KyhKxJ3.jpg",
+      "season_number": 10,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2023-11-07",
+      "episode_count": 25,
+      "id": 345856,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/5ErS3M9I9mlNabWnXOyrR0HmRQB.jpg",
+      "season_number": 11,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2024-11-12",
+      "episode_count": 25,
+      "id": 389039,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/bqiQdnwL9iBh7A4TM0EW24Ps8I3.jpg",
+      "season_number": 12,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 426093,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 441789,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 7.4,
+  "vote_count": 142,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1386173,
+        "known_for_department": "Acting",
+        "name": "Rick Lagina",
+        "original_name": "Rick Lagina",
+        "popularity": 0.4039,
+        "profile_path": "/5oBE9iz5v8vcpBWnHFH1u9nQTAg.jpg",
+        "character": "Self",
+        "credit_id": "54696ba0eaeb816b43002106",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1386174,
+        "known_for_department": "Acting",
+        "name": "Marty Lagina",
+        "original_name": "Marty Lagina",
+        "popularity": 0.1988,
+        "profile_path": "/z4l2nSgSxXMoND5TH8eRS1Uiqdx.jpg",
+        "character": "Self",
+        "credit_id": "54696bcfeaeb81070f000097",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35172,
+        "known_for_department": "Acting",
+        "name": "Robert Clotworthy",
+        "original_name": "Robert Clotworthy",
+        "popularity": 2.2155,
+        "profile_path": "/ya6d3Nkp28AYIQ9TFDfwh8lshxg.jpg",
+        "character": "Narrator (voice)",
+        "credit_id": "531312bac3a36829a9003d32",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2889997,
+        "known_for_department": "Acting",
+        "name": "Gary Drayton",
+        "original_name": "Gary Drayton",
+        "popularity": 0.2664,
+        "profile_path": "/uknJfTcUFJ48zaNA2XQv6fCg2VH.jpg",
+        "character": "Self- Metal Detection Expert",
+        "credit_id": "649094bf2f8d0900c667060b",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6868,
+        "known_for_department": "Directing",
+        "name": "Kevin Burns",
+        "original_name": "Kevin Burns",
+        "popularity": 1.5076,
+        "profile_path": "/xGGMVmWHYzEiThXPWfC0EZI42H8.jpg",
+        "credit_id": "5fd5ec34dd47e1003eaa7d8d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1755794,
+        "known_for_department": "Production",
+        "name": "Paul Buccieri",
+        "original_name": "Paul Buccieri",
+        "popularity": 0.6097,
+        "profile_path": "/5EJ22TVrtLg53ggfwS0CY4KI9mK.jpg",
+        "credit_id": "625dd44a33a376006552d309",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "treasure hunt",
+        "id": 6956
+      },
+      {
+        "name": "informative",
+        "id": 325830
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/oAtUzdKIoxHyb3jsngYNLwcDDcl.jpg",
+        "id": 6636,
+        "name": "Animorphs",
+        "original_name": "Animorphs",
+        "overview": "Five kids are given the power to morph into any creature they wish to help them fight villainous Visser Three and his fellow Yeerks, a breed of parasitic aliens threatening Earth.",
+        "poster_path": "/iRySFvDrJOTW1f1WuE5BlVFXEt7.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10762,
+          10765
+        ],
+        "popularity": 2.167,
+        "first_air_date": "1998-09-15",
+        "vote_average": 7.053,
+        "vote_count": 19,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/rqcSJSmNCOEDNodgWsFwgDfpuWY.jpg",
+        "id": 88765,
+        "name": "Savage Builds",
+        "original_name": "Savage Builds",
+        "overview": "Adam Savage combines his insatiable curiosity and nearly unparalleled inventiveness as he attempts to build working, innovative items. Each episode will focus on one project as Adam collaborates with notable experts in their fields, friends, colleagues and others.",
+        "poster_path": "/6SZiOMAf6fQ8Ti9wlqWRGrS3vmX.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 1.0096,
+        "first_air_date": "2019-06-14",
+        "vote_average": 7.0,
+        "vote_count": 17,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/M3clILFz0znIguYTG8ZTdHZCfN.jpg",
+        "id": 4295,
+        "name": "Time Trax",
+        "original_name": "Time Trax",
+        "overview": "Time Trax is an American/Australian co-produced science fiction television series that first aired in 1993. A police officer, sent through time into the past, has to track down and return convicted criminals who have escaped prison in the future. This was the last new production from Lorimar Television.",
+        "poster_path": "/cNQu8ufkHGtXDkeQ6cbfWBGYg6.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765
+        ],
+        "popularity": 8.6075,
+        "first_air_date": "1993-01-20",
+        "vote_average": 6.4,
+        "vote_count": 28,
+        "origin_country": [
+          "AU",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9F2XEXECjaSiXJBXBNaUqrnX4Tg.jpg",
+        "id": 99947,
+        "name": "The Curse of Oak Island: Drilling Down",
+        "original_name": "The Curse of Oak Island: Drilling Down",
+        "overview": "A companion series to “The Curse of Oak Island,” this series gives new viewers a crash course into what “The Curse of Oak Island” is all about. The series features different guests, including interviews and in-depth and thought provoking discussions surrounding “The Curse of Oak Island.” Oak Island has intrigued treasure hunters for hundreds of years, as it is believed to hold one of the greatest treasures of all time, but nobody can find it. Two brothers from Michigan have bought the rights to much of the island so that they can attempt to crack the mystery of the curse and find the treasure.",
+        "poster_path": "/9IveLATvhTxYLMISRHJgEZ1gYXX.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 0.577,
+        "first_air_date": "2015-11-10",
+        "vote_average": 9.0,
+        "vote_count": 1,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/vH7khnJrm5NwwVEPWBDvOD2GtVS.jpg",
+        "id": 244996,
+        "name": "Rob Beckett's Smart TV",
+        "original_name": "Rob Beckett's Smart TV",
+        "overview": "Hosted by the brilliant Rob Beckett alongside his team captains – TV fanatic Josh Widdicombe, and a lady who frankly is TV, Alison Hammond – the show is a hilarious celebration of the small screen and the shows we love (and some we don’t).",
+        "poster_path": "/2DKSudwvLexiVv5u9yevduMxGpQ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 4.1657,
+        "first_air_date": "2024-02-29",
+        "vote_average": 6.5,
+        "vote_count": 2,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/4HOflQveHGt92OGzwgKF7J3DfdH.jpg",
+        "id": 59687,
+        "name": "Benim Belalı Kedim",
+        "original_name": "My Cat from Hell",
+        "overview": "From cats that break up relationships to violent felines that put their owners in the hospital, cat behaviorist Jackson Galaxy has seen it all. Follow Jackson as he brings his unique understanding of cats to desperate families on the verge of giving up on their furry companions.",
+        "poster_path": "/fWv8df1gs1RCtEWdxJKGOeZxqEM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 16.2139,
+        "first_air_date": "2011-05-07",
+        "vote_average": 7.378,
+        "vote_count": 41,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5OXWO7PGnNUUOEcBM8R8b4bZKZS.jpg",
+        "id": 71764,
+        "name": "Splitting Up Together",
+        "original_name": "Splitting Up Together",
+        "overview": "Dizi, 20 yıllık evliliklerinin ardından aniden boşanma kararı alan, boşanmalarının ardından ilişkileri yeniden ateşlenen bir çiftin hikayesini anlatmaktadır. Haftalık dönüşümlü olarak hala aynı evde yaşıyor ve çocuklara bakıyorlar. Bu esnada diğeri misafir odasında kalıyor. Lena (Jenna Fischer), kocası Martin'den (Oliver Hudson) boşandıktan sonra yeni bir hayat kurmak için mücadele eder. Martin ise kaderine iyimserlikle yaklaşmasına rağmen evliliğinde neyin yanlış gittiğini sorguluyor.",
+        "poster_path": "/jMxlolm8TcNKNNMRyjxWqvpiIQ8.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          35
+        ],
+        "popularity": 4.5348,
+        "first_air_date": "2018-03-27",
+        "vote_average": 6.1,
+        "vote_count": 27,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cnwU1tXiUmvYilHLsZJgLd5Qq9D.jpg",
+        "id": 78075,
+        "name": "The Repair Shop",
+        "original_name": "The Repair Shop",
+        "overview": "The Repair Shop is a workshop of dreams, where broken or damaged cherished family heirlooms are brought back to life. Furniture restorers, horologists, metal workers, ceramicists, upholsterers and all manner of skilled craftsmen and women have been brought together to work in one extraordinary space, restoring much-loved possessions to their former glory.",
+        "poster_path": "/4YjXfhJmwCWWqoHWiPSNkoMPZHd.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 56.5417,
+        "first_air_date": "2017-03-27",
+        "vote_average": 6.7,
+        "vote_count": 26,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/dKyZoggjeRJEElnFO5NM9eUtcPf.jpg",
+        "id": 64626,
+        "name": "Hunting Hitler",
+        "original_name": "Hunting Hitler",
+        "overview": "An FBI cold case that has laid dormant for 70 years, leads a group of world-renown investigators on the ultimate manhunt to finally answer the question: Did Adolf Hitler survive World War II?",
+        "poster_path": "/rppjLBQfGzuZOUncN1m7Yfp0npg.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 4.6794,
+        "first_air_date": "2015-11-10",
+        "vote_average": 6.712,
+        "vote_count": 33,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/q4rKamx2oBAtWf3PdmIb49VezAL.jpg",
+        "id": 76506,
+        "name": "Altın Peşinde: Köpüklü Sular",
+        "original_name": "Gold Rush: White Water",
+        "overview": "Altın madenciliği dünyasında geçen yeni bir macerayı anlatıyor. Bu sefer hikâye, denizlerin derinliklerine iniyor ve sualtı madenciliğinin zorluklarını keşfetmeye odaklanıyor. Belgesel bir grup cesur madencinin, okyanusun dibindeki altın rezervlerini bulma çabalarını takip ediyor. Karakterler, hem denizin tehlikeleriyle yüzleşmek zorunda kalıyorlar hem de kendi içsel çatışmalarıyla başa çıkmak için mücadele ediyorlar. Bu süreçte, dostluk, ihanet ve hayallerin peşinden koşmanın getirdiği sonuçlar gibi temalar ön plana çıkıyor.",
+        "poster_path": "/xgMyo8Re5uufo90Dxm773Tnjh1o.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764,
+          99,
+          18
+        ],
+        "popularity": 27.554,
+        "first_air_date": "2018-01-19",
+        "vote_average": 7.1,
+        "vote_count": 35,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/aPtygCQY7FOBO0Ns3bKhafR9HrI.jpg",
+        "id": 60605,
+        "name": "Hinterland",
+        "original_name": "Y Gwyll",
+        "overview": "10 sene boyunca Londra Polis Teşkilatı’ında çalıştıktan sonra Galler bölgesindeki Aberystwyth’e transfer olan Tom Mathias, burada hem kendine yeni bir hayat kurmak hem de dedektifliğe kaldığı yerden devam etmek istemektedir. Dağlık araziler, ıssız çiftlikler ve birbirine yakın küçük köylerden oluşan Aberystwyth’de kendi de dahil olmak üzere 4 kişilik küçük bir ekibin başına getirilen karakterimiz, daha işinin ilk gününden bir cinayet davasıyla karşılaşır. Böylece Dedektif Tom Mathias, kanlar içerisinde bulunan 64 yaşındaki Helen Jenkins’in cinayetini yeni ekibiyle birlikte araştırmaya başlar ve olaylar gelişir.",
+        "poster_path": "/5embjatUwLawjCYNKKhwnJwmO3p.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "cy",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 8.6736,
+        "first_air_date": "2013-10-29",
+        "vote_average": 7.3,
+        "vote_count": 86,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/6gdTUejzzULZFcPWVdITyHmN88X.jpg",
+        "id": 101359,
+        "name": "Skinwalker Çiftliğinin Sırrı",
+        "original_name": "The Secret of Skinwalker Ranch",
+        "overview": "Çoğu insan dünya dışı yaşam için yıldızlara bakarken, bir grup araştırmacı tam tersini yapıyor: Yeraltına bakıyorlar. 200 yıldan uzun bir süredir, Utah'ın Skinwalker Çiftliği yüzlerce paranormal olay ve UFO aktivitesine tanık oldu.\n\nBazıları ABD hükümeti tarafından gizlice finanse edilen onlarca yıllık çalışmalara rağmen, hiç kimse arazide arama yapmaya cesaret edemedi. Bugün, efsanevi çiftlik, daha önce hiç yapılmamış olanı yapmaya hazırlanan bir ekibe tam erişim imkânı sağlıyor.",
+        "poster_path": "/j8PpovebgIhrt89AQVvkogcX34v.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764,
+          99
+        ],
+        "popularity": 11.002,
+        "first_air_date": "2020-03-31",
+        "vote_average": 7.9,
+        "vote_count": 50,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/3lDciKqPmB8EcIr0YWekBdTK2mN.jpg",
+        "id": 44470,
+        "name": "Bar Rescue",
+        "original_name": "Bar Rescue",
+        "overview": "Jon Taffer is the Gordon Ramsay of the bar and nightclub business. In each episode, Taffer helps transform a struggling bar into a vibrant, profitable business, utilizing his expertise as a nightlife consultant",
+        "poster_path": "/siq3IzF0Uh22vvvtMhzcE7vr9AV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 25.5338,
+        "first_air_date": "2011-07-17",
+        "vote_average": 7.873,
+        "vote_count": 51,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/tqhsaVtN3zvmCDxut1DvI2sq5pe.jpg",
+        "id": 95386,
+        "name": "Nurses",
+        "original_name": "Nurses",
+        "overview": "Follow five young nurses working on the frontlines of a busy hospital in downtown Toronto, dedicating their lives to helping others, while struggling to help themselves.",
+        "poster_path": "/hBhiT42BLVuWwl0B79zYA5bJ0ES.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 7.2558,
+        "first_air_date": "2020-01-06",
+        "vote_average": 7.3,
+        "vote_count": 107,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/ReSSC77upQRIZgvaJaPQPCbWaK.jpg",
+        "id": 34634,
+        "name": "Altın Peşinde",
+        "original_name": "Gold Rush",
+        "overview": "Altın peşindeki hırslı madencilerin hayatlarını takip edin, kuzeye doğru yola çıkarken. Yeni madenciler, yeni hak iddiaları, yeni makineler ve yer altından altın çıkarma konusunda yeni yollarla, riskler her zamankinden daha yüksek. Ama büyük riskler, daha büyük kazançlar getirecek mi?",
+        "poster_path": "/g7bGSjPhGA7QfHYuo5VlvnvS0vH.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 66.1739,
+        "first_air_date": "2010-12-03",
+        "vote_average": 6.994,
+        "vote_count": 158,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zWMLozh8EqIWaSXro59sanaf0mh.jpg",
+        "id": 1026,
+        "name": "Amazing Stories",
+        "original_name": "Amazing Stories",
+        "overview": "A truly amazing, fantastical, science fiction, funny and odd, and sometimes scary, sad and endearing anthology series presented by Steven Spielberg with guest appearances by many famous actors, actresses, and directors.",
+        "poster_path": "/rrRDymHWaQUa8LAsIxJc5OOigea.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          35,
+          10751,
+          9648,
+          80
+        ],
+        "popularity": 17.7098,
+        "first_air_date": "1985-09-29",
+        "vote_average": 7.443,
+        "vote_count": 203,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ccShG5F2gn12yAQnDOnoI29dImJ.jpg",
+        "id": 60804,
+        "name": "The Night Shift",
+        "original_name": "The Night Shift",
+        "overview": "Gece biter ve bir hastanede savaş başlar… San Antonio Hastanesi’nin acilinde çalışan bir grup doktor, vardiyaları boyunca her gece insanların hayatlarını kurtarmak için canla başla savaşıyorlar ve sınırları geçmek veya gerektiğinde kuralları yıkmak da bu süreçte zaman zaman yaptıklarına dahil oluyor. Dizi, bu bir grup doktorun önlerine gelen hastaları kurtarma çabaları, hastane içi ilişkiler ve doktoraların-hastaların kişisel hayatlarına dayalı bir dizi.",
+        "poster_path": "/qSfjudewdGEHAva8LvlbyH0ydof.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 12.5054,
+        "first_air_date": "2014-05-27",
+        "vote_average": 7.5,
+        "vote_count": 235,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/i5K4wfSG3i7nQaIxPca6YbnhRca.jpg",
+        "id": 32608,
+        "name": "Antik Uzaylılar",
+        "original_name": "Ancient Aliens",
+        "overview": "Antik Uzaylılar, antik çağlardan beri insanlarla uzaylıların temas halinde olduğu iddialarını sorgulayan, bu alanda yapılmış en kapsamlı belgesel.  Bir History Channel yapımı olan Antik Uzaylılar, Türkiye'nin de içinde bulunduğu dünyanın farklı köşelerindeki insan-üstü antik yapıları, inanışları, kültürleri, mitleri ve farklı tarihsel olayları inceleyerek, tüm bu olayların uzaylılarla ilgili bağlantılarını ortaya koyan, şaşırtıcı iddialarda bulunuyor. Erich von Däniken gibi konuya hakim kişilerin yorumlarını kattığı belgesel, uzaylı denilen kavramı salt \"UFO\" olarak algılayan genel düşünce sistemini altüst edecek sarsıcı teoriler sunuyor.",
+        "poster_path": "/8yR1FK6z1Gx0pyvyXRJrvbxOyuU.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          9648,
+          10765
+        ],
+        "popularity": 48.5412,
+        "first_air_date": "2010-04-20",
+        "vote_average": 6.894,
+        "vote_count": 268,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/tY6ZweSX4Mg8AYNSia9vyH1su8k.jpg",
+        "id": 1095,
+        "name": "Ghost in the Shell: Stand Alone Complex",
+        "original_name": "攻殻機動隊 STAND ALONE COMPLEX",
+        "overview": "In the future when technological enhancements and robotics are a way of life, Major Motoko Kusanagi and Section 9 take care of the jobs that are too difficult for the police. Section 9 employs hackers, sharpshooters, detectives and cyborgs all in an effort to thwart cyber criminals and their plans to attack the innocent.",
+        "poster_path": "/oz9JhIUK792ISNXNpny4pSFo1yh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          10759,
+          16,
+          80,
+          10765
+        ],
+        "popularity": 18.0486,
+        "first_air_date": "2002-10-01",
+        "vote_average": 8.2,
+        "vote_count": 387,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/v26LJqvONINHfmUVuIGZyllbCIO.jpg",
+        "id": 32868,
+        "name": "Nikita",
+        "original_name": "Nikita",
+        "overview": "Mahkum edilmiş olan suçlu Nikita, hapise gönderilmek yerine kendisine yeni bir kimlik ve tarz verilir. Gizli bir casus/kiralık katil görevini üstlenir. Yirmili yaşlarındaki bu genç kadının esas suçu uyuşturucu elde etmek için bir eczaneyi soyarlarken bir polisi öldürmesidir. Kendisine bu farklı çıkış yolunu teklif eden derin devlet örgütü Nikita’ya aslında çok farklı bir gelecek sunmuştur. Genç kadın, kendisini eğiten ve yönetenlerin baskısı altında isyankar yapısını bir kenara bırakır ve istenilen türde bir katile dönüşür. O artık çok başka biridir. Dahası bir de aşka da düşmüştü. Bir gün bağlı olduğu teşkilata karşı hata yaparsa ne olacağı ise apayrı bir konu.",
+        "poster_path": "/gDRqn0TbrXruj6MfWvfcUFiXvA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759
+        ],
+        "popularity": 23.015,
+        "first_air_date": "2010-09-09",
+        "vote_average": 7.233,
+        "vote_count": 483,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

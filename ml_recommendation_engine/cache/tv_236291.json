@@ -1,0 +1,823 @@
+{
+  "adult": false,
+  "backdrop_path": "/yZPbJt8DCLijy3rTr0CX1z470CK.jpg",
+  "created_by": [
+    {
+      "id": 1153452,
+      "credit_id": "651bbf29c50ad2010bff4830",
+      "name": "Leon van Nierop",
+      "original_name": "Leon van Nierop",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2004-10-04",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Pembe Dizi"
+    }
+  ],
+  "homepage": "",
+  "id": 236291,
+  "in_production": false,
+  "languages": [
+    "af"
+  ],
+  "last_air_date": "2016-03-31",
+  "last_episode_to_air": {
+    "id": 4788486,
+    "name": "209. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2016-03-31",
+    "episode_number": 209,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 11,
+    "show_id": 236291,
+    "still_path": null
+  },
+  "name": "Villa Rosa",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1826,
+      "logo_path": "/2tNeujuBe8MR40hoUE4FLYA7Knl.png",
+      "name": "kykNET",
+      "origin_country": "ZA"
+    }
+  ],
+  "number_of_episodes": 2283,
+  "number_of_seasons": 11,
+  "origin_country": [
+    "ZA"
+  ],
+  "original_language": "af",
+  "original_name": "Villa Rosa",
+  "overview": "",
+  "popularity": 2281.295,
+  "poster_path": "/rtnaqwaUYWjMTWuBE3updqydkRN.jpg",
+  "production_companies": [
+    {
+      "id": 210123,
+      "logo_path": null,
+      "name": "Spectro Produksies",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ZA",
+      "name": "South Africa"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2004-10-04",
+      "episode_count": 195,
+      "id": 359399,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2006-04-03",
+      "episode_count": 208,
+      "id": 359403,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2007-04-02",
+      "episode_count": 209,
+      "id": 359404,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2008-04-01",
+      "episode_count": 209,
+      "id": 359405,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2009-04-01",
+      "episode_count": 210,
+      "id": 359406,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2010-04-05",
+      "episode_count": 209,
+      "id": 359407,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-04-05",
+      "episode_count": 208,
+      "id": 359408,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 3.0
+    },
+    {
+      "air_date": "2012-04-03",
+      "episode_count": 208,
+      "id": 359409,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2013-04-02",
+      "episode_count": 209,
+      "id": 359410,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2014-04-02",
+      "episode_count": 209,
+      "id": 359411,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2015-04-02",
+      "episode_count": 209,
+      "id": 359412,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "Afrikaans",
+      "iso_639_1": "af",
+      "name": "Afrikaans"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1151470,
+        "known_for_department": "Acting",
+        "name": "Lieb Bester",
+        "original_name": "Lieb Bester",
+        "popularity": 0.577,
+        "profile_path": null,
+        "character": "Fritz Retief",
+        "credit_id": "651baef9c50ad2010bff3f6b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4303359,
+        "known_for_department": "Acting",
+        "name": "Jaco Vermeulen",
+        "original_name": "Jaco Vermeulen",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Marius Schoeman",
+        "credit_id": "651baf3e6728a800ae3d3cff",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2104741,
+        "known_for_department": "Acting",
+        "name": "Yutame Venter",
+        "original_name": "Yutame Venter",
+        "popularity": 0.803,
+        "profile_path": "/gNgByx9cEQ2JPwa9BADN9YFugO.jpg",
+        "character": "Vicky Louw",
+        "credit_id": "651bf69c967cc73424684410",
+        "order": 33
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2104740,
+        "known_for_department": "Acting",
+        "name": "Marcus Muller",
+        "original_name": "Marcus Muller",
+        "popularity": 0.009,
+        "profile_path": null,
+        "character": "Stef Retief",
+        "credit_id": "651c037f74507d00ac468580",
+        "order": 35
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1540884,
+        "known_for_department": "Acting",
+        "name": "Stefan Vermaak",
+        "original_name": "Stefan Vermaak",
+        "popularity": 0.147,
+        "profile_path": "/h6Wcu6ZhgkO0tQ0DElaSiSO33v.jpg",
+        "character": "Wouter",
+        "credit_id": "651c0f4bea84c7010c145d7e",
+        "order": 39
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4216550,
+        "known_for_department": "Acting",
+        "name": "Elsje Slabbert",
+        "original_name": "Elsje Slabbert",
+        "popularity": 0.041,
+        "profile_path": null,
+        "character": "Carina Rautenbach",
+        "credit_id": "651d11732f3b17011e213998",
+        "order": 40
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2858753,
+        "known_for_department": "Production",
+        "name": "Jacques Pepler",
+        "original_name": "Jacques Pepler",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Eben Rautenbach",
+        "credit_id": "651d118407216600acb650ba",
+        "order": 41
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2424009,
+        "known_for_department": "Acting",
+        "name": "Danny Ross",
+        "original_name": "Danny Ross",
+        "popularity": 0.182,
+        "profile_path": "/nShV4WdMOVB8yBnKIF2q29j5paM.jpg",
+        "character": "Cardo",
+        "credit_id": "651d1a0c74507d00ff97b0b0",
+        "order": 42
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1749468,
+        "known_for_department": "Acting",
+        "name": "Marisa Drummond",
+        "original_name": "Marisa Drummond",
+        "popularity": 1.346,
+        "profile_path": "/q89cuJbaj157xNA6bhU5e90SG21.jpg",
+        "character": "Saskia",
+        "credit_id": "651d1a4c2f3b1700ae1576b8",
+        "order": 43
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4304863,
+        "known_for_department": "Acting",
+        "name": "Merveline Ferris",
+        "original_name": "Merveline Ferris",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Celine",
+        "credit_id": "651d1ab5967cc73425f23d6e",
+        "order": 44
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1295013,
+        "known_for_department": "Acting",
+        "name": "André Lotter",
+        "original_name": "André Lotter",
+        "popularity": 0.149,
+        "profile_path": "/guTTdGtxDU0kHGgDkxZQ3cMuSzq.jpg",
+        "character": "Liam",
+        "credit_id": "651d1ac72f3b17011e213d1e",
+        "order": 45
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1153450,
+        "known_for_department": "Acting",
+        "name": "Riana Wilkens",
+        "original_name": "Riana Wilkens",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Lida",
+        "credit_id": "651d1ad5967cc73428cd4d43",
+        "order": 46
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": []
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/65Y6PweSvQ1OOFBzStybjipURRP.jpg",
+        "id": 4057,
+        "name": "Criminal Minds",
+        "original_name": "Criminal Minds",
+        "overview": "Dizinin temel esprisi, \"Bir suçluyu yakalamak istiyorsanız onun gibi düşünün\" sözünde yatıyor. Quantico'daki Davranış Analizi Ünitesi'nde çalışan ajanlar, suçluların psikolojilerinden, davranış biçimlerinden yola çıkarak suçu çözüyor.  Yöntem: Davranış psikolojisinin uygulanması, istatistikler, ajanların deneyimleri, 'hızlı hızlı konuşanlar bir şey saklıyordur' önermesinde olduğu gibi çıkarsamalar.",
+        "poster_path": "/wLMQebhTApmn4F6Fzg6FovdwVvL.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 618.625,
+        "first_air_date": "2005-09-22",
+        "vote_average": 8.3,
+        "vote_count": 3800,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gEEp2TJC8gLVzLmdR8m7dxgPB3p.jpg",
+        "id": 61387,
+        "name": "NCIS: New Orleans",
+        "original_name": "NCIS: New Orleans",
+        "overview": "NCIS dizisinin uzantılarından biri olan yapım, New Orleans Ofisi’nin maceralarını ekranlara getirecek. Penscola’dan Mississippi’ye ve Louisiana’dan Texas’a varan bölgedeki davaları ele alacak ekibin işi, hiç kolay değil!",
+        "poster_path": "/1WJJUUZODmRTcFydLDBUtiztL6x.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          35
+        ],
+        "popularity": 321.984,
+        "first_air_date": "2014-09-23",
+        "vote_average": 7.3,
+        "vote_count": 438,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qD6lxVdmkUNY6Gcc7eRYlxTH79p.jpg",
+        "id": 1549,
+        "name": "WWE SmackDown",
+        "original_name": "WWE SmackDown",
+        "overview": "The superstars of World Wrestling Entertainment's \"SmackDown\" brand collide each and every Friday on WWE Friday Night SmackDown.",
+        "poster_path": "/1WA4RvB4aJ7LY4s9xEw0SkRaS5x.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 130.425,
+        "first_air_date": "1999-04-29",
+        "vote_average": 7.4,
+        "vote_count": 167,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4YnAZ1KO9goeS4c06VO7HXiO3oO.jpg",
+        "id": 47640,
+        "name": "The Strain",
+        "original_name": "The Strain",
+        "overview": "Guillermo del Toro ve Chuck Hogan'ın birlikte kaleme aldıkları üçleme kitabından uyarlanacak olan The Strain, bir vampir draması ama diğerlerinden biraz farklı. New York'a gizemli bir şekilde iniş yapan uçağın yolcularının öldüğünün anlaşılması üzerine Hastalık Kontrol Merkezi yetkilisi Ephraim Goodweather (House of Cards - Corey Stoll), yaşanan bu tuhaf olayın sebeplerini araştırmaya başlar. Öncelikle uçakta yer alan dört yolcunun hâlâ yaşadığını farkeden ekip, olayla ilgili tek iyi haberin bu olduğunu kısa sürede öğrenirler...",
+        "poster_path": "/2BWErT9QcADpf2G4BZ769eSnFTP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          9648
+        ],
+        "popularity": 113.524,
+        "first_air_date": "2014-07-13",
+        "vote_average": 7.479,
+        "vote_count": 1848,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lirPqYLTtd6XZqGn4cS1wiesTq0.jpg",
+        "id": 1622,
+        "name": "Supernatural",
+        "original_name": "Supernatural",
+        "overview": "Evlerinin yandığı şüpheli bir yangında, annelerinin ölümünden sonra, Sam ve Dean Winchester yaşları büyüdükçe babaları ile yollarda bir hayat yaşamaya başlarlar. Yıllar geçer ve bir av sırasında kaybolan babalarını bulmak için kardeşler bir araya gelirler.\n\nAncak, babaları normal bir avcı değildir: o hayaletler, vampirler, ve ruhlar gibi doğaüstü yaratıkları avlar ve aynı şeyi oğullarına da çok küçük yaşlardan itibaren öğretmiştir. Yol boyunca, Sam ve Dean, masum insanları yaratıklar ve hayaletlerden kurtarmak için büyük bir mücadeleye girerler ve babalarının nerede olduğuna dair ipuçlarını toplarlar.",
+        "poster_path": "/KoYWXbnYuS3b0GyQPkbuexlVK9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          10765
+        ],
+        "popularity": 858.836,
+        "first_air_date": "2005-09-13",
+        "vote_average": 8.3,
+        "vote_count": 7739,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/627K48naKH2Y3Rz47Ydra4qktdI.jpg",
+        "id": 103516,
+        "name": "Star Trek: Strange New Worlds",
+        "original_name": "Star Trek: Strange New Worlds",
+        "overview": "Star Trek: The Original Series’in öncesince geçecek olan bir Star Trek prequel’i. Federasyon Gemisi Enterprise (Atılgan)’ın Kaptan Kirk’ten önceki kaptanı olan Kaptan Christopher Pike ve ekibinin hikayelerini konu ediniyor",
+        "poster_path": "/511LZFZJIbxhGjclesSBGQ2ygnE.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765
+        ],
+        "popularity": 71.928,
+        "first_air_date": "2022-05-05",
+        "vote_average": 8.125,
+        "vote_count": 583,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/12Mo9OkBwj32QJKCGV5xKBko9OV.jpg",
+        "id": 81559,
+        "name": "V Wars",
+        "original_name": "V Wars",
+        "overview": "Luther Swann, iklim değişikliği nedeniyle buz erimesinden bir virüs serbest bırakıldığında bir korku dünyasına girer.",
+        "poster_path": "/njOxOfBp0d7DgdrMnOH1VugC9yZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 21.289,
+        "first_air_date": "2019-12-05",
+        "vote_average": 7.3,
+        "vote_count": 317,
+        "origin_country": [
+          "US",
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/cFZYtCx54BmFXe4wExts2tPnPHh.jpg",
+        "id": 58841,
+        "name": "Chicago P.D.",
+        "original_name": "Chicago P.D.",
+        "overview": "Chicago Fire'ın uzantısı (Spin-off) olan ve NBC kanalı için çekilmiş bir Amerikan dizisidir. Chicago Polis Departmanı, iki farklı gruptan oluşur: Üniformalı polisler ve İstihbarat Birimi. İstihbarat Birimi, organize suçlar, uyuşturucu kaçakçılığı ve üst düzey cinayetlerle ilgilenirken, Üniformalı Polisler ise şehrin sokak suçlarıyla ve devriye gezmekle meşguldürler.",
+        "poster_path": "/2nHdAW7MUMuXMJO6ev0mFMhEq8P.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 645.501,
+        "first_air_date": "2014-01-08",
+        "vote_average": 8.4,
+        "vote_count": 2448,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7YFranrnnIcCrgsLYQsoq8aE3Ir.jpg",
+        "id": 1855,
+        "name": "Star Trek: Voyager",
+        "original_name": "Star Trek: Voyager",
+        "overview": "USS Voyager'ın, 70.000 ışık yılı uzaklıktaki Delta çeyreğinde kayboluşunun hikayesi. 70 yıllık bir eve dönüş yolculuğu ile karşı karşıya olan mürettebat, zorlukların üstesinden gelmek ve kendi aralarındaki çatışmaları yenmek zorundadır. |",
+        "poster_path": "/gNS5tRSG3UlXodCxznKKOKweqxh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 395.614,
+        "first_air_date": "1995-01-16",
+        "vote_average": 7.8,
+        "vote_count": 964,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/v2moumGovVAmDASYkjakIl2WrOM.jpg",
+        "id": 67133,
+        "name": "MacGyver",
+        "original_name": "MacGyver",
+        "overview": "İnsanların hayatlarını kurtarmak için olağanüstü yeteneklerini kullanarak, alışılmamış yöntemlerle problemlerin üstesinden gelen ve ABD gizli hükümeti için çalışan Angus \"Mac\" MacGyver'ın (Lucas Till) maceralarını konu edinmektedir. 1985-1992 yıllarında 7 sezon yayınlanmış dizinin yeniden uyarlamasıdır.",
+        "poster_path": "/2zAogx9dmSAu2HYxbWzHe4ZaNY5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759
+        ],
+        "popularity": 151.107,
+        "first_air_date": "2016-09-23",
+        "vote_average": 7.3,
+        "vote_count": 928,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/yGNnjoIGOdQy3douq60tULY8teK.jpg",
+        "id": 63247,
+        "name": "Westworld",
+        "original_name": "Westworld",
+        "overview": "İki konuk ileri teknolojinin kullanıldığı bir eğlence parkında Vahşi Batı macerasına çıkar. Parktaki insanlar robottur ve park Roma, Vahşi Batı ve Ortaçağ dönemlerine benzetilerek sahici bir hayat yaratmak amacıyla tasarlanmıştır. Merkezi bilgisayar sistemi bozulunca robotlar zincirlerini koparır ve parkın iki konuğu robot bir silahşör tarafından takip edildiklerini fark eder.West World ya da Batı Dünyası, yapay bilincin ortaya çıkması ve suçun geleceğiyle ilgili karanlık bir yolculuğu anlatmaktadır.",
+        "poster_path": "/8MfgyFHf7XEboZJPZXCIDqqiz6e.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          37
+        ],
+        "popularity": 152.522,
+        "first_air_date": "2016-10-02",
+        "vote_average": 8.041,
+        "vote_count": 5624,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zoetbPF7jYY0jjY5js3x6r1QjSW.jpg",
+        "id": 1639,
+        "name": "Heroes",
+        "original_name": "Heroes",
+        "overview": "Olağanüstü yeteneklere sahip sıradan insanların destansı hikayesi; Heroes.. Uçabilen, düşünce okuyabilen, geleceği resmedebilen, yok edilemez olan, zamanı büken ve görünmez olan bu insanların ortak kaderi, dünyayı kurtaracak olmalarıdır. \n\nAma önce hepsi kendilerindeki bu yeteneği keşfetmeli, sindirmeli, kontrol altında kullanabilmelidirler. Bunu başardıklarında her biri yapabileceklerinin sınırı olmadığını görecek ve her yeni adım bir başka maceraya atılacaktır..",
+        "poster_path": "/lf0TcOkheYUZKpeh7c8lqJHNk5O.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 115.521,
+        "first_air_date": "2006-09-25",
+        "vote_average": 7.457,
+        "vote_count": 2313,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/fgvM6m7gAd8kDAaLF16aflbOSAK.jpg",
+        "id": 1416,
+        "name": "Grey's Anatomy",
+        "original_name": "Grey's Anatomy",
+        "overview": "Grace Hastanesi'ne hoş geldiniz! Burada yeni ve acemi doktorlar için en zorlu doktorluk ihtisas devresi programlarından biri uygulanıyor. Bu acımasız eğitimle başa çıkmak zorunda olan kahramanlarımız ise Meredith, Izzie, George, Alex ve Cristina. Onlar dün öğrenciydiler, bugün ise doktor oldular. Eğer yedi yıl boyunca Grace gibi bir cehennemde başarılı olurlarsa cerrahlığa da hak kazanmış olacaklar. Ancak ihtisas devresinin bu kadar zorlu olması, onlar için yaşamlarının geri kalanının durdurduğu anlamına da gelmiyor. Yani bu grup, aynı zamanda kıskanç sevgililer, ebeveynler, tek gecelik ilişkiler ve ev bulma krizleriyle mücadele etmek zorunda. Üstelik kahramanlarımız, bu stresli ve rekabet dolu ortamda dostluklar da kurmaya çalışıyolar.",
+        "poster_path": "/7jEVqXC14bhfAzSPgr896dMdDv6.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 1056.878,
+        "first_air_date": "2005-03-27",
+        "vote_average": 8.2,
+        "vote_count": 10401,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/fRYwdeNjMqC30EhofPx5PlDpdun.jpg",
+        "id": 79460,
+        "name": "Legacies",
+        "original_name": "Legacies",
+        "overview": "Bir Vampir / Kurtadam melezi ve atası olan Klaus Mikaelson 'ın kızı olan Hope Mikaelson, aynı zamanda güçlü bir cadıdır. Babasının son zamanlarında yanında olan Hope ; babası ve amcasının ölümünün ardından okuluna geri döner. Okul bir çok doğaüstü yeteneğe sahip olan çocukların eğitimini üstlenmektedir. Yönetimde The Vampire Diaries ve The Originals 'dan tanıdığımız sarışın vampir Caroline FORBES ve doğaüstü bilimler profesörü Alaric Saltzman bulunmaktadır. Dizide Hope 'un okulundaki yeni arkadaşları ve hikayeleri anlatılacaktır.",
+        "poster_path": "/qTZIgXrBKURBK1KrsT7fe3qwtl9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 124.975,
+        "first_air_date": "2018-10-25",
+        "vote_average": 8.443,
+        "vote_count": 2929,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4uWvmON2pqDJtpPAsHMggdDFFrn.jpg",
+        "id": 549,
+        "name": "Law & Order",
+        "original_name": "Law & Order",
+        "overview": "Law &amp; Order, ABD kaynaklı bir mahkeme ve suç draması konulu bir televizyon dizisi. Dick Wolf tarafından yaratılan dizi 13 Eylül 1990 tarihinde ABD'nin NBC televizyon kanalında yayına başlamıştır. New York kentinde geçen dizi bir grup savcı ve polis görevlilerinin meslek yaşamlarını konu almaktadır.Dizinin büyük bir başarı kazanması bu diziden türeyen Law &amp; Order: Special Victims Unit, Law &amp; Order: Criminal Intent, Crime &amp; Punishment, Law &amp; Order: Trial by Jury gibi çok sayıda benzer dizilerin yaratılmasına neden olmuştur.Law &amp; Order 2008 yılı itibarıyla ABD televizyonlarında en uzun süre gösterimde kalan dizi durumundadır.",
+        "poster_path": "/6vFL8S6Cci8s7SHWXz60xOisGBC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 790.443,
+        "first_air_date": "1990-09-13",
+        "vote_average": 7.4,
+        "vote_count": 601,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2p1qKfuUqvB1slMwNTjGYdWKS3K.jpg",
+        "id": 82596,
+        "name": "Emily in Paris",
+        "original_name": "Emily in Paris",
+        "overview": "Şikagolu pazarlama yöneticisi Emily Cooper, Paris'te hayallerindeki pozisyonu kapmasının ardından iş, arkadaşlık ve aşkla uğraşırken macera dolu yeni yaşamını kucaklar.",
+        "poster_path": "/qYGIf2QAhSIa5Xbf72QvLtte2e8.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 124.137,
+        "first_air_date": "2020-10-02",
+        "vote_average": 7.7,
+        "vote_count": 1401,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+        "id": 93405,
+        "name": "Squid Game",
+        "original_name": "오징어 게임",
+        "overview": "Para sıkıntısı çeken yüzlerce oyuncu, çocuk oyunlarında yarışmaları için aldıkları tuhaf daveti kabul eder. İçeride onları cazip bir ödül ve ölüm riski beklemektedir.",
+        "poster_path": "/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          10759,
+          9648,
+          18
+        ],
+        "popularity": 603.484,
+        "first_air_date": "2021-09-17",
+        "vote_average": 7.9,
+        "vote_count": 15546,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/sEkUddzvrgRd70o28aRiZdwdq2p.jpg",
+        "id": 4464,
+        "name": "Homicide: Life on the Street",
+        "original_name": "Homicide: Life on the Street",
+        "overview": "An American police procedural chronicling the work of a fictional version of the Baltimore Police Department's Homicide Unit.",
+        "poster_path": "/nb5310xlFjx5r9TnpKoaOTQsAlP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          18,
+          80
+        ],
+        "popularity": 195.054,
+        "first_air_date": "1993-01-31",
+        "vote_average": 8.0,
+        "vote_count": 130,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/fThSrHjuS1X82XoH9VrtvgvMIXm.jpg",
+        "id": 60797,
+        "name": "Scorpion",
+        "original_name": "Scorpion",
+        "overview": "Yapımcıları arasında Alex Kurtzman ve Roberto Orci var. Konusu için “Sheldon’lar ile Leonard’lardan oluşan bir grup adamın üzerine drama” diye benzetme yapılan dizide, bir grup nevi şahsına münhasır dahi Dünya sorunlarını çözmeye ve modern çağın getirdiği tehditleri aşmaya çalışıyor.",
+        "poster_path": "/hzeirSF6bRjssDh5JFrm5WRwFLd.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          80
+        ],
+        "popularity": 206.244,
+        "first_air_date": "2014-09-22",
+        "vote_average": 8.221,
+        "vote_count": 4018,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2fhnFgwbpqzhNsx5m9x7JEUQ2qv.jpg",
+        "id": 86248,
+        "name": "Yükleme",
+        "original_name": "Upload",
+        "overview": "Upload, ölümün yakınında olan insanların, ölümlerinden sonra kendi seçtikleri sanal öteki dünyaya yüklenebilecekleri zamanlarda, 2033 yılında geçiyor. Brooklyn doğumlu gizli bir romantik olan Nora, lüks bir sanal gerçeklik (VR) şirketinin müşteri hizmetlerinde çalışmaktadır. Yakışıklı L.A. parti çocuğu Nathan’ın sürücüsüz arabasının kaza yapması ile birlikte Nathan’ın kız arkadaşı, onu kalıcı olarak Nora’nın çalıştığı şirketin VR dünyasına yükler. (Dizi içeriği 18 yaş ve üzeri için uygundur)",
+        "poster_path": "/4dyaNemCiSGXezzHL2GTdODJ0f5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10765,
+          18
+        ],
+        "popularity": 60.655,
+        "first_air_date": "2020-04-30",
+        "vote_average": 7.9,
+        "vote_count": 1210,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

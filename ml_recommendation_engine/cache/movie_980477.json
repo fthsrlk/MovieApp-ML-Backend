@@ -1,0 +1,994 @@
+{
+  "adult": false,
+  "backdrop_path": "/zxi6WQPVc0uQAG5TtLsKvxYHApC.jpg",
+  "belongs_to_collection": {
+    "id": 982031,
+    "name": "哪吒（系列）",
+    "poster_path": "/72pE4JaQ2UPAgweTHzXYbKtXEUX.jpg",
+    "backdrop_path": "/yHcLdeaAUDZtRDWTTQ3MO39rgGU.jpg"
+  },
+  "budget": 80000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animasyon"
+    },
+    {
+      "id": 14,
+      "name": "Fantastik"
+    },
+    {
+      "id": 12,
+      "name": "Macera"
+    }
+  ],
+  "homepage": "",
+  "id": 980477,
+  "imdb_id": "tt34956443",
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_title": "哪吒之魔童闹海",
+  "overview": "",
+  "popularity": 206.598,
+  "poster_path": "/bTMf8M7rZ21fChGdtsZtJj4Dfqh.jpg",
+  "production_companies": [
+    {
+      "id": 167789,
+      "logo_path": null,
+      "name": "Chengdu Coco Cartoon",
+      "origin_country": "CN"
+    },
+    {
+      "id": 17818,
+      "logo_path": "/a0dRBd4hPab4KjmbiIJpNwRfIVD.png",
+      "name": "Beijing Enlight Pictures",
+      "origin_country": "CN"
+    },
+    {
+      "id": 248388,
+      "logo_path": null,
+      "name": "Chengdu Enlight Animation",
+      "origin_country": "CN"
+    },
+    {
+      "id": 126865,
+      "logo_path": "/bs9m2rBgALQ5l6yuZuJVS8hGhIi.png",
+      "name": "Coloroom Pictures",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "release_date": "2025-01-29",
+  "revenue": 1990000000,
+  "runtime": 144,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "哪吒之魔童闹海",
+  "video": false,
+  "vote_average": 7.8,
+  "vote_count": 119,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2367355,
+        "known_for_department": "Acting",
+        "name": "吕艳婷",
+        "original_name": "吕艳婷",
+        "popularity": 4.616,
+        "profile_path": "/vKpOzPutTaPf03rWXiLuK8R2K3B.jpg",
+        "cast_id": 3,
+        "character": "Young Nezha (voice)",
+        "credit_id": "6789fbd91403701c991d7942",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2367356,
+        "known_for_department": "Acting",
+        "name": "囧森瑟夫",
+        "original_name": "囧森瑟夫",
+        "popularity": 3.22,
+        "profile_path": "/58Ytg6PBGpqB2s7DkHB82dRvdFO.jpg",
+        "cast_id": 4,
+        "character": "Youth Nezha / Jie Jie Shou Left (voice)",
+        "credit_id": "6789fbfaa64feb16c91d7752",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2368846,
+        "known_for_department": "Acting",
+        "name": "瀚墨",
+        "original_name": "瀚墨",
+        "popularity": 18.255,
+        "profile_path": "/6Ueom0Y4pjIG9B6zjQlfIbgcGhH.jpg",
+        "cast_id": 5,
+        "character": "Ao Bing (voice)",
+        "credit_id": "6789fc0729071c36ac9769b0",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2368848,
+        "known_for_department": "Acting",
+        "name": "陈浩",
+        "original_name": "陈浩",
+        "popularity": 2.704,
+        "profile_path": "/eBZJW1NCBFDh3U3xImf0vCCnDpy.jpg",
+        "cast_id": 6,
+        "character": "Li Jing (voice)",
+        "credit_id": "6789fc1529071c36ac9769b9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2368849,
+        "known_for_department": "Acting",
+        "name": "绿绮",
+        "original_name": "绿绮",
+        "popularity": 3.64,
+        "profile_path": "/eGoSeaM1c6KCLiRIqM8LJq5S5L5.jpg",
+        "cast_id": 7,
+        "character": "Mrs. Yin (voice)",
+        "credit_id": "6789fc3eb9d1d10ef197a8cb",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2368857,
+        "known_for_department": "Acting",
+        "name": "张珈铭",
+        "original_name": "张珈铭",
+        "popularity": 1.51,
+        "profile_path": "/7iL4a5fYc2ZLqFtzgJXYJwzXl8x.jpg",
+        "cast_id": 8,
+        "character": "Taiyi Zhenren (voice)",
+        "credit_id": "67a2285ba45287b7fde2e4b0",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1574893,
+        "known_for_department": "Acting",
+        "name": "Yang Wei",
+        "original_name": "Yang Wei",
+        "popularity": 0.001,
+        "profile_path": "/rTi0M7yePiL3NqEGg5pTL7x56De.jpg",
+        "cast_id": 9,
+        "character": "Shen Gongbao (voice)",
+        "credit_id": "67a228710abccc3b39262173",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1129530,
+        "known_for_department": "Acting",
+        "name": "王德顺",
+        "original_name": "王德顺",
+        "popularity": 3.234,
+        "profile_path": "/oMYVIRpr1t7L8mOYZAMXGf8XhmC.jpg",
+        "cast_id": 10,
+        "character": "Wuliang Xianweng (voice)",
+        "credit_id": "67a22885eea89adf0902ff54",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4927413,
+        "known_for_department": "Acting",
+        "name": "雨辰",
+        "original_name": "雨辰",
+        "popularity": 0.001,
+        "profile_path": "/zZ15ZOUpH7yNZ5Rz71l7YUhveMN.jpg",
+        "cast_id": 11,
+        "character": "Ao Guang, Donghai Longwang  / Seller (voice)",
+        "credit_id": "67a228b880e593d5fde2ce95",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5224789,
+        "known_for_department": "Acting",
+        "name": "Zhou Yongxi",
+        "original_name": "Zhou Yongxi",
+        "popularity": 1.135,
+        "profile_path": "/8wjA8e2JOk4C11cGwqCo7uRLPem.jpg",
+        "cast_id": 13,
+        "character": "Ao Run, Xihai Longwang (voice)",
+        "credit_id": "67a229130abccc3b39262220",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4360810,
+        "known_for_department": "Acting",
+        "name": "韩雨泽",
+        "original_name": "韩雨泽",
+        "popularity": 0.001,
+        "profile_path": "/aqiJdoNXynr72i9548Hrb1QdBRb.jpg",
+        "cast_id": 14,
+        "character": "Ao Shun, Beihai Longwang / Marmot / Muzha (voice)",
+        "credit_id": "67a22976eea89adf0902ffba",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5224795,
+        "known_for_department": "Acting",
+        "name": "Nan Yu",
+        "original_name": "Nan Yu",
+        "popularity": 0.001,
+        "profile_path": "/eXmIbypDrXnLDmSvafPrADghAR2.jpg",
+        "cast_id": 15,
+        "character": "Ao Qin, Nanhai Longwang (voice)",
+        "credit_id": "67a229c280e593d5fde2cf61",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5224799,
+        "known_for_department": "Acting",
+        "name": "Zhang Yunqi",
+        "original_name": "Zhang Yunqi",
+        "popularity": 0.001,
+        "profile_path": "/12BKdubMrQrrHlDPCc2DnPpkwRs.jpg",
+        "cast_id": 16,
+        "character": "Deer Child (voice)",
+        "credit_id": "67a22a060abccc3b392623bf",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3254572,
+        "known_for_department": "Acting",
+        "name": "Xingliner",
+        "original_name": "Xingliner",
+        "popularity": 0.918,
+        "profile_path": "/kAwo90XvibPmibd0XyWgR48tJBA.jpg",
+        "cast_id": 17,
+        "character": "Crane Child (voice)",
+        "credit_id": "67a22a4d80e593d5fde2cfbb",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5224801,
+        "known_for_department": "Acting",
+        "name": "Wang Zhixing",
+        "original_name": "Wang Zhixing",
+        "popularity": 0.001,
+        "profile_path": "/lx712Gy38uJHkkkdYuKKizagYDg.jpg",
+        "cast_id": 18,
+        "character": "Shen Xiaobao (voice)",
+        "credit_id": "67a22a75380b86acd903019b",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5224803,
+        "known_for_department": "Acting",
+        "name": "Zhang Ji",
+        "original_name": "Zhang Ji",
+        "popularity": 0.004,
+        "profile_path": "/9Fqf1PxiG3R30sOK78ZLJSmnwQN.jpg",
+        "cast_id": 19,
+        "character": "Shen Zhengdao (voice)",
+        "credit_id": "67a22aa3eea89adf09030014",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5224804,
+        "known_for_department": "Acting",
+        "name": "Liang Sheng",
+        "original_name": "Liang Sheng",
+        "popularity": 0.001,
+        "profile_path": "/otx91zWoMSRExzDrPhLesXvwpON.jpg",
+        "cast_id": 20,
+        "character": "鼠老大 / 鼠老二 / 道行仙尊（配音）",
+        "credit_id": "67a22af79a24fca66026286a",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3791131,
+        "known_for_department": "Acting",
+        "name": "幻听",
+        "original_name": "幻听",
+        "popularity": 0.001,
+        "profile_path": "/iIZokkC5evrUievNheuvjD2qx8K.jpg",
+        "cast_id": 21,
+        "character": "Mirror / Cihang Daoren (voice)",
+        "credit_id": "67a22b2aeea89adf09030066",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3791123,
+        "known_for_department": "Acting",
+        "name": "零柒",
+        "original_name": "零柒",
+        "popularity": 0.001,
+        "profile_path": "/3G6kVzgzio83HXpgwoEoynsCYIo.jpg",
+        "cast_id": 22,
+        "character": "Jie Jie Shou Right/ Huanglong Zhenren (voice)",
+        "credit_id": "67a22b719a24fca660262897",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1191795,
+        "known_for_department": "Acting",
+        "name": "Gong Geer",
+        "original_name": "Gong Geer",
+        "popularity": 0.841,
+        "profile_path": "/iefh3KyxdBx4RWYaolg7z2ZD3iK.jpg",
+        "cast_id": 23,
+        "character": "鱼怪 / 采藕大爷 / 采藕大妈（配音）",
+        "credit_id": "67a22b82716bfd74ece2d321",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5224806,
+        "known_for_department": "Acting",
+        "name": "Chen Houlin",
+        "original_name": "Chen Houlin",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "鲨鱼怪 / 清虚道德真君（配音）",
+        "credit_id": "67a22b97a74d8ee23b26c0c8",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2367353,
+        "known_for_department": "Directing",
+        "name": "饺子",
+        "original_name": "饺子",
+        "popularity": 3.179,
+        "profile_path": "/9GVX1PAomTgqlAQplBfYCtblPE6.jpg",
+        "cast_id": 25,
+        "character": "鼠老大（配音）",
+        "credit_id": "67a22bbba74d8ee23b26c0df",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5268919,
+        "known_for_department": "Acting",
+        "name": "小微",
+        "original_name": "小微",
+        "popularity": 0.061,
+        "profile_path": "/nHigGT79lPzgjMHwkyMOTtcHvWe.jpg",
+        "cast_id": 37,
+        "character": "石矶娘娘（配音）",
+        "credit_id": "67bde2fb11434cab4b59aa47",
+        "order": 22
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2367353,
+        "known_for_department": "Directing",
+        "name": "饺子",
+        "original_name": "饺子",
+        "popularity": 3.179,
+        "profile_path": "/9GVX1PAomTgqlAQplBfYCtblPE6.jpg",
+        "credit_id": "6290105ba6fdaa0065fdc145",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2367353,
+        "known_for_department": "Directing",
+        "name": "饺子",
+        "original_name": "饺子",
+        "popularity": 3.179,
+        "profile_path": "/9GVX1PAomTgqlAQplBfYCtblPE6.jpg",
+        "credit_id": "629010549a643500aa037480",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3380497,
+        "known_for_department": "Production",
+        "name": "Liu Wenzhang",
+        "original_name": "Liu Wenzhang",
+        "popularity": 0.001,
+        "profile_path": "/7BLmmFhYDN7MyKVui5qJ590qgi9.jpg",
+        "credit_id": "67a22bd9716bfd74ece2d38e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4244140,
+        "known_for_department": "Acting",
+        "name": "Chen Zhe",
+        "original_name": "Chen Zhe",
+        "popularity": 0.001,
+        "profile_path": "/iHoTxlDIZQ9uNtfmT38iNfx7D7z.jpg",
+        "credit_id": "67a22bf4a74d8ee23b26c0ef",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1608970,
+        "known_for_department": "Production",
+        "name": "王长田",
+        "original_name": "王长田",
+        "popularity": 0.598,
+        "profile_path": "/5NVTL4mXj8PjBbvJiXBum0WmvPw.jpg",
+        "credit_id": "67a22bff9a24fca660262912",
+        "department": "Crew",
+        "job": "Presenter"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3102084,
+        "known_for_department": "Production",
+        "name": "Li Xiaoping",
+        "original_name": "Li Xiaoping",
+        "popularity": 0.001,
+        "profile_path": "/cInCDR5M897mPuWEGOSw1V1zxc.jpg",
+        "credit_id": "67a22c0aed829ebc56e2dd59",
+        "department": "Crew",
+        "job": "Presenter"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1323173,
+        "known_for_department": "Sound",
+        "name": "阿鲲",
+        "original_name": "阿鲲",
+        "popularity": 0.021,
+        "profile_path": "/zaAmLbksc4bxTr21dhveZ6I7WRr.jpg",
+        "credit_id": "67ac8c3a9d346d3ef49bd1bb",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2623147,
+        "known_for_department": "Sound",
+        "name": "Wan Pin Chu",
+        "original_name": "Wan Pin Chu",
+        "popularity": 0.461,
+        "profile_path": "/r8Fixl6Mbv9SsjM7z4lLGTyTOgg.jpg",
+        "credit_id": "67ac8c41dd9b7d2eaab0cc23",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5210591,
+        "known_for_department": "Sound",
+        "name": "楊芮",
+        "original_name": "楊芮",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "67ac8c6bdd9b7d2eaab0cc34",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2367353,
+        "known_for_department": "Directing",
+        "name": "饺子",
+        "original_name": "饺子",
+        "popularity": 3.179,
+        "profile_path": "/9GVX1PAomTgqlAQplBfYCtblPE6.jpg",
+        "credit_id": "67b1e359be1135c1d86dbbb3",
+        "department": "Writing",
+        "job": "Story"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 185343,
+        "name": "based on myths, legends or folklore"
+      },
+      {
+        "id": 278823,
+        "name": "3d animation"
+      },
+      {
+        "id": 290656,
+        "name": "nezha"
+      },
+      {
+        "id": 297031,
+        "name": "chinese mythology"
+      },
+      {
+        "id": 315535,
+        "name": "donghua"
+      },
+      {
+        "id": 347816,
+        "name": "na tra"
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/p23kiJvHLTEzVFYayGa3WqEluc1.jpg",
+        "id": 1357305,
+        "title": "Detective Chinatown 1900",
+        "original_title": "唐探1900",
+        "overview": "In 1900, a white woman was murdered in Chinatown in San Francisco, and the suspect was a Chinese man. The murder caused social shock, and people demanded the closure of Chinatown.",
+        "poster_path": "/g3GsgIlH3fA4RxhNOAMvSbVWyfW.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "zh",
+        "genre_ids": [
+          35,
+          9648,
+          28
+        ],
+        "popularity": 17.536,
+        "release_date": "2025-01-29",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 37
+      },
+      {
+        "backdrop_path": "/4u0Pvva7aWR4ptgHdG3tDrTJeKw.jpg",
+        "id": 1155281,
+        "title": "Creation of the Gods II: Demon Force",
+        "original_title": "封神第二部：战火西岐",
+        "overview": "Taishi Wen Zhong led the army of Shang Dynasty including Deng Chanyu and four generals of the Mo Family to Xiqi. With the help of Kunlun immortals such as Jiang Ziya, Ji Fa led the army and civilians of Xiqi to defend their homeland.",
+        "poster_path": "/kHII3r0PZ0nEGeSTSuhfAM2q1tI.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "zh",
+        "genre_ids": [
+          28,
+          14,
+          10752
+        ],
+        "popularity": 60.196,
+        "release_date": "2025-01-29",
+        "video": false,
+        "vote_average": 6.06,
+        "vote_count": 42
+      },
+      {
+        "backdrop_path": "/wYbOd1YdpDonQUHwRCTCY2grSq4.jpg",
+        "id": 615453,
+        "title": "NeZha",
+        "original_title": "哪吒之魔童降世",
+        "overview": "Primus, bir Karışık Yuan Boncuğunu bir Ruh Tohumu ve bir İblis Hapına dönüştürür. Ruh Tohumu, Kral Zhou'nun yeni bir hanedan kurmasına yardım etmek için bir insan olarak reenkarne edilebilirken, İblis Hapı insanlığı tehdit eden bir şeytan yaratacaktır. Ne Zha, kaderinde kahraman olan kişidir, ancak bunun yerine enkarne bir şeytan olur, çünkü Ruh Tohumu ve Şeytan Hapı değiştirilir.",
+        "poster_path": "/phM9bb6s9c60LA8qwsdk7U1N2cS.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "zh",
+        "genre_ids": [
+          16,
+          14,
+          12
+        ],
+        "popularity": 102.823,
+        "release_date": "2019-07-26",
+        "video": false,
+        "vote_average": 7.9,
+        "vote_count": 464
+      },
+      {
+        "backdrop_path": "/bhEirfgSTpw2NmaeJd4xj2yQTH.jpg",
+        "id": 1056444,
+        "title": "The Colors Within",
+        "original_title": "きみの色",
+        "overview": "Totsuko is a high school student with the ability to see the 'colors' of others. Colors of bliss, excitement, and serenity, plus a color she treasures as her favorite. Kimi, a classmate at her school, gives off the most beautiful color of all. Although she doesn't play an instrument, Totsuko forms a band with Kimi and Rui, a quiet music enthusiast they meet at a used bookstore in a far corner of town. As they practice at an old church on a remote island, music brings them together, forming friendships and stirring affections.",
+        "poster_path": "/gOWDvzglcQZOQPqGfVF6hfOhMNT.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          18,
+          10402
+        ],
+        "popularity": 28.685,
+        "release_date": "2024-08-30",
+        "video": false,
+        "vote_average": 6.704,
+        "vote_count": 26
+      },
+      {
+        "backdrop_path": "/56RNLigrw1qPtxiohkFkXPRKrJO.jpg",
+        "id": 895435,
+        "title": "Be Somebody",
+        "original_title": "扬名立万",
+        "overview": "During the Republican era, a group of frustrated people from the movie industry is invited in a luxurious mansion to make a movie out of a gruesome case that has recently rattled the city of Shanghai, in the hopes that it would turn into a huge sensation and make them famous. However, they never expected that the murderer would be in their midst and that the truth behind the case would be far more bizarre than their fictional movie plot.",
+        "poster_path": "/8z7IptdlKjox7BIiwNwSdSV68HP.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "zh",
+        "genre_ids": [
+          9648,
+          35,
+          18
+        ],
+        "popularity": 3.205,
+        "release_date": "2021-11-11",
+        "video": false,
+        "vote_average": 7.375,
+        "vote_count": 48
+      },
+      {
+        "backdrop_path": "/h1JwhsRFDsUiCnMt8TWEX02OGl3.jpg",
+        "id": 1184222,
+        "title": "A Long Shot",
+        "original_title": "老枪",
+        "overview": "Inspired by a shocking incident at a factory in northeastern China in the mid-90s, this astonishing debut film portrays people struggling amidst rapid changes in the status quo. The production of the gunfight in the latter part is superb.  A surprising directorial debut on a large scale.",
+        "poster_path": "/8a7Hg3b3dwf45TsEmQmewIvmbQ8.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "zh",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 3.304,
+        "release_date": "2024-11-01",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 5
+      },
+      {
+        "backdrop_path": "/wteoGPQwhj79yQuEINoTwqfEzav.jpg",
+        "id": 1280330,
+        "title": "Operation Hadal",
+        "original_title": "蛟龙行动",
+        "overview": "Mercenaries have occupied an offshore platform in Chinese territorial waters by force. The Chinese Navy sets sail to repel the invaders as the Jiao Long commando team prepares for a fierce fight in the deep sea.",
+        "poster_path": "/joALXjCQCKTSDREQEJxn83U4ORK.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "zh",
+        "genre_ids": [
+          18,
+          28,
+          10752
+        ],
+        "popularity": 6.502,
+        "release_date": "2025-01-26",
+        "video": false,
+        "vote_average": 8.2,
+        "vote_count": 4
+      },
+      {
+        "backdrop_path": "/awaUQib4FfU11VAPAGzjURioNCT.jpg",
+        "id": 1185528,
+        "title": "Legends of the Condor Heroes: The Gallants",
+        "original_title": "射雕英雄传：侠之大者",
+        "overview": "Under Genghis Khan, the Mongolian army pushes west to destroy the Jin Dynasty, setting its sights on the Song Dynasty next. Amid internal conflicts among martial arts schools, Guo Jing unites the Central Plains' warriors to defend Xiangyang, embodying courage and loyalty in the fight for the nation.",
+        "poster_path": "/j7a1A5iiIP9no43YjWdBHLJFEQB.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "zh",
+        "genre_ids": [
+          28,
+          18,
+          36
+        ],
+        "popularity": 32.677,
+        "release_date": "2025-01-29",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 13
+      },
+      {
+        "backdrop_path": "/9T7JAnC4mquStutAYu2Gd0UmdCr.jpg",
+        "id": 1310682,
+        "title": "11 Rebels",
+        "original_title": "十一人の賊軍",
+        "overview": "When the brutal Boshin War breaks out in Japan, a group of inmates on death row unite to defend a fortress against the Imperial army.",
+        "poster_path": "/7Qeo49CeZR91SznAAgjdHVdXQad.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          28,
+          18,
+          36,
+          53
+        ],
+        "popularity": 22.378,
+        "release_date": "2024-11-01",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 12
+      },
+      {
+        "backdrop_path": "/sdB47qpxcYDxHZSQDJHUxK4oAXg.jpg",
+        "id": 59902,
+        "title": "Bobbie Jo and the Outlaw",
+        "original_title": "Bobbie Jo and the Outlaw",
+        "overview": "A young country-star wannabe takes off from her carhop career to join with a young, modern Billy the Kid wannabe for an adventure in theft, murder and mayhem.",
+        "poster_path": "/pjszMVkZdhHfaPFiOhIex0XiN7N.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          18,
+          80
+        ],
+        "popularity": 4.49,
+        "release_date": "1976-03-01",
+        "video": false,
+        "vote_average": 4.4,
+        "vote_count": 31
+      },
+      {
+        "backdrop_path": "/cL4hYvcNpAewlJP0HH7usIgW8R.jpg",
+        "id": 1425010,
+        "title": "Child of Kuntilanak",
+        "original_title": "Anak Kunti",
+        "overview": "Sara Fitria, haunted by nightmares of a Kuntilanak, travels to the cursed village of Wonoenggal to uncover her past. There, with her friend Azizah and young doctor Majid, she confronts supernatural terror and dark secrets to free the village from its curse.",
+        "poster_path": "/asEy6X6ZL3kYe9YILF5c9mHyxtx.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "id",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "popularity": 2.647,
+        "release_date": "2025-02-20",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 2
+      },
+      {
+        "backdrop_path": "/uwtjyf0EdhDMGqMrwdeoUY9n3ma.jpg",
+        "id": 1287842,
+        "title": "The Dead Thing",
+        "original_title": "The Dead Thing",
+        "overview": "A young woman lost in a series of meaningless connections falls in love with a charismatic and sensitive man, who hides a dark secret that turns her affair into a dangerous obsession.",
+        "poster_path": "/mhg1zYmo0CwQITXEIs45lxR5EOE.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "popularity": 6.275,
+        "release_date": "2025-02-11",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 6
+      },
+      {
+        "backdrop_path": "/mugCe3BRjMqNdS9YdKXLuJW9iRR.jpg",
+        "id": 1273472,
+        "title": "Honey Money Phony",
+        "original_title": "“骗骗”喜欢你",
+        "overview": "Lin Qinglang, a working girl, made a sweet promise overnight to turn into a huge debt of 201314 yuan. How can she face it with a smile on the long journey of repaying money? Can the life trajectory of the scammer Ouyang Hui, who has countless criminal records, be changed by meeting her?",
+        "poster_path": "/rL2eEk41krfbiZ3gFBCVK6zNR1d.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "zh",
+        "genre_ids": [
+          35,
+          10749
+        ],
+        "popularity": 15.026,
+        "release_date": "2024-12-20",
+        "video": false,
+        "vote_average": 5.667,
+        "vote_count": 9
+      },
+      {
+        "backdrop_path": "/iilHEhKoiQF66BTMfsXsDrkeugC.jpg",
+        "id": 41387,
+        "title": "From Beijing with Love",
+        "original_title": "國產凌凌漆",
+        "overview": "After a giant dinosaur skull is stolen, the head of the Chinese secret police decides to assign the case to the force's most incompetent reject: a rural butcher who stands around all day drinking martinis (shaken, not stirred). With a trunkload of insanely useless gadgets and a contact who constantly tries to kill him, the young agent must locate the skull and find out just what is going on here.",
+        "poster_path": "/k8VaBQYP55yEKD5tNRjn8Egf4rc.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "cn",
+        "genre_ids": [
+          28,
+          35
+        ],
+        "popularity": 6.64,
+        "release_date": "1994-10-13",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 187
+      },
+      {
+        "backdrop_path": "/zU79dkIicO6nipT5Ypr1RmWbZN2.jpg",
+        "id": 1171462,
+        "title": "Golden Kamuy",
+        "original_title": "ゴールデンカムイ",
+        "overview": "Hokkaido sınır bölgesindeki bir savaş gazisi ve Ainu halkından bir kız, suçluların dövmelerinde haritası çizili olan hazineyi bulmak için haydutlarla ve asker kaçaklarıyla yarışır.",
+        "poster_path": "/sLcRGIJqlJeoGGk88CtA8Ida5aq.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          28,
+          12,
+          35
+        ],
+        "popularity": 27.413,
+        "release_date": "2024-01-19",
+        "video": false,
+        "vote_average": 6.757,
+        "vote_count": 70
+      },
+      {
+        "backdrop_path": "/4rCD9UsmlmyCcIpq7R8tl7NKuNB.jpg",
+        "id": 1252428,
+        "title": "Anaconda",
+        "original_title": "狂蟒之灾",
+        "overview": "A struggling circus crew gets deceived by its former partner, as it embarks on a tour in Thailand. During the journey through a Southeast Asian rainforest, they encounter attacks by a giant python. They meet a mysterious man named Jeff who offers to help, but they soon realize he's a poacher. As they search for Jeff's boat, they face life-and-death struggles with the python and Jeff himself.",
+        "poster_path": "/9a7URTaq1Eimlg2ZujPX9FdOeGK.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "zh",
+        "genre_ids": [
+          12,
+          27
+        ],
+        "popularity": 37.565,
+        "release_date": "2024-03-01",
+        "video": false,
+        "vote_average": 7.11,
+        "vote_count": 83
+      },
+      {
+        "backdrop_path": "/b0Xdh15XGZbKON9CbFVB5sTqrSJ.jpg",
+        "id": 315846,
+        "title": "Küçük Kız Kardeşim",
+        "original_title": "海街diary",
+        "overview": "Yoshida Akimi’nin aynı adlı çok satan çizgi romanından uyarlanmış. Büyük annelerine ait bir evde oturan üç yetişkin kız kardeş: Fazlaca içen, bankacı Yoşi; bebek gibi davranan Çika ve en olgunları, hemşire Saçi. Yıllardır görmedikleri babalarının cenazesinde onlu yaşlarındaki utangaç üvey kız kardeşleri Suzu’yla tanışırlar. Kızla hemen kaynaşan üçlü, Suzu’yu yanlarına almayı teklif eder. Dört mevsim boyunca dört kız kardeş birbirlerine bağlanacak, aile olmayı yeniden öğrenecektir.",
+        "poster_path": "/x9A0AtEg5EEYbDGfP8NqH3C9w8M.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 9.669,
+        "release_date": "2015-06-13",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 490
+      },
+      {
+        "backdrop_path": "/1YL8ksfwm3p2Tgt1yaNVYYOvOKC.jpg",
+        "id": 1203329,
+        "title": "The Witcher: Sirens of the Deep",
+        "original_title": "The Witcher: Sirens of the Deep",
+        "overview": "İnsan denizciler derin sulardaki gizemli yaratıkların saldırısına uğradığında, karayla deniz arasındaki bu savaşı durdurabilecek tek kişi Rivyalı Geralt adlı Witcher'dır.",
+        "poster_path": "/y0pR5aBVvPn5uncaZjl94ZEnuEF.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          14,
+          28
+        ],
+        "popularity": 145.487,
+        "release_date": "2025-02-10",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 133
+      },
+      {
+        "backdrop_path": "/bVUB4WI2vTq46OHu2o1n9HdoloQ.jpg",
+        "id": 1300607,
+        "title": "Lucca'nın Dünyası",
+        "original_title": "Los dos hemisferios de Lucca",
+        "overview": "Serebral palsili oğluna yardım etmek için her şeyi göze alan Bárbara, deneysel bir tedavi için ailesini Hindistan'a götürür.",
+        "poster_path": "/fX3Q5hxUAUs1k8JQkNTwFpBd6BC.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 45.183,
+        "release_date": "2025-01-30",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 140
+      },
+      {
+        "backdrop_path": "/wsE1ScIiFdKl9RLuaI8pTn4rjxR.jpg",
+        "id": 51482,
+        "title": "Death Note Relight 1: Visions of a God",
+        "original_title": "DEATH NOTE リライト ～幻視する神～",
+        "overview": "A recap of Death Note episodes 1–26, with new footage. When rogue shinigami Ryuk leaves his Death Note in the human world, he has no idea how far the one who finds it will take his new-found power. With the Death Note in hand, brilliant high school student Light Yagami vows to rid the world of evil.",
+        "poster_path": "/qDhbGqjZ7yFwa7FMIzuiQTQMfEQ.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          10770,
+          80,
+          18,
+          14,
+          53,
+          16
+        ],
+        "popularity": 92.351,
+        "release_date": "2007-08-31",
+        "video": false,
+        "vote_average": 7.9,
+        "vote_count": 354
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

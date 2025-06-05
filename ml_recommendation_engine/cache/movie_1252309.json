@@ -1,0 +1,729 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romantik"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    }
+  ],
+  "homepage": "",
+  "id": 1252309,
+  "imdb_id": "tt31723358",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Pídeme lo que quieras",
+  "overview": "",
+  "popularity": 160.178,
+  "poster_path": "/76qnVxU2rPdVvipBN3DPQH6fVYB.jpg",
+  "production_companies": [
+    {
+      "id": 11564,
+      "logo_path": null,
+      "name": "Versus Entertainment",
+      "origin_country": "ES"
+    },
+    {
+      "id": 209187,
+      "logo_path": null,
+      "name": "LyO Media",
+      "origin_country": ""
+    },
+    {
+      "id": 11652,
+      "logo_path": null,
+      "name": "Warner Bros. Entertainment España",
+      "origin_country": "ES"
+    },
+    {
+      "id": 37209,
+      "logo_path": null,
+      "name": "4 Cats Pictures",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2024-11-29",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Pídeme lo que quieras",
+  "video": false,
+  "vote_average": 6.165,
+  "vote_count": 88,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3513082,
+        "known_for_department": "Acting",
+        "name": "Gabriela Andrada",
+        "original_name": "Gabriela Andrada",
+        "popularity": 9.818,
+        "profile_path": "/h8cAdDqbDK2ayGIuxQQdNCzyCsb.jpg",
+        "cast_id": 1,
+        "character": "Judith Flores",
+        "credit_id": "65e0e85fa806730184a9b12b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2504043,
+        "known_for_department": "Acting",
+        "name": "Mario Ermito",
+        "original_name": "Mario Ermito",
+        "popularity": 5.009,
+        "profile_path": "/9HlLY9yECyYwCIaMxdaJQ5RH4FL.jpg",
+        "cast_id": 2,
+        "character": "Eric Zimmerman",
+        "credit_id": "65e0e87ba284eb0187d477b0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1062026,
+        "known_for_department": "Acting",
+        "name": "Celia Freijeiro",
+        "original_name": "Celia Freijeiro",
+        "popularity": 2.166,
+        "profile_path": "/l32Ys5nQptZLJFRtlVJXKbK704U.jpg",
+        "cast_id": 8,
+        "character": "Mónica",
+        "credit_id": "66ee90d1c237258e4c25ddbd",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1144322,
+        "known_for_department": "Acting",
+        "name": "David Solans",
+        "original_name": "David Solans",
+        "popularity": 2.288,
+        "profile_path": "/j0aKkDMqevgdXGZB8ciu9KMqE0K.jpg",
+        "cast_id": 7,
+        "character": "Miguel",
+        "credit_id": "66ee90ca92d39685383afc4c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1042729,
+        "known_for_department": "Acting",
+        "name": "Alba Ribas",
+        "original_name": "Alba Ribas",
+        "popularity": 5.232,
+        "profile_path": "/zfASs4kqXPL7CmRWmqjJovwjfsu.jpg",
+        "cast_id": 9,
+        "character": "Frida",
+        "credit_id": "66ee90da92d39685383afc71",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1300672,
+        "known_for_department": "Acting",
+        "name": "Joel Bosqued",
+        "original_name": "Joel Bosqued",
+        "popularity": 4.847,
+        "profile_path": "/pTCPqrbf9dtHUf4be3TANv6hRSL.jpg",
+        "cast_id": 10,
+        "character": "Andrés",
+        "credit_id": "66ee90de6fd7cc7d423af807",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3903994,
+        "known_for_department": "Acting",
+        "name": "Alicia Bercan",
+        "original_name": "Alicia Bercan",
+        "popularity": 1.519,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Rebeca / Betta",
+        "credit_id": "674bb61241f00c04d6b4405c",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5092104,
+        "known_for_department": "Acting",
+        "name": "Anna Karinvinge",
+        "original_name": "Anna Karinvinge",
+        "popularity": 0.316,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Amanda",
+        "credit_id": "674bb64425fe505400706a49",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2646383,
+        "known_for_department": "Acting",
+        "name": "Fernando Oyagüez",
+        "original_name": "Fernando Oyagüez",
+        "popularity": 0.427,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Fernando",
+        "credit_id": "66408cd7c7c9a89567a1b2af",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1027740,
+        "known_for_department": "Acting",
+        "name": "Paco Tous",
+        "original_name": "Paco Tous",
+        "popularity": 7.519,
+        "profile_path": "/uDGKTKKv9v2JRutCZJjKwpJVKOs.jpg",
+        "cast_id": 6,
+        "character": "Manuel",
+        "credit_id": "66ee90c1c237258e4c25ddaa",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3374212,
+        "known_for_department": "Acting",
+        "name": "Adriana Fornés",
+        "original_name": "Adriana Fornés",
+        "popularity": 0.001,
+        "profile_path": "/iEUBWRnKLTMPQyjA3ou2jym2cMd.jpg",
+        "cast_id": 16,
+        "character": "Raquel",
+        "credit_id": "674bb66f6a60a0b5232b6f97",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4462804,
+        "known_for_department": "Writing",
+        "name": "Megan Maxwell",
+        "original_name": "Megan Maxwell",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "65e0e8ab6c449c0186f949de",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2388428,
+        "known_for_department": "Directing",
+        "name": "Lucía Alemany",
+        "original_name": "Lucía Alemany",
+        "popularity": 0.635,
+        "profile_path": "/dmdNcSxaKjDVwoiZem6U6XE06HL.jpg",
+        "credit_id": "65e0eaca41a5610163825504",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5086132,
+        "known_for_department": "Writing",
+        "name": "Ivy Hesh",
+        "original_name": "Ivy Hesh",
+        "popularity": 0.155,
+        "profile_path": null,
+        "credit_id": "6747699229ca0eea30508373",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5086133,
+        "known_for_department": "Writing",
+        "name": "Vivien Dakota",
+        "original_name": "Vivien Dakota",
+        "popularity": 0.079,
+        "profile_path": null,
+        "credit_id": "674769a066b9a4f93c84e072",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4378714,
+        "known_for_department": "Writing",
+        "name": "Marina Martín Laguna",
+        "original_name": "Marina Martín Laguna",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "674769b1d73a486cbd334c90",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 514,
+        "name": "spain"
+      },
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 187056,
+        "name": "woman director"
+      },
+      {
+        "id": 298666,
+        "name": "erotic romance"
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/zbrSxpgeNscm06Wz39qa9YP5h9m.jpg",
+        "id": 39405,
+        "title": "U",
+        "original_title": "U",
+        "overview": "Since her parents passed away, Princess Mona lives by herself in a castle with two hideous, ghastly characters, Goomi and His Lordship. One day her sobs draw the attention of a unicorn, called U, who wants to comfort and protect Mona for as long as she needs. U becomes Mona's companion, her confidant and her inseparable friend. While Mona grows into a beautiful princess, a group of charming, peaceful and fanciful Yeah-Yeah’s settles in the neighboring forest. They have no particular special powers, yet they soon bring about major changes in everyone's lives, especially in Kulka, the dreamy musician.",
+        "poster_path": "/fPyDf7cl4NrtjSn5jnmODDF70kS.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          10402,
+          16
+        ],
+        "popularity": 4.378,
+        "release_date": "2006-10-11",
+        "video": false,
+        "vote_average": 6.582,
+        "vote_count": 98
+      },
+      {
+        "backdrop_path": null,
+        "id": 317735,
+        "title": "A",
+        "original_title": "A",
+        "overview": "Experimental short by Anna Lajolo and Guido Lombardi.",
+        "poster_path": "/mFAdbTVkhvYzgQ7tULBzy3LbHlh.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "it",
+        "genre_ids": [],
+        "popularity": 1.371,
+        "release_date": "1969-06-12",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 23
+      },
+      {
+        "backdrop_path": "/7AopaTPdUgp7khNuEJHAO7VhvVs.jpg",
+        "id": 1000130,
+        "title": "Av Köpekleri",
+        "original_title": "Les Meutes",
+        "overview": "Casablanca'nın banliyölerinde yaşayan bir baba ve oğul, yerel bir çete için ufak tefek suçlarla geçinirler. Bir kaçırma olayı ters gittiğinde, cesetten kurtulmanın bir yolunu bulmaları gerekir. Uzun bir gecede sıkışıp kalmışlardır ve onları neyin beklediğinden habersizdirler.",
+        "poster_path": "/6K0Mv57PWzEuuVN5jYEnnRwy9VK.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          80,
+          53,
+          18
+        ],
+        "popularity": 2.187,
+        "release_date": "2023-07-19",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 27
+      },
+      {
+        "backdrop_path": "/jOIH2q69Gg0TbQJf3k3AxpQuB6K.jpg",
+        "id": 1165736,
+        "title": "X",
+        "original_title": "X",
+        "overview": "",
+        "poster_path": "/8LdMmzzTsc7sn8QFsviaoNSEhmv.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "zh",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 1.38,
+        "release_date": "2023-09-01",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 18
+      },
+      {
+        "backdrop_path": "/kyVcNF6GRthdiT4oZn5XgJtl0F7.jpg",
+        "id": 1233327,
+        "title": "Matka",
+        "original_title": "మట్కా",
+        "overview": "Set between the years 1958 and 1982, Matka tells the story of Vasu, who rises from poverty to create a powerful gambling empire in India, ultimately leading the nation into a battle with the government. Based on real events, the tale explores themes of love, moral choices, and the consequences of ambition.",
+        "poster_path": "/bCgqktHuoBn7PVwolYDHx5Fr93i.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "te",
+        "genre_ids": [
+          28,
+          80
+        ],
+        "popularity": 7.524,
+        "release_date": "2024-11-14",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 10
+      },
+      {
+        "backdrop_path": null,
+        "id": 443359,
+        "title": "Q",
+        "original_title": "Q",
+        "overview": "This film portraits a woman living in a big city in India, and a six year old girl from nowhere. The girl has a code name DOLL. Their lives had no contact point till getting implicated in an unstoppable mission. Woman, perfectly aware, girl, perfectly unaware. The time bomb of destiny has been started...",
+        "poster_path": null,
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          53,
+          18
+        ],
+        "popularity": 0.428,
+        "release_date": "2014-02-23",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 12
+      },
+      {
+        "backdrop_path": "/dFEuzhwXfotJojrDvUpvzp12kg0.jpg",
+        "id": 1323784,
+        "title": "Bad Influence",
+        "original_title": "Mala influencia",
+        "overview": "A poor boy and a pampered rich girl seek to uncover secrets of the past to save their romance and their skin.",
+        "poster_path": "/8xBKZpQpWx8MbbTZm0jLgV4sXil.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18,
+          53,
+          10749
+        ],
+        "popularity": 85.014,
+        "release_date": "2025-01-24",
+        "video": false,
+        "vote_average": 7.938,
+        "vote_count": 8
+      },
+      {
+        "backdrop_path": null,
+        "id": 1151506,
+        "title": "Al otro barrio",
+        "original_title": "Al otro barrio",
+        "overview": "Trying to deceive the Treasury has been a very tempting option for Andrés (Quim Gutiérrez), but he didn't count on them ending up getting caught. And that is exactly what has happened to him. In addition to the million-dollar fine that has fallen on him, he must now move his offices to the Los Caños neighborhood, in the most marginal suburb of the capital, or so it seems to him. But Andrés was taking advantage of a juicy subsidy for having his headquarters there, without him having ever set foot in the neighborhood. Reluctantly, he and his employees move to Los Caños and that is not as bad as they expected... It is worse.",
+        "poster_path": "/gAHXao812ZeljAr3cRKgqhowO26.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 5.95,
+        "release_date": "2024-12-05",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 3
+      },
+      {
+        "backdrop_path": null,
+        "id": 348237,
+        "title": "F*ggot",
+        "original_title": "P*to",
+        "overview": "This is Arturo's tale, a coming of age story about a boy who tries to find and accept his sexual identity. It takes place in a small town in the state of Zacatecas during the 90's, and explores the stigma the homosexual community lived during the HIV crisis.",
+        "poster_path": "/nEYWMhh5y4Fm6v3hVQoQlJ8KLVL.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 0.77,
+        "release_date": "2014-10-21",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 21
+      },
+      {
+        "backdrop_path": "/sQbFupSWM9wUdPj96NZNUOFSP5.jpg",
+        "id": 1000075,
+        "title": "The Price of Money: A Largo Winch Adventure",
+        "original_title": "Largo Winch : Le Prix de l'argent",
+        "overview": "Largo Winch, devastated by the kidnapping of his son, realizes that if he finds those responsible for his bankruptcy, maybe he'll see his son again.",
+        "poster_path": "/myS41ZUmFvslkT8LeD2irAKxyrf.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          28,
+          12,
+          53
+        ],
+        "popularity": 87.586,
+        "release_date": "2024-07-31",
+        "video": false,
+        "vote_average": 6.17,
+        "vote_count": 188
+      },
+      {
+        "backdrop_path": null,
+        "id": 780723,
+        "title": "Q",
+        "original_title": "Q",
+        "overview": "Seven men and women caught in a strange death game are forced to survive!",
+        "poster_path": "/c7eiQsPxIg0ZWIHjUQVgdy3YQCC.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          27
+        ],
+        "popularity": 1.505,
+        "release_date": "2007-03-23",
+        "video": false,
+        "vote_average": 6.383,
+        "vote_count": 30
+      },
+      {
+        "backdrop_path": "/8aMGsqLtJ9wfGkFRvGJSm4kUDGU.jpg",
+        "id": 34186,
+        "title": "Ölümcül Çözüm",
+        "original_title": "Le Couperet",
+        "overview": "Bruno on beş yıldır aynı şirkette çalışan, yani düzenli bir işi ve hayatı olan bir adamdır. Yıllarını aynı kağıt fabrikasında yöneticilik yaparak geçiren ve patronlarına büyük bir sadakatle hizmet eden Bruno’nun başına beklenmedik bir olay gelir, işten atılır.Kaynakların yetmediği gerekçesiyle birçok arkadaşıyla beraber kapının önüne konan Bruno için yaşadıkları tam bir felaket değildir. Ne de olsa başarılı bir iş hayatı olmuş ve iyi bir kariyer yapmıştır. Dünyada yeni bir iş bulmaktan kolay ne olabilir ki?Ancak üç yıl sonra aynı noktada olduğunu gören ve bir adım bile atamadan hala işsiz dolaşan Bruno’nun hayatı artık felaketlere sürüklenmektedir. Olaylar bir prestij meselesi olmaktan çıkmış, hayat, ölüm-kalım savaşına dönmüştür. Bulduğu geçici iş karısını ve çocuklarını sadece tok tutmaya yetmektedir.",
+        "poster_path": "/v6upsNV9GWkSn0ODM8hFpvbQNJn.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          35,
+          80,
+          18,
+          53
+        ],
+        "popularity": 7.038,
+        "release_date": "2005-03-02",
+        "video": false,
+        "vote_average": 6.931,
+        "vote_count": 188
+      },
+      {
+        "backdrop_path": "/jD6JmkRXJJC52GGjAw2935x5xVk.jpg",
+        "id": 1087421,
+        "title": "Odio el verano",
+        "original_title": "Odio el verano",
+        "overview": "Due to a rental mistake, three families are forced to share a house in the Canary Islands, leading to chaotic and humorous situations as they try to live together.",
+        "poster_path": "/jc5or9heMIJlhMsOZdqYyks6jCk.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 19.232,
+        "release_date": "2024-08-23",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 33
+      },
+      {
+        "backdrop_path": "/gb9EbSHduaJqem9qgBBQK2CKnJA.jpg",
+        "id": 1029235,
+        "title": "Azrail",
+        "original_title": "Azrael",
+        "overview": "Kimsenin konuşmadığı bir dünyada, dindar bir kadın, hapishanesinden kaçan genç bir kadını avlar. Acımasız liderleri tarafından yeniden yakalanan Azrael, çevredeki vahşi doğanın derinliklerindeki kadim bir kötülüğü yatıştırmak için kurban edilecektir.",
+        "poster_path": "/qpdFKDvJS7oLKTcBLXOaMwUESbs.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          27,
+          53
+        ],
+        "popularity": 142.464,
+        "release_date": "2024-09-27",
+        "video": false,
+        "vote_average": 6.021,
+        "vote_count": 257
+      },
+      {
+        "backdrop_path": "/smjGg5K8e6zofjSSc5o5xOnflLI.jpg",
+        "id": 40108,
+        "title": "Emmanuelle: Queen of Sados",
+        "original_title": "Η Μαύρη Εμμανουέλα",
+        "overview": "A woman struggles to keep her stepdaughter from harms way after she hires an assassin to kill her husband, but the hitman turns and blackmails her for the crime.",
+        "poster_path": "/90bI5FQllcfB7ZjH0kPfhsewqmE.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "el",
+        "genre_ids": [
+          80,
+          18,
+          53
+        ],
+        "popularity": 80.703,
+        "release_date": "1980-02-01",
+        "video": false,
+        "vote_average": 6.311,
+        "vote_count": 114
+      },
+      {
+        "backdrop_path": "/fiKxHSBFehZ3cImlz2YanWpreOv.jpg",
+        "id": 588555,
+        "title": "My Grandfather's Demons",
+        "original_title": "Os Demónios do Meu Avô",
+        "overview": "Rosa's life, a highly valued professional, is turned upside down when her grandfather Marcelino dies.",
+        "poster_path": "/fPoUd6lm011MUCH54aNeMsDJl7z.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "pt",
+        "genre_ids": [
+          16,
+          18,
+          14
+        ],
+        "popularity": 38.767,
+        "release_date": "2022-09-21",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 61
+      },
+      {
+        "backdrop_path": "/6CtTpvOHyXo4QQd4wvFVhHbBwSs.jpg",
+        "id": 76597,
+        "title": "K",
+        "original_title": "K",
+        "overview": "In this French crime film, set during the time of the Gulf War, an elderly German tourist is murdered in Paris by junk dealer Joseph Katz (Pinkas Braun), a friend of Paris detective Sam Bellamy (singer Patrick Bruel). Romantically involved with the victim's daughter Emma Guter (Isabella Ferrari), Bellamy covers up the crime he witnessed. Joseph then mysteriously vanishes, and Bellamy heads for Berlin where the victim's possessions are auctioned. After Bellamy finds the source of the well-hidden traffic in art stolen by Nazis from French Jews, he discovers a Nazi war criminal is blackmailing past associates. Incorporating background from journalist Hector Feliciano's Lost Museum, the film is adapted from Guy Konopnicki's novel, Pas de Kaddish pour Sylberstein (No Kaddish for Sylberstein).",
+        "poster_path": "/34JN5ZW3J9dlaIs4UmBL3YjPQqv.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          80,
+          53
+        ],
+        "popularity": 5.106,
+        "release_date": "1997-08-27",
+        "video": false,
+        "vote_average": 6.044,
+        "vote_count": 80
+      },
+      {
+        "backdrop_path": "/awNgj3l5f1X6A0oCBnFl99X2K9R.jpg",
+        "id": 395817,
+        "title": "The Thicket",
+        "original_title": "The Thicket",
+        "overview": "An innocent young man, Jack, goes on an epic quest to rescue his sister Lula after she has been kidnapped by the violent killer Cut Throat Bill and her gang. To save her, Jack enlists the help of a crafty bounty hunter named Reginald Jones, a grave-digging alcoholic son of an ex-slave, and a street-smart prostitute. The gang tracks Cut Throat Bill into the deadly no-man’s land known as The Big Thicket — a place where blood and chaos reign.",
+        "poster_path": "/ukqWWQrJRgJym6dsTt1x3EwR2Kp.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          53,
+          37
+        ],
+        "popularity": 58.214,
+        "release_date": "2024-09-05",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 68
+      },
+      {
+        "backdrop_path": null,
+        "id": 256381,
+        "title": "Q",
+        "original_title": "Q",
+        "overview": "When growing up in a community where gang violence is a way of life and Basketball is a way to escape it.",
+        "poster_path": null,
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [],
+        "popularity": 4.126,
+        "release_date": "2014-04-25",
+        "video": false,
+        "vote_average": 5.798,
+        "vote_count": 52
+      },
+      {
+        "backdrop_path": "/j4GSGExVP3PA8HcAHln6M9SRIqs.jpg",
+        "id": 416194,
+        "title": "Deprem",
+        "original_title": "Skjelvet",
+        "overview": "1904te Oslo da büyük bir deprem olmuştur. Şimdi ise tekrar büyük bir deprem olacağı sinyalleri gelmeye başlamıştır.",
+        "poster_path": "/tbP1vcLKUXRJkuffFe3bfOaRRKQ.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "no",
+        "genre_ids": [
+          28,
+          18,
+          53
+        ],
+        "popularity": 14.093,
+        "release_date": "2018-08-31",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 765
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

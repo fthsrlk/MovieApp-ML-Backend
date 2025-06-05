@@ -1,0 +1,854 @@
+{
+  "adult": false,
+  "backdrop_path": "/h0y3OzHzG4yNvn8u3Za6ByH8lrQ.jpg",
+  "created_by": [
+    {
+      "id": 1256862,
+      "credit_id": "52596cf1760ee34661a11131",
+      "name": "Bea Schmidt",
+      "original_name": "Bea Schmidt",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2005-09-26",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 10766,
+      "name": "Pembe Dizi"
+    }
+  ],
+  "homepage": "",
+  "id": 45789,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2025-02-27",
+  "last_episode_to_air": {
+    "id": 5892396,
+    "name": "44. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-02-27",
+    "episode_number": 44,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 21,
+    "show_id": 45789,
+    "still_path": null
+  },
+  "name": "Sturm der Liebe",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 308,
+      "logo_path": "/nGl2dDGonksWY4fTzPPdkK3oNyq.png",
+      "name": "Das Erste",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 4376,
+  "number_of_seasons": 21,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Sturm der Liebe",
+  "overview": "",
+  "popularity": 2574.453,
+  "poster_path": "/jfFNydakwvbeACEwSd2Gh8UWtba.jpg",
+  "production_companies": [
+    {
+      "id": 99996,
+      "logo_path": "/liznTlaTMPe5rcFO5wSTSJAzyKj.png",
+      "name": "Bavaria Fiction",
+      "origin_country": "DE"
+    },
+    {
+      "id": 25162,
+      "logo_path": null,
+      "name": "Bavaria Fernsehproduktion",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2005-09-26",
+      "episode_count": 313,
+      "id": 91102,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/7lepnXbhtOiT8hvoDdvmB0TY9bZ.jpg",
+      "season_number": 1,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2007-02-01",
+      "episode_count": 207,
+      "id": 91103,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/bNRnl5uCoqUOR3MWDLzWEmXq3o6.jpg",
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2007-12-19",
+      "episode_count": 183,
+      "id": 91104,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/64my7t1S2yHHadBDA45uJ12lVjF.jpg",
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2008-10-09",
+      "episode_count": 211,
+      "id": 91105,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/tS8Sst8leI05SMRIOdlbTotY3fj.jpg",
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2009-09-15",
+      "episode_count": 203,
+      "id": 91106,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/4H871VRjGh13Mu519BejOVUBACI.jpg",
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2010-08-06",
+      "episode_count": 274,
+      "id": 91107,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/xN04jVI91vdbHVNJzIuyNOkK65A.jpg",
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-10-11",
+      "episode_count": 209,
+      "id": 91108,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/g00q4QC7fWcybfpWwgKbKA9uphE.jpg",
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2012-09-06",
+      "episode_count": 214,
+      "id": 91109,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/zGrzBdkrbe6v4tVITIPii1PPQoo.jpg",
+      "season_number": 8,
+      "vote_average": 6.0
+    },
+    {
+      "air_date": "2013-08-05",
+      "episode_count": 252,
+      "id": 91110,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/bvvWdgyyOqyvmuVB11TgzbkSTqj.jpg",
+      "season_number": 9,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2014-09-11",
+      "episode_count": 200,
+      "id": 91111,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/8M4h1P6mCZ7VPvdQbffFkgMRhwB.jpg",
+      "season_number": 10,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2015-07-30",
+      "episode_count": 233,
+      "id": 91112,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/J1NZAVs0RGN8xZVWVKo1dZJQsB.jpg",
+      "season_number": 11,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2016-07-26",
+      "episode_count": 193,
+      "id": 91113,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/3E4AAnt8Y9pHQ1v6TvFFhrcdirm.jpg",
+      "season_number": 12,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2017-05-23",
+      "episode_count": 120,
+      "id": 91114,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": "/jKxhLlWr4DeXx0Fsh89dj7lnWkw.jpg",
+      "season_number": 13,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2017-11-20",
+      "episode_count": 207,
+      "id": 93674,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": "/i5rB6qORyOmIry3oZOZPNGQrCVv.jpg",
+      "season_number": 14,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2018-10-19",
+      "episode_count": 245,
+      "id": 126386,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": "/4LDf43tErk2k5mnDtgln4YQD1Q8.jpg",
+      "season_number": 15,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2019-11-06",
+      "episode_count": 251,
+      "id": 188672,
+      "name": "Sezon 16",
+      "overview": "",
+      "poster_path": "/6MmyTmwERYapxnsueU5pRWEtSuy.jpg",
+      "season_number": 16,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2020-12-22",
+      "episode_count": 214,
+      "id": 366879,
+      "name": "Sezon 17",
+      "overview": "",
+      "poster_path": "/ykzX3wYvBRSm9xnmPtOQLrWVLbT.jpg",
+      "season_number": 17,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2021-12-01",
+      "episode_count": 228,
+      "id": 366878,
+      "name": "Sezon 18",
+      "overview": "",
+      "poster_path": "/k2jW78v5X5ueliQscdfrarIyv6I.jpg",
+      "season_number": 18,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2023-01-02",
+      "episode_count": 194,
+      "id": 356974,
+      "name": "Sezon 19",
+      "overview": "",
+      "poster_path": "/1hghjpxXGPFaSHvtwesqO6QkEZP.jpg",
+      "season_number": 19,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2023-11-22",
+      "episode_count": 181,
+      "id": 366880,
+      "name": "Sezon 20",
+      "overview": "",
+      "poster_path": "/gxMQGb1zHMN5mqQuNodbC9U6w8L.jpg",
+      "season_number": 20,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2024-12-02",
+      "episode_count": 44,
+      "id": 422685,
+      "name": "Sezon 21",
+      "overview": "",
+      "poster_path": "/uT4qrFY0YsziHrGOs1xZTtdrsmf.jpg",
+      "season_number": 21,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.8,
+  "vote_count": 32,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1237276,
+        "known_for_department": "Acting",
+        "name": "Dirk Galuba",
+        "original_name": "Dirk Galuba",
+        "popularity": 2.683,
+        "profile_path": "/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg",
+        "character": "Werner Saalfeld",
+        "credit_id": "52596ce4760ee34661a10fe1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18730,
+        "known_for_department": "Acting",
+        "name": "Sepp Schauer",
+        "original_name": "Sepp Schauer",
+        "popularity": 2.824,
+        "profile_path": "/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg",
+        "character": "Alfons Sonnbichler",
+        "credit_id": "52596ce6760ee34661a1101c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 43686,
+        "known_for_department": "Acting",
+        "name": "Antje Hagen",
+        "original_name": "Antje Hagen",
+        "popularity": 4.124,
+        "profile_path": "/8r3c92gsghsNFlf40GUMuCIGIb9.jpg",
+        "character": "Hildegard Sonnbichler",
+        "credit_id": "52596ce4760ee34661a10ff9",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3532913,
+        "known_for_department": "Acting",
+        "name": "Katharina Scheuba",
+        "original_name": "Katharina Scheuba",
+        "popularity": 0.136,
+        "profile_path": "/kzSllD6gMH1wevK3S8gY196FA1l.jpg",
+        "character": "Maxi Saalfeld",
+        "credit_id": "67157410bd91c83829d71e28",
+        "order": 513
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "germany",
+        "id": 74
+      },
+      {
+        "name": "hotel",
+        "id": 612
+      },
+      {
+        "name": "mountain",
+        "id": 1262
+      },
+      {
+        "name": "europe",
+        "id": 1295
+      },
+      {
+        "name": "small town",
+        "id": 1415
+      },
+      {
+        "name": "love",
+        "id": 9673
+      },
+      {
+        "name": "telenovela",
+        "id": 199262
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/prpUCDAO8blJCReEICbpGBUNwA3.jpg",
+        "id": 6647,
+        "name": "Cesur ve Güzel",
+        "original_name": "The Bold and the Beautiful",
+        "overview": "İlk bölümü 1987 yılında ekrana gelen ve 20 yıldır devam eden dizi ; Amerika, Kanada , İtalya, Almanya ve Fransa dahil olmak üzere tam 79 ülkede yayınlandı. Halen 40 ülkede yayınlanan ve yüz milyonlarca izleyicisi olan dizi, televizyon dünyasının en popüler dizisi unvanına sahip.",
+        "poster_path": "/rYqTeGPu9WrbxwIP95mpj5rlkH9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 533.378,
+        "first_air_date": "1987-03-23",
+        "vote_average": 5.5,
+        "vote_count": 135,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qFfWFwfaEHzDLWLuttWiYq7Poy2.jpg",
+        "id": 2261,
+        "name": "The Tonight Show Starring Johnny Carson",
+        "original_name": "The Tonight Show Starring Johnny Carson",
+        "overview": "The Tonight Show Starring Johnny Carson is a talk show hosted by Johnny Carson under The Tonight Show franchise from 1962 to 1992. It originally aired during late-night. For its first ten years, Carson's Tonight Show was based in New York City with occasional trips to Burbank, California; in May 1972, the show moved permanently to Burbank, California. In 2002, The Tonight Show Starring Johnny Carson was ranked #12 on TV Guide's 50 Greatest TV Shows of All Time.",
+        "poster_path": "/oA8QVTGlAN511uCAMDN60aVQUs1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 3828.286,
+        "first_air_date": "1962-10-01",
+        "vote_average": 7.41,
+        "vote_count": 72,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/74Xsd38gdaAeRks4lipKyMQaOev.jpg",
+        "id": 214065,
+        "name": "The Confessions of Frannie Langton",
+        "original_name": "The Confessions of Frannie Langton",
+        "overview": "Based on Sara Collins’ award-winning novel of the same name, which is set against the dazzling opulence of Georgian London, this powerful drama follows the eponymous Frannie’s journey from a Jamaican plantation to the grand Mayfair mansion of celebrated scientist George Benham and his exquisitely beautiful wife, Madame Marguerite Benham.",
+        "poster_path": "/1OgzGTlfvanIBxw6NFoS4A53NYp.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 17.884,
+        "first_air_date": "2022-12-08",
+        "vote_average": 6.125,
+        "vote_count": 16,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/f5oMZ4vIqD3gPw62ghKCs157H7n.jpg",
+        "id": 84712,
+        "name": "Daddyhunt: The Serial",
+        "original_name": "Daddyhunt: The Serial",
+        "overview": "A young man mistakes his salt & pepper older neighbor for a handyman, which begins a gay romance story for the modern age.",
+        "poster_path": "/xEqwAkl2GiGls4slrOvY0wfkT0M.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 25.188,
+        "first_air_date": "2016-01-29",
+        "vote_average": 5.0,
+        "vote_count": 7,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/i8iqYtAy9qcO5RSrA1f6fY1n6SN.jpg",
+        "id": 235484,
+        "name": "Suidooster",
+        "original_name": "Suidooster",
+        "overview": "Suidooster is a South African television soap opera produced by Suidooster Films which revolves around a matriarch, her family, friends and the people of Suidooster, a small shopping and business centre in the fictional Cape Town suburb of Ruiterbosch.",
+        "poster_path": "/naCgSiacvV685kait6fBvhVhdce.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "af",
+        "genre_ids": [
+          10766
+        ],
+        "popularity": 3176.151,
+        "first_air_date": "2015-11-16",
+        "vote_average": 7.381,
+        "vote_count": 21,
+        "origin_country": [
+          "ZA"
+        ]
+      },
+      {
+        "backdrop_path": "/8TSAQtPrQ40rzjEA7QOq6AYDxU9.jpg",
+        "id": 40915,
+        "name": "Julia – Wege zum Glück",
+        "original_name": "Julia – Wege zum Glück",
+        "overview": "Julia – Wege zum Glück is a German television series.",
+        "poster_path": "/2nAUnFlmjC2l2mGphM5YBfOE7OH.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 4.781,
+        "first_air_date": "2005-10-06",
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "backdrop_path": "/hjUAvBrkc3EymvGIxHoCBk185DN.jpg",
+        "id": 242722,
+        "name": "Shrimad Ramayan",
+        "original_name": "श्रीमद् रामायण",
+        "overview": "Shrimad Ramayan is an ambitious television series that brings to life the timeless epic, the Ramayan, with a deep commitment to authenticity, cultural reverence and a contemporary sensibility.",
+        "poster_path": "/aCDK83ykQYnQGFOTfiLjnoqXv1b.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "hi",
+        "genre_ids": [
+          18,
+          10751
+        ],
+        "popularity": 176.456,
+        "first_air_date": "2024-01-22",
+        "vote_average": 6.9,
+        "vote_count": 9,
+        "origin_country": [
+          "IN"
+        ]
+      },
+      {
+        "backdrop_path": "/voeuYrKelMCQBqR2xWxyHgB0fS5.jpg",
+        "id": 247246,
+        "name": "Ailem Bir Acayip: Yeni Bir Dilek",
+        "original_name": "The Fairly OddParents: A New Wish",
+        "overview": "Ailesiyle birlikte Dimmadelphia'ya taşınan Hazel, kapı komşularının, onun kılık değiştirmiş manevi peri ebeveynleri olduğunu öğrenir.",
+        "poster_path": "/ePgVXUAo1z8Bs2iLewcZ5ZH2wBR.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10765,
+          10762
+        ],
+        "popularity": 49.061,
+        "first_air_date": "2024-05-17",
+        "vote_average": 8.2,
+        "vote_count": 39,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9giQxevgoCWfSfXALGmuaXmqEq0.jpg",
+        "id": 2224,
+        "name": "The Daily Show",
+        "original_name": "The Daily Show",
+        "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+        "poster_path": "/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10763,
+          35
+        ],
+        "popularity": 3342.248,
+        "first_air_date": "1996-07-22",
+        "vote_average": 6.4,
+        "vote_count": 553,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
+        "id": 57243,
+        "name": "Doctor Who",
+        "original_name": "Doctor Who",
+        "overview": "Bu Doktor bambaşka bir doktor. Adı, karakteri, tavırları her şeyiyle bir muamma. Rose Tyler adında bir kadın, kendisini Doktor diye adlandıran gizemli bir yabancıyla tanışır ve bundan sonra hayatı baştan sona değişir. Kısa süre içerisinde ailesi de dahil bütün dünyanın tehlike altında olduğunu öğrenir. Yapması gereken ise kurtuluş yolunu bulmaktır.",
+        "poster_path": "/4edFyasCrkH4MKs6H4mHqlrxA6b.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10765
+        ],
+        "popularity": 445.678,
+        "first_air_date": "2005-03-26",
+        "vote_average": 7.537,
+        "vote_count": 3076,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/9faGSFi5jam6pDWGNd0p8JcJgXQ.jpg",
+        "id": 1396,
+        "name": "Breaking Bad",
+        "original_name": "Breaking Bad",
+        "overview": "Kanserden öleceğini öğrenen bir kimya öğretmeni, ailesinin geleceğini garanti altına almak için metamfetamin üretip satmak üzere eski bir öğrencisiyle kafa kafaya verir.",
+        "poster_path": "/ineLOBPG8AZsluYwnkMpHRyu7L.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 540.297,
+        "first_air_date": "2008-01-20",
+        "vote_average": 8.923,
+        "vote_count": 15144,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
+        "id": 1668,
+        "name": "Friends",
+        "original_name": "Friends",
+        "overview": "1990'ların Manhattan'ında iş hayatının, aşkın ve gündelik yaşamın zorluklarıyla uğraşan 20'li yaşlarda üçü kadın, üçü erkek altı kişilik yakın arkadaş gurubunun komik maceraları.",
+        "poster_path": "/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 391.305,
+        "first_air_date": "1994-09-22",
+        "vote_average": 8.4,
+        "vote_count": 8242,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/20eIP9o5ebArmu2HxJutaBjhLf4.jpg",
+        "id": 87108,
+        "name": "Çernobil",
+        "original_name": "Chernobyl",
+        "overview": "1986 senesinde Sovyet nükleer santralinde meydana gelen patlama sonrası santral işçileri ve itfaiyeciler faciayı kontrol altına almaya çalışır.",
+        "poster_path": "/87QSOjVXFwXpCcczMLhh2WRJDV5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 86.964,
+        "first_air_date": "2019-05-06",
+        "vote_average": 8.7,
+        "vote_count": 6644,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/xGexTKCJDkl12dTW4YCBDXWb1AD.jpg",
+        "id": 71446,
+        "name": "Money Heist",
+        "original_name": "La casa de papel",
+        "overview": "Bir suç dehası planını gerçekleştirmek üzere polisi ustalıkla yönlendirirken sekiz hırsız, rehineler alarak kendilerini İspanya Kraliyet Darphanesine kilitler.",
+        "poster_path": "/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 112.802,
+        "first_air_date": "2017-05-02",
+        "vote_average": 8.2,
+        "vote_count": 18793,
+        "origin_country": [
+          "ES"
+        ]
+      },
+      {
+        "backdrop_path": "/2MaumbgBlW1NoPo3ZJO38A6v7OS.jpg",
+        "id": 66732,
+        "name": "Stranger Things",
+        "original_name": "Stranger Things",
+        "overview": "Ufak bir kasabada küçük bir çocuk kaybolunca, gizli deneyler, korkutucu doğaüstü güçler ve tuhaf bir küçük kızın da parçası olduğu bir gizem ortaya çıkar.",
+        "poster_path": "/hjVNQA2a12OxkpDEOQTBMbKVZ1K.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765,
+          9648
+        ],
+        "popularity": 293.245,
+        "first_air_date": "2016-07-15",
+        "vote_average": 8.6,
+        "vote_count": 18087,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/nqKl23bnWrTlNUv0ZA6KrtpTPpq.jpg",
+        "id": 2098,
+        "name": "Batman: Animasyon Dizisi",
+        "original_name": "Batman: The Animated Series",
+        "overview": "Pelerinli Savaşçı, aralarında Joker'in, Penguen'in ve Harley Quinn'in de bulunduğu, Gotham'ın en azılı kötüleriyle savaşırken içindeki şeytanlarla da mücadele eder.",
+        "poster_path": "/fulonGHOoYdRFEHUsIztoUVkr4U.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          18,
+          9648
+        ],
+        "popularity": 153.074,
+        "first_air_date": "1992-09-05",
+        "vote_average": 8.536,
+        "vote_count": 1638,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2eIlCirgcvEwmCSYh2wDfz5Sxvz.jpg",
+        "id": 46952,
+        "name": "The Blacklist",
+        "original_name": "The Blacklist",
+        "overview": "FBI'ın arananlar listesindeki kaçak, diğer kötüleri yakalamaları için FBI'a yardım teklifinde bulunur; tek şartı çaylak profil uzmanı Elizabeth Keen'in ortağı olmasıdır.",
+        "poster_path": "/4HTfd1PhgFUenJxVuBDNdLmdr0c.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "popularity": 576.204,
+        "first_air_date": "2013-09-23",
+        "vote_average": 7.628,
+        "vote_count": 3230,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/yGNnjoIGOdQy3douq60tULY8teK.jpg",
+        "id": 63247,
+        "name": "Westworld",
+        "original_name": "Westworld",
+        "overview": "İki konuk ileri teknolojinin kullanıldığı bir eğlence parkında Vahşi Batı macerasına çıkar. Parktaki insanlar robottur ve park Roma, Vahşi Batı ve Ortaçağ dönemlerine benzetilerek sahici bir hayat yaratmak amacıyla tasarlanmıştır. Merkezi bilgisayar sistemi bozulunca robotlar zincirlerini koparır ve parkın iki konuğu robot bir silahşör tarafından takip edildiklerini fark eder.West World ya da Batı Dünyası, yapay bilincin ortaya çıkması ve suçun geleceğiyle ilgili karanlık bir yolculuğu anlatmaktadır.",
+        "poster_path": "/8MfgyFHf7XEboZJPZXCIDqqiz6e.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          37
+        ],
+        "popularity": 152.522,
+        "first_air_date": "2016-10-02",
+        "vote_average": 8.041,
+        "vote_count": 5624,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/8rDij8tYynUfu2hMVXynAp2pSjY.jpg",
+        "id": 97546,
+        "name": "Ted Lasso",
+        "original_name": "Ted Lasso",
+        "overview": "Ted Lasso, futbol takımını yönetmek için işe alınan bir amerikan futbolu koçunun hikayesini konu ediyor. Ted Lasso, futbol takımına teknik direktörlük yapmak için işe alınır; ancak Lasso’nun teknik direktörlük deneyimi yoktur. Ted Lasso, teknik direktörlük deneyimi olmamasına rağmen takımın başarılı olması için elinden geleni yapar.",
+        "poster_path": "/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 124.973,
+        "first_air_date": "2020-08-14",
+        "vote_average": 8.414,
+        "vote_count": 1856,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+        "id": 1399,
+        "name": "Game of Thrones",
+        "original_name": "Game of Thrones",
+        "overview": "Krallık dediğin savaşsız olur mu? En güçlü krallığı kurup, huzuru sağlamış olsan bile bu gücü elinde nasıl koruyacaksın? Burada yanlış yapana yer yok, affetmek yok. Kuzey Krallığının hükümdarı Lord Ned Stark, uzun ve zorlu savaşlardan sonra anayurduna dönüp krallığını bütünlük içerisinde tutmayı başarmıştır. Kral Robert Baratheon ile yıllarca omuz omuza çarpışan ve Baratheon'un kral olmasını sağlayan Ned Stark'ın tek istediği kuzey sınırlarını koruyan krallığında ailesiyle ve halkıyla yaşamaktır. \n\nFakat suyun öte yanında kendi topraklarından ve krallığından kovulduğunu iddia eden Viserys Targaryen , kız kardeşi Daenerys'i barbar kavimlerin başı Han Drogo'ya vererek, güç birliği planları yapmaktadır. Tahtını büyük bir iştahla geri isteyen ama kraliyet oyunlarından habersiz olan Viserys'in planları Kral Baratheon'a ulaşır. Savaş alanında büyük cengaver olan ama ülke ve aile yönetiminde aynı başarıyı tutturamayan Baratheon'un tamamen güvenebileceği ve her yanlış hamlesini arkasından toplayacak yeni bir sağ kola ihtiyacı vardır. Kuzeyin Lordu Ned Stark bu görev için seçilen tek aday isimdir. Kış yaklaşıyor...\n\nHanedan entrikaları, kapılı kapılar ardında dönen oyunlar, birilerinin kuyusunu kazmak için düşmanın koynuna girmekten çekinmeyen kadınlar, kardeşler arası çekişmeler, dışlanmalar... Hepsi tek bir hedef için: Taht kavgası..",
+        "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 723.189,
+        "first_air_date": "2011-04-17",
+        "vote_average": 8.5,
+        "vote_count": 24677,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

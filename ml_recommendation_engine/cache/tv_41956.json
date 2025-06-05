@@ -1,0 +1,950 @@
+{
+  "adult": false,
+  "backdrop_path": "/8dbKQrdVR5HD7PVWjTPawnTYCPT.jpg",
+  "created_by": [
+    {
+      "id": 1364632,
+      "credit_id": "54186f74c3a36819b40033e5",
+      "name": "Robert Thorogood",
+      "original_name": "Robert Thorogood",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2011-10-25",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Komedi"
+    },
+    {
+      "id": 80,
+      "name": "Suç"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 9648,
+      "name": "Gizem"
+    }
+  ],
+  "homepage": "http://www.bbc.co.uk/programmes/b01pvmf6",
+  "id": 41956,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-03-28",
+  "last_episode_to_air": {
+    "id": 5909678,
+    "name": "8. Bölüm",
+    "overview": "",
+    "vote_average": 10.0,
+    "vote_count": 1,
+    "air_date": "2025-03-28",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 59,
+    "season_number": 14,
+    "show_id": 41956,
+    "still_path": "/dvealSGP5fCoDPXIDUeL72FjSrf.jpg"
+  },
+  "name": "Death in Paradise",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4,
+      "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+      "name": "BBC One",
+      "origin_country": "GB"
+    },
+    {
+      "id": 361,
+      "logo_path": "/b1cFa5FcHHnpejKiPybXSPcqKjT.png",
+      "name": "France 2",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 112,
+  "number_of_seasons": 14,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Death in Paradise",
+  "overview": "",
+  "popularity": 74.8483,
+  "poster_path": "/u7t6vCyqAdD5hE4eEfTrZmVljDi.jpg",
+  "production_companies": [
+    {
+      "id": 36740,
+      "logo_path": "/o8DuqYo6FSgxt4euhOntSByEMGh.png",
+      "name": "Red Planet Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 43499,
+      "logo_path": null,
+      "name": "Atlantique Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 3445,
+      "logo_path": "/7Jkq08LdnkxhK9M2LHuIOwHFfX8.png",
+      "name": "Kudos",
+      "origin_country": "GB"
+    },
+    {
+      "id": 3324,
+      "logo_path": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+      "name": "BBC",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-12-26",
+      "episode_count": 5,
+      "id": 236874,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/umK5oae28msPcd4Bk3sA60f8g0T.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-10-25",
+      "episode_count": 8,
+      "id": 51939,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/7QSVHl4XuYdMbidxlYKwWIkbm0f.jpg",
+      "season_number": 1,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2013-01-08",
+      "episode_count": 8,
+      "id": 51940,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/7Xhb5CLLniglO8hcmNUZNLhw7S8.jpg",
+      "season_number": 2,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2014-01-14",
+      "episode_count": 8,
+      "id": 62715,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/unR0sUcv909PPBsSehpISp1jhiW.jpg",
+      "season_number": 3,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2015-01-08",
+      "episode_count": 8,
+      "id": 64390,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/xejyfEDWWnyCYqj7bBvPOy2naNs.jpg",
+      "season_number": 4,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2016-01-07",
+      "episode_count": 8,
+      "id": 72842,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/oqUn91BKyYNjLmsQJGAcqip64oP.jpg",
+      "season_number": 5,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2017-01-05",
+      "episode_count": 8,
+      "id": 83419,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/fd8gd4At2tMb0tbjgYGsKHFnHQK.jpg",
+      "season_number": 6,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2018-01-04",
+      "episode_count": 8,
+      "id": 97476,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/4LdarXxpY5pVPj1ps05qJx6u7BX.jpg",
+      "season_number": 7,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2019-01-10",
+      "episode_count": 8,
+      "id": 116018,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/lvMAPrhar80Jc8HYLTvrjC6OF8n.jpg",
+      "season_number": 8,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2020-01-09",
+      "episode_count": 8,
+      "id": 140339,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/1pbc9Bbkc33OvqUX4ab5wSKtpDT.jpg",
+      "season_number": 9,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2021-01-07",
+      "episode_count": 8,
+      "id": 174702,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/6003599pQeZzf2KllDZTxpYVz0O.jpg",
+      "season_number": 10,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2022-01-07",
+      "episode_count": 8,
+      "id": 236873,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/az0ALxiBFfqsavfxZhtSMJLyhpw.jpg",
+      "season_number": 11,
+      "vote_average": 8.4
+    },
+    {
+      "air_date": "2023-01-06",
+      "episode_count": 8,
+      "id": 296045,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/eomNqpLNnn53ILNWYpvK2wQV6el.jpg",
+      "season_number": 12,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2024-02-04",
+      "episode_count": 8,
+      "id": 367021,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": "/u7t6vCyqAdD5hE4eEfTrZmVljDi.jpg",
+      "season_number": 13,
+      "vote_average": 8.5
+    },
+    {
+      "air_date": "2025-01-31",
+      "episode_count": 8,
+      "id": 399338,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": "/ilSaRNWOysGaPPwiSrtWzKWjaaX.jpg",
+      "season_number": 14,
+      "vote_average": 8.9
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.476,
+  "vote_count": 273,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49813,
+        "known_for_department": "Acting",
+        "name": "Don Warrington",
+        "original_name": "Don Warrington",
+        "popularity": 1.8077,
+        "profile_path": "/cSwF6Wz2HidEYGCDuX6kzBYydCv.jpg",
+        "character": "Selwyn Patterson",
+        "credit_id": "589fb9cf925141337e0066e7",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 37763,
+        "known_for_department": "Acting",
+        "name": "Élisabeth Bourgine",
+        "original_name": "Élisabeth Bourgine",
+        "popularity": 0.9249,
+        "profile_path": "/uRTy6uxDqKzT4qUa00NjBsrcF3e.jpg",
+        "character": "Catherine Bordey",
+        "credit_id": "5418777dc3a3680aac000055",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1942992,
+        "known_for_department": "Acting",
+        "name": "Shantol Jackson",
+        "original_name": "Shantol Jackson",
+        "popularity": 0.8852,
+        "profile_path": "/wchWT2EjtQPnJcYErdRM1lyRPpB.jpg",
+        "character": "Naomi Thomas",
+        "credit_id": "63b5e1e7c56d2d00d844f6ef",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 178579,
+        "known_for_department": "Acting",
+        "name": "Ginny Holder",
+        "original_name": "Ginny Holder",
+        "popularity": 1.3142,
+        "profile_path": "/gk6BypIs5txRIDe55e1I6xdyf04.jpg",
+        "character": "Darlene Curtis",
+        "credit_id": "5c45936e9251415e344d8c3c",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1225318,
+        "known_for_department": "Acting",
+        "name": "Don Gilet",
+        "original_name": "Don Gilet",
+        "popularity": 1.403,
+        "profile_path": "/9pXhLmYZRLi9HZ1WJ7UmOydZOQu.jpg",
+        "character": "Mervin Wilson",
+        "credit_id": "66749f1e56591442bc16ce2d",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1437591,
+        "known_for_department": "Acting",
+        "name": "Shaquille Ali-Yebuah",
+        "original_name": "Shaquille Ali-Yebuah",
+        "popularity": 0.5642,
+        "profile_path": "/pC9EF9THnI90DTCOaV6jotG4n1A.jpg",
+        "character": "Sebastian Rose",
+        "credit_id": "67a9be602fbac40b90937491",
+        "order": 19
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2060705,
+        "known_for_department": "Directing",
+        "name": "Amy Rodriguez",
+        "original_name": "Amy Rodriguez",
+        "popularity": 0.2077,
+        "profile_path": null,
+        "credit_id": "672b533ede546585d04d93d1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2084670,
+        "known_for_department": "Production",
+        "name": "Danielle Scott-Haughton",
+        "original_name": "Danielle Scott-Haughton",
+        "popularity": 0.0454,
+        "profile_path": null,
+        "credit_id": "672b534a599da28980954c88",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1221787,
+        "known_for_department": "Production",
+        "name": "Sue Howells",
+        "original_name": "Sue Howells",
+        "popularity": 0.1246,
+        "profile_path": null,
+        "credit_id": "672b535626b605bc19e5a475",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4507177,
+        "known_for_department": "Production",
+        "name": "Tim Key",
+        "original_name": "Tim Key",
+        "popularity": 0.1725,
+        "profile_path": null,
+        "credit_id": "65b80d38db154f0162929682",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2877793,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Iain Macaulay",
+        "original_name": "Iain Macaulay",
+        "popularity": 0.427,
+        "profile_path": null,
+        "credit_id": "677464ea4111599e3812c2ba",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "detective",
+        "id": 703
+      },
+      {
+        "name": "island",
+        "id": 2041
+      },
+      {
+        "name": "investigation",
+        "id": 5340
+      },
+      {
+        "name": "police",
+        "id": 6149
+      },
+      {
+        "name": "murder",
+        "id": 9826
+      },
+      {
+        "name": "whodunit",
+        "id": 12570
+      },
+      {
+        "name": "investigator",
+        "id": 14780
+      },
+      {
+        "name": "police detective",
+        "id": 15167
+      },
+      {
+        "name": "murder investigation",
+        "id": 161982
+      },
+      {
+        "name": "caribbean sea",
+        "id": 167861
+      },
+      {
+        "name": "murder mystery",
+        "id": 207046
+      },
+      {
+        "name": "antilles",
+        "id": 222001
+      },
+      {
+        "name": "caribbean",
+        "id": 263814
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/tAdmbGEywXlWZvbcnYgfpYwuc9H.jpg",
+        "id": 62478,
+        "name": "Partners in Crime",
+        "original_name": "Partners in Crime",
+        "overview": "Set in a 1950s Britain rising from the ashes of the Blitz into the grip of a new Cold War, our beekeeping duo stumble into a world of murder, undercover agents and cold war conspiracy. Tuppence is a woman who sees adventure round every corner, throwing herself head first into every mystery with passion and fervour, determined to get to the truth no matter what it takes, much to the dismay of her more cautious husband Tommy.",
+        "poster_path": "/2Zwurp836fMcLpOwMDciWiiak0X.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          10759,
+          18,
+          80
+        ],
+        "popularity": 3.1557,
+        "first_air_date": "2015-07-26",
+        "vote_average": 7.2,
+        "vote_count": 34,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/wPIShAP8fzePqHkYSbQLwPa9px1.jpg",
+        "id": 7154,
+        "name": "The No. 1 Ladies' Detective Agency",
+        "original_name": "The No. 1 Ladies' Detective Agency",
+        "overview": "The adventures of Mma Ramotswe, a Motswana woman who starts Botswana's first female-owned detective agency.",
+        "poster_path": "/uVPAP1fS5k8nFRtIE8TgSgdL9bb.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          35
+        ],
+        "popularity": 3.3857,
+        "first_air_date": "2009-03-15",
+        "vote_average": 6.9,
+        "vote_count": 26,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/tsXSO0MhbETa78ACTht7kHW6bw1.jpg",
+        "id": 37779,
+        "name": "The Almighty Johnsons",
+        "original_name": "The Almighty Johnsons",
+        "overview": "The four Johnson brothers have inherited the powers of the Norse gods. Because the gods lived eons ago, however, time has diluted the powers. The unique ability that each brother possesses isn't very strong, and they still have the same desires and faults that mortals do. Their lives include sibling rivalry, trying to get girls, and hanging out; but they also want to be stronger, and so they embark on a quest to fulfill an ancient prophecy in hope of gaining the full strength of their abilities.",
+        "poster_path": "/hqIzRbkuyLC3SGKbWkdSpQGexoY.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18,
+          10765
+        ],
+        "popularity": 10.262,
+        "first_air_date": "2011-02-08",
+        "vote_average": 7.543,
+        "vote_count": 35,
+        "origin_country": [
+          "NZ"
+        ]
+      },
+      {
+        "backdrop_path": "/gBJYNXFUc8O5qiPBYoOR3gpWbLR.jpg",
+        "id": 35348,
+        "name": "Necessary Roughness",
+        "original_name": "Necessary Roughness",
+        "overview": "A tough, sexy Long Island divorcee, Callie Thorne, gets a job as therapist for a professional football team in order to make ends meet. Underestimated at every turn, she succeeds beyond all expectations and soon finds herself as the sought-after therapist to high-profile clients. As a newly single mom raising two teenagers, she is determined to make her new career work by striking a balance between her personal and professional worlds.",
+        "poster_path": "/ch0k5IfqOan8YkVEnVebbK0Sk0n.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 7.3709,
+        "first_air_date": "2011-06-29",
+        "vote_average": 6.8,
+        "vote_count": 38,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 37129,
+        "name": "Chasing Classic Cars",
+        "original_name": "Chasing Classic Cars",
+        "overview": "Chasing Classic Cars follows master car restorer Wayne Carini as he embarks on a mission to uncover the world's most rare and exotic cars. Get an insider's look at the elite club of car collectors as Wayne buys, restores, and sells vintage rides.",
+        "poster_path": "/rheTqdipcnZTSlEf1SykDPflXBd.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          10764
+        ],
+        "popularity": 12.9712,
+        "first_air_date": "2008-09-09",
+        "vote_average": 7.7,
+        "vote_count": 7,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/iIerHlf2vpD2mPwcszmaytDZJTb.jpg",
+        "id": 61823,
+        "name": "Red Rock",
+        "original_name": "Red Rock",
+        "overview": "Starting on the day a long, dormant feud between two local families is brutally reignited, this continuing drama is based around a busy Dublin Garda station. On one side, the Hennessys, a local dynasty, whose name is above half the businesses in town. On the other side, the Kielys, who have turned petty crime into a cottage industry. Charting the life and dramas of a community about to be enveloped by a feud, through the eyes of those who police it, each episode will be a mix of 'crime of the week' stories and on-going serial arcs, following principle characters in both their professional and personal lives. A powerful and moving drama, Red Rock is a contemporary western, set in the shadow of Ireland's 'gold rush'.",
+        "poster_path": "/pI4y8X88qtqvbTCpVyK4ItqK4W1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18,
+          80
+        ],
+        "popularity": 10.2283,
+        "first_air_date": "2015-01-07",
+        "vote_average": 7.1,
+        "vote_count": 7,
+        "origin_country": [
+          "IE"
+        ]
+      },
+      {
+        "backdrop_path": "/aYtsLWHq899Cb8Hn2XQELQfXe4c.jpg",
+        "id": 76700,
+        "name": "Cassandre",
+        "original_name": "Cassandre",
+        "overview": "",
+        "poster_path": "/v0CJiSLD3eoLekafzpYmJYIWUVp.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 7.6773,
+        "first_air_date": "2015-11-28",
+        "vote_average": 6.5,
+        "vote_count": 12,
+        "origin_country": [
+          "FR"
+        ]
+      },
+      {
+        "backdrop_path": "/ug51LuWX803Qmhg5VsKCedILyR4.jpg",
+        "id": 61576,
+        "name": "Mongeville",
+        "original_name": "Mongeville",
+        "overview": "Former judge, new investigator! Bordeaux, France. Antoine Mongeville, a former investigating judge, meets a Criminal Police's detective who he will have to work with. Despite their tense relationship and their opposed characters, they will realise that they are not so different...",
+        "poster_path": "/onx4gaYPfKlUMuiksTntDfkszSX.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          80
+        ],
+        "popularity": 6.4268,
+        "first_air_date": "2013-04-13",
+        "vote_average": 7.6,
+        "vote_count": 4,
+        "origin_country": [
+          "FR"
+        ]
+      },
+      {
+        "backdrop_path": "/nsHoeUGwtjFHWE6guvbdcBKu2f.jpg",
+        "id": 13335,
+        "name": "New Tricks",
+        "original_name": "New Tricks",
+        "overview": "New Tricks is a British comedy-drama that follows the work of the fictional Unsolved Crime and Open Case Squad of the Metropolitan Police Service. Originally led by Detective Superintendent Sandra Pullman, it is made up of retired police officers who have been recruited to reinvestigate unsolved crimes.",
+        "poster_path": "/mCXWTVOF0DVQvxwhtWWtDYyU7ei.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 17.1252,
+        "first_air_date": "2004-01-01",
+        "vote_average": 7.3,
+        "vote_count": 55,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/iq17QmKw427IzmSToOgXljRFEem.jpg",
+        "id": 1895,
+        "name": "Jonathan Creek",
+        "original_name": "Jonathan Creek",
+        "overview": "Working from his home in a converted windmill, Jonathan Creek is a magician with a natural ability for solving puzzles. He soon puts this ability to the use of solving impossible crimes and mysterious murders.",
+        "poster_path": "/wLKa7RUDp9dN2gMZBkMxywG8xsw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          35,
+          18
+        ],
+        "popularity": 23.2884,
+        "first_air_date": "1997-05-09",
+        "vote_average": 7.484,
+        "vote_count": 62,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/eesuJC91i5MPGOZvEtoa11cPqe5.jpg",
+        "id": 61511,
+        "name": "Father Brown",
+        "original_name": "Father Brown",
+        "overview": "Father Brown is based on G. K. Chesterton's detective stories about a Catholic priest who doubles as an amateur detective in order to try and solve mysteries.",
+        "poster_path": "/u8LUC3O1hiEDKP2SFZK68iYqMzl.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "popularity": 31.8896,
+        "first_air_date": "2013-01-14",
+        "vote_average": 7.5,
+        "vote_count": 118,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/6VR8b4e2XsPeIz4HWCLafi8PNAW.jpg",
+        "id": 1028,
+        "name": "Holby City",
+        "original_name": "Holby City",
+        "overview": "Drama series about life on the wards of Holby City Hospital, following the highs and lows of the staff and patients.",
+        "poster_path": "/cyQZGDCfRFdmwiH4519c34UKnG.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 69.4079,
+        "first_air_date": "1999-01-12",
+        "vote_average": 5.7,
+        "vote_count": 43,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/5jd75KxTh4FQba7KYqQE34bXsbT.jpg",
+        "id": 10938,
+        "name": "Inşaatçı Bob /  Tamirçi Bob",
+        "original_name": "Bob the Builder",
+        "overview": "Bob the Builder, Keith Chapman tarafından yaratılan bir İngiliz çocuk animasyon televizyon programıdır. Orijinal dizide Bob, meslektaşı Wendy, çeşitli komşuları ve arkadaşları ve onların antropomorfize edilmiş iş araçları ve ekipmanı çetesiyle birlikte bir stop motion animasyon programında duvarcılıkta uzmanlaşmış bir inşaat müteahhidi olarak görünüyor. Gösteri birçok ülkede yayınlanıyor, ancak Bob'un İngiliz aktör Neil Morrissey tarafından seslendirildiği Birleşik Krallık'tan geliyor. Şov daha sonra yan ürün serisi Ready, Steady, Build! ile başlayan CGI animasyonu kullanılarak oluşturuldu.  Bob ve grubu her bölümde tadilat, inşaat ve onarım işlerinde ve gerektiğinde diğer projelerde yardımcı oluyor. Gösteri, çatışma çözme, işbirliği, sosyalleşme ve çeşitli öğrenme becerilerini vurgular. Bob'un sloganı, diğer karakterlerin \"Evet, yapabiliriz!\" Bu cümle aynı zamanda programın Birleşik Krallık'ta bir milyon satan bir numaralı hit olan tema şarkısının da adıdır.",
+        "poster_path": "/jfIAxRMSLuMjczB0ezl8L9Ukzfi.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10762,
+          16,
+          10751
+        ],
+        "popularity": 44.8905,
+        "first_air_date": "1999-04-12",
+        "vote_average": 5.8,
+        "vote_count": 112,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/1fLufp1ZI2cofG4rV2xYYk4ahSS.jpg",
+        "id": 2406,
+        "name": "Crossing Jordan",
+        "original_name": "Crossing Jordan",
+        "overview": "Crossing Jordan is an American television crime/drama series that stars Jill Hennessy as Jordan Cavanaugh, M.D., a crime-solving forensic pathologist employed in the Massachusetts Office of the Chief Medical Examiner.",
+        "poster_path": "/bywFoHoLZvW2vxDc7n4ToAKkR0y.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 41.8743,
+        "first_air_date": "2001-09-24",
+        "vote_average": 7.2,
+        "vote_count": 147,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/nG93f33al8Zq2tQ3d8oMiQfJlij.jpg",
+        "id": 62146,
+        "name": "100 Code",
+        "original_name": "100 Code",
+        "overview": "New York, USA. Stockholm, Sweden. Over the past twelve months young, blonde, blue-eyed women have been found dead in a meadow where Asphodel flowers grow. New York Detective Tommy Conley gets a special dispensation from the NYPD to go observe and act as an adviser to the Stockholm Police Department in order to help solve these crimes.",
+        "poster_path": "/tg9fpeSvD8QvPOjt1ZASz3GkqT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80
+        ],
+        "popularity": 3.3834,
+        "first_air_date": "2015-03-06",
+        "vote_average": 6.6,
+        "vote_count": 73,
+        "origin_country": [
+          "DE",
+          "US",
+          "SE"
+        ]
+      },
+      {
+        "backdrop_path": "/2zg0XXoZFqF4XmxwNJHR3lbvctY.jpg",
+        "id": 94000,
+        "name": "Viyana Kanı",
+        "original_name": "Vienna Blood",
+        "overview": "Viyana Polisinden Müfettiş Oskar Rheinhardt, katilin aranmasına yardımcı olması için Dr Max Liebermann'ı çağırır.",
+        "poster_path": "/wHIkllx1obFjEeI7z558QLoRhiU.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 5.8001,
+        "first_air_date": "2019-11-18",
+        "vote_average": 7.339,
+        "vote_count": 90,
+        "origin_country": [
+          "DE",
+          "AT",
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/5TqNfPRY1nz3LJMXfE1f4mi6y5R.jpg",
+        "id": 8616,
+        "name": "Total Drama Action",
+        "original_name": "Total Drama Action",
+        "overview": "After losing a chance to win a million dollars, campers from \"Total Drama Island\" get a second chance to win a million dollars through movie-oriented challenges for the next 6 weeks.",
+        "poster_path": "/tGG1e2B6fnzMdhsMyZzRUVGktJS.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          35,
+          18
+        ],
+        "popularity": 9.6398,
+        "first_air_date": "2009-01-11",
+        "vote_average": 7.273,
+        "vote_count": 66,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/91cTQeEKxpV6ysdPO3VWn66pehc.jpg",
+        "id": 7166,
+        "name": "The Mighty Boosh",
+        "original_name": "The Mighty Boosh",
+        "overview": "A British comic fantasy containing humour and pop-culture references.  Episodes often featured elaborate musical numbers in different genres, such as electro, heavy metal, funk, and rap. The show has been known for popularising a style called \"crimping\"; short acappella songs which are present throughout all three series.",
+        "poster_path": "/dKlYEo7mc1XLN2PutYlRuTLUXlC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10765
+        ],
+        "popularity": 20.2364,
+        "first_air_date": "2004-05-18",
+        "vote_average": 7.643,
+        "vote_count": 147,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/gpPg6JSixhf9JZbZtD32X3nNYCm.jpg",
+        "id": 14069,
+        "name": "In Treatment",
+        "original_name": "In Treatment",
+        "overview": "HBO'nun 2008′de başlayan bu farklı ve özel yapımının yarım saatlik bölümleri sadece psikolog Dr. Paul Watson ve hastalarının terapi seanslarından oluşuyor.",
+        "poster_path": "/gytzjthKWMji7olvAnBGohbGmWS.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 31.1443,
+        "first_air_date": "2008-01-28",
+        "vote_average": 7.615,
+        "vote_count": 170,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/pZcS7g2wsGWqWvleu3f9JS288QT.jpg",
+        "id": 80039,
+        "name": "Yeraltı Demiryolu",
+        "original_name": "The Underground Railroad",
+        "overview": "Dizi, Amerikalı yazar Colson Whitehead’in 2016’da yayımlanan aynı adlı romanına dayanıyor. Whitehead’in Amerikan tarihine büyülü bir pencereden baktığı romanı; Georgia’da pamuk tarlasında çalıştırılan genç bir köle olan Cora’nın hikâyesini anlatıyor. Köleler için cehennemden farksız olan hayat, Afrikalılar arasında da kabul görmeyen Cora için daha da zordur. Kadınlığa adım atmakta olan Cora için hayat daha da zorlu bir hâl almak üzereyken Virginia’dan yeni gelen bir köle olan Caesar hayatına girer. Güney eyaletlerindeki kölelerin özgürce yaşayabilecekleri kuzey eyaletlerine geçmesini sağlayan Yeraltı Demiryolu (Underground Railroad)’nun büyülü hikâyesini Cora’ya anlatan Caesar, genç kadını birlikte kaçmaya ikna eder. Bu mistik demiryolunda Amerika boyunca uzanan tehlikeli bir yolculuğa çıkan ikili, bir yandan peşlerindeki köle avcılarından kaçarken, bir yandan da Amerika’nın büyülü dünyasına şahitlik eder.",
+        "poster_path": "/6ckqz6z4zOJ8aQZ5SD1neFn6ldl.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 5.6884,
+        "first_air_date": "2021-05-13",
+        "vote_average": 7.337,
+        "vote_count": 132,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

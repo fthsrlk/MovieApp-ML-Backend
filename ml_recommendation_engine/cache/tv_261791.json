@@ -1,0 +1,907 @@
+{
+  "adult": false,
+  "backdrop_path": "/vfvyG5wTlbib7NVsO4ditUOEZNd.jpg",
+  "created_by": [
+    {
+      "id": 2050794,
+      "credit_id": "66ebb401e43f07de82eb6f97",
+      "name": "根本ノンジ",
+      "original_name": "根本ノンジ",
+      "gender": 2,
+      "profile_path": "/pPpNx7VBWy0ES2DmTv9WqUl5bnR.jpg"
+    }
+  ],
+  "episode_run_time": [
+    15
+  ],
+  "first_air_date": "2024-09-30",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 10751,
+      "name": "Aile"
+    },
+    {
+      "id": 35,
+      "name": "Komedi"
+    }
+  ],
+  "homepage": "https://www.nhk.jp/p/omusubi/ts/NJ1W7VQ6W9/",
+  "id": 261791,
+  "in_production": true,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "2025-02-27",
+  "last_episode_to_air": {
+    "id": 5867563,
+    "name": "109. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-06",
+    "episode_number": 109,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 15,
+    "season_number": 1,
+    "show_id": 261791,
+    "still_path": "/m2WMmUVolz0t5ojyfjsbM669QUy.jpg"
+  },
+  "name": "おむすび",
+  "next_episode_to_air": {
+    "id": 5867565,
+    "name": "110. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-07",
+    "episode_number": 110,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 15,
+    "season_number": 1,
+    "show_id": 261791,
+    "still_path": "/azpuSZJs1BEArYpTdXPabdMF9LE.jpg"
+  },
+  "networks": [],
+  "number_of_episodes": 125,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "おむすび",
+  "overview": "",
+  "popularity": 2581.654,
+  "poster_path": "/tK855sva67LB7opmPW4JHn1c5VI.jpg",
+  "production_companies": [
+    {
+      "id": 15505,
+      "logo_path": "/3MuBcEqLa5QRkZTpXBLzyk9zOmO.png",
+      "name": "NHK",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-09-30",
+      "episode_count": 125,
+      "id": 406799,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/iOhfIPGlBq1eRLSJRw31ywT1uqN.jpg",
+      "season_number": 1,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1062343,
+        "known_for_department": "Acting",
+        "name": "橋本環奈",
+        "original_name": "橋本環奈",
+        "popularity": 24.311,
+        "profile_path": "/r0E9sHv47KIX7cJnyhDtjIQs9QN.jpg",
+        "character": "Yoneda Yui",
+        "credit_id": "66e2d5ccf467c2ad62f8f804",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 122468,
+        "known_for_department": "Acting",
+        "name": "仲里依紗",
+        "original_name": "仲里依紗",
+        "popularity": 13.268,
+        "profile_path": "/lQHNZeMCqEK8AJvNb15BFnji7qO.jpg",
+        "character": "Yoneda Ayumi",
+        "credit_id": "66ebb463e43f07de82eb6fc5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552563,
+        "known_for_department": "Acting",
+        "name": "北村有起哉",
+        "original_name": "北村有起哉",
+        "popularity": 5.557,
+        "profile_path": "/qbUKeVee8IPNHZ2aelTDWbGkx7P.jpg",
+        "character": "Yoneda Masato",
+        "credit_id": "66ebb47062c4bb18c974775f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 27788,
+        "known_for_department": "Acting",
+        "name": "麻生久美子",
+        "original_name": "麻生久美子",
+        "popularity": 11.11,
+        "profile_path": "/tUolgTcoiaog7bhMjcEMudoTtLZ.jpg",
+        "character": "Yoneda Aiko",
+        "credit_id": "66ebb47f5168a896e11fcf97",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 237362,
+        "known_for_department": "Acting",
+        "name": "宮崎美子",
+        "original_name": "宮崎美子",
+        "popularity": 5.92,
+        "profile_path": "/uFdHiD3I9sKUHsfmQVGMMy6ueMm.jpg",
+        "character": "Yoneda Kayo",
+        "credit_id": "66ebb48ce43f07de82eb6fcd",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1245902,
+        "known_for_department": "Acting",
+        "name": "松平健",
+        "original_name": "松平健",
+        "popularity": 6.295,
+        "profile_path": "/fr7ggfoxTvNmjAWn8lwPgU0iYsh.jpg",
+        "character": "Yoneda Eikichi",
+        "credit_id": "66ebb49862c4bb18c9747772",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1875748,
+        "known_for_department": "Acting",
+        "name": "佐野勇斗",
+        "original_name": "佐野勇斗",
+        "popularity": 4.586,
+        "profile_path": "/rldvbuPCaAZhAGdWu6xvRBeuacc.jpg",
+        "character": "Yostugi Shoya",
+        "credit_id": "66ebb4a32d67799ad3eb7288",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4295042,
+        "known_for_department": "Acting",
+        "name": "菅生新樹",
+        "original_name": "菅生新樹",
+        "popularity": 0.021,
+        "profile_path": "/2R8eekvrjZDv2fSVcQUuynVJfDb.jpg",
+        "character": "Koga Yota",
+        "credit_id": "66ebb4ae62c4bb18c974777e",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3949275,
+        "known_for_department": "Acting",
+        "name": "松本怜生",
+        "original_name": "松本怜生",
+        "popularity": 2.143,
+        "profile_path": "/2rzLXdemSFgTRKF4SnomPtn664j.jpg",
+        "character": "Kazami Ryosuke",
+        "credit_id": "66ebb4bc2d67799ad3eb7294",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2559052,
+        "known_for_department": "Acting",
+        "name": "中村守里",
+        "original_name": "中村守里",
+        "popularity": 1.674,
+        "profile_path": "/cTM1IAzQES6CB3sG6KPONBiUI5n.jpg",
+        "character": "Miyazaki Emi",
+        "credit_id": "66ebb4c762c4bb18c974778b",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4950837,
+        "known_for_department": "Acting",
+        "name": "Oki Miria",
+        "original_name": "Oki Miria",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Mashima Ruri",
+        "credit_id": "66ebb4d662c4bb18c974779a",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4950838,
+        "known_for_department": "Acting",
+        "name": "Tanifuji Misaki",
+        "original_name": "Tanifuji Misaki",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Sato Tamako",
+        "credit_id": "66ebb4e52d67799ad3eb729e",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1732479,
+        "known_for_department": "Acting",
+        "name": "岡本夏美",
+        "original_name": "岡本夏美",
+        "popularity": 2.431,
+        "profile_path": "/7i2aN3CTtkpqb7S0Moangt3RM17.jpg",
+        "character": "Tanaka Suzune",
+        "credit_id": "66ebb4f05168a896e11fcfbc",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2632393,
+        "known_for_department": "Acting",
+        "name": "田村芽実",
+        "original_name": "田村芽実",
+        "popularity": 1.025,
+        "profile_path": "/8vYbHuiPt3c9aYrMGOZDU4NZeGE.jpg",
+        "character": "Yuzuki Risa",
+        "credit_id": "66ebb4fd2d67799ad3eb72a7",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 553939,
+        "known_for_department": "Acting",
+        "name": "緒形直人",
+        "original_name": "緒形直人",
+        "popularity": 4.361,
+        "profile_path": "/9vAzFrvZQORqxHK9flS9cRIhOMb.jpg",
+        "character": "Watanabe Takao",
+        "credit_id": "66ebb50a2d67799ad3eb72ad",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 127223,
+        "known_for_department": "Acting",
+        "name": "キムラ緑子",
+        "original_name": "キムラ緑子",
+        "popularity": 5.047,
+        "profile_path": "/tZFC4DOx8mxiZeA915x89Xe9fy3.jpg",
+        "character": "Sakuma Misae",
+        "credit_id": "66ebb51582ff873f7d1fafbf",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1738058,
+        "known_for_department": "Acting",
+        "name": "新納慎也",
+        "original_name": "新納慎也",
+        "popularity": 1.205,
+        "profile_path": "/nUwBn1RhvpRtT83NSowtSJOnv00.jpg",
+        "character": "Wakabayashi Takeo",
+        "credit_id": "66ebb523e43f07de82eb6fe1",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2302647,
+        "known_for_department": "Acting",
+        "name": "Katsunori Uchiba",
+        "original_name": "Katsunori Uchiba",
+        "popularity": 0.264,
+        "profile_path": null,
+        "character": "Takahashi Yozo",
+        "credit_id": "66ebb52f82ff873f7d1fafc4",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3496250,
+        "known_for_department": "Acting",
+        "name": "Takashi Utsumi",
+        "original_name": "Takashi Utsumi",
+        "popularity": 0.001,
+        "profile_path": "/u5XSaiCkcsYP8JYVFKsYNuF8rnQ.jpg",
+        "character": "Osaki Akira",
+        "credit_id": "66ebb53b62c4bb18c97477be",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4429857,
+        "known_for_department": "Acting",
+        "name": "Okajima Hideaki",
+        "original_name": "Okajima Hideaki",
+        "popularity": 0.001,
+        "profile_path": "/t661fTmW9TfvLQVOPZref1xl0F4.jpg",
+        "character": "Fukuda Yasuhiko",
+        "credit_id": "66ebb54762c4bb18c97477c3",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1717745,
+        "known_for_department": "Acting",
+        "name": "一ノ瀬ワタル",
+        "original_name": "一ノ瀬ワタル",
+        "popularity": 6.118,
+        "profile_path": "/yDLXa4DIhwfGvwHj9n7Zp0NbUvV.jpg",
+        "character": "Sasaki Yuma",
+        "credit_id": "66ebb5625168a896e11fcfc8",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2737262,
+        "known_for_department": "Acting",
+        "name": "長谷川 忍",
+        "original_name": "長谷川 忍",
+        "popularity": 2.282,
+        "profile_path": "/8r6juz63kWiDEPvrxVUV70PBxv1.jpg",
+        "character": "Matsubara Tamotsu",
+        "credit_id": "66ebb56d5168a896e11fcfd3",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1419901,
+        "known_for_department": "Acting",
+        "name": "若月佑美",
+        "original_name": "若月佑美",
+        "popularity": 6.345,
+        "profile_path": "/3m8hAG3Su5XHfq2mgq66SDsPH3k.jpg",
+        "character": "Igarashi Ikumi",
+        "credit_id": "66ebb57862c4bb18c97477e1",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1859261,
+        "known_for_department": "Acting",
+        "name": "兒玉遥",
+        "original_name": "兒玉遥",
+        "popularity": 4.147,
+        "profile_path": "/pdGHdn0vgQ8adwA2ygQtmF8jmRu.jpg",
+        "character": "Kawai Sayaka",
+        "credit_id": "66ebb589e43f07de82eb6ffe",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2662464,
+        "known_for_department": "Acting",
+        "name": "Akimasa Haraguchi",
+        "original_name": "Akimasa Haraguchi",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Kusano Seiya",
+        "credit_id": "66ebb5b05168a896e11fd017",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2234017,
+        "known_for_department": "Acting",
+        "name": "Goriken",
+        "original_name": "Goriken",
+        "popularity": 0.001,
+        "profile_path": "/gkco0J2fAhOIWvQexPRdlUSgvVT.jpg",
+        "character": "Koga Takeshi",
+        "credit_id": "66ebb5bc62c4bb18c97477fc",
+        "order": 25
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2050794,
+        "known_for_department": "Writing",
+        "name": "根本ノンジ",
+        "original_name": "根本ノンジ",
+        "popularity": 2.394,
+        "profile_path": "/pPpNx7VBWy0ES2DmTv9WqUl5bnR.jpg",
+        "credit_id": "66e2d868c81b24b3fe2390bc",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5144512,
+        "known_for_department": "Production",
+        "name": "真鍋斎",
+        "original_name": "真鍋斎",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "676f4a086cc4caf8fb927379",
+        "department": "Production",
+        "job": "Production Supervisor"
+      }
+    ]
+  },
+  "keywords": {
+    "results": []
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": null,
+        "id": 155835,
+        "name": "Honey Bunny Ka Jholmaal",
+        "original_name": "Honey Bunny Ka Jholmaal",
+        "overview": "The story revolves around the adventures of four pets: two cats named Honey and Bunny, a dog named Zoradar and a parrot named Popat, who live in a cozy house, owned by Miss Katkar. The pets always set off on fun and crazy adventures together. While they are usually sweet and well-mannered, the pets also save their town from evil men and thieves and help the good and poor people.",
+        "poster_path": "/jTjFoTwJyDI5BHgs0rkZzHN3zJh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "hi",
+        "genre_ids": [
+          35,
+          16,
+          10762
+        ],
+        "popularity": 9.638,
+        "first_air_date": "2018-04-18",
+        "vote_average": 9.0,
+        "vote_count": 1,
+        "origin_country": [
+          "IN"
+        ]
+      },
+      {
+        "backdrop_path": "/5Gkmr6eLARE8ez8sgNbdDClmPAR.jpg",
+        "id": 204343,
+        "name": "The Lord of Losers",
+        "original_name": "破事精英",
+        "overview": "",
+        "poster_path": "/dDq92DuBnfZY0ooJGCyiMTAC3RV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "zh",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 24.852,
+        "first_air_date": "2022-06-18",
+        "vote_average": 8.8,
+        "vote_count": 4,
+        "origin_country": [
+          "CN"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 214049,
+        "name": "Two Office Workers Who Are Too Poisonous For One's Eyes",
+        "original_name": "目の毒すぎる職場のふたり",
+        "overview": "This story follows the adventures of a young office lady who is also a fujoshi. With the arrival of two new colleagues: Hongou (32), a mature man whose face doesn’t show any emotion, and Daichi (25), a bright young man full of life; it’s hard for her not to imagine these two in torrid situations.",
+        "poster_path": "/3k6n15gUWC4qzQLPwNaKVYjsUml.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 11.034,
+        "first_air_date": "2022-11-04",
+        "vote_average": 8.0,
+        "vote_count": 1,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/zmx4U6lp0MPtvv1mIMzvwaqbezR.jpg",
+        "id": 217134,
+        "name": "暗宅之谜",
+        "original_name": "暗宅之谜",
+        "overview": "",
+        "poster_path": "/uvqEXCQPCfPvBzRPHE4ugPgWUPu.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "zh",
+        "genre_ids": [
+          9648
+        ],
+        "popularity": 15.396,
+        "first_air_date": "2008-08-09",
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "origin_country": [
+          "CN"
+        ]
+      },
+      {
+        "backdrop_path": "/jFTp9d9D1TniICtevOWSTuHLeub.jpg",
+        "id": 12411,
+        "name": "America's Dumbest Criminals",
+        "original_name": "America's Dumbest Criminals",
+        "overview": "America's Dumbest Criminals is an American reality series that aired in syndication from January 1996 to January 2000 for a total of 96 episodes, hosted by Daniel Butler and Debbie Alan. The series features surveillance footage, news reports and dramatic reenactments of particularly foolish criminal behavior. Also highlighted are \"dumb laws\", featuring various trivialities passed into law. Francopolitan Mercury Anastassacos was voted the \"World's Dumbest Criminal\" for the world tour phase.\n\nThe show's disclaimer partially parodies the radio and TV series Dragnet by stating that each segment was a real-life occurrence, but that \"only the names have been changed...to protect the ignorant\".",
+        "poster_path": "/yHgdaByATf7ykZLMHZDjzi6bnWW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [],
+        "popularity": 2.991,
+        "first_air_date": "1996-01-26",
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 252123,
+        "name": "Journey Across Japan: Non-Stop-North",
+        "original_name": "Journey Across Japan: Non-Stop-North",
+        "overview": "Chris Broad travels across Northen Japan with a variety of guests on his most epic journey yet!",
+        "poster_path": null,
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          99,
+          10759
+        ],
+        "popularity": 3.667,
+        "first_air_date": "",
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ws52p5ShOs8afUIUBD9cBP1ZbYo.jpg",
+        "id": 246321,
+        "name": "Yips",
+        "original_name": "イップス",
+        "overview": "A detective drama produced by Fuji TV.",
+        "poster_path": "/r2hQ9e9NLO4239id353vn5eTDd7.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          9648,
+          35,
+          18
+        ],
+        "popularity": 16.782,
+        "first_air_date": "2024-04-12",
+        "vote_average": 7.2,
+        "vote_count": 4,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 41837,
+        "name": "The X Factor: Ji Qing Chang Xiang",
+        "original_name": "The X Factor: Ji Qing Chang Xiang",
+        "overview": "The X Factor: Ji Qing Chang Xiang was a Chinese version of the reality talent show The X Factor. It was broadcast on Liaoning Television in 2011 and 2012. The broadcasting rights in China were later purchased by Hunan Television as The X Factor: Zhongguo Zui Qiang Yin in 2013.\n\nThe first season debuted on 28 July 2011. Judges were Angie Chai Chih-ping, Aduo and Chen Yufan, and it was hosted by Da Zuo and Shao Wenjie. In the final live show held on 30 September 2011, the winner was Li Shangshang.",
+        "poster_path": "/gN5TwNsqZWQud3aHzUIfdpQyd3F.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "zh",
+        "genre_ids": [],
+        "popularity": 0.194,
+        "first_air_date": "2011-07-28",
+        "vote_average": 7.0,
+        "vote_count": 1,
+        "origin_country": [
+          "CN"
+        ]
+      },
+      {
+        "backdrop_path": "/wBBL8A2eaTOQ6FQjDqOnLCFMnqo.jpg",
+        "id": 13274,
+        "name": "Android Kikaider",
+        "original_name": "人造人間キカイダー",
+        "overview": "A transforming super-android, on the run from an evil organization, fights rampaging robot monsters and helps his creator's daughter & son find their lost father.",
+        "poster_path": "/z3x37ejcgeqtz7JB5N87PuIvgLc.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          10759
+        ],
+        "popularity": 38.233,
+        "first_air_date": "1972-07-08",
+        "vote_average": 7.8,
+        "vote_count": 4,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/oATjBlJIxSfpEcKA1KVUrsWTZpl.jpg",
+        "id": 67506,
+        "name": "SOTUS",
+        "original_name": "โซตัสเอสเดอะซีรีส์",
+        "overview": "Freshmen students are practically powerless to complain or resist any orders given by their seniors. Arthit was seemingly unstoppable, until Kongpob stood up against the abuses by the former. Continual encounters between the two developed from animosity to something much more affectionate.",
+        "poster_path": "/AkHBuIhXKTllmReKonkfacjbNLJ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "th",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 33.572,
+        "first_air_date": "2016-08-20",
+        "vote_average": 6.9,
+        "vote_count": 35,
+        "origin_country": [
+          "TH"
+        ]
+      },
+      {
+        "backdrop_path": "/mEziBhdfSiM9m1K5t1xAme4u6vm.jpg",
+        "id": 7794,
+        "name": "Punks and Princesses",
+        "original_name": "Bitange i princeze",
+        "overview": "Bitange i princeze is a situation comedy type television show currently airing on Croatian Radio Television. The story is positioned in Zagreb, and it relies basically on group of people living in an apartment going through disasters in their life, falling in love, making it comical, similar to the plot in Friends. However, it contains elements of parody. For instance, as opposed to good relations between Friends, the characters are often fighting and making fun of each other, especially Irena Grobnik and Robert \"Robi\" Kumerle.",
+        "poster_path": "/2r5QRpKl6UqA4aK4bGYFbBv211c.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "hr",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 43.022,
+        "first_air_date": "2005-04-15",
+        "vote_average": 3.0,
+        "vote_count": 2,
+        "origin_country": [
+          "HR"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 41587,
+        "name": "Kaisermühlen Blues",
+        "original_name": "Kaisermühlen Blues",
+        "overview": "Kaisermühlen Blues is an Austrian television series.",
+        "poster_path": "/3iZcvYlX66hIHO6RwnVsjHv7Fxm.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 8.381,
+        "first_air_date": "1992-01-01",
+        "vote_average": 6.8,
+        "vote_count": 4,
+        "origin_country": [
+          "AT"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 14334,
+        "name": "Market Week",
+        "original_name": "Market Week",
+        "overview": "Market Week is business network CNBC's program aired in the past, hosted with Maria Bartiromo.",
+        "poster_path": null,
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10763
+        ],
+        "popularity": 0.001,
+        "first_air_date": "",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/u2VK5H2wHru3cEL0s7uiiR2s3CD.jpg",
+        "id": 103031,
+        "name": "Mothers",
+        "original_name": "외출",
+        "overview": "Han Jung-Eun has been married to Lee Woo-Cheol for 14 years and they have a daughter. Lee Woo-Cheol works as a PD at a radio station. Han Jung-Eun is busy taking care of their family and also working, so her mother Choi Soon-Ok comes to Seoul to help her. Suddenly, the family has a tragedy. Han Jung-Eun and her mother Choi Soon-Ok must face the truth from that day.",
+        "poster_path": "/qneW0xMPSidISL17oVINMgeV75W.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 5.14,
+        "first_air_date": "2020-05-04",
+        "vote_average": 3.6,
+        "vote_count": 9,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 46715,
+        "name": "Sweat the Small Stuff",
+        "original_name": "Sweat the Small Stuff",
+        "overview": "Nick Grimshaw hosts the panel show that makes a big deal about the little things in life.",
+        "poster_path": "/c5kvf5JzX5jLZUsZoDMdXazQxNw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 40.134,
+        "first_air_date": "2013-04-30",
+        "vote_average": 5.0,
+        "vote_count": 1,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/646M5LUuWOX4ej9YUJJiQk69Fbt.jpg",
+        "id": 1498,
+        "name": "Oh Yeah! Cartoons",
+        "original_name": "Oh Yeah! Cartoons",
+        "overview": "Oh Yeah! Cartoons was an American animation showcase that appeared on the Nickelodeon cable channel. Oh Yeah! was an animation project guided by Fred Seibert, former Creative Director of MTV Networks and President of Hanna-Barbera. Produced by Frederator Studios, it ran as part of Nickelodeon's Nicktoons lineup, and in its second season, was hosted by Kenan Thompson of All That and Kenan & Kel fame; Then later by Josh Server, from All That, for its third season. Bill Burnett composed the show's theme music. Oh Yeah! Cartoons was distributed by Nelvana outside of the United States.",
+        "poster_path": "/5JhgHPsYKsmd8Ndl7EX2Pbomdti.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762,
+          10751,
+          35
+        ],
+        "popularity": 62.216,
+        "first_air_date": "1998-07-19",
+        "vote_average": 9.0,
+        "vote_count": 22,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qcW56zFLVbc88sDEH8B6E6w0fI2.jpg",
+        "id": 85778,
+        "name": "The Legend of Heroes: Trails in the Sky",
+        "original_name": "英雄伝説 空の軌跡 THE ANIMATION",
+        "overview": "Ten years ago, the forces of the Erebonian Empire invaded the Kingdom of Liberl, nearly reaching the heart of the Capital City before Cassius Bright led a determined counteroffensive that drove them out. Liberl has managed to rebuild by using the special mix of magic and technology that the Erbonians covet. As they prepare to join the Bracers, whose use of \"craft\" is vital to the nation's defense, Cassius' daughter Estelle and her adopted brother Joshua learn all too well that the threat of another invasion is ever present. When Cassius' airship suddenly goes missing, the younger members of the Bright family find themselves at a pivotal point in history, deciding to launch a rescue mission by themselves!",
+        "poster_path": "/xfxalhQglYa4EosMIcMoiq4FlJ8.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10765,
+          10759
+        ],
+        "popularity": 12.356,
+        "first_air_date": "2011-11-25",
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/dfVkXnCiVxENIzQB4GLoCOQ1rRw.jpg",
+        "id": 194910,
+        "name": "Isshi Souden",
+        "original_name": "一志相伝～受け継がれる職人の心～",
+        "overview": "The series highlights the dedication and craftsmanship of traditional Japanese artisans passing their skills from generation to generation.",
+        "poster_path": "/nY5cVak7RHsGCpFh7ZmCTnknMrP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [],
+        "popularity": 0.686,
+        "first_air_date": "2010-04-12",
+        "vote_average": 10.0,
+        "vote_count": 3,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 221554,
+        "name": "Hoarder SOS",
+        "original_name": "Hoarder SOS",
+        "overview": "A look inside the cluttered life of hoarders.  Across the UK thousands of us live our lives surrounded by too much stuff, and all that chaos could be hiding potential money makers! The average household has over three thousand pounds of saleable goods. Hoarders SOS will offer help to people living in cluttered homes and advice on how to make money from their potential goldmine while freeing up some much-needed space. Our experts will dispense top tips and invaluable advice to the 'hoarders' on what is worth selling, what they should keep hold of and those items which should have been thrown away years ago.",
+        "poster_path": "/mrHhendcJkZgy2bNPgpGJ7p8lEF.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 3.596,
+        "first_air_date": "2016-09-15",
+        "vote_average": 5.5,
+        "vote_count": 6,
+        "origin_country": [
+          "GB"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

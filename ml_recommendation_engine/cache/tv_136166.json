@@ -1,0 +1,679 @@
+{
+  "adult": false,
+  "backdrop_path": "/5S0SI4NjyMji05OPL0GOZ4BsiMh.jpg",
+  "created_by": [
+    {
+      "id": 1215602,
+      "credit_id": "64b33a6778570e00ad4b7c14",
+      "name": "John de Mol",
+      "original_name": "John de Mol",
+      "gender": 2,
+      "profile_path": "/w6I4OZDHnSQsmpMvoRvfz1BvVpr.jpg"
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2020-01-20",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Gerçeklik"
+    }
+  ],
+  "homepage": "https://www.kijk.nl/programmas/lang-leve-de-liefde",
+  "id": 136166,
+  "in_production": true,
+  "languages": [
+    "nl"
+  ],
+  "last_air_date": "2025-02-21",
+  "last_episode_to_air": {
+    "id": 6019403,
+    "name": "124. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-06",
+    "episode_number": 124,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 7,
+    "show_id": 136166,
+    "still_path": null
+  },
+  "name": "Lang Leve de Liefde",
+  "next_episode_to_air": {
+    "id": 6019404,
+    "name": "125. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-07",
+    "episode_number": 125,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 7,
+    "show_id": 136166,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 1034,
+      "logo_path": "/6la8Z1gCxiZlLVIFe3l4Jv8c2Uu.png",
+      "name": "SBS6",
+      "origin_country": "NL"
+    }
+  ],
+  "number_of_episodes": 1159,
+  "number_of_seasons": 8,
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "nl",
+  "original_name": "Lang Leve de Liefde",
+  "overview": "",
+  "popularity": 2192.376,
+  "poster_path": "/9lpvvzEl5kViIc2vUJG4QKzj2ds.jpg",
+  "production_companies": [
+    {
+      "id": 188737,
+      "logo_path": null,
+      "name": "Talpa Entertainment Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-02-15",
+      "episode_count": 3,
+      "id": 217788,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/dJrwv3Fbglzp2sx7it6oeGD9HOn.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2020-01-20",
+      "episode_count": 109,
+      "id": 215261,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/sxoJQeMoqoJ8vqbw4LeLEk1ECTE.jpg",
+      "season_number": 1,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2020-08-10",
+      "episode_count": 218,
+      "id": 215262,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/sxoJQeMoqoJ8vqbw4LeLEk1ECTE.jpg",
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2021-08-30",
+      "episode_count": 88,
+      "id": 215263,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/sxoJQeMoqoJ8vqbw4LeLEk1ECTE.jpg",
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2022-01-03",
+      "episode_count": 130,
+      "id": 238931,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/sxoJQeMoqoJ8vqbw4LeLEk1ECTE.jpg",
+      "season_number": 4,
+      "vote_average": 1.0
+    },
+    {
+      "air_date": "2022-08-29",
+      "episode_count": 219,
+      "id": 306766,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/sxoJQeMoqoJ8vqbw4LeLEk1ECTE.jpg",
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2023-08-28",
+      "episode_count": 220,
+      "id": 354482,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/5T5JgF6EeOdB60iuDGzUw17YmwY.jpg",
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2024-09-02",
+      "episode_count": 125,
+      "id": 369909,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/sxoJQeMoqoJ8vqbw4LeLEk1ECTE.jpg",
+      "season_number": 7,
+      "vote_average": 6.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 60,
+      "id": 435093,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 5.2,
+  "vote_count": 9,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4164836,
+        "known_for_department": "Acting",
+        "name": "Henk Blok",
+        "original_name": "Henk Blok",
+        "popularity": 0.017,
+        "profile_path": "/xbosIGwzhYhQcRmGgqG5qDs7lRj.jpg",
+        "character": "Self (Voice-over)",
+        "credit_id": "64b33ac3e0ca7f01069773b9",
+        "order": 0
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "romance",
+        "id": 9840
+      },
+      {
+        "name": "dating",
+        "id": 13043
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/skmrSixaJibNzlBr1gGGMHFYlew.jpg",
+        "id": 156808,
+        "name": "The Story of The Netherlands",
+        "original_name": "Het verhaal van Nederland",
+        "overview": "The Story of the Netherlands tells the story of the country we live in, from the moment the first inhabitants settled there. Never before has our history, and how it has made us who we are today, been made tangible in this way. The project consists of a 10-part television series for NPO 1, with Daan Schuurmans as narrator.",
+        "poster_path": "/1OTdcoydc27wqlupfmfVLWZqbB6.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "nl",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 19.112,
+        "first_air_date": "2022-02-02",
+        "vote_average": 8.5,
+        "vote_count": 2,
+        "origin_country": [
+          "NL"
+        ]
+      },
+      {
+        "backdrop_path": "/28Ah9fVlwmT81cIbgJAtOkeHlHM.jpg",
+        "id": 2041,
+        "name": "McLeod's Daughters",
+        "original_name": "McLeod's Daughters",
+        "overview": "When Jack McLeod passes away, his two daughters inherit Drovers Run, a vast cattle ranch in the Australian outback. Ultimately, Tess and Claire decide to run the ranch together, with their housekeeper, Meg, her teenage daughter, Jodi, and a local girl, Becky. Their lives are hard and the obstacles many, but the rewards are every bit as grand as the wild open land they've inherited.",
+        "poster_path": "/twQwGmxL6XFdpSBikzINOdVm17M.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 124.454,
+        "first_air_date": "2001-08-08",
+        "vote_average": 7.2,
+        "vote_count": 52,
+        "origin_country": [
+          "AU"
+        ]
+      },
+      {
+        "backdrop_path": "/xYkydf9m337nG9guG7MpBWumPOh.jpg",
+        "id": 8086,
+        "name": "The Julekalender",
+        "original_name": "The Julekalender",
+        "overview": "The Julekalender was a Danish TV series that ran at Christmas 1991. It was written and performed almost entirely by a trio of Danish comedy musicians called De Nattergale with financial and technical assistance from TV2, a Danish television company. It was hugely successful at the time, causing many invented phrases from the series to enter popular culture and was later released on VHS, and recently, DVD.\n\nIt had 24 episodes, as has been typical of other TV \"calendars\" before and since The Julekalender.",
+        "poster_path": "/qn2s2z8yo1Tv0DhOe0SLz6MPgTx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "da",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 31.285,
+        "first_air_date": "1991-12-01",
+        "vote_average": 7.9,
+        "vote_count": 17,
+        "origin_country": [
+          "DK"
+        ]
+      },
+      {
+        "backdrop_path": "/5irZf1VW4GMtqEoMqbAghWyte0U.jpg",
+        "id": 46849,
+        "name": "Kuşak Savaşı",
+        "original_name": "Unsere Mütter, unsere Väter",
+        "overview": "Berlin, 1941. Beş arkadaş Avrupa’nın çehresini ve kendi hayatlarını değiştirecek bir macerada kahraman olmak istemektedir. Wilhelm savaştan çok edebiyata ilgi duyan hassas bir hayalperest olan küçük kardeşi Friedhelm ile doğu sınırına gider. Doğu sınırındaki Wehrmacht’ta çalışmayı dört gözle bekleyen hemşire Charlotte ise Wilhelm’e aşıktır. Greta hayalleri olan yetenekli bir şarkıcıyken, Yahudi erkek arkadaşı Viktor ailesini Almanya’dan ayrılmaya ikna edememiştir. Friedhelm zaman içinde ruhsuz bir ölüm makinesine dönüşür. Wilhelm birlğinden ayrılır. Charlotte’ın Nazi ideolojisi Alman ordusuna yardım eden Yahudi bir hemşireye ihanet edince yıkılır. Greta kendisini bir SS subayına satarak Viktor’un kaçmasını sağlar. Milyonlarca kişi onlar gibi kahraman olmak istemiştir ama hiçbiri savaşın onlara neler yapabileceğini düşünmemiştir.",
+        "poster_path": "/haLUcGnLzd0iWuW0XbRryFxj1iM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          10768,
+          18
+        ],
+        "popularity": 42.547,
+        "first_air_date": "2013-03-17",
+        "vote_average": 8.006,
+        "vote_count": 420,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "backdrop_path": "/hUz0UHWSVd6e1g3I6vT4shAsnoY.jpg",
+        "id": 1871,
+        "name": "EastEnders",
+        "original_name": "EastEnders",
+        "overview": "The everyday lives of working-class residents of Albert Square, a traditional Victorian square of terrace houses surrounding a park in the East End of London's Walford borough.",
+        "poster_path": "/z4jgyI5TpoRZiJTNchkVkMrGQyz.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18,
+          80
+        ],
+        "popularity": 735.949,
+        "first_air_date": "1985-02-19",
+        "vote_average": 4.1,
+        "vote_count": 210,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/jJHlswOAySQQijIoLqDFiIleWN6.jpg",
+        "id": 206,
+        "name": "Picket Fences",
+        "original_name": "Picket Fences",
+        "overview": "An aging Sheriff tries to keep the peace in Rome, Wisconsin, a small town plagued by bizarre and violent crimes.",
+        "poster_path": "/kXJggp02MtkGdEtBfMkjI2ie3Z5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 48.255,
+        "first_air_date": "1992-09-18",
+        "vote_average": 7.5,
+        "vote_count": 48,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/49KwlG377i8sBNBAZ8k3PZfkBOj.jpg",
+        "id": 37508,
+        "name": "Güzel Ilaçlar /  Tatlı İlaçlar",
+        "original_name": "ふたりはプリキュア",
+        "overview": "Japonya'da Futari wa Pretty Cure olarak bilinen Pretty Cure, bir Japon büyülü kız anime dizisidir. Dizinin teması, Pretty Cures olarak birlikte çalışmaya çalışan Nagisa ve Honoka arasındaki ilişkiyi açıklayan Yin ve Yang etrafında dönmektedir. Tam Versionlari Olsun Hemde Butun Bolumleri ve Lufen Turkce Seslendirmeli Olsun Filmlerinide Ayni Turkce Seslendirmeli Olsun ama Hepsini Diyorum",
+        "poster_path": "/6mpebL9rM6Dobd0xy6Bwlhj9WYt.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759,
+          35,
+          10762,
+          10751,
+          10765
+        ],
+        "popularity": 73.522,
+        "first_air_date": "2004-02-01",
+        "vote_average": 8.0,
+        "vote_count": 20,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/h7Hag8gCDtqXaSKJ7NgWJvseYCv.jpg",
+        "id": 214603,
+        "name": "This World Can't Tear Me Down",
+        "original_name": "Questo mondo non mi renderà cattivo",
+        "overview": "When an old friend returns to the neighborhood, Zerocalcare wants to help him find his place back in the world. But what's the right thing to do?",
+        "poster_path": "/ifJzwm47nzVF4mxiv2n6tzMh3av.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "it",
+        "genre_ids": [
+          16,
+          35,
+          18
+        ],
+        "popularity": 21.646,
+        "first_air_date": "2023-06-09",
+        "vote_average": 8.1,
+        "vote_count": 235,
+        "origin_country": [
+          "IT"
+        ]
+      },
+      {
+        "backdrop_path": "/c659JxTNy3kJ9yCtkznugqficLp.jpg",
+        "id": 61922,
+        "name": "Mad Dogs",
+        "original_name": "Mad Dogs",
+        "overview": "When a group of underachieving 40-something friends gather in Belize to celebrate the early retirement of an old friend, a series of wild, comedic events unfold, exposing dark secrets and a web of lies, deception and murder.",
+        "poster_path": "/vrsOiz0IhykIITjSIvChr2PZlOw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18,
+          80
+        ],
+        "popularity": 12.725,
+        "first_air_date": "2015-01-15",
+        "vote_average": 6.54,
+        "vote_count": 87,
+        "origin_country": [
+          "BR",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/rZUQOQbfSKVjIYPg7iV0PaVynAx.jpg",
+        "id": 68432,
+        "name": "Kindred Spirits",
+        "original_name": "Kindred Spirits",
+        "overview": "Ghost hunters Adam Berry and Amy Bruni help real families who claim to be bedeviled by paranormal activity in their homes.",
+        "poster_path": "/1iWu5nDiY3YHTE6o5P3gVvDax2d.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764,
+          10765
+        ],
+        "popularity": 41.872,
+        "first_air_date": "2016-10-21",
+        "vote_average": 7.2,
+        "vote_count": 15,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 4437,
+        "name": "Survivorman",
+        "original_name": "Survivorman",
+        "overview": "In this harrowing reality series, “Survivorman” Les Stroud travels to far-flung locales with little more than the clothes on his back and 50 pounds of camera equipment to battle - and try to survive - insanely harsh conditions.",
+        "poster_path": "/6qmwgjvRmShlEJUKiOYFfGJHTbZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          10764
+        ],
+        "popularity": 54.553,
+        "first_air_date": "2005-04-06",
+        "vote_average": 7.702,
+        "vote_count": 42,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/6NuvpA24GbWrnkKsYrNyr2RiRbp.jpg",
+        "id": 31917,
+        "name": "Pretty Little Liars",
+        "original_name": "Pretty Little Liars",
+        "overview": "Dizide bir arkadaş grubu olan 5 kız anlatılıyor. Spencer Hastings, Hanna Marin, Aria Montgomery, Emily Fields ve Alison DiLaurentis. Bir pijama partisinde Alison kaybolur ve hiçbir yerde bulunamaz. 1 yıl sonra cesedi eskiden yaşadığı evin arkasında görülür. Cesedi bulununca diğer dört kız \"A\" adlı anonim birinden mesajlar alır, bunlar sadece Alison'ın bildiği sırları içeren mesajlardır. Cenaze töreninden sonra bile mesajlar almaya devam ederler ve bu sayede tekrar bir araya gelirler.",
+        "poster_path": "/yrObh12XoSzRtHRAfHbcVDtkxjn.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 387.586,
+        "first_air_date": "2010-06-08",
+        "vote_average": 8.0,
+        "vote_count": 2638,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vRxARaCvIdtwzlKf5GqM7xjsC8X.jpg",
+        "id": 10493,
+        "name": "On Air with Ryan Seacrest",
+        "original_name": "On Air with Ryan Seacrest",
+        "overview": "On Air with Ryan Seacrest is an American syndicated television talk show, which ran from January 12, 2004 through September 17, 2004. It was distributed in the United States and Canada by Twentieth Television.",
+        "poster_path": "/c2ioh1Bgk8l2GJSOUvq0OEi03pT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767,
+          10763
+        ],
+        "popularity": 99.867,
+        "first_air_date": "2004-01-01",
+        "vote_average": 9.5,
+        "vote_count": 43,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/y3p2SxZw5hRHO906UckifLbRDjL.jpg",
+        "id": 4402,
+        "name": "The New Adventures of Old Christine",
+        "original_name": "The New Adventures of Old Christine",
+        "overview": "Single working mom Christine Campbell has just learned that her ex is dating a much younger woman with the same first name. To avoid any confusion, the new girlfriend is dubbed New Christine, which leaves her with the unfortunate nickname Old Christine.",
+        "poster_path": "/t3zVGyraoLtmogFnQvGpFMLREAq.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 113.757,
+        "first_air_date": "2006-03-13",
+        "vote_average": 6.9,
+        "vote_count": 88,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/jJpuarfLx4DJjZ88nzXkHOuKvYX.jpg",
+        "id": 86546,
+        "name": "The Light in Your Eyes",
+        "original_name": "눈이 부시게",
+        "overview": "Time manipulation comes with a steep price for a young woman, who becomes 78 years old overnight after using a mysterious watch.",
+        "poster_path": "/9HSrz6SH58YtU612iLb4aiRolTJ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 18.861,
+        "first_air_date": "2019-02-11",
+        "vote_average": 7.6,
+        "vote_count": 26,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/dYFVghDKCsiWB5qFMPjgoH2ZiBt.jpg",
+        "id": 67855,
+        "name": "Zumbo's Just Desserts",
+        "original_name": "Zumbo's Just Desserts",
+        "overview": "Ünlü tatlı sihirbazı Adriano Zumbo, kazananın 100.000 dolar ödül alacağı bu gergin yarışmada amatör aşçıların yeteneklerini sınıyor.",
+        "poster_path": "/9HRjQL4Umbt8RDN3PInX4jHzZNi.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 13.039,
+        "first_air_date": "2016-08-22",
+        "vote_average": 6.1,
+        "vote_count": 20,
+        "origin_country": [
+          "AU"
+        ]
+      },
+      {
+        "backdrop_path": "/k1UpU2cfa4PbDUBnJtr43TpdNBg.jpg",
+        "id": 1423,
+        "name": "Ray Donovan",
+        "original_name": "Ray Donovan",
+        "overview": "Los Angeles'in zengin ve ünlüleri, ne zaman başları sıkışsa Ray Donovan'ı ararlar, ancak Donovan kendi ailesinin neden olduğu sorunları çözmekte o kadar da iyi değildir.",
+        "poster_path": "/cwJ6nLNvX62By0yoLYWFhRelPkF.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 118.636,
+        "first_air_date": "2013-06-30",
+        "vote_average": 7.5,
+        "vote_count": 764,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/okj06kFkGeZL9L3sYr93YHyX9h3.jpg",
+        "id": 71867,
+        "name": "All Hail King Julien: Exiled",
+        "original_name": "All Hail King Julien: Exiled",
+        "overview": "Julien's been dethroned, but loyal friends and some very unlikely allies will propel the lovable lemur on a colorful journey to take back his kingdom.",
+        "poster_path": "/claBnTcyYzB216D1jFG1oLLqP0v.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 31.868,
+        "first_air_date": "2017-05-12",
+        "vote_average": 7.3,
+        "vote_count": 45,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/47ZWsxt7TayFWc5cUrXQgJRd7ny.jpg",
+        "id": 76201,
+        "name": "Runaway",
+        "original_name": "Fugueuse",
+        "overview": "The tragic yet hopeful story of Fanny, a young teen from a good suburban home whose life spirals out of control when she falls for a manipulative and abusive man.",
+        "poster_path": "/voZwbrZ6BRZrBmAe2oLqKCJGfks.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 41.328,
+        "first_air_date": "2018-01-08",
+        "vote_average": 6.5,
+        "vote_count": 26,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/c1afFq1YBN8DQwV1Qi1Z4xcGZhE.jpg",
+        "id": 96095,
+        "name": "Soundtrack",
+        "original_name": "Soundtrack",
+        "overview": "Los Angeles'ta hayatı dolu dolu yaşayan iki başarısız sanatçı hakkındaki bu müzikal dizide aşk, kayıp ve dönüşüm getiren şans iç içe geçiyor.",
+        "poster_path": "/w1VdMlm63e5nY9BlCxk4BpotvWO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 18.522,
+        "first_air_date": "2019-12-18",
+        "vote_average": 6.0,
+        "vote_count": 33,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

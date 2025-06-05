@@ -1,0 +1,876 @@
+{
+  "adult": false,
+  "backdrop_path": "/btFkAI2q3Dx3VVOdNRG93Pnqv90.jpg",
+  "created_by": [
+    {
+      "id": 1232954,
+      "credit_id": "52574914760ee36aaa107385",
+      "name": "Lee David Zlotoff",
+      "original_name": "Lee David Zlotoff",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "1985-09-29",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 10759,
+      "name": "Aksiyon & Macera"
+    },
+    {
+      "id": 80,
+      "name": "Suç"
+    }
+  ],
+  "homepage": "",
+  "id": 2875,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1992-05-21",
+  "last_episode_to_air": {
+    "id": 220102,
+    "name": "14. Bölüm",
+    "overview": "",
+    "vote_average": 7.3,
+    "vote_count": 3,
+    "air_date": "1992-05-21",
+    "episode_number": 14,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 7,
+    "show_id": 2875,
+    "still_path": "/3K2Y0sBiJkLvkHbU6W4qahrUQT6.jpg"
+  },
+  "name": "MacGyver",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 139,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "MacGyver",
+  "overview": "MacGyver,Kanada yapılmış bir Amerikan televizyon dizisidir. Başrolünde, becerikli gizli ajan olarak, Richard Dean Anderson'ın yeraldığı dizi, Lee David Zlotoff tarafından yaratıldı ve 29 Eylül 1985'den 21 Mayıs 1992'ye kadar yedi sezon boyunca devam etti. Richard Dean Anderson'un oynadığı karakter olan Angus Macgyver (isminden çok hoşlanmadığı için dizide sık kullanmaz) bir taksi şoförü iken, taksisine aldığı Fonex'in bir çalışanı tarafından keşfedilir. Fonex çalışanı bir takibe uğrar ve Macgyver bu takipten ilginç yöntemlerini kullanarak kurtulur. Seri, daha sonra Fonex için gizli ajan olarak çalışmaya başlayan Macgyver'ın maceralarını anlatır. Silah kullanmayı sevmeyen Macgyver, fizik ve kimya bilgilerini kullanarak çevresinde bulduğu araç gereçlerden silah, bomba vs. yaparak düşmanlarının elinden kurtulacaktır.",
+  "popularity": 74.3664,
+  "poster_path": "/4dxSzitiWtmIFAytkyJUaoiZvhr.jpg",
+  "production_companies": [
+    {
+      "id": 9223,
+      "logo_path": "/40qzTBM38vokoWhLKurficZ5syV.png",
+      "name": "Paramount Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 86029,
+      "logo_path": null,
+      "name": "Henry Winkler/John Rich Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 10471,
+      "logo_path": "/tHIwIKoXdLKA8Nt3XeRInh71OvD.png",
+      "name": "Columbia TriStar Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1994-05-14",
+      "episode_count": 5,
+      "id": 9278,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/mKOXiQh8JlD1iLDnykrv4Yh3h4G.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1985-09-29",
+      "episode_count": 22,
+      "id": 9273,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/oXlghBNIsbbYGMjrcEn769ECpWp.jpg",
+      "season_number": 1,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "1986-09-22",
+      "episode_count": 22,
+      "id": 9274,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/mm9OcgbtlHyRrnPFXUWgH8bZuef.jpg",
+      "season_number": 2,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "1987-09-21",
+      "episode_count": 20,
+      "id": 9272,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/lQ9HeuC7Zs5W9FaNsJWmxe34VNm.jpg",
+      "season_number": 3,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "1988-10-31",
+      "episode_count": 19,
+      "id": 9271,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/h9ue1D4Ytx05bwhbwOl9gvmAqcl.jpg",
+      "season_number": 4,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "1989-09-18",
+      "episode_count": 21,
+      "id": 9277,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/b2XcAdtuLof1Q0IIXkPXSAIbBLX.jpg",
+      "season_number": 5,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "1990-09-17",
+      "episode_count": 21,
+      "id": 9276,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/qM4s2FeBI8aKyMXRCU71oVdpMPR.jpg",
+      "season_number": 6,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "1991-09-16",
+      "episode_count": 14,
+      "id": 9275,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/14MHfvWLTIrU1qCbU4ATA1WxVhB.jpg",
+      "season_number": 7,
+      "vote_average": 7.3
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.7,
+  "vote_count": 853,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26085,
+        "known_for_department": "Acting",
+        "name": "Richard Dean Anderson",
+        "original_name": "Richard Dean Anderson",
+        "popularity": 1.86,
+        "profile_path": "/hHCSMRiI4OMT1AxgWQhugtipvy2.jpg",
+        "character": "Angus MacGyver",
+        "credit_id": "52574913760ee36aaa1072fc",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37712,
+        "known_for_department": "Acting",
+        "name": "Dana Elcar",
+        "original_name": "Dana Elcar",
+        "popularity": 2.0614,
+        "profile_path": "/iYYbcpWCikPFPvLWCqwKVvNVvrC.jpg",
+        "character": "Pete Thornton",
+        "credit_id": "52574913760ee36aaa1072ce",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3511131,
+        "known_for_department": "Production",
+        "name": "Thomas R. Polizzi",
+        "original_name": "Thomas R. Polizzi",
+        "popularity": 0.2393,
+        "profile_path": null,
+        "credit_id": "659a54eb7e12f00145d87276",
+        "department": "Production",
+        "job": "Coordinating Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1481573,
+        "known_for_department": "Production",
+        "name": "John B. Moranville",
+        "original_name": "John B. Moranville",
+        "popularity": 0.1925,
+        "profile_path": null,
+        "credit_id": "659a53e27e12f001f83b7315",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1237669,
+        "known_for_department": "Production",
+        "name": "Michael Greenburg",
+        "original_name": "Michael Greenburg",
+        "popularity": 0.3049,
+        "profile_path": null,
+        "credit_id": "659a52edca4f67025a575975",
+        "department": "Production",
+        "job": "Supervising Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1539893,
+        "known_for_department": "Art",
+        "name": "Rex Raglan",
+        "original_name": "Rex Raglan",
+        "popularity": 0.4506,
+        "profile_path": null,
+        "credit_id": "659b9aec2dc44e0256e5fdaa",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 99644,
+        "known_for_department": "Writing",
+        "name": "Stephen Downing",
+        "original_name": "Stephen Downing",
+        "popularity": 0.7726,
+        "profile_path": null,
+        "credit_id": "659a520f0d11f201497a8f5a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 155275,
+        "known_for_department": "Writing",
+        "name": "John Mantley",
+        "original_name": "John Mantley",
+        "popularity": 0.7975,
+        "profile_path": null,
+        "credit_id": "52574915760ee36aaa10743d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14712,
+        "known_for_department": "Sound",
+        "name": "Randy Edelman",
+        "original_name": "Randy Edelman",
+        "popularity": 1.3137,
+        "profile_path": "/84aXTzWZX2BSYfGcjBrBDyy0euF.jpg",
+        "credit_id": "5f00b4eb15959f0038576347",
+        "department": "Sound",
+        "job": "Main Title Theme Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21452,
+        "known_for_department": "Directing",
+        "name": "John Rich",
+        "original_name": "John Rich",
+        "popularity": 1.0469,
+        "profile_path": "/dmggiXsMI1IWCQ6hjpQhkNIwf20.jpg",
+        "credit_id": "659a505489b561025e89426c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31903,
+        "known_for_department": "Acting",
+        "name": "Henry Winkler",
+        "original_name": "Henry Winkler",
+        "popularity": 3.1827,
+        "profile_path": "/mGlSRA5RDswEDmY8oWEizXliShp.jpg",
+        "credit_id": "659a51427e12f0009532f7ab",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1232954,
+        "known_for_department": "Writing",
+        "name": "Lee David Zlotoff",
+        "original_name": "Lee David Zlotoff",
+        "popularity": 1.0599,
+        "profile_path": null,
+        "credit_id": "659b98c7a1074b0148b0e248",
+        "department": "Crew",
+        "job": "Creator"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "spy",
+        "id": 470
+      },
+      {
+        "name": "crime fighter",
+        "id": 853
+      },
+      {
+        "name": "hero",
+        "id": 1701
+      },
+      {
+        "name": "secret agent",
+        "id": 4289
+      },
+      {
+        "name": "espionage",
+        "id": 5265
+      },
+      {
+        "name": "vigilante",
+        "id": 7002
+      },
+      {
+        "name": "escape",
+        "id": 10685
+      },
+      {
+        "name": "terrorism",
+        "id": 13015
+      },
+      {
+        "name": "one man army",
+        "id": 13116
+      },
+      {
+        "name": "calm",
+        "id": 209673
+      },
+      {
+        "name": "good versus evil",
+        "id": 269233
+      },
+      {
+        "name": "inspirational",
+        "id": 281585
+      },
+      {
+        "name": "comforting",
+        "id": 325784
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/v2moumGovVAmDASYkjakIl2WrOM.jpg",
+        "id": 67133,
+        "name": "MacGyver",
+        "original_name": "MacGyver",
+        "overview": "İnsanların hayatlarını kurtarmak için olağanüstü yeteneklerini kullanarak, alışılmamış yöntemlerle problemlerin üstesinden gelen ve ABD gizli hükümeti için çalışan Angus \"Mac\" MacGyver'ın (Lucas Till) maceralarını konu edinmektedir. 1985-1992 yıllarında 7 sezon yayınlanmış dizinin yeniden uyarlamasıdır.",
+        "poster_path": "/2zAogx9dmSAu2HYxbWzHe4ZaNY5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759
+        ],
+        "popularity": 33.7459,
+        "first_air_date": "2016-09-23",
+        "vote_average": 7.288,
+        "vote_count": 934,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/t0RbyVHtPMkDGkQ7EAQpAf9syMp.jpg",
+        "id": 1516,
+        "name": "A Takımı",
+        "original_name": "The A-Team",
+        "overview": "4 üyeden oluşan A Takımı, ordu üyesi olan ekibinin haksız yere hapse girmesi sonucu haksızlıklarını ispatlamak amacıyla kaçmaları ve ardından ücret karşılığı zor durumda olanların yardımına koşmalarını konu alıyor. Her bölümde birbirinden zor durumlara düşen ekip, bu durumlardan keskin zekaları, bireysel yetenekleri ve diğer özellikleri ile kurtulmaya çalışıyorlar.",
+        "poster_path": "/p2qWJJ7Wyaq2xvgIHuBw4zVNBij.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          35,
+          80
+        ],
+        "popularity": 54.0683,
+        "first_air_date": "1983-01-23",
+        "vote_average": 7.464,
+        "vote_count": 999,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/72PULslmSz2BQUEsrwOGHrryTa2.jpg",
+        "id": 2384,
+        "name": "Kara Şimşek",
+        "original_name": "Knight Rider",
+        "overview": "Teknoloji ve insanın mücadelesini anlatan bu aksiyon-dram yapımda Michael, kendi geliştirdiği süper akıllı otomobil KITT ile birlikte suçla mücadele eden bir kahramandır. Hikâye, Michael'ın eski bir polis memuru olarak intikam almak için yola çıkmasıyla başlar. Bir grup suçlu, onun en yakın dostunu öldürmüştür ve bu olay, Michael'ı adalet arayışına iter. KITT, sadece bir otomobil değil, aynı zamanda gelişmiş bir yapay zekâ sistemine sahiptir. Bu özellikleri sayesinde Michael'a hem savaşta hem de strateji geliştirmede yardımcı olur. Film boyunca, Michael ve KITT, çeşitli tehlikeli durumlarla karşılaşır ve suçlularla yüzleşirler. Her bölümde, izleyiciler Michael'ın cesaretini, zekasını ve KITT'in olağanüstü yeteneklerini görme fırsatı bulurlar. Ayrıca, filmde Michael'ın kişisel yaşamı ve geçmişiyle ilgili derinlikli anlar da işlenmektedir.\n\n1980'lerin pop kültürüne damgasını vuran bu film, zamanla bir klasik haline gelmiştir ve izleyicilere unutulmaz bir deneyim sunmaktadır.",
+        "poster_path": "/t57NXzTrwp5rnPXiaX4BThrDxt1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10765,
+          80
+        ],
+        "popularity": 26.1636,
+        "first_air_date": "1982-09-26",
+        "vote_average": 7.544,
+        "vote_count": 1309,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/pnyulr7wX1vEfyzScMRDAdxCwMc.jpg",
+        "id": 2211,
+        "name": "'Allo 'Allo!",
+        "original_name": "'Allo 'Allo!",
+        "overview": "The misadventures of hapless cafe owner René Artois and his escapades with the Resistance in occupied France.",
+        "poster_path": "/m42lb4UxkpaFil4bw0bqqjlWCY4.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10768
+        ],
+        "popularity": 24.6946,
+        "first_air_date": "1984-09-07",
+        "vote_average": 7.771,
+        "vote_count": 231,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/eciikZDLyEBQanGh3zpGNuYHtQ3.jpg",
+        "id": 484,
+        "name": "Murder, She Wrote",
+        "original_name": "Murder, She Wrote",
+        "overview": "An unassuming mystery writer turned sleuth uses her professional insight to help solve real-life homicide cases.",
+        "poster_path": "/3UxBFG4fiuZ0P9n2sCrjXh64Avy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          80,
+          18
+        ],
+        "popularity": 56.4936,
+        "first_air_date": "1984-09-30",
+        "vote_average": 7.5,
+        "vote_count": 393,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9M8I4fmsBEJVKfDSHw3kqgusKsg.jpg",
+        "id": 2622,
+        "name": "The Universe",
+        "original_name": "The Universe",
+        "overview": "Çok eski bir evreni yeniden incelemenin zamanı. Onun gizemlerinde geçmişimizin sırlarını ve geleceğimizin anahtarını buluyoruz. İnsanlığın uzaya çıkma cesaretinin üzerinden elli yıl geçti ama artık gökler bize büyük sırlarını açıklamaya başlıyor. Robotlar Mars'ın kırmızı kayalarını görmemizi sağlıyor. NASA sondaları kuyruklu yıldızları incelemek için inanılmaz hızlarda seyahat ediyor. Güçlü teleskoplar, yıldızların doğuşunu ve kara deliklerde kaybolmasını gösteren etkileyici görüntüler yakalıyor. Bütün bunlar algımızı olağanüstü bir şekilde değiştirdi. Gezegenimiz küresel ısınmanın etkisiyle yanarken, gökyüzüne bakıp evrenin geri kalanını merak etmek mantıklı değil mi? Yaşamı destekleyebilecek başka bir yer var mı? Yoksa evimiz gibi, Dünya gibi başka bir yerin olmadığı doğru mu? Bu serinin her bölümünde keşiflerin nasıl yapıldığı incelenecek ve evren dediğimiz bilinmeyen bölgeye girmeye cesaret eden bilim insanları ve kaşiflerin büyüleyici hikayeleri anlatılacak.",
+        "poster_path": "/o3LhwEcm9M7B1Sq96mzCyXOtn2g.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 17.1325,
+        "first_air_date": "2007-05-29",
+        "vote_average": 7.915,
+        "vote_count": 171,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/olGfr2re6T9DRjEIqMLtFylGPRm.jpg",
+        "id": 5027,
+        "name": "Baa Baa Black Sheep",
+        "original_name": "Baa Baa Black Sheep",
+        "overview": "The dramatized World War II adventures of US Major Gregory \"Pappy\" Boyington and his Marine Attack Squadron 214, AKA The Black Sheep Squadron.",
+        "poster_path": "/u4VN9UMiUfPVgIvtubGQyfrZ581.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10768
+        ],
+        "popularity": 11.4968,
+        "first_air_date": "1976-09-21",
+        "vote_average": 7.663,
+        "vote_count": 40,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/pWZjTb2ixwVEzvnsvv3KYz5pvIs.jpg",
+        "id": 7248,
+        "name": "The Magic School Bus",
+        "original_name": "The Magic School Bus",
+        "overview": "An eccentric schoolteacher takes her class on wondrous educational field trips with the help of a magical school bus.",
+        "poster_path": "/ovs5zx5ZF8G5EO6lzjmnGvKZ2Zk.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10765,
+          10751,
+          10759,
+          10762
+        ],
+        "popularity": 24.7766,
+        "first_air_date": "1994-09-10",
+        "vote_average": 7.612,
+        "vote_count": 112,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sMk5YZQIjlfhrLOAgW4igI9xqin.jpg",
+        "id": 4681,
+        "name": "Zorro",
+        "original_name": "Zorro",
+        "overview": "Diego de la Vega, the son of a wealthy landowner, returns from his studies in Spain and discovers that Los Angeles is under the command of Capitan Monastario, a cruel man who relishes in the misuse of his power for personal gain. Knowing that he cannot hope to single-handedly defeat Monastario and his troops, Diego resorts to subterfuge. He adopts the secret identity of Zorro, a sinister figure dressed in black, and rides to fight Monastario's injustice.",
+        "poster_path": "/9BPBojrkczIhL18fMa9Ypj5yQ7N.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          37,
+          10759,
+          18,
+          35,
+          10751
+        ],
+        "popularity": 26.5878,
+        "first_air_date": "1957-10-10",
+        "vote_average": 7.532,
+        "vote_count": 172,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/j55LbVtDKcnQDOhOymeB1w0B78a.jpg",
+        "id": 4583,
+        "name": "Derrick",
+        "original_name": "Derrick",
+        "overview": "Derrick was a German TV series produced by Telenova Film und Fernsehproduktion in association with ZDF, ORF and SRG between 1974 and 1998 about Detective Chief Inspector Stephan Derrick and his loyal assistant Inspector Harry Klein, who solve murder cases in Munich and surroundings.",
+        "poster_path": "/5HPuyO4V3rcoMgPZmgcdKJrdXUI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 62.1297,
+        "first_air_date": "1974-10-20",
+        "vote_average": 6.0,
+        "vote_count": 41,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "backdrop_path": "/zJUldDj1immG5ppySDNKElfDgci.jpg",
+        "id": 11129,
+        "name": "S.W.A.T.",
+        "original_name": "S.W.A.T.",
+        "overview": "S.W.A.T. is an American action/crime drama series about the adventures of a Special Weapons And Tactics team operating in an unidentified California city. A spin-off of The Rookies, the series aired on ABC from February 1975 to April 1976.\n\nLike The Rookies, S.W.A.T. was produced by Aaron Spelling and Leonard Goldberg.",
+        "poster_path": "/nqAwPI72AxzFxPevUO2LqM0OFFu.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "popularity": 8.3802,
+        "first_air_date": "1975-02-24",
+        "vote_average": 7.0,
+        "vote_count": 67,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/C7UsPtDX8RpqYkto8DsR04j3Tb.jpg",
+        "id": 64481,
+        "name": "Criminal Minds: Beyond Borders",
+        "original_name": "Criminal Minds: Beyond Borders",
+        "overview": "Özel bir FBI ekibi, yurtdışındaki Amerikalıları korumak için uluslararası suçlarla mücadele eder ve uzmanlıklarını onları güvenli bir şekilde evlerine geri getirmek için kullanır.",
+        "poster_path": "/mnjvHqQ2jt6rNAJsDXvdgkidHTT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 11.2777,
+        "first_air_date": "2016-03-16",
+        "vote_average": 6.924,
+        "vote_count": 118,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gVAwcl83Ys1dtcFCiLuCLAx6xge.jpg",
+        "id": 2625,
+        "name": "Diagnosis: Murder",
+        "original_name": "Diagnosis: Murder",
+        "overview": "Dr. Mark Sloan is a good-natured, offbeat physician who is called upon to solve murders.",
+        "poster_path": "/5yhozeY2KgYXQQE9kfbiIyypYiI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10751,
+          9648
+        ],
+        "popularity": 45.144,
+        "first_air_date": "1993-10-29",
+        "vote_average": 7.071,
+        "vote_count": 113,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9UuxhDL3T8XRbO4rJcMhGAGi0AK.jpg",
+        "id": 81946,
+        "name": "The Enemy Within",
+        "original_name": "The Enemy Within",
+        "overview": "Erica Shepherd, eski bir CIA ajanıdır. Şimdilerde ise eylemlerinden dolayı vatan haini olarak damgalanmış, insanlar tarafından nefret edilen birisidir ve yüksek güvenlikli bir hapishanede tutulmaktadır. Ülkeyi tehdit eden ve yakalanamayan suçlular vardır. FBI ajanı Will Keaton bu kişileri yakalamak için onlar gibi düşünen birine ihtiyacı olduklarını bildirir. Bunun üzerine Erica Shepherd hapishaneden çıkartılarak FBI ile işbirliği karşılığında birlikte çalışmaya başlar.",
+        "poster_path": "/AaEEjBDTuoLA9e0e4EQDBRxwDtZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 8.6144,
+        "first_air_date": "2019-02-25",
+        "vote_average": 6.961,
+        "vote_count": 116,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1WLIpPMAryGpd2rQFI14JuVYgb7.jpg",
+        "id": 4488,
+        "name": "Robin of Sherwood",
+        "original_name": "Robin of Sherwood",
+        "overview": "Robin of Sherwood was a British television series, based on the legend of Robin Hood. Created by Richard Carpenter, it was produced by HTV in association with Goldcrest, and ran from 1984 to 1986 on the ITV network. In America it was retitled Robin Hood and shown on the premium cable TV channel Showtime and on PBS. The show starred Michael Praed and Jason Connery as two different incarnations of the title character. Unlike previous adaptations of the Robin Hood legend, Robin of Sherwood combined a gritty, authentic production design with elements of real-life history, 20th century fiction, and pagan myth. The series is also notable for its haunting title music by Clannad, which won a BAFTA award.",
+        "poster_path": "/4IXRMMTE625UbV1g8BEbECGNrQd.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 9.8092,
+        "first_air_date": "1984-04-28",
+        "vote_average": 7.6,
+        "vote_count": 81,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/eE8q2gfFrcvk99dbr8i3a62SjjW.jpg",
+        "id": 2468,
+        "name": "The Streets of San Francisco",
+        "original_name": "The Streets of San Francisco",
+        "overview": "Two police officers, the older Lt. Stone and the young upstart Inspector Keller, investigate murders and other serious crimes in San Francisco. Stone would become a second father to Keller as he learned the rigors and procedures of detective work.",
+        "poster_path": "/9Hpeu6FfEsWuy2rED3JuAMdNKhk.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          10759
+        ],
+        "popularity": 20.9493,
+        "first_air_date": "1972-09-23",
+        "vote_average": 6.9,
+        "vote_count": 91,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9hjHVwtHFt03Y6kS9yFXoBI4WK0.jpg",
+        "id": 2443,
+        "name": "Buck Rogers in the 25th Century",
+        "original_name": "Buck Rogers in the 25th Century",
+        "overview": "20th-century astronaut Buck Rogers awakens in the 25th century after a freak accident puts him in suspended animation for 500 years. Upon returning to Earth and discovering the planet is recovering from a nuclear war, Buck uses his combat skills and ingenuity to protect Earth and fight evil throughout the galaxy alongside starfighter pilot Colonel Wilma Deering and robot companion Twiki.",
+        "poster_path": "/1SgcheHtEcacQxRFKpIuP0jYw6u.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10765
+        ],
+        "popularity": 20.8507,
+        "first_air_date": "1979-09-20",
+        "vote_average": 7.017,
+        "vote_count": 116,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ughi7BW7Su9mGIpsQGZsVZrRRs1.jpg",
+        "id": 81131,
+        "name": "Fosse/Verdon",
+        "original_name": "Fosse/Verdon",
+        "overview": "Çığır açan bir koreograf ile efsanevi bir dansçının Amerikan eğlencesini dönüştürürken aralarındaki karmaşık bağı inceleyen bir dizi.",
+        "poster_path": "/rbHkfnaFBcMx90GRBzjCL8MPozo.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 1.9019,
+        "first_air_date": "2019-04-09",
+        "vote_average": 7.194,
+        "vote_count": 62,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/j5bbgjw1Wq4mjDzmmHuus0FgYro.jpg",
+        "id": 3478,
+        "name": "Ewoks",
+        "original_name": "Ewoks",
+        "overview": "The Ewok Wicket and his friends from the Bright Tree Village go on many magical adventures.",
+        "poster_path": "/gu7FdhTki8lBiGceQlsL7H6o3ky.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10762,
+          16,
+          10765,
+          10759
+        ],
+        "popularity": 13.203,
+        "first_air_date": "1985-09-07",
+        "vote_average": 5.775,
+        "vote_count": 40,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/89wagViqGtOPJBcsG6ZR9ooDQ45.jpg",
+        "id": 3297,
+        "name": "Wilfred",
+        "original_name": "Wilfred",
+        "overview": "Wilfred is an Australian comedy television series directed by Tony Rogers, produced by Jenny Livingston and starring Jason Gann, Adam Zwar and Cindy Waddingham. Created by Zwar, Gann and Rogers, it was based on their award-winning 2002 short film and later adapted to a series. The story follows the lives of the eponymous dog Wilfred, his owner Sarah, and her boyfriend Adam, who sees Wilfred as a man in a dog suit.\n\nTwo seasons were broadcast on SBS One – the first in 2007 and the second in 2010. The series won three AFI Awards and was nominated for a Logie.\n\nIndependent Film Channel acquired the international broadcast rights to the original two seasons of Wilfred in 2010. A U.S. version premiered on the cable channel FX on 23 June 2011.",
+        "poster_path": "/3yqxMMHpt2gT9neoba1Kh2KvV4R.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 3.3789,
+        "first_air_date": "2007-03-19",
+        "vote_average": 7.0,
+        "vote_count": 27,
+        "origin_country": [
+          "AU"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

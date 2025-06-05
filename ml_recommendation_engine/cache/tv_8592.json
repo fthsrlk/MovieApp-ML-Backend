@@ -1,0 +1,804 @@
+{
+  "adult": false,
+  "backdrop_path": "/v7FPlZuuwJZ6YwJggf3Jx5pZNAz.jpg",
+  "created_by": [
+    {
+      "id": 1226308,
+      "credit_id": "525791e5760ee36aaa6e4852",
+      "name": "Michael Schur",
+      "original_name": "Michael Schur",
+      "gender": 2,
+      "profile_path": "/uFqjvTHNCfThf9ahEIYWFkszm9c.jpg"
+    },
+    {
+      "id": 1216630,
+      "credit_id": "525791e5760ee36aaa6e484c",
+      "name": "Greg Daniels",
+      "original_name": "Greg Daniels",
+      "gender": 2,
+      "profile_path": "/2Hi7Tw0fyYFOZex8BuGsHS8Q4KD.jpg"
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2009-04-09",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Komedi"
+    }
+  ],
+  "homepage": "",
+  "id": 8592,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2015-02-24",
+  "last_episode_to_air": {
+    "id": 1038014,
+    "name": "12. Bölüm",
+    "overview": "",
+    "vote_average": 8.7,
+    "vote_count": 15,
+    "air_date": "2015-02-24",
+    "episode_number": 12,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 44,
+    "season_number": 7,
+    "show_id": 8592,
+    "still_path": "/2Ejiy0tsEKYj7ESQbb5LrjzxyKn.jpg"
+  },
+  "name": "Parks and Recreation",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 122,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Parks and Recreation",
+  "overview": "Amy Poehler, Pawnee, Indiana’nın Park ve Bahçeler Departmanı’ndaki orta kademe bir bürokrat olan Leslie Knope’u canlandırıyor. Kasabasını güzelleştirmeye -ve kariyerinde ilerlemeye- çalışan Leslie savunma halindeki bürokratlarla, huysuz komşularla ve hukuk davalarını silah olarak kullanan tek-sorun siyasetçileriyle, karmaşık il kodlarıyla ve çok sevdiği demokratik süreçlerle baş etmeye çalışıyor.",
+  "popularity": 70.487,
+  "poster_path": "/lOvrFaNf1qewF1M00scWcDRnJu9.jpg",
+  "production_companies": [
+    {
+      "id": 26727,
+      "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 59845,
+      "logo_path": null,
+      "name": "Deedle-Dee Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 81404,
+      "logo_path": "/w9oFiEoQE96FGKzuWUUN7443Zil.png",
+      "name": "Fremulon",
+      "origin_country": "US"
+    },
+    {
+      "id": 787,
+      "logo_path": "/cCefBs1t7jxtiz3eCxBp9yxrxGx.png",
+      "name": "3 Arts Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2011-11-04",
+      "episode_count": 11,
+      "id": 18458,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/gMugZanOdA4hGasTAgEdMn40wPa.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2009-04-09",
+      "episode_count": 6,
+      "id": 18455,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/xbV6oGDfplmB7dXItWWnjWb9pow.jpg",
+      "season_number": 1,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2009-09-17",
+      "episode_count": 24,
+      "id": 18456,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/6KrY1WOj8UaCtrEAIW9rLh0UtD6.jpg",
+      "season_number": 2,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2011-01-20",
+      "episode_count": 16,
+      "id": 18457,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/feMijc8Ga8kvzftz2MXyoW7GByb.jpg",
+      "season_number": 3,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2011-09-22",
+      "episode_count": 22,
+      "id": 18459,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/ACYM6emG9Kw59CWC16yirHw2lb.jpg",
+      "season_number": 4,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2012-09-20",
+      "episode_count": 22,
+      "id": 18460,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/rSqBJXxPwreGS234atf2fvOE4ox.jpg",
+      "season_number": 5,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2013-09-26",
+      "episode_count": 20,
+      "id": 18461,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/quEidXaZoMV0UWpFK77c5Dm0vQy.jpg",
+      "season_number": 6,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2015-01-13",
+      "episode_count": 12,
+      "id": 63129,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/gBuLAK8O0uBAm6bHW4GJqs5jrMT.jpg",
+      "season_number": 7,
+      "vote_average": 7.7
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.019,
+  "vote_count": 1581,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 56322,
+        "known_for_department": "Acting",
+        "name": "Amy Poehler",
+        "original_name": "Amy Poehler",
+        "popularity": 3.7636,
+        "profile_path": "/rwmvRonpluV6dCPiQissYrchvSD.jpg",
+        "character": "Leslie Knope",
+        "credit_id": "525791e5760ee36aaa6e4634",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86626,
+        "known_for_department": "Acting",
+        "name": "Aziz Ansari",
+        "original_name": "Aziz Ansari",
+        "popularity": 3.1602,
+        "profile_path": "/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg",
+        "character": "Tom Haverford",
+        "credit_id": "525791e5760ee36aaa6e465e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17039,
+        "known_for_department": "Acting",
+        "name": "Nick Offerman",
+        "original_name": "Nick Offerman",
+        "popularity": 3.6881,
+        "profile_path": "/zhmWZEJkzqgkIbSqZmFtUm0AwUV.jpg",
+        "character": "Ron Swanson",
+        "credit_id": "525791e5760ee36aaa6e4688",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 119592,
+        "known_for_department": "Acting",
+        "name": "Aubrey Plaza",
+        "original_name": "Aubrey Plaza",
+        "popularity": 6.9242,
+        "profile_path": "/780BVfLoEv5jY4kuLH5vHEZj3oz.jpg",
+        "character": "April Ludgate",
+        "credit_id": "525791e5760ee36aaa6e46b2",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73457,
+        "known_for_department": "Acting",
+        "name": "Chris Pratt",
+        "original_name": "Chris Pratt",
+        "popularity": 6.1591,
+        "profile_path": "/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg",
+        "character": "Andy Dwyer",
+        "credit_id": "573cfbb6c3a3681b23000225",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 36801,
+        "known_for_department": "Acting",
+        "name": "Adam Scott",
+        "original_name": "Adam Scott",
+        "popularity": 4.5693,
+        "profile_path": "/b82C29R6fGiPoqIglQ4lzS6q2YX.jpg",
+        "character": "Ben Wyatt",
+        "credit_id": "525791e5760ee36aaa6e475a",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219597,
+        "known_for_department": "Acting",
+        "name": "Jim O'Heir",
+        "original_name": "Jim O'Heir",
+        "popularity": 2.4913,
+        "profile_path": "/qrdzPtyh0lWQp8ZxRvWDqBxyi0P.jpg",
+        "character": "Jerry Gergich",
+        "credit_id": "525791e5760ee36aaa6e4706",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 75318,
+        "known_for_department": "Acting",
+        "name": "Retta",
+        "original_name": "Retta",
+        "popularity": 2.0801,
+        "profile_path": "/bIo8tjdn48wIPEdcJ0UCqqTzClV.jpg",
+        "character": "Donna Meagle",
+        "credit_id": "525791e5760ee36aaa6e4730",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1354982,
+        "known_for_department": "Writing",
+        "name": "Rachna Fruchbom",
+        "original_name": "Rachna Fruchbom",
+        "popularity": 0.1985,
+        "profile_path": "/hoRIeXSBNwNFBN7s9AiWHZTzRz8.jpg",
+        "credit_id": "67e1d1cf4c52746665dc5ddf",
+        "department": "Writing",
+        "job": "Story Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "indiana, usa",
+        "id": 1447
+      },
+      {
+        "name": "politics",
+        "id": 6078
+      },
+      {
+        "name": "satire",
+        "id": 8201
+      },
+      {
+        "name": "female protagonist",
+        "id": 11322
+      },
+      {
+        "name": "mockumentary",
+        "id": 11800
+      },
+      {
+        "name": "employer employee relationship",
+        "id": 167925
+      },
+      {
+        "name": "political satire",
+        "id": 169086
+      },
+      {
+        "name": "office romance",
+        "id": 182325
+      },
+      {
+        "name": "sitcom",
+        "id": 193171
+      },
+      {
+        "name": "workplace comedy",
+        "id": 210605
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/OylSdzVezjwGLYM0w73mUPNHM4.jpg",
+        "id": 18347,
+        "name": "Community",
+        "original_name": "Community",
+        "overview": "Jeff Winger, hukuk diplomasının sahte olduğu ortaya çıkınca üniversiteye döner ve dışlanmış kişilerden oluşan bir çalışma grubu kurar.",
+        "poster_path": "/3KUjDt8XY7w2Ku70UE0SECmv1zP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 35.3863,
+        "first_air_date": "2009-09-17",
+        "vote_average": 7.995,
+        "vote_count": 1833,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/mLyW3UTgi2lsMdtueYODcfAB9Ku.jpg",
+        "id": 2316,
+        "name": "‎Ofis‎",
+        "original_name": "The Office",
+        "overview": "Çalışanlarının mutluluğunu gözeterek şirket kurallarını esnetmeye çalışan, ara sıra masumane oyunların kurbanı, kaba ve taş kalpli bir şef: Michael Scott.\n\nHepsinin kendince takıntıları olan farklı yaş gruplarından personeliyle ile The Office çalışanlarının hayatlarına şöyle bir göz atıyor; bıkkın aynı zamanda yetenekli satış elemanı Jim, onun sosyopat, yalaka düşmanı Dwight, kibar ve dürüst resepsiyonisti Pam ve isteksiz, kayıtsız stajyeri Ryan.",
+        "poster_path": "/dg9e5fPRRId8PoBE0F6jl5y85Eu.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 114.6413,
+        "first_air_date": "2005-03-24",
+        "vote_average": 8.581,
+        "vote_count": 4494,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qCXY93t7QnKp6aWT1WKaQo0Qt5r.jpg",
+        "id": 4589,
+        "name": "Arrested Development",
+        "original_name": "Arrested Development",
+        "overview": "Dizi, çökmekte olan bir aile şirketinin bireyleri arasındaki zayıflayan bağları konu ediyor. Ekonomik durumun mecburi değişimiyle zorda kalan karakterler, sosyetik adetler ve burjuva ahlakıyla ayakta kalmaya çabalıyor.",
+        "poster_path": "/p4r4RD7RsNcJVoz0H6z3dBoTBtW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 36.3253,
+        "first_air_date": "2003-11-02",
+        "vote_average": 7.9,
+        "vote_count": 1466,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
+        "id": 42009,
+        "name": "Black Mirror",
+        "original_name": "Black Mirror",
+        "overview": "İnsanlığın en kötü özelliklerini, en büyük buluşlarını ve çok daha fazlasını gözler önüne seren bu akılalmaz antoloji dizisinde çarpık öykülerin ardı arkası kesilmiyor.",
+        "poster_path": "/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          9648
+        ],
+        "popularity": 96.581,
+        "first_air_date": "2011-12-04",
+        "vote_average": 8.29,
+        "vote_count": 5471,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/iWQMxRDCTruFjbQ79qxpHAmklNw.jpg",
+        "id": 61671,
+        "name": "Unbreakable Kimmy Schmidt",
+        "original_name": "Unbreakable Kimmy Schmidt",
+        "overview": "Geçirdiği 15 yılın ardından bağlı olduğu tarikattan kaçan Kimmy, New York’ta kendine yeni bir hayat kurmaya çalışır. The Office’den tanıdığımız Ellie Kemper’ın başrolde olduğu dizinin altında, ünlü aktris ve senarist Tina Fey’in imzası var…",
+        "poster_path": "/eMFHl0HyLg7k04OVeE4xPvT6XhY.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 26.1351,
+        "first_air_date": "2015-03-06",
+        "vote_average": 7.144,
+        "vote_count": 557,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zDSvUcCR2nkrGhLUTIgqQ18P27U.jpg",
+        "id": 36994,
+        "name": "Workaholics",
+        "original_name": "Workaholics",
+        "overview": "The misadventures of three recent college dropouts, roommates, and co-workers at a telemarketing company and their drug dealer.",
+        "poster_path": "/kXg4tFUHN7h7bNdBTeLIIKqw9UJ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 9.9573,
+        "first_air_date": "2011-04-06",
+        "vote_average": 7.448,
+        "vote_count": 268,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5QWdGKrPWJQ3WcafuYA2PXL6uQG.jpg",
+        "id": 251,
+        "name": "Aqua Teen Hunger Force",
+        "original_name": "Aqua Teen Hunger Force",
+        "overview": "The surreal adventures of three anthropomorphic fast food items: Master Shake, Frylock and Meatwad, and their human nextdoor neighbor, Carl Brutananadilewski.",
+        "poster_path": "/jCWOkfMLsT2sGHadCkmR65MWtJu.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 52.2043,
+        "first_air_date": "2000-12-30",
+        "vote_average": 7.538,
+        "vote_count": 212,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uqTCaYBoSLT9MAdyQ9tU6QyCZ3A.jpg",
+        "id": 2710,
+        "name": "It's Always Sunny in Philadelphia",
+        "original_name": "It's Always Sunny in Philadelphia",
+        "overview": "It's Always Sunny in Philadelphia 4 Ağustos, 2005'te FX kanalında yayına başlamış bir komedi dizisidir. Dizi aynı zamanda oyuncuları olan Rob McElhenney, Glenn Howerton ve Charlie Day tarafından yaratılıp geliştirilmiştir. Dizi, kişisel çıkarlarından başka hiçbir şey düşünmeyen ve Güney Philadelphia'da \"Paddy's\" adında oldukça başarısız bir İrlanda barı işleten bir arkadaş grubunun başından geçen maceraları anlatmaktadır.",
+        "poster_path": "/pRWO6ufqSNkWvPXDDQhBwPNSv4K.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 126.0728,
+        "first_air_date": "2005-08-04",
+        "vote_average": 8.3,
+        "vote_count": 1153,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/xcSH4KdTxvVmLARyrEeZOYrHjGR.jpg",
+        "id": 61692,
+        "name": "Fresh Off the Boat",
+        "original_name": "Fresh Off the Boat",
+        "overview": "A '90s-set single-camera comedy about a hip-hop-loving Asian kid growing up in suburban Orlando, being raised by an immigrant father obsessed with all things American and an immigrant mother often bewildered by white culture.",
+        "poster_path": "/o8ekdtv98EnrymVLw3VJ2WoFBoM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 46.1819,
+        "first_air_date": "2015-02-04",
+        "vote_average": 7.162,
+        "vote_count": 262,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/eSgGtHV6Qk3QhV1fr2B66ykMIph.jpg",
+        "id": 2490,
+        "name": "The IT Crowd",
+        "original_name": "The IT Crowd",
+        "overview": "Şirketin bodrum katında bir odada çalışmak zorunda kalan iki bilgisayar delisi bilgi işlem elemanı ve onların başına müdür olarak atanan, bilgisayar bilgisi e-mail okumaktan fazla olmayan bir bayanın komik hikayesi.",
+        "poster_path": "/qZXkBoOUYzvKI4UCMzDQ5kqWHjh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 28.7609,
+        "first_air_date": "2006-02-03",
+        "vote_average": 8.151,
+        "vote_count": 1431,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/ftNmVV8LuNVmtB8mzoUTucozVKE.jpg",
+        "id": 61662,
+        "name": "Schitt's Creek",
+        "original_name": "Schitt's Creek",
+        "overview": "Schitt's Creek, bir anda tüm varlıklarını kaybeden zengin bir ailenin hayatına odaklanıyor. Rose ailesi, ülkenin en popüler video kiralama şirketinin sahibidir. Lüks içinde yaşayan aile, hayatta istedikleri her şeye sahiptir. Ancak şirketin ortağı vergileri ödemeyip ortadan kaybolduğunda, ailenin hayatı altüst olur. Devlet, Rose ailesinin sahip olduğu her şeye el koyduğunda, aile kendilerini bir anda sokakta bulur. Ellerinde tek kalan şey ise Schitt's Creek adındaki bir kasabadır. Hayatlarına burada sıfırdan başlamak zorunda kalan aile, yeniden eski hayatkarına kavuşabilmek için kasabayı cazibeli bir hale getirmeye çalışır.",
+        "poster_path": "/bqSgt3OZDvHnOfoZEr7l0jVrSqB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 65.4256,
+        "first_air_date": "2015-01-13",
+        "vote_average": 7.734,
+        "vote_count": 566,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/1lOGkpGa9SjZ2uP1PxfxDkSXRNs.jpg",
+        "id": 2382,
+        "name": "Freaks and Geeks",
+        "original_name": "Freaks and Geeks",
+        "overview": "Liseli bir matematik olimpiyatçısı kız, aykırı gençlerden oluşan bir arkadaş grubu ile takılmaya başlar. Küçük erkek kardeşi ise lisenin ilk yılında hayatta kalmaya çalışıyordur.",
+        "poster_path": "/tPqV63zcW6ZV0Hd48DMGb5UzQIG.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 22.4851,
+        "first_air_date": "1999-09-25",
+        "vote_average": 8.161,
+        "vote_count": 788,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/afyjB6cwJnTbo0OmnrGTl1V1pNt.jpg",
+        "id": 32962,
+        "name": "Louie",
+        "original_name": "Louie",
+        "overview": "Louis C.K. kendisinin kurgulanmış bir versiyonu olarak yıldızlar; New York'ta iki kızını büyüten komedyen ve yeni boşanmış bir baba.",
+        "poster_path": "/ubWj0BLRV1UDP8ELnTr2is2Wl0Y.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 17.6008,
+        "first_air_date": "2010-06-29",
+        "vote_average": 7.774,
+        "vote_count": 521,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1dX3uATCYn7tBWJVpP14WhNAIta.jpg",
+        "id": 64254,
+        "name": "Master of None",
+        "original_name": "Master of None",
+        "overview": "30 yaşındaki New Yorklu aktör Dev, ilk büyük iş, ciddi bir ilişki ve metroda iflas eden seks suçluları gibi olgunluk sütunlarını üstleniyor.",
+        "poster_path": "/AcJM86PhgHAfbrF4dMKBaqO3cHV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 6.1232,
+        "first_air_date": "2015-11-06",
+        "vote_average": 7.403,
+        "vote_count": 522,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1orqm4lN8VtYGlxZ1g12ip6iwmG.jpg",
+        "id": 1417,
+        "name": "Glee",
+        "original_name": "Glee",
+        "overview": "Dizi, bir lisede geçiyor. Will Schuester, lise çağlarında koroda şarkı söylemiş ve büyük bir ödül kazanmış, şu anda da mezun olduğu okulda çalışan genç bir öğretmendir. Zamanında büyük işler başaran bu koro şimdi tam bir enkaz halinde olduğundan Schuester, bu koroya el atmaya karar verir ve onları eğitmeye başlar. Okulun bu kaybedenler takımı, Will Schuester sayesinde yavaş yavaş içinde ki yeteneği ortaya çıkarıp kendilerinin bile beklemediği bir şekilde popüler olmaya başlayacaktır.",
+        "poster_path": "/62T2vsZYTje3KhdCsiLR1K1RFJW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 35.4143,
+        "first_air_date": "2009-05-19",
+        "vote_average": 6.8,
+        "vote_count": 855,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/z6fUdAWIqSenjIYsPmRltaGHcTq.jpg",
+        "id": 4556,
+        "name": "Scrubs",
+        "original_name": "Scrubs",
+        "overview": "Genç doktorların garip deneyimlerini ekrana taşıyan Scrubs, prestijli Humanitas Prize Ödülü’ne sahip, iki kez de Emmy’ye aday gösterilmiş keyifli bir komedi dizisi. J.D. olarak tanınan John Dorian, dizimizin ana karakteri. J.D:’nin doktorluk macerasını izlerken ‘gerçeküstü’ bir hastane olan Sacred Heart Hospital’ın koridorlarında mizahı da trajediyi de birlikte izleyeceğiz. Chris Turk, genç doktorlarımızdan bir diğeri. J.D.’nin kolejdeki en yakın arkadaşı ve seçkin cerrahi grubunun bir üyesi. Güzel Elliot Reid’in ise tek kusuru gerçek bir asosyal oluşu. Gözleri her zaman bu genç doktorların üzerinde olan Dr. Bob, zaman zaman insanı zorlasa da onlar için endişelenen ve onlara yardımcı olmaya çalışan Dr. Perry Cox ve garip hemşire Carla Espinosa Scrubs’ın diğer karakterleri arasında. J.D.’nin baş düşmanı, hastanenin temizlikçisini de unutmamak lazım.",
+        "poster_path": "/u1z05trCA7AuSuDhi365grwdos1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 42.8261,
+        "first_air_date": "2001-10-02",
+        "vote_average": 8.015,
+        "vote_count": 1930,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9I7aHbHlXwsQais5wBcccWnboTx.jpg",
+        "id": 59186,
+        "name": "Impractical Jokers",
+        "original_name": "Impractical Jokers",
+        "overview": "This hidden-camera series follows four lifelong friends -- Brian \"Q\"' Quinn, James \"Murr\"' Murray, Joe Gatto and Sal Vulcano -- who take dares to an outrageous level. To find out who is best under pressure, the guys compete in awkward and outrageous hidden-camera hijinks with the loser performing what is deemed to be the most-mortifying challenge yet.",
+        "poster_path": "/oHibdUuae99sJ6U94y8El6v8jSG.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 48.1322,
+        "first_air_date": "2011-12-15",
+        "vote_average": 7.903,
+        "vote_count": 373,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vOFctaslez1TrMTkdiqgo9YUf4e.jpg",
+        "id": 1420,
+        "name": "New Girl",
+        "original_name": "New Girl",
+        "overview": "Bir anda şarkı söylemeye başlaması ile ünlü sıradışı öğretmen Jess erkek arkadaşını başka bir kadınla yakalar ve kendine kalacak yer aramaya başlar... Daha önce hiç tanımadığı üç erkeğin kaldığı bir tavan arasında yaşamaya başlar. Nick genellikle yalnız kalmak isteyen hukuk fakültesinden terk bir bezgindir. Schmidt kendisini kadınlara bir armağan olarak gören bir işadamıdır. Winston ise ne yapacağını kendisi de bilmeyen fakat neye katılsa onu kazanma saplantılı eski bir atlettir. Bu tuhaf grup sizce bu yeni kıza alışabilecek midir?",
+        "poster_path": "/8oCqMlKKomCArVtyOjRzMN6g40Z.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 37.0501,
+        "first_air_date": "2011-09-20",
+        "vote_average": 7.356,
+        "vote_count": 1488,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cK5AbLFBY2JDoqEdVXk0697e2SV.jpg",
+        "id": 4608,
+        "name": "30 Rock",
+        "original_name": "30 Rock",
+        "overview": "Liz Lemon, the head writer for a late-night TV variety show in New York, tries to juggle all the egos around her while chasing her own dream.",
+        "poster_path": "/eYYQWACx7ttUzRwTNYuo6zveqpE.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 35.5802,
+        "first_air_date": "2006-10-11",
+        "vote_average": 7.442,
+        "vote_count": 712,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/l3KZRPzdEjyzQ5DFc9eYqpK0HSk.jpg",
+        "id": 8724,
+        "name": "Kutuplar Atlası",
+        "original_name": "Frozen Planet",
+        "overview": "Bu belgesel dizisinde, bu ıssız bölgelerin her yerini dolaşacağız. Hem kuzeye hem de güneye. Tüm bu harikalara belki de son kez tanık olacağız ve her şeye rağmen hayatta kalma mücadelelerinin sıra dışı örnekleri ile gezegenin başka hiçbir yerinde bulunmayan örneklerini keşfedeceğiz",
+        "poster_path": "/jEGKNLYq6ZxtBmkQz3edaw62xMp.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 2.3882,
+        "first_air_date": "2011-10-26",
+        "vote_average": 8.329,
+        "vote_count": 280,
+        "origin_country": [
+          "GB"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

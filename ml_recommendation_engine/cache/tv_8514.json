@@ -1,0 +1,819 @@
+{
+  "adult": false,
+  "backdrop_path": "/jnXJGSKOr72NizN62TXP2CyQt6j.jpg",
+  "created_by": [
+    {
+      "id": 78589,
+      "credit_id": "5ed62a3cc4f552001fc001de",
+      "name": "RuPaul",
+      "original_name": "RuPaul",
+      "gender": 2,
+      "profile_path": "/aqmub88LK5Cic8yZwwfcDqIQQqk.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2009-02-02",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Gerçeklik"
+    }
+  ],
+  "homepage": "https://www.mtv.com/shows/rupauls-drag-race",
+  "id": 8514,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-04-18",
+  "last_episode_to_air": {
+    "id": 5813447,
+    "name": "16. Bölüm",
+    "overview": "",
+    "vote_average": 7.0,
+    "vote_count": 1,
+    "air_date": "2025-04-18",
+    "episode_number": 16,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 17,
+    "show_id": 8514,
+    "still_path": "/l5fa4Wy9pgUUyJ0cS7JTI4ORPHn.jpg"
+  },
+  "name": "RuPaul's Drag Race",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 33,
+      "logo_path": "/w4qtv7xBkSVsbOQdSzjUjlyOuSr.png",
+      "name": "MTV",
+      "origin_country": "US"
+    },
+    {
+      "id": 62,
+      "logo_path": "/ztSNqnJ8W1GOYfa3525xFBDb3NY.png",
+      "name": "Logo",
+      "origin_country": "US"
+    },
+    {
+      "id": 158,
+      "logo_path": "/w9oUxxUiXTC1O1MzJSvsMjQbgft.png",
+      "name": "VH1",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 239,
+  "number_of_seasons": 17,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "RuPaul's Drag Race",
+  "overview": "Tüm drag annelerinin annesi RuPaul'un sunduğu Emmy ödüllü programda Kraliçeler 100.000 dolarlık para ödülü ve Amerika'nın Yeni Drag Süperstarı unvanı için yarışıyor.",
+  "popularity": 87.3027,
+  "poster_path": "/lgJvUN66DXJZyZjfYzbkwMAi1iI.jpg",
+  "production_companies": [
+    {
+      "id": 1421,
+      "logo_path": "/uWCPDzKkQnOxQ5spgKpD8wzSIP1.png",
+      "name": "World of Wonder",
+      "origin_country": "US"
+    },
+    {
+      "id": 6329,
+      "logo_path": "/inqnY5MWKZ2HnFR9xOUvfP7fwqk.png",
+      "name": "MTV Entertainment Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2011-11-13",
+      "episode_count": 39,
+      "id": 18416,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/2Gi31HSneDVeKF0Ot0mANWms6Kv.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2009-02-02",
+      "episode_count": 9,
+      "id": 18411,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/cGDMm6qIujyvADyYDsbTtaRWJv.jpg",
+      "season_number": 1,
+      "vote_average": 5.5
+    },
+    {
+      "air_date": "2010-02-01",
+      "episode_count": 12,
+      "id": 18412,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/ejy05NVupvoOm1YaaqJCK0TGVX8.jpg",
+      "season_number": 2,
+      "vote_average": 5.6
+    },
+    {
+      "air_date": "2011-01-24",
+      "episode_count": 16,
+      "id": 18413,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/skuRDaRlOwVQhkfpVD0EJVaIPbK.jpg",
+      "season_number": 3,
+      "vote_average": 5.6
+    },
+    {
+      "air_date": "2012-01-30",
+      "episode_count": 14,
+      "id": 18414,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/tE1NWQMBiUdl7EjvMRYxNXHg1G.jpg",
+      "season_number": 4,
+      "vote_average": 6.2
+    },
+    {
+      "air_date": "2013-01-28",
+      "episode_count": 14,
+      "id": 18415,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/mRiKVOY6NMZlvxSTcYbarO7MJR8.jpg",
+      "season_number": 5,
+      "vote_average": 6.0
+    },
+    {
+      "air_date": "2014-02-24",
+      "episode_count": 14,
+      "id": 73885,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/u8fN42R2sgxRGqNyBFj17GO3Hxa.jpg",
+      "season_number": 6,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2015-03-02",
+      "episode_count": 14,
+      "id": 65178,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/45OSv4nvaGliItfODO9JTMCtnRO.jpg",
+      "season_number": 7,
+      "vote_average": 5.5
+    },
+    {
+      "air_date": "2016-03-07",
+      "episode_count": 10,
+      "id": 75105,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/ntBL9REggTUwg8m5lNLx4Pg4L3E.jpg",
+      "season_number": 8,
+      "vote_average": 6.4
+    },
+    {
+      "air_date": "2017-03-24",
+      "episode_count": 14,
+      "id": 85708,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/lpFfjCIeZUIEaqzaSNlhGq8qQZQ.jpg",
+      "season_number": 9,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2018-03-22",
+      "episode_count": 14,
+      "id": 101162,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/ejy8PhAe9UMryjgKG3zzcmDL3GJ.jpg",
+      "season_number": 10,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "2019-02-28",
+      "episode_count": 14,
+      "id": 119659,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/9NK7O1q4mPem8eSFHx0DeEzzw1t.jpg",
+      "season_number": 11,
+      "vote_average": 5.8
+    },
+    {
+      "air_date": "2020-02-28",
+      "episode_count": 14,
+      "id": 130297,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/gPbHZ9Wc1K3ZjZZ03NFc2Jsi6sn.jpg",
+      "season_number": 12,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "2021-01-01",
+      "episode_count": 16,
+      "id": 171649,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": "/yKWJnlYblBHeCc2PC8IwIJsBkxA.jpg",
+      "season_number": 13,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2022-01-07",
+      "episode_count": 16,
+      "id": 234110,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": "/dY2GdZfx71CaOj7HeW2nFg4akPF.jpg",
+      "season_number": 14,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2023-01-06",
+      "episode_count": 16,
+      "id": 296179,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": "/rM31D4ecYfpqUZ6s0o6yoxwK5UG.jpg",
+      "season_number": 15,
+      "vote_average": 6.4
+    },
+    {
+      "air_date": "2024-01-05",
+      "episode_count": 16,
+      "id": 367961,
+      "name": "Sezon 16",
+      "overview": "",
+      "poster_path": "/6LThfVcGWSLswQaQh2vvk1Q2IoH.jpg",
+      "season_number": 16,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "2025-01-03",
+      "episode_count": 16,
+      "id": 430013,
+      "name": "Sezon 17",
+      "overview": "",
+      "poster_path": "/lgJvUN66DXJZyZjfYzbkwMAi1iI.jpg",
+      "season_number": 17,
+      "vote_average": 7.3
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 7.5,
+  "vote_count": 248,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78589,
+        "known_for_department": "Acting",
+        "name": "RuPaul",
+        "original_name": "RuPaul",
+        "popularity": 2.6426,
+        "profile_path": "/aqmub88LK5Cic8yZwwfcDqIQQqk.jpg",
+        "character": "Self - Host",
+        "credit_id": "54f726bdc3a368352000157f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1581751,
+        "known_for_department": "Acting",
+        "name": "Michelle Visage",
+        "original_name": "Michelle Visage",
+        "popularity": 1.2294,
+        "profile_path": "/jQqse7fq6V7bcNVAzCBUuOTG3V1.jpg",
+        "character": "Self - Judge",
+        "credit_id": "57e1165292514104490053b2",
+        "order": 1
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "competition",
+        "id": 271
+      },
+      {
+        "name": "drag queen",
+        "id": 824
+      },
+      {
+        "name": "clothing",
+        "id": 6098
+      },
+      {
+        "name": "cross dressing",
+        "id": 12090
+      },
+      {
+        "name": "fashion",
+        "id": 15479
+      },
+      {
+        "name": "lgbt",
+        "id": 158718
+      },
+      {
+        "name": "impersonation",
+        "id": 160364
+      },
+      {
+        "name": "fashion show",
+        "id": 167198
+      },
+      {
+        "name": "drag",
+        "id": 171636
+      },
+      {
+        "name": "reality competition",
+        "id": 250845
+      },
+      {
+        "name": "ballroom culture",
+        "id": 282659
+      },
+      {
+        "name": "drag queen competition",
+        "id": 305127
+      },
+      {
+        "name": "lip syncing",
+        "id": 321707
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/emIR7nopXFsQILeBAFl49HJFoRq.jpg",
+        "id": 67482,
+        "name": "RuPaul's Drag Race All Stars",
+        "original_name": "RuPaul's Drag Race All Stars",
+        "overview": "Hayranların favorilerinden azılı kötü karakterlere, geçmiş sezonlardan kraliçeler 100.000 dolarlık ödülü kazanmak ve Drag Race Hall of Fame'e girmek için rekabet ediyor.",
+        "poster_path": "/eb1lTZUydEr4OIy624NrfXmTtvB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 58.6051,
+        "first_air_date": "2012-10-22",
+        "vote_average": 7.283,
+        "vote_count": 115,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/icyYBLRv1jPP60qVKqhBGH5yyXn.jpg",
+        "id": 92611,
+        "name": "RuPaul's Drag Race UK",
+        "original_name": "RuPaul's Drag Race UK",
+        "overview": "RuPaul has made the trip across the pond in search of a queen with the most charisma, uniqueness, nerve and talent in all the land.",
+        "poster_path": "/rGKdb9afwZSPSAZ2jN2SMf9tthQ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 34.1802,
+        "first_air_date": "2019-10-03",
+        "vote_average": 7.2,
+        "vote_count": 55,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/xxgmphUJJOGwhKFKFU3aIKPv96O.jpg",
+        "id": 38409,
+        "name": "RuPaul's Drag Race: Untucked",
+        "original_name": "RuPaul's Drag Race: Untucked",
+        "overview": "Kavgalar. Sırlar. Sert imalar. RuPaul's Drag Race yarışmacılarıyla sahne arkasına geçin ve her bölümde podyum dışında neler yaşandığını öğrenin.",
+        "poster_path": "/35b9oBymLiEOUL9e3WRrJF6aDUK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 107.5721,
+        "first_air_date": "2010-02-01",
+        "vote_average": 6.2,
+        "vote_count": 48,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7bFG0VopaDoVhW6pUylO8qZllnv.jpg",
+        "id": 124045,
+        "name": "Drag Race Spain",
+        "original_name": "Drag Race España",
+        "overview": "On the Spanish version of RuPaul's Drag Race, Supremme de Luxe presides as Spain's most talented queens compete to be crowned Spain's Next Drag Superstar.",
+        "poster_path": "/55lj6uYlganKkljx5Hnax64brtI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 15.2483,
+        "first_air_date": "2021-05-30",
+        "vote_average": 8.0,
+        "vote_count": 21,
+        "origin_country": [
+          "ES"
+        ]
+      },
+      {
+        "backdrop_path": "/zxgtXLXG20sIEsEtYSzQtClsJ51.jpg",
+        "id": 222653,
+        "name": "Late Night Lycett",
+        "original_name": "Late Night Lycett",
+        "overview": "Joe Lycett is back broadcasting live from his hometown of Birmingham. Each Friday a mix of Joe's community of local legends, LGBTQ+ heroes and allies will join him alongside celebrities and big-name guests from the worlds of comedy, television, music and film.",
+        "poster_path": "/15LTyWTTXBGWAfIueF7ErJv1lhq.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767,
+          35
+        ],
+        "popularity": 3.2529,
+        "first_air_date": "2023-03-31",
+        "vote_average": 5.0,
+        "vote_count": 5,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/sVL4SskMuyeMFLkkHjnuzGWWyao.jpg",
+        "id": 42763,
+        "name": "Project Runway All Stars",
+        "original_name": "Project Runway All Stars",
+        "overview": "The MVPs from past seasons of Project Runway compete for a second chance at runway gold.",
+        "poster_path": "/cguWV6DO63Be4xJvQBR0hW023F5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 26.914,
+        "first_air_date": "2012-01-05",
+        "vote_average": 6.6,
+        "vote_count": 22,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7QlHxbruG9iFm0G811BDDTq6czE.jpg",
+        "id": 75127,
+        "name": "UNHhhh",
+        "original_name": "UNHhhh",
+        "overview": "RuPaul's Drag Race season 7 queens Katya Zamolodchikova and Trixie Mattel in 'UNHhhh.' It's a show about nothing, and yet it's about everything.",
+        "poster_path": "/8rnKuJCFeZ1kp8OTFkHGvLgayZb.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767,
+          35
+        ],
+        "popularity": 16.6883,
+        "first_air_date": "2016-03-25",
+        "vote_average": 8.4,
+        "vote_count": 18,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/rwHp6zhlz4CsNlbocfqkIv00tmf.jpg",
+        "id": 62530,
+        "name": "Dead End Express",
+        "original_name": "Dead End Express",
+        "overview": "Across our country's vast and untamed wildernesses a hardy breed of American still lives a life set apart. They are not just off-the-grid, they are physically cut off from society by Rocky Mountains, roaring rivers and frozen tundra. But however self-sufficient...no man’s an island. Sooner or later, these off-gridders need a life-giving tool - like fuel or bullets - or a life-saving essential - like food or medicine. When they do, they turn to the cast of Dead End Express. By pack horse, dog sled, power boat, snow machine and bush plane this unique group of men risk all to deliver where no one else can or will. Delivering their payload is a matter of life or death, not just for their clients but for them, in their ongoing mission to survive and deliver.",
+        "poster_path": "/rsADEJwPLLtjt918728LQWZvgxF.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 0.373,
+        "first_air_date": "2015-05-07",
+        "vote_average": 6.0,
+        "vote_count": 1,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/mHz7mG4X9sKDitB470bIE4bODIh.jpg",
+        "id": 216137,
+        "name": "Drag Den",
+        "original_name": "Drag Den",
+        "overview": "The den is finally open! The “Drag Lord” Manila Luzon, together with her “drag dealer” Nicole Cordovez, and “drag runner” Sassa Gurl welcome the eight aspiring queens as they embark on an eight-week dragventurous competition showcasing their wit, talent and beauty to become the first Pinoy drag supreme.",
+        "poster_path": "/l7bfd4glWz5C7TovtdBN1lR4Llf.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "tl",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 2.4536,
+        "first_air_date": "2022-12-08",
+        "vote_average": 5.0,
+        "vote_count": 3,
+        "origin_country": [
+          "PH"
+        ]
+      },
+      {
+        "backdrop_path": "/n8d7F3Bym86xh0MWSo3mFy4nBuB.jpg",
+        "id": 91147,
+        "name": "The X Change Rate",
+        "original_name": "The X Change Rate",
+        "overview": "Award-winning drag queen, entertainer and TV personality Monét X Change, hot off her historic \"RuPaul’s Drag Race: All Stars\" win, brings her signature wit, heart and style to the BUILD Series stage this summer to this weekly variety talk show. Each week, Monét will turn stunning looks, sound off on current events, chat with her celebrity friends, kiki with the live studio audience, and spill a whole lot of tea, sis!",
+        "poster_path": "/p3Pw2wwpGCIb42X9gXvSggnD6vP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 4.8644,
+        "first_air_date": "2019-05-23",
+        "vote_average": 4.4,
+        "vote_count": 5,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/42Na29Hs7O913DrEnuHHPLiejPm.jpg",
+        "id": 136086,
+        "name": "Countrymen",
+        "original_name": "Jordbrukerne",
+        "overview": "Four men with dubious plans move to a farm in the countryside. More or less against their will, they end up as the founders of Norway's first halal dairy farm.",
+        "poster_path": "/cikO7iT2CExnonxOTBF2Tcqwui2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "no",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 1.3684,
+        "first_air_date": "2021-10-28",
+        "vote_average": 6.4,
+        "vote_count": 6,
+        "origin_country": [
+          "NO"
+        ]
+      },
+      {
+        "backdrop_path": "/iTX47Mba64KcF6KlDm2QU3gF5Oj.jpg",
+        "id": 152261,
+        "name": "Drag Race France",
+        "original_name": "Drag Race France",
+        "overview": "On the French version of RuPaul's Drag Race, each week, the queens are subjected to rigorous and funny mini and maxi challenges, and exceptional fashion shows that highlight their art. To keep their place in the adventure, the two queens at the bottom of the rankings will have to perform a legendary lip-sync to save their lives!",
+        "poster_path": "/1xAvt2YFMvH0Dg4fIBt5xLyjrKd.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          10764,
+          35
+        ],
+        "popularity": 17.0168,
+        "first_air_date": "2022-06-25",
+        "vote_average": 8.3,
+        "vote_count": 11,
+        "origin_country": [
+          "FR"
+        ]
+      },
+      {
+        "backdrop_path": "/6Hev6szZZyC0EaGTlM6uBulCxt4.jpg",
+        "id": 26353,
+        "name": "Supernanny",
+        "original_name": "Supernanny",
+        "overview": "Jo Frost, a modern day, tough-love \"Mary Poppins\" is placed with families in need of guidance or care. She spends an extended period of time with a family, observing their issues and then, using a series of her own tried-and-true methods, offer solutions. Problems can range from discipline to sloppiness or anything in between.",
+        "poster_path": "/ioSnygEfQ3nH26D6qEgDDOiXawm.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 3.95,
+        "first_air_date": "2005-01-17",
+        "vote_average": 7.1,
+        "vote_count": 30,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/e9UiAUMrhjZ9wh4lxzvXCBFzar6.jpg",
+        "id": 51345,
+        "name": "Undateable",
+        "original_name": "Undateable",
+        "overview": "Danny Burton is a 30-ish carefree single guy who has watched most of his friends move on to serious relationships. When his last remaining friend Shannon moves out to get married, Danny searches for a new roommate. A promising candidate is Justin, the owner of Black Eyes Bar in Detroit (frequently mispronounced \"Black Guys Bar\"). Justin and his friends - the nerdy Burski, oddball Shelly, and recently out-of-the-closet gay guy Brett - all have certain qualities that make them appear \"undateable\".",
+        "poster_path": "/4f8ZWo6ROu0zs1OtqRVAZ9SzbzZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 11.2865,
+        "first_air_date": "2014-05-29",
+        "vote_average": 6.6,
+        "vote_count": 63,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/tgXY8BagC12Luvc6rWEEbIOLW1k.jpg",
+        "id": 48000,
+        "name": "Your Pretty Face Is Going to Hell",
+        "original_name": "Your Pretty Face Is Going to Hell",
+        "overview": "A live-action workplace comedy about Gary, an associate demon, as he attempts to capture souls on earth in order to climb the corporate ladder of the underworld. Gary hopes to advance in Hell, but he may be too stupid, lazy and kind-hearted to realize his dreams of promotion. Meanwhile, Gary's intern Claude is more talented, more devious and will do whatever it takes to impress Satan.",
+        "poster_path": "/9NHMwsnDCRf9ML9WJnAcg9oJPOP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 20.8802,
+        "first_air_date": "2013-04-18",
+        "vote_average": 6.7,
+        "vote_count": 37,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/z5LaefJhBfcmx1yBu8AS9JnhB22.jpg",
+        "id": 1456,
+        "name": "Green Wing",
+        "original_name": "Green Wing",
+        "overview": "Follow new surgical registrar Dr Caroline Todd through her first day at work and beyond, starting out as she means to go on - dishevelled and under-deodorised! Along the way she meets an assortment of bizarre and demented characters. Be prepared for one of the most surreal journeys you're ever likely to take as you dive into the anarchic world of Green Wing Hospital!",
+        "poster_path": "/6QxjkLuyiC52GVFKQEOxboAxKfM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 6.2228,
+        "first_air_date": "2004-09-03",
+        "vote_average": 8.0,
+        "vote_count": 98,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/bOSNG1mhGRTNJmOJka4d2zU9R67.jpg",
+        "id": 61406,
+        "name": "Şeffaf",
+        "original_name": "Transparent",
+        "overview": "Pfefferman ailesinin reisinin büyük itirafından sonra, tüm ailenin sırları ortaya dökülmeye başlar ve ailenin her bir üyesi nasıl biri olacağına karar verirken farklı yönlere savrulur. Başrollerde Jeffrey Tambor, Judith Light, Amy Landecker, Jay Duplass ve Gaby Hoffman var.",
+        "poster_path": "/mrLzehvZpm5osA4MlMR41gYayWZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 14.4458,
+        "first_air_date": "2014-09-26",
+        "vote_average": 6.369,
+        "vote_count": 157,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/om4aZWQq1i0szWFgfUR5mqkBDl7.jpg",
+        "id": 67684,
+        "name": "Incorporated",
+        "original_name": "Incorporated",
+        "overview": "Set in a near future where corporations have unlimited power, a young executive conceals his true identity to infiltrate a dangerous corporate world to save the woman he loves.",
+        "poster_path": "/kdjLwa2EVxcH3xyiXSyMbyHalnL.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          80,
+          10765
+        ],
+        "popularity": 4.9639,
+        "first_air_date": "2016-11-30",
+        "vote_average": 6.293,
+        "vote_count": 138,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1ENWqq5onPtbOYSUXbB9fl7rV5h.jpg",
+        "id": 37722,
+        "name": "Dream High",
+        "original_name": "드림하이",
+        "overview": "Six dedicated students at Kirin Art High School work to achieve their dreams of becoming stars in the Korean music industry.",
+        "poster_path": "/vqlPVNTnYNoXTqyIaW2oN1qV2lZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 9.5976,
+        "first_air_date": "2011-01-03",
+        "vote_average": 6.764,
+        "vote_count": 74,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/aplztf8fotkLOnwBM0bNfNmlxSo.jpg",
+        "id": 1823,
+        "name": "The Love Boat",
+        "original_name": "The Love Boat",
+        "overview": "Passengers who search for romantic nights aboard a beautiful ship travelling to tropical or mysterious countries, decide to pass their vacation aboard the \"Love Boat\", where Gopher, Dr. Bricker, Isaac, Julie, and Captain Stubing try their best to please them, and sometimes help them fall in love. Things are not always so easy, but in the end, love wins.",
+        "poster_path": "/fnsnazlj2bt3Fuj0pJ7wBPmuMLO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 72.3691,
+        "first_air_date": "1977-09-24",
+        "vote_average": 6.258,
+        "vote_count": 184,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

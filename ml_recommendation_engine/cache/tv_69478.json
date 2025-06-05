@@ -1,0 +1,940 @@
+{
+  "adult": false,
+  "backdrop_path": "/jXB3OoWPkojsOP2O2OoLCeAIDRS.jpg",
+  "created_by": [
+    {
+      "id": 157125,
+      "credit_id": "58703af8925141355e000d58",
+      "name": "Bruce Miller",
+      "original_name": "Bruce Miller",
+      "gender": 2,
+      "profile_path": "/h66XSPXnWfkJVMGJRXHc4RoJXLH.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2017-04-26",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 10765,
+      "name": "Bilim Kurgu & Fantazi"
+    }
+  ],
+  "homepage": "https://www.hulu.com/the-handmaids-tale",
+  "id": 69478,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-05-06",
+  "last_episode_to_air": {
+    "id": 5978369,
+    "name": "7. Bölüm",
+    "overview": "June'un dünyası baş döndürücü bir keşifle altüst olurken, Serena da ileriye dönük iddialı bir yola yönelir",
+    "vote_average": 6.8,
+    "vote_count": 5,
+    "air_date": "2025-05-06",
+    "episode_number": 7,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 42,
+    "season_number": 6,
+    "show_id": 69478,
+    "still_path": "/wn7ZQvsuPqsIR4lgjEEMppYHeTw.jpg"
+  },
+  "name": "The Handmaid's Tale",
+  "next_episode_to_air": {
+    "id": 5978370,
+    "name": "8. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-05-13",
+    "episode_number": 8,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 6,
+    "show_id": 69478,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 453,
+      "logo_path": "/pqUTCleNUiTLAVlelGxUgWn1ELh.png",
+      "name": "Hulu",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 66,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Handmaid's Tale",
+  "overview": "Dizi, Gilead isimli bir toplumda geçiyor. Doğal sebepler nedeniyle nüfus düşüşü yaşayan bu toplumda kadınlar devletin malı olarak kabul ediliyor. Toplumun yeniden çoğalması için üreme hizmetine zorlanan Offred, bu acımasız koşullarda hayatta kalmaya çalışıyor.",
+  "popularity": 136.8672,
+  "poster_path": "/qdWEaWkIQIjANGFeskheXpP0mm1.jpg",
+  "production_companies": [
+    {
+      "id": 2230,
+      "logo_path": "/igOjospzsKQIbpuFCGhoN5F9icS.png",
+      "name": "MGM Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 91405,
+      "logo_path": null,
+      "name": "White Oak Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 8867,
+      "logo_path": null,
+      "name": "Daniel Wilson Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 10278,
+      "logo_path": null,
+      "name": "MGM/UA Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-02-03",
+      "episode_count": 122,
+      "id": 125495,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/m9LaviHWgyLWC1GngFgdtM8ZPaa.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2017-04-26",
+      "episode_count": 10,
+      "id": 83562,
+      "name": "Sezon 1",
+      "overview": "Çevresel felaketler ve düşen doğum oranları karşısında, Gilead distopyası kadınlara devlet mülkü gibi davranan tutucu bir rejimle yönetilmektedir. Offred (Elisabeth Moss) son kalan doğurgan kadınlardandır ve Komutan'ın evinde hizmetçi olarak çalışmaktadır. Hizmetçi kadınlar bu harap edilmiş dünyada popülasyonu arttırmak için cinsel köle olmaya zorlanmıştır. Gilead'daki herhangi birinin casus olabileceği bu korkunç toplumda Offred; Komutanlar, onların acımasız eşleri, evcil Martha’lar ve hizmetçi arkadaşları arasında gidip gelmektedir. Offred'in tek amacı hayatta kalmak ve kendisinden alınan kızını bulabilmektir",
+      "poster_path": "/iBfjoIODKG1FazQNN1Op8vmVsg0.jpg",
+      "season_number": 1,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2018-04-24",
+      "episode_count": 13,
+      "id": 93574,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/nWjwPOPFIz8kqPQuZR37qkyU7nM.jpg",
+      "season_number": 2,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2019-06-05",
+      "episode_count": 13,
+      "id": 118751,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/8K2GbvbRXKIazZaWZSPcF2CHurs.jpg",
+      "season_number": 3,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2021-04-28",
+      "episode_count": 10,
+      "id": 183340,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/rMEinQPEzgFgf5UkeKjVjCSS8dc.jpg",
+      "season_number": 4,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2022-09-14",
+      "episode_count": 10,
+      "id": 240041,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/b5D1ZGM9Vort1BsDWBDDtb6DQXF.jpg",
+      "season_number": 5,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2025-04-08",
+      "episode_count": 10,
+      "id": 442084,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/6FAbw3h5Vkomx1M8R3BBEbLbaq3.jpg",
+      "season_number": 6,
+      "vote_average": 6.6
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Mücadele kutlu olsun.",
+  "type": "Scripted",
+  "vote_average": 8.176,
+  "vote_count": 2876,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 32798,
+        "known_for_department": "Acting",
+        "name": "Elisabeth Moss",
+        "original_name": "Elisabeth Moss",
+        "popularity": 3.837,
+        "profile_path": "/vZDe22EtLtcHvPr28l4ZM0b7qjG.jpg",
+        "character": "June Osborne / Offred / Ofjoseph",
+        "credit_id": "58703bfb9251413564000e09",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 63312,
+        "known_for_department": "Acting",
+        "name": "Yvonne Strahovski",
+        "original_name": "Yvonne Strahovski",
+        "popularity": 5.0056,
+        "profile_path": "/giUmbTd2Kw5BSWHHSFLgVjJqIGl.jpg",
+        "character": "Serena Joy Waterford",
+        "credit_id": "58703c17c3a3684f16000ee1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 43366,
+        "known_for_department": "Acting",
+        "name": "Ann Dowd",
+        "original_name": "Ann Dowd",
+        "popularity": 3.1025,
+        "profile_path": "/zo44U71uiMNVW1HSiOa5F9MpqIq.jpg",
+        "character": "Aunt Lydia / Miss Clements",
+        "credit_id": "5cc6ea460e0a263743eec2c4",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1443712,
+        "known_for_department": "Acting",
+        "name": "Madeline Brewer",
+        "original_name": "Madeline Brewer",
+        "popularity": 4.0607,
+        "profile_path": "/zjH3Bl22nCMVulfcy6psRBOOgqZ.jpg",
+        "character": "Janine Lindo / Ofwarren / Ofdaniel / Ofhoward",
+        "credit_id": "5d58304ee8131d343889428b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2978,
+        "known_for_department": "Acting",
+        "name": "Max Minghella",
+        "original_name": "Max Minghella",
+        "popularity": 3.5617,
+        "profile_path": "/Ss5K1HMrYtB8jtirYXK27EwwzV.jpg",
+        "character": "Nick Blaine",
+        "credit_id": "58703c4ec3a3684f16000f0e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113970,
+        "known_for_department": "Acting",
+        "name": "O-T Fagbenle",
+        "original_name": "O-T Fagbenle",
+        "popularity": 2.6084,
+        "profile_path": "/baIiZBDYpYXfG4SlonbcqyYg6l.jpg",
+        "character": "Lucas 'Luke' Bankole",
+        "credit_id": "58703c60925141355e000eb7",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1034197,
+        "known_for_department": "Acting",
+        "name": "Samira Wiley",
+        "original_name": "Samira Wiley",
+        "popularity": 2.3857,
+        "profile_path": "/m45A0hYcpnGckwxqs7j0I6Sp2Dj.jpg",
+        "character": "Moira Strand",
+        "credit_id": "58703c2ac3a3684f0a000cf8",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1232769,
+        "known_for_department": "Acting",
+        "name": "Amanda Brugel",
+        "original_name": "Amanda Brugel",
+        "popularity": 2.4973,
+        "profile_path": "/3W1RR8CzP5uk6sFt92i1QyjGLRT.jpg",
+        "character": "Rita Blue",
+        "credit_id": "5a436af59251411fd2061025",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65727,
+        "known_for_department": "Acting",
+        "name": "Sam Jaeger",
+        "original_name": "Sam Jaeger",
+        "popularity": 2.2082,
+        "profile_path": "/8t4wSekn6vUyEmg9etTnvTaGJEV.jpg",
+        "character": "Mark Tuello",
+        "credit_id": "60bb1575d7fbda00295e1ae3",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11367,
+        "known_for_department": "Acting",
+        "name": "Bradley Whitford",
+        "original_name": "Bradley Whitford",
+        "popularity": 2.8645,
+        "profile_path": "/oeDv2qZWTxELLaNtOIoeG72leNY.jpg",
+        "character": "Commander Joseph Lawrence",
+        "credit_id": "5d582fc7e8131d6f6f89c765",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 41557,
+        "known_for_department": "Acting",
+        "name": "Ever Carradine",
+        "original_name": "Ever Carradine",
+        "popularity": 2.8929,
+        "profile_path": "/fL23W2vjdaVS91s9c6AKjvB94aW.jpg",
+        "character": "Naomi Putnam",
+        "credit_id": "5a436be70e0a264f7704a085",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2694,
+        "known_for_department": "Acting",
+        "name": "Josh Charles",
+        "original_name": "Josh Charles",
+        "popularity": 2.8722,
+        "profile_path": "/xmFdIoFKVRNUmXaslBlErA3UHfF.jpg",
+        "character": "",
+        "credit_id": "67ace3fad63e9deeea36d11f",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1226728,
+        "known_for_department": "Production",
+        "name": "Warren Littlefield",
+        "original_name": "Warren Littlefield",
+        "popularity": 0.5596,
+        "profile_path": "/v798cWhlV2Gnt3tcqWkbI5e5yDE.jpg",
+        "credit_id": "58703b90c3a3684f0e000f71",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27405,
+        "known_for_department": "Acting",
+        "name": "Daniel Wilson",
+        "original_name": "Daniel Wilson",
+        "popularity": 0.104,
+        "profile_path": null,
+        "credit_id": "58703b44c3a3684f0a000c2c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1246843,
+        "known_for_department": "Production",
+        "name": "Fran Sears",
+        "original_name": "Fran Sears",
+        "popularity": 0.2447,
+        "profile_path": null,
+        "credit_id": "58703b82c3a3684f16000e6c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 157125,
+        "known_for_department": "Writing",
+        "name": "Bruce Miller",
+        "original_name": "Bruce Miller",
+        "popularity": 1.0675,
+        "profile_path": "/h66XSPXnWfkJVMGJRXHc4RoJXLH.jpg",
+        "credit_id": "58703b30c3a3684f12000ce0",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "rape",
+        "id": 570
+      },
+      {
+        "name": "based on novel or book",
+        "id": 818
+      },
+      {
+        "name": "feminism",
+        "id": 2383
+      },
+      {
+        "name": "slavery",
+        "id": 2831
+      },
+      {
+        "name": "dystopia",
+        "id": 4565
+      },
+      {
+        "name": "surrogate mother",
+        "id": 7638
+      },
+      {
+        "name": "teacher",
+        "id": 10508
+      },
+      {
+        "name": "religion",
+        "id": 11001
+      },
+      {
+        "name": "infertility",
+        "id": 11829
+      },
+      {
+        "name": "torture",
+        "id": 13006
+      },
+      {
+        "name": "alternative reality",
+        "id": 175629
+      },
+      {
+        "name": "totalitarianism",
+        "id": 178712
+      },
+      {
+        "name": "tyranny",
+        "id": 189433
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "tr",
+        "iso_3166_1": "TR",
+        "name": "The Handmaid's Tale #BluTV'de!",
+        "key": "xKHwD6edG5o",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Trailer",
+        "official": true,
+        "published_at": "2017-04-28T14:25:09.000Z",
+        "id": "62d2df6ad399e6004e72050e"
+      }
+    ]
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/8Wo2Pqjxn7Xmd7p2dxRMIJtyMV7.jpg",
+        "id": 66292,
+        "name": "Big Little Lies",
+        "original_name": "Big Little Lies",
+        "overview": "Avustralyalı yazar Liane Moriary’nin aynı adlı çok satan romanından uyarlanacak Big Little Lies’da; dışarıdan mükemmel hayatlara sahipmiş gibi gözüken üç kadının, bir cinayet olayı ile yollarının kesişmesi işlenecek. Çocukları anaokuluna giden kadınlar, veli toplantısı esnasında gerçekleşen bir cinayeti aydınlatmaya çalışacak.",
+        "poster_path": "/b4HNJOc2N6SGyEhf2RagdpAKBK6.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 11.7684,
+        "first_air_date": "2017-02-19",
+        "vote_average": 7.892,
+        "vote_count": 1538,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dyysEEonr5tPcgItlfHItfx5ZCY.jpg",
+        "id": 66857,
+        "name": "Shooter",
+        "original_name": "Shooter",
+        "overview": "Birçok madalyaya sahip eski bir keskin nişancı, başkanı hedef alan bir suikast planını engellemek üzere geri döner. Ancak kısa sürede kendini cinayetle suçlanırken bulur.",
+        "poster_path": "/oMmqtafm6Rdlka1ejJeC9BDWzyO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10768,
+          18
+        ],
+        "popularity": 18.9164,
+        "first_air_date": "2016-11-15",
+        "vote_average": 7.2,
+        "vote_count": 667,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/87eP7ITTrOWvkA4EqCuoRdyjzLy.jpg",
+        "id": 67195,
+        "name": "Lejyon",
+        "original_name": "Legion",
+        "overview": "Kendisine akıl hastası, şizofreni teşhisi konulan ve çocukluğundan beri bununla mücadele eden David Haller'i (Dan Stevens) merkezine almaktadır. Hayallerinde bir kız ile tanışır ve herşey bir anda değişir. Gördüğü ve duyduğu tüm seslerin gerçek olma ihtimali ile karşı karşıyadır.",
+        "poster_path": "/dPtJDuGbFKuxSypoHYqlHNtxyBx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10765,
+          18
+        ],
+        "popularity": 13.1002,
+        "first_air_date": "2017-02-08",
+        "vote_average": 7.52,
+        "vote_count": 1429,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/8VXhcrl5z2I1zEU9X3pkkNrZlD.jpg",
+        "id": 65494,
+        "name": "The Crown",
+        "original_name": "The Crown",
+        "overview": "II. Dünya Savaşı’nın yarattığı yıkımın ardından İngiltere siyasi karışıklık içindedir ve bu zorlu dönemde tahta bir kadın geçmektedir. II. Elizabeth'in tahta geçmesi ile yeni bir dönem başlayacaktır. Kraliçe II. Elizabeth'in tahttaki ilk yıllarının perde arkasının konu edildiği dizide, siyasi rekabetler, aşk ve 20. Yüzyılın ikinci yarısına şekil veren olaylar anlatılıyor.",
+        "poster_path": "/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 41.6652,
+        "first_air_date": "2016-11-04",
+        "vote_average": 8.2,
+        "vote_count": 2172,
+        "origin_country": [
+          "GB",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/hXdQ4MWsEOX6qg6VydKrLb3YJ4g.jpg",
+        "id": 67070,
+        "name": "Fleabag",
+        "original_name": "Fleabag",
+        "overview": "Fleabag altı bölümden oluşan bir İngiliz komedi dizisi ve daha ilk bölümünde elinizi ayağınıza dolaştırıyor. Amazon üzerinden yayınlanan BBC3 dizisi, aslında 2013 Edinburgh Festivali’nde Fringe First Award sahibi tek kişilik bir tiyatro metninden uyarlandı. Yazan, oynayan ve televizyona uyarlayan ise aynı isim: Phoebe Waller-Bridge.\n\nFleabag, Londra’da ayakta kalmaya çalışan, son derece tuhaf bir aileye sahip, beş parasız ve yalnız, bir orta sınıf mensubu kadının hikâyesi. En yakın arkadaşını bir kazada kaybetmesinin ardından bu taze trajediyle baş etmeye çalışırken, hayata tutunmaktaki ısrarını hepsi birbirinden kaçık aile fertleri aracılığıyla anlatıyor. Mesafeli babası, dayanılmaz ölçüde alaycı ve itici üvey annesi, gergin ve muhafazakâr ablası ve tek gecelik ilişkileri etrafında dönen bu komik evren ekranın karşısındaki izleyicilerde sağlam bir empati duygusu yaratıyor.",
+        "poster_path": "/27vEYsRKa3eAniwmoccOoluEXQ1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 10.3884,
+        "first_air_date": "2016-07-21",
+        "vote_average": 8.287,
+        "vote_count": 1567,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/gD830J0sf5gEeZvzkRVPdGxJmSR.jpg",
+        "id": 69740,
+        "name": "Ozark",
+        "original_name": "Ozark",
+        "overview": "Bir finans danışmanı, ailesini Chicago'dan Missouri'deki Ozarks'a sürükler. Burada, bir uyuşturucu patronunu memnun etmek için beş yılda 500 milyon dolar aklamalıdır.",
+        "poster_path": "/pCGyPVrI9Fzw6rE1Pvi4BIXF6ET.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 25.4948,
+        "first_air_date": "2017-07-21",
+        "vote_average": 8.21,
+        "vote_count": 2453,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cmHkLlircXTxI7nv93It7gVCH8N.jpg",
+        "id": 849,
+        "name": "Monty Python's Flying Circus",
+        "original_name": "Monty Python's Flying Circus",
+        "overview": "A British sketch comedy series with the shows being composed of surreality, risqué or innuendo-laden humour, sight gags and observational sketches without punchlines.",
+        "poster_path": "/p91aop04lAeAklz32RXAMEWftQh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 36.4803,
+        "first_air_date": "1969-10-05",
+        "vote_average": 8.249,
+        "vote_count": 642,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/yGNnjoIGOdQy3douq60tULY8teK.jpg",
+        "id": 63247,
+        "name": "Westworld",
+        "original_name": "Westworld",
+        "overview": "İki konuk ileri teknolojinin kullanıldığı bir eğlence parkında Vahşi Batı macerasına çıkar. Parktaki insanlar robottur ve park Roma, Vahşi Batı ve Ortaçağ dönemlerine benzetilerek sahici bir hayat yaratmak amacıyla tasarlanmıştır. Merkezi bilgisayar sistemi bozulunca robotlar zincirlerini koparır ve parkın iki konuğu robot bir silahşör tarafından takip edildiklerini fark eder.West World ya da Batı Dünyası, yapay bilincin ortaya çıkması ve suçun geleceğiyle ilgili karanlık bir yolculuğu anlatmaktadır.",
+        "poster_path": "/8MfgyFHf7XEboZJPZXCIDqqiz6e.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          37
+        ],
+        "popularity": 51.6489,
+        "first_air_date": "2016-10-02",
+        "vote_average": 8.0,
+        "vote_count": 5699,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/c4CSgKL6QfkJxsWcGYDyTxpbzpW.jpg",
+        "id": 66788,
+        "name": "Ölmek İçin On Üç Sebep",
+        "original_name": "13 Reasons Why",
+        "overview": "Lise öğrencisi Clay Jensen, bir arkadaşının trajik intiharının ardından kendini bir dizi yürek burkan gizemin ortasında bulur.\n\nİçerik Uyarısı:\n\nBu dizi; cinsel saldırı, madde bağımlılığı ve intihar tasvirleri dahil olmak üzere izleyicilerin rahatsız edici bulabileceği sahneler içermektedir. Sizin ya da tanıdığınız birinin destek almak ya da bu gibi durumlarda başvurulabilecek kurumları bulmak için yardıma ihtiyacı varsa daha fazla bilgi almak için lütfen 13ReasonsWhy.info adresini ziyaret edin.",
+        "poster_path": "/edtwCUiQPLMVEnyO9VGek50HXbm.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 33.0898,
+        "first_air_date": "2017-03-31",
+        "vote_average": 7.584,
+        "vote_count": 4291,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2Qg2fViQzWenpUaMjhv0kNhCbE9.jpg",
+        "id": 71738,
+        "name": "The Orville",
+        "original_name": "The Orville",
+        "overview": "300 yıl ileride geçen dizide; dünyanın yıldızlararası filosunda yer alan, çok da iyi olamayan araştırma gemisi U.S.S. Orville'in maceraları konu ediliyor. Kozmik zorluklarla karşılaşan uzay gezginleri arasında hem insanlar hem de uzaylılar bulunuyor. Başka gezegenlerden kişilerin de içinde bulunduğu gemi, ışıktan hızlı ilerleyecek güçte olsa da, her iş yerinde olan eğlenceli problemler burada da meydana geliyor.",
+        "poster_path": "/78xnHh9H5wYcUeZoB0bt1UgInAW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35,
+          10765
+        ],
+        "popularity": 28.7291,
+        "first_air_date": "2017-09-10",
+        "vote_average": 7.622,
+        "vote_count": 1242,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/LjXBJaNaBGgAsNHDYfFTwGOUWb.jpg",
+        "id": 34415,
+        "name": "The Killing",
+        "original_name": "The Killing",
+        "overview": "Rosie Larsen’i Kim Öldürdü?\n\nRosie Larsen düzgün, okulunda başarılı, kendi halinde bir kızdır. Sevgi dolu bir ailede 2 küçük erkek kardeşiyle mutlu mesut yaşamaktadırlar. Tek hatası şımarık bir  zengin çocuğuyla yaşadığı oldukça kısa süreli aşk!\n\nDizi, işini bırakıp evlenmek ve tek oğluyla birlikte taşınmak isteyen polis Sarah Linden’in  bu cinayeti araştırmak için yolculuğunu ertelemek zorunda kalmasıyla başlar.",
+        "poster_path": "/3yiwAUNGn1rsPSVmFgVwPVJFtYf.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "popularity": 13.0258,
+        "first_air_date": "2011-04-03",
+        "vote_average": 7.832,
+        "vote_count": 780,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zFJxwXtW3Y7FSDrc2FnVFpQCcY1.jpg",
+        "id": 79680,
+        "name": "Snowpiercer",
+        "original_name": "Snowpiercer",
+        "overview": "Dünya buzlarla kaplanınca hayatta kalan son insanlar dünyanın çevresini dolaşan dev bir trende yaşar. Ancak trendeki hassas dengeyi bozmadan birlikte yaşamak çok zordur.",
+        "poster_path": "/exKzfiKzMdQBHrdd7zNmKauJkbg.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 30.1884,
+        "first_air_date": "2020-05-17",
+        "vote_average": 7.385,
+        "vote_count": 1288,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cj0zZiJfFj3xn9p0K3kx8qHSyng.jpg",
+        "id": 73107,
+        "name": "Barry",
+        "original_name": "Barry",
+        "overview": "Yalnız ve hayatından memnun olmayan biri olan Barry oyunculuk alanında şansını denemek için Los Angeles’a gider. Oyunculuk kursuna yazılan ve kısa zaman içinde kendisi gibi oyunculuk kariyeri yapmak isteyen insanlarla kaynaşan Barry, yeni bir sayfa açmaya kararlıdır. Ne var ki suç dolu geçmişinden zannettiği kadar kolay kurtulamayacaktır.",
+        "poster_path": "/j1XpwD11f0BAEI7pX6UdMhUVX2F.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          80,
+          18
+        ],
+        "popularity": 20.4481,
+        "first_air_date": "2018-03-25",
+        "vote_average": 7.898,
+        "vote_count": 973,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/AgP8MQcaG5X1ewCQMZdiP9ews4Y.jpg",
+        "id": 81292,
+        "name": "Mesih",
+        "original_name": "Messiah",
+        "overview": "CIA ajanı Eva Geller (Michelle Monaghan), kamu düzenini bozarak uluslararası kamuoyunun ilgisini üzerini çeken bir adamla (Mehdi Dehbi) ilgili bilgileri ortaya çıkarır ve adamın kökenini araştırmaya başlar. Adam, onun mucizeler yarattığını iddia eden müridler kazanmaya devam ederken, küresel medya bu karizmatik adamın cazibesine giderek daha fazla kapılmaya başlar. Geller, bu adamın gerçekten ilahî bir varlık mı yoksa dünyanın jeopolitik düzenini bozabilecek aldatıcı bir sahtekâr mı olduğunu ortaya çıkarmak için uğraşmalıdır. Hikâye ilerledikçe, olaylar İsrailli bir istihbarat görevlisi (Tomer Sisley), Texaslı bir vaiz (John Ortiz) ve kızı (Stefania LaVie Owen), Filistinli bir mülteci (Sayyid El Alami) ve olayı haber yapan bir gazeteci (Jane Adams) gibi birçok farklı kişinin bakış açısından, iç içe geçmiş şekilde anlatılır.",
+        "poster_path": "/psem2jK9GGC0g7dcjb4N5SCYb1u.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 6.2675,
+        "first_air_date": "2020-01-01",
+        "vote_average": 7.236,
+        "vote_count": 381,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/nNU0oaZv8jeLlcrPFGnVae8ZpnW.jpg",
+        "id": 94413,
+        "name": "The Mess You Leave Behind",
+        "original_name": "El desorden que dejas",
+        "overview": "Lisedeki görevine yeni başlayan bir öğretmen, gelişinden üç hafta önce yaşanan şüpheli bir cinayeti aklından çıkaramaz ve kendi hayatı için endişelenmeye başlar. (18 yaş ve üzeri için uygundur)",
+        "poster_path": "/lO3JkTPko8kEr2luYGwQocU1lJH.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 4.7925,
+        "first_air_date": "2020-12-11",
+        "vote_average": 6.982,
+        "vote_count": 272,
+        "origin_country": [
+          "ES"
+        ]
+      },
+      {
+        "backdrop_path": "/i0bVPXHdvLQzE1Ld8dDwbCj1kOW.jpg",
+        "id": 64439,
+        "name": "Making a Murderer",
+        "original_name": "Making a Murderer",
+        "overview": "Filmed over 10 years, this real-life thriller follows a DNA exoneree who, while exposing police corruption, becomes a suspect in a grisly new crime.",
+        "poster_path": "/sy2nV3rCcJQaRK5M0NWvvTU7CBx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          80
+        ],
+        "popularity": 6.0496,
+        "first_air_date": "2015-12-18",
+        "vote_average": 7.83,
+        "vote_count": 497,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/i9cuGvNP0XhBIHgvTfvsWeMzan4.jpg",
+        "id": 70128,
+        "name": "Genius",
+        "original_name": "Genius",
+        "overview": "Einstein’ın başarılarını ve hayatının bilinmeyen yönlerini anlatan “Deha”, öğretim görevlisi pozisyonlarında yer almayı başaramayan, doktoraya kabul edilmeyen fakat hayal gücü kuvvetli ve isyankar olan bir patent görevlisinin nasıl evrenin ve atomun sırlarını gün yüzüne çıkardığını anlatıyor. Her bölüm Einstein’in olağanüstü bilimsel başarıları ile beraber bu güne kadar çok fazla konuşulmamış karmaşık ve tutkulu kişisel hayatına da ışık tutuyor.",
+        "poster_path": "/waCykVbku2Amh0revf535SOnlmm.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 23.9888,
+        "first_air_date": "2017-04-25",
+        "vote_average": 7.7,
+        "vote_count": 261,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/6LNiGx7KfdTPrIkkl6MjAXaDHmJ.jpg",
+        "id": 61555,
+        "name": "The Missing",
+        "original_name": "The Missing",
+        "overview": "2006 yılında Tony ve Emily Hughes, 5 yaşındaki oğulları Oliver ile Fransa'ya giderler, Oliver'ın Kuzey Fransa'daki büyük bir kutlamada kaybolmasıyla tatilleri kabusa dönüşür.",
+        "poster_path": "/czsrf4fx39ADnSTH7Og1Xk2SC4S.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 7.4471,
+        "first_air_date": "2014-10-28",
+        "vote_average": 7.1,
+        "vote_count": 267,
+        "origin_country": [
+          "BE",
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/wPJgjOfsFUny1WBo53Q9xtIMSs.jpg",
+        "id": 104157,
+        "name": "Katla",
+        "original_name": "Katla",
+        "overview": "Bir buzul altı yanardağının patlamasından bir yıl sonra, eriyen buzdan tarih öncesi çağlardan kalma gizemli unsurlar ortaya çıkar ve beklenmedik sonuçlar doğurur.",
+        "poster_path": "/9RgnnbtRmc2wpNdTDLz4P28hTw4.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "is",
+        "genre_ids": [
+          18,
+          9648,
+          10765
+        ],
+        "popularity": 4.1269,
+        "first_air_date": "2021-06-17",
+        "vote_average": 6.989,
+        "vote_count": 353,
+        "origin_country": [
+          "IS"
+        ]
+      },
+      {
+        "backdrop_path": "/jfBxBOGZX1hqpVHvLM3J571PPAy.jpg",
+        "id": 96213,
+        "name": "McMillion$",
+        "original_name": "McMillion$",
+        "overview": "A detailed account of the McDonald's Monopoly game scam during the 1990s as told by the participants in the case, including the prizewinners and the FBI agents who caught the security officer who orchestrated the entire scheme.",
+        "poster_path": "/xyUciqZC5hGYJqefmbGbTy5fxYh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          80,
+          18
+        ],
+        "popularity": 2.0973,
+        "first_air_date": "2020-02-03",
+        "vote_average": 6.964,
+        "vote_count": 112,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

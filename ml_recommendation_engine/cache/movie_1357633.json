@@ -1,0 +1,682 @@
+{
+  "adult": false,
+  "backdrop_path": "/hlfu6g0h0D65SjkVhQBU20zePTl.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Aksiyon"
+    },
+    {
+      "id": 12,
+      "name": "Macera"
+    },
+    {
+      "id": 14,
+      "name": "Fantastik"
+    },
+    {
+      "id": 16,
+      "name": "Animasyon"
+    }
+  ],
+  "homepage": "",
+  "id": 1357633,
+  "imdb_id": "tt33428606",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "俺だけレベルアップな件 -ReAwakening-",
+  "overview": "",
+  "popularity": 359.626,
+  "poster_path": "/gjemx47qD8xtuuGcsdWqlFXWR0b.jpg",
+  "production_companies": [
+    {
+      "id": 2883,
+      "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
+      "name": "Aniplex",
+      "origin_country": "JP"
+    },
+    {
+      "id": 13113,
+      "logo_path": "/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png",
+      "name": "A-1 Pictures",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2024-11-26",
+  "revenue": 6331827,
+  "runtime": 116,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "俺だけレベルアップな件 -ReAwakening-",
+  "video": false,
+  "vote_average": 6.85,
+  "vote_count": 160,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2106489,
+        "known_for_department": "Acting",
+        "name": "坂泰斗",
+        "original_name": "坂泰斗",
+        "popularity": 16.389,
+        "profile_path": "/pSExEOVmjAujKUyJJJSxC1WEzOM.jpg",
+        "cast_id": 1,
+        "character": "Shun Mizushino (voice) (archive footage)",
+        "credit_id": "66ec855919e6f27f0546cd63",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2784795,
+        "known_for_department": "Acting",
+        "name": "中村源太",
+        "original_name": "中村源太",
+        "popularity": 6.572,
+        "profile_path": "/bl3pu2fsaNfHqnZQSDugY4V1CE0.jpg",
+        "cast_id": 2,
+        "character": "Kenta Morobishi (voice) (archive footage)",
+        "credit_id": "66ec856619e6f27f0546cd90",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3279626,
+        "known_for_department": "Acting",
+        "name": "三川華月",
+        "original_name": "三川華月",
+        "popularity": 4.177,
+        "profile_path": "/nsrFjmDDzo4FDMhxyvuVk4mPEH3.jpg",
+        "cast_id": 3,
+        "character": "Aoi Mizushino (voice) (archive footage)",
+        "credit_id": "66ec8572373c0ccc9cfa90f1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1452028,
+        "known_for_department": "Acting",
+        "name": "上田麗奈",
+        "original_name": "上田麗奈",
+        "popularity": 21.476,
+        "profile_path": "/hlzrvBzeSYejeaTSZDvEWE44Qjj.jpg",
+        "cast_id": 4,
+        "character": "Shizuku Kousaka (voice) (archive footage)",
+        "credit_id": "66ec857ce08b18d3aafa8d82",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1096528,
+        "known_for_department": "Acting",
+        "name": "平川大輔",
+        "original_name": "平川大輔",
+        "popularity": 8.049,
+        "profile_path": "/8uDi5NxFdxFvfVyo4n5CeOSLWEf.jpg",
+        "cast_id": 5,
+        "character": "Shin Mogami (voice) (archive footage)",
+        "credit_id": "66ec858619e6f27f0546cdc5",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89832,
+        "known_for_department": "Acting",
+        "name": "東地宏樹",
+        "original_name": "東地宏樹",
+        "popularity": 14.262,
+        "profile_path": "/bU2vogWmnTWiQEwUADWlnBqAPhJ.jpg",
+        "cast_id": 6,
+        "character": "Taiga Shirakawa (voice) (archive footage)",
+        "credit_id": "66ec8593065b70b542326e61",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 122481,
+        "known_for_department": "Acting",
+        "name": "銀河万丈",
+        "original_name": "銀河万丈",
+        "popularity": 16.17,
+        "profile_path": "/qiXnKaZheMiVyA1U2mX9tPdNA3T.jpg",
+        "cast_id": 7,
+        "character": "Kiyoomi Goto (voice) (archive footage)",
+        "credit_id": "66ec859e373c0ccc9cfa90f6",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1319218,
+        "known_for_department": "Acting",
+        "name": "古川慎",
+        "original_name": "古川慎",
+        "popularity": 13.624,
+        "profile_path": "/inLmBZhrqXeE9wlViyK28ocKJSw.jpg",
+        "cast_id": 8,
+        "character": "Akira Inukai (voice) (archive footage)",
+        "credit_id": "66ec85aa3d29e1389646cd7e",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1627340,
+        "known_for_department": "Directing",
+        "name": "中重俊祐",
+        "original_name": "中重俊祐",
+        "popularity": 4.696,
+        "profile_path": null,
+        "credit_id": "672307b8003c4b5b5b644005",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1025557,
+        "known_for_department": "Writing",
+        "name": "추공",
+        "original_name": "추공",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "677a8174816b2810d166e82a",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3972284,
+        "known_for_department": "Writing",
+        "name": "장성락",
+        "original_name": "장성락",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "677a817e38d26a2a6372aef7",
+        "department": "Writing",
+        "job": "Comic Book"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3972281,
+        "known_for_department": "Writing",
+        "name": "현군",
+        "original_name": "현군",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "677a818982cce15a7674f4f5",
+        "department": "Writing",
+        "job": "Comic Book"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 9717,
+        "name": "based on comic"
+      },
+      {
+        "id": 12197,
+        "name": "compilation"
+      },
+      {
+        "id": 194008,
+        "name": "edited from tv series"
+      },
+      {
+        "id": 210024,
+        "name": "anime"
+      },
+      {
+        "id": 288474,
+        "name": "based on webcomic or webtoon"
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/gd4JXEnL3SAff3qth6Qx3ZNh3NO.jpg",
+        "id": 49207,
+        "title": "R",
+        "original_title": "R",
+        "overview": "The R of the title stands for the young protagonist, Rune, fearlessly played by Pilou Asbæk. Imprisoned for violent assault, he's a cocky, good-looking young man placed in the hardcore ward, where his survival depends on quickly learning the prison's parallel world of rules, honor, and obligations. R also stands for Rachid, a young Muslim prisoner who becomes Rune's friend and accomplice, defying the rigid racial stratifications among the inmates.",
+        "poster_path": "/jxMgFBcEkBPhoikocUBqXS3i6TP.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "da",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 7.105,
+        "release_date": "2010-04-22",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 221
+      },
+      {
+        "backdrop_path": "/4px3C1MnKtshitubBXBJDS4Fo94.jpg",
+        "id": 1129610,
+        "title": "BOCCHI THE ROCK! Recap Part 1",
+        "original_title": "劇場総集編ぼっち・ざ・ろっく！Re:",
+        "overview": "Revisit events from Bocchi joining Kessoku Band to their first successful gig.",
+        "poster_path": "/gv5swmEUyrrTBuhNdb8rTCmsimm.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          35,
+          10402
+        ],
+        "popularity": 22.015,
+        "release_date": "2024-06-07",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 19
+      },
+      {
+        "backdrop_path": "/qPRwUF6lSBGTV0rhnwl4Iyr0IuZ.jpg",
+        "id": 168177,
+        "title": "Xx: Where Your Heart Should Be",
+        "original_title": "Xx",
+        "overview": "Todd Verow's experimental narrative feature heralding the end time. Split up into 20 short films, the film explores the fear and longing of several characters as they wait for some unspecified apocalyptic event.  Some try to escape physically, emotionally or sexually while others welcome the end with open arms. A woman (PHILLY) is busy dragging her own corpse, trying to find a resting place for it, when she encounters an old lover (MICHAEL BURKE) who used to be a she but has transitioned to a man. He wants to get out of town but she wants to stay it's the end of time when nothing is a crime.  Several gay men engage in more and more extreme sexual activity, they want to experience it all before the big collapse. Two gay ex-lovers try to reconnect and feel something, anything but total emptiness. Porn actors and producers make more unsafe films as fantasies grow darker and more violent. Will the world end with a whimper or a bang? Or worse will it not end at all.",
+        "poster_path": "/6qaB9OSh0MGFeYtw7z7gwOOjPZh.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 1.554,
+        "release_date": "2007-10-01",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 13
+      },
+      {
+        "backdrop_path": "/fEfFaByobTu2RR2KMMohmCNLReg.jpg",
+        "id": 1631,
+        "title": "İlk Sevişme",
+        "original_title": "Une vraie jeune fille",
+        "overview": "Alice, yaşından çok daha önce olgunlaşmış, biraz kaprisli, değişken karakterli ama genelde sessiz bir kızdır. Başka biri tarafından dokunulmanın nasıl bir şey olduğunu çok merak etmektedir ve bu konuda eline geçen her türlü nesneyle araştırmalar yapmaktan çekinmez. Yatılı okulu yaz tatiline girince yazı geçirmek için ailesiyle beraber yaşadığı evine döner. Bastırılmış seks duygularına tek çözüm onun için bu tatil olacaktır. Burada babasının yanında çalışan Jim adındaki bir adamı gözüne kestirir. Jim onun düşündüğü seks fantezilerini daha da arttırır.",
+        "poster_path": "/kuSYd4AGcfydRtkcVLqas0zLtql.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 18.515,
+        "release_date": "1976-01-01",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 122
+      },
+      {
+        "backdrop_path": null,
+        "id": 1045592,
+        "title": "Jack Reacher: When the Man Comes Around",
+        "original_title": "Jack Reacher: When the Man Comes Around",
+        "overview": "Cast and crew speak on adapting One Shot as the first Jack Reacher film, casting Tom Cruise, earning Lee Child's blessing, additional character qualities and the performances that shape them, Lee Child's cameo in the film, and shooting the film's climax.",
+        "poster_path": "/tcOPca5Ook6aR9mehrnxD9kfk7m.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 11.341,
+        "release_date": "2013-05-07",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 3
+      },
+      {
+        "backdrop_path": "/6k5MHtvcLmS2ED3Aswokk0CdIkL.jpg",
+        "id": 40075,
+        "title": "Ator, the Fighting Eagle",
+        "original_title": "Ator l'invincibile",
+        "overview": "The son of Torren learns of his heritage, goes to avenge the deaths of his fellow villagers, and rescue his sister/love interest from the evil Dakkar and his spider cult.",
+        "poster_path": "/pwDOAEZN0UVTafivxdjUOvwpQVc.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "it",
+        "genre_ids": [
+          28,
+          12,
+          14
+        ],
+        "popularity": 6.368,
+        "release_date": "1982-10-07",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 88
+      },
+      {
+        "backdrop_path": "/rOmUuQEZfPXglwFs5ELLLUDKodL.jpg",
+        "id": 845781,
+        "title": "Kod Adı: Kırmızı",
+        "original_title": "Red One",
+        "overview": "Kuzey Kutbu'nun Güvenlik Şefi (Dwayne Johnson), Noel'i kurtarmak için dünyanın en kötü şöhretli ödül avcısıyla (Chris Evans) dünyayı dolaşacakları aksiyon dolu bir görevde bir araya gelmek zorunda kalır.",
+        "poster_path": "/ymEu97tJ8h2sUAhaw8CU3MGTi9v.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          14,
+          35
+        ],
+        "popularity": 238.025,
+        "release_date": "2024-10-31",
+        "video": false,
+        "vote_average": 7.07,
+        "vote_count": 2361
+      },
+      {
+        "backdrop_path": "/qOSl6q8hIEY94iSMEFjHALBbEah.jpg",
+        "id": 1382406,
+        "title": "Striking Rescue",
+        "original_title": "惊天大营救",
+        "overview": "Former security expert Bai An kidnaps young heiress He Ting, intending to use her to take revenge on her father. However, he inadvertently saves her from a drug cartel massacre. Despite her youth, the resourceful He Ting, now isolated and uncertain of her father’s fate, proposes an alliance with Bai An to search for her missing father. Together, they embark on an unexpected journey that challenges both their motives and trust.",
+        "poster_path": "/uTKfD1CdjCLMVITnzblaqVSTxma.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "zh",
+        "genre_ids": [
+          80,
+          28,
+          53
+        ],
+        "popularity": 24.587,
+        "release_date": "2024-12-05",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 10
+      },
+      {
+        "backdrop_path": "/a1BCHUbMHqf7R2qWtNF6qwlYWzV.jpg",
+        "id": 774389,
+        "title": "Yu",
+        "original_title": "Yu",
+        "overview": "The experiences and adventures of three “thirty-something” buddies who involuntarily find themselves caught up in civil unrest. At first it is simply a jaunt in their boss ‘Porsche’ which their “borrow” without permission to drive to Triest, however, it becomes an adventure.",
+        "poster_path": "/b1IaF1CXUMEC5YCSRQimWDZfHUj.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 1.642,
+        "release_date": "2003-09-12",
+        "video": false,
+        "vote_average": 6.739,
+        "vote_count": 23
+      },
+      {
+        "backdrop_path": "/nJ0MYqTTZg4gk7fgVgIfAWJN4ZQ.jpg",
+        "id": 1276210,
+        "title": "Last Stop: Rocafort St.",
+        "original_title": "Estación Rocafort",
+        "overview": "Laura has recently started working in the Barcelona subway. She has been assigned the old and quiet Rocafort station, but it won't be long before she discovers that this stop harbors a legend that will begin to haunt her: many people have died there in strange circumstances over the years and no one seems to be interested in knowing the truth.",
+        "poster_path": "/fCjSwkDHYHib2jNNyhcuIO8d8jw.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          27,
+          9648
+        ],
+        "popularity": 46.597,
+        "release_date": "2024-08-30",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 42
+      },
+      {
+        "backdrop_path": "/lrUIf0OvOQpARAiLAQg1WVkcrUt.jpg",
+        "id": 751490,
+        "title": "The Mole: Undercover in North Korea",
+        "original_title": "The Mole: Undercover in North Korea",
+        "overview": "A real-life undercover thriller about two ordinary men who embark on an outrageously dangerous ten-year mission to penetrate the world's most secretive and brutal dictatorship: North Korea.",
+        "poster_path": "/mA76drf6b9UdtbIJDBU5hci8QPu.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 6.472,
+        "release_date": "2020-10-11",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 98
+      },
+      {
+        "backdrop_path": "/bVUB4WI2vTq46OHu2o1n9HdoloQ.jpg",
+        "id": 1300607,
+        "title": "Lucca'nın Dünyası",
+        "original_title": "Los dos hemisferios de Lucca",
+        "overview": "Serebral palsili oğluna yardım etmek için her şeyi göze alan Bárbara, deneysel bir tedavi için ailesini Hindistan'a götürür.",
+        "poster_path": "/fX3Q5hxUAUs1k8JQkNTwFpBd6BC.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 45.183,
+        "release_date": "2025-01-30",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 140
+      },
+      {
+        "backdrop_path": null,
+        "id": 1045781,
+        "title": "Ret",
+        "original_title": "Ret",
+        "overview": "1910’lu yıllar, Osmanlı İmparatorluğu son demlerinde... Salim, 1. dünya savaşına katılmak istemediği için sağlık raporu almak üzere askeri muayeneye girecek gençlerden biridir. Uzun zamandır üzerinde çalıştığı sağır rolüne bürünmüştür. Ancak karşısındaki deneyimli subay doktorlar, her ne kadar o dönemin şartları tıbbi bir teşhise el vermese de, çok farklı yollarda bu iddiayı sınayacaklardır. Bütün testlerden başarıyla geçen Salim, çürük raporunu almış, mülakattan çıkmak üzereyken, subayın emir üzerine yumruk atmaya hazırlanan nöbetçinin yanına yaklaşınca paniğe kapılır ve yüzünü kapatarak duyduğunu belli eder. Bir anlık bocalamadan sonar kaçmaya kalkışan Salim, nöbetçi erlerden biri tarafından vurulur. Mülakat, geride kalanlar için devam etmektedir.",
+        "poster_path": "/dozS8dYtledcoJqvBsl4GCj5zod.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "tr",
+        "genre_ids": [
+          18,
+          36
+        ],
+        "popularity": 4.307,
+        "release_date": "2015-07-10",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 294
+      },
+      {
+        "backdrop_path": "/2UYUojn45G06tk2gTbQc20DQGCm.jpg",
+        "id": 1175075,
+        "title": "Checkmates",
+        "original_title": "Menudas piezas",
+        "overview": "Candela, the headmistress of an elite school, after a traumatic divorce, returns to her old high school to lead a group of rebellious students through chess. There she will learn that in chess, and in life, it doesn't matter if you are a king or a pawn, because everyone ends up in the same box.",
+        "poster_path": "/epxMmvLaQmInLeRNOIMfRaJrhSZ.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 6.633,
+        "release_date": "2024-04-12",
+        "video": false,
+        "vote_average": 7.104,
+        "vote_count": 67
+      },
+      {
+        "backdrop_path": "/uOQgMhYyu7dkXdHoRkCqZIF32M6.jpg",
+        "id": 1241320,
+        "title": "Kingdom IV: Return of the Great General",
+        "original_title": "キングダム 大将軍の帰還",
+        "overview": "Depicts a continuation of the \"Battle of Mayang\", an all-out war against the neighboring country Zhao that Shin and Wang Ki fought in in the previous work \"Flame of Fate\".",
+        "poster_path": "/qZKKwXyZ92K0mIRpf2FbCkQa7oO.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          28,
+          12
+        ],
+        "popularity": 120.273,
+        "release_date": "2024-07-12",
+        "video": false,
+        "vote_average": 6.807,
+        "vote_count": 394
+      },
+      {
+        "backdrop_path": "/AjTodtZJlQxycfRPktnUTpknblv.jpg",
+        "id": 1207830,
+        "title": "Gracie & Pedro: Pets to the Rescue",
+        "original_title": "Gracie & Pedro: Pets to the Rescue",
+        "overview": "Family frenemies, Gracie and Pedro, must put their differences aside, embarking on a thrilling quest packed with perilous escapades in order to reunite with their owners.",
+        "poster_path": "/wuB4CVY3OgH4yVwj1CrS9hUYEje.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          12,
+          35,
+          10751
+        ],
+        "popularity": 31.327,
+        "release_date": "2024-05-01",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 82
+      },
+      {
+        "backdrop_path": "/tQprwIKzFx83JpM5dVrGRC4UpF.jpg",
+        "id": 573730,
+        "title": "Made in Abyss: Dawn of the Deep Soul",
+        "original_title": "劇場版メイドインアビス 深き魂の黎明",
+        "overview": "A continuation of the epic adventure of plucky Riko and Reg who are joined by their new friend Nanachi. Together they descend into the Abyss' treacherous fifth layer, the Sea of Corpses, and encounter the mysterious Bondrewd, a legendary White Whistle whose shadow looms over Nanachi's troubled past. Bondrewd is ingratiatingly hospitable, but the brave adventurers know things are not always as they seem in the enigmatic Abyss.",
+        "poster_path": "/fsPZdpocYYbvDS2YEE1Xohqo1ni.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          12,
+          14,
+          9648,
+          18,
+          878
+        ],
+        "popularity": 17.451,
+        "release_date": "2020-01-17",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 234
+      },
+      {
+        "backdrop_path": null,
+        "id": 303233,
+        "title": "123",
+        "original_title": "123",
+        "overview": "Short film from the Philippines",
+        "poster_path": null,
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [],
+        "popularity": 3.879,
+        "release_date": "2012-06-09",
+        "video": false,
+        "vote_average": 6.949,
+        "vote_count": 88
+      },
+      {
+        "backdrop_path": "/zlpZzccypkAYFZIyYLQcchl90ZC.jpg",
+        "id": 225914,
+        "title": "Örümcek-Adam",
+        "original_title": "Spider-Man",
+        "overview": "When an extortionist threatens to force a multi-suicide unless a huge ransom is paid, only Peter Parker can stop him with his new powers as Spider-Man.",
+        "poster_path": "/jNxRHZ2cxVkNRtxgHuCtv7GY4JP.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          28,
+          80,
+          10770
+        ],
+        "popularity": 8.935,
+        "release_date": "1977-09-14",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 185
+      },
+      {
+        "backdrop_path": "/zwSDvbnN51JqU1ULzPnEc22DkqV.jpg",
+        "id": 1272149,
+        "title": "Bridget Jones: Onun İçin Çıldırıyor",
+        "original_title": "Bridget Jones: Mad About the Boy",
+        "overview": "Bridget, ilk eşi Mark Darcy, Sudan’da  öldürüldüğünde dul kalmıştır. Artık 9 yaşındaki Billy ve 4 yaşındaki Mabel’ın bekâr annesidir ve çocuklarını sadık arkadaşlarının ve hatta eski sevgilisi Daniel Cleaver’ın yardımıyla yetiştirerek duygusal bir belirsizlik içinde sıkışıp kalmıştır. Jones, Urban ailesinden hayata ve aşka doğru yeni bir yol çizmesi için baskı görmeye başlar.",
+        "poster_path": "/hNsNO1BGm2JjHn1Ryz0OZ1pOhQe.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10749,
+          35,
+          18
+        ],
+        "popularity": 123.163,
+        "release_date": "2025-02-12",
+        "video": false,
+        "vote_average": 6.744,
+        "vote_count": 203
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

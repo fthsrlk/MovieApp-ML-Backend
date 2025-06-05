@@ -1,0 +1,714 @@
+{
+  "adult": false,
+  "backdrop_path": "/aG9lB7wVTeStYZ8eCQN0t7VVmW8.jpg",
+  "created_by": [
+    {
+      "id": 1456421,
+      "credit_id": "5cc02b7e0e0a265b0fed82f8",
+      "name": "Ricardo Castella",
+      "original_name": "Ricardo Castella",
+      "gender": 2,
+      "profile_path": "/L3YMsyD4SJ8fVsf8SR1sY6ExTU.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2018-02-01",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 35,
+      "name": "Komedi"
+    }
+  ],
+  "homepage": "http://www.movistarplus.es/cero/laresistencia",
+  "id": 76949,
+  "in_production": true,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2024-07-04",
+  "last_episode_to_air": {
+    "id": 5440028,
+    "name": "156. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2024-07-04",
+    "episode_number": 156,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 99,
+    "season_number": 7,
+    "show_id": 76949,
+    "still_path": "/v6YyabLdE44qKWwu6N6ZB5SwurX.jpg"
+  },
+  "name": "La resistencia",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6920,
+      "logo_path": "/tZSV7HC7DVgzXwDSkuu3PkW8C1w.png",
+      "name": "Movistar Plus+",
+      "origin_country": "ES"
+    }
+  ],
+  "number_of_episodes": 1022,
+  "number_of_seasons": 8,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_name": "La resistencia",
+  "overview": "",
+  "popularity": 1410.347,
+  "poster_path": "/yFwkWTDUjLN0LQmidsUJWEViCmo.jpg",
+  "production_companies": [
+    {
+      "id": 67412,
+      "logo_path": "/vgVqq5hunVs8GN5Je9d9rG7Q2NU.png",
+      "name": "Movistar+",
+      "origin_country": "ES"
+    },
+    {
+      "id": 8078,
+      "logo_path": "/kyRG4AvnC2J8zQcZp2Xsmpjx9Fl.png",
+      "name": "El Terrat",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-04-02",
+      "episode_count": 1,
+      "id": 148116,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/46IgkSIDw8BiohOt5pflXKEQKvi.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2018-02-01",
+      "episode_count": 84,
+      "id": 99050,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/acRsEEVpRm2KpbpjvYqyBpDHCP0.jpg",
+      "season_number": 1,
+      "vote_average": 5.0
+    },
+    {
+      "air_date": "2018-09-10",
+      "episode_count": 157,
+      "id": 109222,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/82w0DlzgQAWc9KM3BeHYILaW5RA.jpg",
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2019-09-11",
+      "episode_count": 157,
+      "id": 132149,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/hpRXgVoMooaATjUVNtgUehvwDBv.jpg",
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2020-09-14",
+      "episode_count": 157,
+      "id": 162863,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/qkdLznDkLKvNGeqvstCmGtiYobg.jpg",
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2021-09-14",
+      "episode_count": 156,
+      "id": 210688,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/q3anJckqmNytO8ytpCEGpKLW2Kr.jpg",
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2022-09-12",
+      "episode_count": 155,
+      "id": 308393,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/yEFUNiNo76qO1o2rPmd0c6YVb1o.jpg",
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2023-09-11",
+      "episode_count": 156,
+      "id": 356418,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/7ExJpHD54wwA6zWmLkkl90KIoMl.jpg",
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 400036,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 6.0,
+  "vote_count": 20,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1744344,
+        "known_for_department": "Acting",
+        "name": "David Broncano",
+        "original_name": "David Broncano",
+        "popularity": 2.905,
+        "profile_path": "/3dWvY439YjtwMapPfdEKB5vTnV5.jpg",
+        "character": "Presentador",
+        "credit_id": "5a7d337ec3a368448e000f9d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2195582,
+        "known_for_department": "Acting",
+        "name": "Grison",
+        "original_name": "Grison",
+        "popularity": 0.06,
+        "profile_path": "/yMPSZTaKw9TvsjoGz3ZG6Gdbtvo.jpg",
+        "character": "Colaborador",
+        "credit_id": "5c14de62c3a36866c7368604",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1456421,
+        "known_for_department": "Acting",
+        "name": "Ricardo Castella",
+        "original_name": "Ricardo Castella",
+        "popularity": 1.236,
+        "profile_path": "/L3YMsyD4SJ8fVsf8SR1sY6ExTU.jpg",
+        "character": "Colaborador",
+        "credit_id": "5c14de890e0a2603883c71a1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1423483,
+        "known_for_department": "Acting",
+        "name": "Jorge Ponce",
+        "original_name": "Jorge Ponce",
+        "popularity": 1.981,
+        "profile_path": "/60Hy4yoQwtUSB1isASdhqUTLjED.jpg",
+        "character": "Colaborador",
+        "credit_id": "6484959cbf31f25054b5b978",
+        "order": 5
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "talk show",
+        "id": 3741
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/lg1a0Va8FGlgwdMVMIS1z9rIvnH.jpg",
+        "id": 77555,
+        "name": "Kokain Sahili",
+        "original_name": "Fariña",
+        "overview": "1980'lerde İspanya'nın Galiçya bölgesindeki genç bir balıkçı, Latin Amerikalı tedarikçiler için Avrupa'ya giriş noktası sağlayarak zengin bir kokain kaçakçısına dönüşür.",
+        "poster_path": "/78dy0EIYmelI7uYiNP86dWmVbDx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 13.529,
+        "first_air_date": "2018-02-28",
+        "vote_average": 7.41,
+        "vote_count": 50,
+        "origin_country": [
+          "ES"
+        ]
+      },
+      {
+        "backdrop_path": "/sVxLinqLsOVrKJChCZpfoayAWox.jpg",
+        "id": 128613,
+        "name": "We Apologize For The Inconveniences",
+        "original_name": "Sentimos las molestias",
+        "overview": "Rafael Müller is an acclaimed conductor; Rafael Jiménez is an old rock glory who refuses to hang his ax. Both will fight to continue fitting in a fast and young world that insists on taking them out of the game.",
+        "poster_path": "/bciVmndIdBS3jsvogytfy2PEhbH.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 5.747,
+        "first_air_date": "2022-04-08",
+        "vote_average": 5.8,
+        "vote_count": 9,
+        "origin_country": [
+          "ES"
+        ]
+      },
+      {
+        "backdrop_path": "/xvIt3iExKYjVnWQNrPanPysjJ3A.jpg",
+        "id": 88742,
+        "name": "Vamos Sobre Ruedas",
+        "original_name": "Vamos Sobre Ruedas",
+        "overview": "",
+        "poster_path": "/b2vIio75oqdeMd1fm4o2s1MkC4l.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 29.344,
+        "first_air_date": "2019-04-03",
+        "vote_average": 5.0,
+        "vote_count": 3,
+        "origin_country": [
+          "ES"
+        ]
+      },
+      {
+        "backdrop_path": "/AhFEqj8PFvvNDQ3Ouv39kNfTraI.jpg",
+        "id": 91275,
+        "name": "Unbelievable",
+        "original_name": "Unbelievable",
+        "overview": "Genç bir kadının tecavüze uğradığına dair yalan söylemekle suçlanmasından yıllar sonra iki kadın dedektif benzer saldırıları araştırır. Gerçek olaylardan esinlenildi.",
+        "poster_path": "/jHOrNJNM03Lsjdw7nsw7TlqBOhd.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 43.402,
+        "first_air_date": "2019-09-13",
+        "vote_average": 8.0,
+        "vote_count": 652,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gder6NtVlBIpenWWMOwpbQK05Uc.jpg",
+        "id": 65708,
+        "name": "Taboo",
+        "original_name": "Taboo",
+        "overview": "James Keziah Delaney babasının bıraktığı gizemli mirası bulmak için gittiği Afrika'dan tam 10 yıl sonra 1814'te Londra'ya geri döner. Delaney haksızca yürütülen bir savaşta İngiltere ve Amerika arasında tehlikeli bir oyun oynarken kendisini Doğu Hindistan Şirketi'yle karşı karşıya bulur ve böylece maceraperest James Keziah Delaney 1800'lerin başında kendi denizcilik imparatorluğunu kurar.",
+        "poster_path": "/om1wVOuEtwH3krHutIWO9sJzkS5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 47.982,
+        "first_air_date": "2017-01-07",
+        "vote_average": 7.897,
+        "vote_count": 1263,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/mQJVtl7SYjNLwjsUZZsITmAxtdU.jpg",
+        "id": 77169,
+        "name": "Cobra Kai",
+        "original_name": "Cobra Kai",
+        "overview": "Amansız düşmanlar, kavgalı iki dövüş okulu, tazekan... Daniel ve Johnny, \"Karate Kid\" serisinin devamı niteliğindeki bu dizide West Valley'deki ezelî rekabeti kızıştırıyor.",
+        "poster_path": "/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          35
+        ],
+        "popularity": 484.596,
+        "first_air_date": "2018-05-02",
+        "vote_average": 8.2,
+        "vote_count": 6521,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/mRwV4W2BAEpte7xlawJP4fsBpmS.jpg",
+        "id": 13916,
+        "name": "Ölüm Defteri",
+        "original_name": "DEATH NOTE",
+        "overview": "Yagami Light, üniversiteye hazırlanan bir lise son sınıf öğrencisidir. Light, Japonya'nın belki de en yetenekli ve zeki öğrencisi olmasına rağmen, yaşadığı dünya ona tat vermemektedir. Yolsuzluklar ve suçlar yüzünden onun için her şey anlamını yitirmiştir.\n\nLight, bu hüznünü kendi içinde yaşarken ders sırasında bir defterin gökten düştüğünü görür. Okul çıkışı elinde olmadan defterin düştüğü yere yönelir. Defterin üstünde \"Death Note\" yazmaktadır. Defteri yerden alıp incelediğinde ise inanılmaz bir şey ile karşılaşır.\n\n\"Bu deftere adı yazılan insan ölecektir.\"\n\nEvde haberleri izlerken bir adamın bir anaokulundaki öğrencileri ve öğretmenleri rehin aldığını izler. Defterin gerçekliğini test etmek için rehin alan adamın adını deftere yazar ve 40 saniye sonra adam ölür. Defterin gerçekliği karşısında şaşkına dönen Light, kendi mükemmel dünyasını yaratmak için diğer suçlulara yönelecektir. Ancak peki ya insanlar bu durumdan haberdar olup peşine dünyanın en iyi dedektifi L'yi takarsa?",
+        "poster_path": "/tCZFfYTIwrR7n94J6G14Y4hAFU6.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          9648,
+          10765
+        ],
+        "popularity": 99.479,
+        "first_air_date": "2006-10-04",
+        "vote_average": 8.633,
+        "vote_count": 4283,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/pxeqQX4qFQ0cVxPt5SWZENV5BH3.jpg",
+        "id": 456,
+        "name": "The Simpsons",
+        "original_name": "The Simpsons",
+        "overview": "Bu animasyon komedi Springfield'de diziye adını veren aileye odaklanıyor. Baba Homer tipik bir aile babası değil. Nükleer santralde çalışarak ailesine liderlik etmeye çabalıyor ancak çoğu zaman ailesi onu yönetiyor. Sevgi dolu, mavi saçlı aile reisi anne Marge, sorun çıkaran oğlu Bart, çok başarılı kızı Lisa ve bebek Maggie ailenin diğer fertleri.",
+        "poster_path": "/vHqeLzYl3dEAutojCO26g0LIkom.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          16,
+          35
+        ],
+        "popularity": 834.384,
+        "first_air_date": "1989-12-17",
+        "vote_average": 8.015,
+        "vote_count": 10085,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wyspZaGs7CXceV3Ct7NJhcKNDkn.jpg",
+        "id": 48891,
+        "name": "Brooklyn Nine-Nine",
+        "original_name": "Brooklyn Nine-Nine",
+        "overview": "Jake, işinde iyi, yetenekli ve ekibi içinde yakalama oranı en iyi polistir. Ama öteki yandan ciddiyetten yoksun ve sıkı çalışması gerekmemiş biri olarak oldukça da rahat biridir. Ekibe yeni gelen patron, emrindekilerin “rozetin hakkını vermesi” gerektiğini düşünen biri olarak işe koyulur ve Jake’ten başlar. Bu da komik pek çok olayın yaşanmasına sebebiyet verir. Brooklyn 99, New York’lu bir grup dedektifin ekip içi ve suçlularla yaşadığı komik olaylar üstüne kurulu olacak.",
+        "poster_path": "/qYjAdP0n62dJ9WLl8WGeQj7CGPH.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          80
+        ],
+        "popularity": 473.676,
+        "first_air_date": "2013-09-17",
+        "vote_average": 8.2,
+        "vote_count": 3482,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+        "id": 1399,
+        "name": "Game of Thrones",
+        "original_name": "Game of Thrones",
+        "overview": "Krallık dediğin savaşsız olur mu? En güçlü krallığı kurup, huzuru sağlamış olsan bile bu gücü elinde nasıl koruyacaksın? Burada yanlış yapana yer yok, affetmek yok. Kuzey Krallığının hükümdarı Lord Ned Stark, uzun ve zorlu savaşlardan sonra anayurduna dönüp krallığını bütünlük içerisinde tutmayı başarmıştır. Kral Robert Baratheon ile yıllarca omuz omuza çarpışan ve Baratheon'un kral olmasını sağlayan Ned Stark'ın tek istediği kuzey sınırlarını koruyan krallığında ailesiyle ve halkıyla yaşamaktır. \n\nFakat suyun öte yanında kendi topraklarından ve krallığından kovulduğunu iddia eden Viserys Targaryen , kız kardeşi Daenerys'i barbar kavimlerin başı Han Drogo'ya vererek, güç birliği planları yapmaktadır. Tahtını büyük bir iştahla geri isteyen ama kraliyet oyunlarından habersiz olan Viserys'in planları Kral Baratheon'a ulaşır. Savaş alanında büyük cengaver olan ama ülke ve aile yönetiminde aynı başarıyı tutturamayan Baratheon'un tamamen güvenebileceği ve her yanlış hamlesini arkasından toplayacak yeni bir sağ kola ihtiyacı vardır. Kuzeyin Lordu Ned Stark bu görev için seçilen tek aday isimdir. Kış yaklaşıyor...\n\nHanedan entrikaları, kapılı kapılar ardında dönen oyunlar, birilerinin kuyusunu kazmak için düşmanın koynuna girmekten çekinmeyen kadınlar, kardeşler arası çekişmeler, dışlanmalar... Hepsi tek bir hedef için: Taht kavgası..",
+        "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 723.189,
+        "first_air_date": "2011-04-17",
+        "vote_average": 8.5,
+        "vote_count": 24677,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wbiPjTWpZMIB8ffBq7HvzAph4Ft.jpg",
+        "id": 63174,
+        "name": "Lucifer",
+        "original_name": "Lucifer",
+        "overview": "“Cehennem Lordu” Lucifer Morningstar, Los Angeles Polis Departmanı için suçluları yakalamaktadır. Ancak büyük bir sırrı vardır: Bu çekici adam, aslında yeryüzüne düşmüş bir melektir!",
+        "poster_path": "/cLz75DTxXPPR814YHZ0XhiQuEI2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          10765
+        ],
+        "popularity": 406.998,
+        "first_air_date": "2016-01-25",
+        "vote_average": 8.454,
+        "vote_count": 14893,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sokTOq0zAmPS7wCR4qd4Kca35x7.jpg",
+        "id": 69478,
+        "name": "The Handmaid's Tale",
+        "original_name": "The Handmaid's Tale",
+        "overview": "Dizi, Gilead isimli bir toplumda geçiyor. Doğal sebepler nedeniyle nüfus düşüşü yaşayan bu toplumda kadınlar devletin malı olarak kabul ediliyor. Toplumun yeniden çoğalması için üreme hizmetine zorlanan Offred, bu acımasız koşullarda hayatta kalmaya çalışıyor.",
+        "poster_path": "/tFTJ3YbOor3BtabI96QehXxEBii.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 535.703,
+        "first_air_date": "2017-04-26",
+        "vote_average": 8.2,
+        "vote_count": 2805,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/20eIP9o5ebArmu2HxJutaBjhLf4.jpg",
+        "id": 87108,
+        "name": "Çernobil",
+        "original_name": "Chernobyl",
+        "overview": "1986 senesinde Sovyet nükleer santralinde meydana gelen patlama sonrası santral işçileri ve itfaiyeciler faciayı kontrol altına almaya çalışır.",
+        "poster_path": "/87QSOjVXFwXpCcczMLhh2WRJDV5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 86.964,
+        "first_air_date": "2019-05-06",
+        "vote_average": 8.7,
+        "vote_count": 6644,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zOz6DeXeOhKRVGUuiK3WufLXQIB.jpg",
+        "id": 12971,
+        "name": "Dragon Ball Z",
+        "original_name": "ドラゴンボールゼット",
+        "overview": "\"Z\" serisinde Son Goku büyümüş, Chi-Chi ile evlenmiş ve Son Gohan adında bir çocukları olmuştur. Son Goku 24 yaşına girmiştir. Oğlu Son Gohan ise 4 yaşındadır.Ana karakterimiz, İlk seride de olduğu gibi Son Gokudur. Chi-Chi, Gohan'ı büyüyüp bir bilim adamı olması için 4 yaşında ders çalıştırmaya başlatmıştır. Bu yüzden başlarda Goku, oğluna dövüş sanatlarını öğretememiştir.Bu seride Goku geçmisini ve kim olduğunu da öğrenecektir.",
+        "poster_path": "/6VKOfL6ihwTiB5Vibq6QTfzhxA6.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10765,
+          10759
+        ],
+        "popularity": 233.967,
+        "first_air_date": "1989-04-26",
+        "vote_average": 8.3,
+        "vote_count": 4515,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/7cqKGQMnNabzOpi7qaIgZvQ7NGV.jpg",
+        "id": 76479,
+        "name": "The Boys",
+        "original_name": "The Boys",
+        "overview": "The Boys, süper kahramanların güçlerini ve şöhretlerini kötüye kullandığı bir evrende geçiyor. Kendilerini kanunu korumaya adayan ve “The Boys” olarak adlandırılan bir grup insan, yozlaşmış süper kahramanları ortadan kaldırmak için zorlu bir yolculuğa çıkar.",
+        "poster_path": "/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759
+        ],
+        "popularity": 315.912,
+        "first_air_date": "2019-07-25",
+        "vote_average": 8.5,
+        "vote_count": 10830,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sccDflItNho4OiHkzpiDxB2fUFw.jpg",
+        "id": 1418,
+        "name": "The Big Bang Theory",
+        "original_name": "The Big Bang Theory",
+        "overview": "En büyük zevkleri kuantum fiziğine kafa yormak olan üstün zekalı iki arkadaş, güzel bir kızla karşılaşınca ne yaparlar? The Big Bang Theory, işte o karşılaşma anında gerçekleşen büyük patlama ve sonrasını anlatan bir komedi dizisi. Leonard ve Sheldon adlarındaki iki arkadaşın oturdukları apartmanda yan dairelerine yeni bir komşu taşınır. Adı Penny olan bu komşu güzeller güzeli bir sarışındır. Üstelik maceralı bir ilişkiden daha yeni sapasağlam ayakta çıkmıştır. Penny, zekaları gereğinden fazla ilerlemiş, ancak kızlar konusunda oldukça geri kalmış bu yeni iki komşusuna hayat hakkında öğretebileceği bir şeyleri olduğunu düşünmektedir. Yaşanacak olanlar da zaman içinde onun ne kadar haklı olduğunu gösterecektir. ",
+        "poster_path": "/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 222.02,
+        "first_air_date": "2007-09-24",
+        "vote_average": 7.91,
+        "vote_count": 11545,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
+        "id": 119051,
+        "name": "Wednesday",
+        "original_name": "Wednesday",
+        "overview": "Zeki, alaycı ve azıcık içi geçmiş bir kız olan Wednesday Addams, Nevermore Akademisinde yeni dostlar ve düşmanlar edinirken art arda gerçekleşen cinayetleri araştırır.",
+        "poster_path": "/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          9648,
+          35
+        ],
+        "popularity": 130.303,
+        "first_air_date": "2022-11-23",
+        "vote_average": 8.433,
+        "vote_count": 8902,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+        "id": 93405,
+        "name": "Squid Game",
+        "original_name": "오징어 게임",
+        "overview": "Para sıkıntısı çeken yüzlerce oyuncu, çocuk oyunlarında yarışmaları için aldıkları tuhaf daveti kabul eder. İçeride onları cazip bir ödül ve ölüm riski beklemektedir.",
+        "poster_path": "/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          10759,
+          9648,
+          18
+        ],
+        "popularity": 603.484,
+        "first_air_date": "2021-09-17",
+        "vote_average": 7.862,
+        "vote_count": 15548,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/tKh3pc5MEjCIGV7hSJX76qi8aGA.jpg",
+        "id": 76121,
+        "name": "Darling in the FranXX",
+        "original_name": "ダーリン・イン・ザ・フランキス",
+        "overview": "Uzak bir gelecekte dünya mahvolmuş, insanlık hareketli kale şehir Plantation’u kurmuştur. Plantation’da Pilot olmak üzere yaratılmış çocuklar aynı zamanda kuş kafesi olarak bilinen Mistillteinn’da yaşamaktadırlar. Burada gökyüzündeki özgürlük ya da dış dünya hakkında hiçbir şey bilmeden hayatlarını sürdüren ve Franxx adı verilen robotların pilotluğunu yapan çocukların tek görevi Kyouryuu adı verilen devasa yaşam formlarıyla savaşmaktır. Bu çocuklar için Franxx’ler hayatlarının anlamıdır. Bir zamanlar dahi olarak bilinen Code:016 kod isimli Hiro, görevini yerine getiremeyip başarısız olduğunda varlığı anlamını yitirmiştir. Günün birinde Zero Two ismiyle kendini tanıtan ve başının iki yanında boynuzları bulunan gizemli bir kızla tanışır.",
+        "poster_path": "/yyUxeNpQoD23XWEdPXLJRGQEtHT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          18,
+          10765,
+          35
+        ],
+        "popularity": 57.364,
+        "first_air_date": "2018-01-13",
+        "vote_average": 8.6,
+        "vote_count": 1790,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/lL0rMeVqiOyVwmft6oPKQKbDYr6.jpg",
+        "id": 42589,
+        "name": "Another",
+        "original_name": "Another",
+        "overview": "Orta okul son sınıf öğrencisi olan Mei Misaki, güzelliğiyle, zekasıyla ve kişiliğiyle okulun en popüler kızıdır. Fakat mezun olamadan bir kaza sonucu ölür. Bunun üzerine arkadaşları ve öğretmenler Misaki hala yaşıyormuş gibi hareket etmeye başlarlar. Hatta mezuniyet töreninde Misaki için de kutlama yapılır.\n\nBu olaydan 26 yıl sonra Sakikabara Kouichi aynı okula transfer öğrenci olarak gelir. Okulda yine Mei Misaki adıyla ve bir gözü bantlı esrarengiz bir kız öğrenci vardır. Diğer öğrenciler bu kız hakkında konuşmaktan kaçınırlar.\n\nKouichi, Misaki ile konuşmak için yanına gittiğinde Misaki, bu okuldaki öğrencilerin ölüme çok yakın olduğunu, yakında herşeyi öğreneceğini söyler ve uzaklaşır.",
+        "poster_path": "/9uATDswMjJgrj1qIPW9YjPvUbRM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          18,
+          9648
+        ],
+        "popularity": 39.18,
+        "first_air_date": "2012-01-10",
+        "vote_average": 8.374,
+        "vote_count": 967,
+        "origin_country": [
+          "JP"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

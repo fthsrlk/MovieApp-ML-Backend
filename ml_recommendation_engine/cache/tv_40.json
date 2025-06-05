@@ -1,0 +1,803 @@
+{
+  "adult": false,
+  "backdrop_path": "/5Z40OJgNeedcAgqPRTGQzlk17Mv.jpg",
+  "created_by": [
+    {
+      "id": 1212323,
+      "credit_id": "5253328019c295794001e110",
+      "name": "David Jacobs",
+      "original_name": "David Jacobs",
+      "gender": 2,
+      "profile_path": "/dZ6kv0kWS1JQ8WtHhuRXPpC7CpC.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "1978-04-02",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Pembe Dizi"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 10751,
+      "name": "Aile"
+    }
+  ],
+  "homepage": "",
+  "id": 40,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1991-05-03",
+  "last_episode_to_air": {
+    "id": 1140882,
+    "name": "23. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "1991-05-03",
+    "episode_number": 23,
+    "episode_type": "finale",
+    "production_code": "446172B",
+    "runtime": 45,
+    "season_number": 14,
+    "show_id": 40,
+    "still_path": "/dvVOwRiEY1tsFC13xTgSLdOJKZG.jpg"
+  },
+  "name": "Dallas",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 357,
+  "number_of_seasons": 14,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Dallas",
+  "overview": "",
+  "popularity": 113.8468,
+  "poster_path": "/A1dupjBm7rXqBw2Dbz9WUsHoyxo.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2004-11-07",
+      "episode_count": 1,
+      "id": 68617,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/zcLox4M9hzmQnFFlV5E3vEpwXG9.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1978-04-02",
+      "episode_count": 5,
+      "id": 59768,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/3IQ7Zu1Tl80xBqkos9aDyAueaPa.jpg",
+      "season_number": 1,
+      "vote_average": 6.3
+    },
+    {
+      "air_date": "1978-09-23",
+      "episode_count": 24,
+      "id": 71569,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/r7ROioE4kjmNiYfuGmGam7c7jtP.jpg",
+      "season_number": 2,
+      "vote_average": 0.9
+    },
+    {
+      "air_date": "1979-09-21",
+      "episode_count": 25,
+      "id": 71570,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/8PMvTeU6h73GVmoZ49kNyz28d04.jpg",
+      "season_number": 3,
+      "vote_average": 2.3
+    },
+    {
+      "air_date": "1980-11-07",
+      "episode_count": 23,
+      "id": 71571,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/iv2NrFPGBepYphoKFPOOswDOiu6.jpg",
+      "season_number": 4,
+      "vote_average": 0.8
+    },
+    {
+      "air_date": "1981-10-09",
+      "episode_count": 26,
+      "id": 71572,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/o3Rcxa6Za02r5h7zKNpDBJRyOMS.jpg",
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1982-10-01",
+      "episode_count": 28,
+      "id": 71573,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/gXsnuxXKvUjGny0eSET1OPMBQDz.jpg",
+      "season_number": 6,
+      "vote_average": 1.0
+    },
+    {
+      "air_date": "1983-09-30",
+      "episode_count": 30,
+      "id": 71574,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/3hbURhI9WIWJcQZFTl6cgSlZF0s.jpg",
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1984-09-28",
+      "episode_count": 30,
+      "id": 71575,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/4HReCrvVpu4yqes9x2Vs1OuDGpK.jpg",
+      "season_number": 8,
+      "vote_average": 1.0
+    },
+    {
+      "air_date": "1985-09-27",
+      "episode_count": 31,
+      "id": 71576,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/v8ZRdZ5093KqRyfsLzqlXjEA3qy.jpg",
+      "season_number": 9,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1986-09-26",
+      "episode_count": 29,
+      "id": 71577,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/fraBB3HtkucyTQ5fhhylSd7Tz3i.jpg",
+      "season_number": 10,
+      "vote_average": 1.0
+    },
+    {
+      "air_date": "1987-09-25",
+      "episode_count": 30,
+      "id": 71578,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/lIJbH1vEWTZFcfM7XnOHtHyUEJp.jpg",
+      "season_number": 11,
+      "vote_average": 6.3
+    },
+    {
+      "air_date": "1988-10-28",
+      "episode_count": 26,
+      "id": 71579,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/oT7juE8fFZOnNNY92bAQXuYd6u.jpg",
+      "season_number": 12,
+      "vote_average": 1.0
+    },
+    {
+      "air_date": "1989-09-22",
+      "episode_count": 27,
+      "id": 71580,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": "/7v3LasHjTj7DIARR0uhtN5I81LS.jpg",
+      "season_number": 13,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1990-11-02",
+      "episode_count": 23,
+      "id": 71581,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": "/uZF4jDSQV5uLeSDEBLNBpctQ4QS.jpg",
+      "season_number": 14,
+      "vote_average": 10.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.8,
+  "vote_count": 212,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 112574,
+        "known_for_department": "Acting",
+        "name": "Patrick Duffy",
+        "original_name": "Patrick Duffy",
+        "popularity": 2.0631,
+        "profile_path": "/wgjqdyWEpMXpeVNkyw4XDtlpz1E.jpg",
+        "character": "Bobby Ewing",
+        "credit_id": "5253327319c295794001dc44",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1006838,
+        "known_for_department": "Acting",
+        "name": "Kimberly Foster",
+        "original_name": "Kimberly Foster",
+        "popularity": 0.6933,
+        "profile_path": "/aI6vW0VR4x6fe2vwN8B6Dsn2zUk.jpg",
+        "character": "Michelle Stevens Ewing",
+        "credit_id": "5d702497e22d280013b57861",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6840,
+        "known_for_department": "Acting",
+        "name": "Larry Hagman",
+        "original_name": "Larry Hagman",
+        "popularity": 2.5467,
+        "profile_path": "/6z5tCuu0Qhq6a0YKpqXfHmiMbD4.jpg",
+        "character": "J.R. Ewing",
+        "credit_id": "5d7019bc84448e00132923d9",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 41350,
+        "known_for_department": "Acting",
+        "name": "Ken Kercheval",
+        "original_name": "Ken Kercheval",
+        "popularity": 1.9424,
+        "profile_path": "/wZoI6GPapg0uo0C5ZYWzufMdiMo.jpg",
+        "character": "Cliff Barnes",
+        "credit_id": "5253327319c295794001dc5c",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 230125,
+        "known_for_department": "Sound",
+        "name": "Jerrold Immel",
+        "original_name": "Jerrold Immel",
+        "popularity": 1.2439,
+        "profile_path": null,
+        "credit_id": "5eef3e1c6f6a990036cd0344",
+        "department": "Sound",
+        "job": "Main Title Theme Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "southern usa",
+        "id": 531
+      },
+      {
+        "name": "texas",
+        "id": 1556
+      },
+      {
+        "name": "ranch",
+        "id": 2752
+      },
+      {
+        "name": "dallas texas",
+        "id": 5720
+      },
+      {
+        "name": "dysfunctional family",
+        "id": 10041
+      },
+      {
+        "name": "sibling rivalry",
+        "id": 11157
+      },
+      {
+        "name": "oil industry",
+        "id": 41500
+      },
+      {
+        "name": "family saga",
+        "id": 209803
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/Ao5XqVJj74hYWnnEG98MvRLBHdY.jpg",
+        "id": 3769,
+        "name": "Dynasty",
+        "original_name": "Dynasty",
+        "overview": "The saga of a wealthy Denver family in the oil business: Blake Carrington, the patriarch; Krystle, his former secretary and wife; his children: Adam, lost in childhood after a kidnapping; Fallon, pampered and spoiled; Steven, openly gay; and Amanda, hidden from him by his ex-wife, the conniving Alexis. Most of the show features the conflict between 2 large corporations, Blake's Denver Carrington and Alexis' ColbyCo.",
+        "poster_path": "/bKBTf22IDwD39GbpQ6clYQ2WCtA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 43.2149,
+        "first_air_date": "1981-01-12",
+        "vote_average": 6.483,
+        "vote_count": 116,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/z8dpMdOvqDDvmf2t5amhZ4jHjhD.jpg",
+        "id": 55,
+        "name": "North of 60",
+        "original_name": "North of 60",
+        "overview": "North of 60 is a mid-1990s Canadian television series depicting life in the sub-Arctic northern boreal forest. It first aired on CBC Television in 1992 and was syndicated around the world. It is set in the fictional community of Lynx River, a primarily Native-run town depicted as being in the Dehcho Region, Northwest Territories. Most of the characters were Dene. Some non-native characters had important roles: the restaurant/motel owner, the band manager, the nurse and the town's main RCMP officer. The show explored themes of Native poverty, alcoholism, cultural preservation and conflict over land settlements and natural resource exploitation. Originally somewhat light-hearted, it quickly became a more dramatic and ponderous series.",
+        "poster_path": "/twsoO8NCTitfW4My9wKz2p5yJou.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 17.2687,
+        "first_air_date": "1992-12-03",
+        "vote_average": 5.8,
+        "vote_count": 46,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/6rhSLEiDRWvw9MpK94KawXDz8sg.jpg",
+        "id": 50,
+        "name": "Pacific Blue",
+        "original_name": "Pacific Blue",
+        "overview": "Pacific Blue is an American crime drama series about a team of police officers with the Santa Monica Police Department who patrolled its beaches on bicycles. The show ran for five seasons on the USA Network, from March 2, 1996 to April 9, 2000, with a total of one hundred and one episodes. Often compared as \"Baywatch on bikes,\" the series enjoyed a popular run among the Network's viewers, and was popular in France, Israel, Sweden, Bulgaria, Norway, Spain, Russia, Austria, Germany, Italy, South America, Canada, Denmark, Poland, and other foreign markets.",
+        "poster_path": "/lVyEixUIkSWSuUQ1RO4fQMXcXgB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          80,
+          10768
+        ],
+        "popularity": 20.6253,
+        "first_air_date": "1996-03-02",
+        "vote_average": 5.349,
+        "vote_count": 86,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/xCyr9ay1lMgkA6HV2ugiWIFQtiR.jpg",
+        "id": 37759,
+        "name": "Dallas",
+        "original_name": "Dallas",
+        "overview": "J.R., Bobby and Sue Ellen Ewing are all back at Southfork, with plenty of secrets, schemes and betrayals in mind. This time, they're joined by the next generation of Ewings, who take ambition and deception to a new level.",
+        "poster_path": "/c76QP3y5PnZ5L1wUvRDqUuP2bd.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 14.2348,
+        "first_air_date": "2012-06-13",
+        "vote_average": 7.0,
+        "vote_count": 70,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/fmFsm4dq02k2Xxs7M887unPAiXd.jpg",
+        "id": 2883,
+        "name": "Dark Shadows",
+        "original_name": "Dark Shadows",
+        "overview": "1966'dan 71'e beş yıl ekranda kalan Dark Shadows filmi, aynı isimli Tim Burton filmine ilham kaynağı olmuştur.. Gotik bir vampir hikayesinin anlatıldığı dizide, vampirlerin yanısıra kurtadamlar, cadılar ve büyücülerle çevrili bir dünyanın sınırları da çizilir. Zengin ve çapkın bir vampir olan Barnabas, kıskanç bir cadı tarafından lanetlenip 200 yıl toprak altında kalktıktan sonra; intikam için geri döner...",
+        "poster_path": "/eRtnI7qTJIiPUmlY3J8TTM3jlT7.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765,
+          10766
+        ],
+        "popularity": 156.7062,
+        "first_air_date": "1966-06-27",
+        "vote_average": 7.185,
+        "vote_count": 84,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9vkHfS9QFporrFCTqy1OarDZIs9.jpg",
+        "id": 85,
+        "name": "Buster'dan Mektup Var",
+        "original_name": "Postcards from Buster",
+        "overview": "Postcards from Buster is a children's television series for children aged 6–12, containing both animation and live-action that originally aired on Public Broadcasting Service. It is a spin-off of the Arthur cartoon series. The show stars Arthur's best friend, 8-year-old rabbit Buster Baxter. Inspired by a 2003 episode of Arthur entitled \"Postcards from Buster\", the television series was produced by Cinar and Marc Brown Studios.\n\nIt first aired October 11, 2004, on PBS Kids Go!. Buster's interests include eating anything, reading comic books, and playing video games. Buster's personality is that of a fairly intelligent and curious child. He also believes that extraterrestrials are real. Buster's parents are divorced; in this series, Buster is seen with his father, Bo Baxter.",
+        "poster_path": "/7GZ3nM8Mod24ego7IdIi9hqSSsN.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762
+        ],
+        "popularity": 8.4229,
+        "first_air_date": "2004-10-11",
+        "vote_average": 8.3,
+        "vote_count": 82,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/koJboOgsF1KxHq7mdQp4TVadrp8.jpg",
+        "id": 65,
+        "name": "The Job",
+        "original_name": "The Job",
+        "overview": "Mike McNeil is a decorated New York City detective whose toughest assignment is himself. He's struggling to balance a challenging personal life with a job that leaves him wondering on a daily basis if he is the last sane person in New York. His unconventional approach to his job makes him a great cop, even on the most trying days. The only thing he can't figure out is why, if he's the only sane guy around, everyone's always looking at him like he's crazy.",
+        "poster_path": "/iDiiIBZCjdihpBoDKzVRhb7C9B.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 5.3794,
+        "first_air_date": "2001-03-14",
+        "vote_average": 6.6,
+        "vote_count": 58,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/aplztf8fotkLOnwBM0bNfNmlxSo.jpg",
+        "id": 1823,
+        "name": "The Love Boat",
+        "original_name": "The Love Boat",
+        "overview": "Passengers who search for romantic nights aboard a beautiful ship travelling to tropical or mysterious countries, decide to pass their vacation aboard the \"Love Boat\", where Gopher, Dr. Bricker, Isaac, Julie, and Captain Stubing try their best to please them, and sometimes help them fall in love. Things are not always so easy, but in the end, love wins.",
+        "poster_path": "/fnsnazlj2bt3Fuj0pJ7wBPmuMLO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 72.3691,
+        "first_air_date": "1977-09-24",
+        "vote_average": 6.258,
+        "vote_count": 184,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/6BlEWrhG1MVfsxo42Isrl9QJupQ.jpg",
+        "id": 3033,
+        "name": "Laverne & Shirley",
+        "original_name": "Laverne & Shirley",
+        "overview": "Best friends, roommates, and polar opposites, Laverne DeFazio and Shirley Feeney work together at the Shotz Brewery in Milwaukee and keep each other's spirits up at home.",
+        "poster_path": "/mUMK8AZ5uvJoTXqgGjYQNoIkf5N.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 15.6119,
+        "first_air_date": "1976-01-27",
+        "vote_average": 7.2,
+        "vote_count": 65,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zcEKO2vdfXAJoAnlgARyhGthLvK.jpg",
+        "id": 17635,
+        "name": "Aşk-ı Memnu",
+        "original_name": "Aşk-ı Memnu",
+        "overview": "İstanbul'un sayılı iş adamlarından biri olan Adnan Ziyagil, çok sevdiği eşi İnci öldükten sonra 17 yaşındaki kızı Nihal ve 11 yaşındaki oğlu Bülent ile köşkte bir başına kalır. Çocukların eğitimi için köşke yerleşen Matmazel Deniz de Courton, zaman içerisinde köşkte söz sahibi de olmaya başlar. Matmazel Adnan'ı yıllarca kendi içinde sevmiş olsa da, Adnan kendisinin yarı yaşında olan Bihter Yöreoğlu’na aşık olur ve onunla evlenir. Önce Bihter bir süre sonra da annesi Firdevs Yöreoğlu köşke yerleşir. Eşini kaybeden Firdevs’in hayattaki tek amacı lüks içindeki yaşamını sürdürebilmektir. Bihter annesine inat uğruna evlendiği Adnan’ı aralarındaki yaş farkına rağmen başlarda sevse de, bir süre sonra Adnan’ın manevi yeğeni hızlı çapkın Behlül Haznedar'a kapılır. Behlül ise Nihal’in küçüklüğünden beri ona aşık olduğunu anlamamazlıktan gelerek uzatmalı okuduğu üniversitede çapkın yaşamına devam eder; ta ki Bihter’le yasak bir aşkın içine girene kadar...",
+        "poster_path": "/xHulNzEqtgkTuwrRorBRXdGzHML.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "tr",
+        "genre_ids": [
+          10751,
+          18
+        ],
+        "popularity": 19.701,
+        "first_air_date": "2008-09-04",
+        "vote_average": 6.6,
+        "vote_count": 48,
+        "origin_country": [
+          "TR"
+        ]
+      },
+      {
+        "backdrop_path": "/iYfthKOg9HYGF3fJMJSig5XP4ls.jpg",
+        "id": 16934,
+        "name": "Dark Shadows",
+        "original_name": "Dark Shadows",
+        "overview": "Dark Shadows is a primetime television series which aired on NBC from January to March 1991. A re-imagining of the 1966–1971 ABC daytime gothic soap opera Dark Shadows, the revival was developed by Dan Curtis, creator of the original series.",
+        "poster_path": "/xLE7P7JFwZUQKIggwXpkBhq9wGR.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          10765
+        ],
+        "popularity": 3.3761,
+        "first_air_date": "1991-01-13",
+        "vote_average": 7.645,
+        "vote_count": 31,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9DBGiyeahKj2cPlv0F9PZVMFyZH.jpg",
+        "id": 2419,
+        "name": "George and Mildred",
+        "original_name": "George and Mildred",
+        "overview": "A middle-aged housewife feels frustrated with her mean and miserable husband, the married couple adapting to life in an up-market housing estate.",
+        "poster_path": "/Ng078hmEtYbFhTRCDSkilt5y9l.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 8.8006,
+        "first_air_date": "1976-09-06",
+        "vote_average": 6.8,
+        "vote_count": 30,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/jvK6aHHhADWld1ODQhJ2bb6kwdX.jpg",
+        "id": 68502,
+        "name": "Little Women: Dallas",
+        "original_name": "Little Women: Dallas",
+        "overview": "Follow the adventures of a group of young, vibrant little women living in Dallas. People often stare, but it's not because they're little, it's because they can command a room. The show centers around the ladies' real lives and features true tension and tenderness between a group of loyal - and sometimes disloyal - friends.",
+        "poster_path": "/9vuNXv9qRnNrap0ycJTr97rl10n.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 2.8365,
+        "first_air_date": "2016-11-02",
+        "vote_average": 9.0,
+        "vote_count": 4,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gXQK1w3bkpxj3dlz7CHiy2mzkhA.jpg",
+        "id": 12966,
+        "name": "Godzilla Island",
+        "original_name": "ゴジラアイランド",
+        "overview": "Godzilla Island was a television show spinoff of the Godzilla franchise. It premiered on October 6, 1997, and ran for a total of 256 three-minute episodes, finishing on September 30, 1998. The series was divided into 22 different stories (Sagas).  Set in 2097, most monsters live on an island out in the Pacific Ocean. The creatures living on the island include: Godzilla, Godzilla Junior, Mothra, Battra, Rodan, King Ghidorah, Mecha-King Ghidorah, Mechagodzilla, Anguirus, Gigan, Hedorah, SpaceGodzilla, Destoroyah, Baragon, King Caesar, Moguera, Megalon, Gorosaurus, Kamacuras, Jet Jaguar, and Dogora.",
+        "poster_path": "/xoGsLiaZYfxoXW9VNkQmxnP43RO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          10762,
+          10765
+        ],
+        "popularity": 5.1831,
+        "first_air_date": "1997-10-06",
+        "vote_average": 8.0,
+        "vote_count": 4,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/umiteWJE7qUkPO3vNxuISjiZVQk.jpg",
+        "id": 2595,
+        "name": "Knots Landing",
+        "original_name": "Knots Landing",
+        "overview": "The domestic adventures, misdeeds and everyday interactions of five families living on a cul-de-sac in a small California community.",
+        "poster_path": "/ohcRf8CyVpQiUw2ZTmGQ2I4fH8D.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 37.0772,
+        "first_air_date": "1979-12-27",
+        "vote_average": 6.686,
+        "vote_count": 35,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/xak4LyR9fFsuDk3fWMube0tDM7x.jpg",
+        "id": 5246,
+        "name": "Godzilla",
+        "original_name": "Godzilla",
+        "overview": "Godzilla is a 30-minute animated series co-produced between Hanna-Barbera Productions and Toho in 1978 and aired on NBC in the United States and TV Tokyo in Japan.\n\nThe series is an animated adaptation of the Japanese Godzilla films produced by Toho. The series continued to air until 1981, for a time airing in its own half-hour timeslot until its cancellation.",
+        "poster_path": "/p24jIrJOOr3r4JcrLp6UqvkbpUG.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          16,
+          10759
+        ],
+        "popularity": 3.2715,
+        "first_air_date": "1978-09-09",
+        "vote_average": 8.087,
+        "vote_count": 23,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/fyPyyWNmzH7Ugt51K8SqiI0SWNI.jpg",
+        "id": 3162,
+        "name": "Tehlike Çemberi",
+        "original_name": "Hart to Hart",
+        "overview": "Zengin ve görkemli bir çift olan Jonathan ve Jennifer Hart, her zaman kendilerini entrika ve maceraların içinde bulurlar. Sadık ve boğuk sesli hizmetçileri Max (Lionel Stander) ile birlikte, bu şık dedektifler Tehlike Çemberi 'nin beş sezonluk yayın hayatı boyunca izleyicileri keyiflendirmiştir. Sidney Sheldon tarafından yaratılan Tehlike Çemberi , çok satan romanları (Master of the Game, The Other Side Of Midnight) ve hit televizyon yapımları (I Dream of Jeannie, The Patty Duke Show) ile tanınan bir yazardır. Tehlike Çemberi, parlak ve esprili diyaloglar, muhteşem kostümler ve hiçbir zaman modası geçmeyen heyecan verici maceralarla dolu akıllı ve seksi bir dedektif draması olarak öne çıkıyor.",
+        "poster_path": "/rK7eHDVQVYwwuxf91rmSNn6ykQn.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          80
+        ],
+        "popularity": 34.6873,
+        "first_air_date": "1979-09-22",
+        "vote_average": 6.818,
+        "vote_count": 118,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dv2gfbwAPCAUgSSsAyMPZ2dta1R.jpg",
+        "id": 3575,
+        "name": "Man from Atlantis",
+        "original_name": "Man from Atlantis",
+        "overview": "Atlantis survivor Mark Harris breathes underwater, withstands extreme depth pressures and wields superhuman strength.",
+        "poster_path": "/7Gs6U8s0wTcf4DpS2nK4kM4q17W.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 10.1093,
+        "first_air_date": "1977-09-22",
+        "vote_average": 6.381,
+        "vote_count": 63,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9bKG3fEyUjDizCL164OgfFGYTUs.jpg",
+        "id": 2586,
+        "name": "Sanford and Son",
+        "original_name": "Sanford and Son",
+        "overview": "The misadventures of a cantankerous junk dealer and his frustrated son.",
+        "poster_path": "/zIGPWBFjfnOzqsMxZeQ4UmuPggQ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 48.7959,
+        "first_air_date": "1972-01-14",
+        "vote_average": 7.4,
+        "vote_count": 90,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lyAx1XlcrPaenfwvSYnOl4h4WMk.jpg",
+        "id": 3845,
+        "name": "Happy Days",
+        "original_name": "Happy Days",
+        "overview": "In 1950s Milwaukee the Cunningham family must contend with Fonzie, a motorcycle riding Casanova.",
+        "poster_path": "/sepIwNPCEhkKvFOQSjXK6tekkjR.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 56.8842,
+        "first_air_date": "1974-01-15",
+        "vote_average": 7.6,
+        "vote_count": 276,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

@@ -1,0 +1,960 @@
+{
+  "adult": false,
+  "backdrop_path": "/zocVz88wzfCd2y3RPKxI8qjhRKc.jpg",
+  "created_by": [
+    {
+      "id": 1714518,
+      "credit_id": "5883d16bc3a3684f3a00bfe9",
+      "name": "André Barro",
+      "original_name": "André Barro",
+      "gender": 2,
+      "profile_path": "/xD37vRbcp81TP24kpDFqqP0FeJW.jpg"
+    },
+    {
+      "id": 1706457,
+      "credit_id": "5883d17fc3a368063900f392",
+      "name": "Bernard Vaillot",
+      "original_name": "Bernard Vaillot",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    46
+  ],
+  "first_air_date": "2003-09-03",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Belgesel"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 80,
+      "name": "Suç"
+    }
+  ],
+  "homepage": "http://www.discovery.ca/Shows/Mayday",
+  "id": 90,
+  "in_production": true,
+  "languages": [
+    "de",
+    "fr",
+    "en",
+    "es",
+    "ja",
+    "ru"
+  ],
+  "last_air_date": "2025-04-06",
+  "last_episode_to_air": {
+    "id": 5983153,
+    "name": "10. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-04-06",
+    "episode_number": 10,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 25,
+    "show_id": 90,
+    "still_path": null
+  },
+  "name": "Uçak Kazası Raporu",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 99,
+      "logo_path": "/tAOMutfVve2or2LTYQfIa42sc33.png",
+      "name": "5",
+      "origin_country": "GB"
+    },
+    {
+      "id": 106,
+      "logo_path": "/cjw4Msu4fkMWOsV6LlA7x8ZOQ1l.png",
+      "name": "Discovery",
+      "origin_country": "CA"
+    },
+    {
+      "id": 1755,
+      "logo_path": "/mzLlbqnnLiDIzriohlvfSbWlEfR.png",
+      "name": "Sky History",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1825,
+      "logo_path": "/q9rPBG1rHbUjII1Qn98VG2v7cFa.png",
+      "name": "National Geographic Channel",
+      "origin_country": "GB"
+    },
+    {
+      "id": 6750,
+      "logo_path": "/sod2MjmV36sun77LS2EYcHi1ZFx.png",
+      "name": "National Geographic",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 229,
+  "number_of_seasons": 25,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_name": "Mayday",
+  "overview": "Sürükleyici bir belgesel dizisi olan Air Crash Investigation, yakın zamanda yaşanan büyük uçak ve helikopter kazalarını araştırarak nasıl ve neden olduklarını ortaya çıkarmaya çalışıyor. Mayday, izleyicileri sıkıntı yaşayan altı farklı uçağın içine götürerek kokpitteki ve kabindeki gerginliği ve baskıyı yeniden hissettiriyor. Ustalıkla hazırlanmış bu dramatik yeniden canlandırmalar, kurtarılan kokpit ses kayıtlarının ve hayatta kalanların ifadelerinin deşifrelerine dayanıyor. Haber görüntüleri, görgü tanıklarıyla yapılan röportajlar ve uçuşla ilgili bilgisayar grafikleri, havacılık sektöründeki tartışmaların merkezinde yer alan güvenlik konularına ışık tutuyor.",
+  "popularity": 86.4245,
+  "poster_path": "/sdAYaadnaOVEYM4Jg3mrsgdUhFf.jpg",
+  "production_companies": [
+    {
+      "id": 32205,
+      "logo_path": "/dQmrjj3YjGoXlulrQu6IHPf5Vmj.png",
+      "name": "Cineflix Productions",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2004-06-26",
+      "episode_count": 53,
+      "id": 265,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/bGc6mW2FjKmNVhYb9KF2HKQ1vGf.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2003-09-03",
+      "episode_count": 6,
+      "id": 261,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/oF4Z7159vBpSPglhETeKP6R41lL.jpg",
+      "season_number": 1,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2005-01-23",
+      "episode_count": 6,
+      "id": 260,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/x4AdQgmt04QHcYhAfZ55i1WViBb.jpg",
+      "season_number": 2,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2005-09-14",
+      "episode_count": 13,
+      "id": 259,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/2xPqKfDRVlg2WsOPycmEGZiXnOC.jpg",
+      "season_number": 3,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2007-04-15",
+      "episode_count": 10,
+      "id": 258,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/jVecrv1JengYGW6cn8C06hMVymR.jpg",
+      "season_number": 4,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2008-04-09",
+      "episode_count": 10,
+      "id": 262,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/A9aBuBAcddz5Zdl8gBSGTtvkYq1.jpg",
+      "season_number": 5,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2007-12-16",
+      "episode_count": 3,
+      "id": 263,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/4NV9F8xIBsp1zC577FYuTlO58MD.jpg",
+      "season_number": 6,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "2009-11-04",
+      "episode_count": 8,
+      "id": 264,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/4jcb73bLhuzVDtypz4Gz4Bf895f.jpg",
+      "season_number": 7,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "2009-06-10",
+      "episode_count": 2,
+      "id": 266,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/3DBuW5Ak7yfdvxQZwQFvSmCz1cS.jpg",
+      "season_number": 8,
+      "vote_average": 8.5
+    },
+    {
+      "air_date": "2010-09-08",
+      "episode_count": 8,
+      "id": 267,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/tLRNEYQQdGjgDjWAyzju3CjeOBh.jpg",
+      "season_number": 9,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2011-02-28",
+      "episode_count": 6,
+      "id": 268,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/1s1zGhEcrLs4fq2smVaUxymPas8.jpg",
+      "season_number": 10,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2011-08-12",
+      "episode_count": 13,
+      "id": 269,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/kVwTr7GOY1KBjcJJTYFwciRmrsE.jpg",
+      "season_number": 11,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2012-08-03",
+      "episode_count": 13,
+      "id": 270,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/fiFxbhv3jgik8nbptlf9yVNSYmg.jpg",
+      "season_number": 12,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2013-12-16",
+      "episode_count": 10,
+      "id": 60209,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": "/1aR5lIS1IPrE1VlnhPiaUenMJGR.jpg",
+      "season_number": 13,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2015-01-05",
+      "episode_count": 11,
+      "id": 64969,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": "/wfxI5mzChiy0DZoP78QlumwF02l.jpg",
+      "season_number": 14,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2016-01-02",
+      "episode_count": 10,
+      "id": 64970,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": "/j5KMJCfjkOnfms9unnfji9CnHsT.jpg",
+      "season_number": 15,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2016-06-07",
+      "episode_count": 10,
+      "id": 77895,
+      "name": "Sezon 16",
+      "overview": "",
+      "poster_path": "/rD84j6VpLpbNJXqqwcIYYEIlDB5.jpg",
+      "season_number": 16,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2017-02-20",
+      "episode_count": 10,
+      "id": 85287,
+      "name": "Sezon 17",
+      "overview": "",
+      "poster_path": "/pf83ig0lJofd9rdRPjQnMqbiDGV.jpg",
+      "season_number": 17,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2018-02-13",
+      "episode_count": 10,
+      "id": 98079,
+      "name": "Sezon 18",
+      "overview": "",
+      "poster_path": "/x5TwzsZhWKRSPE5qlZnBXo6FUjF.jpg",
+      "season_number": 18,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2019-01-02",
+      "episode_count": 10,
+      "id": 116653,
+      "name": "Sezon 19",
+      "overview": "",
+      "poster_path": "/hySuBQWEGDwn84jlQTjMdy6Tnx.jpg",
+      "season_number": 19,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2020-01-09",
+      "episode_count": 10,
+      "id": 140558,
+      "name": "Sezon 20",
+      "overview": "",
+      "poster_path": "/k4IEN0ycqBzkT6WvJtyjDdIiofJ.jpg",
+      "season_number": 20,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2021-04-04",
+      "episode_count": 10,
+      "id": 178151,
+      "name": "Sezon 21",
+      "overview": "",
+      "poster_path": "/szgzRP2iOo45mN3mriE2UEoklAs.jpg",
+      "season_number": 21,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2022-01-10",
+      "episode_count": 10,
+      "id": 238373,
+      "name": "Sezon 22",
+      "overview": "",
+      "poster_path": "/8lZQCLxeb8PoFw0N2vKiZayHT5w.jpg",
+      "season_number": 22,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2023-02-13",
+      "episode_count": 10,
+      "id": 325452,
+      "name": "Sezon 23",
+      "overview": "",
+      "poster_path": "/jzoQKf9WWqwMK4CscDcRXQOEFNz.jpg",
+      "season_number": 23,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "2024-02-18",
+      "episode_count": 10,
+      "id": 373805,
+      "name": "Sezon 24",
+      "overview": "",
+      "poster_path": "/9UzyP0SuiNJ93KfIZQbMpc38InU.jpg",
+      "season_number": 24,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2025-02-03",
+      "episode_count": 10,
+      "id": 440431,
+      "name": "Sezon 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 10.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Gökyüzünde yaşanan felaketler",
+  "type": "Documentary",
+  "vote_average": 8.2,
+  "vote_count": 260,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32031,
+        "known_for_department": "Acting",
+        "name": "Stephen Bogaert",
+        "original_name": "Stephen Bogaert",
+        "popularity": 1.7722,
+        "profile_path": "/iEnR0LaAnlJBwE9gDlB5r0v4XIt.jpg",
+        "character": "Narrator (voice)",
+        "credit_id": "6304866654508d007e288481",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28477,
+        "known_for_department": "Acting",
+        "name": "Jonathan Aris",
+        "original_name": "Jonathan Aris",
+        "popularity": 2.1523,
+        "profile_path": "/e3mdBI4oCXwf4locFbPKwHsAjaI.jpg",
+        "character": "Narrator (Nat Geo)",
+        "credit_id": "66098309d4fe04017c2a710d",
+        "order": 2
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "airplane accident",
+        "id": 10812
+      },
+      {
+        "name": "airplane wreck",
+        "id": 11116
+      },
+      {
+        "name": "airplane crash",
+        "id": 12617
+      },
+      {
+        "name": "crash landing",
+        "id": 160879
+      },
+      {
+        "name": "exploding airplane",
+        "id": 182185
+      },
+      {
+        "name": "mayday",
+        "id": 208489
+      },
+      {
+        "name": "plane crash",
+        "id": 249530
+      },
+      {
+        "name": "plane",
+        "id": 249953
+      },
+      {
+        "name": "approving",
+        "id": 325770
+      },
+      {
+        "name": "planes",
+        "id": 344048
+      },
+      {
+        "name": "plane crashes",
+        "id": 344049
+      },
+      {
+        "name": "plane accidents",
+        "id": 344050
+      },
+      {
+        "name": "uçak kazası raporu",
+        "id": 346101
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/9vkHfS9QFporrFCTqy1OarDZIs9.jpg",
+        "id": 85,
+        "name": "Buster'dan Mektup Var",
+        "original_name": "Postcards from Buster",
+        "overview": "Postcards from Buster is a children's television series for children aged 6–12, containing both animation and live-action that originally aired on Public Broadcasting Service. It is a spin-off of the Arthur cartoon series. The show stars Arthur's best friend, 8-year-old rabbit Buster Baxter. Inspired by a 2003 episode of Arthur entitled \"Postcards from Buster\", the television series was produced by Cinar and Marc Brown Studios.\n\nIt first aired October 11, 2004, on PBS Kids Go!. Buster's interests include eating anything, reading comic books, and playing video games. Buster's personality is that of a fairly intelligent and curious child. He also believes that extraterrestrials are real. Buster's parents are divorced; in this series, Buster is seen with his father, Bo Baxter.",
+        "poster_path": "/7GZ3nM8Mod24ego7IdIi9hqSSsN.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762
+        ],
+        "popularity": 8.4229,
+        "first_air_date": "2004-10-11",
+        "vote_average": 8.3,
+        "vote_count": 82,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2z85pmHUqfkktqDuqaxksGSW8S8.jpg",
+        "id": 70,
+        "name": "This Hour Has 22 Minutes",
+        "original_name": "This Hour Has 22 Minutes",
+        "overview": "This Hour Has 22 Minutes is a weekly Canadian television comedy that airs on CBC Television. Launched in 1993 during Canada's 35th general election, the show focuses on Canadian politics, combining news parody, sketch comedy and satirical editorials. Originally featuring Cathy Jones, Rick Mercer, Greg Thomey and Mary Walsh, the series featured satirical sketches of the weekly news and Canadian political events. The show's format is a mock news program, intercut with comic sketches, parody commercials and humorous interviews of public figures. The on-location segments are frequently filmed with slanted camera angles.",
+        "poster_path": "/shWjVJtL7NBLcGiylwWwXLm9nlR.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10763,
+          35
+        ],
+        "popularity": 89.2923,
+        "first_air_date": "1993-10-11",
+        "vote_average": 6.6,
+        "vote_count": 50,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/1HZ4hBw54AP7c2DuZPX1PreaZ8l.jpg",
+        "id": 60760,
+        "name": "Air Disasters",
+        "original_name": "Air Disasters",
+        "overview": "Harrowing stories of tragedy and triumph are brought to life through official reports, transcripts and interviews with the pilots, air traffic controllers and lucky survivors of history's most terrifying crashes. Widely considered to be the safest form of travel, air transportation is still in its infancy and when midair calamity strikes, the results are often catastrophic. From the cockpit to the cabin, from the control room to the crash scene, we uncover just what went wrong.",
+        "poster_path": "/ffMI8g8wUNFXL4UWpii9erWn5Pm.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 33.0112,
+        "first_air_date": "2011-05-15",
+        "vote_average": 8.0,
+        "vote_count": 14,
+        "origin_country": []
+      },
+      {
+        "backdrop_path": "/koJboOgsF1KxHq7mdQp4TVadrp8.jpg",
+        "id": 65,
+        "name": "The Job",
+        "original_name": "The Job",
+        "overview": "Mike McNeil is a decorated New York City detective whose toughest assignment is himself. He's struggling to balance a challenging personal life with a job that leaves him wondering on a daily basis if he is the last sane person in New York. His unconventional approach to his job makes him a great cop, even on the most trying days. The only thing he can't figure out is why, if he's the only sane guy around, everyone's always looking at him like he's crazy.",
+        "poster_path": "/iDiiIBZCjdihpBoDKzVRhb7C9B.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 5.3794,
+        "first_air_date": "2001-03-14",
+        "vote_average": 6.6,
+        "vote_count": 58,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/6rhSLEiDRWvw9MpK94KawXDz8sg.jpg",
+        "id": 50,
+        "name": "Pacific Blue",
+        "original_name": "Pacific Blue",
+        "overview": "Pacific Blue is an American crime drama series about a team of police officers with the Santa Monica Police Department who patrolled its beaches on bicycles. The show ran for five seasons on the USA Network, from March 2, 1996 to April 9, 2000, with a total of one hundred and one episodes. Often compared as \"Baywatch on bikes,\" the series enjoyed a popular run among the Network's viewers, and was popular in France, Israel, Sweden, Bulgaria, Norway, Spain, Russia, Austria, Germany, Italy, South America, Canada, Denmark, Poland, and other foreign markets.",
+        "poster_path": "/lVyEixUIkSWSuUQ1RO4fQMXcXgB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          80,
+          10768
+        ],
+        "popularity": 20.6253,
+        "first_air_date": "1996-03-02",
+        "vote_average": 5.349,
+        "vote_count": 86,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cJKGfZHkMFtbVA4m2kwmdGk8uHp.jpg",
+        "id": 100,
+        "name": "Ben Hayvan Değilim",
+        "original_name": "I Am Not an Animal",
+        "overview": "I Am Not An Animal is an animated comedy series about the only six talking animals in the world, whose cosseted existence in a vivisection unit is turned upside down when they are liberated by animal rights activists.",
+        "poster_path": "/zXhtWhYtlJVyyp5MdT7ggMJn5si.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 2.6352,
+        "first_air_date": "2004-05-10",
+        "vote_average": 8.611,
+        "vote_count": 782,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/vyPxBjOe6nF1xU0mwheK2mc3MMd.jpg",
+        "id": 66006,
+        "name": "Web of Lies",
+        "original_name": "Web of Lies",
+        "overview": "The internet is no longer a place you log on and visit; it's where you live. The home of true crime is now online. The internet is the Wild West. And if you're not careful, you too could be caught in a Web of Lies.",
+        "poster_path": "/cJ6fVEbO3n2npcuzHXfM87sgyTs.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          99
+        ],
+        "popularity": 9.1052,
+        "first_air_date": "2014-01-08",
+        "vote_average": 8.0,
+        "vote_count": 26,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/4xQf8p7jjf1BW4zs8jlituUrvbr.jpg",
+        "id": 75,
+        "name": "Two Guys and a Girl",
+        "original_name": "Two Guys and a Girl",
+        "overview": "This story revolves around the lives of three teenagers, Berg, Pete and Sharon and how their lives are entwined. It further deals with the bonds they share with each other.",
+        "poster_path": "/ulm7wLxyxDNO8kEe12oTM5efWfb.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 18.9155,
+        "first_air_date": "1998-03-10",
+        "vote_average": 7.181,
+        "vote_count": 141,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/q5ZBsCtL6gG6473M3nfR8VDQhTq.jpg",
+        "id": 76459,
+        "name": "Bayan Marple : Kütüphanedeki Ceset",
+        "original_name": "Miss Marple: The Body in the Library",
+        "overview": "Bayan Marple acilen Dolly ve Arthur Bantry'nin mülkü olan Hastington Hall'a çağrıldı. Gerçek şu ki, sabah Albay Bentry'nin kütüphanesinde, hizmetkarlar kimsenin bilmediği genç bir kadının cesedini buldular. Polisler den Ayrilarak Gizemi Cozmek için bayan marple kendi sorusturmasina baslar? Hemde Butun Versionlarini Istiyorum Tam Bolumleri Olsun ve Lutfen Hepsi Turkce Seslendirmeli Olsun  Bir RicaTesekur ederim",
+        "poster_path": "/xg7OvUZROVFKLSAiShkb2UwPEat.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 4.4594,
+        "first_air_date": "1984-12-26",
+        "vote_average": 7.4,
+        "vote_count": 36,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/kJQ2fsZ6mB16ffMA5aM4v4e3Xgu.jpg",
+        "id": 91405,
+        "name": "Gordon Ramsay: Uncharted",
+        "original_name": "Gordon Ramsay: Uncharted",
+        "overview": "Follow Gordon Ramsay as he meets with indigenous people around the globe to learn about the cultures, dishes and flavors unique to each location. Each episode concludes with Ramsay challenging himself with a local food legend by his side - putting his newfound skills to the test as they cook a feast together for the natives.",
+        "poster_path": "/bh8xg3j9lG0oaNd76Xrad03hqoP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 8.5147,
+        "first_air_date": "2019-07-21",
+        "vote_average": 7.625,
+        "vote_count": 32,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/mN5lY5ZPQSilIIn8heQmNKCjUNz.jpg",
+        "id": 20113,
+        "name": "Seven Little Monsters",
+        "original_name": "Seven Little Monsters",
+        "overview": "Seven Little Monsters is a Canadian-Chinese children's television program. It is about a family of seven monsters and their mother.",
+        "poster_path": "/4ZhgOx3Y5OmuNthwRzHSx2IVUMj.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10762,
+          10751,
+          16,
+          35,
+          10765
+        ],
+        "popularity": 17.4726,
+        "first_air_date": "2000-09-30",
+        "vote_average": 7.4,
+        "vote_count": 10,
+        "origin_country": [
+          "CA",
+          "CN"
+        ]
+      },
+      {
+        "backdrop_path": "/5IwwOoEcUkdHgeXCfqc5196DG7E.jpg",
+        "id": 125102,
+        "name": "Queen of Meth",
+        "original_name": "Queen of Meth",
+        "overview": "One of America's most notorious drug dealers, Lori Arnold, sister of actor Tom Arnold, takes a break from her mundane Ohio factory job to confront her criminal past in her Iowa hometown in this rollicking and emotional three-part series.",
+        "poster_path": "/7W5qbXV6rzMJDUHzPFVadMzhgr.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 1.3511,
+        "first_air_date": "2021-05-07",
+        "vote_average": 6.7,
+        "vote_count": 6,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/3W8OwrffCh5xXWUoHQRETJ3ohgp.jpg",
+        "id": 203450,
+        "name": "The Chernobyl Disaster",
+        "original_name": "The Chernobyl Disaster",
+        "overview": "A dramatic and detailed 3-part documentary series that reveals the events that led to the 1986 nuclear accident.",
+        "poster_path": "/afebnQxrcc854xFalTWpIeXL5FW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 2.0226,
+        "first_air_date": "2022-05-24",
+        "vote_average": 6.667,
+        "vote_count": 7,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 206936,
+        "name": "People Magazine Presents: Crimes of the 90s",
+        "original_name": "People Magazine Presents: Crimes of the 90s",
+        "overview": "People Magazine goes beyond the headlines by walking through each year of the 1990s to put a spotlight on the most intriguing and chilling crimes of the decade. Each dramatic and gripping episode reveals the true narrative behind some of the most notorious stories, from Mary Kay Letourneau's scandalous affair with a 14-year-old to the disappearance of JonBenét Ramsey. Revisiting these high-profile cases years later gives people the opportunity to grapple with lingering questions, including what was done right, what could have been done better and what is still left unanswered.",
+        "poster_path": null,
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          99
+        ],
+        "popularity": 1.4593,
+        "first_air_date": "2022-08-01",
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uTvfjVfpmfgjDG9ZnaYwi1cy7Vd.jpg",
+        "id": 72056,
+        "name": "Huskestue",
+        "original_name": "Huskestue",
+        "overview": "",
+        "poster_path": "/yaHKXiUNnRUK8X4wvIjTL0IjsbN.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "no",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 21.3387,
+        "first_air_date": "2015-04-08",
+        "vote_average": 6.8,
+        "vote_count": 4,
+        "origin_country": [
+          "NO"
+        ]
+      },
+      {
+        "backdrop_path": "/cMlK8DxAJDrBxnOFhjALs0BwgxN.jpg",
+        "id": 11376,
+        "name": "Death Valley Days",
+        "original_name": "Death Valley Days",
+        "overview": "Death Valley Days is an American radio and television anthology series featuring true stories of the old American West, particularly the Death Valley area. Created in 1930 by Ruth Woodman, the program was broadcast on radio until 1945 and continued from 1952 to 1970 as a syndicated television series, with reruns continuing through August 1, 1975.\n\nThe series was sponsored by the Pacific Coast Borax Company and hosted by Stanley Andrews, Ronald Reagan, Robert Taylor, and Dale Robertson. With the passing of Dale Robertson in 2013, all the former Death Valley Days hosts are now deceased.",
+        "poster_path": "/miogG5V6KSOV6ijH9mE4OOXFlF1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          37,
+          18
+        ],
+        "popularity": 14.5703,
+        "first_air_date": "1952-10-01",
+        "vote_average": 6.4,
+        "vote_count": 9,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/37wkPojRqJBIv71119yS1pXww1A.jpg",
+        "id": 113544,
+        "name": "The Dyatlov Pass Incident. A Documentary Series",
+        "original_name": "Перевал Дятлова: Охотники за правдой",
+        "overview": "In 1959, nine hikers had disappeared in Ural Mountains of Soviet Union. Even after 60 years, the mystery of their death remains unsolved. On February 2nd, 1959, nine hikers had disappeared in the Ural Mountains of Soviet Union. What the rescue mission saw was hard to believe: the tracks of barefoot prints were heading away from the cut open tent. During the period of several months the bodies had been located in 4 kilometers radius, some frozen to death wearing nothing but underwear or just one sock, others had their head or chest broken, eyes popped out or the tongue torn out. The mystery of Dyatlov group death remains unsolved for over 60 years. The official investigation hit the dead-end while dozens of private investigators and researchers around the world are proposing new versions of what had actually happened ranging from runaway prisoners’ attack to yeti involvement, from secret military tests to aliens. One of them is mountaineer and traveler Teodora Hadjiyska.",
+        "poster_path": "/eUfBiEb6TtG4I7gNXsIZC2QkCa.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ru",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 0.8762,
+        "first_air_date": "2020-11-16",
+        "vote_average": 9.0,
+        "vote_count": 1,
+        "origin_country": [
+          "DE",
+          "RU"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 64050,
+        "name": "Vzduch je naše moře",
+        "original_name": "Vzduch je naše moře",
+        "overview": "",
+        "poster_path": null,
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "cs",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 0.2383,
+        "first_air_date": "2003-01-06",
+        "vote_average": 9.0,
+        "vote_count": 1,
+        "origin_country": [
+          "CZ"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 115009,
+        "name": "Mayday: The Accident Files",
+        "original_name": "Mayday: The Accident Files",
+        "overview": "In this spinoff of Mayday/Air Crash Investigation, every episode examines multiple aviation disasters that prove to have similarities including; engines that separated from their aircrafts mid-flight, mismatched pilot pairings that led to deadly crashes, and improvised landings with tragic consequences.",
+        "poster_path": "/yQ1ui95yMStztgJYeQKMFhu6lSn.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 2.5476,
+        "first_air_date": "2018-07-09",
+        "vote_average": 9.5,
+        "vote_count": 4,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 6502,
+        "name": "Mantracker",
+        "original_name": "Mantracker",
+        "overview": "Mantracker is a Canadian reality television series created by Ihor Macijiwsky and produced by Bonterra Productions. It premiered in Canada in April 2006 on the Outdoor Life Network. In the United States, the show currently airs on the Science Channel and in the UK on Extreme Sports Channel. The episodes of the first six seasons feature Terry Grant, an expert tracker called the \"Mantracker\", who pursues two individuals in the remote Canadian or American wilderness. The pursued, referred to as \"Prey\", must elude capture while attempting to reach a finish line within thirty-six hours. In season 7, Chad Savage Lenz replaces Terry Grant as the Mantracker.",
+        "poster_path": "/bNawJ0SzkYrsXjHmdpcZzOGEmYy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          37,
+          10759
+        ],
+        "popularity": 3.345,
+        "first_air_date": "2006-04-12",
+        "vote_average": 6.0,
+        "vote_count": 5,
+        "origin_country": [
+          "CA"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

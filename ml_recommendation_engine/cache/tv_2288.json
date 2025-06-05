@@ -1,0 +1,1003 @@
+{
+  "adult": false,
+  "backdrop_path": "/7w165QdHmJuTHSQwEyJDBDpuDT7.jpg",
+  "created_by": [
+    {
+      "id": 54869,
+      "credit_id": "52572f17760ee3776a320b04",
+      "name": "Paul T. Scheuring",
+      "original_name": "Paul T. Scheuring",
+      "gender": 2,
+      "profile_path": "/2hNYumD0sMCDezKvTtDwginHP4L.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2005-08-29",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Aksiyon & Macera"
+    },
+    {
+      "id": 80,
+      "name": "Suç"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    }
+  ],
+  "homepage": "http://www.fox.com/prisonbreak",
+  "id": 2288,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2017-05-30",
+  "last_episode_to_air": {
+    "id": 1303881,
+    "name": "9. Bölüm",
+    "overview": "",
+    "vote_average": 8.1,
+    "vote_count": 32,
+    "air_date": "2017-05-30",
+    "episode_number": 9,
+    "episode_type": "finale",
+    "production_code": "1AZM09",
+    "runtime": 45,
+    "season_number": 5,
+    "show_id": 2288,
+    "still_path": "/d21YkZrWDPGXzqvM4PVqWwU0vJN.jpg"
+  },
+  "name": "Prison Break",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 19,
+      "logo_path": "/1DSpHrWyOORkL9N2QHX7Adt31mQ.png",
+      "name": "FOX",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 88,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Prison Break",
+  "overview": "Haksız yere suçlandığını düşündüğü abisini hapishaneden kurtarmak isteyen Michael Scofield, nerdeyse kusursuz bir plan yapar. Lincoln Burrows'a yüklenen suç, kendilerini temize çıkarabilecekleri bir suç değildir. Devletin de işin içine karıştığını öğrendiklerinde kaçmaktan başka çareleri kalmaz. Michael planını uygulamaya sokar ve kaçış başlar.",
+  "popularity": 101.1369,
+  "poster_path": "/5E1BhkCgjLBlqx557Z5yzcN0i88.jpg",
+  "production_companies": [
+    {
+      "id": 22548,
+      "logo_path": null,
+      "name": "Adelstein-Parouse Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 1556,
+      "logo_path": "/31h94rG9hzjprXoYNy3L1ErUya2.png",
+      "name": "20th Century Fox Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 12007,
+      "logo_path": null,
+      "name": "RAT Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 210499,
+      "logo_path": null,
+      "name": "Dawn Olmstead Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 210500,
+      "logo_path": null,
+      "name": "Adelstein Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 210501,
+      "logo_path": null,
+      "name": "One Light Road Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 333,
+      "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
+      "name": "Original Film",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2005-10-11",
+      "episode_count": 10,
+      "id": 7135,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/r4I83zsnxdkoyrVcYpnmgT9EcUD.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2005-08-29",
+      "episode_count": 22,
+      "id": 7132,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/jnMW2qcOjgwsjHx6QkOIeXShsLi.jpg",
+      "season_number": 1,
+      "vote_average": 8.7
+    },
+    {
+      "air_date": "2006-08-21",
+      "episode_count": 22,
+      "id": 7133,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/sRZyjc1BVnVFnTkeU33TG9C6Djd.jpg",
+      "season_number": 2,
+      "vote_average": 8.6
+    },
+    {
+      "air_date": "2007-09-17",
+      "episode_count": 13,
+      "id": 7134,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/vlEtqQFkz4oqXaKo5tQzR2gtmWw.jpg",
+      "season_number": 3,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2008-09-01",
+      "episode_count": 22,
+      "id": 7136,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/iPngrAzUJ6tilHiZLYUXAqmazsO.jpg",
+      "season_number": 4,
+      "vote_average": 8.5
+    },
+    {
+      "air_date": "2017-04-04",
+      "episode_count": 9,
+      "id": 75021,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/1YwzKyKGen3498Ui2AjD9FUTkG2.jpg",
+      "season_number": 5,
+      "vote_average": 8.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.078,
+  "vote_count": 5406,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3972,
+        "known_for_department": "Acting",
+        "name": "Wentworth Miller",
+        "original_name": "Wentworth Miller",
+        "popularity": 6.7793,
+        "profile_path": "/js09M98qo6rEyyIlTbRMI6XiZJH.jpg",
+        "character": "Michael Scofield",
+        "credit_id": "52572f15760ee3776a320742",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10862,
+        "known_for_department": "Acting",
+        "name": "Dominic Purcell",
+        "original_name": "Dominic Purcell",
+        "popularity": 3.0101,
+        "profile_path": "/30giDZ53c8f72pPbXCLK9xMSAnw.jpg",
+        "character": "Lincoln Burrows",
+        "credit_id": "52572f15760ee3776a320786",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 86468,
+        "known_for_department": "Acting",
+        "name": "Sarah Wayne Callies",
+        "original_name": "Sarah Wayne Callies",
+        "popularity": 3.4127,
+        "profile_path": "/uBtFalxNR1O0eARg0lsyLXkoJNG.jpg",
+        "character": "Sara Tancredi",
+        "credit_id": "52572f15760ee3776a320764",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17342,
+        "known_for_department": "Acting",
+        "name": "Paul Adelstein",
+        "original_name": "Paul Adelstein",
+        "popularity": 2.6549,
+        "profile_path": "/9qkGnEWPzGayZg9gaB4xbP8UL4g.jpg",
+        "character": "Paul Kellerman",
+        "credit_id": "52572f16760ee3776a32080a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17345,
+        "known_for_department": "Acting",
+        "name": "Rockmond Dunbar",
+        "original_name": "Rockmond Dunbar",
+        "popularity": 2.6066,
+        "profile_path": "/gim7zIrYkbKWsp2Kod7fp74fWyI.jpg",
+        "character": "Benjamin 'C-Note' Franklin",
+        "credit_id": "52572f16760ee3776a32085a",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17343,
+        "known_for_department": "Acting",
+        "name": "Robert Knepper",
+        "original_name": "Robert Knepper",
+        "popularity": 4.2312,
+        "profile_path": "/lRncjvgCIm1muIkK94zJSH2i3d6.jpg",
+        "character": "Theodore 'T-Bag' Bagwell",
+        "credit_id": "52572f16760ee3776a320992",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17341,
+        "known_for_department": "Acting",
+        "name": "Amaury Nolasco",
+        "original_name": "Amaury Nolasco",
+        "popularity": 3.0419,
+        "profile_path": "/djcol6Qn1opxkj5oebTMtOnbOnc.jpg",
+        "character": "Fernando Sucre",
+        "credit_id": "52572f16760ee3776a3209d6",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 211596,
+        "known_for_department": "Acting",
+        "name": "Inbar Lavi",
+        "original_name": "Inbar Lavi",
+        "popularity": 2.7971,
+        "profile_path": "/rdcdfVavWaKc0UCCV9ufdQaLIpc.jpg",
+        "character": "Sheba",
+        "credit_id": "5c2f4e13c3a3685320a34f79",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3309,
+        "known_for_department": "Acting",
+        "name": "Augustus Prew",
+        "original_name": "Augustus Prew",
+        "popularity": 1.46,
+        "profile_path": "/37cPl9BaiCY24eMMMOxlZuTkGo7.jpg",
+        "character": "David 'Whip' Martin",
+        "credit_id": "5c2f4e2492514122ac71a0c0",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11365,
+        "known_for_department": "Acting",
+        "name": "Mark Feuerstein",
+        "original_name": "Mark Feuerstein",
+        "popularity": 2.0906,
+        "profile_path": "/1XsbDSx7hqhaY9Sjjx86iTp43S0.jpg",
+        "character": "Jacob Ness",
+        "credit_id": "5dbfbe6af1b5710010e7fee7",
+        "order": 20
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1931528,
+        "known_for_department": "Production",
+        "name": "Cathy Mickel Gibson",
+        "original_name": "Cathy Mickel Gibson",
+        "popularity": 0.5093,
+        "profile_path": null,
+        "credit_id": "6522b4baea84c700aeee7508",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1152362,
+        "known_for_department": "Production",
+        "name": "David H. Jeffery",
+        "original_name": "David H. Jeffery",
+        "popularity": 0.1142,
+        "profile_path": null,
+        "credit_id": "6522b4c20cb33516f7435cd5",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3972,
+        "known_for_department": "Acting",
+        "name": "Wentworth Miller",
+        "original_name": "Wentworth Miller",
+        "popularity": 6.7793,
+        "profile_path": "/js09M98qo6rEyyIlTbRMI6XiZJH.jpg",
+        "credit_id": "6522b4d0c50ad200eac2ffd8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10862,
+        "known_for_department": "Acting",
+        "name": "Dominic Purcell",
+        "original_name": "Dominic Purcell",
+        "popularity": 3.0101,
+        "profile_path": "/30giDZ53c8f72pPbXCLK9xMSAnw.jpg",
+        "credit_id": "6522b4d7ab5e34011bd6b318",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1231424,
+        "known_for_department": "Production",
+        "name": "Steve Beers",
+        "original_name": "Steve Beers",
+        "popularity": 0.5085,
+        "profile_path": null,
+        "credit_id": "6522b4e2ea84c700aeee751a",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45627,
+        "known_for_department": "Directing",
+        "name": "Nelson McCormick",
+        "original_name": "Nelson McCormick",
+        "popularity": 1.5057,
+        "profile_path": "/kP4UNE4NKEWmWgc6VmUkTCC5bz3.jpg",
+        "credit_id": "6522b4ef07216600e2daa458",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1312316,
+        "known_for_department": "Writing",
+        "name": "Vaun Wilmott",
+        "original_name": "Vaun Wilmott",
+        "popularity": 0.1449,
+        "profile_path": null,
+        "credit_id": "6522b4fac50ad2014dd281b6",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1233038,
+        "known_for_department": "Writing",
+        "name": "Michael Horowitz",
+        "original_name": "Michael Horowitz",
+        "popularity": 0.4992,
+        "profile_path": null,
+        "credit_id": "6522b505ab5e3400e1d3a2f5",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1215768,
+        "known_for_department": "Production",
+        "name": "Dawn Olmstead",
+        "original_name": "Dawn Olmstead",
+        "popularity": 0.4427,
+        "profile_path": "/yacKhcwoQ8GyBRdD87nbqXu0qEC.jpg",
+        "credit_id": "6522b528c50ad2012c1db8ca",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1215767,
+        "known_for_department": "Production",
+        "name": "Marty Adelstein",
+        "original_name": "Marty Adelstein",
+        "popularity": 0.5627,
+        "profile_path": null,
+        "credit_id": "6522b6f8c50ad200eac300fd",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11874,
+        "known_for_department": "Production",
+        "name": "Neal H. Moritz",
+        "original_name": "Neal H. Moritz",
+        "popularity": 1.9396,
+        "profile_path": "/xgCTFHhbQh3QyIT7ZvJGbEohzG8.jpg",
+        "credit_id": "6522b73cc50ad2012c1db9ee",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11091,
+        "known_for_department": "Directing",
+        "name": "Brett Ratner",
+        "original_name": "Brett Ratner",
+        "popularity": 2.4261,
+        "profile_path": "/y40YzrI2ooWiWxfisx6zCZGueEu.jpg",
+        "credit_id": "6522b750c50ad2010b028e8f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54869,
+        "known_for_department": "Writing",
+        "name": "Paul T. Scheuring",
+        "original_name": "Paul T. Scheuring",
+        "popularity": 1.9128,
+        "profile_path": "/2hNYumD0sMCDezKvTtDwginHP4L.jpg",
+        "credit_id": "6522b76a07216600c56b7337",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "prison",
+        "id": 378
+      },
+      {
+        "name": "prisoner",
+        "id": 1563
+      },
+      {
+        "name": "brother",
+        "id": 5301
+      },
+      {
+        "name": "conspiracy",
+        "id": 10410
+      },
+      {
+        "name": "escape",
+        "id": 10685
+      },
+      {
+        "name": "fugitive",
+        "id": 10718
+      },
+      {
+        "name": "wrongful imprisonment",
+        "id": 12662
+      },
+      {
+        "name": "ex-con",
+        "id": 156121
+      },
+      {
+        "name": "escaped prisoner",
+        "id": 169271
+      },
+      {
+        "name": "effects from the past",
+        "id": 239913
+      },
+      {
+        "name": "gang solves mystery",
+        "id": 317577
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/yUOFocKDW7MCC5isx4FK8A68QFp.jpg",
+        "id": 4607,
+        "name": "Lost",
+        "original_name": "Lost",
+        "overview": "Oceanic Havayolları’nın Sidney-Los Angeles seferini yapan 815 sefer sayılı uçağı, okyanus üzerinden geçerken, manyetik bir alana kapılarak büyük bir adaya düşer. Fakat önceleri sıradan, tropik bir ada gibi görünen bu kara parçasının, kazazedelerin her birinin hayatını farklı biçimde değiştireceğinden habersizdirler. \n\nAdada sandıklarından daha fazla zaman mahsur kalan Oceanic Havayolları yolcuları her gün yeni bir sürprizle karşılaştıkları bu gizemli adada hayatta kalabilmek ve ne olursa olsun bir yolunu bulup adadan kurtulmak ya da anakaraya haber ulaştırmak için mücadeleye girerler. Öte yandan hem ormanın derinliklerinden gelen 'Diğer ada sakinleri', kara bir duman, silahlı bir Fransız kadın, üniformalı iskeletler, terkedilmiş ambarlar adadan kurtulmak isteyenleri bekleyen cevaplanmamış sorular... \n\nEn İyi Televizyon Dizisi dalında Altın Küre ve Emmy Ödüllü Lost, 6 sezon boyunca televizyon seyircisini ekran başına kitlemeyi başaran, 2000'li yılların kendi fenomenini yaratamış, en çok izlenen dizilerinden biri. Ayrıca oyuncu kadrosuna da kazandırdığı ödüller ve adaylıklarla da televizyon ve sinema dünyasında yeni yıldızlar yaratan LOST fenomeni, hem teknik ekibi, hem yazar ve yapımcı kadrosuyla en çok konuşulan, üzerine en çok komplo teorisi ve senaryo üretilen televizyon yapımı olma özelliğini koruyor...",
+        "poster_path": "/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          10759,
+          18
+        ],
+        "popularity": 94.2348,
+        "first_air_date": "2004-09-22",
+        "vote_average": 7.945,
+        "vote_count": 4526,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/aSGSxGMTP893DPMCvMl9AdnEICE.jpg",
+        "id": 1405,
+        "name": "Dexter",
+        "original_name": "Dexter",
+        "overview": "O, 'ince ruhlu' bir katil. O, Miami'de yaşanan cinayetleri araştıran bir 'kan' inceleme uzmanı. O, dünyaya adalet sağlamak için öldürüyor. Onun adı Dexter ve düzenin adaletini kişisel bakışa göre sağlamak hayatta kalma amacı.\n\nHem işinin ehli bir seri katil hem de sosyal kişilikli bir adam portresi çizen Dexter Morgan, 2006 yılından itibaren kendi ahlak anlayışına göre kötüleri yer yüzünden silmeye devam etti. Yayınlandığı yıldan itibaren onlarca televizyon ödülüne aday gösterilen, Emmy ve Altın Küre ödüllü Dexter, televizyon tarihinin de en sıra dışı karakterlerinden birini ekranlara taşıdı.",
+        "poster_path": "/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 118.5404,
+        "first_air_date": "2006-10-01",
+        "vote_average": 8.214,
+        "vote_count": 4644,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9faGSFi5jam6pDWGNd0p8JcJgXQ.jpg",
+        "id": 1396,
+        "name": "Breaking Bad",
+        "original_name": "Breaking Bad",
+        "overview": "Kanserden öleceğini öğrenen bir kimya öğretmeni, ailesinin geleceğini garanti altına almak için metamfetamin üretip satmak üzere eski bir öğrencisiyle kafa kafaya verir.",
+        "poster_path": "/ineLOBPG8AZsluYwnkMpHRyu7L.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 116.064,
+        "first_air_date": "2008-01-20",
+        "vote_average": 8.925,
+        "vote_count": 15512,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/xK4mVHb3eI9fVdYogVEoVBaoIAv.jpg",
+        "id": 1104,
+        "name": "Mad Men",
+        "original_name": "Mad Men",
+        "overview": "1960’lar... Reklamcılığın altın çağı. Merkezinde New York’un dahi ve rekabetçi çocukları. Başroldeyse değişen zamana ayak uydurmaya çalışan reklam gurusu Don Draper. \n\nEn İyi Drama ve Erkek Oyuncu dallarında Altın Küre kazanan Mad Men, gerçeklerle yalanlar arasındaki ince çizgiyi bulandırmaya ve 60’ların dekorunda insan doğasını irdelemeye devam ediyor. The Sopranos’un Emmy ödüllü yapımcı ve yazarı Matthew Weiner’dan gerçeğin nasıl satılabileceğine dair kışkırtıcı bir dram olan Mad Men, üç sene üst üste En İyi Dizi Emmy ve Altın Küre ödülünü kazanarak başarısını ispatladı.",
+        "poster_path": "/7v8iCNzKFpdlrCMcqCoJyn74Nsa.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 39.8379,
+        "first_air_date": "2007-07-19",
+        "vote_average": 8.1,
+        "vote_count": 1296,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qmRUwosX4BsCj6QanpBYScLl3Sp.jpg",
+        "id": 1044,
+        "name": "Yeryüzü",
+        "original_name": "Planet Earth",
+        "overview": "Panet Earth, BBC tarafından üretilmiş Emmy ödüllü ve yüksek çözünürlükte çekilen ilk doğa belgeseli dizisidir. İlk kez 2006 yılında BBC'de yayınlanan ve 11 bölümden oluşan diziyi David Attenborough seslendirmiştir. 200 ayrı bölgede 40 kameraman ile 2000 gün çekim yapılarak 5 yılda tamamlanan bu belgesel, dünyanın en pahalı doğa belgeseli olarak kabul edilmiştir. Gezegenimizi daha önce benzeri görülmemiş bir şekilde izleyiciye sunuyor. Eşine az rastlanan ve aklın alamayacağı boyuttaki çekimlerle gezegenin en sevilen, en vahşi ve en zor görüntülenen hayvanlarıyla yaşanan özel anlar izleyiciler için baştan çıkarıcı bir televizyon deneyimi sunuyor.",
+        "poster_path": "/mfXulHiALTloIqivuC4Q3lI3RGw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 7.0304,
+        "first_air_date": "2006-03-05",
+        "vote_average": 8.571,
+        "vote_count": 1122,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/jV4FYuqYgdMfM8n9xqYmpBl1eZu.jpg",
+        "id": 1215,
+        "name": "Californication",
+        "original_name": "Californication",
+        "overview": "Filmin baş karakteri Hank Moody yetenekli bir yazardır. Lakin uzun zamandır bir şey üretemiyordur. Aynı zamanda kızı Becca Moody için iyi bir baba olmaya çalışmasına ve kızının annesi Karen ile tekrar birlikte yaşamak istemesine rağmen karmaşık özel hayatından dolayı bunu bir türlü istikrarlı bir şekilde gerçekleştiremez. Hank hayatında karışıklığa Kaliforniya'da yaşamanın neden olduğunu bazen belirtir. Kızı ve kızının annesi Karen ile eskiden mutlu yaşadıkları eyalete geri dönmek istemektedir. Dizi büyük ölçüde Hank Moody karakteri üzerinde döner. Dizi bölümleri aynı zamanda yan karakterler olan Hank'in menejeri Charlie Runkle ve onun karısı Marcy Runkle'ın hikayeleri üzerine döner. Bu 5 karakterin dışındaki karakterler ise sezonluk veya bölümlük olarak diziye katılır. Charlie ve Marcy Runkle'ın evliliği ve ilişkileri sorunludur. Charlie ve Hank sevdikleriyle ilişkilerini düzeltmek istemelerine rağmen özel hayatlarında yaptıkları hatalar sevdikleri ile büyük sorunlar oluşturmaktadır. Hank karşı cins için mıknatıs gibi bir kişidir. Charlie ise bir süre sonra kadınlar konusunda Hank gibi birisi olmak istediğine karar verir.",
+        "poster_path": "/jPqOY8cq9KXQN4bD7zJGHCNvcb4.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 27.1873,
+        "first_air_date": "2007-08-13",
+        "vote_average": 7.644,
+        "vote_count": 1169,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/be6mDIMv7cg8duWkcYVnTB8rphO.jpg",
+        "id": 1973,
+        "name": "24",
+        "original_name": "24",
+        "overview": "24, bütün sezonun bir günde geçtiği, 24 bölümün her birinin bir saati kapsadığı ve gerçek zamanlı olarak anlatıldığı özgün bir dizidir.  Keifer Sutherland'in canlandırdığı CTU (Terörle Mücadele Birimi) Ajanı Jack Bauer, cumhurbaşkanlığı suikast girişimleri, siber saldırılar ve termonükleer patlamalar gibi terörist planlarının yanı sıra hükümet ve şirket yolsuzluklarının da önüne geçer.",
+        "poster_path": "/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          80
+        ],
+        "popularity": 81.451,
+        "first_air_date": "2001-11-06",
+        "vote_average": 7.786,
+        "vote_count": 1597,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/siA2d4PNn4JVFZAwfIYx4pnKCaK.jpg",
+        "id": 46648,
+        "name": "True Detective",
+        "original_name": "True Detective",
+        "overview": "Louisiana Cinayet Masası'nda görev yapan dedektif Rust Cohle ve Martin Hart bir seri katilin peşine düşerler. Beraber çalışan ikilinin, takip derinleştikçe kendi hayatlarının da içinden çıkılmaz bir duruma gelmesi kaçınılmaz olacaktır. 17 yıl boyunca bir seri katili yakalamak için iz süren dedektifler, yıllar sonra davanın tekrar ele alınması ile beraber kendilerini sorgu masasında bulurlar.",
+        "poster_path": "/cuV2O5ZyDLHSOWzg3nLVljp1ubw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 43.1416,
+        "first_air_date": "2014-01-12",
+        "vote_average": 8.286,
+        "vote_count": 3637,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/bT7pArYmcE91iCTec5H7pjrVbSu.jpg",
+        "id": 63351,
+        "name": "Narcos",
+        "original_name": "Narcos",
+        "overview": "Uyuşturucu İle Mücadele Dairesi’nde çalışan bir Meksikalı bir ajan olan Javier Pena, ünlü Kolombiyalı uyuşturucu kaçakçısı Pablo Escobar’ı yakalamak için Birleşik Devletler tarafından Kolombiya’ya yollanır. Escobar'ın gerçek hayat hikayesinden uyarlanan dizi, dünya çapına yayılmış bir uyuşturucu şebekesini engellemeye çalışan kolluk kuvvetlerini konu ediniyor.",
+        "poster_path": "/rTmal9fDbwh5F0waol2hq35U4ah.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 32.7859,
+        "first_air_date": "2015-08-28",
+        "vote_average": 8.044,
+        "vote_count": 2944,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
+        "id": 57243,
+        "name": "Doctor Who",
+        "original_name": "Doctor Who",
+        "overview": "Bu Doktor bambaşka bir doktor. Adı, karakteri, tavırları her şeyiyle bir muamma. Rose Tyler adında bir kadın, kendisini Doktor diye adlandıran gizemli bir yabancıyla tanışır ve bundan sonra hayatı baştan sona değişir. Kısa süre içerisinde ailesi de dahil bütün dünyanın tehlike altında olduğunu öğrenir. Yapması gereken ise kurtuluş yolunu bulmaktır.",
+        "poster_path": "/4edFyasCrkH4MKs6H4mHqlrxA6b.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10765
+        ],
+        "popularity": 180.0137,
+        "first_air_date": "2005-03-26",
+        "vote_average": 7.5,
+        "vote_count": 3113,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/vlG182ZY2WMzD5bjFZNnhyvv5V4.jpg",
+        "id": 40008,
+        "name": "Hannibal",
+        "original_name": "Hannibal",
+        "overview": "Will Graham FBI ile birlikte bir seri katilin peşinde olan yetenekli bir suçlu profili çıkarma uzmanıdır. Graham’in kendine özgü düşünme tarzı ona, herkesle empati kurma yeteneği vermiştir. Onları farklı kılanın ne olduğunu her zaman bilir. Ancak yakalamaya çalıştığı son katilin zihni, Will için bile oldukça karmaşık bir yapıya sahiptir. Bu nedenle ülkenin ileri gelen psikiyatrlarından biri olan Dr. Lecter’dan yardım ister. Dahi doktorun uzmanlığıyla silahlanan Will ve Hannibal, mükemmel bir ortaklık kurarlar. Hatta ikilinin yakalayamayacağı bir katil olmadığı düşünülür.",
+        "poster_path": "/pbV2eLnKSIm1epSZt473UYfqaeZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 33.1514,
+        "first_air_date": "2013-04-04",
+        "vote_average": 8.2,
+        "vote_count": 2598,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2eIlCirgcvEwmCSYh2wDfz5Sxvz.jpg",
+        "id": 46952,
+        "name": "The Blacklist",
+        "original_name": "The Blacklist",
+        "overview": "FBI'ın arananlar listesindeki kaçak, diğer kötüleri yakalamaları için FBI'a yardım teklifinde bulunur; tek şartı çaylak profil uzmanı Elizabeth Keen'in ortağı olmasıdır.",
+        "poster_path": "/4HTfd1PhgFUenJxVuBDNdLmdr0c.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "popularity": 144.8986,
+        "first_air_date": "2013-09-23",
+        "vote_average": 7.638,
+        "vote_count": 3269,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9dTbuwQy6WoVNy9hqBAuwR1MoUU.jpg",
+        "id": 2317,
+        "name": "My Name Is Earl",
+        "original_name": "My Name Is Earl",
+        "overview": "Kimseye yararı dokunmamış bir kapkaçcının hayat felsefesi piyangodan 100 bin dolar kazanınca baştan aşağı değişiyor. Kazandığı para ona 'yar olmayan' Earl, geçirdiği kazadan sonra karma felsefesine sığınıyor. My Name Is Earl'ün başkahramanı, 'iyilik yapıp, iyilik bulma' peşinde...\n\n'Büyükannenizin evine giderken küçük bir kasabada ihtiyaç molası için durduğunuzda dükkana giren o adam... Hani sabahın onunda bir paket sigara, birkaç kazıkazan ve büyük boy bira alan, o haydut kılıklı adam. Ailenizle birlikte içeri girmek için, çıkmasını bekleyeceğiniz türden biri. İşte o adam benim. Benim adım Earl. Ve görünüşüm yüzünden beni bir kalıba sokmak yerine eğer beni gerçekten tanımayı denersen, zamanını boşuna harcarsın. Çünkü ben tam olarak olduğumu düşündüğün adamım.'\n\nGeçen yılın en çok izlenen komedi dizisi My Name Is Earl, baş karakteri Earl'ün ağzından çıkan bu cümlelerle başlıyor. Jason Lee'nin canlandırdığı Earl, hayatı boyunca kimseye yararı dokunmamış bir kapkaçcı. Bir gün şans yüzüne gülüyor ve kazıkazandan tam 100.000 dolar kazanıyor. Ancak sevinçten çıldırıp caddede koşmaya başladığı sırada bir araba çarpıyor ve biletini düşürüyor. Hastanedeyken talk-show programcısı Carson Daly'yi karma felsefesi üzerine konuşurken duyuyor ve bir aydınlanma anı yaşıyor. Karma felsefesine göre iyilik yaparsan karşılığında iyilik bulursun. Kötülük yaparsan da bu hayatın boyunca peşini bırakmaz felsefesinde yola çıkarak, 100 bin dolarlık bileti bu nedenle kaybettiğine karar veriyor. Ve kahramanımız hayatı boyunca yaptığı bütün kötülüklerin 259 maddeden oluşan listesini çıkararak hepsini birer birer düzeltmek için işe koyuluyor.\n\nHedefine ulaşması için Earl'e yardım edenler arasında çok parlak bir zekası olmayan kardeşi Randy (Ethan Suplee), kaldıkları motelin kat görevlisi Catalina (Nadine Velazquez), hep gittikleri barın sahibi ve eski eşinin sevgilisi Crabman (Eddie Steeples), kendine pay çıkarabileceği bir durum olduğu zamanlarda ortaya çıkan eski eş Joy (Jaime Presley) var.",
+        "poster_path": "/57shLTTkHvhLUhyP1t0lNZPoAxD.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 69.5768,
+        "first_air_date": "2005-09-20",
+        "vote_average": 7.673,
+        "vote_count": 1005,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/c4CSgKL6QfkJxsWcGYDyTxpbzpW.jpg",
+        "id": 66788,
+        "name": "Ölmek İçin On Üç Sebep",
+        "original_name": "13 Reasons Why",
+        "overview": "Lise öğrencisi Clay Jensen, bir arkadaşının trajik intiharının ardından kendini bir dizi yürek burkan gizemin ortasında bulur.\n\nİçerik Uyarısı:\n\nBu dizi; cinsel saldırı, madde bağımlılığı ve intihar tasvirleri dahil olmak üzere izleyicilerin rahatsız edici bulabileceği sahneler içermektedir. Sizin ya da tanıdığınız birinin destek almak ya da bu gibi durumlarda başvurulabilecek kurumları bulmak için yardıma ihtiyacı varsa daha fazla bilgi almak için lütfen 13ReasonsWhy.info adresini ziyaret edin.",
+        "poster_path": "/edtwCUiQPLMVEnyO9VGek50HXbm.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 33.0898,
+        "first_air_date": "2017-03-31",
+        "vote_average": 7.584,
+        "vote_count": 4291,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9YteO4VWteiPmEbWYJRAeBTQZPD.jpg",
+        "id": 1100,
+        "name": "How I Met Your Mother",
+        "original_name": "How I Met Your Mother",
+        "overview": "Ted çocuklarına yıllar önce anneleriyle nasıl tanıştığını anlatırken, Ted'in ruh ikizi için destansı arayışı büyük ölçüde geriye dönüşlerle gösteriliyor.",
+        "poster_path": "/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 119.0829,
+        "first_air_date": "2005-09-19",
+        "vote_average": 8.144,
+        "vote_count": 5206,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/p1z1B4bMf6tgUA4VLpI4smLxbCf.jpg",
+        "id": 37863,
+        "name": "Metal Simyacı",
+        "original_name": "鋼の錬金術師",
+        "overview": "Edward ve Alphonse kardeşler küçükken kaybettikleri annelerini simayayla diriltmeye çalıştılar. Ama dönüşüm başarısız sonuçlanınca Edward sol bacağını ve Alphonse'u kaybetti. Ardından sağ kolunu bedel ödeyerek karşılığında Alphonse'un ruhunu dönüşüme uğratıp bir zırha bağlamayı başardı. Ödedikleri bedel çok büyüktü. İki kardeş her şeyi eski haline getirmeye yemin etti...",
+        "poster_path": "/7qVSNBKsrER8P77DfsSQfrPK04L.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          10759,
+          16,
+          10765
+        ],
+        "popularity": 21.8207,
+        "first_air_date": "2003-10-04",
+        "vote_average": 8.2,
+        "vote_count": 924,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/uJUe985oIuRiD3hmHQYskIMc2WU.jpg",
+        "id": 62560,
+        "name": "Mr. Robot",
+        "original_name": "Mr. Robot",
+        "overview": "Gündüz yazılım güvenliği şirketinde çalışan geceleri ise sanal evrenin kahramanı olan Elliot'ın heyecan dolu dünyasına giriş yapmaya hazır olun! Merak uyandıran senaryosuyla başarılı bir psikolojik gerilim olan dizide, başroldeki Rami Malek'e Mr.Robot rolünde ünlü aktör Christian Slater eşlik ediyor.",
+        "poster_path": "/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 34.5089,
+        "first_air_date": "2015-06-24",
+        "vote_average": 8.247,
+        "vote_count": 4826,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/mcgZDwhMlrFsfpbvCeg5RY5mhiu.jpg",
+        "id": 1409,
+        "name": "Sons of Anarchy",
+        "original_name": "Sons of Anarchy",
+        "overview": "Kasabasının kontrolünü ele geçirdikten sonra, bir silah kaçakçısı olan motosiklet kulübü; rakip motorculara, ırkçı gruplara ve kanuna kafa tutar.",
+        "poster_path": "/kiy8BHtIHAslh81rvFcZ4wbNGdY.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 37.9435,
+        "first_air_date": "2008-09-03",
+        "vote_average": 8.434,
+        "vote_count": 2986,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/518nMUMDxxwtBsgodhYKF1VC3uA.jpg",
+        "id": 46296,
+        "name": "Spartacus",
+        "original_name": "Spartacus",
+        "overview": "Trakyalı bir asker olan Spartacus sürekli baskısı altında kaldıkları Roma Cumhuriyeti ile birlikte Getaelar'a karşı savaşmak için Roma ordusuna katılır. İlk çarpışmadan sonra Spartacus doğuya doğru çekilen Getae ordusunu takip etmek yerine Karadeniz'e gitme emri veren Gaius Claudius Glaber'a karşı gelir ve köyüne gitmeye karar verir. Köyüne yaklaştığında Getaelar'ın orayı mahvettiğini görür ancak karısı kurtulmuştur. Geceyi bir mağarada karısıyla geçiren Spartacus'u sabah Roma ordusu bulur. Glaber, Spartacus'u köle olarak alır ve karısını da Suriyeli bir tüccara satar. Spartacus daha sonra Ludus'a girer ve karısını bulmak için savaşmaya başlar.",
+        "poster_path": "/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 56.0593,
+        "first_air_date": "2010-01-22",
+        "vote_average": 8.021,
+        "vote_count": 2616,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
+        "id": 1408,
+        "name": "House, M.D.",
+        "original_name": "House",
+        "overview": "Gregory House New Jersey Princeton Plainsboro Hastanesinin tıbbi tanı uzamanı doktordur. Kendini aşırı beğenmesi, insanları önemsememesi ve boşvermişlik gibi özelliklerine rağmen müthiş bir doktordur. Uzmanlık alanı bulaşıcı hastalıklardır. Hiç kimsenin tanı koyamadığı hastalara tanı koyarak onların hayatlarını kurtarmaktadır ancak ekibindekilerin psikolojilerini de sürekli olarak bozmaktadır. Hastanenin yöneticisi Lisa Cuddy onu sürekli gözlem altında tutmaya çalışmaktadır ve ondan asla vazgeçmemektedir çünkü en zor durumlarda hastaları kurtaran hep odur ama Dr. House yüzünden hastane sık sık dava edilmektedir.",
+        "poster_path": "/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          35
+        ],
+        "popularity": 134.857,
+        "first_air_date": "2004-11-16",
+        "vote_average": 8.592,
+        "vote_count": 6917,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

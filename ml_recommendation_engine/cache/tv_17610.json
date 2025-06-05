@@ -1,0 +1,866 @@
+{
+  "adult": false,
+  "backdrop_path": "/dAepkmD4vdfhS82r2OIqF1nwGR5.jpg",
+  "created_by": [
+    {
+      "id": 1221018,
+      "credit_id": "52585282760ee3466106bf88",
+      "name": "Shane Brennan",
+      "original_name": "Shane Brennan",
+      "gender": 2,
+      "profile_path": "/beakIfOGT00FmdlfSbjR1iNIcRy.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2009-09-22",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Aksiyon & Macera"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 80,
+      "name": "Suç"
+    },
+    {
+      "id": 9648,
+      "name": "Gizem"
+    }
+  ],
+  "homepage": "http://www.cbs.com/shows/ncis_los_angeles/",
+  "id": 17610,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2023-05-21",
+  "last_episode_to_air": {
+    "id": 4289982,
+    "name": "21. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2023-05-21",
+    "episode_number": 21,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 14,
+    "show_id": 17610,
+    "still_path": "/s7DJCSgvnCuNaMkLu5sgqWvFFtg.jpg"
+  },
+  "name": "NCIS: Los Angeles",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 323,
+  "number_of_seasons": 14,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "NCIS: Los Angeles",
+  "overview": "Özet ve Detaylar. Deniz Kuvvetleri Araştırma Servisi'nin Los Angeles'da bulunan birimi, ulusal güvenliği tehdit eden ve bir türlü yakalanamayan azılı suçluların peşindedir. G. Callen ve Sam Hanna'nın da aralarında bulunduğu özel ajanlar, suçluları yakalamaya çalışırken en son teknoloji ürünü cihazlardan yararlanır.",
+  "popularity": 124.3654,
+  "poster_path": "/TIIgcznwNfNr3KOZvxn26eKV99.jpg",
+  "production_companies": [
+    {
+      "id": 23340,
+      "logo_path": null,
+      "name": "Shane Brennan Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 23341,
+      "logo_path": null,
+      "name": "Belisarius Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 1081,
+      "logo_path": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+      "name": "CBS Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-05-21",
+      "episode_count": 1,
+      "id": 341564,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2009-09-22",
+      "episode_count": 24,
+      "id": 28487,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/6YujC5uWswGgWWR8B6oZP5EH1BP.jpg",
+      "season_number": 1,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2010-09-21",
+      "episode_count": 24,
+      "id": 28488,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/lA6gIsvtmhjomTIapF2D3TQwkcj.jpg",
+      "season_number": 2,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2011-09-20",
+      "episode_count": 24,
+      "id": 28490,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/eD92MbzIfqjWJp4jxc1nrEHDsdY.jpg",
+      "season_number": 3,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2012-09-25",
+      "episode_count": 24,
+      "id": 28491,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/jlcVC8Edr4IEruWBMEkV4l2oQCK.jpg",
+      "season_number": 4,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2013-09-24",
+      "episode_count": 24,
+      "id": 28492,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/spdjUq27PqFhY0CNDJCWAZKaSiU.jpg",
+      "season_number": 5,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2014-09-29",
+      "episode_count": 24,
+      "id": 62840,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/ojHcM9YlDVh2pSGe4f6HLU4oHep.jpg",
+      "season_number": 6,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2015-09-21",
+      "episode_count": 24,
+      "id": 70809,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/6I7uH8SmUwqwLuWyVMvdUoTJyoL.jpg",
+      "season_number": 7,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2016-09-25",
+      "episode_count": 24,
+      "id": 80156,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/mqb8PRrcsUIerrFNXkF8xSYim0o.jpg",
+      "season_number": 8,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2017-10-01",
+      "episode_count": 24,
+      "id": 91968,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/djftKmC5nAi3VqUhBkddwmb6Wli.jpg",
+      "season_number": 9,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2018-09-30",
+      "episode_count": 24,
+      "id": 108332,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/r4Pk6agjUir9hLBH2KhQzEx8OwV.jpg",
+      "season_number": 10,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2019-09-29",
+      "episode_count": 22,
+      "id": 129416,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/p0doUtM8RhXcAwHs6VmMZMQKpai.jpg",
+      "season_number": 11,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2020-11-08",
+      "episode_count": 18,
+      "id": 166728,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/oW7KROfMlBAPAS4TBjvrDYkWr5J.jpg",
+      "season_number": 12,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2021-10-10",
+      "episode_count": 22,
+      "id": 202010,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": "/TIIgcznwNfNr3KOZvxn26eKV99.jpg",
+      "season_number": 13,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2022-10-09",
+      "episode_count": 21,
+      "id": 298444,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": "/o5u2p7ya3AWuPa5g899XsJ5OFkn.jpg",
+      "season_number": 14,
+      "vote_average": 7.3
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.534,
+  "vote_count": 1181,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5577,
+        "known_for_department": "Acting",
+        "name": "Chris O'Donnell",
+        "original_name": "Chris O'Donnell",
+        "popularity": 3.239,
+        "profile_path": "/KvWBFg1aMBdu4X2PihXYL8xcFD.jpg",
+        "character": "G. Callen",
+        "credit_id": "5258527f760ee3466106bdf6",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 221019,
+        "known_for_department": "Acting",
+        "name": "Daniela Ruah",
+        "original_name": "Daniela Ruah",
+        "popularity": 1.3269,
+        "profile_path": "/9JFaU3gJrHrIuzBnbhX3CZzP6gt.jpg",
+        "character": "Kensi Blye",
+        "credit_id": "528279a119c2952853014077",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29020,
+        "known_for_department": "Acting",
+        "name": "Eric Christian Olsen",
+        "original_name": "Eric Christian Olsen",
+        "popularity": 2.2827,
+        "profile_path": "/k5Qr7dkvO4HTi3XtnDiMXcxTkg4.jpg",
+        "character": "Marty Deeks",
+        "credit_id": "52585281760ee3466106bee3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1389383,
+        "known_for_department": "Acting",
+        "name": "Medalion Rahimi",
+        "original_name": "Medalion Rahimi",
+        "popularity": 1.1503,
+        "profile_path": "/v282V5NixzGwGE9rEZKZ2XxhOoO.jpg",
+        "character": "Fatima Namazi",
+        "credit_id": "5df16d4118b7510017407df1",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1517244,
+        "known_for_department": "Acting",
+        "name": "Caleb Castille",
+        "original_name": "Caleb Castille",
+        "popularity": 0.9689,
+        "profile_path": "/lgImkD7PKn2BVJl5MgyDhpLoGLv.jpg",
+        "character": "Devin Rountree",
+        "credit_id": "5ea6e1fd18b751001d3a043f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29512,
+        "known_for_department": "Acting",
+        "name": "Gerald McRaney",
+        "original_name": "Gerald McRaney",
+        "popularity": 2.1681,
+        "profile_path": "/wT7WK9T3ZS3tQTbzPzH9RR1m6NR.jpg",
+        "character": "Hollace Kilbride",
+        "credit_id": "60181c5a1b70ae003c659df2",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 36424,
+        "known_for_department": "Acting",
+        "name": "LL Cool J",
+        "original_name": "LL Cool J",
+        "popularity": 2.5618,
+        "profile_path": "/dpOHjasRJz7rk9CVutd6L9WnWTc.jpg",
+        "character": "Sam Hanna",
+        "credit_id": "5258527f760ee3466106be1e",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1221018,
+        "known_for_department": "Writing",
+        "name": "Shane Brennan",
+        "original_name": "Shane Brennan",
+        "popularity": 0.4895,
+        "profile_path": "/beakIfOGT00FmdlfSbjR1iNIcRy.jpg",
+        "credit_id": "65ae611cf8aee800eaa793f2",
+        "department": "Crew",
+        "job": "Creator"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "undercover",
+        "id": 1568
+      },
+      {
+        "name": "navy",
+        "id": 3588
+      },
+      {
+        "name": "los angeles, california",
+        "id": 12670
+      },
+      {
+        "name": "spin off",
+        "id": 15285
+      },
+      {
+        "name": "u.s. marine",
+        "id": 158780
+      },
+      {
+        "name": "military",
+        "id": 162365
+      },
+      {
+        "name": "crime investigation",
+        "id": 189402
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/gEEp2TJC8gLVzLmdR8m7dxgPB3p.jpg",
+        "id": 61387,
+        "name": "NCIS: New Orleans",
+        "original_name": "NCIS: New Orleans",
+        "overview": "NCIS dizisinin uzantılarından biri olan yapım, New Orleans Ofisi’nin maceralarını ekranlara getirecek. Penscola’dan Mississippi’ye ve Louisiana’dan Texas’a varan bölgedeki davaları ele alacak ekibin işi, hiç kolay değil!",
+        "poster_path": "/1WJJUUZODmRTcFydLDBUtiztL6x.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          35
+        ],
+        "popularity": 47.6317,
+        "first_air_date": "2014-09-23",
+        "vote_average": 7.296,
+        "vote_count": 441,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
+        "id": 4614,
+        "name": "NCIS",
+        "original_name": "NCIS",
+        "overview": "Deniz Kuvvetleri Kriminal Araştırma Servisi ya da kısa deyişle \"NCIS\". Bu nefes kesen aksiyon drama, deniz kuvvetlerine ilişkin suçları araştıran özel bir ekibin her daim şaşırtıcı serüvenlerine odaklanıyor. Bol dozda mizahla yoğrulmuş \"NCIS\"ın başrolünde '80'lerin unutulmaz dizilerinden \"Flamingo Yolu\"yla tanıyıp sevdiğimiz Mark Harmon var.\n\nRenkli kişiliklerden oluşan NCIS ekibinin lideri; eşsiz yeteneklere sahip, eski bir deniz topçu astsubayı olan Özel Ajan Leroy Jethro Gibbs. Gibbs'in altında çalışan Özel Ajan Anthony Dinozzo ise eski bir cinayet masası dedektifi. Sezgileri çok kuvvetli. Ekibin diğer üyeleri; yetenekli bir bilimadamı olan adli uzman Abby Sciuto ve bilgisayar dahisi NCIS Özel Ajanı Timoth McGee. Ekibin en büyük yardımcısı ise adli tıp doktoru Dr. Donald \"Ducky\" Mallard. Cinayet ve casusluktan, terörizme ve denizaltı hırsızlığına kadar bu özel ajanlar, deniz kuvvetleriyle bağlantılı her türlü suçu araştırmak için dünyayı dolaşıyor.",
+        "poster_path": "/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          10759
+        ],
+        "popularity": 166.3235,
+        "first_air_date": "2003-09-23",
+        "vote_average": 7.621,
+        "vote_count": 2351,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/tLccUh3uazZ9TkLhe53UwprJhI4.jpg",
+        "id": 32798,
+        "name": "Hawaii Five-0",
+        "original_name": "Hawaii Five-0",
+        "overview": "Binbaşı Steve 5 yıldır bir kaçakçının peşindedir. Söz konusu kaçakçı ile 5 yıldır uğraşan binbaşı kaçakçı olan Victor’u yakalayamasa da onun kardeşini yakalayacaktır. Victor da bu durumda Steve’in babasını rehin alacaktır. Bu sırada bir çatışmanın ortaya çıktığı görülecektir. Bu çatışmada iki tarafın da esirlerini öldürmeleri söz konusudur. Steve Havaii’ye dönecektir. Ona Vali tarafından bir teklif sunulacaktır. Hem babasının intikamını almak hem de Havaii’yi güvende tutmak için bir ekip kuracak ve Vali tarafından desteklenecektir. Steve ilk aşamada bu teklifi reddetse de daha sonra söz konusu teklifi kabul edecektir Akula.",
+        "poster_path": "/sIdCKlmM2nU4akIvFQaAIiU8YES.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          10759
+        ],
+        "popularity": 147.5828,
+        "first_air_date": "2010-09-20",
+        "vote_average": 7.76,
+        "vote_count": 1764,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5j8IF8gWOTw2WgxYYvrAlGf9eJ6.jpg",
+        "id": 124271,
+        "name": "NCIS: Hawai'i",
+        "original_name": "NCIS: Hawai'i",
+        "overview": "Jane Tennant NCIS Pearl Harbor’ın başına geçen ilk kadın özel ajandır. O ve ekibi suçlularla mücadele ederken bir yandan da özel hayatlarındaki sorunların üstesinden gelmeye çalışır.",
+        "poster_path": "/4R8xtDx2ge0GjEOnEwoR8V8X82q.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 18.2023,
+        "first_air_date": "2021-09-20",
+        "vote_average": 7.8,
+        "vote_count": 293,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/6K7ufYt6v4Ww2LfPXkVtYE27FGP.jpg",
+        "id": 60796,
+        "name": "Stalker",
+        "original_name": "Stalker",
+        "overview": "A pair of detectives investigate stalkers in Los Angeles.\n\nStrong and focused, Lt. Beth Davis is an expert in the field of repeated harassment, driven by personal experience of being a victim. She heads the LAPD's Threat Assessment Unit, which investigates cases of stalking -- including voyeurism, cyberharassment and romantic fixation. The history of recent transfer Jack Larsen -- whose personality and questionable behavior have been an issue in the past -- may help him in his assignment to her team. Her other detectives are young but eager Ben Caldwell and deceptively intelligent Janice Lawrence. Together they try to stop situations from spinning out of control -- and to keep their personal obsessions at bay.",
+        "poster_path": "/pHw8OgL3U7Ys8D8hlbOnlgH7ExM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 7.6646,
+        "first_air_date": "2014-10-01",
+        "vote_average": 6.7,
+        "vote_count": 143,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cvlLBcQWpO9X21jDHhgPJnE2aVq.jpg",
+        "id": 1431,
+        "name": "CSI: Crime Scene Investigation",
+        "original_name": "CSI: Crime Scene Investigation",
+        "overview": "CSI: Crime Scene Investigation suç mahali araştırmasını konu alan ABD kaynaklı bir dizi filmdir. Dizinin adı, Las Vegas'da çekilmesi nedeniyle CSI: Las Vegas olarak da bilinir. Amerikan CBS televizyonu tarafından yayınlanan dizi 24 Emmy, 6 Altın Küre ödülüne aday gösterilmiştir.\n\nDizi Türkiye'de TRT tarafından Kanıt Peşinde adı altında yayınlanmaktaydı. Dizide şef Gil Grissom ve ekibi her bölümde ayrı bir davaya/cinayete açıklık getiriyorlar.",
+        "poster_path": "/9XecVOLLkbGBNnpF2PvP8vQBmww.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 152.2109,
+        "first_air_date": "2000-10-06",
+        "vote_average": 7.633,
+        "vote_count": 1283,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/p4GKINJxZoFbPEvX5NKIb4lzaL.jpg",
+        "id": 2458,
+        "name": "CSI: NY",
+        "original_name": "CSI: NY",
+        "overview": "Crime Scene Investigation (Olay Yeri İnceleme) efsanesinin son durağı CSI: NY, çözülmesi güç suç vakalarında araştırmayı yürüten ve son teknolojiler sayesinde en küçük bulguları bile derinlemesine inceleyerek olağanüstü sonuçlara ulaşan bir grup balistik uzmanının maceralarını ekrana taşıyor. Mac Taylor’ın şefliğini yaptığı, teknolojik araçları kuşanmış detektifler adaleti yerine getirmeye kararlı. Olay yeri inceleme detektiflerinin hiç uyumayan New York sokaklarında suçluların peşinden koşmaya ihtiyacı yok. Onlar delil peşinde... Kaçan suçlunun, arkasında bırakacağı bir iz onu içeri atmaları için yetip de artıyor bile. Mac Taylor’ın da dediği gibi: “New York’ta herkes yalan söyleyebilir; ama kanıtların yalan söylediği çok nadirdir.”",
+        "poster_path": "/4TGV4Bb3OPay4cHkQRlfwghv3vC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 66.1269,
+        "first_air_date": "2004-09-22",
+        "vote_average": 7.356,
+        "vote_count": 700,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/adOjU80AEcr70IPTXe6ALLyXGxF.jpg",
+        "id": 80748,
+        "name": "FBI",
+        "original_name": "FBI",
+        "overview": "Teröre ve organize suçlara karşı ülke güvenliğini sağlamak için kendi hayatlarını hiçe sayan, birbirinden yetenekli FBI ajanları nefes kesen maceralarıyla karşınızda...",
+        "poster_path": "/bircXcCsvP2DUximyQUOn5p2s4.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          10759,
+          18
+        ],
+        "popularity": 57.1096,
+        "first_air_date": "2018-09-25",
+        "vote_average": 7.9,
+        "vote_count": 832,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2eIlCirgcvEwmCSYh2wDfz5Sxvz.jpg",
+        "id": 46952,
+        "name": "The Blacklist",
+        "original_name": "The Blacklist",
+        "overview": "FBI'ın arananlar listesindeki kaçak, diğer kötüleri yakalamaları için FBI'a yardım teklifinde bulunur; tek şartı çaylak profil uzmanı Elizabeth Keen'in ortağı olmasıdır.",
+        "poster_path": "/4HTfd1PhgFUenJxVuBDNdLmdr0c.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "popularity": 144.8986,
+        "first_air_date": "2013-09-23",
+        "vote_average": 7.638,
+        "vote_count": 3269,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/goDtZCB5pFIuuSfYDvApe6iXTID.jpg",
+        "id": 32692,
+        "name": "Blue Bloods",
+        "original_name": "Blue Bloods",
+        "overview": "Ailenin reisi olan Frank Reagan (Tom Selleck) New York emniyet müdürüdür. Çoğu zaman kendisinden evvel emniyet müdürlüğü görevini yürüten babası Henry\\'nin (Len Cariou) aksine resmi ilişkilere önem vermekte ve zamanında babasının sorumsuzca sebep olduğu sorunları düzeltme çabası içine girmektedir. Frank\\'in hem gurur kaynağı olan hem de endişelenmesine neden olan büyük oğlu Danny (Donnie Wahlberg) işinde uzman bir dedektif ve bir aile babasıdır. Aynı zamanda Irak Savaşı gazisi de olan Danny kimi suçları çözerken sonucu kestirilemeyen yöntemlere başvurmaktadır. Ailenin tek kız evladı olan Erin (Bridget Moynahan) savcı yardımcılığı görevini yürüten yeni boşanmış bir annedir. Erin aynı zamanda kardeşleri ve babasının kanunun tanıdığı sınırlar içinde kalmasına yardım etmektedir. Ailenin en genci Jamie (Will Estes) Harvard Hukuk Fakültesinden yeni mezun olmuştur. Ailenin göz bebeği olan Jamie aile geleneğine sırt çeviremez ve hukuk alanındaki parlak gelecekten vazgeçerek polis olmaya karar verir. Kariyerinde yaptığı bu hamle henüz 1 yıllık avukat olan sevgilisi Sydney Davenport (Dylan Moore) tarafından da desteklenmektedir. Babasının bile haberinin olmadığı gizli bir polis soruşturmasının parçası olmak istemesiyle birlikte hem Jamie\\'nin hayatı altüst olacak, hem de ailenin ismi lekelenme tehlikesiyle karşı karşıya kalacaktır.",
+        "poster_path": "/q1WlrxnCvNhBjJ4N7V0JQXjnIBN.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 113.424,
+        "first_air_date": "2010-09-24",
+        "vote_average": 7.807,
+        "vote_count": 919,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zJUldDj1immG5ppySDNKElfDgci.jpg",
+        "id": 11129,
+        "name": "S.W.A.T.",
+        "original_name": "S.W.A.T.",
+        "overview": "S.W.A.T. is an American action/crime drama series about the adventures of a Special Weapons And Tactics team operating in an unidentified California city. A spin-off of The Rookies, the series aired on ABC from February 1975 to April 1976.\n\nLike The Rookies, S.W.A.T. was produced by Aaron Spelling and Leonard Goldberg.",
+        "poster_path": "/nqAwPI72AxzFxPevUO2LqM0OFFu.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "popularity": 8.3802,
+        "first_air_date": "1975-02-24",
+        "vote_average": 7.0,
+        "vote_count": 67,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wcSah3qVEswlDRpEMpkKBVZZYUn.jpg",
+        "id": 71714,
+        "name": "The Brave",
+        "original_name": "The Brave",
+        "overview": "Amerika'nın gizli çalışan elit kahramanlarını anlatan dizi; Savunma İstihbarat Teşkilatı Direktör Yardımcısı Patricia Campbell (Anne Heche) ve onun analist takımının etrafında geçiyor. Bu ekip başkentteki merkezlerinde, dünyanın en gelişmiş izleme teknolojisini kullanırlar. Adam Dalton ve onun özel eğitimli kahramanlardan oluşan operasyon ekibi ise, bağlılıkları ve sorumlulukları ile dünyanın en tehlikeli bölgelerinde, masumları kurtarmak ve görevlerini tamamlamak için çalışırlar.",
+        "poster_path": "/lkc4PkMhxsQUTs9NnM8hmYNP4M1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 5.5944,
+        "first_air_date": "2017-09-25",
+        "vote_average": 7.0,
+        "vote_count": 104,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/6Hfv3CbetcRQFNAe0wc9ZkXvm0w.jpg",
+        "id": 1508,
+        "name": "Dancing with the Stars",
+        "original_name": "Dancing with the Stars",
+        "overview": "The competition sees celebrities perform choreographed dance routines which are judged by a panel of renowned ballroom experts and voted on by viewers. Enjoy sizzling salsas, sambas and spray-tans as they vie for the coveted Mirrorball Trophy.",
+        "poster_path": "/xGIalfneavhfgWiE0uRXySTyAo4.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          10764
+        ],
+        "popularity": 126.3708,
+        "first_air_date": "2005-06-01",
+        "vote_average": 6.0,
+        "vote_count": 111,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/tllxDXLGOipn01rhuRmvGVHdP8o.jpg",
+        "id": 61833,
+        "name": "Bilinmeyene Yolculuk",
+        "original_name": "Expedition Unknown",
+        "overview": "Ünlü arkeolog Josh Gates dünyanın ücra yerlerini dolaşarak insan yapımı kayıp objeleri ve bilinmeyeni yeniden keşfetmeye çalışıyor.",
+        "poster_path": "/4OiM6apNckkqo04I7TO5VmQl65R.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          10764
+        ],
+        "popularity": 18.2378,
+        "first_air_date": "2015-01-08",
+        "vote_average": 7.9,
+        "vote_count": 58,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/bhG1XJ1fubbZkLnoBAxNrzzGXOg.jpg",
+        "id": 1620,
+        "name": "CSI: Miami",
+        "original_name": "CSI: Miami",
+        "overview": "Konularının uzmanı suç mahali araştırma dedektifleri, en karmaşık olaylarda bile cinayetleri çözmeye çalışıyor. Bu araştırmacı grubun başındaki isim ise eski bir cinayet dedektifi olan Horatio Caine... Miami'nin tropikal güzelliklerinin, gece yaşamının ve kültürel noktalarının fon oluşturduğu dizide detektiflerimiz, cinayetleri çözmek ve çoğu zaman kendileri için konuşamayan kurbanları temize çıkarmak için kanıt peşine düşüyorlar.",
+        "poster_path": "/pNW64pjaHvf6purNaFhq4SHYRfl.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          80
+        ],
+        "popularity": 87.3376,
+        "first_air_date": "2002-09-23",
+        "vote_average": 7.716,
+        "vote_count": 1622,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/klq1iR68MIsGPv1vUxFlouYuvZ0.jpg",
+        "id": 227854,
+        "name": "Rescue: HI-Surf",
+        "original_name": "Rescue: HI-Surf",
+        "overview": "Follow the dedicated, heroic, and adrenaline-seeking lifeguards of the North Shore of O'ahu as they save people's lives in the difficult and often life-threatening conditions of Hawaii's Seven Mile Miracle.",
+        "poster_path": "/sSJzFmxU2kG3qU9fLkEJFiQQHPS.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "popularity": 4.0275,
+        "first_air_date": "2024-09-22",
+        "vote_average": 7.1,
+        "vote_count": 24,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/mk8xFFQKjYRNNzgNg3QsmBSCuea.jpg",
+        "id": 31537,
+        "name": "Pit Bulls and Parolees",
+        "original_name": "Pit Bulls and Parolees",
+        "overview": "Follow Tia Torres, founder of Villalobos Rescue Center, and her family as they rehabilitate both felons and ill-reputed pit bulls who come together to rescue one another from their dim pasts, and bring new meaning to life.",
+        "poster_path": "/lrgRiVK3GH0jxQLmUXrWIjFA9Jc.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          10764,
+          18
+        ],
+        "popularity": 26.2036,
+        "first_air_date": "2009-10-30",
+        "vote_average": 7.9,
+        "vote_count": 28,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/37ElQkysfiWKa04GbcB2hgzVznm.jpg",
+        "id": 80079,
+        "name": "American Idol",
+        "original_name": "American Idol",
+        "overview": "The iconic series that revolutionized the television landscape by pioneering the music competition genre is back!",
+        "poster_path": "/nF1LPz7dPo6ivAqQjuLa4xGGN78.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 16.6743,
+        "first_air_date": "2018-03-11",
+        "vote_average": 6.823,
+        "vote_count": 31,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/xvCnsqnY2ARaYcZulX1Ta04AnLV.jpg",
+        "id": 64829,
+        "name": "Walking the Himalayas",
+        "original_name": "Walking the Himalayas",
+        "overview": "Explorer Levison Wood sets out to walk the length of the world's highest mountain range, from Afghanistan to Bhutan.",
+        "poster_path": "/qosAhEEjaLTpLaPqooWEhYEJfZU.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 1.1113,
+        "first_air_date": "2015-12-27",
+        "vote_average": 7.0,
+        "vote_count": 2,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/7QpvWduwoyfjlP4IO5o8SLoFSSV.jpg",
+        "id": 39112,
+        "name": "Combat Hospital",
+        "original_name": "Combat Hospital",
+        "overview": "The frantic lives of the resident doctors and nurses working at the only military hospital providing advanced surgical care in all of Southern Afghanistan. They navigate through the relentless life-and-death battles on the operating table as well as the never-ending conflicts that arise from working in a war zone military hospital.",
+        "poster_path": "/gdsjYtMBiHLIajWrqyQPO0x4mWl.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759
+        ],
+        "popularity": 3.8568,
+        "first_air_date": "2011-06-21",
+        "vote_average": 7.059,
+        "vote_count": 17,
+        "origin_country": [
+          "CA"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

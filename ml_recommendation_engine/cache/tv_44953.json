@@ -1,0 +1,1031 @@
+{
+  "adult": false,
+  "backdrop_path": "/qUP2Zy4whlLSApTELz0LaxZTBQH.jpg",
+  "created_by": [
+    {
+      "id": 1455852,
+      "credit_id": "5d2bbbcab84f940012494d39",
+      "name": "Mariano Calasso",
+      "original_name": "Mariano Calasso",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1455854,
+      "credit_id": "5d2bbc14caab6d19c59a5151",
+      "name": "Luis Zelkowicz",
+      "original_name": "Luis Zelkowicz",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2013-04-15",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Suç"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 10766,
+      "name": "Pembe Dizi"
+    }
+  ],
+  "homepage": "https://www.telemundo.com/shows/el-senor-de-los-cielos",
+  "id": 44953,
+  "in_production": true,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2024-06-26",
+  "last_episode_to_air": {
+    "id": 5428070,
+    "name": "94. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2024-06-26",
+    "episode_number": 94,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 86,
+    "season_number": 9,
+    "show_id": 44953,
+    "still_path": "/qUbyHZaTM42pnkaXl5VHO0N6UJ0.jpg"
+  },
+  "name": "El señor de los cielos",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 193,
+      "logo_path": "/mieMBXx82qgY8nmnyaH0rY2D943.png",
+      "name": "Telemundo",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 793,
+  "number_of_seasons": 9,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "es",
+  "original_name": "El señor de los cielos",
+  "overview": "",
+  "popularity": 179.5395,
+  "poster_path": "/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg",
+  "production_companies": [
+    {
+      "id": 2586,
+      "logo_path": "/nFBZvcFmGnokOMyz19gGumXhUYz.png",
+      "name": "Caracol Televisión",
+      "origin_country": "CO"
+    },
+    {
+      "id": 21123,
+      "logo_path": "/u4XmLMMAWxMOYeqHHJE7fPnA7jt.png",
+      "name": "Telemundo Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 21124,
+      "logo_path": "/cqh1ellbulvv8lbRxiOajrE7X7G.png",
+      "name": "Argos Comunicación",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "CO",
+      "name": "Colombia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2013-04-15",
+      "episode_count": 74,
+      "id": 65781,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/sZDAIEh1MwqmUhhH6vKyF7N1aNg.jpg",
+      "season_number": 1,
+      "vote_average": 8.5
+    },
+    {
+      "air_date": "2014-05-25",
+      "episode_count": 84,
+      "id": 66024,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/xDQLdam03NijKY3TVaaGrO7lSTP.jpg",
+      "season_number": 2,
+      "vote_average": 3.0
+    },
+    {
+      "air_date": "2015-04-21",
+      "episode_count": 104,
+      "id": 66025,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/ckfbhbGQwcD2jjPAdGW7cjZLeRQ.jpg",
+      "season_number": 3,
+      "vote_average": 5.3
+    },
+    {
+      "air_date": "2016-03-28",
+      "episode_count": 80,
+      "id": 76075,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/nudvHq0dznpKis36gJUvlnS0ENX.jpg",
+      "season_number": 4,
+      "vote_average": 9.0
+    },
+    {
+      "air_date": "2017-06-20",
+      "episode_count": 95,
+      "id": 89718,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/bGnkIvPsnDquv9EE11S7PTvSeZm.jpg",
+      "season_number": 5,
+      "vote_average": 9.1
+    },
+    {
+      "air_date": "2018-05-07",
+      "episode_count": 99,
+      "id": 103547,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/v8wB3ritKVJm8HQ7sp9OrASCqlS.jpg",
+      "season_number": 6,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "2019-10-14",
+      "episode_count": 75,
+      "id": 134142,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/rtFng4mHDtE7vEwiDJZikyODloc.jpg",
+      "season_number": 7,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2023-01-17",
+      "episode_count": 88,
+      "id": 324993,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/kiH4ukQGsBogLfFrG6jBT1L9L6I.jpg",
+      "season_number": 8,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2024-02-13",
+      "episode_count": 94,
+      "id": 378228,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/irLciaXnRkNCSQb0eWBCytQvIa.jpg",
+      "season_number": 9,
+      "vote_average": 10.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.92,
+  "vote_count": 3304,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237569,
+        "known_for_department": "Acting",
+        "name": "Rafael Amaya",
+        "original_name": "Rafael Amaya",
+        "popularity": 0.891,
+        "profile_path": "/5Nv2eZsMYkdZKqUU3alruMWa49v.jpg",
+        "character": "Aurelio Casillas \"El Señor de los Cielos\"",
+        "credit_id": "5259696b760ee346619dee5f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1254327,
+        "known_for_department": "Acting",
+        "name": "Isabella Castillo",
+        "original_name": "Isabella Castillo",
+        "popularity": 0.4561,
+        "profile_path": "/n3JZ5gvCyzG48yRNVIJ4s0DHm2M.jpg",
+        "character": "Diana Ahumada",
+        "credit_id": "5d2cdef7caab6d2086968c5f",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1317776,
+        "known_for_department": "Acting",
+        "name": "Carmen Aub",
+        "original_name": "Carmen Aub",
+        "popularity": 0.2446,
+        "profile_path": "/ciH48S91xQBycxdiFBK4KO4U0pl.jpg",
+        "character": "Rutila Casillas",
+        "credit_id": "665bee5d67c5f5d08b881317",
+        "order": 41
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 937505,
+        "known_for_department": "Acting",
+        "name": "Itatí Cantoral",
+        "original_name": "Itatí Cantoral",
+        "popularity": 0.9018,
+        "profile_path": "/mpkvomyNT4QkhjIVFV0M78pLTAr.jpg",
+        "character": "Blanca/Belén",
+        "credit_id": "665bee7de2d7044bb5480b27",
+        "order": 42
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 969247,
+        "known_for_department": "Acting",
+        "name": "Iván Arana",
+        "original_name": "Iván Arana",
+        "popularity": 0.3755,
+        "profile_path": "/xbhtsnfZKZpXneRYbGxlzJWusY2.jpg",
+        "character": "Ismael Casillas",
+        "credit_id": "665bee95ae290f33e2a620c7",
+        "order": 43
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1013200,
+        "known_for_department": "Acting",
+        "name": "Robinson Díaz",
+        "original_name": "Robinson Díaz",
+        "popularity": 0.3849,
+        "profile_path": "/t8zVLbZScOwv1Dt6LDVdXgGQIuw.jpg",
+        "character": "El Cabo",
+        "credit_id": "665beedfae290f33e2a620df",
+        "order": 44
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1257797,
+        "known_for_department": "Acting",
+        "name": "África Zavala",
+        "original_name": "África Zavala",
+        "popularity": 0.3069,
+        "profile_path": "/qKZFILWvHt9jG0yywSIPKYP628Q.jpg",
+        "character": "Mercedes “Mecha” de la Cruz",
+        "credit_id": "665beefa3300f3b83b8810db",
+        "order": 45
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2350102,
+        "known_for_department": "Acting",
+        "name": "Jason Romo",
+        "original_name": "Jason Romo",
+        "popularity": 0.4355,
+        "profile_path": "/ykiJeJUhtcGqfkhJazP1O6qDxiR.jpg",
+        "character": "Diego Bustamante",
+        "credit_id": "665bef187f058514a7107b6c",
+        "order": 46
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1876340,
+        "known_for_department": "Acting",
+        "name": "Marisela González",
+        "original_name": "Marisela González",
+        "popularity": 0.5913,
+        "profile_path": "/mr2upSFPEOLywvLbllMAnDQtCVp.jpg",
+        "character": "La Felina",
+        "credit_id": "665bef3ee854f35d0a50355f",
+        "order": 47
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 224319,
+        "known_for_department": "Acting",
+        "name": "Julio Bracho",
+        "original_name": "Julio Bracho",
+        "popularity": 0.6131,
+        "profile_path": "/r1qF2fQAGT4BZXMcD0KaqNudUkA.jpg",
+        "character": "Ricardo Almenar",
+        "credit_id": "665bef55a16bc95237503576",
+        "order": 48
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1608074,
+        "known_for_department": "Acting",
+        "name": "Thalí García",
+        "original_name": "Thalí García",
+        "popularity": 0.3712,
+        "profile_path": "/jvukDRq8Xd1Sqlo4VzA8TVWXYMs.jpg",
+        "character": "Berenice Ahumada",
+        "credit_id": "665bef7d7ea6ccd4a1e7aa0f",
+        "order": 49
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3663997,
+        "known_for_department": "Acting",
+        "name": "Denia Agalianou",
+        "original_name": "Denia Agalianou",
+        "popularity": 0.1138,
+        "profile_path": null,
+        "character": "Dalila Zuk",
+        "credit_id": "665befead493afb56859658a",
+        "order": 50
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2782289,
+        "known_for_department": "Acting",
+        "name": "Iván Amozurrutia",
+        "original_name": "Iván Amozurrutia",
+        "popularity": 0.3203,
+        "profile_path": "/aXZHYlKrgjs3dZDN19HtPTfB8rK.jpg",
+        "character": "Lazcano",
+        "credit_id": "665beffba16bc952375035a3",
+        "order": 51
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3251595,
+        "known_for_department": "Acting",
+        "name": "Alan Slim",
+        "original_name": "Alan Slim",
+        "popularity": 0.069,
+        "profile_path": null,
+        "character": "Jaime Rosales",
+        "credit_id": "665bf0117ea6ccd4a1e7aa24",
+        "order": 52
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1413329,
+        "known_for_department": "Acting",
+        "name": "Michel Chauvet",
+        "original_name": "Michel Chauvet",
+        "popularity": 0.2755,
+        "profile_path": "/bnNY5yJkJFEaiYnOe8DA632C81L.jpg",
+        "character": "Román",
+        "credit_id": "665bf02f7d8e209005106f8f",
+        "order": 53
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1524438,
+        "known_for_department": "Acting",
+        "name": "Mimi Morales",
+        "original_name": "Mimi Morales",
+        "popularity": 0.1607,
+        "profile_path": "/bIxB3VR3qIUQnCkUoROji0lvHqr.jpg",
+        "character": "Said Rivero",
+        "credit_id": "665bf050c178345bb2a62245",
+        "order": 54
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1199773,
+        "known_for_department": "Acting",
+        "name": "Elsy Reyes",
+        "original_name": "Elsy Reyes",
+        "popularity": 0.133,
+        "profile_path": null,
+        "character": "Carla Uzcátegui",
+        "credit_id": "665bf06bd42cd806d2481875",
+        "order": 55
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3364274,
+        "known_for_department": "Acting",
+        "name": "Wendy de los Cobos",
+        "original_name": "Wendy de los Cobos",
+        "popularity": 0.1579,
+        "profile_path": "/uJWKqIWgjFNKbX3CY5JlmyaaRHN.jpg",
+        "character": "Tata Guerra",
+        "credit_id": "665bf07f7ea6ccd4a1e7aa34",
+        "order": 56
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 970118,
+        "known_for_department": "Acting",
+        "name": "Carlos Corona",
+        "original_name": "Carlos Corona",
+        "popularity": 0.7818,
+        "profile_path": "/fv1Q4b8tBiUHe3DZnNh9STs0HRZ.jpg",
+        "character": "Alfaro",
+        "credit_id": "665bf0a010a4adc4cc595ec0",
+        "order": 57
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552963,
+        "known_for_department": "Acting",
+        "name": "Martijn Kuiper",
+        "original_name": "Martijn Kuiper",
+        "popularity": 0.3465,
+        "profile_path": "/n5I3VsxELefTvFIFJMp0W3SZktp.jpg",
+        "character": "Lucas Manzano",
+        "credit_id": "665bf0e4a09c9f1e0171b5ba",
+        "order": 58
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1238997,
+        "known_for_department": "Acting",
+        "name": "Arturo Peniche",
+        "original_name": "Arturo Peniche",
+        "popularity": 0.4316,
+        "profile_path": "/x6OjY442LszLfW06T90wecnNd0G.jpg",
+        "character": "Flavio San Román",
+        "credit_id": "665bf15878b493a7eb881011",
+        "order": 59
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2227031,
+        "known_for_department": "Acting",
+        "name": "Francisco Angelini",
+        "original_name": "Francisco Angelini",
+        "popularity": 0.1511,
+        "profile_path": "/AwBA8aJ40Kw093cVCxwnUrKxMqi.jpg",
+        "character": "Rocco San Román",
+        "credit_id": "665bf1a867035a15e4881204",
+        "order": 60
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2526159,
+        "known_for_department": "Acting",
+        "name": "Aleida Núñez",
+        "original_name": "Aleida Núñez",
+        "popularity": 0.4004,
+        "profile_path": "/tPDDNztn6fd2i2vgMGWUCFGLsib.jpg",
+        "character": "Nina",
+        "credit_id": "665bf1fad3146cb93fa628e2",
+        "order": 61
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1094177,
+        "known_for_department": "Acting",
+        "name": "Alí Rondon",
+        "original_name": "Alí Rondon",
+        "popularity": 0.0896,
+        "profile_path": "/e9uclafn7sf2S4aEDgERH7uepkB.jpg",
+        "character": "Catrasca",
+        "credit_id": "665bf289f0d540c12ae7a1a6",
+        "order": 62
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2022335,
+        "known_for_department": "Acting",
+        "name": "Cristian Gamero",
+        "original_name": "Cristian Gamero",
+        "popularity": 0.2896,
+        "profile_path": null,
+        "character": "Lencho",
+        "credit_id": "6729751aedca7f37f8e65af2",
+        "order": 64
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "drug trafficking",
+        "id": 2149
+      },
+      {
+        "name": "drug cartel",
+        "id": 10175
+      },
+      {
+        "name": "drug lord",
+        "id": 18026
+      },
+      {
+        "name": "telenovela",
+        "id": 199262
+      },
+      {
+        "name": "1990s",
+        "id": 210608
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/ekPKyVT9oMudeVukTCbJuH200TW.jpg",
+        "id": 68734,
+        "name": "El Chema",
+        "original_name": "El Chema",
+        "overview": "Follow one man's epic journey as he transforms from wily underage drug smuggler to one of the world's most infamous cartel leaders.",
+        "poster_path": "/wuA7gcwhDMbZ4Y1lscXRrgmaJIi.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 23.682,
+        "first_air_date": "2016-12-06",
+        "vote_average": 7.664,
+        "vote_count": 727,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ko2b7SCfh0lp8asRzfpKOAqhnp.jpg",
+        "id": 235759,
+        "name": "El señor de los cielos: Sus comienzos",
+        "original_name": "El señor de los cielos: Sus comienzos",
+        "overview": "",
+        "poster_path": "/xHZoRguXWBA7ObQGG37KAg0h2Ds.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "popularity": 6.502,
+        "first_air_date": "2023-09-13",
+        "vote_average": 7.752,
+        "vote_count": 230,
+        "origin_country": [
+          "ES"
+        ]
+      },
+      {
+        "backdrop_path": "/eio6VCc8mB8igvW2ShRpgIGH8nZ.jpg",
+        "id": 31586,
+        "name": "Güneyin Kraliçesi",
+        "original_name": "La Reina del Sur",
+        "overview": "Masumca başladığı bu işte kan, ter ve gözyaşıyla dolu yıllar geçiren bir kadın, uyuşturucu kaçakçılığında efsane hâline gelince kendini çok riskli bir durumda bulur.",
+        "poster_path": "/lADayXkcxSA5DXXDMBJLmvgAJH7.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 31.5555,
+        "first_air_date": "2011-02-28",
+        "vote_average": 7.841,
+        "vote_count": 1906,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/aZFIRQR0QxIjRMHy7lxSKiug9Z2.jpg",
+        "id": 63764,
+        "name": "Senora Acero",
+        "original_name": "Señora Acero",
+        "overview": "The adventures of Vicenta Acero, the feared coyote who now leads the dynasty of illicit dealings once under the control of her father.",
+        "poster_path": "/vXhBxsvpW2mGuXRbIK5Yazdp8Zg.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18,
+          80,
+          10766
+        ],
+        "popularity": 99.38,
+        "first_air_date": "2014-09-23",
+        "vote_average": 7.84,
+        "vote_count": 626,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/hsSw3DuG2ah2wgaZeDTwyv5FPh3.jpg",
+        "id": 74428,
+        "name": "Rosario Tijeras",
+        "original_name": "Rosario Tijeras",
+        "overview": "Worlds collide when a vengeance-obsessed young woman from the other side of the tracks captures the attention of two well-off friends.",
+        "poster_path": "/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 42.6532,
+        "first_air_date": "2016-10-30",
+        "vote_average": 7.534,
+        "vote_count": 1602,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/iFomjNTn7faJD14ULghx3pTrCOd.jpg",
+        "id": 213049,
+        "name": "Cabo",
+        "original_name": "Cabo",
+        "overview": "",
+        "poster_path": "/fcZWtnEBvoP6BignOTCPuAPHp0t.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 4.6466,
+        "first_air_date": "2022-10-24",
+        "vote_average": 7.724,
+        "vote_count": 152,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/6x0qhCN23KE2NMOvMLVxFWYlsDd.jpg",
+        "id": 994,
+        "name": "Inspector Rex",
+        "original_name": "Kommissar Rex",
+        "overview": "After his handler is killed, police dog Rex teams up with recently-divorced inspector Richard Moser to investigate crimes and solve mysteries on the streets of Vienna. And they sometimes get help from their two-legged friend, Inspector Stockinger.",
+        "poster_path": "/tCzMaMoOdA1cPzV3Ll32ftg3EVO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          80,
+          9648,
+          10759,
+          18
+        ],
+        "popularity": 28.4698,
+        "first_air_date": "1994-11-10",
+        "vote_average": 7.147,
+        "vote_count": 258,
+        "origin_country": [
+          "AT"
+        ]
+      },
+      {
+        "backdrop_path": "/qzQDnYp8ARXktdlCF4PzaS2Tzjm.jpg",
+        "id": 72306,
+        "name": "La piloto",
+        "original_name": "La piloto",
+        "overview": "Yolanda dreamed her entire life of being a pilot. She found a stewardess job, and an unexpected role in drug smuggling.",
+        "poster_path": "/upX2fGyD4tPjJJLIOuJlB3yp2OK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 19.2456,
+        "first_air_date": "2017-03-07",
+        "vote_average": 7.465,
+        "vote_count": 345,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/fsbZAdbojecotA4mpdVOuehpdjO.jpg",
+        "id": 92433,
+        "name": "The Usurper",
+        "original_name": "La Usurpadora",
+        "overview": "A humble young woman allows herself be manipulated by her twin sister to replace her so she can leave with another man.",
+        "poster_path": "/fnBu7Ym3WeMZy2goTl3c2YReVqE.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 4.1708,
+        "first_air_date": "2019-09-02",
+        "vote_average": 6.918,
+        "vote_count": 318,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/u75I8b1fOjKJ401d8fVxgZT4VL8.jpg",
+        "id": 11767,
+        "name": "Yu-Gi-Oh! Capsule Monsters",
+        "original_name": "Yu-Gi-Oh! Capsule Monsters",
+        "overview": "Yugi, Joey, Téa, Tristan, and Yugi's grandfather Solomon are pulled into a world where Duel Monsters are real. They find monster capsules that they can use to summon monsters. However, in this strange new world, they battle monsters and when their own monsters are attacked, they feel the pain.",
+        "poster_path": "/9pbIbxJPUTf0JqEbq8cPFFISm9X.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759
+        ],
+        "popularity": 4.8686,
+        "first_air_date": "2006-09-09",
+        "vote_average": 7.9,
+        "vote_count": 290,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7THsjnuf6mF5l3UDnrGz0x6wdkq.jpg",
+        "id": 134174,
+        "name": "Before I Forget",
+        "original_name": "Asesino del olvido",
+        "overview": "Pascual León, a retired 65-year-old man, finds out how to give meaning to his last days after being diagnosed with Alzheimer's: to avenge a past crime before his memory loss erases everything that he is.",
+        "poster_path": "/vlx2Lmp1SiEheDPYDX74lFkWwfo.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 1.8069,
+        "first_air_date": "2021-10-07",
+        "vote_average": 8.7,
+        "vote_count": 26,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/6sdjnsHi94BzfRMFlarHJeCGQlT.jpg",
+        "id": 236086,
+        "name": "El Gallo de Oro",
+        "original_name": "El Gallo de Oro",
+        "overview": "The story of a passionate love between La Caponera, a palenque singer, and possessor of a gift that gives luck to the man who accompanies her, and Dionisio, a strange and introverted town crier, as they wander from fair to fair through the center of the country.",
+        "poster_path": "/ztpWMTkGeqmRcvmfgMdUiGcsz9l.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 8.159,
+        "first_air_date": "2023-10-20",
+        "vote_average": 7.883,
+        "vote_count": 128,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/qZ6BBY6eBAnYlTP66NSAgbwUwwt.jpg",
+        "id": 102918,
+        "name": "Bloque de búsqueda",
+        "original_name": "Bloque de búsqueda",
+        "overview": "Group of policemen trained to capture Pablo Escobar. It tells the story of the family of some of its members and what they had to experience during the drug trafficking era in Colombia.",
+        "poster_path": "/1LU5gO3gVOm9IgxLfhSBpMUVYW6.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          80
+        ],
+        "popularity": 8.4198,
+        "first_air_date": "2016-04-26",
+        "vote_average": 7.541,
+        "vote_count": 193,
+        "origin_country": [
+          "CO"
+        ]
+      },
+      {
+        "backdrop_path": "/vwsXyOGWOTVACbAjKOfKlQFO2OX.jpg",
+        "id": 82809,
+        "name": "False Identity",
+        "original_name": "Falsa identidad",
+        "overview": "İki yabancı olan Diego ve Isabel, Meksika'daki evlerinden kaçar. İkili, uyuşturucu tacirlerinden ve Isabel'in istismarcı kocasından kaçmak için evliymiş gibi yapar.",
+        "poster_path": "/rGIVID9KFrE6oMOtqost2Ccd9Co.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          80,
+          10759
+        ],
+        "popularity": 17.9009,
+        "first_air_date": "2018-10-03",
+        "vote_average": 7.537,
+        "vote_count": 515,
+        "origin_country": [
+          "MX",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/tVuvFG14yhypkP1zdFjfx3BJTCO.jpg",
+        "id": 68878,
+        "name": "La Doña",
+        "original_name": "La Doña",
+        "overview": "A story of revenge and ambition, seduction and betrayal; all told from the perspective of an offended and abused woman named Altagracia. Altagracia represents the hundreds of thousands of Mexican women who have been victims of the violence by faceless men who are protected by impunity. But Altagracia, transformed into a strong-willed, ruthless man-eater known as La Doña, will seek out each and every one of these men to bring them to justice.",
+        "poster_path": "/xPe11sREBZIPUB1SnwckuElru1h.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 34.8072,
+        "first_air_date": "2016-11-29",
+        "vote_average": 7.357,
+        "vote_count": 624,
+        "origin_country": [
+          "US",
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/4jTSmEGdZ77A2dP6Y08gwo52LuF.jpg",
+        "id": 7458,
+        "name": "The Cartel",
+        "original_name": "El Cartel de los Sapos",
+        "overview": "The Cartel follows ten friends, all of them members of a dangerous drug cartel, whose ambition for power and money will cause them to eventually kill each other. For it is an undeniable truth that, in this business, you always lose.",
+        "poster_path": "/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "popularity": 25.2488,
+        "first_air_date": "2008-06-04",
+        "vote_average": 7.559,
+        "vote_count": 582,
+        "origin_country": [
+          "CO"
+        ]
+      },
+      {
+        "backdrop_path": "/hFquZERQLZdUw3C40vac8idee8B.jpg",
+        "id": 18685,
+        "name": "Hasta que el dinero nos separe",
+        "original_name": "Hasta que el dinero nos separe",
+        "overview": "Hasta Que el Dinero Nos Separe is a telenovela produced by Emilio Larrosa. It is a remake of the Colombian soap opera Hasta Que la Plata Nos Separe. Hasta Que el Dinero Nos Separe stars Itatí Cantoral, Pedro Fernández, Victor Noriega, Luz Elena González and Joana Benedek. The telenovela made its debut on June 29, 2009 at 8 pm in Mexico's Canal de las Estrellas, in HD in some markets, and January 18, 2010 at 8/7 pm USA's Univision, starting on April 26, 2010, it aired from 8 pm est to 10 pm est in HD in some markets, until June 1, 2010, when Soy Tu Dueña premiered on Univision at 9pm, thus returning the novela back to its former one hour airing time. On February 16, 2010 Hasta Que El dinero nos separe premiered on internet TV's bsn Latino.\n\n\"The Best Telenovela of the Year 2010.\"",
+        "poster_path": "/m6elQKPtzBlfVa2cHz96NZnBQcc.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          10766,
+          18,
+          35
+        ],
+        "popularity": 79.0038,
+        "first_air_date": "2009-06-29",
+        "vote_average": 7.918,
+        "vote_count": 679,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
+        "id": 5920,
+        "name": "The Mentalist",
+        "original_name": "The Mentalist",
+        "overview": "Patrick Jane isimli bir medyum, sirkte çalışan ve gözlem güçlerini kullanarak insanlar hakkında birtakım fikirler edinip bu fikirleri onlara medyum gibi satan biridir. Bir gün bu özelliği sebebiyle televizyona çıkar ve kendine Red John isimli bir düşman edinir. Red John Jane’in kızını ve eşini öldürünce ortada kalan ve bu ölümlerin sebebinin kendisi olduğunu düşünen Jane, en sonunda FBI’a başvurarak Red John’ın peşine düşmek ister. Her ne kadar ilk başlarda bu isteği geri çevrilse de FBI’ın çözemediği birtakım davaları çözen Jane, bu özel ekibe danışman olarak işe alınır.",
+        "poster_path": "/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 96.1905,
+        "first_air_date": "2008-09-23",
+        "vote_average": 8.4,
+        "vote_count": 3908,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wQoyCT75vPgWybLp4o11gatSFoJ.jpg",
+        "id": 5522,
+        "name": "Doña Bárbara",
+        "original_name": "Doña Bárbara",
+        "overview": "Doña Bárbara is a Spanish-language telenovela produced by the United States-based television network Telemundo, Sony Pictures Television International and RTI Colombia. Edith González and Christian Meier star in this adaptation of the 1929 novel by Venezuelan author Rómulo Gallegos.",
+        "poster_path": "/H8Gz2bG7p2lmbrtM6duGpkY7z8.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18,
+          35,
+          10766
+        ],
+        "popularity": 68.3758,
+        "first_air_date": "2008-08-04",
+        "vote_average": 7.742,
+        "vote_count": 719,
+        "origin_country": [
+          "CO",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4kp7ZwgminnWqgFwO5QEiWS5BNa.jpg",
+        "id": 71411,
+        "name": "El Chapo",
+        "original_name": "El Chapo",
+        "overview": "1980'lerde Guadalajara Karteli için çalışan kötü şöhretli uyuşturucu kralı El Chapo'nun 1990'lardaki güce yükselişine ve 2016'daki büyük düşüşüne kadar geçen hayatına bir bakış.",
+        "poster_path": "/3FzlvQ5Ea35Zdz71Ye7JSvB6VdB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 16.3774,
+        "first_air_date": "2017-04-23",
+        "vote_average": 7.5,
+        "vote_count": 1603,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

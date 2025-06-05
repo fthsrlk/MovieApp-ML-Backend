@@ -1,0 +1,869 @@
+{
+  "adult": false,
+  "backdrop_path": "/3PCVo8Wikg4wG6dqZHs4Ofp0laA.jpg",
+  "created_by": [
+    {
+      "id": 1254165,
+      "credit_id": "5258ea4c760ee346618860ea",
+      "name": "Ben Bocquelet",
+      "original_name": "Ben Bocquelet",
+      "gender": 2,
+      "profile_path": "/hdIZNgPkg50PhhHVvsefQa4lEI.jpg"
+    }
+  ],
+  "episode_run_time": [
+    11
+  ],
+  "first_air_date": "2011-05-03",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animasyon"
+    },
+    {
+      "id": 10751,
+      "name": "Aile"
+    },
+    {
+      "id": 10765,
+      "name": "Bilim Kurgu & Fantazi"
+    },
+    {
+      "id": 35,
+      "name": "Komedi"
+    }
+  ],
+  "homepage": "https://www.cartoonnetworkhq.com/show/gumball",
+  "id": 37606,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2019-06-24",
+  "last_episode_to_air": {
+    "id": 1977439,
+    "name": "44. Bölüm",
+    "overview": "",
+    "vote_average": 9.5,
+    "vote_count": 2,
+    "air_date": "2019-06-24",
+    "episode_number": 44,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 11,
+    "season_number": 6,
+    "show_id": 37606,
+    "still_path": "/wtXeOYG2oLw3q0KBJZabnYYaRiE.jpg"
+  },
+  "name": "Gumball'ın Muhteşem Dünyası",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 56,
+      "logo_path": "/c5OC6oVCg6QP4eqzW6XIq17CQjI.png",
+      "name": "Cartoon Network",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 266,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "IE",
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Amazing World of Gumball",
+  "overview": "Mavi bir kedi olan 12 yaşındaki Gumball Watterson'ın, ailesi ve diğer tuhaf yaratıklarla yaşadığı ilginç olaylar.",
+  "popularity": 148.2079,
+  "poster_path": "/VYnnyA2hyxi3VUPgCA71mMtt69.jpg",
+  "production_companies": [
+    {
+      "id": 67225,
+      "logo_path": "/eT7E0NrQYzVs31yOg7LD02JR7JV.png",
+      "name": "Hanna-Barbera Studios Europe",
+      "origin_country": "GB"
+    },
+    {
+      "id": 65013,
+      "logo_path": "/2AXFe74AZdwM62KoOmfeOorShrX.png",
+      "name": "Boulder Media",
+      "origin_country": "IE"
+    },
+    {
+      "id": 21388,
+      "logo_path": null,
+      "name": "Studio Soi",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2008-05-09",
+      "episode_count": 28,
+      "id": 48978,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/pS6YjMgyMTHP4PrhaM1ooQvpz2B.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-05-03",
+      "episode_count": 36,
+      "id": 48976,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/rT8v7A6KsE9KNP7nAlVLXAYmWHj.jpg",
+      "season_number": 1,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2012-08-07",
+      "episode_count": 40,
+      "id": 48977,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/xEkTEceQTLbHmss9rQbBG9HTuX6.jpg",
+      "season_number": 2,
+      "vote_average": 8.4
+    },
+    {
+      "air_date": "2014-06-05",
+      "episode_count": 40,
+      "id": 63689,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/o9QBinMzjB5BobiDpTcT5HzrxNC.jpg",
+      "season_number": 3,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2015-07-07",
+      "episode_count": 40,
+      "id": 68855,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/iBnQ38V73aAOoaADVLaeiP6A5cq.jpg",
+      "season_number": 4,
+      "vote_average": 8.6
+    },
+    {
+      "air_date": "2016-09-01",
+      "episode_count": 40,
+      "id": 80599,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/2oRfnHCkHCO91JJ55F3ELjlfZ6k.jpg",
+      "season_number": 5,
+      "vote_average": 8.6
+    },
+    {
+      "air_date": "2018-01-05",
+      "episode_count": 44,
+      "id": 108464,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/k0eW9b2eEmnK5VXjULwlMazRjZn.jpg",
+      "season_number": 6,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": null,
+      "episode_count": 26,
+      "id": 417616,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 10.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.493,
+  "vote_count": 1494,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1696351,
+        "known_for_department": "Acting",
+        "name": "Nicolas Cantu",
+        "original_name": "Nicolas Cantu",
+        "popularity": 1.502,
+        "profile_path": "/ySFxLOQ9ejiZddviRVf9bhZvDsf.jpg",
+        "character": "Gumball Watterson (voice)",
+        "credit_id": "5cc3af7f9251417d3901fa0f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1983013,
+        "known_for_department": "Acting",
+        "name": "Christian J. Simon",
+        "original_name": "Christian J. Simon",
+        "popularity": 0.6232,
+        "profile_path": "/sfuCawC8UViDrIatBscCa2tkkmM.jpg",
+        "character": "Darwin Watterson (voice)",
+        "credit_id": "66d312a5461e4c4887b16c14",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1254161,
+        "known_for_department": "Acting",
+        "name": "Dan Russell",
+        "original_name": "Dan Russell",
+        "popularity": 0.1812,
+        "profile_path": "/68efSHjGFBqCTDxFvkYfNuY7j86.jpg",
+        "character": "Richard Watterson (voice)",
+        "credit_id": "5258ea47760ee34661886060",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 340927,
+        "known_for_department": "Acting",
+        "name": "Teresa Gallagher",
+        "original_name": "Teresa Gallagher",
+        "popularity": 0.9346,
+        "profile_path": "/2oHiEkrPfgbfKllBFDAhZK4v1Of.jpg",
+        "character": "Nicole Watterson (voice)",
+        "credit_id": "6279a55b2f8d090066f6d88d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1254162,
+        "known_for_department": "Acting",
+        "name": "Kyla Rae Kowalewski",
+        "original_name": "Kyla Rae Kowalewski",
+        "popularity": 0.2329,
+        "profile_path": "/7MOdiZv7gv1tkI6Aac08rxZGLOQ.jpg",
+        "character": "Anais Watterson (voice)",
+        "credit_id": "5258ea48760ee34661886097",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 176254,
+        "known_for_department": "Acting",
+        "name": "Sandra Dickinson",
+        "original_name": "Sandra Dickinson",
+        "popularity": 1.6223,
+        "profile_path": "/fZYuygLSA8HMEbDHgH2txtaEeWa.jpg",
+        "character": "Granny Jojo (voice)",
+        "credit_id": "5258ea46760ee3466188600f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 101034,
+        "known_for_department": "Acting",
+        "name": "Kerry Shale",
+        "original_name": "Kerry Shale",
+        "popularity": 1.489,
+        "profile_path": "/7IrOqC44j27MtUGjn3UwB2FRFWK.jpg",
+        "character": "Larry Needlemeyer (voice)",
+        "credit_id": "5258ea46760ee34661886029",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1254164,
+        "known_for_department": "Acting",
+        "name": "Jessica McDonald",
+        "original_name": "Jessica McDonald",
+        "popularity": 0.2781,
+        "profile_path": "/hmGjpt3ffa6NNQif2uTKjakMuUs.jpg",
+        "character": "Carrie Krueger (voice)",
+        "credit_id": "5258ea4b760ee346618860d1",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2029110,
+        "known_for_department": "Acting",
+        "name": "Stefan Ashton Frank",
+        "original_name": "Stefan Ashton Frank",
+        "popularity": 0.4519,
+        "profile_path": "/gEluTYOEXSO0R3iIDOzkGLgpEEV.jpg",
+        "character": "Mr. Robinson / Tina Rex (voice)",
+        "credit_id": "622f526f2a210c001b5ef2bc",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2279899,
+        "known_for_department": "Directing",
+        "name": "Mic Graves",
+        "original_name": "Mic Graves",
+        "popularity": 0.2709,
+        "profile_path": "/6labj7ByABk2lTzUoKhnHklhffo.jpg",
+        "credit_id": "5e87412b9974ee0015b172cc",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1254165,
+        "known_for_department": "Writing",
+        "name": "Ben Bocquelet",
+        "original_name": "Ben Bocquelet",
+        "popularity": 0.3695,
+        "profile_path": "/hdIZNgPkg50PhhHVvsefQa4lEI.jpg",
+        "credit_id": "65c24bd39653f60162eccbe6",
+        "department": "Crew",
+        "job": "Creator"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "cartoon cat",
+        "id": 15284
+      },
+      {
+        "name": "antagonistic",
+        "id": 325766
+      },
+      {
+        "name": "ridiculous",
+        "id": 325844
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/300Qx9CJZfGYr63Rw2XQgknAyob.jpg",
+        "id": 4229,
+        "name": "Dexter'ın Laboratuvarı",
+        "original_name": "Dexter's Laboratory",
+        "overview": "Dexter, yatak odası duvarının arkasında 6 kilometre uzunluğunda gizli bir laboratuvara sahiptir. Dahi olması gerçeğinin dışında, sekiz yaşında sıradan bir çocuktur.",
+        "poster_path": "/fIK7MiVnbgB1tHOn0E9EhXa6iuK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10765
+        ],
+        "popularity": 66.6254,
+        "first_air_date": "1996-04-28",
+        "vote_average": 7.66,
+        "vote_count": 819,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lhg7eA6CTOCL10QNVdKiyxkgPsL.jpg",
+        "id": 40075,
+        "name": "Gravity Falls",
+        "original_name": "Gravity Falls",
+        "overview": "İkiz kardeşler Dipper ve Mabel Pines'ın aileleri yazın Dipper ve Mabel'ı \"Harika Amca Stan\"in yanına Gravity Falls, Oregon'a gönderirler. Stan, \"Gizemli Kulübe\"de yaşamaktadır ve çalışmaktadır; ama Dipper ve Mabel gerçekten çok garip şeyler olduğunu bilirler ve anlaşılmadık kasabada kendi yollarını bulmak için birbirlerine güvenmek zorundadırlar. Dipper'ın ormanda bulduğu günlükle işler daha da tuhaflaşır.",
+        "poster_path": "/6kWUl4Rfvomz9VBsjzDsuQ3ZvrG.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          9648,
+          10765,
+          10762,
+          10759,
+          10751
+        ],
+        "popularity": 44.2633,
+        "first_air_date": "2012-06-15",
+        "vote_average": 8.593,
+        "vote_count": 3136,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5MWFjQ3NuNtNeOE9FdrVLeNMNPs.jpg",
+        "id": 1877,
+        "name": "Phineas ve Förb",
+        "original_name": "Phineas and Ferb",
+        "overview": "\"Phineas and Ferb\" / \"Phineas ve Förb\" - Yazın her gününü iyi değerlendiren iki üvey kardeş, küçük yaşta olmalarına rağmen çok zekidirler. Yazın her günü sıkılmayacakları yeni bir icat yaparlar. Ama Bu icatlar kız kardeşleri Candace'in ispiyonlama isteğini hergeçen gün dahada arttırır. Bu arada, evcil hayvanları ornitorenk, kötü Dr. Doofenshmirtz'e karşı Her gün kötü icatlarını yok etmek için karşı karşıya.",
+        "poster_path": "/oSLwJMOOQGAsyJNMi4Y3MO44iAJ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10751,
+          10765
+        ],
+        "popularity": 77.0996,
+        "first_air_date": "2007-08-17",
+        "vote_average": 7.883,
+        "vote_count": 896,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/rQeow546hb8vS9T5EcoipqJnoD8.jpg",
+        "id": 50035,
+        "name": "Clarence",
+        "original_name": "Clarence",
+        "overview": "Yaşadığı kirli dünyada Clarence, gün ışığı gibi saf ve sade. Dünyayı sadece en sevdiği renklerde görüyor: Mor ve fosforlu yeşil. Clarence, annesi Mary ve arkadaşları Jeff ve Sumo’ya herşeyden fazla değer veriyor. İster iyi ister kötü, ne olursa olsun hiçbir şey Clarence'in moralini bozamaz.",
+        "poster_path": "/rUWNAR3FlJDFRabvCBDNA3ryZJw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 36.0833,
+        "first_air_date": "2014-04-14",
+        "vote_average": 7.93,
+        "vote_count": 301,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/pe4B3OYBb7qYCdkAz7nKWordbls.jpg",
+        "id": 15260,
+        "name": "Adventure Time",
+        "original_name": "Adventure Time",
+        "overview": "Bir köpek ailesi tarafından yetiştirilen 12 yaşındaki Finn ile aynı ailenin büyüttüğü 28 yaşındaki Jake adlı köpeğin fantastik maceraları.",
+        "poster_path": "/qk3eQ8jW4opJ48gFWYUXWaMT4l.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10765
+        ],
+        "popularity": 73.3189,
+        "first_air_date": "2010-04-05",
+        "vote_average": 8.498,
+        "vote_count": 2855,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/bIHCUqaapZdRjd2kzSDiwzYyrpC.jpg",
+        "id": 45140,
+        "name": "Teen Titans Go!",
+        "original_name": "Teen Titans Go!",
+        "overview": "Süper kahraman ev arkadaşları Robin, Starfire, Raven, Beast Boy ve Cyborg didişmekten ve rekabet etmekten vakit bulduklarında Jump City'yi kötülerden korur.",
+        "poster_path": "/udaLIJ6Na7GOHjvTlyP9JFPTccv.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10759,
+          10765,
+          10751
+        ],
+        "popularity": 118.8605,
+        "first_air_date": "2013-04-23",
+        "vote_average": 6.508,
+        "vote_count": 652,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sgR3BjAOcpyxV9Rq7l1BGm3fXQ8.jpg",
+        "id": 63401,
+        "name": "Kafadar Ayılar",
+        "original_name": "We Bare Bears",
+        "overview": "Üç erkek ayı kardeş, uygar bir toplumda, geçinmeye çalışıyor, insanlarla arkadaşlık kurmaya çalışıyor veya internette ünlü olmayı planlıyorlar. Boz, Panda ve Kutup Ayısı mağaralarını terk ettiklerinde ve San Francisco Körfez Bölgesi'nin yenilikçi çevresini keşfettiklerinde birbirlerinin üzerine yığılıyorlar ve kardeşlerinin teknolojik olarak yönlendirilen bir dünya hakkında öğrenecekleri çok şey olduğu açık. Birçok maceradaki tarafları, en iyi arkadaşı Chloe (oyuncu kadrosundaki tek insan karakteri), şöhret takıntılı panda Nom Nom ve Charlie (Koca Ayak)'ta onlarla birlikte yer alıyor.",
+        "poster_path": "/3xWzlLZ0kAD6SkVZTekFM9lxZyP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          35,
+          16,
+          10762
+        ],
+        "popularity": 57.6,
+        "first_air_date": "2015-08-24",
+        "vote_average": 7.7,
+        "vote_count": 1783,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7Rei6j3EH312vfK0Xi2BKAdi73W.jpg",
+        "id": 61175,
+        "name": "Steven Universe",
+        "original_name": "Steven Universe",
+        "overview": "Steven Universe, Rebecca Sugar tarafından Cartoon Network için yapılan Amerikan yapımı bir çizgi dizisidir. Kristal Taşlar olan Garnet, Ametist ve İnciyle birlikte büyüyen ve dünyayı kendi türlerinden korumak için onlara yardım eden Steven adlı küçük bir çocuğun hikâyesini anlatır",
+        "poster_path": "/qkcZqbfvXEenUAwoFi6YTBB3WLO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10759,
+          10751,
+          10765
+        ],
+        "popularity": 58.9,
+        "first_air_date": "2013-11-04",
+        "vote_average": 8.403,
+        "vote_count": 1225,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sEOXPdfhXcZwxLAFEqkhuSIHquL.jpg",
+        "id": 17463,
+        "name": "Coop Kat'e Karşı",
+        "original_name": "Kid vs. Kat",
+        "overview": "Coop'un kız kardeşi Millie eve gizemli bir sokak kedisi getirince, onun aslında bir kedi olmadığını, kötü niyetli bir uzaylı olduğunu anlıyorlar. Bu uzaylı dünyada kaldığı için Coop'u suçluyor ve onu yok etmeye kararlı!",
+        "poster_path": "/1f3DyCY4Xe6ZxN2blj0gNdWhS71.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          35,
+          10765,
+          10751,
+          10762
+        ],
+        "popularity": 48.8723,
+        "first_air_date": "2008-10-25",
+        "vote_average": 7.898,
+        "vote_count": 300,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/36iVELhma9MawHkdMDPNRX8onEu.jpg",
+        "id": 68073,
+        "name": "Gürültü Ailesi",
+        "original_name": "The Loud House",
+        "overview": "Ortanca çocuk Lincoln'ün her biri birer baş belası olan beşi büyük, beşi küçük tam on kız kardeşle yaşamaya çalıştığı Gürültü ailesinin evine kargaşa hâkimdir.",
+        "poster_path": "/rR1X56iuTkmszfqp2QRPyWJvNQY.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10751,
+          10762,
+          9648
+        ],
+        "popularity": 100.7541,
+        "first_air_date": "2016-05-02",
+        "vote_average": 7.83,
+        "vote_count": 535,
+        "origin_country": [
+          "GB",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/hozufHEzqIRpqJrlyGDqnsyFrAQ.jpg",
+        "id": 61617,
+        "name": "Bahçe Duvarının Ötesinde",
+        "original_name": "Over the Garden Wall",
+        "overview": "İki kardeş, Wirt ve Greg, kendilerini Bilinmeyenler'de kaybolmuş bulurlar; tuhaf bir orman zamanla sürükleniyor. Wirt ve Greg, bilge, yaşlı bir Ormancı ve Beatrice adında huysuz bir mavi kuşun yardımıyla, eve dönüş yolunu bulma umuduyla bu garip ülkeyi dolaşmak zorundadır. Ormanda yolculuklarında sürprizler ve engellerle karşılaştıklarında onlara katılın.",
+        "poster_path": "/m3lU8n7WxzMecxKZcqhq5y5ESy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          10765,
+          16,
+          10751,
+          35
+        ],
+        "popularity": 9.4007,
+        "first_air_date": "2014-11-03",
+        "vote_average": 8.567,
+        "vote_count": 1543,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/pb1LLQKETjejzCrlCvrXuI3bEty.jpg",
+        "id": 33428,
+        "name": "MAD",
+        "original_name": "MAD",
+        "overview": "Mad is an American animated sketch comedy series created by Kevin Shinick and produced by Warner Bros. Animation. Based upon the magazine of the same name, each episode is a collection of short animated parodies of television shows, movies, games, celebrities, and other media using various types of animation instead of the usual animation style that Warner Bros. Animation is known for. The series premiered on the evening of September 6, 2010 on Cartoon Network. It has been described as a \"kid-friendly version of Robot Chicken\".",
+        "poster_path": "/lpMdJzQUD0gXafoFo5L92DNg9QU.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 13.097,
+        "first_air_date": "2010-09-06",
+        "vote_average": 8.028,
+        "vote_count": 251,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/bhF63Jd90gRYyTHd4y5GCGA2vX6.jpg",
+        "id": 31132,
+        "name": "Sürekli Dizi",
+        "original_name": "Regular Show",
+        "overview": "Mordecai ve Rigby sorunlarını ve sıkıcı işlerinin sıradan görevlerini sıra dışı yerlere taşıyan çok yakın iki arkadaştır.",
+        "poster_path": "/88dAGv0ywrLJKCynkH226dBwe0i.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 103.8938,
+        "first_air_date": "2010-09-06",
+        "vote_average": 8.633,
+        "vote_count": 2086,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uiBb01nmHwyVTSILSMKJ4WIvijc.jpg",
+        "id": 5895,
+        "name": "FLCL",
+        "original_name": "フリクリ",
+        "overview": "Naota is a normal boy who kills some time with a normal girl by a stream that flows underneath a bridge. Nothing unusual happens in this town. The fact that Haruhara Haruko crashes into the main character with her Vespa a short while later and subsequently hits him over the head with her Rickenbacker 4003 bass guitar doesn’t really make any difference to any other day here. The at first glance unconnected, bizarre events that don’t seem to follow any pattern whatsoever don’t change anything about Naota’s boring life, either – because nothing incredible ever happens in this town.",
+        "poster_path": "/FkgA8CcmiLJGVCRYRQ2g2UfVtF.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          35,
+          10759,
+          10765
+        ],
+        "popularity": 7.9108,
+        "first_air_date": "2000-04-26",
+        "vote_average": 7.973,
+        "vote_count": 377,
+        "origin_country": [
+          "JP",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/moTJDVjvgoYUxFrBbzBQwg35NyA.jpg",
+        "id": 98214,
+        "name": "Villainous",
+        "original_name": "Villanos",
+        "overview": "Follow the misadventures of the Black Hat Org. with evil handyman Black Hat and his less evil aides Dr. Flugslys, Demencia, 5.0.5, Cam Bot, and Penumbra.",
+        "poster_path": "/uKtxJqOeB74Lm6ZNCyEqMaFlXbp.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          16
+        ],
+        "popularity": 4.22,
+        "first_air_date": "2017-05-15",
+        "vote_average": 8.6,
+        "vote_count": 299,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/erbr2KDiQOUH95liJOZBRSa0DgS.jpg",
+        "id": 84503,
+        "name": "Close Enough",
+        "original_name": "Close Enough",
+        "overview": "Ebeveynlik, arkadaşlık, amatör hırsızlık, striptizci palyaçolar ve doğru gündüz bakımını seçme gibi gündelik zorluklarla hokkabazlık yapan evli bir çifti merkeze alan 20'li bir şeyden 30'lu bir şeye geçişin gerçeküstü bir yaklaşımı.",
+        "poster_path": "/8aNYMcMyhv1m0MKibgCVmJrAeLs.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          16
+        ],
+        "popularity": 13.7667,
+        "first_air_date": "2020-07-09",
+        "vote_average": 8.0,
+        "vote_count": 354,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7Q4cQUkzBGRO820SXHk9EIIoLVk.jpg",
+        "id": 9907,
+        "name": "Chowder",
+        "original_name": "Chowder",
+        "overview": "An aspiring young chef named Chowder has adventures as an apprentice in Mung Daal's catering company. Although he means well, Chowder often finds himself in predicaments due to his perpetual appetite and his nature as a scatterbrain. He is also pestered by Panini, the apprentice of Mung's rival Endive, who wants Chowder to be her boyfriend, which he abhors.",
+        "poster_path": "/gYIajTSlacI8LpqgqkvRW4oy5zl.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10762
+        ],
+        "popularity": 22.5514,
+        "first_air_date": "2007-11-02",
+        "vote_average": 8.182,
+        "vote_count": 409,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gcvJgJScIt0a5sRt8uLIkGM9IhI.jpg",
+        "id": 97860,
+        "name": "Kami no Tou: Tower of God",
+        "original_name": "神之塔 -Tower of God-",
+        "overview": "Tower of God hayatının büyük kısmını büyük ve gizemli kalenin altında geçirmiş, yalnız yakın arkadaşı Rachel ile birlikte olan 25. Bam isimli çocuğu konu alıyor. Rachel kaleye girdiğinde Bam da kapıyı açmayı başarıyor ve en yakın arkadaşını bulmaya çalışırken bu kalenin her katında zorluklarla yüzleşiyor.",
+        "poster_path": "/8v8ANBJNUzvA8F6sM20DBt3zZ44.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          9648,
+          10765,
+          10759
+        ],
+        "popularity": 14.9619,
+        "first_air_date": "2020-04-02",
+        "vote_average": 8.2,
+        "vote_count": 461,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/6HerLaK4Mjjtssma4fF3qQUixX5.jpg",
+        "id": 16830,
+        "name": "Hellsing",
+        "original_name": "ヘルシング",
+        "overview": "Avrupa'da vampirlere karşı verilen savaşta en önde savaşan kurum olan Hellsing Institute ve onun gizli silahı Alucard, son görevde bir köyü neredeyse tamamen zombi haline getiren ve onların kanıyla beslenen bir vampire karşı savaşmaya giderler. Aynı köye bir süre önce gönderilen polis güçleri saldırıya uğramış ve içlerinden sadece acemi polis memuru Seras Victoria sağ kalmıştır. Tam vampirin eline düşmüşken içeri Alucard girer ancak dövüş sırasında Seras yaralanır. Ona ölmek üzere olduğunu söyleyen Alucard, Seras'a iki seçenek sunar: Ya orada ölecektir, yada Alucard'ın kanını içerek yeniden doğacaktır. Seras ikincisini seçer. Araştırmaları esnasında yeni bir tür vampir ile karşılaşırlar. Bu tür doğuştan yada bir vampir ısırığı ile değil yapay yollarla oluşmaktadır.",
+        "poster_path": "/p2xedgWeqcVtv7K4MsMjIfsaV2g.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          10759,
+          16,
+          9648,
+          10765
+        ],
+        "popularity": 4.5488,
+        "first_air_date": "2001-10-10",
+        "vote_average": 7.9,
+        "vote_count": 533,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/7Rc1rI5djLtjuy8iSvLCQE6ZjnX.jpg",
+        "id": 2022,
+        "name": "Batman",
+        "original_name": "The Batman",
+        "overview": "Batman karakterinin animasyon dizisi.\n\nBatman veya Yarasa Adam ilk defa 1939 un Mayıs ayında Detective Comics'in 27. sayısında çizilen bir çizgi roman süper kahramanıdır. Çizer Bob Kane ve yazar Bill Finger tarafından yaratılmıştır.",
+        "poster_path": "/3w7koeOR2x71XYMJDGpygxYtScI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10765,
+          10759,
+          10762
+        ],
+        "popularity": 19.5285,
+        "first_air_date": "2004-09-11",
+        "vote_average": 7.98,
+        "vote_count": 473,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

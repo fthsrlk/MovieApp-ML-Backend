@@ -1,0 +1,879 @@
+{
+  "adult": false,
+  "backdrop_path": "/rp49ILheIhBwHWiQUvDfVH1fPfI.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Aksiyon"
+    },
+    {
+      "id": 80,
+      "name": "Suç"
+    },
+    {
+      "id": 53,
+      "name": "Gerilim"
+    }
+  ],
+  "homepage": "",
+  "id": 1138749,
+  "imdb_id": "tt21853596",
+  "origin_country": [
+    "KN"
+  ],
+  "original_language": "en",
+  "original_title": "The Island",
+  "overview": "LAPD memuru Mark, erkek kardeşi öldürüldüğünde, büyüdüğü adaya dönmek için şehirden ayrılır. Cevaplar ve nihayetinde intikam peşinde koşarken, kısa süre sonra kendisini ada cennetini ele geçiren yozlaşmış kodamanla kanlı bir savaşın içinde bulur.",
+  "popularity": 284.231,
+  "poster_path": "/ajb1rMiorchfRemYHZCkbV9DBg6.jpg",
+  "production_companies": [
+    {
+      "id": 205274,
+      "logo_path": "/sMovSdUKQGJNuMw7GKdlKQZmD3U.png",
+      "name": "MSR Media SKN",
+      "origin_country": "KN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KN",
+      "name": "St. Kitts and Nevis"
+    }
+  ],
+  "release_date": "2023-07-21",
+  "revenue": 39773,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Island",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 68,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64856,
+        "known_for_department": "Acting",
+        "name": "Michael Jai White",
+        "original_name": "Michael Jai White",
+        "popularity": 38.193,
+        "profile_path": "/YPoHYuzR37wFpPpwEXZYQlhLln.jpg",
+        "cast_id": 4,
+        "character": "Mark",
+        "credit_id": "649023dec3c89100ae51ffd5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84215,
+        "known_for_department": "Acting",
+        "name": "Jackson Rathbone",
+        "original_name": "Jackson Rathbone",
+        "popularity": 10.097,
+        "profile_path": "/v48wbH6SKmV8fgzJ0h5wwEl0xbV.jpg",
+        "cast_id": 5,
+        "character": "Phil",
+        "credit_id": "6490240242bf01011e74970d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1602205,
+        "known_for_department": "Acting",
+        "name": "Gillian White",
+        "original_name": "Gillian White",
+        "popularity": 3.318,
+        "profile_path": "/sMeG4f1Opc2ivxOFehTHikWyCZl.jpg",
+        "cast_id": 6,
+        "character": "Akilah",
+        "credit_id": "64902457c2ff3d00ffbc97da",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1332493,
+        "known_for_department": "Acting",
+        "name": "Edoardo Costa",
+        "original_name": "Edoardo Costa",
+        "popularity": 2.813,
+        "profile_path": "/dT8roPncLy5YMogsCsKv2A77EqN.jpg",
+        "cast_id": 7,
+        "character": "Manuel",
+        "credit_id": "6490247ec2ff3d00e2e1681e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1336359,
+        "known_for_department": "Acting",
+        "name": "Wayne Gordon",
+        "original_name": "Wayne Gordon",
+        "popularity": 1.69,
+        "profile_path": "/vq0ihshp7fbZWDkAmYTzsQAOTdH.jpg",
+        "cast_id": 8,
+        "character": "Wayland",
+        "credit_id": "64902496c3c891014ebec97a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1829105,
+        "known_for_department": "Acting",
+        "name": "Amber Townsend",
+        "original_name": "Amber Townsend",
+        "popularity": 2.535,
+        "profile_path": "/jwi6sSBwrGTWxO1vhv916B8VZHR.jpg",
+        "cast_id": 9,
+        "character": "Carla",
+        "credit_id": "649024a92f8d090100ab530c",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2562084,
+        "known_for_department": "Acting",
+        "name": "Cami Storm",
+        "original_name": "Cami Storm",
+        "popularity": 2.924,
+        "profile_path": "/Bmqr67uRy7FniYQNOxd8cL1cSb.jpg",
+        "cast_id": 10,
+        "character": "Nora",
+        "credit_id": "649024bd2f8d0900ad35d8c9",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2989861,
+        "known_for_department": "Acting",
+        "name": "Victor Young",
+        "original_name": "Victor Young",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Gang Member",
+        "credit_id": "64c9691ca5743d00cb9c15b9",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146415,
+        "known_for_department": "Acting",
+        "name": "Shaun Paul Piccinino",
+        "original_name": "Shaun Paul Piccinino",
+        "popularity": 1.99,
+        "profile_path": null,
+        "credit_id": "649022c6263462012d4b3623",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1422658,
+        "known_for_department": "Writing",
+        "name": "Michael Caissie",
+        "original_name": "Michael Caissie",
+        "popularity": 0.5,
+        "profile_path": "/ou6p79hPQS9cKMytO2sAx2U1bV4.jpg",
+        "credit_id": "649022e926346200ae1cda6c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40282,
+        "known_for_department": "Production",
+        "name": "Philippe Martinez",
+        "original_name": "Philippe Martinez",
+        "popularity": 2.046,
+        "profile_path": null,
+        "credit_id": "64902312c3c89100eb33b7e7",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40282,
+        "known_for_department": "Production",
+        "name": "Philippe Martinez",
+        "original_name": "Philippe Martinez",
+        "popularity": 2.046,
+        "profile_path": null,
+        "credit_id": "66a8eb63933ec57b00df06aa",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30052,
+        "known_for_department": "Directing",
+        "name": "Leigh Scott",
+        "original_name": "Leigh Scott",
+        "popularity": 3.385,
+        "profile_path": null,
+        "credit_id": "66a8eb831e4ca9923e4bc2be",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3474455,
+        "known_for_department": "Production",
+        "name": "Lee Beasley",
+        "original_name": "Lee Beasley",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "66a8eb8d933ec57b00df06ae",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2221869,
+        "known_for_department": "Production",
+        "name": "Karinne Behr",
+        "original_name": "Karinne Behr",
+        "popularity": 0.029,
+        "profile_path": null,
+        "credit_id": "66a8eb9abd7e6168c502e6d5",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1658456,
+        "known_for_department": "Production",
+        "name": "Alastair Burlingham",
+        "original_name": "Alastair Burlingham",
+        "popularity": 2.222,
+        "profile_path": null,
+        "credit_id": "66a8eba56ac4c52d191a95b6",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1815655,
+        "known_for_department": "Production",
+        "name": "Charlie Dombek",
+        "original_name": "Charlie Dombek",
+        "popularity": 0.221,
+        "profile_path": null,
+        "credit_id": "66a8ebb86c8a654fa8dab0bb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4087064,
+        "known_for_department": "Production",
+        "name": "J.T. Foxx",
+        "original_name": "J.T. Foxx",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "66a8ebc41a79caf303f2a92a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3558797,
+        "known_for_department": "Production",
+        "name": "Jacob Katsman",
+        "original_name": "Jacob Katsman",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "66a8ebd7c8fa935422dab0e4",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1169284,
+        "known_for_department": "Acting",
+        "name": "Megan Brown",
+        "original_name": "Megan Brown",
+        "popularity": 1.099,
+        "profile_path": "/jUZWnffw7dy1imnfc1zNccYv3yQ.jpg",
+        "credit_id": "66a8ebe5e5752975cfdab137",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2470453,
+        "known_for_department": "Production",
+        "name": "Gary Raskin",
+        "original_name": "Gary Raskin",
+        "popularity": 1.9,
+        "profile_path": null,
+        "credit_id": "66a8ebf13b1652cdb6933114",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1024243,
+        "known_for_department": "Sound",
+        "name": "Michael Richard Plowman",
+        "original_name": "Michael Richard Plowman",
+        "popularity": 0.349,
+        "profile_path": null,
+        "credit_id": "66a8ebf9afc45821b5ebc679",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1061200,
+        "known_for_department": "Camera",
+        "name": "Brad Rushing",
+        "original_name": "Brad Rushing",
+        "popularity": 0.795,
+        "profile_path": null,
+        "credit_id": "66a8ec028ccc7dae671a94b0",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3746947,
+        "known_for_department": "Editing",
+        "name": "Betsy C. Thompson",
+        "original_name": "Betsy C. Thompson",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "66a8ec191130a821cfeee755",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2482566,
+        "known_for_department": "Production",
+        "name": "Daniel Beasley",
+        "original_name": "Daniel Beasley",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "66a8ec2b5dbec31537ebc6b8",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2979898,
+        "known_for_department": "Directing",
+        "name": "Larissa Garcia-Baab",
+        "original_name": "Larissa Garcia-Baab",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "66a8ec3854bdad9013e0c9be",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3789401,
+        "known_for_department": "Directing",
+        "name": "J.R. Von Schondorf",
+        "original_name": "J.R. Von Schondorf",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "66a8ec46e74cf7b764ebc66d",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4857486,
+        "known_for_department": "Directing",
+        "name": "Tesean Wilkin",
+        "original_name": "Tesean Wilkin",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "66a8ec5369ea4865f793364c",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1458517,
+        "known_for_department": "Costume & Make-Up",
+        "name": "John L. Healy",
+        "original_name": "John L. Healy",
+        "popularity": 0.097,
+        "profile_path": null,
+        "credit_id": "66a8ec6d54bdad9013e0c9c2",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 323809,
+        "name": "depressing"
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/ifjTU9DIKMzCIDkRrD4YgZ61JON.jpg",
+        "id": 16555,
+        "title": "Daddy's Little Girls",
+        "original_title": "Daddy's Little Girls",
+        "overview": "Bekar baba, Monty, üç kızının velayetini alabilmek için genç ve güzel Julia'nın yardımına ihtiyaç duyacaktır.",
+        "poster_path": "/wWdSU5lGN9SpzMAfMIVUu7DjvVM.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18,
+          10749
+        ],
+        "popularity": 9.024,
+        "release_date": "2007-02-14",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 125
+      },
+      {
+        "backdrop_path": "/mz4ozla1GGt2jgYNdqiS6lcNeTu.jpg",
+        "id": 11037,
+        "title": "Iron Eagle",
+        "original_title": "Iron Eagle",
+        "overview": "When Doug's father, an Air Force Pilot, is shot down by MiGs belonging to a radical Middle Eastern state, no one seems able to get him out. Doug finds Chappy, an Air Force Colonel who is intrigued by the idea of sending in two fighters piloted by himself and Doug to rescue Doug's father after bombing the MiG base.",
+        "poster_path": "/8NJrLRX1RdKUNU4mhRQ8nLr6bMX.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28
+        ],
+        "popularity": 15.668,
+        "release_date": "1986-01-17",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 307
+      },
+      {
+        "backdrop_path": "/qiL8TkEUcKwZExd9UHO5rp3woYD.jpg",
+        "id": 38732,
+        "title": "Gaip Kervan",
+        "original_title": "Bend of the River",
+        "overview": "Karanlık gecmişe sahip iki arkadaş, Missouri’den Oregon’a dogru yolculuk yapan at arabası konvoyuna liderlik ederler. Yolculuk boyunca başlarına gelecekler , yolculuk sonunda yasayacakları yanında oldukça basit kalacaktır.",
+        "poster_path": "/pffOvEVDt6XRWDwBkmQ6zWITakJ.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          37,
+          12
+        ],
+        "popularity": 10.431,
+        "release_date": "1952-01-23",
+        "video": false,
+        "vote_average": 6.907,
+        "vote_count": 183
+      },
+      {
+        "backdrop_path": "/3PUT1WvaLEDo5tQNTF9FZcfjgTB.jpg",
+        "id": 72896,
+        "title": "The Law Of Attraction",
+        "original_title": "万有引力",
+        "overview": "Country: China Production Company: Angel Wings Entertainment Genre: Drama Director: Zhao Tian Yu Starring: Wen Zhang, Bai Bai He, Zhang Jing Chu, Guo Tao, Leon Dai, Karen Mok, Bowen Duan, Huang Huan Length: 97 mins Date of release: 8th April, 2011",
+        "poster_path": "/atvpODatUUb7nglV8b35EvSYWkf.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "zh",
+        "genre_ids": [
+          10749,
+          18
+        ],
+        "popularity": 1.949,
+        "release_date": "2011-04-08",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 5
+      },
+      {
+        "backdrop_path": "/qSOMdbZ6AOdHR999HWwVAh6ALFI.jpg",
+        "id": 1249289,
+        "title": "Alarum",
+        "original_title": "Alarum",
+        "overview": "Uluslararası bir istihbarat ağının hedefinde olan evli iki ajan, hayati öneme sahip bir varlığı ele geçirmek için her şeyi yapacaktır. Joe ve Lara, gizli yaşayan ajanlardır ve bir kış tatil beldesinde saklanırken, eski gardiyanların üyeleri ikilinin Alarum adındaki asi bir ajan ekibine katılmış olabileceğinden şüphelenince sessiz sığınakları paramparça olur.",
+        "poster_path": "/v313aUGmMNj6yNveaiQXysBmjVS.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          80,
+          53
+        ],
+        "popularity": 339.811,
+        "release_date": "2025-01-16",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 218
+      },
+      {
+        "backdrop_path": "/aurQNWiJoRB2pEDc73uCahcN4BF.jpg",
+        "id": 7839,
+        "title": "Taze Gelin Şaşkın Damat",
+        "original_title": "Wedding Daze",
+        "overview": "Bize aşkın mükemmeliyetle hiç alakası olmadığını gösteren bir film. Hayatının kadını kaybeden Anderson bir daha asla aşık olamayacağına ikna olmuştur. En yakın arkadaşının baskılarıyla sürekli garson olarak çalışan mutsuz Katie'ye çıkma teklif eder. Masum bir meydan okuma birden hayatlarında aradıkları aşkın ortaya çıkmasını sağlar.",
+        "poster_path": "/pDqYrYciP76wfzmAqB8SLO5j6f.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10749
+        ],
+        "popularity": 15.996,
+        "release_date": "2006-09-09",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 368
+      },
+      {
+        "backdrop_path": "/ybSA7fUbYHw8VeRiSJ7tgKJnYWZ.jpg",
+        "id": 1410082,
+        "title": "Keskin Nişancı: Son Direniş",
+        "original_title": "Sniper: The Last Stand",
+        "overview": "Ölümcül bir süper silahı piyasaya sürmeyi planlayan bir silah tüccarını durdurmak için görevlendirilen keskin nişancı Brandon Beckett ve Ajan Zero, Costa Verde'de seçkin bir asker grubuna liderlik eder. Acemi bir keskin nişancıyı da ekibe dahil eden Beckett, emir almaktan ziyade emir verme sorumluluğuyla yüzleşirken, azalan zaman ve cephane karşısında ekibiyle birlikte hayatta kalma mücadelesi verir.",
+        "poster_path": "/7O96D7Ea9qMYPozPcnDUy4clk6b.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          53
+        ],
+        "popularity": 280.309,
+        "release_date": "2025-01-21",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 115
+      },
+      {
+        "backdrop_path": "/u7AZ5CdT2af8buRjmYCPXNyJssd.jpg",
+        "id": 1160956,
+        "title": "Panda Plan",
+        "original_title": "熊猫计划",
+        "overview": "Dünya çapında sansasyon yaratan tuhaf bir pandayı konu alıyor. Orta Doğu'dan bir zengin, bu pandayı kendi malikanesinde istemeye karar verir ve pandayı kaçırıp malikanesine getirmeleri için paralı askerler tutar. Tesadüf eseri, pandanın koruyucusu... Jackie Chan olur. Jackie, dövüş sanatlarındaki yeteneklerini kullanarak düşmanları alt etmek ve hayvanı kurtarmak zorundadır.",
+        "poster_path": "/xVS9XiO9upp2SnWx6KpBYb79hLR.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "zh",
+        "genre_ids": [
+          28,
+          35
+        ],
+        "popularity": 559.623,
+        "release_date": "2024-10-01",
+        "video": false,
+        "vote_average": 7.061,
+        "vote_count": 148
+      },
+      {
+        "backdrop_path": "/jwtsNew0oMC11Nns3QrFzKKAONc.jpg",
+        "id": 619803,
+        "title": "Kuralsızlar",
+        "original_title": "범죄도시 2",
+        "overview": "Garibong bölgesi toplama operasyonu olaylarından dört yıl sonra Geumcheon Polisinin Büyük Suçlar Birimi'ne, Vietnam'a kaçan bir kaçağı ülkesine geri gönderme görevi verilir. Polis Ma Seok-do, zanlının teslim olma ve ardından Kang Hae-sang adlı korkunç bir katil tarafından işlenen suçları ortaya çıkarma isteğinde bir terslik olduğunu fark eder. Ma ve birimi, iki ülkede araştırmalarına başlar ve Kang'ın geride bıraktığı kanlı ekmek kırıntılarını takip eder.",
+        "poster_path": "/bXZHFbbMStNLL08lVYIlx2SmrsA.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          28,
+          80,
+          53,
+          12
+        ],
+        "popularity": 29.249,
+        "release_date": "2022-05-18",
+        "video": false,
+        "vote_average": 7.224,
+        "vote_count": 333
+      },
+      {
+        "backdrop_path": "/3yazPBvuE1u07ljHFTPRaK2AHOt.jpg",
+        "id": 1688,
+        "title": "Maymunlar Cehenneminde İsyan",
+        "original_title": "Conquest of the Planet of the Apes",
+        "overview": "Bir önceki filmde öldürülen Cornelius ve Dr. Zira’nın oğlu Caesar, 20 yıl Sirk sahibi Armando tarafından saklandıktan sonra ev hayvanı olarak köleleştirilmek istenen maymunları o ve MacDonald’ın yardımlarıyla örgütleyerek gezegendeki totaliter rejime karşı isyan başlatır.",
+        "poster_path": "/lZ1pUxJCO14ObrhDuxTBuYm0tjN.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          878
+        ],
+        "popularity": 25.825,
+        "release_date": "1972-06-29",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 983
+      },
+      {
+        "backdrop_path": "/nNF4ZB0UDL4qAUjQfbYZDq3Ck7J.jpg",
+        "id": 710295,
+        "title": "Kurt Adam",
+        "original_title": "Wolf Man",
+        "overview": "Evliliği yıpranmakta olan Blake, eşi Charlotte’u şehirden uzaklaşıp Oregon kırsalındaki çocukluk evine gitmeye ikna eder. Gece yarısı çiftlik evine vardıklarında, görünmeyen bir hayvanın saldırısına uğrarlar ve yaratık evin çevresinde dolaşırken kendilerini evin içine barikat kurarak korumaya çalışırlar. Ancak gece uzadıkça Blake tuhaf bir şekilde davranmaya başlar ve tanınmayacak bir şeye dönüşür.",
+        "poster_path": "/ujY9qtLzsEm5SipQTB3f5XXOGDX.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "popularity": 196.806,
+        "release_date": "2025-01-15",
+        "video": false,
+        "vote_average": 6.458,
+        "vote_count": 479
+      },
+      {
+        "backdrop_path": "/v9Du2HC3hlknAvGlWhquRbeifwW.jpg",
+        "id": 539972,
+        "title": "Avcı Kraven",
+        "original_title": "Kraven the Hunter",
+        "overview": "Avcı Kraven, Marvel'ın en ikonik kötü adamlarından birinin nasıl ve neden ortaya çıktığına dair farklı bir hikâye. Örümcek-Adam ile olan nam salmış kan davasından önce geçen filmin başrolünde Aaron Taylor-Johnson yer alıyor.",
+        "poster_path": "/pWI2qJG6PkS9wX601QfihkkZsPi.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          53
+        ],
+        "popularity": 497.919,
+        "release_date": "2024-12-11",
+        "video": false,
+        "vote_average": 6.674,
+        "vote_count": 1363
+      },
+      {
+        "backdrop_path": "/kCMjZkgBDUD30He50KhoVtgiM2z.jpg",
+        "id": 9352,
+        "title": "Avrupa Muhabbeti",
+        "original_title": "EuroTrip",
+        "overview": "İnternette yazıştığı arkadaşının isminden dolayı erkek olduğunu düşünen Scotty, kız olduğunu öğrenir öğrenmez Avrupa'ya doğru yola koyulur. Kahramanlarımız birbirinden ateşli yabancılar ve türlü çılgınlıklarla çevrili bilmedikleri bir dünyada başlarına geleceklerden habersiz yola koyulurlar. Bu hayatlarının yolculuğu olacaktır. Mayo mu yok, Ne önemi var? Bu Avrupa'da eğlenceye dalmak için bir engel değil ki!",
+        "poster_path": "/7MOFiB6qiEZ616mzURrx3iYovhY.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 40.585,
+        "release_date": "2004-02-20",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 2634
+      },
+      {
+        "backdrop_path": "/jw4SNkaSgbrO7VJPsZUZqbBg1Ph.jpg",
+        "id": 618588,
+        "title": "Arthur the King",
+        "original_title": "Arthur the King",
+        "overview": "Profesyonel macera yarışçısı Michael Light ile kavgacı bir sokak köpeği olan Arthur arasında, on gün boyunca 435 mil boyunca kırılmaz bir bağ kurulur. Takım, dayanıklılık sınırlarını zorlarken Arthur, zaferin, sadakatin ve dostluğun gerçekte ne anlama geldiğini yeniden tanımlar.",
+        "poster_path": "/zkKB3kOun5DKAkm61pHvLbrjxfa.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          18
+        ],
+        "popularity": 19.774,
+        "release_date": "2024-03-15",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 752
+      },
+      {
+        "backdrop_path": "/gmJOXle5QeOOVFEYOVBOkmIJUWV.jpg",
+        "id": 871,
+        "title": "Maymunlar Cehennemi",
+        "original_title": "Planet of the Apes",
+        "overview": "Bir grup astronot, çok uzun bir yolculuğun sonunda uyanarak, bilinmeyen bir gezegene iniş yapar. Burada konuşmayı bilmeyen ilkel mağara insanları ile, konuşan, avlanan, adeta insanla yer değiştirerek medeniyet kurmuş maymunlar yaşamaktadır. Grup dağılır, astronotlardan George Taylor, insan avcısı maymunlar tarafından esir edilir. Üzerlerinde deney yapılacaktır ki, maymunlardan Dr. Zaius, esir Taylor'ın konuşulanları anlayan, 'maymunlar kadar zeki' bir insan olduğunu fark eder. Bu durumun yerleşik inançlara ters düşüp evrim kuramını altüst edeceğini düşünen tutucu doktor, olan biteni görmezden gelir. O esnada devreye idealist ve sempatik Cornelius ile Dr. Zira girerek Taylor'ı korumaya çalışırlar. Diğer arkadaşlarını bulmak ve esaretten kurtulmak isteyen Taylor, çıkan bir kargaşadan faydalanarak güzel Nova'yla beraber kaçmaya başlar.",
+        "poster_path": "/sAin4IuMKZkNLou2BKOgBxBrLT4.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          12,
+          18,
+          28
+        ],
+        "popularity": 42.786,
+        "release_date": "1968-02-07",
+        "video": false,
+        "vote_average": 7.646,
+        "vote_count": 3614
+      },
+      {
+        "backdrop_path": "/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
+        "id": 950396,
+        "title": "The Gorge",
+        "original_title": "The Gorge",
+        "overview": "Yüksek eğitimli iki ajan, gizemli bir vadinin iki tarafını korumak için gönderildikten sonra yakınlaşırlar. Vadideki kötülük ortaya çıktığında sağ kurtulmak için birlikte çalışmak zorundadırlar.",
+        "poster_path": "/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10749,
+          878,
+          53
+        ],
+        "popularity": 1623.512,
+        "release_date": "2025-02-13",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 1685
+      },
+      {
+        "backdrop_path": "/1w8kutrRucTd3wlYyu5QlUDMiG1.jpg",
+        "id": 762509,
+        "title": "Mufasa: Aslan Kral",
+        "original_title": "Mufasa: The Lion King",
+        "overview": "Mufasa, efsanesini Simba ve Nala'nın kızı aslan yavrusu Kiara'ya aktarması için Rafiki'den yardım istiyor. Geçmişe dönüşlerle anlatılan hikaye, Mufasa'yı kaybolmuş ve yalnız bir yetim yavru olarak tanıtıyor, ta ki kraliyet soyunun varisi Taka adında sempatik bir aslanla tanışana kadar. Şans eseri buluşma, kaderlerini arayan olağanüstü bir grup uyumsuzun yola koyulmasına neden oluyor. Bu grubun arasındaki bağ, tehditkar ve ölümcül bir düşmandan kaçmak için birlikte çalışmaları sonucu sınanıyor.",
+        "poster_path": "/9kNoxoZqpriNLh9OSECyBZc3DZW.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          10751,
+          16
+        ],
+        "popularity": 1086.525,
+        "release_date": "2024-12-18",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 1552
+      },
+      {
+        "backdrop_path": "/xVMtv55caCEvBaV83DofmuZybmI.jpg",
+        "id": 724209,
+        "title": "Heart of Stone",
+        "original_title": "Heart of Stone",
+        "overview": "Bir istihbarat ajanı, adına çalıştığı küresel çaplı ve gizemli barışı koruma örgütünün en değerli ve en tehlikeli silahının bir hacker tarafından çalınmasını önlemeye çalışır.",
+        "poster_path": "/vB8o2p4ETnrfiWEgVxHmHWP9yRl.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          53,
+          28
+        ],
+        "popularity": 26.64,
+        "release_date": "2023-08-09",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 1747
+      },
+      {
+        "backdrop_path": "/sy0vo1cmpKqwPRiMUiJ45jyLsX7.jpg",
+        "id": 8871,
+        "title": "Grinç",
+        "original_title": "How the Grinch Stole Christmas",
+        "overview": "Whoville kasabasında yaklaşan Noel heyecanıyla hazırlıklar sürmektedir. Kasaba halkı birbirine en güzel hediyeleri almak için koşuştururken kasabaya tepeden bakan Crumpit Dağı’nda bir mağarada yaşayan Grinç, her Noel döneminde tekrarlanan bu çılgınca koşuşturmadan rahatsız bir biçimde aşağıdaki insanlara Noel’i nasıl zehir edebileceğinin planlarını yapmaktadır. Bu sırada kasabadan küçük bir kız Grinç’in kapısını çalar.",
+        "poster_path": "/6i4h80hwv8rYiFgyDk4SJ5WReDU.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          35,
+          14
+        ],
+        "popularity": 35.264,
+        "release_date": "2000-11-17",
+        "video": false,
+        "vote_average": 6.775,
+        "vote_count": 7716
+      },
+      {
+        "backdrop_path": "/bHeUgZKqduubnNl8GshjrpHS9lF.jpg",
+        "id": 558449,
+        "title": "Gladyatör II",
+        "original_title": "Gladiator II",
+        "overview": "Gladyatör Maximus Decimus Meridius’un ölümünden 15 yıl sonrasıdır. Kana susamış kalabalıklar yarı deli ikiz imparatorları zalimliğin yeni zirvelerine iterken Kolezyum’daki savaşlar çok daha ölümcül ve görkemli hâle gelmiştir. Roma İmparatorluğu sınırlarını genişleterek, yoluna çıkan her kültürü yağmalayarak ve hayatta kalanları ringde yaşamları için savaşmaya zorlayarak yeryüzündeki yürüyüşünü sürdürmektedir.",
+        "poster_path": "/dARTCpnHY0R0B28j5q5ynq7erua.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          18
+        ],
+        "popularity": 490.786,
+        "release_date": "2024-11-13",
+        "video": false,
+        "vote_average": 6.767,
+        "vote_count": 2952
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

@@ -1,0 +1,667 @@
+{
+  "adult": false,
+  "backdrop_path": "/e6q46lceHODnkqYeofyr085bzHS.jpg",
+  "created_by": [
+    {
+      "id": 2455415,
+      "credit_id": "66f958adf5d56e9ed8a250c6",
+      "name": "Sandra Santos",
+      "original_name": "Sandra Santos",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2014548,
+      "credit_id": "66f958b9f5d56e9ed8a250e3",
+      "name": "Alexandre Castro",
+      "original_name": "Alexandre Castro",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2025-01-27",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Pembe Dizi"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    }
+  ],
+  "homepage": "https://sic.pt/programas/a-heranca",
+  "id": 273050,
+  "in_production": true,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2025-03-04",
+  "last_episode_to_air": {
+    "id": 6001061,
+    "name": "29. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-06",
+    "episode_number": 29,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 273050,
+    "still_path": "/mPY2ack8VJynKzPlPqagnTljML6.jpg"
+  },
+  "name": "A Herança",
+  "next_episode_to_air": {
+    "id": 6001063,
+    "name": "30. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-07",
+    "episode_number": 30,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 273050,
+    "still_path": "/mPY2ack8VJynKzPlPqagnTljML6.jpg"
+  },
+  "networks": [
+    {
+      "id": 818,
+      "logo_path": "/iyEiVlVWoA6GHKLuNRpXtnPo2rh.png",
+      "name": "SIC",
+      "origin_country": "PT"
+    },
+    {
+      "id": 4547,
+      "logo_path": "/kaZQkqS9vhowK2P2SlfxYsGKskQ.png",
+      "name": "OPTO",
+      "origin_country": "PT"
+    }
+  ],
+  "number_of_episodes": 30,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_name": "A Herança",
+  "overview": "",
+  "popularity": 2231.814,
+  "poster_path": "/1fsHFRdqYQdxMtPxCuTIhKlOQga.jpg",
+  "production_companies": [
+    {
+      "id": 8413,
+      "logo_path": "/vZokJngHqGwMKJSgIUOky2Ui46a.png",
+      "name": "SIC - Sociedade Independente de Comunicação",
+      "origin_country": "PT"
+    },
+    {
+      "id": 178845,
+      "logo_path": "/cuhjoXa0Q20pX4uxclXEWh6leOC.png",
+      "name": "Opto SIC",
+      "origin_country": "PT"
+    },
+    {
+      "id": 92108,
+      "logo_path": "/ufaY7DMZUz56C6iaIdaFTZDqYPY.png",
+      "name": "SP Televisão",
+      "origin_country": "PT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-01-27",
+      "episode_count": 30,
+      "id": 421111,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/pQo1bHiTYKOed1TaX0cHzdP90uL.jpg",
+      "season_number": 1,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 937227,
+        "known_for_department": "Acting",
+        "name": "Patrícia Tavares",
+        "original_name": "Patrícia Tavares",
+        "popularity": 2.298,
+        "profile_path": "/zkEiqemsW1oNGlT92bSWajHDqjS.jpg",
+        "character": "Sofia Martins",
+        "credit_id": "66f95b67393cda1d1dcc5193",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1932462,
+        "known_for_department": "Acting",
+        "name": "Bárbara Branco",
+        "original_name": "Bárbara Branco",
+        "popularity": 1.73,
+        "profile_path": "/dIv08L10yVD2fyGT9ssc2vI7Lwr.jpg",
+        "character": "Beatriz Martins",
+        "credit_id": "66f95c77e7d24ebb2ba25448",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1738246,
+        "known_for_department": "Acting",
+        "name": "José Mata",
+        "original_name": "José Mata",
+        "popularity": 3.659,
+        "profile_path": "/ad98wxpAfkw69TPCL1wCuwn2Lsd.jpg",
+        "character": "Gonçalo Pereira",
+        "credit_id": "66f9624a393cda1d1dcc5383",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 107920,
+        "known_for_department": "Acting",
+        "name": "Ricardo Pereira",
+        "original_name": "Ricardo Pereira",
+        "popularity": 1.46,
+        "profile_path": "/ka35HapmYDkf1GSzmcDcl3YWEQa.jpg",
+        "character": "Vicente Viana",
+        "credit_id": "66f9622c271200492ecc5952",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1062256,
+        "known_for_department": "Acting",
+        "name": "Mariana Monteiro",
+        "original_name": "Mariana Monteiro",
+        "popularity": 0.074,
+        "profile_path": "/ymrJMspQufwLgh5JEs8vu3naonx.jpg",
+        "character": "Pilar Novais",
+        "credit_id": "66f9623c140fbf6a1a5f78a2",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1215348,
+        "known_for_department": "Acting",
+        "name": "Dânia Neto",
+        "original_name": "Dânia Neto",
+        "popularity": 2.15,
+        "profile_path": "/sN056INHnTxiz6ccqCu32uYydCe.jpg",
+        "character": "Inês Cardoso",
+        "credit_id": "66f9621d140fbf6a1a5f7896",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1453645,
+        "known_for_department": "Acting",
+        "name": "Cristovão Campos",
+        "original_name": "Cristovão Campos",
+        "popularity": 2.005,
+        "profile_path": "/iF5wfzYK8im3loC9AToPfAtMmbT.jpg",
+        "character": "Pedro Cardoso",
+        "credit_id": "6786e34fababbba040bbb315",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2026999,
+        "known_for_department": "Acting",
+        "name": "Laura Dutra",
+        "original_name": "Laura Dutra",
+        "popularity": 3.245,
+        "profile_path": "/ipSilYFln0N3UdiL3eboTv8XWS1.jpg",
+        "character": "Teresa «Teresinha» Santos",
+        "credit_id": "6786e304bd3955b2467afc84",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4336666,
+        "known_for_department": "Acting",
+        "name": "Rui Pedro Silva",
+        "original_name": "Rui Pedro Silva",
+        "popularity": 0.001,
+        "profile_path": "/eTch9IWfdtkWgFSYXl5toMUzYOB.jpg",
+        "character": "Bernardo Novais",
+        "credit_id": "6786e332caa53e90987aee80",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1932453,
+        "known_for_department": "Acting",
+        "name": "Tiago Felizardo",
+        "original_name": "Tiago Felizardo",
+        "popularity": 0.039,
+        "profile_path": "/m3gIrzQSzt11IwMC3g1hxbUMex4.jpg",
+        "character": "Simão Carneiro",
+        "credit_id": "6786e36f601acfe7bd4f8f0c",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1905762,
+        "known_for_department": "Acting",
+        "name": "Joana Aguiar",
+        "original_name": "Joana Aguiar",
+        "popularity": 2.929,
+        "profile_path": "/axmZgj7VdUkQ4PosRD41rUb30tj.jpg",
+        "character": "Mariana Novais",
+        "credit_id": "6786e30ebd3955b2467afc8b",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2175730,
+        "known_for_department": "Acting",
+        "name": "Diogo Lopes",
+        "original_name": "Diogo Lopes",
+        "popularity": 0.246,
+        "profile_path": "/zkcb9UKVTT4YmEYWGnWeH3604lb.jpg",
+        "character": "Rafael Novais",
+        "credit_id": "6786e383caa53e90987aeeb4",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1159853,
+        "known_for_department": "Acting",
+        "name": "Sofia Sá da Bandeira",
+        "original_name": "Sofia Sá da Bandeira",
+        "popularity": 2.128,
+        "profile_path": "/i3AbSKPb3fkf6gMGoMd1jVmTA3w.jpg",
+        "character": "Brígida Novais",
+        "credit_id": "6786e345bd3955b2467afc9f",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2580229,
+        "known_for_department": "Acting",
+        "name": "Noémia Costa",
+        "original_name": "Noémia Costa",
+        "popularity": 0.354,
+        "profile_path": "/oO2BKQhr9vqeKpTv6dFMHYLz7we.jpg",
+        "character": "Lucília Sousa",
+        "credit_id": "6797bc780a30d6d05924213e",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147109,
+        "known_for_department": "Acting",
+        "name": "Fernando Luís",
+        "original_name": "Fernando Luís",
+        "popularity": 2.36,
+        "profile_path": "/6yhXyfOheN5UYf7sgq2CheDdL5j.jpg",
+        "character": "Augusto Pereira",
+        "credit_id": "6794e58d9a30a85b27237fdd",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 108454,
+        "known_for_department": "Acting",
+        "name": "Ana Bustorff",
+        "original_name": "Ana Bustorff",
+        "popularity": 1.655,
+        "profile_path": "/8DCRwf1qBHjmXxEnWHwxWV3wIyA.jpg",
+        "character": "Amélia Viana",
+        "credit_id": "6786e38bfe294a0b474e8ad4",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1582145,
+        "known_for_department": "Acting",
+        "name": "Pedro Lacerda",
+        "original_name": "Pedro Lacerda",
+        "popularity": 0.715,
+        "profile_path": "/fFccOHqDppqIu2gZKA7JFlnSLvr.jpg",
+        "character": "Nando Sousa",
+        "credit_id": "6797bc87702f492f478f57c6",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1090804,
+        "known_for_department": "Acting",
+        "name": "Débora Monteiro",
+        "original_name": "Débora Monteiro",
+        "popularity": 1.303,
+        "profile_path": "/xUM8tJMdAaNLuh2AqoaCbIA6lD8.jpg",
+        "character": "Susana Barbosa",
+        "credit_id": "6786e395ababbba040bbb339",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 138325,
+        "known_for_department": "Acting",
+        "name": "Tomás Alves",
+        "original_name": "Tomás Alves",
+        "popularity": 1.2,
+        "profile_path": "/lHYRDtPxFJBQ8flXLOfDWb0rVlK.jpg",
+        "character": "Heitor Rodrigues",
+        "credit_id": "6786e36362e8fa629dbb2475",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2580232,
+        "known_for_department": "Acting",
+        "name": "Isabela Valadeiro",
+        "original_name": "Isabela Valadeiro",
+        "popularity": 1.218,
+        "profile_path": "/dPJi0bZcCGZmDHQqW3MEwFph2Oz.jpg",
+        "character": "Cláudia Barbosa",
+        "credit_id": "6786e33bababbba040bbb300",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1995977,
+        "known_for_department": "Acting",
+        "name": "Francisco Froes",
+        "original_name": "Francisco Froes",
+        "popularity": 1.631,
+        "profile_path": "/zXsK7w4CzKGHf3t7jARw186mjyE.jpg",
+        "character": "Félix Branco",
+        "credit_id": "6786e3751fc0ec7f087b2088",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1748882,
+        "known_for_department": "Acting",
+        "name": "Rosa do Canto",
+        "original_name": "Rosa do Canto",
+        "popularity": 3.198,
+        "profile_path": "/sZqVWaBUBELGfu26WrwgDeSgCF1.jpg",
+        "character": "Gertrudes Cardoso",
+        "credit_id": "6797bcd4702f492f478f57e1",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 107919,
+        "known_for_department": "Acting",
+        "name": "António Pedro Cerdeira",
+        "original_name": "António Pedro Cerdeira",
+        "popularity": 1.425,
+        "profile_path": "/A9w1P9lJF82UILfhOQzIj5dM07v.jpg",
+        "character": "Otávio Martins",
+        "credit_id": "6794de9125d2980fb023c000",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2014562,
+        "known_for_department": "Acting",
+        "name": "Vera Moura",
+        "original_name": "Vera Moura",
+        "popularity": 1.113,
+        "profile_path": "/fUMRLvtEitEXLoCcmPNwN58s7bB.jpg",
+        "character": "Marta Sousa",
+        "credit_id": "6797bc91013209f8918f6603",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2147463,
+        "known_for_department": "Acting",
+        "name": "Guilherme Moura",
+        "original_name": "Guilherme Moura",
+        "popularity": 0.308,
+        "profile_path": "/xnJqDmEaR6IbcwvG5eM9PL2eyJe.jpg",
+        "character": "João Carlos «Joca» Sousa",
+        "credit_id": "6786e3a5ababbba040bbb3a5",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 107915,
+        "known_for_department": "Acting",
+        "name": "Sandra Barata Belo",
+        "original_name": "Sandra Barata Belo",
+        "popularity": 1.267,
+        "profile_path": "/vN4Hu83sarXvVtEWjPWWUaYF93z.jpg",
+        "character": "Clara Tavares",
+        "credit_id": "6797bcc90a30d6d0592421b6",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1018063,
+        "known_for_department": "Acting",
+        "name": "Fernando Rocha",
+        "original_name": "Fernando Rocha",
+        "popularity": 1.435,
+        "profile_path": "/qq1zvtX3Oqmu7N5WEbj1tY2u3N4.jpg",
+        "character": "Jacinto Correia",
+        "credit_id": "6794e59e3be0b7b6f323badc",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1037981,
+        "known_for_department": "Acting",
+        "name": "Marisa Cruz",
+        "original_name": "Marisa Cruz",
+        "popularity": 2.162,
+        "profile_path": "/b7Os4gwiJjeTV4KOJSwspfLKtHR.jpg",
+        "character": "Diana Coelho",
+        "credit_id": "6794e5d63be0b7b6f323bafc",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2360214,
+        "known_for_department": "Acting",
+        "name": "Rui Santos",
+        "original_name": "Rui Santos",
+        "popularity": 0.246,
+        "profile_path": "/gvprHwyTOdqIrieaydTDhyekM4z.jpg",
+        "character": "Mateus Cruz",
+        "credit_id": "6797bcea0a30d6d0592421c9",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5202246,
+        "known_for_department": "Acting",
+        "name": "Diana Ginja",
+        "original_name": "Diana Ginja",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Pipa Novais",
+        "credit_id": "6794de7a90390f4881188f76",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4458685,
+        "known_for_department": "Acting",
+        "name": "Laura Seiça",
+        "original_name": "Laura Seiça",
+        "popularity": 0.001,
+        "profile_path": "/urILN7ptvA2SxTj48vYbsDkc7Zf.jpg",
+        "character": "Olívia Barbosa",
+        "credit_id": "6794e5c844ef39c86018887f",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5143277,
+        "known_for_department": "Acting",
+        "name": "Vicente Ramirez",
+        "original_name": "Vicente Ramirez",
+        "popularity": 0.001,
+        "profile_path": "/bOyUFFZgKAz5paDI4dDdttDQg9G.jpg",
+        "character": "Luís Cardoso",
+        "credit_id": "6797bc550e1e0486d62b4a13",
+        "order": 31
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2014548,
+        "known_for_department": "Creator",
+        "name": "Alexandre Castro",
+        "original_name": "Alexandre Castro",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "66f95921621e8616b45f760c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4505112,
+        "known_for_department": "Creator",
+        "name": "Sandra Santos",
+        "original_name": "Sandra Santos",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "66f959462c4bdc9db05f721d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2623955,
+        "known_for_department": "Directing",
+        "name": "Manuel Amaro da Costa",
+        "original_name": "Manuel Amaro da Costa",
+        "popularity": 0.172,
+        "profile_path": null,
+        "credit_id": "6793b8e757975f1b0b1865a5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3907560,
+        "known_for_department": "Directing",
+        "name": "Bruno Oliveira",
+        "original_name": "Bruno Oliveira",
+        "popularity": 0.001,
+        "profile_path": "/8Ydn42Qy9FxIL57O7oy082CAnjG.jpg",
+        "credit_id": "6793b8f239da13f4cb4832c9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2923094,
+        "known_for_department": "Directing",
+        "name": "Hugo Xavier",
+        "original_name": "Hugo Xavier",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "6793b8fe57975f1b0b1865b8",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2217531,
+        "known_for_department": "Directing",
+        "name": "Gonçalo Lebre",
+        "original_name": "Gonçalo Lebre",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "6793b92357975f1b0b1865d2",
+        "department": "Directing",
+        "job": "First Assistant Director (Prep)"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "soap opera",
+        "id": 291959
+      },
+      {
+        "name": "portuguese soap opera",
+        "id": 345206
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [],
+    "total_pages": 0,
+    "total_results": 0
+  }
+}

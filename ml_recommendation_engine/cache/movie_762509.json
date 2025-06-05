@@ -1,0 +1,1339 @@
+{
+  "adult": false,
+  "backdrop_path": "/1w8kutrRucTd3wlYyu5QlUDMiG1.jpg",
+  "belongs_to_collection": {
+    "id": 762512,
+    "name": "The Lion King (Reboot) Collection",
+    "poster_path": "/dGpIRn4Nqi63JO1RlKxjcPbQSAw.jpg",
+    "backdrop_path": "/jIgM7YNVft0YGeXsqrh3oG5TWLx.jpg"
+  },
+  "budget": 200000000,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Macera"
+    },
+    {
+      "id": 10751,
+      "name": "Aile"
+    },
+    {
+      "id": 16,
+      "name": "Animasyon"
+    }
+  ],
+  "homepage": "",
+  "id": 762509,
+  "imdb_id": "tt13186482",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Mufasa: The Lion King",
+  "overview": "Mufasa, efsanesini Simba ve Nala'nın kızı aslan yavrusu Kiara'ya aktarması için Rafiki'den yardım istiyor. Geçmişe dönüşlerle anlatılan hikaye, Mufasa'yı kaybolmuş ve yalnız bir yetim yavru olarak tanıtıyor, ta ki kraliyet soyunun varisi Taka adında sempatik bir aslanla tanışana kadar. Şans eseri buluşma, kaderlerini arayan olağanüstü bir grup uyumsuzun yola koyulmasına neden oluyor. Bu grubun arasındaki bağ, tehditkar ve ölümcül bir düşmandan kaçmak için birlikte çalışmaları sonucu sınanıyor.",
+  "popularity": 1086.525,
+  "poster_path": "/9kNoxoZqpriNLh9OSECyBZc3DZW.jpg",
+  "production_companies": [
+    {
+      "id": 2,
+      "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+      "name": "Walt Disney Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-12-18",
+  "revenue": 700197856,
+  "runtime": 118,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Dışarıdan gelen yetim kral.",
+  "title": "Mufasa: Aslan Kral",
+  "video": false,
+  "vote_average": 7.47,
+  "vote_count": 1551,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1763709,
+        "known_for_department": "Acting",
+        "name": "Aaron Pierre",
+        "original_name": "Aaron Pierre",
+        "popularity": 36.885,
+        "profile_path": "/z2cMMZyWzv5ztT6pFdAAjB3u7CQ.jpg",
+        "cast_id": 73,
+        "character": "Mufasa (voice)",
+        "credit_id": "6784ce60bd793c03544ec5ff",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1344361,
+        "known_for_department": "Acting",
+        "name": "Kelvin Harrison, Jr.",
+        "original_name": "Kelvin Harrison, Jr.",
+        "popularity": 15.832,
+        "profile_path": "/6kpDyaZzmSbqCNYuXZUfeMwS1bq.jpg",
+        "cast_id": 13,
+        "character": "Taka (voice)",
+        "credit_id": "61290ee48d1b8e00274ef40e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1074676,
+        "known_for_department": "Acting",
+        "name": "Tiffany Boone",
+        "original_name": "Tiffany Boone",
+        "popularity": 4.971,
+        "profile_path": "/9LwqRFdSzxVtnutDUg98YLq0bSz.jpg",
+        "cast_id": 33,
+        "character": "Sarabi (voice)",
+        "credit_id": "662fc6c9072166012a6a405f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 107529,
+        "known_for_department": "Acting",
+        "name": "Kagiso Lediga",
+        "original_name": "Kagiso Lediga",
+        "popularity": 4.658,
+        "profile_path": "/nfqx3CqFVsAMelk6ry560SuN7Y0.jpg",
+        "cast_id": 34,
+        "character": "Young Rafiki (voice)",
+        "credit_id": "662fc70151c01f012a59e903",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1251835,
+        "known_for_department": "Acting",
+        "name": "Preston Nyman",
+        "original_name": "Preston Nyman",
+        "popularity": 7.139,
+        "profile_path": "/eidKvLDCRw68tG3CN6fGhvHUnW.jpg",
+        "cast_id": 35,
+        "character": "Zazu (voice)",
+        "credit_id": "662fc717c3aa3f0129fdf9e4",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1680929,
+        "known_for_department": "Acting",
+        "name": "Blue Ivy Carter",
+        "original_name": "Blue Ivy Carter",
+        "popularity": 4.774,
+        "profile_path": "/mnaFedkdW9TFCkky7fiiT5dfXye.jpg",
+        "cast_id": 17,
+        "character": "Kiara (voice)",
+        "credit_id": "662f966f07216601276a24cd",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51878,
+        "known_for_department": "Acting",
+        "name": "John Kani",
+        "original_name": "John Kani",
+        "popularity": 8.896,
+        "profile_path": "/g7tqg3q128a5O2qXMCwVnXsow9I.jpg",
+        "cast_id": 19,
+        "character": "Rafiki (voice)",
+        "credit_id": "662f97201f0275012c14d656",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1019,
+        "known_for_department": "Acting",
+        "name": "Mads Mikkelsen",
+        "original_name": "Mads Mikkelsen",
+        "popularity": 72.505,
+        "profile_path": "/ntwPvV4GKGGHO3I7LcHMwhXfsw9.jpg",
+        "cast_id": 18,
+        "character": "Kiros (voice)",
+        "credit_id": "662f96797d5db501233ea048",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19274,
+        "known_for_department": "Acting",
+        "name": "Seth Rogen",
+        "original_name": "Seth Rogen",
+        "popularity": 33.119,
+        "profile_path": "/2dPFskUtoiG0xafsSEGl9Oz4teA.jpg",
+        "cast_id": 16,
+        "character": "Pumbaa (voice)",
+        "credit_id": "631bcd2539549a007b72db26",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 973651,
+        "known_for_department": "Acting",
+        "name": "Billy Eichner",
+        "original_name": "Billy Eichner",
+        "popularity": 10.24,
+        "profile_path": "/kScO4moqNlDbyCTZuIoBqyaml4l.jpg",
+        "cast_id": 15,
+        "character": "Timon (voice)",
+        "credit_id": "631bcd1ed399e60084857855",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9030,
+        "known_for_department": "Acting",
+        "name": "Thandiwe Newton",
+        "original_name": "Thandiwe Newton",
+        "popularity": 18.812,
+        "profile_path": "/hZQLvxj7nV7pBrRyWTvWVz1CDi8.jpg",
+        "cast_id": 21,
+        "character": "Eshe (voice)",
+        "credit_id": "662f97315a78840124c22356",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1120,
+        "known_for_department": "Acting",
+        "name": "Lennie James",
+        "original_name": "Lennie James",
+        "popularity": 12.955,
+        "profile_path": "/hfZrdEkBHxYYbMoGHAaVomlgMi.jpg",
+        "cast_id": 36,
+        "character": "Obasi (voice)",
+        "credit_id": "662fc737511d090124c59620",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15563,
+        "known_for_department": "Acting",
+        "name": "Anika Noni Rose",
+        "original_name": "Anika Noni Rose",
+        "popularity": 8.76,
+        "profile_path": "/d7aLtuNXBqVtqNnZl8wXsFV4ML5.jpg",
+        "cast_id": 31,
+        "character": "Afia (voice)",
+        "credit_id": "662fc66da806730128e97a97",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65827,
+        "known_for_department": "Acting",
+        "name": "Keith David",
+        "original_name": "Keith David",
+        "popularity": 33.636,
+        "profile_path": "/jJLJuR7FNHYL1fB5igjj7IXzOel.jpg",
+        "cast_id": 32,
+        "character": "Masego (voice)",
+        "credit_id": "662fc694072166012a6a404c",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3023201,
+        "known_for_department": "Acting",
+        "name": "Braelyn Rankins",
+        "original_name": "Braelyn Rankins",
+        "popularity": 1.565,
+        "profile_path": "/iiu6HOfpieGzk2gXd5JfUtKnNrH.jpg",
+        "cast_id": 50,
+        "character": "Mufasa Cub (voice)",
+        "credit_id": "673ff51c32a9aaf43d9675c3",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4683002,
+        "known_for_department": "Acting",
+        "name": "Theo Somolu",
+        "original_name": "Theo Somolu",
+        "popularity": 0.001,
+        "profile_path": "/gKAER6rgRfm2qmr6Rj7DDWDAEtn.jpg",
+        "cast_id": 51,
+        "character": "Taka Cub (voice)",
+        "credit_id": "673ff52e8b4e4c2ef6f77b47",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 14386,
+        "known_for_department": "Acting",
+        "name": "Beyoncé",
+        "original_name": "Beyoncé",
+        "popularity": 7.808,
+        "profile_path": "/9MgDCYBBVBl4lM1DuxNIIbCHlKy.jpg",
+        "cast_id": 22,
+        "character": "Nala (voice)",
+        "credit_id": "662f9769a199a6012b72eea2",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119589,
+        "known_for_department": "Acting",
+        "name": "Donald Glover",
+        "original_name": "Donald Glover",
+        "popularity": 10.588,
+        "profile_path": "/9uS8bu5Jwnc5R3CKDNZ14EzIUs2.jpg",
+        "cast_id": 20,
+        "character": "Simba (voice)",
+        "credit_id": "662f972b1f0275012414cf68",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1454313,
+        "known_for_department": "Acting",
+        "name": "Folake Olowofoyeku",
+        "original_name": "Folake Olowofoyeku",
+        "popularity": 7.209,
+        "profile_path": "/9wKHnDBZuzRbZ6O5is2C1DfBHQG.jpg",
+        "cast_id": 52,
+        "character": "Amara (voice)",
+        "credit_id": "673ff544dae2e6a9382551b2",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3071892,
+        "known_for_department": "Acting",
+        "name": "Joanna Jones",
+        "original_name": "Joanna Jones",
+        "popularity": 0.541,
+        "profile_path": "/cUACIEiutsjUL1ztAP0zqxmEB1B.jpg",
+        "cast_id": 53,
+        "character": "Akua (voice)",
+        "credit_id": "673ff555dd53fa0060331c57",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2286339,
+        "known_for_department": "Acting",
+        "name": "Thuso Mbedu",
+        "original_name": "Thuso Mbedu",
+        "popularity": 6.807,
+        "profile_path": "/pAStLwNMw8Seb0BM4uqrdOvtjK1.jpg",
+        "cast_id": 54,
+        "character": "Junia (voice)",
+        "credit_id": "673ff566d7bee5585c559cbb",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1851642,
+        "known_for_department": "Acting",
+        "name": "Sheila Atim",
+        "original_name": "Sheila Atim",
+        "popularity": 2.874,
+        "profile_path": "/esAjvG2IXvzQODNEHVCVsc4WALI.jpg",
+        "cast_id": 55,
+        "character": "Ajarry (voice)",
+        "credit_id": "673ff5761cd8c243e6be5d6f",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58431,
+        "known_for_department": "Acting",
+        "name": "Abdul Salis",
+        "original_name": "Abdul Salis",
+        "popularity": 1.947,
+        "profile_path": "/2gDH3kNzUr4IUZLbCiYR9OCTjGa.jpg",
+        "cast_id": 56,
+        "character": "Chigaru (voice)",
+        "credit_id": "673ff584f0f2ed8f9851c61e",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 95200,
+        "known_for_department": "Acting",
+        "name": "Dominique Jennings",
+        "original_name": "Dominique Jennings",
+        "popularity": 5.611,
+        "profile_path": "/gQvFevYR8dyH0TTOnOAV8tOMSEO.jpg",
+        "cast_id": 57,
+        "character": "Sarafi (voice)",
+        "credit_id": "673ff593d7bee5585c559cd6",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1862430,
+        "known_for_department": "Acting",
+        "name": "Derrick L. McMillon",
+        "original_name": "Derrick L. McMillon",
+        "popularity": 3.346,
+        "profile_path": "/xYp02xs3ynwg86NkDQebXN3npSG.jpg",
+        "cast_id": 58,
+        "character": "Mosi (voice)",
+        "credit_id": "6755ca8e2378497675756fd9",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1224603,
+        "known_for_department": "Acting",
+        "name": "Maestro Harrell",
+        "original_name": "Maestro Harrell",
+        "popularity": 6.755,
+        "profile_path": "/7cD4uixyLp8vq5MD0SB7dqLHtAs.jpg",
+        "cast_id": 59,
+        "character": "Inaki (voice)",
+        "credit_id": "6755ca9d0564b1ea9b6eceb5",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4209979,
+        "known_for_department": "Acting",
+        "name": "AJ Beckles",
+        "original_name": "AJ Beckles",
+        "popularity": 1.699,
+        "profile_path": "/gSFgVJnm71MffjyAOk4MyYVc8Yy.jpg",
+        "cast_id": 60,
+        "character": "Azibo (voice)",
+        "credit_id": "6755caaf6f37f6e89adc5d2d",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71078,
+        "known_for_department": "Acting",
+        "name": "David S. Lee",
+        "original_name": "David S. Lee",
+        "popularity": 6.073,
+        "profile_path": "/Je5btH3d4hREmOH7sHusD0J7ky.jpg",
+        "cast_id": 61,
+        "character": "Mobo (voice)",
+        "credit_id": "6755cabd2378497675756ff2",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3661561,
+        "known_for_department": "Acting",
+        "name": "Brielle Rankins",
+        "original_name": "Brielle Rankins",
+        "popularity": 0.001,
+        "profile_path": "/hcsmnAnnKJkVKETEQdkV52d30HY.jpg",
+        "cast_id": 62,
+        "character": "Mufasa Cub additional lines (voice)",
+        "credit_id": "6755cae066c89f44182bfe17",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15152,
+        "known_for_department": "Acting",
+        "name": "James Earl Jones",
+        "original_name": "James Earl Jones",
+        "popularity": 31.677,
+        "profile_path": "/oqMPIsXrl9SZkRfIKN08eFROmH6.jpg",
+        "cast_id": 74,
+        "character": "Mufasa (Archive Voice)",
+        "credit_id": "6786deb0bd3955b2467afc71",
+        "order": 29
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1681304,
+        "known_for_department": "Editing",
+        "name": "Joi McMillon",
+        "original_name": "Joi McMillon",
+        "popularity": 0.445,
+        "profile_path": "/wdg9gRjHUQlBoyXILnQvfEOjl7b.jpg",
+        "credit_id": "605670a46f6a99003f35c9ee",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42265,
+        "known_for_department": "Production",
+        "name": "Peter M. Tobyansen",
+        "original_name": "Peter M. Tobyansen",
+        "popularity": 4.68,
+        "profile_path": null,
+        "credit_id": "605670771bf266002887f1e9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5670,
+        "known_for_department": "Art",
+        "name": "Mark Friedberg",
+        "original_name": "Mark Friedberg",
+        "popularity": 5.377,
+        "profile_path": "/3vs2xBKrXlXmkZEHBdhb0R5eeSJ.jpg",
+        "credit_id": "626847db924ce600504c771c",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1179651,
+        "known_for_department": "Acting",
+        "name": "Lin-Manuel Miranda",
+        "original_name": "Lin-Manuel Miranda",
+        "popularity": 21.72,
+        "profile_path": "/r0wFwPa041pZ1QM66yJWuQXCkqx.jpg",
+        "credit_id": "662f97cb0792e101267b36b7",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2689,
+        "known_for_department": "Writing",
+        "name": "Jeff Nathanson",
+        "original_name": "Jeff Nathanson",
+        "popularity": 5.729,
+        "profile_path": "/38g0OMsqGcGppAGM6BIep7ZbdPc.jpg",
+        "credit_id": "662f9a587d5db501263e979f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3247563,
+        "known_for_department": "Acting",
+        "name": "Lebo M.",
+        "original_name": "Lebo M.",
+        "popularity": 0.058,
+        "profile_path": "/iqsXzHBbu2fsxgkk4VR0DGaiDAR.jpg",
+        "credit_id": "662fe24966751d0127841bab",
+        "department": "Crew",
+        "job": "Additional Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85960,
+        "known_for_department": "Sound",
+        "name": "Paula Fairfield",
+        "original_name": "Paula Fairfield",
+        "popularity": 3.268,
+        "profile_path": "/rKXrhz7Pg21YPNhzng241FTtb6e.jpg",
+        "credit_id": "662ff2f3713ea6012b695ba5",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92784,
+        "known_for_department": "Directing",
+        "name": "Barry Jenkins",
+        "original_name": "Barry Jenkins",
+        "popularity": 6.413,
+        "profile_path": "/6nld5eQwiJmuLmyesk4EUeCaoo3.jpg",
+        "credit_id": "5fa9c38b1b7294003b96e62b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 969845,
+        "known_for_department": "Production",
+        "name": "Adele Romanski",
+        "original_name": "Adele Romanski",
+        "popularity": 1.754,
+        "profile_path": "/7albgSdV3st5kof9W1gbDtP2xBn.jpg",
+        "credit_id": "5fa9c41b211ce5003b87ba9a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2411897,
+        "known_for_department": "Production",
+        "name": "Mark Ceryak",
+        "original_name": "Mark Ceryak",
+        "popularity": 0.763,
+        "profile_path": "/3XuRWog48q0e9mcXlOzq0HgxIDs.jpg",
+        "credit_id": "5fa9c40f519bbb003f55d749",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 960350,
+        "known_for_department": "Camera",
+        "name": "James Laxton",
+        "original_name": "James Laxton",
+        "popularity": 2.604,
+        "profile_path": "/wD83C5pD7eHdfULlS6pFlWnRs4O.jpg",
+        "credit_id": "5fd91e1c3344c6003db09e35",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15152,
+        "known_for_department": "Acting",
+        "name": "James Earl Jones",
+        "original_name": "James Earl Jones",
+        "popularity": 31.677,
+        "profile_path": "/oqMPIsXrl9SZkRfIKN08eFROmH6.jpg",
+        "credit_id": "66f32d4d04dc8229f6cee06d",
+        "department": "Crew",
+        "job": "In Memory Of"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61974,
+        "known_for_department": "Sound",
+        "name": "Dave Metzger",
+        "original_name": "Dave Metzger",
+        "popularity": 2.346,
+        "profile_path": "/gfjnhloiQUilQNElVc39F9dCnmB.jpg",
+        "credit_id": "66f733408aae2a5e7d920d35",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 931976,
+        "known_for_department": "Sound",
+        "name": "Onnalee Blank",
+        "original_name": "Onnalee Blank",
+        "popularity": 0.92,
+        "profile_path": null,
+        "credit_id": "671ec9b19ff681d9e0a48585",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 56041,
+        "known_for_department": "Writing",
+        "name": "Irene Mecchi",
+        "original_name": "Irene Mecchi",
+        "popularity": 6.073,
+        "profile_path": "/qvr0TCXL8XxC2ivChfq7DssuDGs.jpg",
+        "credit_id": "67574731d7b16434a89f7b62",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7933,
+        "known_for_department": "Writing",
+        "name": "Jonathan Roberts",
+        "original_name": "Jonathan Roberts",
+        "popularity": 2.934,
+        "profile_path": null,
+        "credit_id": "6757473ea18cb8695afd98a6",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 38792,
+        "known_for_department": "Writing",
+        "name": "Linda Woolverton",
+        "original_name": "Linda Woolverton",
+        "popularity": 7.031,
+        "profile_path": "/AagHXmW37oiLSCsUYIifAaFfkz.jpg",
+        "credit_id": "6757474aa18cb8695afd98ad",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3247563,
+        "known_for_department": "Acting",
+        "name": "Lebo M.",
+        "original_name": "Lebo M.",
+        "popularity": 0.058,
+        "profile_path": "/iqsXzHBbu2fsxgkk4VR0DGaiDAR.jpg",
+        "credit_id": "6757477a8b2cc2788b11ef70",
+        "department": "Sound",
+        "job": "Vocals"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6410,
+        "known_for_department": "Production",
+        "name": "Francine Maisler",
+        "original_name": "Francine Maisler",
+        "popularity": 5.367,
+        "profile_path": "/5pOiu0SLr3XCB3a8SDwQ70KHINq.jpg",
+        "credit_id": "6761e0695f8a89d232d34982",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1729089,
+        "known_for_department": "Art",
+        "name": "Jared Patrick Gerbig",
+        "original_name": "Jared Patrick Gerbig",
+        "popularity": 0.741,
+        "profile_path": null,
+        "credit_id": "6761e1cb0bd51ce3ead3475e",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11508,
+        "known_for_department": "Art",
+        "name": "Dan Webster",
+        "original_name": "Dan Webster",
+        "popularity": 3.345,
+        "profile_path": null,
+        "credit_id": "6761e347432d6c7cb3fb3fed",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3687,
+        "known_for_department": "Sound",
+        "name": "Harry Cohen",
+        "original_name": "Harry Cohen",
+        "popularity": 3.692,
+        "profile_path": "/pXDkgsdiMfmChkHpSvVIqYYAdFj.jpg",
+        "credit_id": "6761e4e87cb01f573d254ea1",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9419,
+        "known_for_department": "Sound",
+        "name": "Benjamin L. Cook",
+        "original_name": "Benjamin L. Cook",
+        "popularity": 2.062,
+        "profile_path": null,
+        "credit_id": "6761e5e88dbe1f029f254fef",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1049272,
+        "known_for_department": "Visual Effects",
+        "name": "Adam Valdez",
+        "original_name": "Adam Valdez",
+        "popularity": 1.119,
+        "profile_path": null,
+        "credit_id": "6761e6321166a27098d34706",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1715141,
+        "known_for_department": "Visual Effects",
+        "name": "Audrey Ferrara",
+        "original_name": "Audrey Ferrara",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "6797c0ca9ca029099c2b1a74",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11370,
+        "known_for_department": "Acting",
+        "name": "Elton John",
+        "original_name": "Elton John",
+        "popularity": 11.831,
+        "profile_path": "/9G3k29OWPyZtScEDZEAsFJpqiM7.jpg",
+        "credit_id": "67c51e30881c013ede7a68c9",
+        "department": "Sound",
+        "job": "Songs"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 6054,
+        "name": "friendship"
+      },
+      {
+        "id": 439,
+        "name": "paradise"
+      },
+      {
+        "id": 2043,
+        "name": "lion"
+      },
+      {
+        "id": 4344,
+        "name": "musical"
+      },
+      {
+        "id": 9675,
+        "name": "prequel"
+      },
+      {
+        "id": 10787,
+        "name": "jungle"
+      },
+      {
+        "id": 171826,
+        "name": "told in flashback"
+      },
+      {
+        "id": 171854,
+        "name": "betrayal by friend"
+      },
+      {
+        "id": 177973,
+        "name": "chance meeting"
+      },
+      {
+        "id": 245230,
+        "name": "live action remake"
+      },
+      {
+        "id": 248927,
+        "name": "found family"
+      },
+      {
+        "id": 262419,
+        "name": "lost"
+      },
+      {
+        "id": 325764,
+        "name": "ambivalent"
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "tr",
+        "iso_3166_1": "TR",
+        "name": "Türkçe Dublajlı İlk Resmi Fragman",
+        "key": "uZw8XigYBic",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "published_at": "2024-04-30T08:04:09.000Z",
+        "id": "669a802688da384461a3beb7"
+      },
+      {
+        "iso_639_1": "tr",
+        "iso_3166_1": "TR",
+        "name": "Türkçe Altyazılı İlk Resmi Fragman",
+        "key": "IAh-IPyHQSg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "published_at": "2024-04-29T13:11:57.000Z",
+        "id": "669a803e830c80de0b3c396e"
+      }
+    ]
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
+        "id": 1241982,
+        "title": "Moana 2",
+        "original_title": "Moana 2",
+        "overview": "Moana ve Maui'yi üç yıl sonra alışılmadık denizcilerden oluşan bir ekiple birlikte geniş kapsamlı yeni bir yolculuk için yeniden bir araya getiriyor. Yol gösterici atalarından beklenmedik bir çağrı alan Moana, daha önce karşılaşmadığı bir macera için Okyanusya'nın uzak denizlerine, tehlikeli ve uzun süredir bilinmeyen sularına yolculuk etmek zorunda.",
+        "poster_path": "/3C9jcjZSwRVDk83VgBK7WU5qVQ8.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          12,
+          10751,
+          35
+        ],
+        "popularity": 1059.555,
+        "release_date": "2024-11-21",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 1776
+      },
+      {
+        "backdrop_path": "/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+        "id": 939243,
+        "title": "Kirpi Sonic 3",
+        "original_title": "Sonic the Hedgehog 3",
+        "overview": "Süpersonik hızlarda koşabilen mavi bir kirpi olan Sonic'in maceralarını konu alan bu seride, dostları Knuckles ve Tails ile birlikte, daha önce karşılaştıkları hiçbir şeye benzemeyen gizemli ve güçlü bir düşman olan Shadow'a karşı mücadele ediyor. Shadow, sahip olduğu benzersiz yeteneklerle Sonic ve arkadaşlarını zorluyor. Bu tehlikeli düşmanı durdurmak ve gezegeni korumak için Sonic ve ekibi, beklenmedik ittifaklar kurmak zorunda kalıyor.",
+        "poster_path": "/xo04W0XBJRRERjATgmDm1QsJUTP.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          878,
+          35,
+          10751
+        ],
+        "popularity": 1013.822,
+        "release_date": "2024-12-19",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 2079
+      },
+      {
+        "backdrop_path": "/sGFR4zSOsogo77Wi5XI0P5il0ek.jpg",
+        "id": 1126166,
+        "title": "Ölümcül Uçuş",
+        "original_title": "Flight Risk",
+        "overview": "Bir hava mareşali eşliğinde bir firariyi mahkemeye götüren bir pilotun hikâyesi anlatılıyor. Alaska'nın vahşi doğasını geçerken gerilimler artar ve güven sarsılır çünkü uçaktaki hiç kimse göründüğü gibi değildir.",
+        "poster_path": "/9xejLLz5QCPto0eR7od8FZn2DLt.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          53,
+          80
+        ],
+        "popularity": 1543.187,
+        "release_date": "2025-01-22",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 385
+      },
+      {
+        "backdrop_path": "/rOmUuQEZfPXglwFs5ELLLUDKodL.jpg",
+        "id": 845781,
+        "title": "Kod Adı: Kırmızı",
+        "original_title": "Red One",
+        "overview": "Kuzey Kutbu'nun Güvenlik Şefi (Dwayne Johnson), Noel'i kurtarmak için dünyanın en kötü şöhretli ödül avcısıyla (Chris Evans) dünyayı dolaşacakları aksiyon dolu bir görevde bir araya gelmek zorunda kalır.",
+        "poster_path": "/ymEu97tJ8h2sUAhaw8CU3MGTi9v.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          14,
+          35
+        ],
+        "popularity": 238.025,
+        "release_date": "2024-10-31",
+        "video": false,
+        "vote_average": 7.069,
+        "vote_count": 2360
+      },
+      {
+        "backdrop_path": "/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
+        "id": 950396,
+        "title": "The Gorge",
+        "original_title": "The Gorge",
+        "overview": "Yüksek eğitimli iki ajan, gizemli bir vadinin iki tarafını korumak için gönderildikten sonra yakınlaşırlar. Vadideki kötülük ortaya çıktığında sağ kurtulmak için birlikte çalışmak zorundadırlar.",
+        "poster_path": "/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10749,
+          878,
+          53
+        ],
+        "popularity": 1623.512,
+        "release_date": "2025-02-13",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 1675
+      },
+      {
+        "backdrop_path": "/sv3clpwOSSZO1c8i9uX4zig6Lzz.jpg",
+        "id": 1252470,
+        "title": "Sikandar Ka Muqaddar",
+        "original_title": "सिकंदर का मुकद्दर",
+        "overview": "After an unsolved diamond heist, a hard-nosed cop’s pursuit of his key suspect turns into obsession, until they finally face each other — and the truth.",
+        "poster_path": "/eWUh4rgxtgypgnOa6uGMnUt01ux.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "hi",
+        "genre_ids": [
+          53,
+          80,
+          9648,
+          28
+        ],
+        "popularity": 32.82,
+        "release_date": "2024-11-29",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 44
+      },
+      {
+        "backdrop_path": "/7bUYzlDz8eel1BVL1Y0YcF9NQmd.jpg",
+        "id": 1059128,
+        "title": "Queer",
+        "original_title": "Queer",
+        "overview": "1940 yıllarında Meksika'da geçen film, New Orleans'taki bir uyuşturucu baskınından kaçan Lee'yi takip ediyor. Mexico City'de şehrin kulüplerinde dolaşan Lee, terhis edilmiş bir Amerikan Donanması askeri olan uyuşturucu kullanıcısı Allerton'a aşık olur.",
+        "poster_path": "/xe4b2TMciLKA1C0JlhWxb4ENLln.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "popularity": 39.364,
+        "release_date": "2024-11-27",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 211
+      },
+      {
+        "backdrop_path": "/qSOMdbZ6AOdHR999HWwVAh6ALFI.jpg",
+        "id": 1249289,
+        "title": "Alarum",
+        "original_title": "Alarum",
+        "overview": "Uluslararası bir istihbarat ağının hedefinde olan evli iki ajan, hayati öneme sahip bir varlığı ele geçirmek için her şeyi yapacaktır. Joe ve Lara, gizli yaşayan ajanlardır ve bir kış tatil beldesinde saklanırken, eski gardiyanların üyeleri ikilinin Alarum adındaki asi bir ajan ekibine katılmış olabileceğinden şüphelenince sessiz sığınakları paramparça olur.",
+        "poster_path": "/v313aUGmMNj6yNveaiQXysBmjVS.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          80,
+          53
+        ],
+        "popularity": 339.811,
+        "release_date": "2025-01-16",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 218
+      },
+      {
+        "backdrop_path": "/6CtTpvOHyXo4QQd4wvFVhHbBwSs.jpg",
+        "id": 76597,
+        "title": "K",
+        "original_title": "K",
+        "overview": "In this French crime film, set during the time of the Gulf War, an elderly German tourist is murdered in Paris by junk dealer Joseph Katz (Pinkas Braun), a friend of Paris detective Sam Bellamy (singer Patrick Bruel). Romantically involved with the victim's daughter Emma Guter (Isabella Ferrari), Bellamy covers up the crime he witnessed. Joseph then mysteriously vanishes, and Bellamy heads for Berlin where the victim's possessions are auctioned. After Bellamy finds the source of the well-hidden traffic in art stolen by Nazis from French Jews, he discovers a Nazi war criminal is blackmailing past associates. Incorporating background from journalist Hector Feliciano's Lost Museum, the film is adapted from Guy Konopnicki's novel, Pas de Kaddish pour Sylberstein (No Kaddish for Sylberstein).",
+        "poster_path": "/34JN5ZW3J9dlaIs4UmBL3YjPQqv.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          80,
+          53
+        ],
+        "popularity": 5.106,
+        "release_date": "1997-08-27",
+        "video": false,
+        "vote_average": 6.044,
+        "vote_count": 80
+      },
+      {
+        "backdrop_path": "/hAQnXxOwCjgYcKRgTdYPRC8neqL.jpg",
+        "id": 811941,
+        "title": "Devara : Part 1",
+        "original_title": "దేవర: Part 1",
+        "overview": "Devara, a fearless man from a coastal region, embarks on a perilous journey into the treacherous world of the sea to safeguard the lives of his people. Unbeknownst to him, his brother Bhaira is plotting a conspiracy against him. As events unfold, Devara passes on his legacy to his mild-mannered and timid son, Varada.",
+        "poster_path": "/ystWz0wW4vwgcWzmkhPXavms9jz.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "te",
+        "genre_ids": [
+          28,
+          18
+        ],
+        "popularity": 241.754,
+        "release_date": "2024-09-26",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 169
+      },
+      {
+        "backdrop_path": "/h7r6LZ32dgLwtwSW3CxoWIYD9pr.jpg",
+        "id": 426063,
+        "title": "Nosferatu",
+        "original_title": "Nosferatu",
+        "overview": "Bir genç kadın ile ona aşık olan vampir arasındaki takıntının hikâyesi. Güney Romanya’da vampir olduğuna inanılan bir adam mezardan çıkarılır ve cesedi ritüel olarak parçalanır. Zor ve çok içki içen bir adamdır. Öldükten sonra ailesi onun bir strigoi olarak geri döndüğünü ve geceleri kendilerine saldırdığını söyler. Gelini bu gece saldırılarından rahatsız olur ve hastalanır. Folklorik prosedüre göre ceset ortadan kaldırıldığında, vampir ziyaretleri de durur.",
+        "poster_path": "/oHmwlW121vqSPvD27sRTRco1Vz6.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          14,
+          27
+        ],
+        "popularity": 227.991,
+        "release_date": "2024-12-25",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 2295
+      },
+      {
+        "backdrop_path": "/v9Du2HC3hlknAvGlWhquRbeifwW.jpg",
+        "id": 539972,
+        "title": "Avcı Kraven",
+        "original_title": "Kraven the Hunter",
+        "overview": "Avcı Kraven, Marvel'ın en ikonik kötü adamlarından birinin nasıl ve neden ortaya çıktığına dair farklı bir hikâye. Örümcek-Adam ile olan nam salmış kan davasından önce geçen filmin başrolünde Aaron Taylor-Johnson yer alıyor.",
+        "poster_path": "/pWI2qJG6PkS9wX601QfihkkZsPi.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          53
+        ],
+        "popularity": 497.919,
+        "release_date": "2024-12-11",
+        "video": false,
+        "vote_average": 6.675,
+        "vote_count": 1362
+      },
+      {
+        "backdrop_path": "/bHeUgZKqduubnNl8GshjrpHS9lF.jpg",
+        "id": 558449,
+        "title": "Gladyatör II",
+        "original_title": "Gladiator II",
+        "overview": "Gladyatör Maximus Decimus Meridius’un ölümünden 15 yıl sonrasıdır. Kana susamış kalabalıklar yarı deli ikiz imparatorları zalimliğin yeni zirvelerine iterken Kolezyum’daki savaşlar çok daha ölümcül ve görkemli hâle gelmiştir. Roma İmparatorluğu sınırlarını genişleterek, yoluna çıkan her kültürü yağmalayarak ve hayatta kalanları ringde yaşamları için savaşmaya zorlayarak yeryüzündeki yürüyüşünü sürdürmektedir.",
+        "poster_path": "/dARTCpnHY0R0B28j5q5ynq7erua.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          18
+        ],
+        "popularity": 490.786,
+        "release_date": "2024-11-13",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 2950
+      },
+      {
+        "backdrop_path": "/vZG7PrX9HmdgL5qfZRjhJsFYEIA.jpg",
+        "id": 912649,
+        "title": "Venom: Son Dans",
+        "original_title": "Venom: The Last Dance",
+        "overview": "Venom: Son Dans (2024), Eddie Brock ve Venom’un hikâyesinin son bölümünü işleyen bir bilim kurgu, aksiyon ve macera filmidir. Bu filmde, Eddie ve simbiyotu Venom, artık bir arada yaşamaya alışmışlardır. Ancak, kendilerini hem dünyalarından hem de başka düşmanlardan kaçmak zorunda kalan birer kaçak olarak bulurlar. Bu durum, Eddie ve Venom’un hayatta kalmak için güçlü bir ortaklık kurmasını gerektirir.",
+        "poster_path": "/xIjGt7bSU7hgWtYwccfufiM1wWZ.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          878,
+          12
+        ],
+        "popularity": 505.652,
+        "release_date": "2024-10-22",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 2966
+      },
+      {
+        "backdrop_path": "/uKb22E0nlzr914bA9KyA5CVCOlV.jpg",
+        "id": 402431,
+        "title": "Wicked",
+        "original_title": "Wicked",
+        "overview": "Elphaba ile Glinda, öğrenciyken tanışırlar. Muhteşem Oz Büyücüsü ile karşılaşmalarının ardından dostlukları ve hayatları çok farklı yollara sapar. Glinda’nın popülerliğe olan arzusu onu kışkırtır ve baştan çıkarırken, Elphaba’nın kendine sadık kalma kararlılığı, geleceği üzerinde şoke edici sonuçlar doğuracaktır. Oz’da yaşadıkları  olağanüstü maceraları, sonunda “İyi Glinda” ve “Batı’nın Kötü Cadısı” olarak yazgılarını tamamlamalarını sağlar.",
+        "poster_path": "/qaqQqYRjK3djrOZAeKQBdVFtQqh.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10749,
+          14
+        ],
+        "popularity": 307.655,
+        "release_date": "2024-11-20",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 1879
+      },
+      {
+        "backdrop_path": "/qfAfE5auxsuxhxPpnETRAyTP5ff.jpg",
+        "id": 822119,
+        "title": "Kaptan Amerika: Cesur Yeni Dünya",
+        "original_title": "Captain America: Brave New World",
+        "overview": "Kaptan Amerika: Cesur Yeni Dünya, Kaptan Amerika'nın maceralarını konu ediyor. Amerika Birleşik Devletleri'nin yeni Başkanı Thaddeus Ross ile tanıştıktan kısa bir süre sonra Kaptan Amerika olarak da bilinen Sam Wilson, kendisini devasa bir uluslararası olayın tam ortasında bulur. Operasyonun gerçek dehası tüm dünyayı ateşe vermeden önce Sam Wilson zamana karşı amansız bir savaşa girişir.",
+        "poster_path": "/vobieeFFffYbXjv0rQnQ7uyPQBQ.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          53,
+          878
+        ],
+        "popularity": 858.521,
+        "release_date": "2025-02-12",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 878
+      },
+      {
+        "backdrop_path": "/pqulyfkug9A7TmmRn5zrbRA8TAY.jpg",
+        "id": 1255788,
+        "title": "The Gardener",
+        "original_title": "Le Jardinier",
+        "overview": "Every year the Prime Minister has a list of all kinds of troublemakers eliminated in the name of the famous Reason of State. Serge Shuster, Special Adviser to the President of the Republic, finds himself on this list, better known as the Matignon List.  Condemned to certain death and at the heart of an implacable plot and a state secret that also put his family in danger, Serge, his wife and children have only one hope left - their gardener, Léo, who hates it when « slugs » invade his garden... Especially those that want to kill innocent families.",
+        "poster_path": "/5T9WR7vIOnHm6xhVt5zBuPbBgt1.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          28,
+          35
+        ],
+        "popularity": 211.368,
+        "release_date": "2025-01-30",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 87
+      },
+      {
+        "backdrop_path": "/r4Xn4eWOyxye8m3dR80I8TPhfE5.jpg",
+        "id": 1326059,
+        "title": "Pimpinero: Kan ve Petrol",
+        "original_title": "Pimpinero: Sangre y gasolina",
+        "overview": "Kolombiya-Venezuela sınırındaki çölde pimpinero olarak bilinen kaçakçılar ölümü göze alarak bir ülkeden diğerine kaçak benzin taşımaktadır. Genç bir kaçakçı olan Juan gizemli bir rakibi için çalışmaya zorlanınca kız arkadaşı Diana bu kanunsuz bölgenin sırlarını ortaya çıkarmak için tehlikeli bir yolculuğa çıkar.",
+        "poster_path": "/vYe9Qby9ULC6kL8sbji4SWC4htN.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          28,
+          80,
+          18
+        ],
+        "popularity": 38.209,
+        "release_date": "2024-10-10",
+        "video": false,
+        "vote_average": 6.376,
+        "vote_count": 113
+      },
+      {
+        "backdrop_path": "/r8YfVJu9OAzWbTAuuc86CIs1DYN.jpg",
+        "id": 661539,
+        "title": "Bob Dylan: Tam Bir Bilinmez",
+        "original_title": "A Complete Unknown",
+        "overview": "New York, 1960'ların Başları. Canlı müzik sahnesinin ve çalkantılı kültürel değişimin ortasında, Minnesota'dan 19 yaşındaki gizemli bir genç, gitarı ve devrimci yeteneğiyle West Village'a gelir. Amerikan müziğinin akışını sonsuza dek değiştirecektir.",
+        "poster_path": "/rAQQn7tu55cCAsfmVvWyRDyb5o1.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10402
+        ],
+        "popularity": 262.139,
+        "release_date": "2024-12-18",
+        "video": false,
+        "vote_average": 7.18,
+        "vote_count": 634
+      },
+      {
+        "backdrop_path": "/1TUg5pO1VZ4B0Q1amk3OlXvlpXV.jpg",
+        "id": 420818,
+        "title": "Aslan Kral",
+        "original_title": "The Lion King",
+        "overview": "Aslan Kral, yavru bir aslan olan Simba’nın maceralarını konu ediyor. Ormanın kralı olan babası Mufasa'ya hayran bir yavru aslan olarak mutlu bir hayat süren Simba, sinsi amcası Scar'ın planlarından habersizdir. Kral olmak için fırsat kollayan Scar, Mufasa'yı öldürdükten sonra Simba için tehlike baş gösterir. Amcasının ihaneti ve babasının kaybı ile yıkılan Simba sürgüne gider. Zamanı geldiğinde hakkı olanı almak için geri dönecek ve amcasına yaptıklarının bedelini ödetecektir...",
+        "poster_path": "/504WVhBDkrerv2u58gaHtCjKxc9.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          18,
+          10751,
+          16
+        ],
+        "popularity": 98.021,
+        "release_date": "2019-07-12",
+        "video": false,
+        "vote_average": 7.111,
+        "vote_count": 10242
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

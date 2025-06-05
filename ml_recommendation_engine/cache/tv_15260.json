@@ -1,0 +1,946 @@
+{
+  "adult": false,
+  "backdrop_path": "/pe4B3OYBb7qYCdkAz7nKWordbls.jpg",
+  "created_by": [
+    {
+      "id": 1242945,
+      "credit_id": "5258391f760ee36aaa9765fe",
+      "name": "Pendleton Ward",
+      "original_name": "Pendleton Ward",
+      "gender": 2,
+      "profile_path": "/soODVh1CrVo6YnfnLwpSyBxSm5z.jpg"
+    }
+  ],
+  "episode_run_time": [
+    11
+  ],
+  "first_air_date": "2010-04-05",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animasyon"
+    },
+    {
+      "id": 35,
+      "name": "Komedi"
+    },
+    {
+      "id": 10765,
+      "name": "Bilim Kurgu & Fantazi"
+    }
+  ],
+  "homepage": "http://www.cartoonnetwork.com/video/adventuretime/",
+  "id": 15260,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2018-09-03",
+  "last_episode_to_air": {
+    "id": 1563459,
+    "name": "13. Bölüm",
+    "overview": "",
+    "vote_average": 8.1,
+    "vote_count": 16,
+    "air_date": "2018-09-03",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 44,
+    "season_number": 10,
+    "show_id": 15260,
+    "still_path": "/970Q9GqPddWUjbbNsMw85l3pfjS.jpg"
+  },
+  "name": "Adventure Time",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 56,
+      "logo_path": "/c5OC6oVCg6QP4eqzW6XIq17CQjI.png",
+      "name": "Cartoon Network",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 279,
+  "number_of_seasons": 10,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Adventure Time",
+  "overview": "Bir köpek ailesi tarafından yetiştirilen 12 yaşındaki Finn ile aynı ailenin büyüttüğü 28 yaşındaki Jake adlı köpeğin fantastik maceraları.",
+  "popularity": 73.3189,
+  "poster_path": "/qk3eQ8jW4opJ48gFWYUXWaMT4l.jpg",
+  "production_companies": [
+    {
+      "id": 34764,
+      "logo_path": "/bvon5U0QrVapPuHLopQLfK8O8rc.png",
+      "name": "Frederator Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 7899,
+      "logo_path": "/uYMD8NPD7Eph0cFd1WJZJrot1Fb.png",
+      "name": "Cartoon Network Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2008-12-07",
+      "episode_count": 17,
+      "id": 26867,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/1ZLufRlGhGH1zGizhnRIzkuTenW.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2010-04-05",
+      "episode_count": 26,
+      "id": 26868,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/48lmWkg3X8QBZJcERrsyQsbjQCp.jpg",
+      "season_number": 1,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2010-10-11",
+      "episode_count": 26,
+      "id": 26869,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/3KZOhPKh9GdXdVKKH3wLwbpQBdo.jpg",
+      "season_number": 2,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2011-07-11",
+      "episode_count": 26,
+      "id": 26870,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/1ECczcYio4VBesP78CGryXuBnrY.jpg",
+      "season_number": 3,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2012-04-02",
+      "episode_count": 26,
+      "id": 26871,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/q7HOlCRVnEgtfngheSyiOCWOpyE.jpg",
+      "season_number": 4,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2012-11-12",
+      "episode_count": 52,
+      "id": 26872,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/w52JRYnBjPjuDU7IWPfgaj5GxF.jpg",
+      "season_number": 5,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "2014-04-21",
+      "episode_count": 43,
+      "id": 61205,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/7leOGmA0GWatt0758KaKbel7UXT.jpg",
+      "season_number": 6,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2015-11-02",
+      "episode_count": 26,
+      "id": 71764,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/rnEgIlAs64k3YiqMw6Nwf2nrufC.jpg",
+      "season_number": 7,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2016-03-26",
+      "episode_count": 27,
+      "id": 84341,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/zIDoU6YZXE3oz9MNBjE2Ld94Xuu.jpg",
+      "season_number": 8,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2017-04-21",
+      "episode_count": 14,
+      "id": 90580,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/tGSrUnb9P3ZOEdhz1SiplX1Ceyu.jpg",
+      "season_number": 9,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2017-09-17",
+      "episode_count": 13,
+      "id": 97766,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/w8mYplN3ysIJ5DIYYgmfGTvuNzd.jpg",
+      "season_number": 10,
+      "vote_average": 7.3
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.498,
+  "vote_count": 2855,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 204131,
+        "known_for_department": "Acting",
+        "name": "Jeremy Shada",
+        "original_name": "Jeremy Shada",
+        "popularity": 1.8815,
+        "profile_path": "/9VJal5TwGudg36UjwTF4CRJPR4c.jpg",
+        "character": "Finn the Human (voice)",
+        "credit_id": "5f5ac041bbe1dd0036519595",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31531,
+        "known_for_department": "Acting",
+        "name": "John DiMaggio",
+        "original_name": "John DiMaggio",
+        "popularity": 4.4907,
+        "profile_path": "/qcbQe71nSlULDsP1OxTqltEKFbl.jpg",
+        "character": "Jake the Dog (voice)",
+        "credit_id": "5f5ac0620e44190038f9fd12",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78798,
+        "known_for_department": "Acting",
+        "name": "Tom Kenny",
+        "original_name": "Tom Kenny",
+        "popularity": 4.8266,
+        "profile_path": "/dKOxpGnRkIMaPkZSHKIns99WxQa.jpg",
+        "character": "Ice King (voice)",
+        "credit_id": "52583919760ee36aaa9762bb",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 113919,
+        "known_for_department": "Acting",
+        "name": "Hynden Walch",
+        "original_name": "Hynden Walch",
+        "popularity": 1.8995,
+        "profile_path": "/oFfZaFF1o724BuZ3cLK6tl9L03.jpg",
+        "character": "Princess Bubblegum (voice)",
+        "credit_id": "5258391a760ee36aaa976359",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 168197,
+        "known_for_department": "Acting",
+        "name": "Olivia Olson",
+        "original_name": "Olivia Olson",
+        "popularity": 1.4711,
+        "profile_path": "/pFSy3Q57oU39NVebHzPkpTrANZe.jpg",
+        "character": "Marceline the Vampire Queen (voice)",
+        "credit_id": "5f5ac132bbe1dd0036519697",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1245731,
+        "known_for_department": "Acting",
+        "name": "Niki Yang",
+        "original_name": "Niki Yang",
+        "popularity": 0.7834,
+        "profile_path": "/t0MYbwrpGZLwp66L2rSG5uhlaJ6.jpg",
+        "character": "BMO / Lady Rainicorn (voice)",
+        "credit_id": "5f5ac2620e44190035f900b1",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1242945,
+        "known_for_department": "Writing",
+        "name": "Pendleton Ward",
+        "original_name": "Pendleton Ward",
+        "popularity": 1.0857,
+        "profile_path": "/soODVh1CrVo6YnfnLwpSyBxSm5z.jpg",
+        "character": "Lumpy Space Princess (voice)",
+        "credit_id": "5258391b760ee36aaa976497",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1245732,
+        "known_for_department": "Acting",
+        "name": "Polly Lou Livingston",
+        "original_name": "Polly Lou Livingston",
+        "popularity": 0.209,
+        "profile_path": "/8R7aiREpOsXMeGHE2I1hDNDGfcm.jpg",
+        "character": "Tree Trunks (voice)",
+        "credit_id": "62135c5e3f48330044702b4a",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1242945,
+        "known_for_department": "Writing",
+        "name": "Pendleton Ward",
+        "original_name": "Pendleton Ward",
+        "popularity": 1.0857,
+        "profile_path": "/soODVh1CrVo6YnfnLwpSyBxSm5z.jpg",
+        "credit_id": "52583914760ee36aaa975a4b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1388414,
+        "known_for_department": "Visual Effects",
+        "name": "Mike Collins",
+        "original_name": "Mike Collins",
+        "popularity": 0.2222,
+        "profile_path": null,
+        "credit_id": "554d0c79925141402a00280d",
+        "department": "Art",
+        "job": "Art Department Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1245730,
+        "known_for_department": "Writing",
+        "name": "Thurop Van Orman",
+        "original_name": "Thurop Van Orman",
+        "popularity": 1.3871,
+        "profile_path": "/kKiWFAtDPInyBltWzdCKsDkmZsZ.jpg",
+        "credit_id": "5ef4f829ab1bc7003596db74",
+        "department": "Production",
+        "job": "Supervising Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1242945,
+        "known_for_department": "Writing",
+        "name": "Pendleton Ward",
+        "original_name": "Pendleton Ward",
+        "popularity": 1.0857,
+        "profile_path": "/soODVh1CrVo6YnfnLwpSyBxSm5z.jpg",
+        "credit_id": "64e76ec390ea4b011e789582",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "candy",
+        "id": 985
+      },
+      {
+        "name": "magic",
+        "id": 2343
+      },
+      {
+        "name": "dementia",
+        "id": 2689
+      },
+      {
+        "name": "penguin",
+        "id": 3028
+      },
+      {
+        "name": "vampire",
+        "id": 3133
+      },
+      {
+        "name": "post-apocalyptic future",
+        "id": 4458
+      },
+      {
+        "name": "cartoon",
+        "id": 6513
+      },
+      {
+        "name": "princess",
+        "id": 7376
+      },
+      {
+        "name": "talking dog",
+        "id": 11478
+      },
+      {
+        "name": "dog",
+        "id": 15162
+      },
+      {
+        "name": "adopted brother",
+        "id": 166579
+      },
+      {
+        "name": "wizard",
+        "id": 177912
+      },
+      {
+        "name": "talking animal",
+        "id": 267848
+      },
+      {
+        "name": "introspective",
+        "id": 269808
+      },
+      {
+        "name": "ice",
+        "id": 279414
+      },
+      {
+        "name": "bubblegum",
+        "id": 289882
+      },
+      {
+        "name": "comforting",
+        "id": 325784
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/izbdXU7ys0JLN8fpeYguVcDjCOX.jpg",
+        "id": 94810,
+        "name": "Adventure Time: Uzak Topraklar",
+        "original_name": "Adventure Time: Distant Lands",
+        "overview": "Based on the animated series Adventure Time, these four specials explore the unseen corners of the world with both familiar and exciting brand-new characters.",
+        "poster_path": "/tw673pIwR0fou0fpfjymm52YIKV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          16,
+          35,
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 6.059,
+        "first_air_date": "2020-06-25",
+        "vote_average": 8.129,
+        "vote_count": 501,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/bhF63Jd90gRYyTHd4y5GCGA2vX6.jpg",
+        "id": 31132,
+        "name": "Sürekli Dizi",
+        "original_name": "Regular Show",
+        "overview": "Mordecai ve Rigby sorunlarını ve sıkıcı işlerinin sıradan görevlerini sıra dışı yerlere taşıyan çok yakın iki arkadaştır.",
+        "poster_path": "/88dAGv0ywrLJKCynkH226dBwe0i.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 103.8938,
+        "first_air_date": "2010-09-06",
+        "vote_average": 8.633,
+        "vote_count": 2086,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/3PCVo8Wikg4wG6dqZHs4Ofp0laA.jpg",
+        "id": 37606,
+        "name": "Gumball'ın Muhteşem Dünyası",
+        "original_name": "The Amazing World of Gumball",
+        "overview": "Mavi bir kedi olan 12 yaşındaki Gumball Watterson'ın, ailesi ve diğer tuhaf yaratıklarla yaşadığı ilginç olaylar.",
+        "poster_path": "/VYnnyA2hyxi3VUPgCA71mMtt69.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10751,
+          10765,
+          35
+        ],
+        "popularity": 148.2079,
+        "first_air_date": "2011-05-03",
+        "vote_average": 8.493,
+        "vote_count": 1494,
+        "origin_country": [
+          "IE",
+          "GB",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ubFM3JrH3p6BtCHWAlOuboC1obg.jpg",
+        "id": 615,
+        "name": "Futurama",
+        "original_name": "Futurama",
+        "overview": "Fry pizza dağıtıcısıdır. 2000 yılına girilen yılbaşı gecesi kazara teslimat yaptığı laboratuvarda bir makineye girer. 31 Aralık 2999 gecesi yeniden uyanır. Tek gözlü Leela ve robot Bender ile tanışır. Ortak noktaları yapmak zorunda oldukları işten nefret etmeleri ve bundan kaçmalarıdır. Fry ve arkadaşları, Fry'ın hayattaki tek akrabası olan yaşlı yeğeni Farnsworth'a ulaşırlar ve macera başlar.",
+        "poster_path": "/sdJcX2cXirwQurLLlrDLYov7hcD.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10765
+        ],
+        "popularity": 53.1863,
+        "first_air_date": "1999-03-28",
+        "vote_average": 8.376,
+        "vote_count": 3416,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7Rei6j3EH312vfK0Xi2BKAdi73W.jpg",
+        "id": 61175,
+        "name": "Steven Universe",
+        "original_name": "Steven Universe",
+        "overview": "Steven Universe, Rebecca Sugar tarafından Cartoon Network için yapılan Amerikan yapımı bir çizgi dizisidir. Kristal Taşlar olan Garnet, Ametist ve İnciyle birlikte büyüyen ve dünyayı kendi türlerinden korumak için onlara yardım eden Steven adlı küçük bir çocuğun hikâyesini anlatır",
+        "poster_path": "/qkcZqbfvXEenUAwoFi6YTBB3WLO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10759,
+          10751,
+          10765
+        ],
+        "popularity": 58.9,
+        "first_air_date": "2013-11-04",
+        "vote_average": 8.403,
+        "vote_count": 1225,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vv2FQBvol6JgL9AO8mwi8jaoaNv.jpg",
+        "id": 2405,
+        "name": "Johnny Bravo",
+        "original_name": "Johnny Bravo",
+        "overview": "Johnny ve annesi, Amerika'da, bakımlı bir bahçesi olan şirin bir evde yaşamaktadırlar. Johnny bir yetişkin vücudunun içindeki beş yaşındaki bir çocuktur.",
+        "poster_path": "/obbdeoOk8XSXzJrWGiBbaeMMSMl.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10751
+        ],
+        "popularity": 36.0794,
+        "first_air_date": "1997-07-07",
+        "vote_average": 7.3,
+        "vote_count": 575,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7BzmK4MWc0cj4hCxwWURt6TS6UR.jpg",
+        "id": 131378,
+        "name": "Adventure Time: Fionna ve Cake",
+        "original_name": "Adventure Time: Fionna & Cake",
+        "overview": "Fionna ve Cake - eski Buz Kralı Simon Petrikov'un yardımıyla - çoklu evrenlerde gezinen bir maceraya ve kendilerini keşfetme yolculuğuna çıkarlar. Tüm bunlar olurken, izlerini sürmeye ve onları varoluştan silmeye kararlı yeni ve güçlü bir düşman gölgelerde pusuda beklemektedir.",
+        "poster_path": "/fi1b6U1kp73xheECzqwzMn8u3mX.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10765,
+          10759,
+          35
+        ],
+        "popularity": 11.4563,
+        "first_air_date": "2023-08-31",
+        "vote_average": 8.757,
+        "vote_count": 230,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lhg7eA6CTOCL10QNVdKiyxkgPsL.jpg",
+        "id": 40075,
+        "name": "Gravity Falls",
+        "original_name": "Gravity Falls",
+        "overview": "İkiz kardeşler Dipper ve Mabel Pines'ın aileleri yazın Dipper ve Mabel'ı \"Harika Amca Stan\"in yanına Gravity Falls, Oregon'a gönderirler. Stan, \"Gizemli Kulübe\"de yaşamaktadır ve çalışmaktadır; ama Dipper ve Mabel gerçekten çok garip şeyler olduğunu bilirler ve anlaşılmadık kasabada kendi yollarını bulmak için birbirlerine güvenmek zorundadırlar. Dipper'ın ormanda bulduğu günlükle işler daha da tuhaflaşır.",
+        "poster_path": "/6kWUl4Rfvomz9VBsjzDsuQ3ZvrG.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          9648,
+          10765,
+          10762,
+          10759,
+          10751
+        ],
+        "popularity": 44.2633,
+        "first_air_date": "2012-06-15",
+        "vote_average": 8.593,
+        "vote_count": 3136,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/eVKY6ag2w0XWVSEP9mNZGoUAgVn.jpg",
+        "id": 38965,
+        "name": "Angelo Kuralları",
+        "original_name": "Angelo la Débrouille",
+        "overview": "Angelo is the kid who tries to be the wise guy. He is constantly coming up with plans and strategies to get out of trouble. ... Angelo isn't put off by the natural setbacks most kid have to confront: like parents, siblings and rules but that doesn't deter him.",
+        "poster_path": "/vvH2VBpGvXJh9MROeTHrlaVIS4p.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          10751,
+          10762,
+          16
+        ],
+        "popularity": 45.5171,
+        "first_air_date": "2010-10-03",
+        "vote_average": 6.8,
+        "vote_count": 31,
+        "origin_country": [
+          "FR"
+        ]
+      },
+      {
+        "backdrop_path": "/80KgNNF0bpoDvU5iNXT07Lgb2wL.jpg",
+        "id": 6673,
+        "name": "The Marvelous Misadventures of Flapjack",
+        "original_name": "The Marvelous Misadventures of Flapjack",
+        "overview": "A young boy who grew up inside a talking whale sets sail for magical Candied Island, accompanied by Capt. K'nuckles, a crusty old pirate.",
+        "poster_path": "/8dpk0bjBgX93ZkQxEI1daNSj3OW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          35,
+          16
+        ],
+        "popularity": 50.3361,
+        "first_air_date": "2008-06-05",
+        "vote_average": 8.1,
+        "vote_count": 349,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qDum1yhNftUMaIB3pPiZ7PLsIto.jpg",
+        "id": 72705,
+        "name": "Spider-Man",
+        "original_name": "Marvel's Spider-Man",
+        "overview": "Güvensiz ama cesur ve zeki bir genç olan Peter Parker, Midtown Lisesi'nin yeni öğrencisi, radyo-aktif bir örümcek tarafından ısırılır ve güçler kazanır. Amcasının ölümünden sonra Örümcek Adam adındaki kahramana dönüşür ve yeni hayat tarzına alışmak zorunda kalır.",
+        "poster_path": "/dKdcyyHUR5WTMnrbPdYN5y9xPVp.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10765,
+          35,
+          10751
+        ],
+        "popularity": 30.2933,
+        "first_air_date": "2017-08-19",
+        "vote_average": 7.479,
+        "vote_count": 365,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1eRvnxCQLrMjCieyO8VBsPJ28Jv.jpg",
+        "id": 897,
+        "name": "The Grim Adventures of Billy and Mandy",
+        "original_name": "The Grim Adventures of Billy and Mandy",
+        "overview": "The exploits of the Grim Reaper, who has been forced into being the best friend of two children. A spin-off of the show Grim & Evil.",
+        "poster_path": "/gxdTn5UwvriN1EzDSNnWr5AAQN7.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10762
+        ],
+        "popularity": 117.0411,
+        "first_air_date": "2001-08-24",
+        "vote_average": 8.046,
+        "vote_count": 970,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2UElp7Dkm3SiB9ZEdKEWNmAOijB.jpg",
+        "id": 61923,
+        "name": "Star Kötü Güçlere Karşı",
+        "original_name": "Star vs. the Forces of Evil",
+        "overview": "Başka bir boyuttan gelen ve çok güçlü bir sihirli değneğe sahip prenses Star Butterfly Boyutlararası değişim öğrencisi olarak dünyada Diaz ailesiyle yaşıyor. En iyi arkadaşı Marco Diaz ile birlikte Star Butterfly birbirinden farklı ve çılgın boyutlar arasında büyülü maceralara çıkıyor. Bu sırada kötü karakter olan Ludo ise evreni ele geçirmek için sihirli değneği çalmaya çalışıyor",
+        "poster_path": "/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          35,
+          10765,
+          10751
+        ],
+        "popularity": 70.372,
+        "first_air_date": "2015-01-18",
+        "vote_average": 8.362,
+        "vote_count": 1414,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/300Qx9CJZfGYr63Rw2XQgknAyob.jpg",
+        "id": 4229,
+        "name": "Dexter'ın Laboratuvarı",
+        "original_name": "Dexter's Laboratory",
+        "overview": "Dexter, yatak odası duvarının arkasında 6 kilometre uzunluğunda gizli bir laboratuvara sahiptir. Dahi olması gerçeğinin dışında, sekiz yaşında sıradan bir çocuktur.",
+        "poster_path": "/fIK7MiVnbgB1tHOn0E9EhXa6iuK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10765
+        ],
+        "popularity": 66.6254,
+        "first_air_date": "1996-04-28",
+        "vote_average": 7.66,
+        "vote_count": 819,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vEMl9RED1HelffdKWxToa3fmyo2.jpg",
+        "id": 74387,
+        "name": "Son Uzay",
+        "original_name": "Final Space",
+        "overview": "Gary ve gezegen imha eden yardımcısı Mooncake adlı bir astronot, gerçekten varsa, evrendeki son nokta olan “Son Uzay” ın gizemini açmak için uzayda serileştirilmiş yolculuklara başlar.",
+        "poster_path": "/zT6tXWsJoBOWJT1PeUEKLTFOoHh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          10765,
+          35
+        ],
+        "popularity": 9.9185,
+        "first_air_date": "2018-02-26",
+        "vote_average": 8.387,
+        "vote_count": 877,
+        "origin_country": [
+          "US",
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/3wVv1UQNQVBb2d22oOo4WDwkFTV.jpg",
+        "id": 2345,
+        "name": "Kim Possible",
+        "original_name": "Kim Possible",
+        "overview": "If there's danger or trouble, Kim Possible is there on the double to save the world from villains... and still make it home in time for cheerleading practice! Luckily, Kim has her sidekick Ron Stoppable and his pet naked mole-rat Rufus by her side.",
+        "poster_path": "/xAIm6KkiQKl0UsagMUyhLFzX2X2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          35,
+          10762
+        ],
+        "popularity": 36.1262,
+        "first_air_date": "2002-06-07",
+        "vote_average": 7.543,
+        "vote_count": 513,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uaCBOSZnFSJtOLWSvxA2NVreGv1.jpg",
+        "id": 95599,
+        "name": "Kipo and the Age of Wonderbeasts",
+        "original_name": "Kipo and the Age of Wonderbeasts",
+        "overview": "A sheltered girl gets a crash course in survival when a mutant attack sends her to the surface, far from the safety of her underground home.",
+        "poster_path": "/4yPluNRnnaO68VOhwDTA46wDXVN.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762,
+          10759
+        ],
+        "popularity": 10.9264,
+        "first_air_date": "2020-01-14",
+        "vote_average": 8.236,
+        "vote_count": 216,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ecxpOnYv7iTUVNUmZRoxRksaC1f.jpg",
+        "id": 1769,
+        "name": "Johnny Test",
+        "original_name": "Johnny Test",
+        "overview": "Young Johnny is gung-ho and full of courage. Johnny's brainiac twin sisters, Susan and Mary, use Johnny as their guinea pig for their outrageous scientific experiments. If they can dream it up, Johnny will do it; as long as his genetically engineered super dog, Dukey, can come along.",
+        "poster_path": "/cGceNrHpUl3utUzE502xSY8l9ST.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10762
+        ],
+        "popularity": 22.8225,
+        "first_air_date": "2005-09-17",
+        "vote_average": 6.3,
+        "vote_count": 226,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/yhqIybnZgmObrauyf3zRy0JD7G3.jpg",
+        "id": 3611,
+        "name": "Cow and Chicken",
+        "original_name": "Cow and Chicken",
+        "overview": "Follows the surreal adventures of a cow, named Cow, and her chicken brother, named Chicken. They are often antagonized by \"The Red Guy\", who poses as various characters to scam them.",
+        "poster_path": "/vWhzjxoHLrvl7JUKNDoXUfNqF2x.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10762
+        ],
+        "popularity": 37.166,
+        "first_air_date": "1997-09-16",
+        "vote_average": 7.1,
+        "vote_count": 469,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/eCefaxvMxisEJHahp8Az2eBpwud.jpg",
+        "id": 3793,
+        "name": "Invader ZIM",
+        "original_name": "Invader ZIM",
+        "overview": "Zim dreams of greatness. Unfortunately, though, he's hopelessly inept as a space invader. Desperate to be rid of the annoying Zim, his planet's leaders send him on a mission to infiltrate Earth, providing him with leftover, cobbled-together equipment. To their consternation, Zim succeeds in setting up a base on Earth and infiltrating human culture, posing as a human child as he plots the planet's downfall. Only Zim's archnemesis, Dib, recognizes that Zim is an alien, and of course, nobody believes Dib's claims.",
+        "poster_path": "/h9T3oTwclpHP13BeutA7wQjEC4r.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10765,
+          35,
+          10762
+        ],
+        "popularity": 12.3166,
+        "first_air_date": "2001-03-30",
+        "vote_average": 8.425,
+        "vote_count": 395,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

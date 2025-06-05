@@ -1,0 +1,817 @@
+{
+  "adult": false,
+  "backdrop_path": "/lHe8iwM4Cdm6RSEiara4PN8ZcBd.jpg",
+  "created_by": [
+    {
+      "id": 37631,
+      "credit_id": "5259670b760ee346619c36f2",
+      "name": "Michael Hirst",
+      "original_name": "Michael Hirst",
+      "gender": 2,
+      "profile_path": "/70lhWPCdSPv7aGpaoAPk9h6sFOR.jpg"
+    }
+  ],
+  "episode_run_time": [
+    44
+  ],
+  "first_air_date": "2013-03-03",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Aksiyon & Macera"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 10768,
+      "name": "Savaş & Politik"
+    }
+  ],
+  "homepage": "http://www.history.com/shows/vikings",
+  "id": 44217,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2020-12-30",
+  "last_episode_to_air": {
+    "id": 2582994,
+    "name": "Son Perde",
+    "overview": "Vikings efsanesi final bölümüyle veda ediyor.",
+    "vote_average": 7.8,
+    "vote_count": 19,
+    "air_date": "2020-12-30",
+    "episode_number": 20,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 51,
+    "season_number": 6,
+    "show_id": 44217,
+    "still_path": "/1qJ5CMO7vLvU4Hw04hVLtK5d39d.jpg"
+  },
+  "name": "Vikingler",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1024,
+      "logo_path": "/w7HfLNm9CWwRmAMU58udl2L7We7.png",
+      "name": "Prime Video",
+      "origin_country": ""
+    },
+    {
+      "id": 2360,
+      "logo_path": "/aeariwRHHb23lyOr3AczHz5aIhb.png",
+      "name": "History",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 89,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_name": "Vikings",
+  "overview": "Viking kahramanı Ragnar Lothbrok’un, ileriyi göremeyen, yetersiz bir lidere meydan okuyarak Norse sınırlarını nasıl genişlettiğini seyrettiğimiz gerçekçi bir dram.",
+  "popularity": 93.0572,
+  "poster_path": "/qkCh6cFSHikSIFTWUQyJ2qJzqsy.jpg",
+  "production_companies": [
+    {
+      "id": 7224,
+      "logo_path": "/aEB2TV6TTolC7NSwonWIb25MKga.png",
+      "name": "Shaw Media",
+      "origin_country": "CA"
+    },
+    {
+      "id": 7692,
+      "logo_path": null,
+      "name": "World 2000 Entertainment",
+      "origin_country": "IE"
+    },
+    {
+      "id": 39520,
+      "logo_path": "/h5qMfjH9jaJ5835UGdq2PZQ1a33.png",
+      "name": "Take 5 Productions",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2013-02-25",
+      "episode_count": 30,
+      "id": 53335,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/woP1jNltcWMLqK6pcFqPJq6pyJ6.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2013-03-03",
+      "episode_count": 9,
+      "id": 53334,
+      "name": "Sezon 1",
+      "overview": "Hırslı savaşçı Ragnar Lothbrok, halkın sevgisini kazanmak ve gücü Earl Haraldson’dan almak için tehlikeli bir göreve çıkar.",
+      "poster_path": "/uYaskJzmBhBdvkitDTjlH6gj9Pt.jpg",
+      "season_number": 1,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2014-02-26",
+      "episode_count": 10,
+      "id": 53336,
+      "name": "Sezon 2",
+      "overview": "İnanç, güç ve ilişki krizlerinin ortasında, kardeşler birbirlerine karşı ayaklanır, bağlılıklar yön değiştirir ve beklenmedik ittifaklar kurulur.",
+      "poster_path": "/g2Pgu5Dae9P99yJs0xZQtEagA76.jpg",
+      "season_number": 2,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2015-02-19",
+      "episode_count": 10,
+      "id": 64422,
+      "name": "Sezon 3",
+      "overview": "Fetih arzusunu tatmin edemeyen Ragnar, savaşçılarını Paris’e doğru sürerken, kendi krallığında ihanetler ve yeni tehlikeler baş gösterir.",
+      "poster_path": "/jICv5UxLDvUqCp1D2jAb0PSJWAw.jpg",
+      "season_number": 3,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2016-02-18",
+      "episode_count": 20,
+      "id": 72979,
+      "name": "Sezon 4",
+      "overview": "Ragnar, savaşın etkilerini atlatırken sürpriz bir arkadaş edinir. Paris'tekiler onun dönüşünü beklerken, hırslı bir Viking ona karşı bir komplo kurar.",
+      "poster_path": "/vDomkDsMrMFkTMIdzl6auzEDms7.jpg",
+      "season_number": 4,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2017-11-29",
+      "episode_count": 20,
+      "id": 88459,
+      "name": "Sezon 5",
+      "overview": "Lagertha ve Ragnar'ın oğulları; artan tehditler, beklenmedik ihanetler ve kanlı güç mücadelelerinin ortasında, kendi kaderlerini çizmek için yola çıkarlar.",
+      "poster_path": "/iOVC9GVEEVTGN3eYcDVkmDkOa11.jpg",
+      "season_number": 5,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2019-12-04",
+      "episode_count": 20,
+      "id": 133827,
+      "name": "Sezon 6",
+      "overview": "Final sezonunda Bjorn artık Kattegat'ın kralıdır, Ivar Rusya'da kaçak durumdadır, Lagertha ise kırsaldaki bir çiftlikte huzurlu bir inzivaya çekilmeyi planlamaktadır.",
+      "poster_path": "/3VsziFTocbNyGQjM2QNLJF41ccX.jpg",
+      "season_number": 6,
+      "vote_average": 7.7
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.094,
+  "vote_count": 7161,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1609347,
+        "known_for_department": "Acting",
+        "name": "Alex Hogh Andersen",
+        "original_name": "Alex Høgh Andersen",
+        "popularity": 2.2732,
+        "profile_path": "/kDO1gFqMnsV5gCQsMgEL9BZongX.jpg",
+        "character": "Ivar Lothbrok / Ivar the Boneless",
+        "credit_id": "5dee5192025764001854e65a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1394429,
+        "known_for_department": "Acting",
+        "name": "Jordan Patrick Smith",
+        "original_name": "Jordan Patrick Smith",
+        "popularity": 0.4342,
+        "profile_path": "/bGPLRUkjCHm2j8VspCOgL6mti4b.jpg",
+        "character": "Ubbe Lothbrok",
+        "credit_id": "5a2068e89251410329097fe9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1372317,
+        "known_for_department": "Acting",
+        "name": "Marco Ilsø",
+        "original_name": "Marco Ilsø",
+        "popularity": 0.9893,
+        "profile_path": "/xfcrAKFHq81VVO9axg1zP8JrYCN.jpg",
+        "character": "Hvitserk Lothbrok",
+        "credit_id": "5c22368e0e0a264df2ef7aea",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11263,
+        "known_for_department": "Acting",
+        "name": "Peter Franzén",
+        "original_name": "Peter Franzén",
+        "popularity": 1.9847,
+        "profile_path": "/8ltJpmctAnBxCuG725N2GclwWMZ.jpg",
+        "character": "King Harald Finehair",
+        "credit_id": "576bc23b9251416755001b38",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2074237,
+        "known_for_department": "Acting",
+        "name": "Georgia Hirst",
+        "original_name": "Georgia Hirst",
+        "popularity": 0.8051,
+        "profile_path": "/lnUhfcYBq1iCC5g8M6YmH4fhhTl.jpg",
+        "character": "Torvi",
+        "credit_id": "5c37ef4192514128f68d42f7",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 562730,
+        "known_for_department": "Acting",
+        "name": "Данила Козловский",
+        "original_name": "Данила Козловский",
+        "popularity": 1.4033,
+        "profile_path": "/2lkPpwhMztEsDJ314Oifems0lrt.jpg",
+        "character": "Prince Oleg of Novgorod",
+        "credit_id": "5dee528edaf57c0015ee39c0",
+        "order": 19
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37631,
+        "known_for_department": "Writing",
+        "name": "Michael Hirst",
+        "original_name": "Michael Hirst",
+        "popularity": 1.5239,
+        "profile_path": "/70lhWPCdSPv7aGpaoAPk9h6sFOR.jpg",
+        "credit_id": "57ac7eca92514157f100248d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64156,
+        "known_for_department": "Sound",
+        "name": "Trevor Morris",
+        "original_name": "Trevor Morris",
+        "popularity": 0.8295,
+        "profile_path": "/bRbUFUSWSI0LSznh8kzxrN0olBl.jpg",
+        "credit_id": "5638906592514129fe0113d9",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1752539,
+        "known_for_department": "Writing",
+        "name": "Justin Pollard",
+        "original_name": "Justin Pollard",
+        "popularity": 0.111,
+        "profile_path": null,
+        "credit_id": "650c47d33d745400c4a179e2",
+        "department": "Production",
+        "job": "Researcher"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "scandinavia",
+        "id": 5475
+      },
+      {
+        "name": "vikings (norsemen)",
+        "id": 5895
+      },
+      {
+        "name": "historical fiction",
+        "id": 12995
+      },
+      {
+        "name": "middle ages (476-1453)",
+        "id": 41406
+      },
+      {
+        "name": "norse mythology",
+        "id": 179101
+      },
+      {
+        "name": "historical drama",
+        "id": 192772
+      },
+      {
+        "name": "warrior",
+        "id": 192913
+      },
+      {
+        "name": "8th century",
+        "id": 252696
+      },
+      {
+        "name": "antagonistic",
+        "id": 325766
+      },
+      {
+        "name": "excited",
+        "id": 325811
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/k47JEUTQsSMN532HRg6RCzZKBdB.jpg",
+        "id": 116135,
+        "name": "Vikings: Valhalla",
+        "original_name": "Vikings: Valhalla",
+        "overview": "Tarihi dizi Vikings'in 100 yıl sonrasını konu alan Vikings: Valhalla, İngiltere Kralı Günah Çıkartıcı Aziz Edward'ın ölümünün ardından 3 lordun İngiltere tahtında hak iddia etmesi üzerine, İngiltere'nin kaderini etkileyecek olayları anlatmaktadır. Viking çağının nasıl sonlandığını da anlatmaktadır.",
+        "poster_path": "/rDFy1fUU6OC3Mm0CLFB7u0fGwVN.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10768
+        ],
+        "popularity": 21.0198,
+        "first_air_date": "2022-02-25",
+        "vote_average": 7.7,
+        "vote_count": 936,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/siA2d4PNn4JVFZAwfIYx4pnKCaK.jpg",
+        "id": 46648,
+        "name": "True Detective",
+        "original_name": "True Detective",
+        "overview": "Louisiana Cinayet Masası'nda görev yapan dedektif Rust Cohle ve Martin Hart bir seri katilin peşine düşerler. Beraber çalışan ikilinin, takip derinleştikçe kendi hayatlarının da içinden çıkılmaz bir duruma gelmesi kaçınılmaz olacaktır. 17 yıl boyunca bir seri katili yakalamak için iz süren dedektifler, yıllar sonra davanın tekrar ele alınması ile beraber kendilerini sorgu masasında bulurlar.",
+        "poster_path": "/cuV2O5ZyDLHSOWzg3nLVljp1ubw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 43.1416,
+        "first_air_date": "2014-01-12",
+        "vote_average": 8.286,
+        "vote_count": 3637,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ifZYdmNuMWimFCUGGcYAs9bHNlv.jpg",
+        "id": 63333,
+        "name": "The Last Kingdom",
+        "original_name": "The Last Kingdom",
+        "overview": "Dizi, Vikingler tarafından büyütülen, sonrasında kralları Büyük Alfred ile oğlu Edward için kalkan duvarları ve kan, intikam içerisinde Alfred'in İngiltere diye adlandırdığı krallıkları tek bir bayrak altında toplama rüyasını gerçekleştirmek için hizmet eden bir savaşçının hikayesi anlatılıyor.",
+        "poster_path": "/8eJf0hxgIhE6QSxbtuNCekTddy1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10768
+        ],
+        "popularity": 41.6851,
+        "first_air_date": "2015-10-10",
+        "vote_average": 8.253,
+        "vote_count": 1795,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+        "id": 1399,
+        "name": "Game of Thrones",
+        "original_name": "Game of Thrones",
+        "overview": "Krallık dediğin savaşsız olur mu? En güçlü krallığı kurup huzuru sağlamış olsanız bile bu gücü elinizde nasıl tutardınız? Burada yanlış yapana yer yok, affetmek yok. Hanedan entrikaları, kapılı kapılar ardında dönen oyunlar, birilerinin kuyusunu kazmak için düşmanın koynuna girmekten çekinmeyen kadınlar, kardeşler arası çekişmeler, dışlanmalar. Hepsi tek bir amaç için: taht kavgası.",
+        "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 202.8327,
+        "first_air_date": "2011-04-17",
+        "vote_average": 8.457,
+        "vote_count": 24960,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/mBHcWrRAtkRo9YgcHm1cUdLuyQ8.jpg",
+        "id": 47665,
+        "name": "Black Sails",
+        "original_name": "Black Sails",
+        "overview": "Black Sails, Jon Steinberg ve Robert Levine tarafından, Starz için yaratılan bir televizyon dizisidir. 26 Temmuz 2013 tarihinde, Starz on bölümlük ikinci sezon onayı vermiştir. Louis Stevenson’ın romanı Treasure Island'ın 20 yıl öncesini konu alan Black Sails, Korsanlığın altın çağında Kaptan Flint ve tayfasına yeni kattığı John Silver'ın başlarına açtığı belaları anlatıyor. Los Angeles Times'dan Robert Lloyd dizi için \"Black Sails bir korsan hazinesi. Starz'ın yeni dizisi, korsanların günlük yaşamını gerçekçi bir biçimde resmediyor\" ifadelerini kullandı. Dizi, Güney Afrika'daki Cape Town Film Stüdyolarında çekiliyor. Sadece bir gemiye eklenen detaylar için Üç yüz işçi saatlerce çalışmıştır. ",
+        "poster_path": "/mZcSwrDdw6cdOVgXm496DgwrQcQ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759
+        ],
+        "popularity": 22.3934,
+        "first_air_date": "2014-01-25",
+        "vote_average": 7.593,
+        "vote_count": 1341,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zoAxfThy7ntyCutBeNgdaKhRoSX.jpg",
+        "id": 1425,
+        "name": "House of Cards",
+        "original_name": "House of Cards",
+        "overview": "90’lı yıllarda, politikacı yazar Michael Dobbs tarafından yazılan aynı adlı kitaptan esinlenen ve BBC’ye mini dizi olarak uyarlanan “House of Cards”, şimdi Amerikalı yapımcılar tarafından bir kez daha, üstelik muhteşem bir kadro eşliğinde televizyona aktarıldı. Son yıllarda “The Curious Case of Benjamin Button” ve “Social Network” filmleriyle ses getiren David Fincher tarafından yapımcılığı ve yönetmenliği üstlenen dizinin başrollerinde, Fincher’ın filmlerinde de rol alan iki ünlü yıldız yer alıyor. “Seven” filminde birlikte çalıştığı Kevin Spacey ve “The Girl with the Dragon Tattoo” filminde rol alan Robin Wright. \n\n“House of Cards” Washington’da hırslı bir politikacının zirveye tırmanışını anlatıyor. Kevin Spacey tarafından canlandırılan Francis Underwood yıllarını Beyaz Saray koridorlarında geçirdikten sonra, artık başkanlık seçimlerine adaylığını koyması gerektiğini düşünüyor. Ne de olsa bunca zaman o koridorlarda gördüğü tüm üst düzey bürokratlar ile ilgili her türlü bilgiye sahip. Kimi hangi dosyayla tehdit edeceğini biliyor. Bu gözü kara politikacının Robin Wright tarafından canlandırılan eşi Claire’in de ondan aşağı kalır yanı yok. Francis Underwood’un başkanlık koltuğuna ilerlemek için adeta iskambil kağıtlarından bir ev gibi itinayla inşa ettiği stratejisini ilgiyle takip edeceksiniz.",
+        "poster_path": "/rXaHpG5E8y68pqfG2RRwmjdebo1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 40.9392,
+        "first_air_date": "2013-02-01",
+        "vote_average": 8.006,
+        "vote_count": 2871,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/bT7pArYmcE91iCTec5H7pjrVbSu.jpg",
+        "id": 63351,
+        "name": "Narcos",
+        "original_name": "Narcos",
+        "overview": "Uyuşturucu İle Mücadele Dairesi’nde çalışan bir Meksikalı bir ajan olan Javier Pena, ünlü Kolombiyalı uyuşturucu kaçakçısı Pablo Escobar’ı yakalamak için Birleşik Devletler tarafından Kolombiya’ya yollanır. Escobar'ın gerçek hayat hikayesinden uyarlanan dizi, dünya çapına yayılmış bir uyuşturucu şebekesini engellemeye çalışan kolluk kuvvetlerini konu ediniyor.",
+        "poster_path": "/rTmal9fDbwh5F0waol2hq35U4ah.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 32.7859,
+        "first_air_date": "2015-08-28",
+        "vote_average": 8.044,
+        "vote_count": 2944,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zi40ANCqdvVqCN3q43g1hjdVCsp.jpg",
+        "id": 1407,
+        "name": "Homeland",
+        "original_name": "Homeland",
+        "overview": "Irak'ta öldürüldüğü tahmin edilen bir Amerikan askeri, kaybolduktan 8 yıl sonra geri döner. Ancak eve dönüş sevinci sona erdikten sonra, onun gerçekten bir Amerikan kahramanı olup olmadığı ya da bir terör saldırısı planlayan uyuyan bir hücrenin parçası olup olmadığı konusunda şüpheler ortaya çıkar.",
+        "poster_path": "/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10768,
+          80
+        ],
+        "popularity": 46.8217,
+        "first_air_date": "2011-10-02",
+        "vote_average": 7.558,
+        "vote_count": 2308,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/518nMUMDxxwtBsgodhYKF1VC3uA.jpg",
+        "id": 46296,
+        "name": "Spartacus",
+        "original_name": "Spartacus",
+        "overview": "Trakyalı bir asker olan Spartacus sürekli baskısı altında kaldıkları Roma Cumhuriyeti ile birlikte Getaelar'a karşı savaşmak için Roma ordusuna katılır. İlk çarpışmadan sonra Spartacus doğuya doğru çekilen Getae ordusunu takip etmek yerine Karadeniz'e gitme emri veren Gaius Claudius Glaber'a karşı gelir ve köyüne gitmeye karar verir. Köyüne yaklaştığında Getaelar'ın orayı mahvettiğini görür ancak karısı kurtulmuştur. Geceyi bir mağarada karısıyla geçiren Spartacus'u sabah Roma ordusu bulur. Glaber, Spartacus'u köle olarak alır ve karısını da Suriyeli bir tüccara satar. Spartacus daha sonra Ludus'a girer ve karısını bulmak için savaşmaya başlar.",
+        "poster_path": "/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 56.0593,
+        "first_air_date": "2010-01-22",
+        "vote_average": 8.021,
+        "vote_count": 2616,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9faGSFi5jam6pDWGNd0p8JcJgXQ.jpg",
+        "id": 1396,
+        "name": "Breaking Bad",
+        "original_name": "Breaking Bad",
+        "overview": "Kanserden öleceğini öğrenen bir kimya öğretmeni, ailesinin geleceğini garanti altına almak için metamfetamin üretip satmak üzere eski bir öğrencisiyle kafa kafaya verir.",
+        "poster_path": "/ineLOBPG8AZsluYwnkMpHRyu7L.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 116.064,
+        "first_air_date": "2008-01-20",
+        "vote_average": 8.925,
+        "vote_count": 15512,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/yGNnjoIGOdQy3douq60tULY8teK.jpg",
+        "id": 63247,
+        "name": "Westworld",
+        "original_name": "Westworld",
+        "overview": "İki konuk ileri teknolojinin kullanıldığı bir eğlence parkında Vahşi Batı macerasına çıkar. Parktaki insanlar robottur ve park Roma, Vahşi Batı ve Ortaçağ dönemlerine benzetilerek sahici bir hayat yaratmak amacıyla tasarlanmıştır. Merkezi bilgisayar sistemi bozulunca robotlar zincirlerini koparır ve parkın iki konuğu robot bir silahşör tarafından takip edildiklerini fark eder.West World ya da Batı Dünyası, yapay bilincin ortaya çıkması ve suçun geleceğiyle ilgili karanlık bir yolculuğu anlatmaktadır.",
+        "poster_path": "/8MfgyFHf7XEboZJPZXCIDqqiz6e.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          37
+        ],
+        "popularity": 51.6489,
+        "first_air_date": "2016-10-02",
+        "vote_average": 8.0,
+        "vote_count": 5699,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/or7wKwv1IT6LEOktt395O5qi7e.jpg",
+        "id": 60574,
+        "name": "Peaky Blinders",
+        "original_name": "Peaky Blinders",
+        "overview": "Birinci Dünya Savaşı’ndan yeni çıkmış İngiltere’yi, yasadışı faaliyet gösteren çeşitli çeteler sarmıştır. Bunlardan biri de soygunculuk ve at yarışıyla para kazanan Peaky Blinders’dır. Polislere rüşvet yedirerek paçayı kurtaran çete, bir soygunda yanlışlık yapınca başlarına bela olacak yeni bir müfettişin şehre gelmesine vesile olurlar.",
+        "poster_path": "/5aHpODCpUa0kGTPXtiYC0moIPhT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 78.428,
+        "first_air_date": "2013-09-12",
+        "vote_average": 8.532,
+        "vote_count": 10339,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/rAOjnEFTuNysY7bot8zonhImGMh.jpg",
+        "id": 1402,
+        "name": "The Walking Dead",
+        "original_name": "The Walking Dead",
+        "overview": "Kasabanın polis şefi Rick Grimes bir gün vurularak hastaneye kaldırılır; fakat o komadayken geçen sürede bildiği yaşam altüst olmuştur. Artık dünya, insan etiyle beslenen zombilerin insafına kalacak. Tabii birazcık insani duyguları kaldıysa. Atlanta'da kaostan sonra sessizce hayatta kalmaya çalışan küçük bir grup insanınsa birbirlerinden başka tutunacak kimseleri yok.",
+        "poster_path": "/s3OIDrCErUjthsnPPreY7XktQXB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10765
+        ],
+        "popularity": 109.4463,
+        "first_air_date": "2010-10-31",
+        "vote_average": 8.097,
+        "vote_count": 16946,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2eIlCirgcvEwmCSYh2wDfz5Sxvz.jpg",
+        "id": 46952,
+        "name": "The Blacklist",
+        "original_name": "The Blacklist",
+        "overview": "FBI'ın arananlar listesindeki kaçak, diğer kötüleri yakalamaları için FBI'a yardım teklifinde bulunur; tek şartı çaylak profil uzmanı Elizabeth Keen'in ortağı olmasıdır.",
+        "poster_path": "/4HTfd1PhgFUenJxVuBDNdLmdr0c.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "popularity": 144.8986,
+        "first_air_date": "2013-09-23",
+        "vote_average": 7.638,
+        "vote_count": 3269,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/jrIyQJsSZMQV8nhqQwe1vVFrnVI.jpg",
+        "id": 56570,
+        "name": "Outlander",
+        "original_name": "Outlander",
+        "overview": "1945 yılında yaşayan, evli bir savaş hemşiresi olan Claire Randall; gizemli bir şekilde 1743 yılına yolculuk eder ve romantik bir İskoç savaşçısı olan Jamie Fraser ile evlenmek zorunda kalır. Claire zamanla Jamie’ye bir şeyler hissetmeye başlayacak ve iki farklı zamandan, iki farklı erkek arasında kalacaktır.",
+        "poster_path": "/oftZNfyTVNU7IfOqoGLoT8MGvNs.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 59.1536,
+        "first_air_date": "2014-08-09",
+        "vote_average": 8.2,
+        "vote_count": 2663,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7w165QdHmJuTHSQwEyJDBDpuDT7.jpg",
+        "id": 2288,
+        "name": "Prison Break",
+        "original_name": "Prison Break",
+        "overview": "Haksız yere suçlandığını düşündüğü abisini hapishaneden kurtarmak isteyen Michael Scofield, nerdeyse kusursuz bir plan yapar. Lincoln Burrows'a yüklenen suç, kendilerini temize çıkarabilecekleri bir suç değildir. Devletin de işin içine karıştığını öğrendiklerinde kaçmaktan başka çareleri kalmaz. Michael planını uygulamaya sokar ve kaçış başlar.",
+        "poster_path": "/5E1BhkCgjLBlqx557Z5yzcN0i88.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          80,
+          18
+        ],
+        "popularity": 101.1369,
+        "first_air_date": "2005-08-29",
+        "vote_average": 8.078,
+        "vote_count": 5406,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9zcbqSxdsRMZWHYtyCd1nXPr2xq.jpg",
+        "id": 82856,
+        "name": "The Mandalorian",
+        "original_name": "The Mandalorian",
+        "overview": "İmparatorluk'un çöküşünden sonra yalnız bir Mandalorian, öksüzü Grogu'yla beraber kanunsuz galakside dikkatle yol alır.",
+        "poster_path": "/eU1i6eHXlzMOlEq0ku1Rzq7Y4wA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 36.2649,
+        "first_air_date": "2019-11-12",
+        "vote_average": 8.425,
+        "vote_count": 10330,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vm4uFMgn1t71VFvPLZdeUuzKD7M.jpg",
+        "id": 1424,
+        "name": "Orange Is the New Black",
+        "original_name": "Orange Is the New Black",
+        "overview": "Eskiden işlediği bir suç yüzünden kadın hapishanesine atılan seçkin bir New Yorklu, burada hem dost hem düşman edinmekte gecikmez.",
+        "poster_path": "/ekaa7YjGPTkFLcPhwWXTnARuCEU.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 54.9994,
+        "first_air_date": "2013-07-11",
+        "vote_average": 7.661,
+        "vote_count": 2605,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/mcgZDwhMlrFsfpbvCeg5RY5mhiu.jpg",
+        "id": 1409,
+        "name": "Sons of Anarchy",
+        "original_name": "Sons of Anarchy",
+        "overview": "Kasabasının kontrolünü ele geçirdikten sonra, bir silah kaçakçısı olan motosiklet kulübü; rakip motorculara, ırkçı gruplara ve kanuna kafa tutar.",
+        "poster_path": "/kiy8BHtIHAslh81rvFcZ4wbNGdY.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 37.9435,
+        "first_air_date": "2008-09-03",
+        "vote_average": 8.434,
+        "vote_count": 2986,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/u23G9KZregWHs1use6ir1fX27gl.jpg",
+        "id": 81356,
+        "name": "Sex Education",
+        "original_name": "Sex Education",
+        "overview": "Öz güvensiz Otis, terapist annesi sayesinde cinsel tavsiyeler hakkında her şeyi bilmektedir. Öyle ki asi Maeve ona okulda bir seks terapisi kliniği açmayı teklif eder.",
+        "poster_path": "/vDPxd8umSGkkhCO7eA1yML1zT1o.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 53.6642,
+        "first_air_date": "2019-01-11",
+        "vote_average": 8.238,
+        "vote_count": 7468,
+        "origin_country": [
+          "GB"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

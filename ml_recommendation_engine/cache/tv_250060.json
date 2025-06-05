@@ -1,0 +1,990 @@
+{
+  "adult": false,
+  "backdrop_path": "/lO2CqipALTHkRblLIRDKgtMgwxX.jpg",
+  "created_by": [
+    {
+      "id": 4246511,
+      "credit_id": "66046d0af90b19017ca76325",
+      "name": "竹已",
+      "original_name": "竹已",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2025-02-18",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Dram"
+    }
+  ],
+  "homepage": "https://v.youku.com/v_show/id_XNjQwNzgzNjExMg==.html",
+  "id": 250060,
+  "in_production": true,
+  "languages": [
+    "zh"
+  ],
+  "last_air_date": "2025-03-05",
+  "last_episode_to_air": {
+    "id": 5976400,
+    "name": "23. Bölüm",
+    "overview": "",
+    "vote_average": 7.0,
+    "vote_count": 2,
+    "air_date": "2025-03-05",
+    "episode_number": 23,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 250060,
+    "still_path": "/mt2hu0RYcEsQQMPs6Tgd5kTj2Y5.jpg"
+  },
+  "name": "难哄",
+  "next_episode_to_air": {
+    "id": 5976401,
+    "name": "24. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-07",
+    "episode_number": 24,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 250060,
+    "still_path": "/jJJjjOBetXyMWWnPQrNZN7Wvbn7.jpg"
+  },
+  "networks": [
+    {
+      "id": 1419,
+      "logo_path": "/w2TeR3fvPZ9a617tNIF1oOfyPtk.png",
+      "name": "Youku",
+      "origin_country": "CN"
+    }
+  ],
+  "number_of_episodes": 35,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_name": "难哄",
+  "overview": "",
+  "popularity": 1689.633,
+  "poster_path": "/fzL102XzBdxj7yFrYnirxakDaKz.jpg",
+  "production_companies": [
+    {
+      "id": 202517,
+      "logo_path": "/tDMtmc7enrwjEqDuAPU4LiXKxfK.png",
+      "name": "Wajijiwa Entertainment",
+      "origin_country": "CN"
+    },
+    {
+      "id": 48460,
+      "logo_path": "/7m3BMwdstKRqw7qg5vSYW2S0HrR.png",
+      "name": "Youku",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-02-18",
+      "episode_count": 35,
+      "id": 385232,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/ikj91BfQsOjZuLxsSvYXc4iXIB9.jpg",
+      "season_number": 1,
+      "vote_average": 8.4
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.3,
+  "vote_count": 10,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1672869,
+        "known_for_department": "Acting",
+        "name": "白敬亭",
+        "original_name": "白敬亭",
+        "popularity": 56.512,
+        "profile_path": "/b3kmtLVQtgywB1QKWYHoNLsdqSO.jpg",
+        "character": "Sang Yan",
+        "credit_id": "65ffc9193520e8017ed84fca",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2174697,
+        "known_for_department": "Acting",
+        "name": "章若楠",
+        "original_name": "章若楠",
+        "popularity": 66.625,
+        "profile_path": "/1P84p4yKTiEs4ZDBpnN3z99BiRc.jpg",
+        "character": "Wen Yifan",
+        "credit_id": "65ffc924b84cdd017df51252",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1834631,
+        "known_for_department": "Acting",
+        "name": "陳昊森",
+        "original_name": "陳昊森",
+        "popularity": 12.042,
+        "profile_path": "/dOyZVinKyxAcyGFSYC8slGV7JtV.jpg",
+        "character": "Su Haoan",
+        "credit_id": "67b37c1f91d7e66c656da95d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3372607,
+        "known_for_department": "Acting",
+        "name": "張淼怡",
+        "original_name": "張淼怡",
+        "popularity": 26.251,
+        "profile_path": "/bjXOIPJG7dIsFrBiPXMBcJPbMWN.jpg",
+        "character": "Zhong Siqiao",
+        "credit_id": "65ffc93d770700017c0d8580",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3133673,
+        "known_for_department": "Acting",
+        "name": "翟瀟聞",
+        "original_name": "翟瀟聞",
+        "popularity": 39.666,
+        "profile_path": "/sX4Fhh35IZxJwultxPSilG8C8Ng.jpg",
+        "character": "Xiang Lang",
+        "credit_id": "65ffc9311b1f3c017c9a0a92",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5253773,
+        "known_for_department": "Acting",
+        "name": "原野",
+        "original_name": "原野",
+        "popularity": 4.636,
+        "profile_path": "/rCISm6Gffp7tHTEIJV9gdq7PV8d.jpg",
+        "character": "Mu Chengyun",
+        "credit_id": "67b40c9b91d7e66c656dc001",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3152214,
+        "known_for_department": "Acting",
+        "name": "Chen Jianan",
+        "original_name": "Chen Jianan",
+        "popularity": 1.182,
+        "profile_path": "/dtnEBJrsuAXe47LQCGvfSCsO4G1.jpg",
+        "character": "Su Tian",
+        "credit_id": "67b4114391d7e66c656dc06c",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1802760,
+        "known_for_department": "Acting",
+        "name": "Fu Miao",
+        "original_name": "Fu Miao",
+        "popularity": 2.794,
+        "profile_path": "/jWZ8tyVZzz4bSP2WJgWxpv2GRup.jpg",
+        "character": "Qian Wenhua",
+        "credit_id": "67b41178f8cf4734519fadfd",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1280184,
+        "known_for_department": "Acting",
+        "name": "Feng Bo",
+        "original_name": "Feng Bo",
+        "popularity": 1.0,
+        "profile_path": "/bnRIEat4UNXtx2X2ttRVzhl96aI.jpg",
+        "character": "Zhao Yuandong",
+        "credit_id": "67b411b691d7e66c656dc09a",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4893114,
+        "known_for_department": "Writing",
+        "name": "李懿芳",
+        "original_name": "李懿芳",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "66c27c1acdf4c62845bf8009",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4893116,
+        "known_for_department": "Production",
+        "name": "曾赟",
+        "original_name": "曾赟",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "66c27c3197cee6aa0ea27674",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4246511,
+        "known_for_department": "Creator",
+        "name": "竹已",
+        "original_name": "竹已",
+        "popularity": 3.38,
+        "profile_path": null,
+        "credit_id": "66c27be3a4339f1f5fbf7f59",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1106982,
+        "known_for_department": "Directing",
+        "name": "瞿友寧",
+        "original_name": "瞿友寧",
+        "popularity": 2.986,
+        "profile_path": "/mPiU8olIeJPLX596fRrGvHQ7ZNJ.jpg",
+        "credit_id": "66c27c04ab5a26dae8d9f9db",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 581880,
+        "known_for_department": "Sound",
+        "name": "陈珊妮",
+        "original_name": "陈珊妮",
+        "popularity": 0.001,
+        "profile_path": "/iXRCn9DFZZQs7pKIUJnym6MJKo3.jpg",
+        "credit_id": "67b575362152638f5ee3a987",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2445896,
+        "known_for_department": "Acting",
+        "name": "Mao Buyi",
+        "original_name": "Mao Buyi",
+        "popularity": 1.595,
+        "profile_path": "/zNZMOCUOInF61rqv0c301nihYCF.jpg",
+        "credit_id": "67b576a53751180bfcdfb8c8",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2162354,
+        "known_for_department": "Sound",
+        "name": "Mayday",
+        "original_name": "Mayday",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "67b5780f902f5e20a688a419",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 106578,
+        "known_for_department": "Acting",
+        "name": "李宇春",
+        "original_name": "李宇春",
+        "popularity": 4.44,
+        "profile_path": "/b1i6gMeiH0RV6757glfS2HXnZFz.jpg",
+        "credit_id": "67b578972152638f5ee3abfe",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2669740,
+        "known_for_department": "Acting",
+        "name": "汪苏泷",
+        "original_name": "汪苏泷",
+        "popularity": 3.07,
+        "profile_path": "/kIwolaCZFbgcXlGdD0GSKwKSFGt.jpg",
+        "credit_id": "67b578ae9e32f72b4d88aa61",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3161433,
+        "known_for_department": "Acting",
+        "name": "Bichen Zhang",
+        "original_name": "Bichen Zhang",
+        "popularity": 0.759,
+        "profile_path": "/cR9SkeWrwmf68oGXDiWVnxlisfL.jpg",
+        "credit_id": "67b578d8d28e87e0e5e3a8d1",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2174697,
+        "known_for_department": "Acting",
+        "name": "章若楠",
+        "original_name": "章若楠",
+        "popularity": 66.625,
+        "profile_path": "/1P84p4yKTiEs4ZDBpnN3z99BiRc.jpg",
+        "credit_id": "67b578f33751180bfcdfba0d",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3372607,
+        "known_for_department": "Acting",
+        "name": "張淼怡",
+        "original_name": "張淼怡",
+        "popularity": 26.251,
+        "profile_path": "/bjXOIPJG7dIsFrBiPXMBcJPbMWN.jpg",
+        "credit_id": "67b5790d60b18a5698dfb8f8",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1672869,
+        "known_for_department": "Acting",
+        "name": "白敬亭",
+        "original_name": "白敬亭",
+        "popularity": 56.512,
+        "profile_path": "/b3kmtLVQtgywB1QKWYHoNLsdqSO.jpg",
+        "credit_id": "67b5791e9e32f72b4d88aa6a",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3800623,
+        "known_for_department": "Acting",
+        "name": "赵磊",
+        "original_name": "赵磊",
+        "popularity": 0.266,
+        "profile_path": "/gTzinbQI58SG9AEKWTI9IUPr29g.jpg",
+        "credit_id": "67b5794060b18a5698dfb8ff",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4297152,
+        "known_for_department": "Sound",
+        "name": "Yan Yi Dan",
+        "original_name": "Yan Yi Dan",
+        "popularity": 0.001,
+        "profile_path": "/4zCYBrYu1Yqev1pK9Is4Tux9XP3.jpg",
+        "credit_id": "67b5796d902f5e20a688a49b",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1834631,
+        "known_for_department": "Acting",
+        "name": "陳昊森",
+        "original_name": "陳昊森",
+        "popularity": 12.042,
+        "profile_path": "/dOyZVinKyxAcyGFSYC8slGV7JtV.jpg",
+        "credit_id": "67b579ad3751180bfcdfba50",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5253804,
+        "known_for_department": "Acting",
+        "name": "张洢豪",
+        "original_name": "张洢豪",
+        "popularity": 0.049,
+        "profile_path": "/9qPgrodSapmapJMUxOTG7VOF3GT.jpg",
+        "credit_id": "67b57b7c2152638f5ee3aec7",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5256278,
+        "known_for_department": "Sound",
+        "name": "蕭秉治",
+        "original_name": "蕭秉治",
+        "popularity": 0.002,
+        "profile_path": "/uBYKIyRVxG9RPdsIwxoi4jQrFdG.jpg",
+        "credit_id": "67b57da29e32f72b4d88ac88",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4002971,
+        "known_for_department": "Production",
+        "name": "Long Dan Ni",
+        "original_name": "Long Dan Ni",
+        "popularity": 0.001,
+        "profile_path": "/aYw5xBc9msOP2C3CaxruXmUchCN.jpg",
+        "credit_id": "67bd37e04d940b124ba47e9a",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "romance",
+        "id": 9840
+      },
+      {
+        "name": "urban",
+        "id": 10616
+      },
+      {
+        "name": "first love",
+        "id": 157303
+      },
+      {
+        "name": "sleepwalking",
+        "id": 179878
+      },
+      {
+        "name": "cohabitation",
+        "id": 237945
+      },
+      {
+        "name": "female reporter",
+        "id": 239378
+      },
+      {
+        "name": "web series",
+        "id": 281372
+      },
+      {
+        "name": "based on web novel",
+        "id": 318933
+      },
+      {
+        "name": "manager male lead",
+        "id": 320969
+      },
+      {
+        "name": "second chance romance",
+        "id": 324571
+      },
+      {
+        "name": "chinese drama",
+        "id": 339110
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/jb2GmlAALi4t8ugNFDuz12HF89w.jpg",
+        "id": 46994,
+        "name": "Slugterra",
+        "original_name": "Slugterra",
+        "overview": "Following his father's death, 15-year-old Eli Shane embraces his destiny to follow in his dad's footsteps to a secret, subterranean world called Slugterra where he is determined to be the greatest Slugslinging hero of them all!",
+        "poster_path": "/hbAHSGKr0aJStev8w5ebWWZboh1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          35,
+          10765,
+          10751
+        ],
+        "popularity": 73.859,
+        "first_air_date": "2012-10-15",
+        "vote_average": 8.354,
+        "vote_count": 852,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/4cKT4tpP5xuuqfI9BWCdfIzKDXs.jpg",
+        "id": 1767,
+        "name": "Bobby's World",
+        "original_name": "Bobby's World",
+        "overview": "Bobby Generic lives in a typical suburban neighborhood and uses his overactive imagination to discover a world of daring adventure, incredible wonder and lots of laughs — all in pint-sized perspective.",
+        "poster_path": "/zrcPIkzTim0ICyc6h81LfmBSQgB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10762,
+          16,
+          10751,
+          35
+        ],
+        "popularity": 55.51,
+        "first_air_date": "1990-09-08",
+        "vote_average": 6.9,
+        "vote_count": 134,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 222692,
+        "name": "Honningfellen",
+        "original_name": "Honningfellen",
+        "overview": "",
+        "poster_path": "/8YsGIdqVkw5BT5rPKD49S8tqNfi.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "nb",
+        "genre_ids": [
+          80
+        ],
+        "popularity": 3.676,
+        "first_air_date": "2008-04-19",
+        "vote_average": 5.8,
+        "vote_count": 4,
+        "origin_country": [
+          "NO"
+        ]
+      },
+      {
+        "backdrop_path": "/oDO4dUdcvCM046m4eQApa3f6FOe.jpg",
+        "id": 2150,
+        "name": "The Scooby-Doo/Dynomutt Hour",
+        "original_name": "The Scooby-Doo/Dynomutt Hour",
+        "overview": "The Scooby-Doo/Dynomutt Hour is a 60-minute package show produced by Hanna-Barbera Productions in 1976 for ABC Saturday mornings. It marked the first new installments of the cowardly canine since 1973, and contained the following segments: The Scooby-Doo Show and Dynomutt, Dog Wonder.",
+        "poster_path": "/geO8f6BdJ0E3OcJSzqyS3AakuEx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10751,
+          10762,
+          9648
+        ],
+        "popularity": 32.563,
+        "first_air_date": "1976-09-11",
+        "vote_average": 7.9,
+        "vote_count": 167,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/l6GOe9r5EsdgHSJJjpPjvrg3tgv.jpg",
+        "id": 64016,
+        "name": "The New Scooby-Doo Mysteries",
+        "original_name": "The New Scooby-Doo Mysteries",
+        "overview": "Picking up where 'The New Scooby and Scappy Doo Show' left off. The main difference being that the team is now occasionally joined by Daphne Blake and friends to solve mysteries together.",
+        "poster_path": "/8ZTpCIym7UxTmHf4X5HPrLm1vJI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10751,
+          35,
+          10762,
+          9648
+        ],
+        "popularity": 47.422,
+        "first_air_date": "1984-09-08",
+        "vote_average": 8.5,
+        "vote_count": 100,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/adVJG1E4QEkUyZMRSqP3SRuyzJe.jpg",
+        "id": 88367,
+        "name": "Scooby-Doo and Guess Who?",
+        "original_name": "Scooby-Doo and Guess Who?",
+        "overview": "The Mystery Inc. gang solve bigger mysteries while also encountering many memorable celebrities.",
+        "poster_path": "/g7vQXsELihik4oHJwqhL6WuTJ3j.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          9648,
+          10751
+        ],
+        "popularity": 62.104,
+        "first_air_date": "2019-06-27",
+        "vote_average": 8.0,
+        "vote_count": 232,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/jnXJGSKOr72NizN62TXP2CyQt6j.jpg",
+        "id": 8514,
+        "name": "RuPaul's Drag Race",
+        "original_name": "RuPaul's Drag Race",
+        "overview": "Tüm drag annelerinin annesi RuPaul'un sunduğu Emmy ödüllü programda Kraliçeler 100.000 dolarlık para ödülü ve Amerika'nın Yeni Drag Süperstarı unvanı için yarışıyor.",
+        "poster_path": "/lgJvUN66DXJZyZjfYzbkwMAi1iI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 469.837,
+        "first_air_date": "2009-02-02",
+        "vote_average": 7.5,
+        "vote_count": 239,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vV5GFJtp8DgAysY1F0WfIwedi81.jpg",
+        "id": 231100,
+        "name": "Hudutsuz Sevda",
+        "original_name": "Hudutsuz Sevda",
+        "overview": "Küçük bir çocukken kan davası nedeniyle babasını kaybedip İstanbul’a sürülen Halil İbrahim (Deniz Can Aktaş), 20 yıl sonra memleketi Karadeniz’e yakışıklı, güçlü bir delikanlı olarak geri döner. Burada sevdiği kız Yasemin (Biran Damla Yılmaz) ile evlenecek ve yeni hayatını kuracaktır. Fakat yaşananlar buna izin vermez. Bir intikam yolculuğuna çıkan Halil İbrahim’in hayatı Leto’lardan Zeynep’in (Miray Daner) çıkması ile tamamen değişecektir.",
+        "poster_path": "/1BQSLOIvjnBzrxkXjX9R0JfHTWI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "tr",
+        "genre_ids": [
+          18,
+          80,
+          10766
+        ],
+        "popularity": 220.112,
+        "first_air_date": "2023-09-21",
+        "vote_average": 9.1,
+        "vote_count": 18,
+        "origin_country": [
+          "TR"
+        ]
+      },
+      {
+        "backdrop_path": "/4BrWdbv2Cqe0zLqvNzkoednZQAb.jpg",
+        "id": 94372,
+        "name": "FBI: Most Wanted",
+        "original_name": "FBI: Most Wanted",
+        "overview": "FBI’ın en çok aranan suçlular listesindeki ünlü isimlerin izini sürmek ve yakalamak için özel bir birim kurulur. Jess LaCroix’nun (Julian McMahon) liderlik ettiği timin görevi ise yıllardır izi sürülemeyen suçluları adalete teslim etmektir.",
+        "poster_path": "/uwTNBqFrEur3EtK8ofWbtGXMQOP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 184.312,
+        "first_air_date": "2020-01-07",
+        "vote_average": 7.676,
+        "vote_count": 395,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zxpFWnDLezFk8QLUv9VaBQjKjfn.jpg",
+        "id": 125,
+        "name": "To the Manor Born",
+        "original_name": "To the Manor Born",
+        "overview": "Sitcom about the love-hate relationship between upper-class Audrey fforbes Hamilton and Richard DeVere, the nouveau rich businessman who buys her manor house when she can no longer afford to keep it.",
+        "poster_path": "/dkC1esu05b8aHPUwTO7857MHbd0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 20.971,
+        "first_air_date": "1979-09-30",
+        "vote_average": 6.8,
+        "vote_count": 26,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/7YFranrnnIcCrgsLYQsoq8aE3Ir.jpg",
+        "id": 1855,
+        "name": "Star Trek: Voyager",
+        "original_name": "Star Trek: Voyager",
+        "overview": "USS Voyager'ın, 70.000 ışık yılı uzaklıktaki Delta çeyreğinde kayboluşunun hikayesi. 70 yıllık bir eve dönüş yolculuğu ile karşı karşıya olan mürettebat, zorlukların üstesinden gelmek ve kendi aralarındaki çatışmaları yenmek zorundadır. |",
+        "poster_path": "/gNS5tRSG3UlXodCxznKKOKweqxh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 395.614,
+        "first_air_date": "1995-01-16",
+        "vote_average": 7.8,
+        "vote_count": 964,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/w0jGeATK96OhjjmfxaLkCb1Azey.jpg",
+        "id": 35094,
+        "name": "Kratt Kardeşler",
+        "original_name": "Wild Kratts",
+        "overview": "The adventures of Chris and Martin Kratt as they encounter incredible wild animals, combining science education with fun and adventure as the duo travels to animal habitats around the globe.",
+        "poster_path": "/7Nn1AZb6LJv0WedeK7o4yU6Aioh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          16,
+          35
+        ],
+        "popularity": 77.495,
+        "first_air_date": "2011-01-03",
+        "vote_average": 7.6,
+        "vote_count": 50,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/8ue1wppL1W9jiJMwUXj9T4ilnCe.jpg",
+        "id": 1069,
+        "name": "The 13 Ghosts of Scooby-Doo",
+        "original_name": "The 13 Ghosts of Scooby-Doo",
+        "overview": "Shaggy and Scooby-Doo and friends must return 13 ghosts which they inadvertently released to a magical chest. Together with Daphne and Scrappy-Doo, along with  newcomer Flim-Flam, they travel the world facing the ghosts that must be returned to the chest.",
+        "poster_path": "/v7S15heYWQSJLM60uZjim7Y9nzG.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          9648,
+          35,
+          10751
+        ],
+        "popularity": 26.897,
+        "first_air_date": "1985-09-07",
+        "vote_average": 7.9,
+        "vote_count": 217,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wW2qcIGJaQeH4o4nKw6HI4KQ3vU.jpg",
+        "id": 4625,
+        "name": "Batman'nın Yeni Maceraları",
+        "original_name": "The New Batman Adventures",
+        "overview": "Batman'nın Yeni Maceraları, beğenilen Batman: Animasyon Serisi'nin devamı niteliğindedir. Bu serideki hikayeler, Batman'in diğer suç savaşçıları Robin, Nightwing ve Batgirl'i içeren destekleyici kadrosuna daha fazla odaklanma eğilimindedir. Gösteride ayrıca Supergirl, Etrigan ve The Creeper gibi konuk yıldızlar yer alıyor; Daha sonra Batman ile Justice League ve Justice League Unlimited'da görünecek olan karakterler.",
+        "poster_path": "/s40Ji11SBKaEYDgJmDc0ifklM59.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          9648,
+          16,
+          10762
+        ],
+        "popularity": 60.075,
+        "first_air_date": "1997-09-13",
+        "vote_average": 8.0,
+        "vote_count": 355,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/eaYjFKlWGa66jms6wEJqD52B8mZ.jpg",
+        "id": 10687,
+        "name": "Peyton Place",
+        "original_name": "Peyton Place",
+        "overview": "Like the novel and film of the same name, this nighttime soap opera is set in the small New England town of Peyton Place, whose quaint charm masks a complicated web of extramarital affairs, shady business deals, scandals, even murder.",
+        "poster_path": "/rioKZA26gfs5CkW7XGj0tBhFn50.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766,
+          9648
+        ],
+        "popularity": 16.427,
+        "first_air_date": "1964-09-15",
+        "vote_average": 6.6,
+        "vote_count": 7,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/xp5zva2Zav7mTxy3gApo2QM1GMC.jpg",
+        "id": 2913,
+        "name": "Are You Afraid of the Dark?",
+        "original_name": "Are You Afraid of the Dark?",
+        "overview": "Kendilerine \"Geceyarısı Topluluğu\" adını veren bir grup çocuk, kamp ateşi etrafında oturup korkunç hikayeler anlatıyorlar. Her bölümde  ayrı bir hikaye işleniyor.",
+        "poster_path": "/hcVvglRh3l38IRhhtawlT2nUDY8.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          10762,
+          18
+        ],
+        "popularity": 159.941,
+        "first_air_date": "1992-08-15",
+        "vote_average": 8.166,
+        "vote_count": 578,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5BIY5hMbVDbe5SjkIDD9TI7hPCI.jpg",
+        "id": 2321,
+        "name": "The Unit",
+        "original_name": "The Unit",
+        "overview": "Gizli görevleri yerine getirmek uğruna hayatlarını tehlikeye atan bir özel birliğin yaşadıklarını anlatan dizi bir yandan ekibin maceralarına tanık olurken diğer yandan eşlerinin ailelerini korumak adına kendi sırlarını koruma çabalarını da gözler önüne seriyor.",
+        "poster_path": "/ftwhXqizcVRo4pgqFnTysR9tAIM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "popularity": 88.141,
+        "first_air_date": "2006-03-07",
+        "vote_average": 7.28,
+        "vote_count": 193,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/iYfthKOg9HYGF3fJMJSig5XP4ls.jpg",
+        "id": 16934,
+        "name": "Dark Shadows",
+        "original_name": "Dark Shadows",
+        "overview": "Dark Shadows is a primetime television series which aired on NBC from January to March 1991. A re-imagining of the 1966–1971 ABC daytime gothic soap opera Dark Shadows, the revival was developed by Dan Curtis, creator of the original series.",
+        "poster_path": "/xLE7P7JFwZUQKIggwXpkBhq9wGR.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          10765
+        ],
+        "popularity": 16.826,
+        "first_air_date": "1991-01-13",
+        "vote_average": 7.7,
+        "vote_count": 30,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ayDIGr6dZwjg513X6bZZ6nieDKm.jpg",
+        "id": 119039,
+        "name": "Delete Me",
+        "original_name": "Delete Me",
+        "overview": "İki yakın arkadaş Marion ve Marit liseyi bitirmek üzeredir. Fakat en önemli şeyin itibar olduğu bir dünyada, masum, küçük bir şakanın viral olup hayatlarını sonsuza denk değiştireceğini öğrenirler.",
+        "poster_path": "/rEq2gecfSew8PNGATX6yfnYVHl0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "no",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 14.819,
+        "first_air_date": "2021-03-07",
+        "vote_average": 7.7,
+        "vote_count": 28,
+        "origin_country": [
+          "NO"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

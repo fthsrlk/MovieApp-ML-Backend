@@ -1,0 +1,639 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Öneriler - MovieApp</title>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        .notification-container {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            z-index: 1000;
+        }
+        
+        .notification {
+            background-color: white;
+            border-left: 4px solid var(--secondary-color);
+            color: var(--dark-color);
+            padding: 15px 20px;
+            margin-bottom: 10px;
+            border-radius: 4px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            opacity: 1;
+            transition: all 0.3s ease;
+        }
+        
+        .notification-error {
+            border-left-color: var(--danger-color);
+        }
+        
+        .notification-hide {
+            opacity: 0;
+            transform: translateX(100%);
+        }
+        
+        .genre-tag {
+            display: inline-block;
+            background-color: var(--primary-color);
+            color: white;
+            padding: 4px 8px;
+            border-radius: 4px;
+            margin-right: 5px;
+            margin-bottom: 5px;
+            font-size: 12px;
+        }
+        
+        /* Tab sistemi için CSS */
+        .recommendations-tabs {
+            display: flex;
+            margin-bottom: 20px;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        
+        .recommendations-tab {
+            padding: 12px 20px;
+            cursor: pointer;
+            font-weight: 600;
+            position: relative;
+            text-align: center;
+            flex: 1;
+            transition: all 0.3s;
+        }
+        
+        .recommendations-tab.active {
+            color: var(--secondary-color);
+        }
+        
+        .recommendations-tab.active:after {
+            content: '';
+            position: absolute;
+            bottom: -1px;
+            left: 0;
+            width: 100%;
+            height: 3px;
+            background-color: var(--secondary-color);
+        }
+        
+        .recommendations-content {
+            display: none;
+        }
+        
+        .recommendations-content.active {
+            display: block;
+        }
+        
+        .add-to-watchlist-btn {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background-color: rgba(45, 206, 137, 0.9);
+            color: white;
+            border: none;
+            border-radius: 50%;
+            width: 36px;
+            height: 36px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            transition: all 0.3s;
+            z-index: 10;
+        }
+        
+        .add-to-watchlist-btn:hover {
+            background-color: #26af74;
+            transform: scale(1.1);
+        }
+        
+        .in-watchlist-btn {
+            background-color: #32325d;
+        }
+        
+        .card {
+            animation: fadeIn 0.3s ease-out;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container header-container">
+            <a href="/" class="logo">MovieApp</a>
+            <nav class="nav">
+                <a href="/" class="nav-item">Ana Sayfa</a>
+                <a href="/search" class="nav-item">Ara</a>
+                <a href="/watchlist" class="nav-item">İzleme Listem</a>
+                <a href="/recommendations" class="nav-item active">Öneriler</a>
+                <button id="clearAllDataBtn" class="nav-item btn-danger" style="cursor: pointer; border: none; color: white; background-color: #dc3545; padding: 8px 12px; border-radius: 4px; margin-left: 15px;">Tüm Verileri Temizle</button>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Sayfa Ana İçeriği -->
+    <main id="main-content-wrapper">
+
+    <!-- Hero Section -->
+    <section class="hero" style="padding: 40px 0;">
+        <div class="container">
+            <h1>Size Özel Öneriler</h1>
+            <p>İzleme alışkanlıklarınıza göre özelleştirilmiş film ve dizi önerileri.</p>
+        </div>
+    </section>
+
+    <!-- ML Recommendations Section -->
+    <section class="section recommendations-section">
+        <div class="container">
+            <h2 class="section-title">Makine Öğrenimi Önerileri</h2>
+            <p class="text-center mb-20">İzleme listenize göre sizin için özel olarak seçilmiş içerikler.</p>
+            
+            {% if ml_recommendations %}
+                <!-- Tab sistemi - Başlığın altına, içerik sarmalayıcısının dışına alındı -->
+                <div class="recommendations-tabs ml-tabs">
+                    <div class="recommendations-tab active" data-target="all-recommendations">Tümü</div>
+                    <div class="recommendations-tab" data-target="movie-recommendations">Filmler</div>
+                    <div class="recommendations-tab" data-target="tv-recommendations">Diziler</div>
+                </div>
+                
+                <div class="recommendations-content-wrapper">
+                    <!-- Tüm Öneriler -->
+                    <div class="recommendations-content active" id="all-recommendations">
+                        <div class="card-grid">
+                            {% for rec_item in ml_recommendations %}
+                                {% set item = rec_item.info %}
+                                <div class="card {% if item.id in user_watchlist.get(item.content_type, []) %}in-watchlist{% endif %}">
+                                    
+                                    {% if item.id in user_watchlist.get(item.content_type, []) %}
+                                        <div class="watchlist-tag"><i class="fas fa-check"></i> İzleme Listemde</div>
+                                    {% endif %}
+
+                                    <div class="card-image-wrapper">
+                                        <img src="https://image.tmdb.org/t/p/w500{{ item.poster_path if item.poster_path else url_for('static', filename='img/no-poster.jpg') }}" alt="{{ item.title or item.name }}">
+                                        <div class="card-overlay">
+                                            <h3 class="card-overlay-title">{{ item.title or item.name }}</h3>
+                                            <div class="card-overlay-info">
+                                                <span>{{ (item.release_date or item.first_air_date).split('-')[0] if (item.release_date or item.first_air_date) else 'N/A' }}</span>
+                                                <span><i class="fas fa-star"></i> {{ "%.1f"|format(item.vote_average|float) if item.vote_average else 'N/A' }}</span>
+                                            </div>
+                                            <div class="card-overlay-actions">
+                                                <a href="{{ url_for('detail', media_type=(item.content_type or 'movie'), item_id=item.id) }}" class="btn"><i class="fas fa-info-circle"></i> Detaylar</a>
+                                                
+                                                <button class="btn btn-watchlist add-to-watchlist-card {% if item.id in user_watchlist.get(item.content_type, []) %}hidden{% endif %}" 
+                                                        data-media-type="{{ item.content_type or 'movie' }}" 
+                                                        data-item-id="{{ item.id }}">
+                                                    <i class="fas fa-plus-circle"></i> İzle
+                                                </button>
+                                                <button class="btn btn-watchlist remove-from-watchlist-card {% if item.id not in user_watchlist.get(item.content_type, []) %}hidden{% endif %}" 
+                                                        data-media-type="{{ item.content_type or 'movie' }}" 
+                                                        data-item-id="{{ item.id }}">
+                                                    <i class="fas fa-minus-circle"></i> Çıkar
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="card-content">
+                                        <h4 class="card-title">{{ item.title or item.name }}</h4>
+                                        <div class="card-info">
+                                            <span>{{ (item.release_date or item.first_air_date).split('-')[0] if (item.release_date or item.first_air_date) else 'N/A' }}</span>
+                                            <span><i class="fas fa-star"></i> {{ "%.1f"|format(item.vote_average|float) if item.vote_average else 'N/A' }}</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Sadece Film Önerileri -->
+                <div class="recommendations-content" id="movie-recommendations">
+                    <div class="card-grid">
+                        {% for rec_item in ml_recommendations %}
+                            {% set item = rec_item.info %}
+                            {% if item.content_type == 'movie' %}
+                            <div class="card {% if item.id in user_watchlist.get('movie', []) %}in-watchlist{% endif %}">
+                                
+                                {% if item.id in user_watchlist.get('movie', []) %}
+                                    <div class="watchlist-tag"><i class="fas fa-check"></i> İzleme Listemde</div>
+                                {% endif %}
+
+                                <div class="card-image-wrapper">
+                                    <img src="https://image.tmdb.org/t/p/w500{{ item.poster_path if item.poster_path else url_for('static', filename='img/no-poster.jpg') }}" alt="{{ item.title or item.name }}">
+                                    <div class="card-overlay">
+                                        <h3 class="card-overlay-title">{{ item.title or item.name }}</h3>
+                                        <div class="card-overlay-info">
+                                            <span>{{ (item.release_date or item.first_air_date).split('-')[0] if (item.release_date or item.first_air_date) else 'N/A' }}</span>
+                                            <span><i class="fas fa-star"></i> {{ "%.1f"|format(item.vote_average|float) if item.vote_average else 'N/A' }}</span>
+                                        </div>
+                                        <div class="card-overlay-actions">
+                                            <a href="{{ url_for('detail', media_type='movie', item_id=item.id) }}" class="btn"><i class="fas fa-info-circle"></i> Detaylar</a>
+                                            
+                                            <button class="btn btn-watchlist add-to-watchlist-card {% if item.id in user_watchlist.get('movie', []) %}hidden{% endif %}" 
+                                                    data-media-type="movie" 
+                                                    data-item-id="{{ item.id }}">
+                                                <i class="fas fa-plus-circle"></i> İzle
+                                            </button>
+                                            <button class="btn btn-watchlist remove-from-watchlist-card {% if item.id not in user_watchlist.get('movie', []) %}hidden{% endif %}" 
+                                                    data-media-type="movie" 
+                                                    data-item-id="{{ item.id }}">
+                                                <i class="fas fa-minus-circle"></i> Çıkar
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="card-content">
+                                    <h4 class="card-title">{{ item.title or item.name }}</h4>
+                                    <div class="card-info">
+                                        <span>{{ (item.release_date or item.first_air_date).split('-')[0] if (item.release_date or item.first_air_date) else 'N/A' }}</span>
+                                        <span><i class="fas fa-star"></i> {{ "%.1f"|format(item.vote_average|float) if item.vote_average else 'N/A' }}</span>
+                                    </div>
+                                </div>
+                            </div>
+                            {% endif %}
+                        {% endfor %}
+                    </div>
+                </div>
+                
+                <!-- Sadece Dizi Önerileri -->
+                <div class="recommendations-content" id="tv-recommendations">
+                    <div class="card-grid">
+                        {% for rec_item in ml_recommendations %}
+                            {% set item = rec_item.info %}
+                            {% if item.content_type == 'tv' %}
+                            <div class="card {% if item.id in user_watchlist.get('tv', []) %}in-watchlist{% endif %}">
+                                
+                                {% if item.id in user_watchlist.get('tv', []) %}
+                                    <div class="watchlist-tag"><i class="fas fa-check"></i> İzleme Listemde</div>
+                                {% endif %}
+
+                                <div class="card-image-wrapper">
+                                    <img src="https://image.tmdb.org/t/p/w500{{ item.poster_path if item.poster_path else url_for('static', filename='img/no-poster.jpg') }}" alt="{{ item.title or item.name }}">
+                                    <div class="card-overlay">
+                                        <h3 class="card-overlay-title">{{ item.title or item.name }}</h3>
+                                        <div class="card-overlay-info">
+                                            <span>{{ (item.release_date or item.first_air_date).split('-')[0] if (item.release_date or item.first_air_date) else 'N/A' }}</span>
+                                            <span><i class="fas fa-star"></i> {{ "%.1f"|format(item.vote_average|float) if item.vote_average else 'N/A' }}</span>
+                                        </div>
+                                        <div class="card-overlay-actions">
+                                            <a href="{{ url_for('detail', media_type='tv', item_id=item.id) }}" class="btn"><i class="fas fa-info-circle"></i> Detaylar</a>
+                                            
+                                            <button class="btn btn-watchlist add-to-watchlist-card {% if item.id in user_watchlist.get('tv', []) %}hidden{% endif %}" 
+                                                    data-media-type="tv" 
+                                                    data-item-id="{{ item.id }}">
+                                                <i class="fas fa-plus-circle"></i> İzle
+                                            </button>
+                                            <button class="btn btn-watchlist remove-from-watchlist-card {% if item.id not in user_watchlist.get('tv', []) %}hidden{% endif %}" 
+                                                    data-media-type="tv" 
+                                                    data-item-id="{{ item.id }}">
+                                                <i class="fas fa-minus-circle"></i> Çıkar
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="card-content">
+                                    <h4 class="card-title">{{ item.title or item.name }}</h4>
+                                    <div class="card-info">
+                                        <span>{{ (item.release_date or item.first_air_date).split('-')[0] if (item.release_date or item.first_air_date) else 'N/A' }}</span>
+                                        <span><i class="fas fa-star"></i> {{ "%.1f"|format(item.vote_average|float) if item.vote_average else 'N/A' }}</span>
+                                    </div>
+                                </div>
+                            </div>
+                            {% endif %}
+                        {% endfor %}
+                    </div>
+                </div>
+            {% else %}
+                <div class="text-center mb-20">
+                    <p>Şu anda sizin için yeterli öneri bulunmuyor. İzleme listenize daha fazla içerik ekleyin.</p>
+                    <a href="/search" class="btn btn-success mt-20">İçerik Ara</a>
+                </div>
+            {% endif %}
+        </div>
+    </section>
+
+    <!-- TMDB Recommendations Section -->
+    <section class="section" style="background-color: #f8f9fa;">
+        <div class="container">
+            <h2 class="section-title">Popüler Önerilenler</h2>
+            <p class="text-center mb-20">İzlediğiniz içeriklere benzer diğer kullanıcıların beğendiği içerikler.</p>
+            
+            {% if tmdb_recommendations %}
+                <!-- Tab sistemi - Başlığın altına, içerik sarmalayıcısının dışına alındı -->
+                <div class="recommendations-tabs tmdb-tabs">
+                    <div class="recommendations-tab active" data-target="all-tmdb">Tümü</div>
+                    <div class="recommendations-tab" data-target="movie-tmdb">Filmler</div>
+                    <div class="recommendations-tab" data-target="tv-tmdb">Diziler</div>
+                </div>
+                
+                <div class="recommendations-content-wrapper">
+                    <!-- Tüm TMDB Önerileri -->
+                    <div class="recommendations-content active" id="all-tmdb">
+                        <div class="card-grid">
+                            {% for item in tmdb_recommendations %}
+                            <div class="card">
+                                <div class="card-image">
+                                    {% if item.poster_path %}
+                                    <img src="https://image.tmdb.org/t/p/w500{{ item.poster_path }}" alt="{{ item.title if item.title else item.name }}">
+                                    {% else %}
+                                    <img src="{{ url_for('static', filename='img/no-poster.jpg') }}" alt="Afiş yok">
+                                    {% endif %}
+                                    
+                                    <!-- İzleme Listesine Ekleme Butonu -->
+                                    {% set media_type = 'movie' if item.title else 'tv' %}
+                                    <button class="add-to-watchlist-btn" onclick="addToWatchlist('{{ media_type }}', {{ item.id }}, this)">
+                                        <i class="fas fa-plus"></i>
+                                    </button>
+                                </div>
+                                <div class="card-content">
+                                    <h3 class="card-title">{{ item.title if item.title else item.name }}</h3>
+                                    <div class="card-info">
+                                        <span>{{ (item.release_date.split('-')[0] if item.release_date else item.first_air_date.split('-')[0] if item.first_air_date else 'N/A') }}</span>
+                                        <span>{{ item.vote_average|round(1) }} ⭐</span>
+                                    </div>
+                                    <p class="card-description">{{ item.overview|string|truncate(100) }}</p>
+                                    <a href="/detail/{{ 'movie' if item.title else 'tv' }}/{{ item.id }}" class="card-link">Detaylar</a>
+                                </div>
+                            </div>
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Sadece TMDB Film Önerileri -->
+                <div class="recommendations-content" id="movie-tmdb">
+                    <div class="card-grid">
+                        {% for item in tmdb_recommendations %}
+                            {% if item.title %}
+                            <div class="card">
+                                <div class="card-image">
+                                    {% if item.poster_path %}
+                                    <img src="https://image.tmdb.org/t/p/w500{{ item.poster_path }}" alt="{{ item.title }}">
+                                    {% else %}
+                                    <img src="{{ url_for('static', filename='img/no-poster.jpg') }}" alt="Afiş yok">
+                                    {% endif %}
+                                    
+                                    <!-- İzleme Listesine Ekleme Butonu -->
+                                    <button class="add-to-watchlist-btn" onclick="addToWatchlist('movie', {{ item.id }}, this)">
+                                        <i class="fas fa-plus"></i>
+                                    </button>
+                                </div>
+                                <div class="card-content">
+                                    <h3 class="card-title">{{ item.title }}</h3>
+                                    <div class="card-info">
+                                        <span>{{ item.release_date.split('-')[0] if item.release_date else 'N/A' }}</span>
+                                        <span>{{ item.vote_average|round(1) }} ⭐</span>
+                                    </div>
+                                    <p class="card-description">{{ item.overview|string|truncate(100) }}</p>
+                                    <a href="/detail/movie/{{ item.id }}" class="card-link">Detaylar</a>
+                                </div>
+                            </div>
+                            {% endif %}
+                        {% endfor %}
+                    </div>
+                </div>
+                
+                <!-- Sadece TMDB Dizi Önerileri -->
+                <div class="recommendations-content" id="tv-tmdb">
+                    <div class="card-grid">
+                        {% for item in tmdb_recommendations %}
+                            {% if not item.title and item.name %}
+                            <div class="card">
+                                <div class="card-image">
+                                    {% if item.poster_path %}
+                                    <img src="https://image.tmdb.org/t/p/w500{{ item.poster_path }}" alt="{{ item.name }}">
+                                    {% else %}
+                                    <img src="{{ url_for('static', filename='img/no-poster.jpg') }}" alt="Afiş yok">
+                                    {% endif %}
+                                    
+                                    <!-- İzleme Listesine Ekleme Butonu -->
+                                    <button class="add-to-watchlist-btn" onclick="addToWatchlist('tv', {{ item.id }}, this)">
+                                        <i class="fas fa-plus"></i>
+                                    </button>
+                                </div>
+                                <div class="card-content">
+                                    <h3 class="card-title">{{ item.name }}</h3>
+                                    <div class="card-info">
+                                        <span>{{ item.first_air_date.split('-')[0] if item.first_air_date else 'N/A' }}</span>
+                                        <span>{{ item.vote_average|round(1) }} ⭐</span>
+                                    </div>
+                                    <p class="card-description">{{ item.overview|string|truncate(100) }}</p>
+                                    <a href="/detail/tv/{{ item.id }}" class="card-link">Detaylar</a>
+                                </div>
+                            </div>
+                            {% endif %}
+                        {% endfor %}
+                    </div>
+                </div>
+            {% else %}
+                <div class="text-center mb-20">
+                    <p>Şu anda popüler öneri bulunmuyor. İzleme listenize daha fazla içerik ekleyin.</p>
+                    <a href="/search" class="btn btn-success mt-20">İçerik Ara</a>
+                </div>
+            {% endif %}
+        </div>
+    </section>
+
+    <!-- Watchlist Section -->
+    <section class="section">
+        <div class="container">
+            <h2 class="section-title">İzleme Listeniz</h2>
+            <p class="text-center mb-20">İzlemek istediğiniz içerikleri izleme listenize ekleyin.</p>
+            
+            <div class="text-center">
+                <a href="/watchlist" class="btn">İzleme Listeme Git</a>
+            </div>
+        </div>
+    </section>
+
+    </main> <!-- #main-content-wrapper sonu -->
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p class="footer-text">© 2024 MovieApp - Film ve Dizi Önerileri</p>
+            
+            <div class="social-links">
+                <a href="#" class="social-link"><i class="fab fa-facebook"></i></a>
+                <a href="#" class="social-link"><i class="fab fa-twitter"></i></a>
+                <a href="#" class="social-link"><i class="fab fa-instagram"></i></a>
+                <a href="#" class="social-link"><i class="fab fa-youtube"></i></a>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Tab sistemi için event listeners
+            setupTabs('.recommendations-tab', '.recommendations-content');
+            
+            // Listemde olan içerikleri kontrol et ve butonları güncelle
+            checkWatchlist();
+            
+            // Hard Reset butonu
+            document.getElementById('clearAllDataBtn').addEventListener('click', function() {
+                if (confirm('Bu işlem tüm verileri, modelleri ve izleme listenizi silecek. Devam etmek istiyor musunuz?')) {
+                    showNotification('Veriler temizleniyor...', 'success');
+                    
+                    fetch('/api/hard_reset', {
+                        method: 'POST'
+                    })
+                    .then(response => response.json())
+                    .then(data => {
+                        if (data.success) {
+                            showNotification('Tüm veriler ve modeller başarıyla temizlendi!', 'success');
+                            setTimeout(() => {
+                                window.location.href = '/';
+                            }, 1500);
+                        } else {
+                            showNotification('Hata: ' + data.message, 'error');
+                        }
+                    })
+                    .catch(error => {
+                        console.error('Hata:', error);
+                        showNotification('Beklenmeyen bir hata oluştu, lütfen tekrar deneyin.', 'error');
+                    });
+                }
+            });
+        });
+        
+        function setupTabs(tabSelector, contentSelector) {
+            const tabs = document.querySelectorAll(tabSelector);
+            
+            tabs.forEach(tab => {
+                tab.addEventListener('click', function() {
+                    // Aktif tab'ı kaldır
+                    document.querySelectorAll(tabSelector).forEach(t => {
+                        t.classList.remove('active');
+                    });
+                    
+                    // Aktif içeriği gizle
+                    document.querySelectorAll(contentSelector).forEach(content => {
+                        content.classList.remove('active');
+                    });
+                    
+                    // Tıklanan tabı aktifleştir
+                    this.classList.add('active');
+                    
+                    // İlgili içeriği göster
+                    const target = this.getAttribute('data-target');
+                    document.getElementById(target).classList.add('active');
+                });
+            });
+        }
+        
+        // İzleme listesine ekle
+        function addToWatchlist(mediaType, itemId, button) {
+            // Eğer zaten listede ise işlemi yapma
+            if (button.classList.contains('in-watchlist-btn')) {
+                showNotification(`Bu ${mediaType === 'movie' ? 'film' : 'dizi'} zaten izleme listenizde!`);
+                return;
+            }
+            
+            fetch('/api/watchlist/add', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    media_type: mediaType,
+                    item_id: itemId
+                })
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    // Buton animasyonu
+                    button.innerHTML = '<i class="fas fa-check"></i>';
+                    button.classList.add('in-watchlist-btn');
+                    
+                    // Bildirim göster
+                    showNotification(mediaType === 'movie' ? 'Film izleme listenize eklendi!' : 'Dizi izleme listenize eklendi!');
+                    
+                    // Önerileri sayfayı yenileyerek güncelle (kısa bir gecikmeyle)
+                    setTimeout(() => {
+                        // Mevcut stratejiyi koru
+                        const strategy = new URLSearchParams(window.location.search).get('strategy') || 'hybrid';
+                        window.location.href = `/recommendations?strategy=${strategy}`;
+                    }, 1500);
+                }
+            })
+            .catch(error => {
+                console.error('Hata:', error);
+                showNotification('Bir hata oluştu, lütfen tekrar deneyin.', 'error');
+            });
+        }
+        
+        // İzleme listesini kontrol et
+        function checkWatchlist() {
+            fetch('/api/watchlist/get', {
+                method: 'GET'
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    const movieIds = data.watchlist.movie || [];
+                    const tvIds = data.watchlist.tv || [];
+                    
+                    // ML önerileri butonlarını kontrol et
+                    document.querySelectorAll('.add-to-watchlist-btn').forEach(button => {
+                        const mediaType = button.getAttribute('onclick').includes('movie') ? 'movie' : 'tv';
+                        const itemId = parseInt(button.getAttribute('onclick').match(/\d+/)[0]);
+                        
+                        if ((mediaType === 'movie' && movieIds.includes(itemId)) || 
+                            (mediaType === 'tv' && tvIds.includes(itemId))) {
+                            button.innerHTML = '<i class="fas fa-check"></i>';
+                            button.classList.add('in-watchlist-btn');
+                        }
+                    });
+                }
+            })
+            .catch(error => {
+                console.error('İzleme listesi kontrol hatası:', error);
+            });
+        }
+        
+        // Bildirim gösterme
+        function showNotification(message, type = 'success') {
+            // Mevcut bildirimleri kaldır
+            const existingNotifications = document.querySelectorAll('.notification');
+            existingNotifications.forEach(notification => {
+                notification.remove();
+            });
+            
+            // Yeni bildirim oluştur
+            const notification = document.createElement('div');
+            notification.className = `notification notification-${type}`;
+            notification.textContent = message;
+            
+            // Bildirim konteyneri oluştur (yoksa)
+            let notificationContainer = document.querySelector('.notification-container');
+            if (!notificationContainer) {
+                notificationContainer = document.createElement('div');
+                notificationContainer.className = 'notification-container';
+                document.body.appendChild(notificationContainer);
+            }
+            
+            // Bildirimi ekle
+            notificationContainer.appendChild(notification);
+            
+            // Bildirimi otomatik kapat
+            setTimeout(() => {
+                notification.classList.add('notification-hide');
+                setTimeout(() => {
+                    notification.remove();
+                }, 300);
+            }, 3000);
+        }
+    </script>
+</body>
+</html> 

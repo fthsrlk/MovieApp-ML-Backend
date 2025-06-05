@@ -1,0 +1,916 @@
+{
+  "adult": false,
+  "backdrop_path": "/qFfWFwfaEHzDLWLuttWiYq7Poy2.jpg",
+  "created_by": [
+    {
+      "id": 45001,
+      "credit_id": "52572e13760ee3776a30e1d4",
+      "name": "Steve Allen",
+      "original_name": "Steve Allen",
+      "gender": 2,
+      "profile_path": "/smfesYmaX6pfZefpYU6L69ePwiG.jpg"
+    },
+    {
+      "id": 1226937,
+      "credit_id": "52572e13760ee3776a30e1ce",
+      "name": "Sylvester Weaver",
+      "original_name": "Sylvester Weaver",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1962-10-01",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "",
+  "id": 2261,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1992-05-22",
+  "last_episode_to_air": {
+    "id": 3514898,
+    "name": "74. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "1992-05-22",
+    "episode_number": 74,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 31,
+    "show_id": 2261,
+    "still_path": null
+  },
+  "name": "The Tonight Show Starring Johnny Carson",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 3558,
+  "number_of_seasons": 31,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Tonight Show Starring Johnny Carson",
+  "overview": "",
+  "popularity": 3828.286,
+  "poster_path": "/oA8QVTGlAN511uCAMDN60aVQUs1.jpg",
+  "production_companies": [
+    {
+      "id": 5253,
+      "logo_path": "/cxgRBXMNcbcE0dIaeCc4tbDa4KI.png",
+      "name": "NBC Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 15492,
+      "logo_path": null,
+      "name": "Carson Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1987-01-10",
+      "episode_count": 3,
+      "id": 7056,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1962-10-01",
+      "episode_count": 64,
+      "id": 7034,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1963-01-01",
+      "episode_count": 258,
+      "id": 7027,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1964-01-01",
+      "episode_count": 257,
+      "id": 7031,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1965-01-01",
+      "episode_count": 258,
+      "id": 7032,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1966-01-02",
+      "episode_count": 256,
+      "id": 7026,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1967-01-01",
+      "episode_count": 252,
+      "id": 7028,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1968-01-01",
+      "episode_count": 258,
+      "id": 7029,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1969-01-01",
+      "episode_count": 73,
+      "id": 7030,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1970-01-01",
+      "episode_count": 63,
+      "id": 7033,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1971-01-01",
+      "episode_count": 79,
+      "id": 7038,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1972-01-03",
+      "episode_count": 87,
+      "id": 7040,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1973-01-01",
+      "episode_count": 94,
+      "id": 7036,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1974-01-01",
+      "episode_count": 84,
+      "id": 7039,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1975-01-01",
+      "episode_count": 166,
+      "id": 7035,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1976-01-01",
+      "episode_count": 260,
+      "id": 7037,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1977-01-03",
+      "episode_count": 97,
+      "id": 7045,
+      "name": "Sezon 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1978-01-01",
+      "episode_count": 78,
+      "id": 316601,
+      "name": "Sezon 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1979-01-01",
+      "episode_count": 56,
+      "id": 316602,
+      "name": "Sezon 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1980-01-02",
+      "episode_count": 197,
+      "id": 316603,
+      "name": "Sezon 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1981-01-01",
+      "episode_count": 178,
+      "id": 316604,
+      "name": "Sezon 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1982-01-01",
+      "episode_count": 24,
+      "id": 316605,
+      "name": "Sezon 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1983-01-04",
+      "episode_count": 17,
+      "id": 316606,
+      "name": "Sezon 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1984-01-02",
+      "episode_count": 26,
+      "id": 7046,
+      "name": "Sezon 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1985-01-01",
+      "episode_count": 54,
+      "id": 7048,
+      "name": "Sezon 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1986-01-02",
+      "episode_count": 18,
+      "id": 7049,
+      "name": "Sezon 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1987-01-05",
+      "episode_count": 46,
+      "id": 7052,
+      "name": "Sezon 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1988-01-03",
+      "episode_count": 132,
+      "id": 316598,
+      "name": "Sezon 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1989-01-03",
+      "episode_count": 16,
+      "id": 316595,
+      "name": "Sezon 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1990-01-01",
+      "episode_count": 25,
+      "id": 316596,
+      "name": "Sezon 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1991-01-01",
+      "episode_count": 28,
+      "id": 316597,
+      "name": "Sezon 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1992-01-01",
+      "episode_count": 74,
+      "id": 244620,
+      "name": "Sezon 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 7.41,
+  "vote_count": 72,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141028,
+        "known_for_department": "Acting",
+        "name": "Johnny Carson",
+        "original_name": "Johnny Carson",
+        "popularity": 8.947,
+        "profile_path": "/sSltRe7S82Zw29lMRGLeEoL2PUu.jpg",
+        "character": "Self - Host",
+        "credit_id": "52572e12760ee3776a30e10a",
+        "order": 0
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "talk show",
+        "id": 3741
+      },
+      {
+        "name": "late-night show",
+        "id": 242216
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/yTJFf7N9ohXjssZQyZ1cSMNopix.jpg",
+        "id": 39775,
+        "name": "Fantasy Island",
+        "original_name": "Fantasy Island",
+        "overview": "A magical island hosted by Mr Roarke and Tattoo where weekly guests learn valuable life lessons in their pursuit of fulfilling their dreams. Not all dreams are fulfilled as expected.",
+        "poster_path": "/ppxhytiPrgojE4eb6Tw0EonDzeP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          35
+        ],
+        "popularity": 51.557,
+        "first_air_date": "1978-01-28",
+        "vote_average": 6.32,
+        "vote_count": 103,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 32051,
+        "name": "Cowboys and Outlaws",
+        "original_name": "Cowboys and Outlaws",
+        "overview": "Cowboys and Outlaws is a documentary series on The History Channel that details key figures and events in the history of the American West in the latter half of the 19th century. It uses dramatic reenactments, historian interviews and forensic evidence to highlight famous figures such as Billy the Kid, Wyatt Earp and Tom Horn. It also covers historical events such as the first drive along the Goodnight-Loving Trail and the transformation of Abilene, Kansas from a small settlement into a major cattle town.\n\nAs of February, 2010, only six episodes have aired. A DVD collection was released on January 26, 2010.",
+        "poster_path": "/sktFBT7sk5hWSMlGZj81DV0V2DG.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 1.018,
+        "first_air_date": "2009-11-22",
+        "vote_average": 10.0,
+        "vote_count": 2,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/rCaeldcqxWU4BRaZHyrr9gU2qig.jpg",
+        "id": 12875,
+        "name": "The Dean Martin Show",
+        "original_name": "The Dean Martin Show",
+        "overview": "The Dean Martin Show, also known as The Dean Martin Variety Show, is a TV variety-comedy series that ran from 1965 to 1974 for 264 episodes. It was broadcast by NBC and hosted by entertainer Dean Martin. The theme song to the series was his 1964 hit \"Everybody Loves Somebody.\"",
+        "poster_path": "/gOxZ92eL4Eyn61297yw8cLSMnWH.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 37.199,
+        "first_air_date": "1965-09-16",
+        "vote_average": 7.3,
+        "vote_count": 18,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg",
+        "id": 13945,
+        "name": "Gute Zeiten, schlechte Zeiten",
+        "original_name": "Gute Zeiten, schlechte Zeiten",
+        "overview": "Gute Zeiten, schlechte Zeiten is a long-running German television soap opera, first broadcast on RTL in 1992. The programme concerns the lives of a fictional neighborhood in Germany's capital city Berlin. Over the years the soap opera tends to have an overhaul of young people in their late teens and early twenties; targeting a young viewership.",
+        "poster_path": "/qujVFLAlBnPU9mZElV4NZgL8iXT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 1406.924,
+        "first_air_date": "1992-05-11",
+        "vote_average": 5.7,
+        "vote_count": 35,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "backdrop_path": "/butPVWgcbtAjL9Z7jU7Xj1KA8KD.jpg",
+        "id": 22980,
+        "name": "Watch What Happens Live with Andy Cohen",
+        "original_name": "Watch What Happens Live with Andy Cohen",
+        "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+        "poster_path": "/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767,
+          35
+        ],
+        "popularity": 3751.723,
+        "first_air_date": "2009-07-16",
+        "vote_average": 4.8,
+        "vote_count": 60,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/Ajku4m7jbMpCTEPr794Imv19mCA.jpg",
+        "id": 4385,
+        "name": "The Colbert Report",
+        "original_name": "The Colbert Report",
+        "overview": "Colbert Raporu, Pazartesi ile Perşembe günleri Komedi Merkezi'nde yayınlanan Amerikan hicivli bir gece televizyon programı. Jon Stewart ile The Daily Show'un eski muhabiri olan politik mizahcı Stephen Colbert'i canlandırıyor. Colbert Raporu, politikaya ve medyaya benzer şekilde yorum yapan The Daily Show'dan bir ve ikiye bölündü. Özellikle Fox News'in The O'Reilly Factor adlı muhafazakar kişiliğe dayalı politik pundit programlarını hicvediyor. Gösteri, gerçek hayat isimleriyle oynanan Stephen Colbert adlı kurgusal bir çapa karakterine odaklanıyor. Colbert tarafından “iyi niyetli, iyi bilgilendirilmiş, yüksek mevkili bir aptal” olarak tanımlanan karakter, televizyonda siyaset uzmanlarının karikatürüdür.\n\nColbert Raporu her biri 2006, 2007, 2008, 2009, 2010, 2011 ve 2012'de yedi Primetime Emmy Ödülü, iki Televizyon Eleştirmenleri Derneği Ödülü ve iki Uydu Ödülüne aday gösterildi. 2013 yılında iki Emmys kazandı. Tom DeLay Legal Defence Trust ve Robert Wexler'ın programa verdiği röportajı takiben birçok örnekte hicivsiz bir gazetecilik olarak sunuldu. Söz konusu rapor, 17 Ekim 2005'te Colbert'in “hakikat” terimini, söz konusu yayınevini Merriam-Webster'ın 2006 Yılı Kelimesi olarak adlandırdığı ilk filmi izleyerek, medyada önemli ölçüde yer aldı.",
+        "poster_path": "/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10763,
+          35
+        ],
+        "popularity": 2794.133,
+        "first_air_date": "2005-10-17",
+        "vote_average": 6.801,
+        "vote_count": 266,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5AZcrUUht7RQXzomXBUovdPOqoG.jpg",
+        "id": 1678,
+        "name": "The Golden Girls",
+        "original_name": "The Golden Girls",
+        "overview": "Four Southern Florida seniors share a house, their dreams, and a whole lot of cheesecake. Bright, promiscuous, clueless and hilarious, these lovely, mismatched ladies form the perfect circle of friends.",
+        "poster_path": "/lJKAjneNGquVBmUqHY6ZFOFImfD.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 122.949,
+        "first_air_date": "1985-09-14",
+        "vote_average": 7.538,
+        "vote_count": 345,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9giQxevgoCWfSfXALGmuaXmqEq0.jpg",
+        "id": 2224,
+        "name": "The Daily Show",
+        "original_name": "The Daily Show",
+        "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+        "poster_path": "/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10763,
+          35
+        ],
+        "popularity": 3342.248,
+        "first_air_date": "1996-07-22",
+        "vote_average": 6.4,
+        "vote_count": 553,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/suL7cJdywRnTmsT1RNjE78iJTsG.jpg",
+        "id": 32895,
+        "name": "Rizzoli & Isles",
+        "original_name": "Rizzoli & Isles",
+        "overview": "Belki de çarpıcı biçimde farklı kişilikleri, dedektif Jane Rizzoli ile tıp doktoru Maura Isles arasındaki ilişkiyi çok etkili kılıyor. Boston'un cinayet bölümündeki tek kadın polis olan Jane sert, acımasız ve korumasını nadiren düşürürken, kusursuz giyimli Maura bazen buzlu bir mizaç sergiliyor - sonuçta ölüler arasında yaşayanlardan daha rahat. En iyi arkadaşlar birlikte ilginç ve destekleyici bir ilişki kurdular; Koruyucu kalkanı birbirlerinin şirketine bırakırlar ve Boston'un en karmaşık vakalarını çözmek için uzmanlıklarını birleştirirler.",
+        "poster_path": "/qQgTIsI6iWv4jO3kM6tHWVsKIIM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 176.676,
+        "first_air_date": "2010-07-12",
+        "vote_average": 7.9,
+        "vote_count": 428,
+        "origin_country": [
+          "US",
+          "FR"
+        ]
+      },
+      {
+        "backdrop_path": "/jV4FYuqYgdMfM8n9xqYmpBl1eZu.jpg",
+        "id": 1215,
+        "name": "Californication",
+        "original_name": "Californication",
+        "overview": "Filmin baş karakteri Hank Moody yetenekli bir yazardır. Lakin uzun zamandır bir şey üretemiyordur. Aynı zamanda kızı Becca Moody için iyi bir baba olmaya çalışmasına ve kızının annesi Karen ile tekrar birlikte yaşamak istemesine rağmen karmaşık özel hayatından dolayı bunu bir türlü istikrarlı bir şekilde gerçekleştiremez. Hank hayatında karışıklığa Kaliforniya'da yaşamanın neden olduğunu bazen belirtir. Kızı ve kızının annesi Karen ile eskiden mutlu yaşadıkları eyalete geri dönmek istemektedir. Dizi büyük ölçüde Hank Moody karakteri üzerinde döner. Dizi bölümleri aynı zamanda yan karakterler olan Hank'in menejeri Charlie Runkle ve onun karısı Marcy Runkle'ın hikayeleri üzerine döner. Bu 5 karakterin dışındaki karakterler ise sezonluk veya bölümlük olarak diziye katılır. Charlie ve Marcy Runkle'ın evliliği ve ilişkileri sorunludur. Charlie ve Hank sevdikleriyle ilişkilerini düzeltmek istemelerine rağmen özel hayatlarında yaptıkları hatalar sevdikleri ile büyük sorunlar oluşturmaktadır. Hank karşı cins için mıknatıs gibi bir kişidir. Charlie ise bir süre sonra kadınlar konusunda Hank gibi birisi olmak istediğine karar verir.",
+        "poster_path": "/jPqOY8cq9KXQN4bD7zJGHCNvcb4.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 152.265,
+        "first_air_date": "2007-08-13",
+        "vote_average": 7.6,
+        "vote_count": 1144,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cjvyqIvCKQtUzd3J5TbVnCFbSNZ.jpg",
+        "id": 240,
+        "name": "Jackie Chan Adventures",
+        "original_name": "Jackie Chan Adventures",
+        "overview": "Jackie Chan teams up in this animé-style adventure with his 11-year-old niece, Jade, traveling the globe to locate a dozen magical talismans before the sinister Dark Hand does. Helping Jackie and Jade is Uncle, a cantankerous but wise antiquities expert. Though officially Jackie works as an archaeologist, in reality he also assists Captain Black, leader of the covert police squad Section 13.",
+        "poster_path": "/by2GTFpd2BQ5uJxWPlfcmfrNrfB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          35,
+          10765
+        ],
+        "popularity": 186.162,
+        "first_air_date": "2000-09-09",
+        "vote_average": 8.2,
+        "vote_count": 814,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/72PULslmSz2BQUEsrwOGHrryTa2.jpg",
+        "id": 2384,
+        "name": "Kara Şimşek",
+        "original_name": "Knight Rider",
+        "overview": "Teknoloji ve insanın mücadelesini anlatan bu aksiyon-dram yapımda Michael, kendi geliştirdiği süper akıllı otomobil KITT ile birlikte suçla mücadele eden bir kahramandır. Hikâye, Michael'ın eski bir polis memuru olarak intikam almak için yola çıkmasıyla başlar. Bir grup suçlu, onun en yakın dostunu öldürmüştür ve bu olay, Michael'ı adalet arayışına iter. KITT, sadece bir otomobil değil, aynı zamanda gelişmiş bir yapay zekâ sistemine sahiptir. Bu özellikleri sayesinde Michael'a hem savaşta hem de strateji geliştirmede yardımcı olur. Film boyunca, Michael ve KITT, çeşitli tehlikeli durumlarla karşılaşır ve suçlularla yüzleşirler. Her bölümde, izleyiciler Michael'ın cesaretini, zekasını ve KITT'in olağanüstü yeteneklerini görme fırsatı bulurlar. Ayrıca, filmde Michael'ın kişisel yaşamı ve geçmişiyle ilgili derinlikli anlar da işlenmektedir.\n\n1980'lerin pop kültürüne damgasını vuran bu film, zamanla bir klasik haline gelmiştir ve izleyicilere unutulmaz bir deneyim sunmaktadır.",
+        "poster_path": "/t57NXzTrwp5rnPXiaX4BThrDxt1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10765,
+          80
+        ],
+        "popularity": 168.577,
+        "first_air_date": "1982-09-26",
+        "vote_average": 7.541,
+        "vote_count": 1292,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2y2TbzeKZHYqTN5gb4nBv9dKk1f.jpg",
+        "id": 73375,
+        "name": "Tom Clancy'den Jack Ryan",
+        "original_name": "Tom Clancy's Jack Ryan",
+        "overview": "CIA analisti Jack Ryan ve yeni patronu James Greer, takip ettikleri bir dizi şüpheli parasal hareket sonucunda kendilerini, ABD ve müttefiklerine karşı dev bir saldırı planlayan bir terörist liderine karşı, Avrupa ve Orta Doğu'daki ölümcül bir kedi fare oyunun ortasında bulur.",
+        "poster_path": "/yg6feFyhaKrWzEV0cnldQukxrVa.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10768
+        ],
+        "popularity": 163.079,
+        "first_air_date": "2018-08-30",
+        "vote_average": 7.689,
+        "vote_count": 1561,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5vUux2vNUTqwCzb7tVcH18XnsF.jpg",
+        "id": 113988,
+        "name": "DAHMER - Canavar: Jeffrey Dahmer’ın Hikâyesi",
+        "original_name": "DAHMER - Monster: The Jeffrey Dahmer Story",
+        "overview": "Dizi, Amerika'nın en kötü şöhretli seri katillerinden biri olan Jeffrey Dahmer'ın hikayesini konu ediyor. Jeffrey Dahmer'ın zor çocukluğundan, dehşet verici suçlarına ve 1992'deki mahkumiyetine odaklanılan yapımda, Dahmer’ın yıllar boyunca cinayet işlemesini mümkün kılan sistem sorunlarında da değiniliyor.",
+        "poster_path": "/6vf8ZN91tuTGQpJBzz1Rrz7tSHn.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 70.103,
+        "first_air_date": "2022-09-21",
+        "vote_average": 8.0,
+        "vote_count": 2629,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/or0E36KfzJYZwqXeiCfm1JgepKF.jpg",
+        "id": 37680,
+        "name": "Suits",
+        "original_name": "Suits",
+        "overview": "Önemli bir avukatı zehir gibi zekâsıyla etkileyen üniversite terk genç, avukatlık ruhsatı olmadığı halde altın gibi bir iş ortaklığı fırsatını on ikiden vurur.",
+        "poster_path": "/vQiryp6LioFxQThywxbC6TuoDjy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 534.442,
+        "first_air_date": "2011-06-23",
+        "vote_average": 8.2,
+        "vote_count": 5200,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/rBF8wVQN8hTWHspVZBlI3h7HZJ.jpg",
+        "id": 60625,
+        "name": "Rick and Morty",
+        "original_name": "Rick and Morty",
+        "overview": "Parlak zekalı fakat alkolik bilim adamı Rick, başka dünyalara ve alternatif boyutlara çılgın kaçamaklar yaparken huysuz torunu Morty'i de zorla yanında götürür.",
+        "poster_path": "/gdIrmf2DdY5mgN6ycVP0XlzKzbE.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10759
+        ],
+        "popularity": 917.083,
+        "first_air_date": "2013-12-02",
+        "vote_average": 8.7,
+        "vote_count": 10003,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9faGSFi5jam6pDWGNd0p8JcJgXQ.jpg",
+        "id": 1396,
+        "name": "Breaking Bad",
+        "original_name": "Breaking Bad",
+        "overview": "Kanserden öleceğini öğrenen bir kimya öğretmeni, ailesinin geleceğini garanti altına almak için metamfetamin üretip satmak üzere eski bir öğrencisiyle kafa kafaya verir.",
+        "poster_path": "/ineLOBPG8AZsluYwnkMpHRyu7L.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 540.297,
+        "first_air_date": "2008-01-20",
+        "vote_average": 8.9,
+        "vote_count": 15143,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
+        "id": 1408,
+        "name": "House, M.D.",
+        "original_name": "House",
+        "overview": "Gregory House New Jersey Princeton Plainsboro Hastanesinin tıbbi tanı uzamanı doktordur. Kendini aşırı beğenmesi, insanları önemsememesi ve boşvermişlik gibi özelliklerine rağmen müthiş bir doktordur. Uzmanlık alanı bulaşıcı hastalıklardır. Hiç kimsenin tanı koyamadığı hastalara tanı koyarak onların hayatlarını kurtarmaktadır ancak ekibindekilerin psikolojilerini de sürekli olarak bozmaktadır. Hastanenin yöneticisi Lisa Cuddy onu sürekli gözlem altında tutmaya çalışmaktadır ve ondan asla vazgeçmemektedir çünkü en zor durumlarda hastaları kurtaran hep odur ama Dr. House yüzünden hastane sık sık dava edilmektedir.",
+        "poster_path": "/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          35
+        ],
+        "popularity": 568.775,
+        "first_air_date": "2004-11-16",
+        "vote_average": 8.591,
+        "vote_count": 6804,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/q3jHCb4dMfYF6ojikKuHd6LscxC.jpg",
+        "id": 84958,
+        "name": "Loki",
+        "original_name": "Loki",
+        "overview": "Marvel Studios'tan Loki'de, \"Avengers: Endgame\"de yaşananların sonrası ele alınmaktadır ve bu yeni dizide kurnaz süper kötü Loki (Tom Hiddleston) Fesatlık Tanrısı rolüne devam eder. Dizinin yönetmenliğini Kate Herron, baş yazarlığını ise Michael Waldron üstlenmiştir.",
+        "poster_path": "/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 113.217,
+        "first_air_date": "2021-06-09",
+        "vote_average": 8.173,
+        "vote_count": 11755,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ysaA0BInz4071p3LKqAQnWKZCsK.jpg",
+        "id": 2004,
+        "name": "Malcolm in the Middle",
+        "original_name": "Malcolm in the Middle",
+        "overview": "Kaykay yapmak ve en iyi arkadaşı Stevie ile takılmaktan hoşlanan 9 yaşındaki Malcolm, \"yetenekliler\" sınıfına girmeye zorlanınca hayatı alt üst olur ve etrafı toplumdan dışlanan bir grup yetenekliyle çevrelenir.",
+        "poster_path": "/ckLLIsNy3Z0Go1PYHA2PHzVymUA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          35,
+          18
+        ],
+        "popularity": 295.632,
+        "first_air_date": "2000-01-09",
+        "vote_average": 8.479,
+        "vote_count": 4449,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

@@ -1,0 +1,964 @@
+{
+  "adult": false,
+  "backdrop_path": "/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
+  "created_by": [
+    {
+      "id": 1211883,
+      "credit_id": "525783be760ee36aaa612f2a",
+      "name": "Bruno Heller",
+      "original_name": "Bruno Heller",
+      "gender": 2,
+      "profile_path": "/k33JqtocSqI13tf8QKTLbGQKrL4.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2008-09-23",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Suç"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 9648,
+      "name": "Gizem"
+    }
+  ],
+  "homepage": "https://www.warnerbros.com/tv/mentalist",
+  "id": 5920,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2015-02-18",
+  "last_episode_to_air": {
+    "id": 1021664,
+    "name": "White Orchids (MUTLU SON)",
+    "overview": "Patrick, Teresa’ya evlenme teklif eder. Kurtulduğu anlaşılan katile tuzak kurularak düğünde yakalanır. Patrick ve Teresa evlenirler. Teresa hamile olduğunu söyler.  SEVİLİYORSUN PATRİCK...",
+    "vote_average": 8.4,
+    "vote_count": 18,
+    "air_date": "2015-02-18",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "4X5963",
+    "runtime": 42,
+    "season_number": 7,
+    "show_id": 5920,
+    "still_path": "/xTNpscIllI0MybnpOLTuSlXp9RK.jpg"
+  },
+  "name": "The Mentalist",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 151,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Mentalist",
+  "overview": "Patrick Jane isimli bir medyum, sirkte çalışan ve gözlem güçlerini kullanarak insanlar hakkında birtakım fikirler edinip bu fikirleri onlara medyum gibi satan biridir. Bir gün bu özelliği sebebiyle televizyona çıkar ve kendine Red John isimli bir düşman edinir. Red John Jane’in kızını ve eşini öldürünce ortada kalan ve bu ölümlerin sebebinin kendisi olduğunu düşünen Jane, en sonunda FBI’a başvurarak Red John’ın peşine düşmek ister. Her ne kadar ilk başlarda bu isteği geri çevrilse de FBI’ın çözemediği birtakım davaları çözen Jane, bu özel ekibe danışman olarak işe alınır.",
+  "popularity": 96.1905,
+  "poster_path": "/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+  "production_companies": [
+    {
+      "id": 1957,
+      "logo_path": "/qIxtba5CbnJfHCA88czLfTNKW9M.png",
+      "name": "Warner Bros. Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 22938,
+      "logo_path": null,
+      "name": "Primrose Hill Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2009-08-20",
+      "episode_count": 2,
+      "id": 15976,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/n777EHyaK4yKiErzbvMGxKfdcV3.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2008-09-23",
+      "episode_count": 23,
+      "id": 15977,
+      "name": "Sezon 1",
+      "overview": "\"Rome\" dizisinin başarılı yapımcısı Bruno Heller'ın elinden çıkma dizi, polisiye severlerin yeni favorisi olacak!",
+      "poster_path": "/pwHJelCchUwPqDFpq09oXJiNzhr.jpg",
+      "season_number": 1,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2009-09-24",
+      "episode_count": 23,
+      "id": 15978,
+      "name": "Sezon 2",
+      "overview": "Patrick Jane ve kıdemli ajan Teresa Lisbon (Robin Tunney) ile birlikte en zorlu davaların en akla gelmeyecek yollarla çözülmesine tanıklık etmeye devam ediyoruz.",
+      "poster_path": "/rA10pF8GxXNS7g5kHWMuJX1mjvw.jpg",
+      "season_number": 2,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2010-09-23",
+      "episode_count": 24,
+      "id": 15979,
+      "name": "Sezon 3",
+      "overview": "2.Sezon finalinde Red John yine dehşet saçmıştı. Kristina'yı kaçırıp Jane'i kurtarmaktaki amacı neydi? Ekip, yeni teşkilat müdürü Bertram'la (Michael Gaston) anlaşabilecek mi?",
+      "poster_path": "/3QVgo6gc3sZM2aSBJ3ZeFOuvRLD.jpg",
+      "season_number": 3,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2011-09-22",
+      "episode_count": 24,
+      "id": 15980,
+      "name": "Sezon 4",
+      "overview": "Peki ya Van Pelt, yaşadığı travmanın üstesinden gelebilecek mi? Yeni bir düzen ve yeni hesaplaşmalar \"The Mentalist\"in 4. Sezonunda karşınızda olacak!",
+      "poster_path": "/et2pxDkudiMBIafKqjT8kG1JsSr.jpg",
+      "season_number": 4,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2012-09-30",
+      "episode_count": 22,
+      "id": 15981,
+      "name": "Sezon 5",
+      "overview": "Fakat ortalarda dolaşan gizemli bir işbirlikçi daha var.Üstelik FBI'ın içinden.Yeni sezonda Red John'un planları açık edildikçe ekip ve FBI arasındaki gerginlik artıyor!",
+      "poster_path": "/jstZGd2WdMFeL6mSErs1PMHyM2.jpg",
+      "season_number": 5,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2013-09-29",
+      "episode_count": 22,
+      "id": 15982,
+      "name": "Sezon 6",
+      "overview": "6.Sezonda ikili, yedi kişiye düşürdükleri şüpheli listesinin izinde ölümcül düşmanları Red John'u bir kez daha ele geçirmeye çalışıyor.",
+      "poster_path": "/dgmVUaowJGoyiEhxK4EgIXgDlLM.jpg",
+      "season_number": 6,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2014-11-30",
+      "episode_count": 13,
+      "id": 62058,
+      "name": "Sezon 7",
+      "overview": "Red John bertaraf edildi, Jane ve Lisbon aşka teslim oldu, peki şimdi ne olacak?",
+      "poster_path": "/tXT4Vgn8WKZdMeY7s2I6kgTEnhL.jpg",
+      "season_number": 7,
+      "vote_average": 7.7
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Akıl oyunları başlasın.",
+  "type": "Scripted",
+  "vote_average": 8.4,
+  "vote_count": 3908,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1284159,
+        "known_for_department": "Acting",
+        "name": "Simon Baker",
+        "original_name": "Simon Baker",
+        "popularity": 3.6786,
+        "profile_path": "/8RPbdwSOJ3DEQDQaj05zBFaUu5f.jpg",
+        "character": "Patrick Jane",
+        "credit_id": "52cdd5b119c295599d036583",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17346,
+        "known_for_department": "Acting",
+        "name": "Robin Tunney",
+        "original_name": "Robin Tunney",
+        "popularity": 3.9442,
+        "profile_path": "/6Q41n1HfbEo8lOK0eXGNtZMeP4n.jpg",
+        "character": "Teresa Lisbon",
+        "credit_id": "525783bc760ee36aaa612d09",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52947,
+        "known_for_department": "Acting",
+        "name": "Tim Kang",
+        "original_name": "Tim Kang",
+        "popularity": 2.4149,
+        "profile_path": "/Ae7qMN6fJTut145qpeSn1NOu8yx.jpg",
+        "character": "Kimball Cho",
+        "credit_id": "525783bc760ee36aaa612d37",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17345,
+        "known_for_department": "Acting",
+        "name": "Rockmond Dunbar",
+        "original_name": "Rockmond Dunbar",
+        "popularity": 2.6066,
+        "profile_path": "/gim7zIrYkbKWsp2Kod7fp74fWyI.jpg",
+        "character": "Dennis Abbott",
+        "credit_id": "5375ddd60e0a26304700147d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 970561,
+        "known_for_department": "Acting",
+        "name": "Joe Adler",
+        "original_name": "Joe Adler",
+        "popularity": 1.2593,
+        "profile_path": "/bsle7zqj6HBs6NYstkwDwQY7EEf.jpg",
+        "character": "Jason Wylie",
+        "credit_id": "5391cc8cc3a3686491001595",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 146516,
+        "known_for_department": "Acting",
+        "name": "Josie Loren",
+        "original_name": "Josie Loren",
+        "popularity": 1.5864,
+        "profile_path": "/vZJc51rwheOC0TCdUkA4KM1UfXu.jpg",
+        "character": "Michelle Vega",
+        "credit_id": "56e1a554c3a3680a260031cc",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1486893,
+        "known_for_department": "Production",
+        "name": "Alex Berger",
+        "original_name": "Alex Berger",
+        "popularity": 0.3004,
+        "profile_path": null,
+        "credit_id": "56f84abb9251410a31000dca",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1597203,
+        "known_for_department": "Writing",
+        "name": "Tom Donaghy",
+        "original_name": "Tom Donaghy",
+        "popularity": 0.6168,
+        "profile_path": null,
+        "credit_id": "56f84b119251414c320007b1",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1320139,
+        "known_for_department": "Writing",
+        "name": "Jordan Harper",
+        "original_name": "Jordan Harper",
+        "popularity": 0.1352,
+        "profile_path": null,
+        "credit_id": "56d982fa92514175a3006916",
+        "department": "Production",
+        "job": "Supervising Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1122804,
+        "known_for_department": "Directing",
+        "name": "Nina Lopez-Corrado",
+        "original_name": "Nina Lopez-Corrado",
+        "popularity": 0.7175,
+        "profile_path": "/pOleBiod4Un0aiRdJsgdfoGW7H0.jpg",
+        "credit_id": "569fd6bdc3a36858c300a3ee",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1284159,
+        "known_for_department": "Acting",
+        "name": "Simon Baker",
+        "original_name": "Simon Baker",
+        "popularity": 3.6786,
+        "profile_path": "/8RPbdwSOJ3DEQDQaj05zBFaUu5f.jpg",
+        "credit_id": "569fd8949251415e6700a6ab",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2383,
+        "known_for_department": "Production",
+        "name": "Peter Lauritson",
+        "original_name": "Peter Lauritson",
+        "popularity": 0.6769,
+        "profile_path": null,
+        "credit_id": "568802cb9251412e5202220c",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1557074,
+        "known_for_department": "Directing",
+        "name": "John Scherer",
+        "original_name": "John Scherer",
+        "popularity": 0.4303,
+        "profile_path": null,
+        "credit_id": "5688036b92514169d000f018",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1215660,
+        "known_for_department": "Production",
+        "name": "Tom Szentgyorgyi",
+        "original_name": "Tom Szentgyorgyi",
+        "popularity": 0.4198,
+        "profile_path": "/gPiQnaMSfIexiPlEmyq5ZKVrinY.jpg",
+        "credit_id": "568011099251417ddd00d9af",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1557074,
+        "known_for_department": "Directing",
+        "name": "John Scherer",
+        "original_name": "John Scherer",
+        "popularity": 0.4303,
+        "profile_path": null,
+        "credit_id": "6458f99f156cc7013ff18652",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1214432,
+        "known_for_department": "Directing",
+        "name": "Chris Long",
+        "original_name": "Chris Long",
+        "popularity": 0.8726,
+        "profile_path": "/kphn24MER5N0g7vnD69csE3onU4.jpg",
+        "credit_id": "568011e09251414f63006754",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81729,
+        "known_for_department": "Production",
+        "name": "Matthew Carlisle",
+        "original_name": "Matthew Carlisle",
+        "popularity": 0.7812,
+        "profile_path": null,
+        "credit_id": "5680122e92514132db00b3a7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1211883,
+        "known_for_department": "Writing",
+        "name": "Bruno Heller",
+        "original_name": "Bruno Heller",
+        "popularity": 1.3222,
+        "profile_path": "/k33JqtocSqI13tf8QKTLbGQKrL4.jpg",
+        "credit_id": "525783be760ee36aaa612ff8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53017,
+        "known_for_department": "Sound",
+        "name": "Blake Neely",
+        "original_name": "Blake Neely",
+        "popularity": 1.6044,
+        "profile_path": "/ip0bUF22rBJNqLu5hTPEtzZa6hp.jpg",
+        "credit_id": "56631ca1c3a3682bd20045f0",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 933949,
+        "known_for_department": "Directing",
+        "name": "Geary McLeod",
+        "original_name": "Geary McLeod",
+        "popularity": 0.952,
+        "profile_path": null,
+        "credit_id": "62b1c3cc9638640471391a9c",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "california",
+        "id": 387
+      },
+      {
+        "name": "con man",
+        "id": 3202
+      },
+      {
+        "name": "cop",
+        "id": 8015
+      },
+      {
+        "name": "serial killer",
+        "id": 10714
+      },
+      {
+        "name": "criminal investigation",
+        "id": 157241
+      },
+      {
+        "name": "forensic psychology",
+        "id": 212512
+      },
+      {
+        "name": "criminal consultant",
+        "id": 212513
+      },
+      {
+        "name": "police procedural",
+        "id": 268067
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "tr",
+        "iso_3166_1": "TR",
+        "name": "The Mentalist - Season 1 (türkçe altyazılı fragman)",
+        "key": "wuF2KvbxfnQ",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Trailer",
+        "official": false,
+        "published_at": "2018-09-17T19:05:23.000Z",
+        "id": "5fe9f8a31511aa0040f2913a"
+      }
+    ]
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
+        "id": 1408,
+        "name": "House, M.D.",
+        "original_name": "House",
+        "overview": "Gregory House New Jersey Princeton Plainsboro Hastanesinin tıbbi tanı uzamanı doktordur. Kendini aşırı beğenmesi, insanları önemsememesi ve boşvermişlik gibi özelliklerine rağmen müthiş bir doktordur. Uzmanlık alanı bulaşıcı hastalıklardır. Hiç kimsenin tanı koyamadığı hastalara tanı koyarak onların hayatlarını kurtarmaktadır ancak ekibindekilerin psikolojilerini de sürekli olarak bozmaktadır. Hastanenin yöneticisi Lisa Cuddy onu sürekli gözlem altında tutmaya çalışmaktadır ve ondan asla vazgeçmemektedir çünkü en zor durumlarda hastaları kurtaran hep odur ama Dr. House yüzünden hastane sık sık dava edilmektedir.",
+        "poster_path": "/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          35
+        ],
+        "popularity": 134.857,
+        "first_air_date": "2004-11-16",
+        "vote_average": 8.592,
+        "vote_count": 6918,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/xEtiiv2uhGr9IPgeruuECIfyfin.jpg",
+        "id": 1419,
+        "name": "Castle",
+        "original_name": "Castle",
+        "overview": "Nick Castle tanınmış ve çok ünlü bir Roman yazarıdır,kendine göre üslubu ve yaşam tarzı olan Nick özellikle romanlarındaki değişik ve tahmin edilemez cinayetleri yazması ile tanınmaktadır. NYPD de görev yapan Dedektif Kate Beckett son zamanlarda meydana gelen seri cinayetler'de Nick'in romanlarından alıntı yapıldığını fark eder, Nick'ten cinayetler ile ilgili yardım ister.",
+        "poster_path": "/diXBeMzvfJb2iJg3G0kCUaMCzEc.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 71.7524,
+        "first_air_date": "2009-03-09",
+        "vote_average": 8.0,
+        "vote_count": 1933,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1GY7ih45OzZKjNCJ97XHxBCtuSU.jpg",
+        "id": 8358,
+        "name": "Lie to Me",
+        "original_name": "Lie to Me",
+        "overview": "\"Bir insan on dakikada ortalama kaç kez yalan söyler?\" sorusu ile yola çıkan Lie to Me, Dr. Lightman ve ekibinin yalanları ortaya çıkartma sürecini konu alan, psikolojik ağırlığı da olan bir yapım.  Her bölümde, yeni davalar, yeni yüzlerma benzer yalanlar ile mücadele eden Lightman Grup, beden dilini ve yüz ifadelerini okuyarak yalanları analiz ediyor, sıradan vatandaşlardan hükümetin askeri birimlerine kadar her türlü çözümsüz vakayı ele alıyor.",
+        "poster_path": "/rrTeGVXHqppoTUydoWV6bCzZs1W.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 27.6798,
+        "first_air_date": "2009-01-21",
+        "vote_average": 7.908,
+        "vote_count": 1542,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/fefZP8b2gdRKn7llsJ6Yk2m4eey.jpg",
+        "id": 1911,
+        "name": "Bones",
+        "original_name": "Bones",
+        "overview": "Dr. Brennan, küçük yaştayken anne ve babası bir anda ortadan kaybolduktan sonra yetimhanelerde büyürken, ebeveyinlerinin ortadan kaybolmasının gizemini çözmek için kendini antropolojiye adamış ve adli tıp antropoloğu olarak Jeffersonian Enstütüsünde çalışmakta olan, kelimenin tam anlamıyla dahi bir doktor ve bir ‘çok satan’ polisiye roman yazarıdır. Uzmanlık alanı kemikler ve kökenleri olan Brennan bu bilgisini Özel Ajan Seeley Booth’un cinayetleri çözmesine yardım etmek için kullanır.",
+        "poster_path": "/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 101.4295,
+        "first_air_date": "2005-09-13",
+        "vote_average": 8.218,
+        "vote_count": 3262,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/j1csA5FdMJjcmI19Hk3dmoTCfqE.jpg",
+        "id": 21510,
+        "name": "White Collar",
+        "original_name": "White Collar",
+        "overview": "Bir dolandırıcı, sahtekar ve hırsız olan Neal Caffrey, FBI ile üç yıllık bir kedi fare oyunundan sonra yakalanır. Sadece 4 yıllık hapis cezası kalmışken, kız arkadaşı Kate'i aramak için kaçar. Caffrey başlangıçta FBI ajanı Peter Burke tarafından yakalanır ve hapishaneye döner. Serbest bırakılma programı kapsamında Caffrey, FBI'a bir anlaşma önerir. Biraz tereddütten sonra, Burke kabul eder ve böylece Caffrey, Burke'e beyaz yakalı suçluları yakalamak için yardım etmeye başlar.",
+        "poster_path": "/417XNiGvdzCsG9kDnnQJYaBsIrx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 47.8799,
+        "first_air_date": "2009-10-23",
+        "vote_average": 8.246,
+        "vote_count": 1423,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/oHnig7tDh7Lox4GZ95dFmCbU6US.jpg",
+        "id": 1705,
+        "name": "Fringe",
+        "original_name": "Fringe",
+        "overview": "FBI dünya çapında açıklanamayan olayları aydınlatmak için Boston, Massachusett merkezli Fringe adında bir ekip kurar. FBI’da özel ajan olarak görev alan Olivia Dunham, metafizik üzerine araştırmalarda bulunan bilim adamı Walter Bishop ve bilim adamının oğlu Peter Bishop’ın esrarengiz olayları araştırmak için görevlendirilir.",
+        "poster_path": "/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          9648
+        ],
+        "popularity": 52.2583,
+        "first_air_date": "2008-09-09",
+        "vote_average": 8.1,
+        "vote_count": 2556,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/bhG1XJ1fubbZkLnoBAxNrzzGXOg.jpg",
+        "id": 1620,
+        "name": "CSI: Miami",
+        "original_name": "CSI: Miami",
+        "overview": "Konularının uzmanı suç mahali araştırma dedektifleri, en karmaşık olaylarda bile cinayetleri çözmeye çalışıyor. Bu araştırmacı grubun başındaki isim ise eski bir cinayet dedektifi olan Horatio Caine... Miami'nin tropikal güzelliklerinin, gece yaşamının ve kültürel noktalarının fon oluşturduğu dizide detektiflerimiz, cinayetleri çözmek ve çoğu zaman kendileri için konuşamayan kurbanları temize çıkarmak için kanıt peşine düşüyorlar.",
+        "poster_path": "/pNW64pjaHvf6purNaFhq4SHYRfl.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          80
+        ],
+        "popularity": 87.3376,
+        "first_air_date": "2002-09-23",
+        "vote_average": 7.716,
+        "vote_count": 1622,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/jwFJrUXj0SEAVpZsgvRUBi5trLL.jpg",
+        "id": 2919,
+        "name": "Burn Notice",
+        "original_name": "Burn Notice",
+        "overview": "A formerly blacklisted spy uses his unique skills and training to help people in desperate situations.",
+        "poster_path": "/o2fnD3SNiQjGVgA2C3ezaeh2HK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          80
+        ],
+        "popularity": 32.58,
+        "first_air_date": "2007-06-28",
+        "vote_average": 7.46,
+        "vote_count": 518,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dMY7XUfEAK0Rl8hsgc8ufEOaiZ2.jpg",
+        "id": 1695,
+        "name": "Monk",
+        "original_name": "Monk",
+        "overview": "Adrian Monk, bir zamanlar San Francisco Polis Departmanı'nda, departmanın en karmaşık vakalarını alışılmadık yöntemlerle çözen yıldız bir dedektiftir. Ancak karısı Trudy'nin trajik ve hala çözülmemiş cinayetinden sonra, ileri derecede obsesif-kompulsif bozukluk tanısı konan Monk Polis teşkilatından ayrılmak zorunda kalır. Artık polis teşkilatına özel danışman olarak çalışan Monk, vakaları en alışılmadık yollarla araştırmaya devam etmektedir.",
+        "poster_path": "/fLO6glULGTE0iZ4LQcikDeciRdH.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          80,
+          18,
+          9648
+        ],
+        "popularity": 71.3796,
+        "first_air_date": "2002-07-12",
+        "vote_average": 7.948,
+        "vote_count": 1136,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7w165QdHmJuTHSQwEyJDBDpuDT7.jpg",
+        "id": 2288,
+        "name": "Prison Break",
+        "original_name": "Prison Break",
+        "overview": "Haksız yere suçlandığını düşündüğü abisini hapishaneden kurtarmak isteyen Michael Scofield, nerdeyse kusursuz bir plan yapar. Lincoln Burrows'a yüklenen suç, kendilerini temize çıkarabilecekleri bir suç değildir. Devletin de işin içine karıştığını öğrendiklerinde kaçmaktan başka çareleri kalmaz. Michael planını uygulamaya sokar ve kaçış başlar.",
+        "poster_path": "/5E1BhkCgjLBlqx557Z5yzcN0i88.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          80,
+          18
+        ],
+        "popularity": 101.1369,
+        "first_air_date": "2005-08-29",
+        "vote_average": 8.078,
+        "vote_count": 5406,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sh7GRlX4d7j3XSTeyGZnlKqkHGk.jpg",
+        "id": 1447,
+        "name": "Psych",
+        "original_name": "Psych",
+        "overview": "Psych dizisi tam anlamıyla CSI serileriyle ve Medium dizisiyle komedinin harmanlanması diyebiliriz. Biraz daha ayrıntıya girelim o zaman...\n\nDizinin kısaca konusuna değinmek gerekirse, polis bir babanın oğlu olan Shaw'ın süper bir hafızası ve çok kuvvetli bir analiz yapma yeteneği vardır. Shawn bu yeteneklerini, çözülmesi zor olan suçların aydınlatılmasında kullanmaktadır. İzlediği suç ağırlıklı haberlerden, suçu kimin nasıl işlediğini var olan deliller doğrultusunda hafızasında birleştirerek suçluların yakalanmasını kolaylaştırmaktadır. Dizinin pilot bölümü bu tarzda gelişen olaylardan oluşmaktadır.",
+        "poster_path": "/fDI15gTVbtW5Sbv5QenqecRxWKJ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18,
+          9648,
+          80
+        ],
+        "popularity": 54.9482,
+        "first_air_date": "2006-07-07",
+        "vote_average": 7.871,
+        "vote_count": 855,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/fThSrHjuS1X82XoH9VrtvgvMIXm.jpg",
+        "id": 60797,
+        "name": "Scorpion",
+        "original_name": "Scorpion",
+        "overview": "Yapımcıları arasında Alex Kurtzman ve Roberto Orci var. Konusu için “Sheldon’lar ile Leonard’lardan oluşan bir grup adamın üzerine drama” diye benzetme yapılan dizide, bir grup nevi şahsına münhasır dahi Dünya sorunlarını çözmeye ve modern çağın getirdiği tehditleri aşmaya çalışıyor.",
+        "poster_path": "/hzeirSF6bRjssDh5JFrm5WRwFLd.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          80
+        ],
+        "popularity": 37.8301,
+        "first_air_date": "2014-09-22",
+        "vote_average": 8.216,
+        "vote_count": 4037,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/p4GKINJxZoFbPEvX5NKIb4lzaL.jpg",
+        "id": 2458,
+        "name": "CSI: NY",
+        "original_name": "CSI: NY",
+        "overview": "Crime Scene Investigation (Olay Yeri İnceleme) efsanesinin son durağı CSI: NY, çözülmesi güç suç vakalarında araştırmayı yürüten ve son teknolojiler sayesinde en küçük bulguları bile derinlemesine inceleyerek olağanüstü sonuçlara ulaşan bir grup balistik uzmanının maceralarını ekrana taşıyor. Mac Taylor’ın şefliğini yaptığı, teknolojik araçları kuşanmış detektifler adaleti yerine getirmeye kararlı. Olay yeri inceleme detektiflerinin hiç uyumayan New York sokaklarında suçluların peşinden koşmaya ihtiyacı yok. Onlar delil peşinde... Kaçan suçlunun, arkasında bırakacağı bir iz onu içeri atmaları için yetip de artıyor bile. Mac Taylor’ın da dediği gibi: “New York’ta herkes yalan söyleyebilir; ama kanıtların yalan söylediği çok nadirdir.”",
+        "poster_path": "/4TGV4Bb3OPay4cHkQRlfwghv3vC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 66.1269,
+        "first_air_date": "2004-09-22",
+        "vote_average": 7.356,
+        "vote_count": 700,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9YteO4VWteiPmEbWYJRAeBTQZPD.jpg",
+        "id": 1100,
+        "name": "How I Met Your Mother",
+        "original_name": "How I Met Your Mother",
+        "overview": "Ted çocuklarına yıllar önce anneleriyle nasıl tanıştığını anlatırken, Ted'in ruh ikizi için destansı arayışı büyük ölçüde geriye dönüşlerle gösteriliyor.",
+        "poster_path": "/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 119.0829,
+        "first_air_date": "2005-09-19",
+        "vote_average": 8.144,
+        "vote_count": 5207,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
+        "id": 1668,
+        "name": "Friends",
+        "original_name": "Friends",
+        "overview": "1990'ların Manhattan'ında iş hayatının, aşkın ve gündelik yaşamın zorluklarıyla uğraşan 20'li yaşlarda üçü kadın, üçü erkek altı kişilik yakın arkadaş gurubunun komik maceraları.",
+        "poster_path": "/yAVOqZVmYXUqrLg4EiUU88HltYH.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 111.8047,
+        "first_air_date": "1994-09-22",
+        "vote_average": 8.434,
+        "vote_count": 8363,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7sJrNKwzyJWnFPFpDL9wnZ859LZ.jpg",
+        "id": 1415,
+        "name": "Elementary",
+        "original_name": "Elementary",
+        "overview": "Londra’da itibarını yitirdikten sonra rehabilitasyondan kaçan Sherlock zengin babasının en kötü kabusuyla –ciddi bir arkadaş olan Dr. Watson ile- yaşamaya zorladığı Manhattan’a geliyor. Üç yıl önce bir hastasını ve lisansını kaybedene dek başarılı bir cerrah olan Watson yeni işini insanlara yardım edebileceği ve cezasını ödeyebileceği bir fırsat olarak görmektedir. Ancak, huzursuz Sherlock eski müşterileri gibi değildir.",
+        "poster_path": "/q9dObe29W4bDpgzUfOOH3ZnzDbR.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          80
+        ],
+        "popularity": 36.8909,
+        "first_air_date": "2012-09-27",
+        "vote_average": 7.599,
+        "vote_count": 1684,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/w88B4ooZ2LSYPw5107JOkjvI8PI.jpg",
+        "id": 4057,
+        "name": "Criminal Minds",
+        "original_name": "Criminal Minds",
+        "overview": "Dizinin temel esprisi, \"Bir suçluyu yakalamak istiyorsanız onun gibi düşünün\" sözünde yatıyor. Quantico'daki Davranış Analizi Ünitesi'nde çalışan ajanlar, suçluların psikolojilerinden, davranış biçimlerinden yola çıkarak suçu çözüyor.  Yöntem: Davranış psikolojisinin uygulanması, istatistikler, ajanların deneyimleri, 'hızlı hızlı konuşanlar bir şey saklıyordur' önermesinde olduğu gibi çıkarsamalar.",
+        "poster_path": "/wLMQebhTApmn4F6Fzg6FovdwVvL.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 141.8295,
+        "first_air_date": "2005-09-22",
+        "vote_average": 8.3,
+        "vote_count": 3824,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/or0E36KfzJYZwqXeiCfm1JgepKF.jpg",
+        "id": 37680,
+        "name": "Suits",
+        "original_name": "Suits",
+        "overview": "Önemli bir avukatı zehir gibi zekâsıyla etkileyen üniversite terk genç, avukatlık ruhsatı olmadığı halde altın gibi bir iş ortaklığı fırsatını on ikiden vurur.",
+        "poster_path": "/vQiryp6LioFxQThywxbC6TuoDjy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 92.6162,
+        "first_air_date": "2011-06-23",
+        "vote_average": 8.224,
+        "vote_count": 5266,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2emkZBBiZG7pE7RBuIWtbKZ2a33.jpg",
+        "id": 873,
+        "name": "Columbo",
+        "original_name": "Columbo",
+        "overview": "Komiser Kolombo'da sherlokyan teğmen-dedektif rolünde Peter Falk var. Kirli pardesüsü, eski arabası, sempatik tavrıyla cinayet davalarını çözüyor. Katile yapışıyor, kızdırıcı sorularla köşeye sıkıştırıyor, ipuçlarını zekice buluyor, birleştiriyor. 70'lerin favori dizisiydi.   2 Golden Globes ödülü. 20 farklı ödül ve 45 adaylık.",
+        "poster_path": "/2JCD8vab3fircOU8cM2HJCxfv4I.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 71.0035,
+        "first_air_date": "1971-09-15",
+        "vote_average": 8.085,
+        "vote_count": 732,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2eIlCirgcvEwmCSYh2wDfz5Sxvz.jpg",
+        "id": 46952,
+        "name": "The Blacklist",
+        "original_name": "The Blacklist",
+        "overview": "FBI'ın arananlar listesindeki kaçak, diğer kötüleri yakalamaları için FBI'a yardım teklifinde bulunur; tek şartı çaylak profil uzmanı Elizabeth Keen'in ortağı olmasıdır.",
+        "poster_path": "/4HTfd1PhgFUenJxVuBDNdLmdr0c.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "popularity": 144.8986,
+        "first_air_date": "2013-09-23",
+        "vote_average": 7.638,
+        "vote_count": 3269,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

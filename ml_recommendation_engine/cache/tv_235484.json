@@ -1,0 +1,908 @@
+{
+  "adult": false,
+  "backdrop_path": "/i8iqYtAy9qcO5RSrA1f6fY1n6SN.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2015-11-16",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Pembe Dizi"
+    }
+  ],
+  "homepage": "https://www.dstv.com/m-net/en-za/show/suidooster",
+  "id": 235484,
+  "in_production": true,
+  "languages": [
+    "af"
+  ],
+  "last_air_date": "2025-02-20",
+  "last_episode_to_air": {
+    "id": 5349349,
+    "name": "243. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-06",
+    "episode_number": 243,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 10,
+    "show_id": 235484,
+    "still_path": null
+  },
+  "name": "Suidooster",
+  "next_episode_to_air": {
+    "id": 5349350,
+    "name": "244. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-07",
+    "episode_number": 244,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 10,
+    "show_id": 235484,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 1826,
+      "logo_path": "/2tNeujuBe8MR40hoUE4FLYA7Knl.png",
+      "name": "kykNET",
+      "origin_country": "ZA"
+    },
+    {
+      "id": 2265,
+      "logo_path": "/q34eWeq5RcHA17V5nwneKSrGy4g.png",
+      "name": "Showmax",
+      "origin_country": ""
+    },
+    {
+      "id": 7099,
+      "logo_path": "/mPyEYYAmrN2ucqskaSxCeY6TP0d.png",
+      "name": "kykNET & Kie",
+      "origin_country": "ZA"
+    }
+  ],
+  "number_of_episodes": 2289,
+  "number_of_seasons": 10,
+  "origin_country": [
+    "ZA"
+  ],
+  "original_language": "af",
+  "original_name": "Suidooster",
+  "overview": "",
+  "popularity": 3176.151,
+  "poster_path": "/naCgSiacvV685kait6fBvhVhdce.jpg",
+  "production_companies": [
+    {
+      "id": 209145,
+      "logo_path": null,
+      "name": "Suidooster Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ZA",
+      "name": "South Africa"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2015-11-16",
+      "episode_count": 60,
+      "id": 357866,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2016-04-04",
+      "episode_count": 195,
+      "id": 357873,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2017-04-03",
+      "episode_count": 208,
+      "id": 357883,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2018-04-02",
+      "episode_count": 260,
+      "id": 357892,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2019-04-01",
+      "episode_count": 260,
+      "id": 358027,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2020-03-30",
+      "episode_count": 262,
+      "id": 358031,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2021-03-31",
+      "episode_count": 262,
+      "id": 358039,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2022-04-01",
+      "episode_count": 262,
+      "id": 358048,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2023-04-04",
+      "episode_count": 260,
+      "id": 358065,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2024-04-02",
+      "episode_count": 260,
+      "id": 383621,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/naCgSiacvV685kait6fBvhVhdce.jpg",
+      "season_number": 10,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "Afrikaans",
+      "iso_639_1": "af",
+      "name": "Afrikaans"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.381,
+  "vote_count": 21,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4282682,
+        "known_for_department": "Acting",
+        "name": "Theresa Sedras",
+        "original_name": "Theresa Sedras",
+        "popularity": 0.115,
+        "profile_path": null,
+        "character": "Sharleen (Mrs J) Jacobs",
+        "credit_id": "650bf4cef92532010baf817b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4282683,
+        "known_for_department": "Acting",
+        "name": "Portia Joel",
+        "original_name": "Portia Joel",
+        "popularity": 0.032,
+        "profile_path": null,
+        "character": "Lee-Ann Jacobs",
+        "credit_id": "650bf4de51a64e00e4c2cc22",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 555271,
+        "known_for_department": "Acting",
+        "name": "Denise Newman",
+        "original_name": "Denise Newman",
+        "popularity": 2.901,
+        "profile_path": "/biPTtnvPamqwHcelScuBZSDTxR9.jpg",
+        "character": "Bridgette October",
+        "credit_id": "650bf4f03d7454013879f099",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1643266,
+        "known_for_department": "Acting",
+        "name": "Jill Levenberg",
+        "original_name": "Jill Levenberg",
+        "popularity": 1.06,
+        "profile_path": null,
+        "character": "Mymoena Samsodien",
+        "credit_id": "650bf56a4da3d400eae23841",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4282691,
+        "known_for_department": "Acting",
+        "name": "Simone Biscombe",
+        "original_name": "Simone Biscombe",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Bianca Fourie",
+        "credit_id": "650bf57a2c6b7b00fe45e669",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1277545,
+        "known_for_department": "Acting",
+        "name": "Irshaad Ally",
+        "original_name": "Irshaad Ally",
+        "popularity": 1.966,
+        "profile_path": "/5rM75IdJTxS1fpFQHlb9Q4Gi1Kf.jpg",
+        "character": "Rhafiek Samsodien",
+        "credit_id": "650bf598f92532012cc8ece2",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3277190,
+        "known_for_department": "Acting",
+        "name": "Eden Classens",
+        "original_name": "Eden Classens",
+        "popularity": 0.02,
+        "profile_path": null,
+        "character": "Justin Potgieter",
+        "credit_id": "650c0d872c6b7b00e1227386",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1769591,
+        "known_for_department": "Acting",
+        "name": "Gantane Gwane Kusch",
+        "original_name": "Gantane Gwane Kusch",
+        "popularity": 0.337,
+        "profile_path": "/eDSX3lUtJ7xqcYbgiU0P1I9GJFR.jpg",
+        "character": "Siya Thuli",
+        "credit_id": "650c0e1251a64e00e4c2d576",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1657673,
+        "known_for_department": "Acting",
+        "name": "Lauren Joseph",
+        "original_name": "Lauren Joseph",
+        "popularity": 0.223,
+        "profile_path": null,
+        "character": "Zoë October",
+        "credit_id": "650c2aa33d745400c4a16bc5",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1854590,
+        "known_for_department": "Acting",
+        "name": "Maurice Paige",
+        "original_name": "Maurice Paige",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Tyron Daniels",
+        "credit_id": "650c2af53d745400c4a16be2",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4284493,
+        "known_for_department": "Acting",
+        "name": "Jawaahier Petersen",
+        "original_name": "Jawaahier Petersen",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Kaashifa Mansour",
+        "credit_id": "650d41e693db92011bb82fbd",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1156120,
+        "known_for_department": "Acting",
+        "name": "Annelisa Weiland",
+        "original_name": "Annelisa Weiland",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Katharina Vosloo",
+        "credit_id": "650d426df92532010bb01a66",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4284494,
+        "known_for_department": "Acting",
+        "name": "Irvine van der Merwe",
+        "original_name": "Irvine van der Merwe",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Nazeem Samsodien",
+        "credit_id": "650d42823d745401387a90cd",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1854523,
+        "known_for_department": "Acting",
+        "name": "Dean Smith",
+        "original_name": "Dean Smith",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Wade Daniels",
+        "credit_id": "650d515df9253200c94a4a45",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1619624,
+        "known_for_department": "Acting",
+        "name": "Esther von Waltsleben",
+        "original_name": "Esther von Waltsleben",
+        "popularity": 0.515,
+        "profile_path": "/vhyIRyGVqZVjCIIkD44LNqERaM.jpg",
+        "character": "Elana Naudé",
+        "credit_id": "650d5e6e44ea5400ad7a01ac",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4284637,
+        "known_for_department": "Acting",
+        "name": "Natasha van der Merwe",
+        "original_name": "Natasha van der Merwe",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Susan Naudé",
+        "credit_id": "650d5e7f3d745401387aa2ca",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1246700,
+        "known_for_department": "Acting",
+        "name": "Theodore Jantjies",
+        "original_name": "Theodore Jantjies",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Aiden Booysen",
+        "credit_id": "650d66d0d34eb3013aed3c4c",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4284718,
+        "known_for_department": "Acting",
+        "name": "Char Carrie",
+        "original_name": "Char Carrie",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Angelina Jantjies",
+        "credit_id": "650d670ed34eb300e371d3ec",
+        "order": 29
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": []
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/jZm8xc4nuBII2nWgN0XMmQG5DtR.jpg",
+        "id": 13008,
+        "name": "TMZ",
+        "original_name": "TMZ",
+        "overview": "Based on the popular gossip website, this entertainment newsmagazine delivers daily updates on Hollywood's rich, beautiful and screwed-up. The program often shows highlights of the day's staff meeting during which reporters pitch ideas for stories to air that day.",
+        "poster_path": "/ifFpUG51DJaQxwnZ35VwoGRFGGv.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10763,
+          35
+        ],
+        "popularity": 2407.472,
+        "first_air_date": "2007-09-10",
+        "vote_average": 4.6,
+        "vote_count": 18,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/C0A0Ar8QTnST03sy816MxdUt3K.jpg",
+        "id": 60780,
+        "name": "Four in a Bed",
+        "original_name": "Four in a Bed",
+        "overview": "Four pairs of B&B owners from across Britain take it in turns as hosts to decide which of their establishments provides the best value for money.",
+        "poster_path": "/nFzW9V9rjKQcsunNrjw1yPc2zT8.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 47.684,
+        "first_air_date": "2010-11-22",
+        "vote_average": 6.2,
+        "vote_count": 16,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/93R3gd0iNqnib1JKwbWXksDcMY.jpg",
+        "id": 255150,
+        "name": "Pituca Sin Lucas",
+        "original_name": "Pituca Sin Lucas",
+        "overview": "",
+        "poster_path": "/cjqJqODyUbul2GZL7ti2B5SVv7I.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          35,
+          18,
+          10751
+        ],
+        "popularity": 33.42,
+        "first_air_date": "2024-05-06",
+        "vote_average": 7.0,
+        "vote_count": 7,
+        "origin_country": [
+          "PE"
+        ]
+      },
+      {
+        "backdrop_path": "/sCTlziZeyf4eWXh09pt63zMtJRw.jpg",
+        "id": 261033,
+        "name": "The Agent",
+        "original_name": "العميل",
+        "overview": "A police captain infiltrates a notorious gang, only to find himself going deeper down the rabbit hole.",
+        "poster_path": "/qUtgaa43jTELs0Tdw55aIukt9yn.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ar",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "popularity": 27.393,
+        "first_air_date": "2024-08-18",
+        "vote_average": 4.5,
+        "vote_count": 5,
+        "origin_country": [
+          "SY"
+        ]
+      },
+      {
+        "backdrop_path": "/kkfqNkGQR5og5sDjJTxTVmI9PW.jpg",
+        "id": 72879,
+        "name": "Tomorrow Is Ours",
+        "original_name": "Demain nous appartient",
+        "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
+        "poster_path": "/zMWldNZF0wS3L5XkDVFHxYhclcL.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 3288.66,
+        "first_air_date": "2017-07-17",
+        "vote_average": 6.2,
+        "vote_count": 65,
+        "origin_country": [
+          "FR"
+        ]
+      },
+      {
+        "backdrop_path": "/94qWpm0EjFJzhojO120JzWoNM2u.jpg",
+        "id": 117830,
+        "name": "Tomb Raider: The Legend of Lara Croft",
+        "original_name": "Tomb Raider: The Legend of Lara Croft",
+        "overview": "Dünyanın dört bir yanına yayılan bir serüvene atılan korkusuz maceraperest Lara Croft, kadim bir gizemi ortaya çıkarırken kendi travmatik geçmişiyle de yüzleşir.",
+        "poster_path": "/mIvbfZFLJGwNvJKJcnYIppSbWdI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16
+        ],
+        "popularity": 32.108,
+        "first_air_date": "2024-10-10",
+        "vote_average": 6.4,
+        "vote_count": 87,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/mu3lEhGovyhKHPJzb7HNYtZUCDT.jpg",
+        "id": 206559,
+        "name": "Binnelanders",
+        "original_name": "Binnelanders",
+        "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+        "poster_path": "/3bzECfllho8PphdYujLUIuhncJD.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "af",
+        "genre_ids": [
+          10766
+        ],
+        "popularity": 3212.703,
+        "first_air_date": "2005-10-13",
+        "vote_average": 5.6,
+        "vote_count": 90,
+        "origin_country": [
+          "ZA"
+        ]
+      },
+      {
+        "backdrop_path": "/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
+        "id": 94997,
+        "name": "House of the Dragon",
+        "original_name": "House of the Dragon",
+        "overview": "George R.R. Martin'in \"Fire & Blood\" adlı eserinden uyarlanan ve Game of Thrones'taki olaylardan 200 yıl öncesini konu alan dizi, Targaryen Hanesi'nin gücünün zirvesinde olduğu dönemde bir iç veraset savaşını anlatıyor.",
+        "poster_path": "/t9XkeE7HzOsdQcDDDapDYh8Rrmt.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 272.884,
+        "first_air_date": "2022-08-21",
+        "vote_average": 8.4,
+        "vote_count": 5201,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7cqKGQMnNabzOpi7qaIgZvQ7NGV.jpg",
+        "id": 76479,
+        "name": "The Boys",
+        "original_name": "The Boys",
+        "overview": "The Boys, süper kahramanların güçlerini ve şöhretlerini kötüye kullandığı bir evrende geçiyor. Kendilerini kanunu korumaya adayan ve “The Boys” olarak adlandırılan bir grup insan, yozlaşmış süper kahramanları ortadan kaldırmak için zorlu bir yolculuğa çıkar.",
+        "poster_path": "/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759
+        ],
+        "popularity": 315.912,
+        "first_air_date": "2019-07-25",
+        "vote_average": 8.5,
+        "vote_count": 10830,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9faGSFi5jam6pDWGNd0p8JcJgXQ.jpg",
+        "id": 1396,
+        "name": "Breaking Bad",
+        "original_name": "Breaking Bad",
+        "overview": "Kanserden öleceğini öğrenen bir kimya öğretmeni, ailesinin geleceğini garanti altına almak için metamfetamin üretip satmak üzere eski bir öğrencisiyle kafa kafaya verir.",
+        "poster_path": "/ineLOBPG8AZsluYwnkMpHRyu7L.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 540.297,
+        "first_air_date": "2008-01-20",
+        "vote_average": 8.923,
+        "vote_count": 15146,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/t15KHp3iNfHVQBNIaqUGW12xQA4.jpg",
+        "id": 60059,
+        "name": "Better Call Saul",
+        "original_name": "Better Call Saul",
+        "overview": "Breaking Bad'in yan hikayesi olan dizide, ufak çaplı avukat Jimmy McGill’in ahlak yoksunu \"hukuk adamı\" Saul Goodman’a dönüşmesini izliyoruz.",
+        "poster_path": "/zjg4jpK1Wp2kiRvtt5ND0kznako.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 298.238,
+        "first_air_date": "2015-02-08",
+        "vote_average": 8.7,
+        "vote_count": 5486,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dZklTql88IDOmkC3JAYQSTgyK6f.jpg",
+        "id": 1920,
+        "name": "Twin Peaks",
+        "original_name": "Twin Peaks",
+        "overview": "1990-91 yıllarında ABC kanalında yayınlanan dizi toplam iki sezon otuz bölüm sürmüştür. Körfez savaşı nedeni ile yayını durdurulmuştur. TV'ye yeniden adaptasyonu sağlanan dizinin senaryosu yine ikili tarafından kaleme alınmış, üretimi ise sahibi oldukları Lynch / Frost Productions şirketi tarafından yapılmaktadır. David Lynch ayrıca yönetmen koltuğunda oturmaktadır.\n\nOrjinal seri, Laura Palmer (Sheryl Lee) isimli bir genç kızın öldürülmesi ile başlar ve sonrasında gelişen olaylar üzerine şekillenir. FBI özel ajanı Dale Cooper (Kyle MacLachlan) cinayeti çözmek ve katili yakalamak için bu küçük kasabaya gönderilir. Başlangıçta masum görünen kasaba insanlarının derinlerine inildikçe karanlık yönleri ortaya çıkar ve farklı bir yaşam sürdükleri görülür.",
+        "poster_path": "/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 185.603,
+        "first_air_date": "1990-04-08",
+        "vote_average": 8.335,
+        "vote_count": 2175,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ysaA0BInz4071p3LKqAQnWKZCsK.jpg",
+        "id": 2004,
+        "name": "Malcolm in the Middle",
+        "original_name": "Malcolm in the Middle",
+        "overview": "Kaykay yapmak ve en iyi arkadaşı Stevie ile takılmaktan hoşlanan 9 yaşındaki Malcolm, \"yetenekliler\" sınıfına girmeye zorlanınca hayatı alt üst olur ve etrafı toplumdan dışlanan bir grup yetenekliyle çevrelenir.",
+        "poster_path": "/ckLLIsNy3Z0Go1PYHA2PHzVymUA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          35,
+          18
+        ],
+        "popularity": 295.632,
+        "first_air_date": "2000-01-09",
+        "vote_average": 8.479,
+        "vote_count": 4449,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sccDflItNho4OiHkzpiDxB2fUFw.jpg",
+        "id": 1418,
+        "name": "The Big Bang Theory",
+        "original_name": "The Big Bang Theory",
+        "overview": "En büyük zevkleri kuantum fiziğine kafa yormak olan üstün zekalı iki arkadaş, güzel bir kızla karşılaşınca ne yaparlar? The Big Bang Theory, işte o karşılaşma anında gerçekleşen büyük patlama ve sonrasını anlatan bir komedi dizisi. Leonard ve Sheldon adlarındaki iki arkadaşın oturdukları apartmanda yan dairelerine yeni bir komşu taşınır. Adı Penny olan bu komşu güzeller güzeli bir sarışındır. Üstelik maceralı bir ilişkiden daha yeni sapasağlam ayakta çıkmıştır. Penny, zekaları gereğinden fazla ilerlemiş, ancak kızlar konusunda oldukça geri kalmış bu yeni iki komşusuna hayat hakkında öğretebileceği bir şeyleri olduğunu düşünmektedir. Yaşanacak olanlar da zaman içinde onun ne kadar haklı olduğunu gösterecektir. ",
+        "poster_path": "/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 222.02,
+        "first_air_date": "2007-09-24",
+        "vote_average": 7.91,
+        "vote_count": 11545,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/hHEqDPbO6z4Xje5tOf3Wm1mdMtI.jpg",
+        "id": 73021,
+        "name": "Disenchantment",
+        "original_name": "Disenchantment",
+        "overview": "Disenchantment, parçalanmak üzere olan Orta Çağ krallığı Dreamland’de geçiyor. Bentwood Prensi Guysbert ile evlenmekten vazgeçen Prenses Bean kendisini farklı bir dünyanın içerisinde bulur. Düğün töreninden kaçan prenses kendi kaderini çizmek için sarayından çıkarak gerçek dünyaya adım atar. Hayatta kim olduğunu çözmeye çalışan Bean, Elf arkadaşı Elfo ve içindeki şeytan Luci ile türlü maceralara atılır. Fantastik yaratıklarla dolu bu dünyada canavarlar, cinler, mitolojik yaratıklar, iblisler, troller, morslar ve birçok budala insan yer alıyor.\n\nSimpsonlar efsanesinin yaratıcısı Matt Groenling tarafından hayata geçirilen yapımın seslendirme kadrosunda Abbi Jacobson, Nat Faxon, Eric Andre, John DiMaggio, Billy West, Maurice LaMarche, Tress MacNeille, David Herman, Matt Berry, Noel Fielding ve Lucy Montgomery gibi isimler yer alıyor.",
+        "poster_path": "/qQrMvkF2CoQBCAJHpml158Cmxvz.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10759,
+          10765
+        ],
+        "popularity": 84.828,
+        "first_air_date": "2018-08-17",
+        "vote_average": 7.444,
+        "vote_count": 1137,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+        "id": 1399,
+        "name": "Game of Thrones",
+        "original_name": "Game of Thrones",
+        "overview": "Krallık dediğin savaşsız olur mu? En güçlü krallığı kurup, huzuru sağlamış olsan bile bu gücü elinde nasıl koruyacaksın? Burada yanlış yapana yer yok, affetmek yok. Kuzey Krallığının hükümdarı Lord Ned Stark, uzun ve zorlu savaşlardan sonra anayurduna dönüp krallığını bütünlük içerisinde tutmayı başarmıştır. Kral Robert Baratheon ile yıllarca omuz omuza çarpışan ve Baratheon'un kral olmasını sağlayan Ned Stark'ın tek istediği kuzey sınırlarını koruyan krallığında ailesiyle ve halkıyla yaşamaktır. \n\nFakat suyun öte yanında kendi topraklarından ve krallığından kovulduğunu iddia eden Viserys Targaryen , kız kardeşi Daenerys'i barbar kavimlerin başı Han Drogo'ya vererek, güç birliği planları yapmaktadır. Tahtını büyük bir iştahla geri isteyen ama kraliyet oyunlarından habersiz olan Viserys'in planları Kral Baratheon'a ulaşır. Savaş alanında büyük cengaver olan ama ülke ve aile yönetiminde aynı başarıyı tutturamayan Baratheon'un tamamen güvenebileceği ve her yanlış hamlesini arkasından toplayacak yeni bir sağ kola ihtiyacı vardır. Kuzeyin Lordu Ned Stark bu görev için seçilen tek aday isimdir. Kış yaklaşıyor...\n\nHanedan entrikaları, kapılı kapılar ardında dönen oyunlar, birilerinin kuyusunu kazmak için düşmanın koynuna girmekten çekinmeyen kadınlar, kardeşler arası çekişmeler, dışlanmalar... Hepsi tek bir hedef için: Taht kavgası..",
+        "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 723.189,
+        "first_air_date": "2011-04-17",
+        "vote_average": 8.456,
+        "vote_count": 24678,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
+        "id": 57243,
+        "name": "Doctor Who",
+        "original_name": "Doctor Who",
+        "overview": "Bu Doktor bambaşka bir doktor. Adı, karakteri, tavırları her şeyiyle bir muamma. Rose Tyler adında bir kadın, kendisini Doktor diye adlandıran gizemli bir yabancıyla tanışır ve bundan sonra hayatı baştan sona değişir. Kısa süre içerisinde ailesi de dahil bütün dünyanın tehlike altında olduğunu öğrenir. Yapması gereken ise kurtuluş yolunu bulmaktır.",
+        "poster_path": "/4edFyasCrkH4MKs6H4mHqlrxA6b.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10765
+        ],
+        "popularity": 445.678,
+        "first_air_date": "2005-03-26",
+        "vote_average": 7.537,
+        "vote_count": 3076,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/wQEW3xLrQAThu1GvqpsKQyejrYS.jpg",
+        "id": 94605,
+        "name": "Arcane",
+        "original_name": "Arcane",
+        "overview": "Piltover ve Zaun kentleri arasındaki sert çatışmanın ortasında iki kız kardeş, büyülü teknolojiler ve birbirine zıt inanışlar arasındaki savaşın karşı cephelerindedir.",
+        "poster_path": "/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 177.729,
+        "first_air_date": "2021-11-06",
+        "vote_average": 8.781,
+        "vote_count": 4942,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
+        "id": 1408,
+        "name": "House, M.D.",
+        "original_name": "House",
+        "overview": "Gregory House New Jersey Princeton Plainsboro Hastanesinin tıbbi tanı uzamanı doktordur. Kendini aşırı beğenmesi, insanları önemsememesi ve boşvermişlik gibi özelliklerine rağmen müthiş bir doktordur. Uzmanlık alanı bulaşıcı hastalıklardır. Hiç kimsenin tanı koyamadığı hastalara tanı koyarak onların hayatlarını kurtarmaktadır ancak ekibindekilerin psikolojilerini de sürekli olarak bozmaktadır. Hastanenin yöneticisi Lisa Cuddy onu sürekli gözlem altında tutmaya çalışmaktadır ve ondan asla vazgeçmemektedir çünkü en zor durumlarda hastaları kurtaran hep odur ama Dr. House yüzünden hastane sık sık dava edilmektedir.",
+        "poster_path": "/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          35
+        ],
+        "popularity": 568.775,
+        "first_air_date": "2004-11-16",
+        "vote_average": 8.591,
+        "vote_count": 6804,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/yGNnjoIGOdQy3douq60tULY8teK.jpg",
+        "id": 63247,
+        "name": "Westworld",
+        "original_name": "Westworld",
+        "overview": "İki konuk ileri teknolojinin kullanıldığı bir eğlence parkında Vahşi Batı macerasına çıkar. Parktaki insanlar robottur ve park Roma, Vahşi Batı ve Ortaçağ dönemlerine benzetilerek sahici bir hayat yaratmak amacıyla tasarlanmıştır. Merkezi bilgisayar sistemi bozulunca robotlar zincirlerini koparır ve parkın iki konuğu robot bir silahşör tarafından takip edildiklerini fark eder.West World ya da Batı Dünyası, yapay bilincin ortaya çıkması ve suçun geleceğiyle ilgili karanlık bir yolculuğu anlatmaktadır.",
+        "poster_path": "/8MfgyFHf7XEboZJPZXCIDqqiz6e.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          37
+        ],
+        "popularity": 152.522,
+        "first_air_date": "2016-10-02",
+        "vote_average": 8.041,
+        "vote_count": 5624,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

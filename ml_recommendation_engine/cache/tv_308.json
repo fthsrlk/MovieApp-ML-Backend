@@ -1,0 +1,927 @@
+{
+  "adult": false,
+  "backdrop_path": "/rVGhUYTdicAohn2mPbgNXuO5g0e.jpg",
+  "created_by": [
+    {
+      "id": 3455504,
+      "credit_id": "629457a2d185720052f7b50f",
+      "name": "Casa da Criação",
+      "original_name": "Casa da Criação",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    55
+  ],
+  "first_air_date": "2003-08-30",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 35,
+      "name": "Komedi"
+    },
+    {
+      "id": 10766,
+      "name": "Pembe Dizi"
+    }
+  ],
+  "homepage": "http://www.tvi.iol.pt/morangos/site/default.htm",
+  "id": 308,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2012-05-25",
+  "last_episode_to_air": {
+    "id": 5422040,
+    "name": "221. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2012-05-25",
+    "episode_number": 221,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 9,
+    "show_id": 308,
+    "still_path": null
+  },
+  "name": "Morangos com Açúcar",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 93,
+      "logo_path": "/bCngEbZ5SoIwkgmSMsLUABqanZn.png",
+      "name": "TVI",
+      "origin_country": "PT"
+    }
+  ],
+  "number_of_episodes": 2290,
+  "number_of_seasons": 9,
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_name": "Morangos com Açúcar",
+  "overview": "",
+  "popularity": 1485.028,
+  "poster_path": "/uyzx0JkWOOF3Mfcq4uiuIr2Ykju.jpg",
+  "production_companies": [
+    {
+      "id": 8863,
+      "logo_path": "/11x9eeGVBxcAraFfgwt5Hb1Z3Ms.png",
+      "name": "Plural Entertainment",
+      "origin_country": "PT"
+    },
+    {
+      "id": 86448,
+      "logo_path": "/ouoDVGGHRAE7WfPtMKZn6kKDMec.png",
+      "name": "TVI - Televisão Independente",
+      "origin_country": "PT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2003-08-30",
+      "episode_count": 291,
+      "id": 83853,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/b8sXTImIRdCbjjbot7Gl7tQxinU.jpg",
+      "season_number": 1,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2004-10-18",
+      "episode_count": 224,
+      "id": 85932,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/b8sXTImIRdCbjjbot7Gl7tQxinU.jpg",
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2005-09-20",
+      "episode_count": 255,
+      "id": 109427,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/b8sXTImIRdCbjjbot7Gl7tQxinU.jpg",
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2006-09-13",
+      "episode_count": 258,
+      "id": 109428,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/b8sXTImIRdCbjjbot7Gl7tQxinU.jpg",
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2007-09-17",
+      "episode_count": 262,
+      "id": 109429,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/b8sXTImIRdCbjjbot7Gl7tQxinU.jpg",
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2008-09-22",
+      "episode_count": 246,
+      "id": 100933,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/b8sXTImIRdCbjjbot7Gl7tQxinU.jpg",
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2009-09-21",
+      "episode_count": 265,
+      "id": 109430,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/b8sXTImIRdCbjjbot7Gl7tQxinU.jpg",
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2010-09-20",
+      "episode_count": 268,
+      "id": 109431,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/b8sXTImIRdCbjjbot7Gl7tQxinU.jpg",
+      "season_number": 8,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-09-12",
+      "episode_count": 221,
+      "id": 100932,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/b8sXTImIRdCbjjbot7Gl7tQxinU.jpg",
+      "season_number": 9,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.6,
+  "vote_count": 16,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1062304,
+        "known_for_department": "Acting",
+        "name": "Filipa Areosa",
+        "original_name": "Filipa Areosa",
+        "popularity": 2.058,
+        "profile_path": "/6ySlZzjavMPn40iLYl64LfpAIgt.jpg",
+        "character": "Ana Rita Soares",
+        "credit_id": "61773b4f71f0950042d34792",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1824627,
+        "known_for_department": "Acting",
+        "name": "Marta Andrino",
+        "original_name": "Marta Andrino",
+        "popularity": 0.384,
+        "profile_path": "/xSwU3ZvwpDADa5JetGDNjYTfxKX.jpg",
+        "character": "Verónica Lima",
+        "credit_id": "6186dc0ce93e950062635667",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3187812,
+        "known_for_department": "Acting",
+        "name": "Eva Barros",
+        "original_name": "Eva Barros",
+        "popularity": 1.221,
+        "profile_path": "/ykz5ZEWoWuPKzRatd2WTccKbRF8.jpg",
+        "character": "Monique dos Santos",
+        "credit_id": "610c60b938469a002fb4f849",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1055134,
+        "known_for_department": "Acting",
+        "name": "Carla Salgueiro",
+        "original_name": "Carla Salgueiro",
+        "popularity": 0.112,
+        "profile_path": "/MDrLlXcSlwg5z2DTTc4p06F6L8.jpg",
+        "character": "Cristina/Beta",
+        "credit_id": "615e1bdaeb14fa0043e3acb4",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1190413,
+        "known_for_department": "Acting",
+        "name": "Inês Costa",
+        "original_name": "Inês Costa",
+        "popularity": 0.711,
+        "profile_path": "/tyTwTglw0q1lyIP5M6h0cML99FN.jpg",
+        "character": "Vera Gomes",
+        "credit_id": "61635aa150733c0042f4933a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1824629,
+        "known_for_department": "Acting",
+        "name": "Francisco Arraiol",
+        "original_name": "Francisco Arraiol",
+        "popularity": 0.02,
+        "profile_path": "/hBFiEZzCEjaN0cCf8qkautm9bkv.jpg",
+        "character": "Francisco Freire",
+        "credit_id": "61d39fe1d19a330042753b1b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2360214,
+        "known_for_department": "Acting",
+        "name": "Rui Santos",
+        "original_name": "Rui Santos",
+        "popularity": 0.246,
+        "profile_path": "/gvprHwyTOdqIrieaydTDhyekM4z.jpg",
+        "character": "Manuel Basílio",
+        "credit_id": "61db274e681888001d5389e5",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1170197,
+        "known_for_department": "Acting",
+        "name": "Heitor Lourenço",
+        "original_name": "Heitor Lourenço",
+        "popularity": 0.28,
+        "profile_path": "/5BQFg8eQ9ddaqs1vRZbWtugHwbN.jpg",
+        "character": "Roberto Feire",
+        "credit_id": "61e09e58bf0f63009a148338",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1159169,
+        "known_for_department": "Acting",
+        "name": "Alexandre Ferreira",
+        "original_name": "Alexandre Ferreira",
+        "popularity": 0.363,
+        "profile_path": "/8ITalyzUBC45YCZ2kWcpEYDU7rT.jpg",
+        "character": "Polícia",
+        "credit_id": "61f46101559d2200c7c70b12",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3425327,
+        "known_for_department": "Acting",
+        "name": "Ana Brinca",
+        "original_name": "Ana Brinca",
+        "popularity": 0.001,
+        "profile_path": "/jaZRKTuVpX669XL2J62RnWKzccr.jpg",
+        "character": "Eva Duarte",
+        "credit_id": "6259abe3dff66e006735e87e",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1189146,
+        "known_for_department": "Acting",
+        "name": "Lourenço Henriques",
+        "original_name": "Lourenço Henriques",
+        "popularity": 0.603,
+        "profile_path": "/s4ogtw78CeA0wqN7JKaOGiBmsAt.jpg",
+        "character": "Zé Machado",
+        "credit_id": "62601652db952d1265335ceb",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2634851,
+        "known_for_department": "Acting",
+        "name": "Delfina Cruz",
+        "original_name": "Delfina Cruz",
+        "popularity": 0.631,
+        "profile_path": "/gcZfcdZyt5ojZfDgnSxUW42CsGt.jpg",
+        "character": "Eduarda Mota",
+        "credit_id": "62813f9afd140b569c917951",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3577959,
+        "known_for_department": "Acting",
+        "name": "Cristina Areia",
+        "original_name": "Cristina Areia",
+        "popularity": 0.739,
+        "profile_path": "/Dr4YZ4tfqPMb72RhHe8PkewjCX.jpg",
+        "character": "Isabel Garcia",
+        "credit_id": "629e3cc57d5db5086bea578d",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2992937,
+        "known_for_department": "Acting",
+        "name": "Alexandra Freudenthal",
+        "original_name": "Alexandra Freudenthal",
+        "popularity": 0.001,
+        "profile_path": "/5nE4rUHmZU3WVaUjFRB3N8IqRxf.jpg",
+        "character": "",
+        "credit_id": "62d59368e6d3cc004dfbb21e",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3728126,
+        "known_for_department": "Acting",
+        "name": "Joana Vieira",
+        "original_name": "Joana Vieira",
+        "popularity": 0.001,
+        "profile_path": "/A4Nbksvo9NNSFe9WveWXy2EJB4e.jpg",
+        "character": "Magda Franco",
+        "credit_id": "633dcaf468929c007c6a0cb0",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3744905,
+        "known_for_department": "Acting",
+        "name": "Jorge Falé",
+        "original_name": "Jorge Falé",
+        "popularity": 0.157,
+        "profile_path": "/hKSfURDyyxTOfcxH9oolmPm7vgo.jpg",
+        "character": "",
+        "credit_id": "634d92c7e263bb007c2930a8",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2609915,
+        "known_for_department": "Acting",
+        "name": "João Pedro Bernardes",
+        "original_name": "João Pedro Bernardes",
+        "popularity": 0.001,
+        "profile_path": "/oCuPwxWHnitxMJ7vrkajntwgevN.jpg",
+        "character": "Bruno Freire",
+        "credit_id": "6424484a8de0ae00b652b641",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1062252,
+        "known_for_department": "Directing",
+        "name": "Hugo de Sousa",
+        "original_name": "Hugo de Sousa",
+        "popularity": 0.001,
+        "profile_path": "/ci3b33fezlu1SvWMPMTuwGBUokm.jpg",
+        "credit_id": "6294581c76eecf590d36af6a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3426985,
+        "known_for_department": "Directing",
+        "name": "Iva Areias",
+        "original_name": "Iva Areias",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "6294583b4bfa5400a8dc4cc7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2923096,
+        "known_for_department": "Directing",
+        "name": "Paulo Brito",
+        "original_name": "Paulo Brito",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "62945888a44d0900a98742c0",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "mca",
+        "id": 320235
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/5Gl5dDr32fwl4qhH1UQM9dgRJra.jpg",
+        "id": 17836,
+        "name": "David Copperfield",
+        "original_name": "David Copperfield",
+        "overview": "Charles Dickens'ın annesi öldükten sonra üvey babası tarafından uzağa gönderilen ama inanılmaz bir olumsuzluğa karşı zafer kazanan bir çocuğun unutulmaz yarı otobiyografik hikayesi.",
+        "poster_path": "/73lKcw5bFmSD8lL0XuMbfYO29rO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 15.064,
+        "first_air_date": "1999-12-25",
+        "vote_average": 7.1,
+        "vote_count": 52,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/jVYchPXXpaTzA126g4cHpthCHeG.jpg",
+        "id": 69255,
+        "name": "Ministério do Tempo",
+        "original_name": "Ministério do Tempo",
+        "overview": "A warrior from the XVI century, the first female university student from the XIX century and a nurse from the XXI century, join a secret agency to prevent people to change the Portuguese history by using time-traveling doors",
+        "poster_path": "/lZasr2uOlsZL0ccf4ABPh1fBhCH.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "pt",
+        "genre_ids": [
+          10759,
+          10765
+        ],
+        "popularity": 27.614,
+        "first_air_date": "2017-01-02",
+        "vote_average": 6.2,
+        "vote_count": 8,
+        "origin_country": [
+          "PT"
+        ]
+      },
+      {
+        "backdrop_path": "/A7lmf65wtevJBpVsLGyHXtat622.jpg",
+        "id": 67533,
+        "name": "Massa Fresca",
+        "original_name": "Massa Fresca",
+        "overview": "Maria Miguel, a young, optimistic 21-year-old girl that lost her mother to cancer three years ago and has never met her father, is forced to struggle daily to make a living in a local pizzeria in order to pay a debt. Her life changes dramatically when a wealthy family takes her to live into their house after a bike accident which saved the family's children.",
+        "poster_path": "/alN44dDwHbsFX2QujZpQbB4vIjn.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "pt",
+        "genre_ids": [
+          10766
+        ],
+        "popularity": 84.096,
+        "first_air_date": "2016-04-25",
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "origin_country": [
+          "PT"
+        ]
+      },
+      {
+        "backdrop_path": "/p4GKINJxZoFbPEvX5NKIb4lzaL.jpg",
+        "id": 2458,
+        "name": "CSI: NY",
+        "original_name": "CSI: NY",
+        "overview": "Crime Scene Investigation (Olay Yeri İnceleme) efsanesinin son durağı CSI: NY, çözülmesi güç suç vakalarında araştırmayı yürüten ve son teknolojiler sayesinde en küçük bulguları bile derinlemesine inceleyerek olağanüstü sonuçlara ulaşan bir grup balistik uzmanının maceralarını ekrana taşıyor. Mac Taylor’ın şefliğini yaptığı, teknolojik araçları kuşanmış detektifler adaleti yerine getirmeye kararlı. Olay yeri inceleme detektiflerinin hiç uyumayan New York sokaklarında suçluların peşinden koşmaya ihtiyacı yok. Onlar delil peşinde... Kaçan suçlunun, arkasında bırakacağı bir iz onu içeri atmaları için yetip de artıyor bile. Mac Taylor’ın da dediği gibi: “New York’ta herkes yalan söyleyebilir; ama kanıtların yalan söylediği çok nadirdir.”",
+        "poster_path": "/4TGV4Bb3OPay4cHkQRlfwghv3vC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 221.95,
+        "first_air_date": "2004-09-22",
+        "vote_average": 7.3,
+        "vote_count": 696,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/bhF63Jd90gRYyTHd4y5GCGA2vX6.jpg",
+        "id": 31132,
+        "name": "Regular Show",
+        "original_name": "Regular Show",
+        "overview": "Mordecai ve Rigby sorunlarını ve sıkıcı işlerinin sıradan görevlerini sıra dışı yerlere taşıyan çok yakın iki arkadaştır.",
+        "poster_path": "/88dAGv0ywrLJKCynkH226dBwe0i.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 484.585,
+        "first_air_date": "2010-09-06",
+        "vote_average": 8.6,
+        "vote_count": 2047,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/x4lxFIhhrDI4nWtV8osnYwbGESV.jpg",
+        "id": 1421,
+        "name": "Modern Family",
+        "original_name": "Modern Family",
+        "overview": "İlk ailemizin reisini \"Evli ve Çocuklu\" dizisinde meşhur Al Bundy karakterini oynayan Ed O'Neill, Jay Pritchett karakteriyle canlandırıyor. Jay kendinden çok daha genç bir eşe sahiptir. Gloria adlı genç eşinin bir de Manny adlı oğlu vardır. Jay, Manny'e bir yandan üvey babalık yapmaya çalışırken diğer yandan da genç eşini başkalarına kaptırmamaya çalışmaktadır. İkinci ailemiz ise Phil ve Claire Dunphy çiftidir. Claire, Jay Pritchett'in öz kızı, Phil ise damadıdır. Phil ve Claire çiftinin Haley, Luke ve Alex adın da 3 çocukları vardır. Aile'nin en büyük derdi yaramaz oğulları Luke ve erkek arkadaş sorunları başlayan kızları Haley ve Alex. Üçüncü ailemiz ise gay bir çiftten oluşuyor, Mitchell ve Cameron. Mitchell, Jay Pritchett'in öz oğlu. Bu çiftimizin Vietnam'dan evlat edindikleri Lilly adlı bir bebekleri bulunuyor.",
+        "poster_path": "/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 374.38,
+        "first_air_date": "2009-09-23",
+        "vote_average": 7.9,
+        "vote_count": 2892,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/mQJVtl7SYjNLwjsUZZsITmAxtdU.jpg",
+        "id": 77169,
+        "name": "Cobra Kai",
+        "original_name": "Cobra Kai",
+        "overview": "Amansız düşmanlar, kavgalı iki dövüş okulu, tazekan... Daniel ve Johnny, \"Karate Kid\" serisinin devamı niteliğindeki bu dizide West Valley'deki ezelî rekabeti kızıştırıyor.",
+        "poster_path": "/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          35
+        ],
+        "popularity": 484.596,
+        "first_air_date": "2018-05-02",
+        "vote_average": 8.2,
+        "vote_count": 6521,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/20eIP9o5ebArmu2HxJutaBjhLf4.jpg",
+        "id": 87108,
+        "name": "Çernobil",
+        "original_name": "Chernobyl",
+        "overview": "1986 senesinde Sovyet nükleer santralinde meydana gelen patlama sonrası santral işçileri ve itfaiyeciler faciayı kontrol altına almaya çalışır.",
+        "poster_path": "/87QSOjVXFwXpCcczMLhh2WRJDV5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 86.964,
+        "first_air_date": "2019-05-06",
+        "vote_average": 8.7,
+        "vote_count": 6644,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+        "id": 1399,
+        "name": "Game of Thrones",
+        "original_name": "Game of Thrones",
+        "overview": "Krallık dediğin savaşsız olur mu? En güçlü krallığı kurup, huzuru sağlamış olsan bile bu gücü elinde nasıl koruyacaksın? Burada yanlış yapana yer yok, affetmek yok. Kuzey Krallığının hükümdarı Lord Ned Stark, uzun ve zorlu savaşlardan sonra anayurduna dönüp krallığını bütünlük içerisinde tutmayı başarmıştır. Kral Robert Baratheon ile yıllarca omuz omuza çarpışan ve Baratheon'un kral olmasını sağlayan Ned Stark'ın tek istediği kuzey sınırlarını koruyan krallığında ailesiyle ve halkıyla yaşamaktır. \n\nFakat suyun öte yanında kendi topraklarından ve krallığından kovulduğunu iddia eden Viserys Targaryen , kız kardeşi Daenerys'i barbar kavimlerin başı Han Drogo'ya vererek, güç birliği planları yapmaktadır. Tahtını büyük bir iştahla geri isteyen ama kraliyet oyunlarından habersiz olan Viserys'in planları Kral Baratheon'a ulaşır. Savaş alanında büyük cengaver olan ama ülke ve aile yönetiminde aynı başarıyı tutturamayan Baratheon'un tamamen güvenebileceği ve her yanlış hamlesini arkasından toplayacak yeni bir sağ kola ihtiyacı vardır. Kuzeyin Lordu Ned Stark bu görev için seçilen tek aday isimdir. Kış yaklaşıyor...\n\nHanedan entrikaları, kapılı kapılar ardında dönen oyunlar, birilerinin kuyusunu kazmak için düşmanın koynuna girmekten çekinmeyen kadınlar, kardeşler arası çekişmeler, dışlanmalar... Hepsi tek bir hedef için: Taht kavgası..",
+        "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 723.189,
+        "first_air_date": "2011-04-17",
+        "vote_average": 8.5,
+        "vote_count": 24677,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
+        "id": 119051,
+        "name": "Wednesday",
+        "original_name": "Wednesday",
+        "overview": "Zeki, alaycı ve azıcık içi geçmiş bir kız olan Wednesday Addams, Nevermore Akademisinde yeni dostlar ve düşmanlar edinirken art arda gerçekleşen cinayetleri araştırır.",
+        "poster_path": "/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          9648,
+          35
+        ],
+        "popularity": 130.303,
+        "first_air_date": "2022-11-23",
+        "vote_average": 8.433,
+        "vote_count": 8902,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/nDOIsgCYZqEMvomSR6t9QUIPZJS.jpg",
+        "id": 60622,
+        "name": "Fargo",
+        "original_name": "Fargo",
+        "overview": "Fargo, Noah Hawley tarafından yazılmış ABD yapımı kara mizah, suç filmi türü bir dizidir. Dizi aynı ismi taşıyan 1996 yapımı Coen kardeşler tarafından yönetilmiş ve birçok ödül kazanan Fargo'dan esinlenilmiştir.",
+        "poster_path": "/6U9CPeD8obHzweikFhiLhpc7YBT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 267.536,
+        "first_air_date": "2014-04-15",
+        "vote_average": 8.3,
+        "vote_count": 2801,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/v6mHYpO4NG2O3F1S4YFf08iV01f.jpg",
+        "id": 6357,
+        "name": "Alacakaranlık Kuşağı",
+        "original_name": "The Twilight Zone",
+        "overview": "\"İnsanoğlunun bildiğinin ötesinde beşinci bir boyut vardır. Uzay kadar geniş ve sonsuzluk kadar zamansız bir boyut. Işık ile gölge, bilim ile hurafe arasındaki orta yoldur ve insanın korku çukuru ile bilgisinin zirvesi arasında yer alır. Bu, hayal gücünün boyutudur. Alacakaranlık Kuşağı dediğimiz bir alandır.\"\n\nHer bölümde farklı oyuncularla, farklı konuların işlendiği, bilim kurgu, korku ve gerilim öğelerini barındıran beş sezonluk dizi, bu türdeki dizilerin öncülüğünü yapmaktadır.",
+        "poster_path": "/rgXN8DsraVEjCD9tOWuR8wnpcaB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          9648,
+          18
+        ],
+        "popularity": 269.969,
+        "first_air_date": "1959-10-02",
+        "vote_average": 8.4,
+        "vote_count": 916,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/hmLTIRtVyTHShJl2Wb8LHmvUgJm.jpg",
+        "id": 19885,
+        "name": "Sherlock",
+        "original_name": "Sherlock",
+        "overview": "Arthur Conan Doyle'un ünlü eserinden uyarlanan yapımda, kahramanlarımız Sherlock Holmes ve Dr. John Watson günümüz Londra'sında sıradışı cinayetleri çözmeye çalışıyorlar. Huysuz Sherlock ile insancıl John, maceradan maceraya atılırken, izleyici kendisini aksiyondan komediye uzanan bir koşuşturmacanın içinde buluyor. ",
+        "poster_path": "/cIfGAkpvWD2zxHrXzhv3uptYbyV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 123.518,
+        "first_air_date": "2010-07-25",
+        "vote_average": 8.5,
+        "vote_count": 5639,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/aSGSxGMTP893DPMCvMl9AdnEICE.jpg",
+        "id": 1405,
+        "name": "Dexter",
+        "original_name": "Dexter",
+        "overview": "O, 'ince ruhlu' bir katil. O, Miami'de yaşanan cinayetleri araştıran bir 'kan' inceleme uzmanı. O, dünyaya adalet sağlamak için öldürüyor. Onun adı Dexter ve düzenin adaletini kişisel bakışa göre sağlamak hayatta kalma amacı.\n\nHem işinin ehli bir seri katil hem de sosyal kişilikli bir adam portresi çizen Dexter Morgan, 2006 yılından itibaren kendi ahlak anlayışına göre kötüleri yer yüzünden silmeye devam etti. Yayınlandığı yıldan itibaren onlarca televizyon ödülüne aday gösterilen, Emmy ve Altın Küre ödüllü Dexter, televizyon tarihinin de en sıra dışı karakterlerinden birini ekranlara taşıdı.",
+        "poster_path": "/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 607.416,
+        "first_air_date": "2006-10-01",
+        "vote_average": 8.2,
+        "vote_count": 4534,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9faGSFi5jam6pDWGNd0p8JcJgXQ.jpg",
+        "id": 1396,
+        "name": "Breaking Bad",
+        "original_name": "Breaking Bad",
+        "overview": "Kanserden öleceğini öğrenen bir kimya öğretmeni, ailesinin geleceğini garanti altına almak için metamfetamin üretip satmak üzere eski bir öğrencisiyle kafa kafaya verir.",
+        "poster_path": "/ineLOBPG8AZsluYwnkMpHRyu7L.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 540.297,
+        "first_air_date": "2008-01-20",
+        "vote_average": 8.9,
+        "vote_count": 15145,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/be6mDIMv7cg8duWkcYVnTB8rphO.jpg",
+        "id": 1973,
+        "name": "24",
+        "original_name": "24",
+        "overview": "24, bütün sezonun bir günde geçtiği, 24 bölümün her birinin bir saati kapsadığı ve gerçek zamanlı olarak anlatıldığı özgün bir dizidir.  Keifer Sutherland'in canlandırdığı CTU (Terörle Mücadele Birimi) Ajanı Jack Bauer, cumhurbaşkanlığı suikast girişimleri, siber saldırılar ve termonükleer patlamalar gibi terörist planlarının yanı sıra hükümet ve şirket yolsuzluklarının da önüne geçer.",
+        "poster_path": "/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          80
+        ],
+        "popularity": 255.932,
+        "first_air_date": "2001-11-06",
+        "vote_average": 7.8,
+        "vote_count": 1568,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wyspZaGs7CXceV3Ct7NJhcKNDkn.jpg",
+        "id": 48891,
+        "name": "Brooklyn Nine-Nine",
+        "original_name": "Brooklyn Nine-Nine",
+        "overview": "Jake, işinde iyi, yetenekli ve ekibi içinde yakalama oranı en iyi polistir. Ama öteki yandan ciddiyetten yoksun ve sıkı çalışması gerekmemiş biri olarak oldukça da rahat biridir. Ekibe yeni gelen patron, emrindekilerin “rozetin hakkını vermesi” gerektiğini düşünen biri olarak işe koyulur ve Jake’ten başlar. Bu da komik pek çok olayın yaşanmasına sebebiyet verir. Brooklyn 99, New York’lu bir grup dedektifin ekip içi ve suçlularla yaşadığı komik olaylar üstüne kurulu olacak.",
+        "poster_path": "/qYjAdP0n62dJ9WLl8WGeQj7CGPH.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          80
+        ],
+        "popularity": 473.676,
+        "first_air_date": "2013-09-17",
+        "vote_average": 8.2,
+        "vote_count": 3482,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/pxeqQX4qFQ0cVxPt5SWZENV5BH3.jpg",
+        "id": 456,
+        "name": "The Simpsons",
+        "original_name": "The Simpsons",
+        "overview": "Bu animasyon komedi Springfield'de diziye adını veren aileye odaklanıyor. Baba Homer tipik bir aile babası değil. Nükleer santralde çalışarak ailesine liderlik etmeye çabalıyor ancak çoğu zaman ailesi onu yönetiyor. Sevgi dolu, mavi saçlı aile reisi anne Marge, sorun çıkaran oğlu Bart, çok başarılı kızı Lisa ve bebek Maggie ailenin diğer fertleri.",
+        "poster_path": "/vHqeLzYl3dEAutojCO26g0LIkom.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          16,
+          35
+        ],
+        "popularity": 834.384,
+        "first_air_date": "1989-12-17",
+        "vote_average": 8.015,
+        "vote_count": 10085,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/or7wKwv1IT6LEOktt395O5qi7e.jpg",
+        "id": 60574,
+        "name": "Peaky Blinders",
+        "original_name": "Peaky Blinders",
+        "overview": "Birinci Dünya Savaşı’ndan yeni çıkmış İngiltere’yi, yasadışı faaliyet gösteren çeşitli çeteler sarmıştır. Bunlardan biri de soygunculuk ve at yarışıyla para kazanan Peaky Blinders’dır. Polislere rüşvet yedirerek paçayı kurtaran çete, bir soygunda yanlışlık yapınca başlarına bela olacak yeni bir müfettişin şehre gelmesine vesile olurlar.",
+        "poster_path": "/5aHpODCpUa0kGTPXtiYC0moIPhT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 303.952,
+        "first_air_date": "2013-09-12",
+        "vote_average": 8.5,
+        "vote_count": 10221,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/wbiPjTWpZMIB8ffBq7HvzAph4Ft.jpg",
+        "id": 63174,
+        "name": "Lucifer",
+        "original_name": "Lucifer",
+        "overview": "“Cehennem Lordu” Lucifer Morningstar, Los Angeles Polis Departmanı için suçluları yakalamaktadır. Ancak büyük bir sırrı vardır: Bu çekici adam, aslında yeryüzüne düşmüş bir melektir!",
+        "poster_path": "/cLz75DTxXPPR814YHZ0XhiQuEI2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          10765
+        ],
+        "popularity": 406.998,
+        "first_air_date": "2016-01-25",
+        "vote_average": 8.454,
+        "vote_count": 14893,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

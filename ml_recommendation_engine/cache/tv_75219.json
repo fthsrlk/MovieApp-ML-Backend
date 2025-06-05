@@ -1,0 +1,873 @@
+{
+  "adult": false,
+  "backdrop_path": "/nU5nByGzsPTXm2w4WdMFtE6YU14.jpg",
+  "created_by": [
+    {
+      "id": 52779,
+      "credit_id": "5a4f85629251417a5e00d5c3",
+      "name": "Ryan Murphy",
+      "original_name": "Ryan Murphy",
+      "gender": 2,
+      "profile_path": "/uPojf0hEIpud1huRC9NY7R55OSy.jpg"
+    },
+    {
+      "id": 1224030,
+      "credit_id": "5a4f856b9251417a7300d535",
+      "name": "Brad Falchuk",
+      "original_name": "Brad Falchuk",
+      "gender": 2,
+      "profile_path": "/kVMTpVi2I9UhlcJdBUWcq744Lgg.jpg"
+    }
+  ],
+  "episode_run_time": [
+    43
+  ],
+  "first_air_date": "2018-01-03",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 80,
+      "name": "Suç"
+    },
+    {
+      "id": 10759,
+      "name": "Aksiyon & Macera"
+    }
+  ],
+  "homepage": "https://abc.com/shows/911",
+  "id": 75219,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-05-01",
+  "last_episode_to_air": {
+    "id": 6058277,
+    "name": "17. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-05-08",
+    "episode_number": 17,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 42,
+    "season_number": 8,
+    "show_id": 75219,
+    "still_path": "/mWnPlwAU6a8INEVZB9ITmeA25g9.jpg"
+  },
+  "name": "9-1-1",
+  "next_episode_to_air": {
+    "id": 6058279,
+    "name": "18. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-05-15",
+    "episode_number": 18,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 8,
+    "show_id": 75219,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    },
+    {
+      "id": 19,
+      "logo_path": "/1DSpHrWyOORkL9N2QHX7Adt31mQ.png",
+      "name": "FOX",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 125,
+  "number_of_seasons": 8,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "9-1-1",
+  "overview": "En korkutucu, şok edici ve kalp durdurucu durumlara sürüklenen polis memurlarının, sağlık görevlilerinin ve itfaiyecilerin yüksek basınçlı deneyimlerini keşfedin. Bu acil müdahale ekipleri, en savunmasız olanları kurtarmakla kendi hayatlarındaki sorunları çözme arasında denge kurmaya çalışmalıdır.",
+  "popularity": 76.5752,
+  "poster_path": "/9dNWZPjFWdKo5Avr5JEEzLShLMZ.jpg",
+  "production_companies": [
+    {
+      "id": 19328,
+      "logo_path": "/2AdkrU1av4fDGw0Zaf68XH4YcqC.png",
+      "name": "Ryan Murphy Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 129147,
+      "logo_path": null,
+      "name": "Ream Works",
+      "origin_country": "US"
+    },
+    {
+      "id": 68682,
+      "logo_path": "/x4htMipi2e3QMQuyeLhrwlpxgKf.png",
+      "name": "Brad Falchuk Teley-vision",
+      "origin_country": "US"
+    },
+    {
+      "id": 1556,
+      "logo_path": "/31h94rG9hzjprXoYNy3L1ErUya2.png",
+      "name": "20th Century Fox Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 236166,
+      "logo_path": "/8rFlu5iytnjsciYXZDw90ktllCI.png",
+      "name": "20th Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-01-03",
+      "episode_count": 10,
+      "id": 95607,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/mIatxlSEFCS1nlbFIXFvZ4BYZxZ.jpg",
+      "season_number": 1,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "2018-09-23",
+      "episode_count": 18,
+      "id": 105506,
+      "name": "2. Sezon",
+      "overview": "2. Sezona başlarken, 9-1-1 başkalarını kurtarmak için kendi hayatlarını tehlikeye atan polislerin, sağlık görevlilerinin ve itfaiyecilerin hayatlarını keşfetmeye devam ediyor.",
+      "poster_path": "/y1DevO17Yv07od6crq3QvuuCOeY.jpg",
+      "season_number": 2,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2019-09-23",
+      "episode_count": 18,
+      "id": 127098,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/8KlaWvKKwS14l3Ac2AHH138eykE.jpg",
+      "season_number": 3,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2021-01-18",
+      "episode_count": 14,
+      "id": 168576,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/wP9Ho6PCmmrFHLK1VjSAwZKVKtX.jpg",
+      "season_number": 4,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2021-09-20",
+      "episode_count": 18,
+      "id": 202470,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/pximRFGjGTyjSTPSIxbiTMAut0N.jpg",
+      "season_number": 5,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2022-09-19",
+      "episode_count": 18,
+      "id": 296478,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg",
+      "season_number": 6,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2024-03-14",
+      "episode_count": 10,
+      "id": 366023,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/82SUymgmGhrGkAHlosJNr43UnEC.jpg",
+      "season_number": 7,
+      "vote_average": 8.8
+    },
+    {
+      "air_date": "2024-09-26",
+      "episode_count": 18,
+      "id": 386838,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/9dNWZPjFWdKo5Avr5JEEzLShLMZ.jpg",
+      "season_number": 8,
+      "vote_average": 8.3
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.229,
+  "vote_count": 2603,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9780,
+        "known_for_department": "Acting",
+        "name": "Angela Bassett",
+        "original_name": "Angela Bassett",
+        "popularity": 4.6655,
+        "profile_path": "/fpxpmArsvU2LTQcApvDFikiSETV.jpg",
+        "character": "Athena Grant",
+        "credit_id": "5a15a334c3a3680742015529",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23119,
+        "known_for_department": "Acting",
+        "name": "Peter Krause",
+        "original_name": "Peter Krause",
+        "popularity": 3.9208,
+        "profile_path": "/4p42emuJrU8fFxbBuOhYFFdzmN6.jpg",
+        "character": "Bobby Nash",
+        "credit_id": "5a15a32292514178bf014078",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 33259,
+        "known_for_department": "Acting",
+        "name": "Jennifer Love Hewitt",
+        "original_name": "Jennifer Love Hewitt",
+        "popularity": 7.633,
+        "profile_path": "/l9ggjks77ychiR4Pw6FUkSTux0m.jpg",
+        "character": "Maddie Buckley",
+        "credit_id": "5b8acd06c3a368520001ceb8",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1283871,
+        "known_for_department": "Acting",
+        "name": "Oliver Stark",
+        "original_name": "Oliver Stark",
+        "popularity": 2.2337,
+        "profile_path": "/qJp056KMaMo2dhznchav4Kza2oS.jpg",
+        "character": "Evan Buckley",
+        "credit_id": "5a4e62a0c3a3683b7d00d322",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1192492,
+        "known_for_department": "Acting",
+        "name": "Aisha Hinds",
+        "original_name": "Aisha Hinds",
+        "popularity": 2.3226,
+        "profile_path": "/zk59cqqDmJMFjnjYSC2xOqwp91r.jpg",
+        "character": "Henrietta Wilson",
+        "credit_id": "5a4e62d2c3a3683b8900cbde",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 41561,
+        "known_for_department": "Acting",
+        "name": "Kenneth Choi",
+        "original_name": "Kenneth Choi",
+        "popularity": 2.742,
+        "profile_path": "/3606Uo4fiUtV9Y6eOwpM48qpSgJ.jpg",
+        "character": "Howard 'Chimney' Han",
+        "credit_id": "5a4e62c20e0a26482000e771",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 932091,
+        "known_for_department": "Acting",
+        "name": "Ryan Guzman",
+        "original_name": "Ryan Guzman",
+        "popularity": 2.1019,
+        "profile_path": "/87saYOHLNaijt4P1nsZYDBt0kOD.jpg",
+        "character": "Eddie Diaz",
+        "credit_id": "5b8acd270e0a261d6e01dc98",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1224030,
+        "known_for_department": "Writing",
+        "name": "Brad Falchuk",
+        "original_name": "Brad Falchuk",
+        "popularity": 0.8674,
+        "profile_path": "/kVMTpVi2I9UhlcJdBUWcq744Lgg.jpg",
+        "credit_id": "65a6ad2ea6ddcb0133c0e04d",
+        "department": "Crew",
+        "job": "Creator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52779,
+        "known_for_department": "Creator",
+        "name": "Ryan Murphy",
+        "original_name": "Ryan Murphy",
+        "popularity": 3.1924,
+        "profile_path": "/uPojf0hEIpud1huRC9NY7R55OSy.jpg",
+        "credit_id": "65a6ad4a9bcd0f0126ba8e6e",
+        "department": "Crew",
+        "job": "Creator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 202100,
+        "known_for_department": "Writing",
+        "name": "Tim Minear",
+        "original_name": "Tim Minear",
+        "popularity": 0.9106,
+        "profile_path": "/zOnOJmM0sShVbLgW2jB0j0r6D6U.jpg",
+        "credit_id": "65a6ad17f74f5f013169072b",
+        "department": "Crew",
+        "job": "Creator"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "california",
+        "id": 387
+      },
+      {
+        "name": "police",
+        "id": 6149
+      },
+      {
+        "name": "los angeles, california",
+        "id": 12670
+      },
+      {
+        "name": "police officer",
+        "id": 15090
+      },
+      {
+        "name": "firefighter",
+        "id": 192094
+      },
+      {
+        "name": "emergency",
+        "id": 206529
+      },
+      {
+        "name": "procedural",
+        "id": 207694
+      },
+      {
+        "name": "first responders",
+        "id": 221218
+      },
+      {
+        "name": "emergency services",
+        "id": 224423
+      },
+      {
+        "name": "depressing",
+        "id": 323809
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/k1bsEXwwxSSRNH6mp5y7ys5oKCf.jpg",
+        "id": 89393,
+        "name": "9-1-1: Lone Star",
+        "original_name": "9-1-1: Lone Star",
+        "overview": "New York’ta itfaiye şefi olan Owen Stand, Teksas’ta yeni bir ekip kurması için görevlendirilir. Oğlu ile birlikte Teksas’a yerleşen Owen, bir yandan hayat kurtarmaya çalışırken diğer yandan kişisel problemleriyle uğraşacaktır. 9-1-1 dizisinin spin-off projesi olan dizi, oğlu ile birlikte Austin’e taşınan bir adamın hayatına odaklanıyor. İtfaiye görevlisi olan Owen Strand, oğlu ile birlikte yıllardır yaşadığı New York’tan ayrılarak Austin’e taşınır. Kendisine yeni bir hayat kurmaya çalışan Owen, yeni şehrinde bir yandan zor durumdaki insanlara yardım etmeye çalışırken bir yandan da özel hayatındaki sorunları çözmek için çabalar.",
+        "poster_path": "/BOTITv548LYGB4xRD3rHfbwkqm.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          80
+        ],
+        "popularity": 34.7206,
+        "first_air_date": "2020-01-19",
+        "vote_average": 8.053,
+        "vote_count": 1141,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9oVp0xfKW2igxDEo5wr3JTMQBub.jpg",
+        "id": 74016,
+        "name": "The Resident",
+        "original_name": "The Resident",
+        "overview": "Conrad Hawkins, Chastain Park Hastanesi'nin en iyi doktorlarından biridir. Büyüleyici ve kibirli Conrad, mümkün olduğunda alışılmadık bir yaklaşım benimsemeyi sever ve birinci sınıf stajyer doktorların romantik yanılsamalarını paramparça etmeyi kişisel görevi edinmiştir. Dr. Devon Pravesh, ince ayarlı ahlaki pusulasına göre hareket eden masum bir idealisttir ancak Conrad'in yardımıyla tıp pratiğinin diğer işlere benzediğini, pek de melek sayılmayan hastalar ve hataya düşebilen doktorlarla yapılan bir iş olduğunu anlamaya başlar.",
+        "poster_path": "/2IkYQJlT26yXef2iot7dhRtavSC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 70.3203,
+        "first_air_date": "2018-01-21",
+        "vote_average": 8.413,
+        "vote_count": 1244,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1vwIV2zQ88Dx6PwY7ZFZyamhYhV.jpg",
+        "id": 76773,
+        "name": "Station 19",
+        "original_name": "Station 19",
+        "overview": "Bir grup itfaiyeci canlarını ve yüreklerini tehlikeye atar.",
+        "poster_path": "/3gs9wBsvv1GJ3EzLheh5yGuTQis.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759
+        ],
+        "popularity": 37.2402,
+        "first_air_date": "2018-03-22",
+        "vote_average": 8.217,
+        "vote_count": 1496,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2m1Mu0xPj4SikiqkaolTRUcNtWH.jpg",
+        "id": 79744,
+        "name": "The Rookie",
+        "original_name": "The Rookie",
+        "overview": "Küçük bir kasabada yaşayan kırk yaşındaki John Nolan’ın en büyük hayali polis memuru olmaktır. Yaşadığı ölümcül kazanın ardından hayallerinin peşinden koşan John, yaşadığı kasabayı terk ederek Los Angeles’a gider. Los Angeles Polis Departmanı’nda göreve başlayan John, çalıştığı birimde orta yaş krizi de dahil birçok farklı sorunla boğuşmak zorunda kalır.",
+        "poster_path": "/bL1mwXDnH5fCxqc4S2n40hoVyoe.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          35
+        ],
+        "popularity": 225.5888,
+        "first_air_date": "2018-10-16",
+        "vote_average": 8.524,
+        "vote_count": 2419,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cUh0d1ev6cEQ8KxCe3YQYa8AR50.jpg",
+        "id": 62650,
+        "name": "Chicago Med",
+        "original_name": "Chicago Med",
+        "overview": "Şehrin en patlayıcı hastanesinin ve onu bir arada tutan cesur doktor ekibinin günlük kaosunda duygusal bir heyecan yolculuğu. Acil servisin nabzını artıran pandeminin içinde ateşli ilişkiler kurarak, güncel olaylardan ilham alan benzersiz yeni vakaları ele alacaklar.",
+        "poster_path": "/8UXGfvjKzzkGepXZU43dgpK48oY.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 63.0221,
+        "first_air_date": "2015-11-17",
+        "vote_average": 8.305,
+        "vote_count": 1185,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cFZYtCx54BmFXe4wExts2tPnPHh.jpg",
+        "id": 58841,
+        "name": "Chicago P.D.",
+        "original_name": "Chicago P.D.",
+        "overview": "Chicago Fire'ın uzantısı (Spin-off) olan ve NBC kanalı için çekilmiş bir Amerikan dizisidir. Chicago Polis Departmanı, iki farklı gruptan oluşur: Üniformalı polisler ve İstihbarat Birimi. İstihbarat Birimi, organize suçlar, uyuşturucu kaçakçılığı ve üst düzey cinayetlerle ilgilenirken, Üniformalı Polisler ise şehrin sokak suçlarıyla ve devriye gezmekle meşguldürler.",
+        "poster_path": "/2nHdAW7MUMuXMJO6ev0mFMhEq8P.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 103.0331,
+        "first_air_date": "2014-01-08",
+        "vote_average": 8.4,
+        "vote_count": 2460,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/fgvM6m7gAd8kDAaLF16aflbOSAK.jpg",
+        "id": 1416,
+        "name": "Grey's Anatomy",
+        "original_name": "Grey's Anatomy",
+        "overview": "Grace Hastanesi'ne hoş geldiniz! Burada yeni ve acemi doktorlar için en zorlu doktorluk ihtisas devresi programlarından biri uygulanıyor. Bu acımasız eğitimle başa çıkmak zorunda olan kahramanlarımız ise Meredith, Izzie, George, Alex ve Cristina. Onlar dün öğrenciydiler, bugün ise doktor oldular. Eğer yedi yıl boyunca Grace gibi bir cehennemde başarılı olurlarsa cerrahlığa da hak kazanmış olacaklar. Ancak ihtisas devresinin bu kadar zorlu olması, onlar için yaşamlarının geri kalanının durdurduğu anlamına da gelmiyor. Yani bu grup, aynı zamanda kıskanç sevgililer, ebeveynler, tek gecelik ilişkiler ve ev bulma krizleriyle mücadele etmek zorunda. Üstelik kahramanlarımız, bu stresli ve rekabet dolu ortamda dostluklar da kurmaya çalışıyolar.",
+        "poster_path": "/7jEVqXC14bhfAzSPgr896dMdDv6.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 264.6504,
+        "first_air_date": "2005-03-27",
+        "vote_average": 8.228,
+        "vote_count": 10491,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/rLSe8Qps7A0bwUg6h5CttlHpcKp.jpg",
+        "id": 44006,
+        "name": "Chicago Fire",
+        "original_name": "Chicago Fire",
+        "overview": "Amerika’nın kahramanları; herkes diğer tarafa koşarken düşünmeden tehlikenin içine giren cesur adamlar ve kadınlar. Ancak işin büyük sorumlulukları kişisel bir özveri de gerektiriyor. Büyük şöhretler ve büyük egolar işi başarma ve anlık kararlar verme baskısıyla birleşince ekip üyelerini karşı karşıya getirebiliyor. İçlerinden birinin başına trajik bir olay gelir ve herkes birbirini suçlamaya başlar. Bir boşanmanın eşiğinde olan Matthew Casey (Jesse Spencer, “House M.D.”) işine devam etmeye çalışır ancak Kurtarma Bölüğünün küstah Kelly Severide’ı ile (Taylor Kinney, “The Vampire Diaries”) çatışmaya da devam eder. İkisi de hayatını kaybeden ekip üyeleri için birbirini suçlamaktadır. Ancak acil bir durum gelip çattığında, farklılıklarını ve çatışmalarını bir kenara bırakıp birbirleri için her şeylerini feda edebilecek noktaya gelirler. “Chicago Fire” Amerika’nın en asil mesleklerinden birinin iç yüzünü detaylı bir şekilde gözler önüne seriyor.",
+        "poster_path": "/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 91.8582,
+        "first_air_date": "2012-10-10",
+        "vote_average": 8.4,
+        "vote_count": 2257,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/rK4eB1UGp5KXKVWZYtrBwZ6TEdA.jpg",
+        "id": 58928,
+        "name": "Dracula",
+        "original_name": "Dracula",
+        "overview": "It's the late 19th century, and the mysterious Dracula has arrived in London, posing as an American entrepreneur who wants to bring modern science to Victorian society. He's especially interested in the new technology of electricity, which promises to brighten the night - useful for someone who avoids the sun. But he has another reason for his travels: he hopes to take revenge on those who cursed him with immortality centuries earlier. Everything seems to be going according to plan... until he becomes infatuated with a woman who appears to be a reincarnation of his dead wife.",
+        "poster_path": "/oQUU8LKVl10ejpxJC0qfsSuPZeF.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 7.1955,
+        "first_air_date": "2013-10-25",
+        "vote_average": 7.1,
+        "vote_count": 381,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9hfA9zMsyckwZ8WLMVQYKG8YSwY.jpg",
+        "id": 80350,
+        "name": "New Amsterdam",
+        "original_name": "New Amsterdam",
+        "overview": "Amerika'nın en eski hastanesine yeni atanan direktör Dr. Max Goodwin, mevcut durumu değiştirmek ve hastaların hayatını kurtarmak için harekete geçer.",
+        "poster_path": "/jsH4AeGZn5Q6h314A3OTUHKxHhR.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 33.8792,
+        "first_air_date": "2018-09-25",
+        "vote_average": 8.361,
+        "vote_count": 1020,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/v0rPlh0E82Ac2CmujHvHGgOvGUL.jpg",
+        "id": 75680,
+        "name": "13 Commandments",
+        "original_name": "13 Geboden",
+        "overview": "A serial killer reverts to the 10 commandments in order to kick society a conscience with his crimes.",
+        "poster_path": "/5jvR6hnctpLpyfUpChIvPIzwW3j.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "nl",
+        "genre_ids": [
+          9648,
+          80,
+          18
+        ],
+        "popularity": 1.2921,
+        "first_air_date": "2018-09-17",
+        "vote_average": 6.6,
+        "vote_count": 35,
+        "origin_country": [
+          "BE"
+        ]
+      },
+      {
+        "backdrop_path": "/d0axpGojOqDag5lDa0eNSEtw11l.jpg",
+        "id": 220150,
+        "name": "Pokémon Yeni Ufuklar: Dizi",
+        "original_name": "ポケットモンスター",
+        "overview": "Heyecan dolu bir serüvene atılan iki genç maceracı yeni diyarları keşfediyor, kadim gizemleri çözüyor, daha önce hiç görmedikleri Pokémonlar ve Poké Toplarıyla karşılaşıyor!",
+        "poster_path": "/4Jmdw8Hg6988ogDE9X2b93loPLY.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          10765,
+          10759,
+          10762,
+          35,
+          16
+        ],
+        "popularity": 26.261,
+        "first_air_date": "2023-04-14",
+        "vote_average": 9.1,
+        "vote_count": 83,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/a4doyPOabvQor0RGkWdhVENAR3G.jpg",
+        "id": 1413,
+        "name": "American Horror Story",
+        "original_name": "American Horror Story",
+        "overview": "Cinayet dolu geçmişi olan bir ev, bir akıl hastanesi, bir cadı meclisi, bir ucube gösterisi, bir otel, Roanoke'de bir çiftlik evi, bir tarikat, kıyamet ve bir yaz kampı da dahil olmak üzere farklı karakter ve mekanlara odaklanan bir antoloji korku drama dizisi.",
+        "poster_path": "/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          10765
+        ],
+        "popularity": 36.0429,
+        "first_air_date": "2011-10-05",
+        "vote_average": 8.113,
+        "vote_count": 5742,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/hTABXaEK1VyZRwqwWJlrh2ulD7X.jpg",
+        "id": 76048,
+        "name": "Ellen's Game of Games",
+        "original_name": "Ellen's Game of Games",
+        "overview": "An hour of supersized versions of the most popular and hilariously fun games from The Ellen DeGeneres Show. Contestants, pulled right from the audience, will have to maneuver massive obstacles, answer questions under immense pressure and face a gigantic plunge into the unknown.",
+        "poster_path": "/hlO6hYXPZgdvDZPWwCC2q64D6PD.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764,
+          35,
+          10751
+        ],
+        "popularity": 9.2104,
+        "first_air_date": "2017-12-18",
+        "vote_average": 7.1,
+        "vote_count": 16,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/27qMrYslAN7LGMpXWKHNm0EkVRy.jpg",
+        "id": 91875,
+        "name": "Prodigal Son",
+        "original_name": "Prodigal Son",
+        "overview": "Babası büyük bir suçlu olan ve bir suçlunun etrafında büyüyen Malcolm Bright, suçlu psikolojisini kullanarak bir çok suçun aydınlatılmasına yardımcı olur.",
+        "poster_path": "/1huPpms7f5MwBq37en8lOUnF1Zg.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 14.1708,
+        "first_air_date": "2019-09-23",
+        "vote_average": 8.136,
+        "vote_count": 431,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/p5I7g4WUA20U0qR8Gtz96DPJVIx.jpg",
+        "id": 1615,
+        "name": "Chip'n Dales Rescue Rangers",
+        "original_name": "Chip 'n' Dale Rescue Rangers",
+        "overview": "Chip ve Dale'in ufak ve tuhaf hayvanlardan oluşan bir ekibi vardır. Sadece insanların dünyasını değil, hayvan topluluklarını da yakından izler, her türlü gizemli olayı çözerler. Kurtarma Timi gözden kaçan olaylara bakar.",
+        "poster_path": "/44VE1LaaZq4bZhMDo6Yi29NO4H.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10762,
+          10751
+        ],
+        "popularity": 33.1338,
+        "first_air_date": "1989-03-04",
+        "vote_average": 7.5,
+        "vote_count": 508,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/j4TXQ7OJsLx1Ba6z8XA7is0DcRZ.jpg",
+        "id": 81357,
+        "name": "Dead to Me",
+        "original_name": "Dead to Me",
+        "overview": "Tuhaf bir mizah anlayışına ve öfke sorunlarına sahip bir kadın olan Jen, genç yaşında dul kalan bir kadındır. Jen’in kocası cinayete kurban gitmiştir. Kocasının acısını atlatamayan Jen’in hayatı kendisinden tamamen farklı bir karaktere sahip olan özgür ruhlu bir kadın olan bir kadın ile tanıştığında bambaşka bir hal alır. İkisi arasında güçlü bir arkadaşlık filizlendiğinde Jen’in yaşamında köklü değişiklikler meydana gelir.",
+        "poster_path": "/mAj18PHeACxqcrEus4pD8pksRmB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35,
+          80
+        ],
+        "popularity": 9.5053,
+        "first_air_date": "2019-05-03",
+        "vote_average": 7.252,
+        "vote_count": 543,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/fefZP8b2gdRKn7llsJ6Yk2m4eey.jpg",
+        "id": 1911,
+        "name": "Bones",
+        "original_name": "Bones",
+        "overview": "Dr. Brennan, küçük yaştayken anne ve babası bir anda ortadan kaybolduktan sonra yetimhanelerde büyürken, ebeveyinlerinin ortadan kaybolmasının gizemini çözmek için kendini antropolojiye adamış ve adli tıp antropoloğu olarak Jeffersonian Enstütüsünde çalışmakta olan, kelimenin tam anlamıyla dahi bir doktor ve bir ‘çok satan’ polisiye roman yazarıdır. Uzmanlık alanı kemikler ve kökenleri olan Brennan bu bilgisini Özel Ajan Seeley Booth’un cinayetleri çözmesine yardım etmek için kullanır.",
+        "poster_path": "/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 101.4295,
+        "first_air_date": "2005-09-13",
+        "vote_average": 8.218,
+        "vote_count": 3262,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/nztNvimm6aTeNN0Hm3KJ1B2EFyy.jpg",
+        "id": 90823,
+        "name": "BIA",
+        "original_name": "BIA",
+        "overview": "BIA tells the story of a group of teens who discover, share and develop their talents in the \"Fundom\", a place where they gather to hang out, create and express their art in a fun-filled and casual environment. Bia Urquiza, the main character, is a 16-year-old girl with great imagination and creativity.",
+        "poster_path": "/6jd80sReyYSiXME07CZE4XRk3k9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18,
+          35,
+          10766,
+          10751
+        ],
+        "popularity": 13.6046,
+        "first_air_date": "2019-06-24",
+        "vote_average": 7.8,
+        "vote_count": 337,
+        "origin_country": [
+          "AR",
+          "BR"
+        ]
+      },
+      {
+        "backdrop_path": "/rU6AKtd2wZf0Y3t5cCBr3khGlNN.jpg",
+        "id": 92137,
+        "name": "ZeroZeroZero",
+        "original_name": "ZeroZeroZero",
+        "overview": "Gomorrah dizisinin yaratıcılarından, Roberto Saviano’nun aynı adlı çok satan kitabından uyarlanan Zerozerozero; Amerika’dan Avrupa’ya yapılan bir kokain sevkiyatını anlatıyor. Kokain ticaretinin kontrolü için mücadele eden Meksika kartelleri, Calabria mafyası, yozlaşmış açgözlü iş adamları dahil olmak üzere, birbirinden farklı ama aynı derecede şiddet içeren suçlar üzerinden, güç düşkünü sabıkalı grupların verdikleri savaşın hikayesi; gerçekçi bir dille işleniyor. (18 yaş ve üzeri için uygundur)",
+        "poster_path": "/c0AISx9tx6crOih0KdjQsfAm3Uo.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "it",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 7.7025,
+        "first_air_date": "2020-02-14",
+        "vote_average": 7.774,
+        "vote_count": 435,
+        "origin_country": [
+          "IT"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

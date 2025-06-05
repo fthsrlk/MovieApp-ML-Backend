@@ -1,0 +1,870 @@
+{
+  "adult": false,
+  "backdrop_path": "/11nGiX6hLdexBD4TVUAAVzSIAQy.jpg",
+  "created_by": [
+    {
+      "id": 142107,
+      "credit_id": "5aa3f4a20e0a26075100c624",
+      "name": "Heather Conkie",
+      "original_name": "Heather Conkie",
+      "gender": 1,
+      "profile_path": "/zHe0wd3wGUjFv23XyydAXYNHM99.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2007-10-14",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Aile"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 35,
+      "name": "Komedi"
+    }
+  ],
+  "homepage": "http://www.cbc.ca/heartland/",
+  "id": 14929,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2024-12-01",
+  "last_episode_to_air": {
+    "id": 5650785,
+    "name": "10. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2024-12-01",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 44,
+    "season_number": 18,
+    "show_id": 14929,
+    "still_path": "/vheLddxkYDUz6og688ffWGFlSu1.jpg"
+  },
+  "name": "Heartland",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 23,
+      "logo_path": "/cw5WW6cc9UANam4A6o1BDua9njN.png",
+      "name": "CBC Television",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 269,
+  "number_of_seasons": 18,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_name": "Heartland",
+  "overview": "Amy ve Lou Fleming kardeşler, bir araba kazasında kaybettikleri annelerinin hatırasını yaşatmak için çiftliklerinde bakıma muhtaç ve başıboş atlara bakarlar. İki kızkardeşin ve büyükbabaları Jack Bartlett'ın at çiftliğindeki hayatı hergün yepyeni sürprizlerle doludur.",
+  "popularity": 75.5064,
+  "poster_path": "/uc2gtWczT58BiAUJWFz9P5aZmNF.jpg",
+  "production_companies": [
+    {
+      "id": 22778,
+      "logo_path": "/7LryUALIkPHEG0NnyRGcuRtYVhe.png",
+      "name": "SEVEN24 Films",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2010-12-12",
+      "episode_count": 1,
+      "id": 26466,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/gHCFL011qI6cvsD2rNY11o9ANj6.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2007-10-14",
+      "episode_count": 13,
+      "id": 26462,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/zQWIUOj6PFZyzjVq8xXYhjgWJcp.jpg",
+      "season_number": 1,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2008-10-05",
+      "episode_count": 18,
+      "id": 26463,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/5uKH89oo9DOqbF26hiCy3USJzOH.jpg",
+      "season_number": 2,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2009-10-04",
+      "episode_count": 18,
+      "id": 26464,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/u38vvHsCJyPpMZViwA7yASnYeP3.jpg",
+      "season_number": 3,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2010-09-26",
+      "episode_count": 18,
+      "id": 26465,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/ydBDw1UhgaU2z086rII2fuKQY9Z.jpg",
+      "season_number": 4,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2011-09-18",
+      "episode_count": 18,
+      "id": 26467,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/7RFDDkJDCsE6TE3WmVlHe8rvXUr.jpg",
+      "season_number": 5,
+      "vote_average": 8.4
+    },
+    {
+      "air_date": "2012-09-16",
+      "episode_count": 18,
+      "id": 26468,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/zt6qShLOnK6PfgmzdHicUGnx4jM.jpg",
+      "season_number": 6,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2013-10-06",
+      "episode_count": 18,
+      "id": 26469,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/3Tnc4rVzUd0VAPG9ILEUskRK0zI.jpg",
+      "season_number": 7,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2014-09-28",
+      "episode_count": 18,
+      "id": 62866,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/pGFdlDqLqrukNarjBOxX6pQeitY.jpg",
+      "season_number": 8,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2015-10-04",
+      "episode_count": 18,
+      "id": 67715,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/hJYxs49fIx9zpCG8XVqTLtg2a8Y.jpg",
+      "season_number": 9,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2016-10-02",
+      "episode_count": 18,
+      "id": 80687,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/ck9RkrKoqK351W2EBpZrgD1Cfab.jpg",
+      "season_number": 10,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2017-09-24",
+      "episode_count": 18,
+      "id": 93146,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/6awzMs5eWYqQvXSdAM4DmWPboEK.jpg",
+      "season_number": 11,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2019-01-06",
+      "episode_count": 11,
+      "id": 115588,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/rrt2gLB72gZKrLkOuRsM25GmL7K.jpg",
+      "season_number": 12,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2019-09-22",
+      "episode_count": 10,
+      "id": 132830,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": "/rqEPdn9LGAAtR0MvGw2aEsE9CF1.jpg",
+      "season_number": 13,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2021-01-10",
+      "episode_count": 10,
+      "id": 175915,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": "/uc2gtWczT58BiAUJWFz9P5aZmNF.jpg",
+      "season_number": 14,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2021-10-17",
+      "episode_count": 10,
+      "id": 213809,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": "/cROWuxnnRQDv4D9AJcKdpFCfldp.jpg",
+      "season_number": 15,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2022-10-02",
+      "episode_count": 15,
+      "id": 310828,
+      "name": "Sezon 16",
+      "overview": "",
+      "poster_path": "/d616pIYgEzIFM9acu6y74ZDrN3f.jpg",
+      "season_number": 16,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2023-10-01",
+      "episode_count": 10,
+      "id": 359238,
+      "name": "Sezon 17",
+      "overview": "",
+      "poster_path": "/osAYIqIGtnVpqz4FDdGjCezE11z.jpg",
+      "season_number": 17,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2024-09-29",
+      "episode_count": 10,
+      "id": 421362,
+      "name": "Sezon 18",
+      "overview": "",
+      "poster_path": "/8KznUz7vtMUPPlA5luraIjd8VCD.jpg",
+      "season_number": 18,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.273,
+  "vote_count": 563,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 200920,
+        "known_for_department": "Acting",
+        "name": "Amber Marshall",
+        "original_name": "Amber Marshall",
+        "popularity": 4.1246,
+        "profile_path": "/dt82LTSkSrKNCgqw5Ko6tH1Z8nG.jpg",
+        "character": "Amy Fleming",
+        "credit_id": "5258367a760ee36aaa94401f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1225895,
+        "known_for_department": "Acting",
+        "name": "Graham Wardle",
+        "original_name": "Graham Wardle",
+        "popularity": 1.4859,
+        "profile_path": "/2KVVAncndDYICg11tQialplWOev.jpg",
+        "character": "Ty Borden",
+        "credit_id": "5258367a760ee36aaa9440d9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117431,
+        "known_for_department": "Acting",
+        "name": "Shaun Johnston",
+        "original_name": "Shaun Johnston",
+        "popularity": 3.44,
+        "profile_path": "/8QeE3VvD3Gin7xSkfc24iqcs716.jpg",
+        "character": "Jack Bartlett",
+        "credit_id": "5258367a760ee36aaa94407d",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 29452,
+        "known_for_department": "Production",
+        "name": "Murray Shostak",
+        "original_name": "Murray Shostak",
+        "popularity": 0.4452,
+        "profile_path": null,
+        "credit_id": "6156b501af58cb0044e71813",
+        "department": "Crew",
+        "job": "Creator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1727496,
+        "known_for_department": "Writing",
+        "name": "Lauren Brooke",
+        "original_name": "Lauren Brooke",
+        "popularity": 0.0935,
+        "profile_path": null,
+        "credit_id": "6156b4808741c40063a1158f",
+        "department": "Writing",
+        "job": "Novel"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "based on novel or book",
+        "id": 818
+      },
+      {
+        "name": "marriage",
+        "id": 6038
+      },
+      {
+        "name": "family",
+        "id": 18035
+      },
+      {
+        "name": "death of mother",
+        "id": 157213
+      },
+      {
+        "name": "wild horse",
+        "id": 158266
+      },
+      {
+        "name": "healing process",
+        "id": 162928
+      },
+      {
+        "name": "horse ranch",
+        "id": 177071
+      },
+      {
+        "name": "alberta canada",
+        "id": 181650
+      },
+      {
+        "name": "based on young adult novel",
+        "id": 246466
+      },
+      {
+        "name": "horse training",
+        "id": 254524
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/pj2QRYKvPBY8baCoZI4XYpV2exj.jpg",
+        "id": 68324,
+        "name": "The Lodge",
+        "original_name": "The Lodge",
+        "overview": "Fifteen-year-old Skye moves with her father from the big city to rural Northern Ireland, where they take over a local family owned  hotel called North Star, previously managed by Skye's grandfather. Skye tries to build a new life, but this new life is not free from complications as Skye must navigate through the everyday stresses of life as a teenager and tries to integrate into a group of teenagers who live and work in the hotel.",
+        "poster_path": "/9ujocbPizfuhhkWDvtH2ye3pezo.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          18,
+          9648,
+          10764
+        ],
+        "popularity": 4.1885,
+        "first_air_date": "2016-09-23",
+        "vote_average": 7.5,
+        "vote_count": 32,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
+        "id": 2661,
+        "name": "Kamen Rider",
+        "original_name": "仮面ライダー",
+        "overview": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+        "poster_path": "/fIJNVBa6MJStPiOvhLV69nAdu0e.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          10759,
+          10765,
+          18
+        ],
+        "popularity": 58.5885,
+        "first_air_date": "1971-04-03",
+        "vote_average": 6.4,
+        "vote_count": 86,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/cOQndkhMvznOac1T6JKltjzMX8N.jpg",
+        "id": 78533,
+        "name": "Jersey Shore: Family Vacation",
+        "original_name": "Jersey Shore: Family Vacation",
+        "overview": "The cast of Jersey Shore swore they would always do a vacation together. Now, five years, five kids, three marriages, and who knows how many GTL sessions later, the gang is back together and on vacation in a swanky house in Miami Beach.",
+        "poster_path": "/w9bzs5aESomtSrKi39NKrre5tC7.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 57.4,
+        "first_air_date": "2018-04-05",
+        "vote_average": 7.306,
+        "vote_count": 49,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/yx5MK8W9a7hb4pkgvcC3zlRez78.jpg",
+        "id": 87890,
+        "name": "Party of Five",
+        "original_name": "Party of Five",
+        "overview": "The five Acosta children navigate daily life struggles to survive as a family unit after their parents are suddenly deported back to Mexico.",
+        "poster_path": "/3GhdzcEKitGNt3hhsSv3uOecsGf.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10751
+        ],
+        "popularity": 2.6919,
+        "first_air_date": "2020-01-08",
+        "vote_average": 7.8,
+        "vote_count": 20,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/d5lTgzzY0vs3Or89oc5ik7ONgQA.jpg",
+        "id": 61019,
+        "name": "Street Outlaws",
+        "original_name": "Street Outlaws",
+        "overview": "From a 1969 Chevy Nova to a race-ready farm truck, the vehicles - and their drivers - come in all shapes and sizes and have one thing in common: the need for speed. But according to the STREET OUTLAWS of Oklahoma City - home to one of the largest undercover street racing rings in America – if you’re not on “the list,” you don’t matter. The “list” contains the 10 fastest street-racing cars in Oklahoma City and they are the best of the best. Not only will these guys will do anything -ANYTHING- to get ranked on this list, they’ll do whatever it takes to STAY ranked. Street racing comes first - before family, before friends and before work. The stakes are high and these drivers will put everything on the line to get to top, where there can only be one #1.",
+        "poster_path": "/oQXmhjhmqdArArpnubmtm20d0zX.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 20.6963,
+        "first_air_date": "2013-12-16",
+        "vote_average": 8.0,
+        "vote_count": 64,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qMgtOJM12WdSAacriuT2eZQqLGy.jpg",
+        "id": 227938,
+        "name": "Generación 98'",
+        "original_name": "Generación 98'",
+        "overview": "Seven former schoolmates meet again in an unexpected class reunion, after 25 years without seeing each other.",
+        "poster_path": "/3ADIg3R5rsxO4Fic66n5Q8JJvdc.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          10766,
+          35,
+          18
+        ],
+        "popularity": 22.3985,
+        "first_air_date": "2023-06-05",
+        "vote_average": 6.7,
+        "vote_count": 6,
+        "origin_country": [
+          "CL"
+        ]
+      },
+      {
+        "backdrop_path": "/fwL9QB8froBubReYK4ZeSOBX7HL.jpg",
+        "id": 59960,
+        "name": "Big Brother Canada",
+        "original_name": "Big Brother Canada",
+        "overview": "A Canadian reality television show in which a group of contestants, known as \"house guests\", are sequestered in the Big Brother House, under the surveillance of cameras and microphones, for the chance to win a grand prize of $100,000 by being the last remaining house guest. Each week, the house guests vote to evict one of their own until two house guests remain on finale night. The winner is decided by the last seven evicted house guests, known as the Big Brother Jury.",
+        "poster_path": "/bwnXtwqveuuVnQ8OjDNAmYCHHEX.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 32.2555,
+        "first_air_date": "2013-02-27",
+        "vote_average": 5.3,
+        "vote_count": 35,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/ALDagpwdbiz2430X6ZY3pKwF6e.jpg",
+        "id": 125713,
+        "name": "Monarch",
+        "original_name": "Monarch",
+        "overview": "The Romans, America’s first family of country music, are fiercely talented, but while their name is synonymous with honesty, the very foundation of their success is a lie. When their reign as country royalty is put in jeopardy, Nicky Roman, the heir to the crown, already battling an industry stacked against her, will stop at nothing to protect her family’s legacy.",
+        "poster_path": "/gwF3jnxoRhnp0D1alh5UgopnlW2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 2.6802,
+        "first_air_date": "2022-09-11",
+        "vote_average": 7.1,
+        "vote_count": 20,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ttlsnl6OSpwxaSbr6IRyTONv0t1.jpg",
+        "id": 62760,
+        "name": "Played",
+        "original_name": "Played",
+        "overview": "The Covert Investigations Unit (CIU) risks going undercover to infiltrate and bring down criminal organizations. In this new style of short-term, high-intensity undercover work, each covert “play” is crafted quickly and executed at an even faster pace. Placed into various worlds of crime without a safety net, the cops are in constant danger, as they repeatedly go off the grid. Wearing wires, coaxing confessions, and setting up stings, the cops of the CIU must think quickly, talk smoothly, and rely on pure instinct. They slip in and out of characters so often that, sometimes, they lose track of who they really are.",
+        "poster_path": "/gVVGGXCdkZEZzmIbJj9hOL1HG0F.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          80,
+          18
+        ],
+        "popularity": 7.6722,
+        "first_air_date": "2013-10-03",
+        "vote_average": 6.8,
+        "vote_count": 7,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/xPLeGDdtPde91W1AsxUfuqRoPlq.jpg",
+        "id": 31389,
+        "name": "Republic of Doyle",
+        "original_name": "Republic of Doyle",
+        "overview": "Jake Doyle and his ex-cop father, Malachy, run a Newfoundland detective agency. Their rugged seaside town never lacks for intriguing cases, and the Doyles don't always land on the right side of the law.",
+        "poster_path": "/k6ixXBiyOrsn0nrZ7zPG6dtqAHw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 22.8977,
+        "first_air_date": "2010-01-06",
+        "vote_average": 6.9,
+        "vote_count": 36,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/kMvCycceVvF2QK8aF8Jojs1ey7K.jpg",
+        "id": 5721,
+        "name": "The Secret Life of the American Teenager",
+        "original_name": "The Secret Life of the American Teenager",
+        "overview": "Amy and her friends at Grant High learn to define themselves while they navigate the perilous waters of contemporary adolescence. Between their love triangles, secrets, drama, accusations, gossip, confusion, and scandalous rumors, there's never a dull moment.",
+        "poster_path": "/fWJ8YSIouXXDAWsbY0rDkOl29s2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 75.698,
+        "first_air_date": "2008-07-01",
+        "vote_average": 7.063,
+        "vote_count": 126,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/pmTGMi95Bksh33jlVWPPxvPg5fy.jpg",
+        "id": 32651,
+        "name": "Interns",
+        "original_name": "Интерны",
+        "overview": "Witness the life of four young medical interns who experience various hilarious situations every day with their mentor and the hospital staff.",
+        "poster_path": "/nGRNrIyBo6J0WiuCtlammxtSUoC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ru",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 36.2915,
+        "first_air_date": "2010-03-29",
+        "vote_average": 7.0,
+        "vote_count": 105,
+        "origin_country": [
+          "RU"
+        ]
+      },
+      {
+        "backdrop_path": "/qJUYXYijCL9Q8QkFhjvVBj6dvcM.jpg",
+        "id": 5256,
+        "name": "The Mists of Avalon",
+        "original_name": "The Mists of Avalon",
+        "overview": "The Mists of Avalon is a 2001 miniseries based on the novel of the same name by Marion Zimmer Bradley. It was produced by American cable channel TNT and directed by Uli Edel.",
+        "poster_path": "/iVEbAgsYBVwKH8goTkUVd59fIWB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 3.1939,
+        "first_air_date": "2001-07-14",
+        "vote_average": 6.774,
+        "vote_count": 137,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/hzkX0Mujeika5hBQGxFd8anFEB2.jpg",
+        "id": 39518,
+        "name": "Bakıcım Bir Vampir",
+        "original_name": "My Babysitter's a Vampire",
+        "overview": "Ethan, Benny and fledgling vampire Sarah battle zombies, demons and the other supernatural beasties that regularly threaten their school.",
+        "poster_path": "/bBH0zyyMblIecCWgc4zDGT5KaNA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10759,
+          10765,
+          9648,
+          10762,
+          10751
+        ],
+        "popularity": 16.1409,
+        "first_air_date": "2011-06-27",
+        "vote_average": 8.1,
+        "vote_count": 350,
+        "origin_country": [
+          "US",
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/cvSnGQQOEaRLfnH9cISjjd8cBNy.jpg",
+        "id": 93825,
+        "name": "Saved by the Bell",
+        "original_name": "Saved by the Bell",
+        "overview": "When California governor Zack Morris gets into hot water for closing too many low-income high schools, he proposes they send the affected students to the highest performing schools in the state – including Bayside High. The influx of new students gives the over privileged Bayside kids a much needed and hilarious dose of reality.",
+        "poster_path": "/9iIIRPetuBmOl0gd7KC5dNcK7bX.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 4.3612,
+        "first_air_date": "2020-11-25",
+        "vote_average": 6.9,
+        "vote_count": 116,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/aL87L2x5FhBz2RQQgDVNhmB61O9.jpg",
+        "id": 56402,
+        "name": "Monsuno",
+        "original_name": "Monsuno",
+        "overview": "Monsuno hurtled through space before man existed. Upon burning through the planet's atmosphere and crashing to Earth, they brought chaos and the extinction of the dinosaurs. Over millions of years, the Monsuno essence slowly disappeared as it dropped deeper and deeper below the planet’s surface, until a scientist named Jeredy Suno at the secret government agency found a way to bring them back and control. He took his research and vanished, but not before he left his only son a special gift.",
+        "poster_path": "/pjzubEF1aG0lUDEacek8NUh2IFw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          10765
+        ],
+        "popularity": 14.565,
+        "first_air_date": "2012-02-23",
+        "vote_average": 7.96,
+        "vote_count": 100,
+        "origin_country": [
+          "JP",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gHigNYc478aoFmSCZnbYFkv6wU9.jpg",
+        "id": 95941,
+        "name": "Zoey's Extraordinary Playlist",
+        "original_name": "Zoey's Extraordinary Playlist",
+        "overview": "Kalbinizde bir şarkı varsa, mutlaka aklınızda yer eder ve durmadan çalar. Jane Levy, San Francisco'da akıllı bir bilgisayar kodlayıcısı olarak çalışan Zoey Clarke olarak dizide yer alıyor. Sıradışı bir olaydan sonra, her zaman pop şarkıları yerine podcast'leri tercih eden Zoey, aniden etrafındaki insanların ( ailesinin, iş arkadaşlarının ve tüm yabancıların ) en popüler isteklerini, düşüncelerini ve arzularını popüler şarkılar şeklinde duymaya başlar. İlk başta kendi akıl sağlığını sorgulayan Zoey, müzik konusunda usta olan komşusu Mo'dan bir rehberlik aldıktan ve hasta babasıyla bir görüşme yaptıktan sonra, bu istenmeyen lanetin, dünyaya bağlanmak için inanılmaz bir hediye olabileceğini fark eder.\"",
+        "poster_path": "/xhF6IXlq4HjEqoAqoPTq4YkgHB1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 11.3092,
+        "first_air_date": "2020-01-07",
+        "vote_average": 7.6,
+        "vote_count": 206,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/pU5NQApUxgBef0a0QgDJor1flH1.jpg",
+        "id": 2898,
+        "name": "Small Wonder",
+        "original_name": "Small Wonder",
+        "overview": "When genius cybernetics engineer Ted Lawson brings home his top-secret invention, a Voice Input Child Identicant or V.I.C.I., life becomes anything but mechanical for the Lawson Family. With his boss and his nosy family living next door, Ted, his wife Joan and their son Jamie must pass Vicki off as a real child. It is easy for Joan, who cannot help doting on her like a daughter, but harder for precocious Jamie, who uses Vicki to do his homework and to ward off Harriet, the annoying redheaded girl next door.",
+        "poster_path": "/beaMCxE00CGMSk6MVCcvhZkwqSV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 9.5013,
+        "first_air_date": "1985-09-07",
+        "vote_average": 7.0,
+        "vote_count": 147,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/mTC6WbMEgZ6LLdwRqSDR5NVEslr.jpg",
+        "id": 61865,
+        "name": "Kalp Çağrısı",
+        "original_name": "When Calls the Heart",
+        "overview": "1900'lerin başında şehirdeki sosyetik hayatını geride bırakıp batıya giden bir kadın, Kanada'nın küçük bir maden kasabasında öğretmenlik yapmaya başlar.",
+        "poster_path": "/opLuX2DHs2aSN8SxMvfOM5b8IkV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          37
+        ],
+        "popularity": 68.4993,
+        "first_air_date": "2014-01-11",
+        "vote_average": 8.2,
+        "vote_count": 148,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/w1lf6mHUa9gdLREnUDjwYqJMOaf.jpg",
+        "id": 8962,
+        "name": "3000 Leagues in Search of Mother",
+        "original_name": "母をたずねて三千里",
+        "overview": "Italy is in a deep depression, so to support her family, Marco's  mother goes to Argentina to work as a domestic. But after she writes to  her family that she is sick, her letters stop coming. So Marco decides  to go to Argentina to look for her. He travels across Argentina to find  her, meeting many wonderful people, and having many adventures during  his journey.",
+        "poster_path": "/cNyYHaHxOytT7DFbVhRrHpkqlst.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759,
+          18,
+          10751
+        ],
+        "popularity": 4.2117,
+        "first_air_date": "1976-01-04",
+        "vote_average": 7.7,
+        "vote_count": 142,
+        "origin_country": [
+          "JP"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

@@ -1,0 +1,826 @@
+{
+  "adult": false,
+  "backdrop_path": "/niPndYSAXo5VF0LDZY2ltqwZpZI.jpg",
+  "created_by": [
+    {
+      "id": 2365405,
+      "credit_id": "63f8c3cc46f354009d1b0bc5",
+      "name": "Efrain Aguilar",
+      "original_name": "Efrain Aguilar",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "2009-03-30",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Komedi"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 10766,
+      "name": "Pembe Dizi"
+    }
+  ],
+  "homepage": "",
+  "id": 32209,
+  "in_production": true,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2025-03-06",
+  "last_episode_to_air": {
+    "id": 6019016,
+    "name": "14. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-06",
+    "episode_number": 14,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 12,
+    "show_id": 32209,
+    "still_path": null
+  },
+  "name": "Al Fondo Hay Sitio",
+  "next_episode_to_air": {
+    "id": 6019018,
+    "name": "15. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-07",
+    "episode_number": 15,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 12,
+    "show_id": 32209,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 441,
+      "logo_path": "/ulzkSZHZCttGVEuESQBmhqO4XaA.png",
+      "name": "América Televisión",
+      "origin_country": "PE"
+    }
+  ],
+  "number_of_episodes": 2161,
+  "number_of_seasons": 12,
+  "origin_country": [
+    "PE"
+  ],
+  "original_language": "es",
+  "original_name": "Al Fondo Hay Sitio",
+  "overview": "",
+  "popularity": 4115.72,
+  "poster_path": "/g7cuCCkvoBuSwemTHYz3k0hvvmz.jpg",
+  "production_companies": [
+    {
+      "id": 160763,
+      "logo_path": null,
+      "name": "América Televisión",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PE",
+      "name": "Peru"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-07-30",
+      "episode_count": 11,
+      "id": 428695,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/bVSzIRgIv3MvLDjAMqP2sOUHeMm.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2009-03-30",
+      "episode_count": 189,
+      "id": 112393,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/8RMkhceJYYdJr6ogzDjwlRjlop5.jpg",
+      "season_number": 1,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2010-03-01",
+      "episode_count": 202,
+      "id": 112395,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/u3Xi6g79C94ypIsSsp40g1xfcgY.jpg",
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-02-28",
+      "episode_count": 195,
+      "id": 112396,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/k1NWAjxfU2pxNn7JlI8ZXQARCzB.jpg",
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2012-02-27",
+      "episode_count": 208,
+      "id": 112397,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/xfsMOAC7Rrvnazrc57ydyul29Z2.jpg",
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 198,
+      "id": 112398,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/e7l70tNu5fhYuCVC051vrZVumHv.jpg",
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 204,
+      "id": 112399,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/3rzQjyKzC97L1EmqzyTA9C7fZ7I.jpg",
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 192,
+      "id": 112400,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 193,
+      "id": 112401,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2022-06-22",
+      "episode_count": 136,
+      "id": 302968,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/g7cuCCkvoBuSwemTHYz3k0hvvmz.jpg",
+      "season_number": 9,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2023-01-09",
+      "episode_count": 244,
+      "id": 322767,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/jeF4XBLiKh2bJyjb5LNGCjx3FuU.jpg",
+      "season_number": 10,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2024-04-08",
+      "episode_count": 185,
+      "id": 381333,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/rCZpzt8wJUL4YHa2taRcDlJhBUG.jpg",
+      "season_number": 11,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2025-02-17",
+      "episode_count": 15,
+      "id": 442019,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.8,
+  "vote_count": 220,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 150331,
+        "known_for_department": "Acting",
+        "name": "Yvonne Frayssinet",
+        "original_name": "Yvonne Frayssinet",
+        "popularity": 2.222,
+        "profile_path": "/w1G2IzntXA6D8ibYvx54vPcHwjm.jpg",
+        "character": "Francesca Maldini",
+        "credit_id": "630893783dd126007ed85182",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85235,
+        "known_for_department": "Acting",
+        "name": "Mónica Sánchez",
+        "original_name": "Mónica Sánchez",
+        "popularity": 2.062,
+        "profile_path": "/xbLyuT34q3BQZtBrqfx8MDIsnOH.jpg",
+        "character": "Rosario Flores",
+        "credit_id": "6308917d18864b0083285f0b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147327,
+        "known_for_department": "Acting",
+        "name": "Gustavo Bueno",
+        "original_name": "Gustavo Bueno",
+        "popularity": 1.207,
+        "profile_path": "/8O4JHgFiHJ3hAZV90YExVN0lPcE.jpg",
+        "character": "Don Gilberto",
+        "credit_id": "6326e40893bd69007f648383",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2013437,
+        "known_for_department": "Crew",
+        "name": "Adolfo Chuiman",
+        "original_name": "Adolfo Chuiman",
+        "popularity": 0.562,
+        "profile_path": "/gvMOgo5ta3zveXW86ZqM2M4zSTx.jpg",
+        "character": "Rodolfo Rojas",
+        "credit_id": "630893a2b042280082ea7e76",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1606527,
+        "known_for_department": "Acting",
+        "name": "Magdyel Ugaz",
+        "original_name": "Magdyel Ugaz",
+        "popularity": 1.399,
+        "profile_path": "/b8d38EiTinBJ5TmmDFKA98IRbE5.jpg",
+        "character": "Teresa Collazos",
+        "credit_id": "630892d33dd126007b2e0020",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1971627,
+        "known_for_department": "Acting",
+        "name": "Erick Elera",
+        "original_name": "Erick Elera",
+        "popularity": 0.034,
+        "profile_path": "/bfeSPO6p7A9St1YsXHXPF7fBZlB.jpg",
+        "character": "Joel Gonzales",
+        "credit_id": "6308920e18864b0083285f3e",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3658070,
+        "known_for_department": "Acting",
+        "name": "László Kovács",
+        "original_name": "László Kovács",
+        "popularity": 0.445,
+        "profile_path": "/zFUnEmHeE441M10egrAyWT8njRq.jpg",
+        "character": "Alberto \"Tito\" Lara",
+        "credit_id": "6308932d6e938a007eb61220",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2836805,
+        "known_for_department": "Acting",
+        "name": "David Almandoz",
+        "original_name": "David Almandoz",
+        "popularity": 0.318,
+        "profile_path": null,
+        "character": "Pepe Gonzáles",
+        "credit_id": "630893480398ab00829f7780",
+        "order": 9
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "family history",
+        "id": 3371
+      },
+      {
+        "name": "family holiday",
+        "id": 33694
+      },
+      {
+        "name": "family conflict",
+        "id": 155294
+      },
+      {
+        "name": "comedy routine",
+        "id": 155456
+      },
+      {
+        "name": "pathetic",
+        "id": 281445
+      },
+      {
+        "name": "cliché",
+        "id": 325783
+      },
+      {
+        "name": "disgusted",
+        "id": 325798
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/fSWzsQNtq6fPDXdkgnGEaUSqzpP.jpg",
+        "id": 79043,
+        "name": "Misterio",
+        "original_name": "Misterio",
+        "overview": "",
+        "poster_path": "/ifQhh6zm2t1Yx3A1xXqJwklGN3x.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 52.332,
+        "first_air_date": "2005-04-20",
+        "vote_average": 8.8,
+        "vote_count": 10,
+        "origin_country": [
+          "PE"
+        ]
+      },
+      {
+        "backdrop_path": "/a2qUDQczWVx4JOBK8qXXikEkbw7.jpg",
+        "id": 220237,
+        "name": "Ciro, el ángel del Colca",
+        "original_name": "Ciro, el ángel del Colca",
+        "overview": "",
+        "poster_path": "/y9TZ2sHztFQ4S4QIbgQsvcgFKVH.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          99,
+          18,
+          9648
+        ],
+        "popularity": 12.377,
+        "first_air_date": "2013-12-16",
+        "vote_average": 7.0,
+        "vote_count": 1,
+        "origin_country": [
+          "MX",
+          "PE"
+        ]
+      },
+      {
+        "backdrop_path": "/eSiqj5c8hEn6ZcRPGtJPCmYAGIV.jpg",
+        "id": 77242,
+        "name": "Mary Beard's Ultimate Rome: Empire Without Limit",
+        "original_name": "Mary Beard's Ultimate Rome: Empire Without Limit",
+        "overview": "In this four-part series classicist and historian, Professor Mary Beard draws on her immense scholarship, unique viewpoints and myth-busting approach to Roman history, to give her definitive take on the Roman Empire. How and why did it happen? In search of answers, she takes us to the most telling sites and the most revealing artifacts, and she examines the legacy the Roman Empire has left behind.",
+        "poster_path": "/A94xR9C95iuyGKkGpgp7sfj905f.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 7.527,
+        "first_air_date": "2016-04-27",
+        "vote_average": 7.0,
+        "vote_count": 8,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/s28QU102KixRux8FP2W9WlwOWlK.jpg",
+        "id": 123381,
+        "name": "Uncoupled in Rio",
+        "original_name": "Desjuntados",
+        "overview": "A couple breaks up but is forced to live in the same apartment together for financial reasons.",
+        "poster_path": "/79J57FjKOFWmN9cWHDg7qjs6aqm.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "pt",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 7.917,
+        "first_air_date": "2021-10-01",
+        "vote_average": 5.7,
+        "vote_count": 26,
+        "origin_country": [
+          "BR"
+        ]
+      },
+      {
+        "backdrop_path": "/2vgRG2Qv1W9tBIOPTaP5UKLghLF.jpg",
+        "id": 79868,
+        "name": "Pataclaun",
+        "original_name": "Pataclaun",
+        "overview": "",
+        "poster_path": "/adVWQ0tqhFRtStCRtOUDl5ErTDD.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 55.669,
+        "first_air_date": "1997-11-30",
+        "vote_average": 7.9,
+        "vote_count": 46,
+        "origin_country": [
+          "PE"
+        ]
+      },
+      {
+        "backdrop_path": "/ollH7DfG9E0iEX9MsnuGtZYFmvQ.jpg",
+        "id": 116045,
+        "name": "Hello, Me!",
+        "original_name": "안녕? 나야!",
+        "overview": "Miserable and unsuccessful, a woman thinks she's lost all her spark — until one day, her spunky younger self appears in front of her demanding change.",
+        "poster_path": "/yHqHL1x6y8gyzuPWljpfKe4YakC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          18,
+          10765,
+          35
+        ],
+        "popularity": 13.115,
+        "first_air_date": "2021-02-17",
+        "vote_average": 7.412,
+        "vote_count": 85,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/xuFNUGqEJ4cKNR7eKCowhDruhSd.jpg",
+        "id": 61720,
+        "name": "Violetta",
+        "original_name": "Violetta",
+        "overview": "A musically talented teenager returns to her native Buenos Aires with her father, Herman, after living in Europe for several years, navigating the trials and tribulations of growing up.",
+        "poster_path": "/b3MUGJeKakAZwQa7lNJxTP1pJmD.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          10751,
+          18,
+          35,
+          10766
+        ],
+        "popularity": 358.759,
+        "first_air_date": "2012-05-14",
+        "vote_average": 8.1,
+        "vote_count": 301,
+        "origin_country": [
+          "AR"
+        ]
+      },
+      {
+        "backdrop_path": "/eLNcBfr3212D09aYx0VChy1EpDY.jpg",
+        "id": 61864,
+        "name": "Good Witch",
+        "original_name": "Good Witch",
+        "overview": "Cassie Nightingale, Middleton’s favorite enchantress, and her young-teenage daughter Grace, who shares that same special intuition as her mom, welcome Dr. Sam Radford and his son to town. When the New York transplants move in next to the Grey House, they are immediately spellbound by the mother-daughter duo next door, but Sam and Cassie quickly find they may not see eye to eye. With her signature charm, Cassie attempts to bring everyone together, ensuring all of Middleton is in for new changes, big surprises and, of course, a little bit of magic!\n\n\"Good Witch” is based on Bell’s beloved character Cassie, the raven-haired enchantress who kept audiences spellbound for seven installments of Hallmark Channel's longest-running and highest-rated original movie franchise of all time.",
+        "poster_path": "/FRthbnY1NaoOzBaB66YcMo8h8M.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18,
+          10765
+        ],
+        "popularity": 84.458,
+        "first_air_date": "2015-02-28",
+        "vote_average": 7.7,
+        "vote_count": 260,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/fiKo4nW0aXVJGTwWJXYqTjd103F.jpg",
+        "id": 28379,
+        "name": "The Diary of Anne Frank",
+        "original_name": "The Diary of Anne Frank",
+        "overview": "Five-part adaptation of Anne Frank's famous wartime diaries in which a young teenager and her family go into hiding from the Nazis in wartime Amsterdam.",
+        "poster_path": "/mCMtsNo7dbsi7BZ3vgehZUpC2f5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10768
+        ],
+        "popularity": 26.189,
+        "first_air_date": "2009-01-05",
+        "vote_average": 7.298,
+        "vote_count": 364,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/w0s1EmnmgkBYMSqZIrYgbiRt3j6.jpg",
+        "id": 1558,
+        "name": "Home Improvement",
+        "original_name": "Home Improvement",
+        "overview": "The daily trials and tribulations of handyman Tim Taylor, a TV show host raising three boys with help from his loyal co-host, domineering wife, and unseen neighbor.",
+        "poster_path": "/sa3J2ZXeg7TiziuXGyfz99HdYDS.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 112.933,
+        "first_air_date": "1991-09-17",
+        "vote_average": 7.393,
+        "vote_count": 638,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/emQ8XmFhkdpXb04WMsx7Ve505s4.jpg",
+        "id": 124800,
+        "name": "Love & Death",
+        "original_name": "Love & Death",
+        "overview": "Kendisini seven, işi gücü yerinde, bir kocası, iki çocuğu ve güzel bir evi olan Candy Montgomery, istediği her şeye sahipmiş gibi duran Texaslı bir ev hanımıdır. Peki, neden birlikte kiliseye gittiği komşusunu baltayla vahşice öldürmüştür?",
+        "poster_path": "/8WchbT0UPQeo3PZ6G01fhccYaQB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 34.715,
+        "first_air_date": "2023-04-27",
+        "vote_average": 7.9,
+        "vote_count": 358,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/t3DSoDDJwW67UOCzYk5LmrpUJan.jpg",
+        "id": 15826,
+        "name": "Ölümün Bin Türlü Hali",
+        "original_name": "1000 Ways to Die",
+        "overview": "The science of living and the randomness of death are combined with a dash of Darwinism. Forensic experts, pathologists, toxicologists, herpetologists, and other experts offer eloquent explanations of mortality.",
+        "poster_path": "/yKZYX4D30R7ywy6f5yQDuXagSCr.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          35
+        ],
+        "popularity": 71.712,
+        "first_air_date": "2009-02-08",
+        "vote_average": 7.7,
+        "vote_count": 407,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/hAAQlQfCwRfHWftE3vuHe5nDq5a.jpg",
+        "id": 7821,
+        "name": "El Chavo: The Animated Series",
+        "original_name": "El Chavo Animado",
+        "overview": "El Chavo Animado is a Mexican animated series based on a live-action TV series of the same name, created by Roberto Gómez Bolaños.",
+        "poster_path": "/98rkR62d1SeEi18p5Z46kqlNGzM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          16,
+          35,
+          10762,
+          10751
+        ],
+        "popularity": 179.186,
+        "first_air_date": "2006-10-21",
+        "vote_average": 7.563,
+        "vote_count": 492,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/2iGrwcVatiKNlamz5kfSf4LJO6c.jpg",
+        "id": 433,
+        "name": "Terminator: The Sarah Connor Chronicles",
+        "original_name": "Terminator: The Sarah Connor Chronicles",
+        "overview": "Savaşçı bir anne. Kahraman bir oğul. Koruyucuları gelecekten gelen bir Terminatör. İnsanlığın geleceği onların ellerinde. Sara Conner, oğlunu insan ırkını yok etmek isteyen makinelere karşı yapılan savaş için hazırlarken, hep birlikte geleceği geri almak zordular. Zaman geçiyor. Kıyamet gününü engelleyebilecekler mi?",
+        "poster_path": "/a6ikbXQFChlVjr2G5AFgwMHPtEN.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 117.517,
+        "first_air_date": "2008-01-13",
+        "vote_average": 7.5,
+        "vote_count": 895,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/mLWNrbDZwiNyjf9OB6pYZJ64fid.jpg",
+        "id": 85801,
+        "name": "High School Musical: The Musical: The Series",
+        "original_name": "High School Musical: The Musical: The Series",
+        "overview": "High School Musical: The Musical, East High’da okuyan ve High School Musical adlı performansı sergilemeye hazırlanan bir grup öğrencinin hikayesini konu ediyor. Belgesel tarzındaki dizi, karakterlerin yalnızca sahnede değil, sahnenin dışındaki yaşantılarına da odaklanıyor. Tim Federle ve Oliver Goldstick ikilisinin imzasıyla ekrana taşınan dizinin her bir bölümü, aralarında unutulmaz şarkıların da yer aldığı bir repertuar üzerinden ilerleyecek.",
+        "poster_path": "/2KmbFkZD42I8Q7IZy4WxmZm9W6O.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          35,
+          18
+        ],
+        "popularity": 57.531,
+        "first_air_date": "2019-11-12",
+        "vote_average": 8.0,
+        "vote_count": 780,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/yDPPqVVxEXlinYtvyefXLNWYpM4.jpg",
+        "id": 119243,
+        "name": "iCarly",
+        "original_name": "iCarly",
+        "overview": "Ten years after signing off of one of TV's most iconic shows, Carly, Spencer, and Freddie are back, navigating the next chapter of their lives, facing the uncertainties of life in their twenties.",
+        "poster_path": "/tM4P2RNIIFzFJi7UngNVB80sRCp.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 52.743,
+        "first_air_date": "2021-06-17",
+        "vote_average": 7.659,
+        "vote_count": 783,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/mC4CYdiwANcb5Yq07ih3Uofgdub.jpg",
+        "id": 83639,
+        "name": "Girl from Nowhere",
+        "original_name": "เด็กใหม่",
+        "overview": "A mysterious, clever girl named Nanno transfers to different schools, exposing the lies and misdeeds of the students and faculty at every turn.",
+        "poster_path": "/9hDXqzN5l4lBmEtb8IstXr91k8z.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "th",
+        "genre_ids": [
+          18,
+          9648,
+          80
+        ],
+        "popularity": 74.124,
+        "first_air_date": "2018-10-27",
+        "vote_average": 8.5,
+        "vote_count": 869,
+        "origin_country": [
+          "TH"
+        ]
+      },
+      {
+        "backdrop_path": "/j1csA5FdMJjcmI19Hk3dmoTCfqE.jpg",
+        "id": 21510,
+        "name": "White Collar",
+        "original_name": "White Collar",
+        "overview": "Bir dolandırıcı, sahtekar ve hırsız olan Neal Caffrey, FBI ile üç yıllık bir kedi fare oyunundan sonra yakalanır. Sadece 4 yıllık hapis cezası kalmışken, kız arkadaşı Kate'i aramak için kaçar. Caffrey başlangıçta FBI ajanı Peter Burke tarafından yakalanır ve hapishaneye döner. Serbest bırakılma programı kapsamında Caffrey, FBI'a bir anlaşma önerir. Biraz tereddütten sonra, Burke kabul eder ve böylece Caffrey, Burke'e beyaz yakalı suçluları yakalamak için yardım etmeye başlar.",
+        "poster_path": "/417XNiGvdzCsG9kDnnQJYaBsIrx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 202.161,
+        "first_air_date": "2009-10-23",
+        "vote_average": 8.3,
+        "vote_count": 1406,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/rvZJxD36tKoglL8fXoMMWKGQfM.jpg",
+        "id": 65844,
+        "name": "KONOSUBA - God's blessing on this wonderful world!",
+        "original_name": "この素晴らしい世界に祝福を！",
+        "overview": "İçine kapanık bir oyunsever olan Satou Kazuma'nın hayatı bir trafik kazası sonucu sona erecektir...Öyle olmalıydı, ancak gözünü açtığında karşısında kendisini bir tanrıça olarak tanıtan bir kız gördü. \"Hey, bende senin yararına bir şey var. Başka bir Dünya'ya gitmek ister miydin?Ancak yanında tek bir şey götürebilirsin.\" \"O halde seni götürmek istiyorum.\" İşte bu noktada reankarne olmuş Kazuma'nın Şeytan Kral ile olan mücadelesi başlıyor. Ancak birçoğunuzun düşündüğünün aksine bu yolculuk sürekli bir yiyecek, içecek ve barınak arayışı olacaktır. Kazuma'nın sakin bir hayat sürmek istemesine karşın Tanrıça'nın sürekli çıkardığı problemler kısa süre sonra Şeytan Kral'ın ordusunun dikkatini çekecektir.",
+        "poster_path": "/oRaOeQlwktbGSd2T31FYAcgHZlh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          10759,
+          16,
+          35,
+          10765
+        ],
+        "popularity": 100.359,
+        "first_air_date": "2016-01-14",
+        "vote_average": 8.6,
+        "vote_count": 1314,
+        "origin_country": [
+          "JP"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

@@ -1,0 +1,681 @@
+{
+  "adult": false,
+  "backdrop_path": "/aizbHLcKVWvJ7jxkflJzTu5Z8GE.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    26
+  ],
+  "first_air_date": "2018-08-27",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Pembe Dizi"
+    }
+  ],
+  "homepage": "https://www.france.tv/france-2/un-si-grand-soleil/",
+  "id": 81329,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2025-02-27",
+  "last_episode_to_air": {
+    "id": 5997034,
+    "name": "42. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-06",
+    "episode_number": 42,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 7,
+    "show_id": 81329,
+    "still_path": null
+  },
+  "name": "Un si grand soleil",
+  "next_episode_to_air": {
+    "id": 5997037,
+    "name": "43. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-07",
+    "episode_number": 43,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 7,
+    "show_id": 81329,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 249,
+      "logo_path": "/1ePfTUHHvBlVQxa0Fltx5kWhIs5.png",
+      "name": "France 3",
+      "origin_country": "FR"
+    },
+    {
+      "id": 361,
+      "logo_path": "/b1cFa5FcHHnpejKiPybXSPcqKjT.png",
+      "name": "France 2",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 1598,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Un si grand soleil",
+  "overview": "",
+  "popularity": 3299.616,
+  "poster_path": "/v4r70Z5id8eHFCxrfBOtRgu6wLr.jpg",
+  "production_companies": [
+    {
+      "id": 7131,
+      "logo_path": "/qpFsGoa96SytbWkhtkkpllu5Cch.png",
+      "name": "France Télévisions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 73809,
+      "logo_path": null,
+      "name": "Epeios Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 118346,
+      "logo_path": "/rwBUYPwdQUC9PqWAQAxLK8Fx1p0.png",
+      "name": "France.tv Studio",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-08-27",
+      "episode_count": 260,
+      "id": 107210,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/sHmHhDZgxwj8x63T1p8s9x7Uo2t.jpg",
+      "season_number": 1,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2019-08-26",
+      "episode_count": 210,
+      "id": 134469,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/2VH89jvgAKgVYat5zOXN5c5wZWP.jpg",
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2020-08-31",
+      "episode_count": 309,
+      "id": 163647,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/gEwwZ1HDERQhuYnWTXMRtD2PCLd.jpg",
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2021-11-24",
+      "episode_count": 240,
+      "id": 221036,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/kWyfRKXIbt11xto6f0xlGE375vk.jpg",
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2022-11-21",
+      "episode_count": 271,
+      "id": 317450,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/7UTBGWcEYczraBuPWSBK06Zv6ek.jpg",
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2023-12-07",
+      "episode_count": 260,
+      "id": 368725,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/4Qdj5L704SoNOT5LaFpZPE0IdhY.jpg",
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2025-01-08",
+      "episode_count": 48,
+      "id": 436061,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.846,
+  "vote_count": 117,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 25164,
+        "known_for_department": "Acting",
+        "name": "Mélanie Maudran",
+        "original_name": "Mélanie Maudran",
+        "popularity": 3.356,
+        "profile_path": "/5QbSGo4LLm2HY8vH9tFkKQM8gsQ.jpg",
+        "character": "Claire",
+        "credit_id": "5b642854925141404f0440c3",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1371906,
+        "known_for_department": "Acting",
+        "name": "Moïse Santamaria",
+        "original_name": "Moïse Santamaria",
+        "popularity": 0.568,
+        "profile_path": "/w224ls8qq9U7gjmOpMtjGQQANNQ.jpg",
+        "character": "Manu",
+        "credit_id": "5b8664f4c3a3683f8500b292",
+        "order": 31
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "exuberant",
+        "id": 325813
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/sx3N4xsZDv0zAGfImtruZLYirhs.jpg",
+        "id": 242931,
+        "name": "Pulang Araw",
+        "original_name": "Pulang Araw",
+        "overview": "Red Sun is a family drama that tells stories of courage, sacrifice, and hardships that every Filipino family has. These stories were inspired by the tales of the unsung heroes who defied the odds of World War II and the Japanese occupation of the Philippines.",
+        "poster_path": "/2zbaRzgieKiHYkTGztQUzrAYbgb.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "tl",
+        "genre_ids": [
+          10759,
+          18,
+          10768,
+          10751
+        ],
+        "popularity": 102.763,
+        "first_air_date": "2024-07-29",
+        "vote_average": 7.261,
+        "vote_count": 23,
+        "origin_country": [
+          "PH"
+        ]
+      },
+      {
+        "backdrop_path": "/lqDlYLNA0RdMXDiz70lU8Ib1nwW.jpg",
+        "id": 8590,
+        "name": "Plus belle la vie",
+        "original_name": "Plus belle la vie",
+        "overview": "The daily lives of the inhabitants of \"le Mistral\", an imaginary neighbourhood in the Mediterranean port city of Marseille, where wealthy families cross paths with the less than rich.",
+        "poster_path": "/jmU8HlTDn87xmRqXagcL2swDr8I.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          18,
+          35,
+          80
+        ],
+        "popularity": 2169.799,
+        "first_air_date": "2004-08-30",
+        "vote_average": 4.2,
+        "vote_count": 31,
+        "origin_country": [
+          "FR"
+        ]
+      },
+      {
+        "backdrop_path": "/kR6Btau9V4Yd3sD6q1PbxqJFouC.jpg",
+        "id": 115021,
+        "name": "Dancing with the Stars",
+        "original_name": "Dancing with the Stars",
+        "overview": "",
+        "poster_path": "/idOGdWuhUKIGSweje1H2ZaSNz9G.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "nl",
+        "genre_ids": [
+          10764,
+          10751
+        ],
+        "popularity": 5.226,
+        "first_air_date": "2018-10-19",
+        "vote_average": 9.0,
+        "vote_count": 1,
+        "origin_country": [
+          "BE"
+        ]
+      },
+      {
+        "backdrop_path": "/2RMsWsPnkFWcX6AF1l3mEJvQrZi.jpg",
+        "id": 273557,
+        "name": "Veille sur moi",
+        "original_name": "Veille sur moi",
+        "overview": "Veille sur moi is the story of Maggie (Guylaine Tremblay) and her grandson Zack (Jérôme Hébert), whom she has been taking care of alone for three years, ever since her daughter Corinne (Pascale Renaud-Hébert) entrusted the child to her by disappearing into the fog with Joey (Guillaume Laurin), her toxic partner. But one afternoon, Zack and Maggie see their daily lives completely turned upside down when Corinne returns, now sober and separated from Joey, with the desire to pull herself together and take care of her son. This return, as much feared as desired, will have serious consequences.",
+        "poster_path": "/hHYnGr523mn89QFR0JhlKf7aCb2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 1.855,
+        "first_air_date": "2024-10-10",
+        "vote_average": 10.0,
+        "vote_count": 0,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/l7LRGYJY3NzIGBlpvHpMsNXHbm5.jpg",
+        "id": 218145,
+        "name": "Mom for rent",
+        "original_name": "Mama na prenájom",
+        "overview": "Abandoned by his wife, Martin is lying to his daughter not to be upset. But as Hanka grows, these lies become unbearable. Martin meets Nada unexpectedly, asked her to be a rent-a-mother and all lives are completely changed.",
+        "poster_path": "/fH7PP2Rkdlo414IHvZABBHhtoqd.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "sk",
+        "genre_ids": [
+          10751,
+          35
+        ],
+        "popularity": 179.117,
+        "first_air_date": "2023-01-09",
+        "vote_average": 5.5,
+        "vote_count": 32,
+        "origin_country": [
+          "SK"
+        ]
+      },
+      {
+        "backdrop_path": "/mu3lEhGovyhKHPJzb7HNYtZUCDT.jpg",
+        "id": 206559,
+        "name": "Binnelanders",
+        "original_name": "Binnelanders",
+        "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+        "poster_path": "/3bzECfllho8PphdYujLUIuhncJD.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "af",
+        "genre_ids": [
+          10766
+        ],
+        "popularity": 3212.703,
+        "first_air_date": "2005-10-13",
+        "vote_average": 5.6,
+        "vote_count": 90,
+        "origin_country": [
+          "ZA"
+        ]
+      },
+      {
+        "backdrop_path": "/1bwADy9r61mO4vDhUQ7dwaAxFsN.jpg",
+        "id": 46533,
+        "name": "The Americans",
+        "original_name": "The Americans",
+        "overview": "Soğuk Savaş döneminde 1980'li yılların başlarında, Ronald Reagan'ın ABD başkanlık koltuğuna oturmasının hemen ardındaki zaman diliminde geçecek The Americans; Washington DC'de bir banliyöde çevreye iki Amerikalı görünümü veren, ebeveynlerinin gerçek kimliklerinden habersiz durumdaki iki çocuğa sahip ancak gerçekte iki KGB ajanı olan evli bir çift üzerine odaklanıyor.\n\nAnlaşmalı evliliklerine rağmen, Soğuk Savaş dönemi daha yoğun ve hararetli bir hal aldıkça ikilinin birbirlerine olan bağlılıkları ve duyguları her geçen gün daha gerçekçi bir hal almaya başlayacaktır.\n\nAltın Küre ödülü (1999 en iyi kadın oyuncu drama TV, Felicity) sahibi Keri Russell, Elizabeth Jennings olarak dizinin ana kadın karakterini canlandırırken, Elizabeth'in kocası Phillip Jennings karakterini Matthew Rhys (Brothers &amp; Sisters) canlandıracak. Noah Emmerich (White Collar, The Walking Dead) ise aynı mahalleye taşınan, casuslarımız için bir tehdit olarak olarak beliren ve karşı istihbarat için çalışan FBI ajanı Stan rolüyle dizinin oyuncu kadrosunda yer alan bir diğer isim olacak.",
+        "poster_path": "/w1UBlxEXhbKe8sp0fxFZh7MqTce.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 117.686,
+        "first_air_date": "2013-01-30",
+        "vote_average": 7.9,
+        "vote_count": 937,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/imlTCObfzISogbvcwB1dokoXAIc.jpg",
+        "id": 82452,
+        "name": "Avatar the Last Airbender",
+        "original_name": "Avatar the Last Airbender",
+        "overview": "Avatar olarak bilinen bir çocuk, savaş hâlindeki dünyayı kurtarmak için dört element gücünde de ustalaşmalı ve onu durdurmaya kararlı olan acımasız bir düşmanla savaşmalıdır.",
+        "poster_path": "/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18,
+          10751
+        ],
+        "popularity": 93.533,
+        "first_air_date": "2024-02-22",
+        "vote_average": 7.878,
+        "vote_count": 884,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qmcoEOrTm6BcgR4iO7KBQKE9AKT.jpg",
+        "id": 4614,
+        "name": "NCIS",
+        "original_name": "NCIS",
+        "overview": "Deniz Kuvvetleri Kriminal Araştırma Servisi ya da kısa deyişle \"NCIS\". Bu nefes kesen aksiyon drama, deniz kuvvetlerine ilişkin suçları araştıran özel bir ekibin her daim şaşırtıcı serüvenlerine odaklanıyor. Bol dozda mizahla yoğrulmuş \"NCIS\"ın başrolünde '80'lerin unutulmaz dizilerinden \"Flamingo Yolu\"yla tanıyıp sevdiğimiz Mark Harmon var.\n\nRenkli kişiliklerden oluşan NCIS ekibinin lideri; eşsiz yeteneklere sahip, eski bir deniz topçu astsubayı olan Özel Ajan Leroy Jethro Gibbs. Gibbs'in altında çalışan Özel Ajan Anthony Dinozzo ise eski bir cinayet masası dedektifi. Sezgileri çok kuvvetli. Ekibin diğer üyeleri; yetenekli bir bilimadamı olan adli uzman Abby Sciuto ve bilgisayar dahisi NCIS Özel Ajanı Timoth McGee. Ekibin en büyük yardımcısı ise adli tıp doktoru Dr. Donald \"Ducky\" Mallard. Cinayet ve casusluktan, terörizme ve denizaltı hırsızlığına kadar bu özel ajanlar, deniz kuvvetleriyle bağlantılı her türlü suçu araştırmak için dünyayı dolaşıyor.",
+        "poster_path": "/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          10759
+        ],
+        "popularity": 1034.739,
+        "first_air_date": "2003-09-23",
+        "vote_average": 7.627,
+        "vote_count": 2324,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lNpkvX2s8LGB0mjGODMT4o6Up7j.jpg",
+        "id": 1398,
+        "name": "The Sopranos",
+        "original_name": "The Sopranos",
+        "overview": "New Jersey'deki bir Amerikan-İtalyan mafya ailesinin babası olan Tony Soprano'nun ve Soprano Ailesi'nin diğer fertlerinin hayatlarından kesitler sunan dizi, toplamda 86 bölüm yayınlanmış, kazandığı ödüller ve aldığı olumlu eleştirilerle adını \"gelmiş geçmiş en iyi diziler\" arasına yazdırmıştır.",
+        "poster_path": "/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 368.94,
+        "first_air_date": "1999-01-10",
+        "vote_average": 8.7,
+        "vote_count": 2871,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zW0v2YT74C6tRafzqqBkfSqLAN0.jpg",
+        "id": 52814,
+        "name": "Halo",
+        "original_name": "Halo",
+        "overview": "Tüm zamanların en sevilen video oyunlarından, askeri bilim kurgu Halo’nun uzun süredir beklenen sinematik uyarlaması, oyuncuların sevdiği ve şimdiden simgeleşmiş baş karakter Master Chief’i odağına alıyor. 26'ncı yüzyılda insanlık ile The Covenant olarak bilinen uzaylı tehdidi arasındaki büyük çatışmayı konu edinen yapımda, zengin bir hayal gücüyle oluşturulmuş bir gelecek betimlemesinin aksiyon, macera ve derinlikli karakter anlatılarıyla birleşimi olarak tanımlanıyor.",
+        "poster_path": "/nJUHX3XL1jMkk8honUZnUmudFb9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759
+        ],
+        "popularity": 371.343,
+        "first_air_date": "2022-03-24",
+        "vote_average": 8.275,
+        "vote_count": 2884,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+        "id": 1399,
+        "name": "Game of Thrones",
+        "original_name": "Game of Thrones",
+        "overview": "Krallık dediğin savaşsız olur mu? En güçlü krallığı kurup, huzuru sağlamış olsan bile bu gücü elinde nasıl koruyacaksın? Burada yanlış yapana yer yok, affetmek yok. Kuzey Krallığının hükümdarı Lord Ned Stark, uzun ve zorlu savaşlardan sonra anayurduna dönüp krallığını bütünlük içerisinde tutmayı başarmıştır. Kral Robert Baratheon ile yıllarca omuz omuza çarpışan ve Baratheon'un kral olmasını sağlayan Ned Stark'ın tek istediği kuzey sınırlarını koruyan krallığında ailesiyle ve halkıyla yaşamaktır. \n\nFakat suyun öte yanında kendi topraklarından ve krallığından kovulduğunu iddia eden Viserys Targaryen , kız kardeşi Daenerys'i barbar kavimlerin başı Han Drogo'ya vererek, güç birliği planları yapmaktadır. Tahtını büyük bir iştahla geri isteyen ama kraliyet oyunlarından habersiz olan Viserys'in planları Kral Baratheon'a ulaşır. Savaş alanında büyük cengaver olan ama ülke ve aile yönetiminde aynı başarıyı tutturamayan Baratheon'un tamamen güvenebileceği ve her yanlış hamlesini arkasından toplayacak yeni bir sağ kola ihtiyacı vardır. Kuzeyin Lordu Ned Stark bu görev için seçilen tek aday isimdir. Kış yaklaşıyor...\n\nHanedan entrikaları, kapılı kapılar ardında dönen oyunlar, birilerinin kuyusunu kazmak için düşmanın koynuna girmekten çekinmeyen kadınlar, kardeşler arası çekişmeler, dışlanmalar... Hepsi tek bir hedef için: Taht kavgası..",
+        "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 723.189,
+        "first_air_date": "2011-04-17",
+        "vote_average": 8.5,
+        "vote_count": 24677,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/aSGSxGMTP893DPMCvMl9AdnEICE.jpg",
+        "id": 1405,
+        "name": "Dexter",
+        "original_name": "Dexter",
+        "overview": "O, 'ince ruhlu' bir katil. O, Miami'de yaşanan cinayetleri araştıran bir 'kan' inceleme uzmanı. O, dünyaya adalet sağlamak için öldürüyor. Onun adı Dexter ve düzenin adaletini kişisel bakışa göre sağlamak hayatta kalma amacı.\n\nHem işinin ehli bir seri katil hem de sosyal kişilikli bir adam portresi çizen Dexter Morgan, 2006 yılından itibaren kendi ahlak anlayışına göre kötüleri yer yüzünden silmeye devam etti. Yayınlandığı yıldan itibaren onlarca televizyon ödülüne aday gösterilen, Emmy ve Altın Küre ödüllü Dexter, televizyon tarihinin de en sıra dışı karakterlerinden birini ekranlara taşıdı.",
+        "poster_path": "/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 607.416,
+        "first_air_date": "2006-10-01",
+        "vote_average": 8.2,
+        "vote_count": 4534,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/nDOIsgCYZqEMvomSR6t9QUIPZJS.jpg",
+        "id": 60622,
+        "name": "Fargo",
+        "original_name": "Fargo",
+        "overview": "Fargo, Noah Hawley tarafından yazılmış ABD yapımı kara mizah, suç filmi türü bir dizidir. Dizi aynı ismi taşıyan 1996 yapımı Coen kardeşler tarafından yönetilmiş ve birçok ödül kazanan Fargo'dan esinlenilmiştir.",
+        "poster_path": "/6U9CPeD8obHzweikFhiLhpc7YBT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 267.536,
+        "first_air_date": "2014-04-15",
+        "vote_average": 8.3,
+        "vote_count": 2801,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/20eIP9o5ebArmu2HxJutaBjhLf4.jpg",
+        "id": 87108,
+        "name": "Çernobil",
+        "original_name": "Chernobyl",
+        "overview": "1986 senesinde Sovyet nükleer santralinde meydana gelen patlama sonrası santral işçileri ve itfaiyeciler faciayı kontrol altına almaya çalışır.",
+        "poster_path": "/87QSOjVXFwXpCcczMLhh2WRJDV5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 86.964,
+        "first_air_date": "2019-05-06",
+        "vote_average": 8.7,
+        "vote_count": 6644,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5C3UcPKVcg3rwGBYPE18wXpZMw8.jpg",
+        "id": 106379,
+        "name": "Fallout",
+        "original_name": "Fallout",
+        "overview": "Kıyametten 200 yıl sonra, lüks nükleer sığınakların edepli sakinleri, kendilerini yüzeyde bekleyen inanılmaz karmaşık, oldukça tuhaf ve çok vahşi dünyaya adım atmak zorunda kalıyor.",
+        "poster_path": "/AnsSKR9LuK0T9bAOcPVA3PUvyWj.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 115.839,
+        "first_air_date": "2024-04-10",
+        "vote_average": 8.274,
+        "vote_count": 1755,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7w165QdHmJuTHSQwEyJDBDpuDT7.jpg",
+        "id": 2288,
+        "name": "Prison Break",
+        "original_name": "Prison Break",
+        "overview": "Haksız yere suçlandığını düşündüğü abisini hapishaneden kurtarmak isteyen Michael Scofield, nerdeyse kusursuz bir plan yapar. Lincoln Burrows'a yüklenen suç, kendilerini temize çıkarabilecekleri bir suç değildir. Devletin de işin içine karıştığını öğrendiklerinde kaçmaktan başka çareleri kalmaz. Michael planını uygulamaya sokar ve kaçış başlar.",
+        "poster_path": "/5E1BhkCgjLBlqx557Z5yzcN0i88.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          80,
+          18
+        ],
+        "popularity": 508.496,
+        "first_air_date": "2005-08-29",
+        "vote_average": 8.1,
+        "vote_count": 5325,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/627K48naKH2Y3Rz47Ydra4qktdI.jpg",
+        "id": 103516,
+        "name": "Star Trek: Strange New Worlds",
+        "original_name": "Star Trek: Strange New Worlds",
+        "overview": "Star Trek: The Original Series’in öncesince geçecek olan bir Star Trek prequel’i. Federasyon Gemisi Enterprise (Atılgan)’ın Kaptan Kirk’ten önceki kaptanı olan Kaptan Christopher Pike ve ekibinin hikayelerini konu ediniyor",
+        "poster_path": "/511LZFZJIbxhGjclesSBGQ2ygnE.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765
+        ],
+        "popularity": 71.928,
+        "first_air_date": "2022-05-05",
+        "vote_average": 8.125,
+        "vote_count": 583,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sccDflItNho4OiHkzpiDxB2fUFw.jpg",
+        "id": 1418,
+        "name": "The Big Bang Theory",
+        "original_name": "The Big Bang Theory",
+        "overview": "En büyük zevkleri kuantum fiziğine kafa yormak olan üstün zekalı iki arkadaş, güzel bir kızla karşılaşınca ne yaparlar? The Big Bang Theory, işte o karşılaşma anında gerçekleşen büyük patlama ve sonrasını anlatan bir komedi dizisi. Leonard ve Sheldon adlarındaki iki arkadaşın oturdukları apartmanda yan dairelerine yeni bir komşu taşınır. Adı Penny olan bu komşu güzeller güzeli bir sarışındır. Üstelik maceralı bir ilişkiden daha yeni sapasağlam ayakta çıkmıştır. Penny, zekaları gereğinden fazla ilerlemiş, ancak kızlar konusunda oldukça geri kalmış bu yeni iki komşusuna hayat hakkında öğretebileceği bir şeyleri olduğunu düşünmektedir. Yaşanacak olanlar da zaman içinde onun ne kadar haklı olduğunu gösterecektir. ",
+        "poster_path": "/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 222.02,
+        "first_air_date": "2007-09-24",
+        "vote_average": 7.91,
+        "vote_count": 11545,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/yUOFocKDW7MCC5isx4FK8A68QFp.jpg",
+        "id": 4607,
+        "name": "Lost",
+        "original_name": "Lost",
+        "overview": "Oceanic Havayolları’nın Sidney-Los Angeles seferini yapan 815 sefer sayılı uçağı, okyanus üzerinden geçerken, manyetik bir alana kapılarak büyük bir adaya düşer. Fakat önceleri sıradan, tropik bir ada gibi görünen bu kara parçasının, kazazedelerin her birinin hayatını farklı biçimde değiştireceğinden habersizdirler. \n\nAdada sandıklarından daha fazla zaman mahsur kalan Oceanic Havayolları yolcuları her gün yeni bir sürprizle karşılaştıkları bu gizemli adada hayatta kalabilmek ve ne olursa olsun bir yolunu bulup adadan kurtulmak ya da anakaraya haber ulaştırmak için mücadeleye girerler. Öte yandan hem ormanın derinliklerinden gelen 'Diğer ada sakinleri', kara bir duman, silahlı bir Fransız kadın, üniformalı iskeletler, terkedilmiş ambarlar adadan kurtulmak isteyenleri bekleyen cevaplanmamış sorular... \n\nEn İyi Televizyon Dizisi dalında Altın Küre ve Emmy Ödüllü Lost, 6 sezon boyunca televizyon seyircisini ekran başına kitlemeyi başaran, 2000'li yılların kendi fenomenini yaratamış, en çok izlenen dizilerinden biri. Ayrıca oyuncu kadrosuna da kazandırdığı ödüller ve adaylıklarla da televizyon ve sinema dünyasında yeni yıldızlar yaratan LOST fenomeni, hem teknik ekibi, hem yazar ve yapımcı kadrosuyla en çok konuşulan, üzerine en çok komplo teorisi ve senaryo üretilen televizyon yapımı olma özelliğini koruyor...",
+        "poster_path": "/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          10759,
+          18
+        ],
+        "popularity": 299.858,
+        "first_air_date": "2004-09-22",
+        "vote_average": 7.9,
+        "vote_count": 4443,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

@@ -1,0 +1,981 @@
+{
+  "adult": false,
+  "backdrop_path": "/flychdbFnPuxl4SjMeODR8RmuKr.jpg",
+  "created_by": [
+    {
+      "id": 73094,
+      "credit_id": "5af55319c3a3682a5d005a07",
+      "name": "Michael Hegner",
+      "original_name": "Michael Hegner",
+      "gender": 2,
+      "profile_path": "/tOLCX4UbgwdDR5bEuwOONJayqd2.jpg"
+    },
+    {
+      "id": 2040509,
+      "credit_id": "5af553310e0a26425d003137",
+      "name": "Tommy Andreasen",
+      "original_name": "Tommy Andreasen",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2012-01-11",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animasyon"
+    },
+    {
+      "id": 10759,
+      "name": "Aksiyon & Macera"
+    },
+    {
+      "id": 10765,
+      "name": "Bilim Kurgu & Fantazi"
+    },
+    {
+      "id": 35,
+      "name": "Komedi"
+    }
+  ],
+  "homepage": "",
+  "id": 38693,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2022-10-01",
+  "last_episode_to_air": {
+    "id": 3961776,
+    "name": "30. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2022-10-01",
+    "episode_number": 30,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 11,
+    "season_number": 16,
+    "show_id": 38693,
+    "still_path": "/ydjo1AgIdC3vhsFIjRAzvq4UXv0.jpg"
+  },
+  "name": "Ninjago: Spinjitzu'nun Ustaları",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 56,
+      "logo_path": "/c5OC6oVCg6QP4eqzW6XIq17CQjI.png",
+      "name": "Cartoon Network",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 210,
+  "number_of_seasons": 16,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Ninjago: Masters of Spinjitzu",
+  "overview": "Kai, Jay, Cole ve Zane, yer altı da bulunan Ninjago ülkesini korumak için temel güçlerinde ve Spinjitzu silahlarında ustalaşmalıdır.",
+  "popularity": 168.1796,
+  "poster_path": "/fqb9X4th2p2voefRLqdv1xoZQmC.jpg",
+  "production_companies": [
+    {
+      "id": 4081,
+      "logo_path": "/9Q0SyrhQD61wWbz5KJOkL6tu2mg.png",
+      "name": "LEGO",
+      "origin_country": "DK"
+    },
+    {
+      "id": 148496,
+      "logo_path": "/737HCq9hXnI801p8sSAMJIvCidg.png",
+      "name": "WildBrain Studios",
+      "origin_country": "CA"
+    },
+    {
+      "id": 138646,
+      "logo_path": "/lAxlzYJBdNBfwg96PK2BY3tcoMS.png",
+      "name": "Wil Film ApS",
+      "origin_country": "DK"
+    },
+    {
+      "id": 17277,
+      "logo_path": null,
+      "name": "Wil Film",
+      "origin_country": ""
+    },
+    {
+      "id": 7899,
+      "logo_path": "/uYMD8NPD7Eph0cFd1WJZJrot1Fb.png",
+      "name": "Cartoon Network Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "SG",
+      "name": "Singapore"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2011-01-13",
+      "episode_count": 87,
+      "id": 50279,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/hGkNJ4OyTm7BuYREhClhtLYS51g.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2012-01-11",
+      "episode_count": 13,
+      "id": 50276,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/bxFKGScDwICnIuQLOlsUKqJIaqL.jpg",
+      "season_number": 1,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2012-07-18",
+      "episode_count": 13,
+      "id": 50277,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/x2rQWvbV9RfvzJFrr7BaCFQgpeC.jpg",
+      "season_number": 2,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2014-01-29",
+      "episode_count": 8,
+      "id": 50278,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/g7tjnOL2QtTPtHepdQVSJKzdiQ.jpg",
+      "season_number": 3,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2015-02-23",
+      "episode_count": 10,
+      "id": 65126,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/3x7qmxJakJcS3hZYiB1Cerdx2W9.jpg",
+      "season_number": 4,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2015-06-29",
+      "episode_count": 10,
+      "id": 68196,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/8HaEaEE6Ybv1LnYT1sWicM51CSG.jpg",
+      "season_number": 5,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2016-06-09",
+      "episode_count": 10,
+      "id": 74336,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/k2XpFAhZNk1qGnLrpbgx0pwDwgx.jpg",
+      "season_number": 6,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "2017-05-15",
+      "episode_count": 10,
+      "id": 87983,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/tqqACYnGBldnxWIP5cuDP0zQbyY.jpg",
+      "season_number": 7,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2018-04-16",
+      "episode_count": 10,
+      "id": 98209,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/unD5UVJd1uzRrWVYaEsDMQu1kJy.jpg",
+      "season_number": 8,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2018-09-03",
+      "episode_count": 10,
+      "id": 108805,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/dQvxV1bWZPCV7eDb4exCZJzSz9I.jpg",
+      "season_number": 9,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2019-01-19",
+      "episode_count": 4,
+      "id": 120394,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/8ImFkqxDpwVG9zuBSEtqQKVbfD0.jpg",
+      "season_number": 10,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2019-06-22",
+      "episode_count": 30,
+      "id": 125410,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/kX69V3kgrlLaK7BsmPpwOsXSv23.jpg",
+      "season_number": 11,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "2020-07-19",
+      "episode_count": 16,
+      "id": 155259,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/nGiDqem70wUqUmkXAujJVyw9kjH.jpg",
+      "season_number": 12,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2020-07-06",
+      "episode_count": 16,
+      "id": 162041,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": "/wEr7g2gjemi38bI4iDvcofBFz17.jpg",
+      "season_number": 13,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2021-03-07",
+      "episode_count": 4,
+      "id": 180199,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": "/gYOc48nkif1sSm6FBplwI2FDdn6.jpg",
+      "season_number": 14,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2021-04-04",
+      "episode_count": 17,
+      "id": 190193,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": "/4RmdFDUwd56YgNmTspHtmQ7sn8W.jpg",
+      "season_number": 15,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2022-05-20",
+      "episode_count": 30,
+      "id": 292168,
+      "name": "Sezon 16",
+      "overview": "",
+      "poster_path": "/9mSyCrFDhvECUG56eRO4PvkfIxr.jpg",
+      "season_number": 16,
+      "vote_average": 9.6
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.895,
+  "vote_count": 727,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1240645,
+        "known_for_department": "Acting",
+        "name": "Vincent Tong",
+        "original_name": "Vincent Tong",
+        "popularity": 1.9264,
+        "profile_path": "/lpgVwZPewejru3WcgQEBMNWm4ze.jpg",
+        "character": "Kai (voice)",
+        "credit_id": "5258edbc760ee346618d303a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 106776,
+        "known_for_department": "Acting",
+        "name": "Sam Vincent",
+        "original_name": "Sam Vincent",
+        "popularity": 1.8453,
+        "profile_path": "/eJadsFcztqQZQIKzL5cMyasi1oa.jpg",
+        "character": "Lloyd Garmadon (voice)",
+        "credit_id": "5f5cec367d41aa0035e6086c",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 63566,
+        "known_for_department": "Acting",
+        "name": "Michael Adamthwaite",
+        "original_name": "Michael Adamthwaite",
+        "popularity": 2.1597,
+        "profile_path": "/J9R1DkSkmGDioXJmHIMg5Vt8pb.jpg",
+        "character": "Jay (voice)",
+        "credit_id": "5258edbc760ee346618d3000",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1221529,
+        "known_for_department": "Acting",
+        "name": "Brent Miller",
+        "original_name": "Brent Miller",
+        "popularity": 0.8391,
+        "profile_path": "/1ZNgnmIs3A5b2fSGwZhL5mVeMvq.jpg",
+        "character": "Zane (voice)",
+        "credit_id": "5258edbc760ee346618d2fc6",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52718,
+        "known_for_department": "Acting",
+        "name": "Andrew Francis",
+        "original_name": "Andrew Francis",
+        "popularity": 2.1252,
+        "profile_path": "/lvmgsIzCobciX8vDAX8wyBVDryq.jpg",
+        "character": "Cole (voice)",
+        "credit_id": "627b2b794b9bae00675e1819",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 94478,
+        "known_for_department": "Acting",
+        "name": "Kelly Metzger",
+        "original_name": "Kelly Metzger",
+        "popularity": 1.1213,
+        "profile_path": "/stE2VTi1FefZRtNTCNb0fHunuQy.jpg",
+        "character": "Nya (voice)",
+        "credit_id": "5258edbc760ee346618d30e8",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52283,
+        "known_for_department": "Acting",
+        "name": "Paul Dobson",
+        "original_name": "Paul Dobson",
+        "popularity": 1.5434,
+        "profile_path": "/huQqiIHgnswYR9x5V1e46FTYfSI.jpg",
+        "character": "Wu (voice)",
+        "credit_id": "5258edbc760ee346618d2fe4",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52284,
+        "known_for_department": "Acting",
+        "name": "Mark Oliver",
+        "original_name": "Mark Oliver",
+        "popularity": 1.1108,
+        "profile_path": "/1JsuYa1mJARLdpQ9NEzT1ZNPmXI.jpg",
+        "character": "Garmadon (voice)",
+        "credit_id": "5f5ced536af8f800334a0d87",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1003944,
+        "known_for_department": "Writing",
+        "name": "Dan Hageman",
+        "original_name": "Dan Hageman",
+        "popularity": 1.4004,
+        "profile_path": "/lBxhgOeT2a7xhwVfY17R9Tw1sob.jpg",
+        "credit_id": "5af553879251415154002c68",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1003945,
+        "known_for_department": "Writing",
+        "name": "Kevin Hageman",
+        "original_name": "Kevin Hageman",
+        "popularity": 1.725,
+        "profile_path": "/b0YwR5lONqW95mdUqqlYZNQiMn9.jpg",
+        "credit_id": "5af553970e0a264248003314",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2537750,
+        "known_for_department": "Sound",
+        "name": "Michael Kramer",
+        "original_name": "Michael Kramer",
+        "popularity": 0.3835,
+        "profile_path": null,
+        "credit_id": "676f36cc2c9097b26661706e",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 929954,
+        "known_for_department": "Sound",
+        "name": "Jay Vincent",
+        "original_name": "Jay Vincent",
+        "popularity": 0.2095,
+        "profile_path": null,
+        "credit_id": "676f36d71efc2434cf12c266",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "martial arts",
+        "id": 779
+      },
+      {
+        "name": "ninja",
+        "id": 10278
+      },
+      {
+        "name": "based on toy",
+        "id": 10542
+      },
+      {
+        "name": "fighting",
+        "id": 14955
+      },
+      {
+        "name": "lego",
+        "id": 210090
+      },
+      {
+        "name": "teamwork",
+        "id": 285485
+      },
+      {
+        "name": "elemental powers",
+        "id": 290764
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/6eWhYRuA381fHMXzovXjo3sEtkS.jpg",
+        "id": 65858,
+        "name": "LEGO Nexo Knights",
+        "original_name": "LEGO Nexo Knights",
+        "overview": "The adventure takes place in the futuristic Kingdom of Knighton. It focuses on the Nexo Knights as they journey to defeat Jestro the evil jester, the Book of Monsters, and their lava monster army. Clay leads the Nexo Knights, which include Macy, Lance, Aaron, and Axl. Together, under their mentor Merlok 2.0, they band together to defeat Jestro.",
+        "poster_path": "/d0e5dJ2FQhlwEhFX4cB0ijp5SMd.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          10762,
+          35,
+          10751
+        ],
+        "popularity": 21.2592,
+        "first_air_date": "2015-12-13",
+        "vote_average": 7.067,
+        "vote_count": 30,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/eo6NyuIw5WnKX5MQhg6wzJBsGJh.jpg",
+        "id": 212989,
+        "name": "LEGO Ninjago: Ejderhaların Yükselişi",
+        "original_name": "LEGO Ninjago: Dragons Rising",
+        "overview": "Farklı dünyalardan iki genç, ejderhaları yaşam güçlerini kötülük için kullanmak isteyen kötü karakterlerden korumak için yeni keşfettikleri Ninja güçlerinden faydalanır.",
+        "poster_path": "/5q3tfPVAcL9AlFcb8HXsOdHEtJR.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762,
+          10759
+        ],
+        "popularity": 46.6874,
+        "first_air_date": "2023-06-01",
+        "vote_average": 8.158,
+        "vote_count": 76,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/3yn2TeZ2oTIlXa2C61meThWn05y.jpg",
+        "id": 2437,
+        "name": "Pocoyo",
+        "original_name": "Pocoyo",
+        "overview": "Pocoyo, the curious toddler dressed all in blue, joins Pato the yellow duck, Elly the pink elephant, Loula the dog, Sleepy Bird and many others in learning new things and having fun.",
+        "poster_path": "/1fmaC3t96Napg7TR9SsfOX8q11X.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762,
+          10751
+        ],
+        "popularity": 22.2293,
+        "first_air_date": "2005-05-10",
+        "vote_average": 7.009,
+        "vote_count": 449,
+        "origin_country": [
+          "ES",
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/mIwxdw9onfxmmIR3vz57wWvyUwN.jpg",
+        "id": 90808,
+        "name": "Gremlins: Secrets of the Mogwai",
+        "original_name": "Gremlins: Secrets of the Mogwai",
+        "overview": "Set in 1920s Shanghai, ten-year-old Sam and 12-year-old Elle return the Mogwai Gizmo back home to the lush and perilous Valley of Jade.",
+        "poster_path": "/fkkBQsWgRX7OFxzV0jtCM88a0Xq.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          35,
+          16,
+          10751
+        ],
+        "popularity": 11.1466,
+        "first_air_date": "2023-05-23",
+        "vote_average": 8.067,
+        "vote_count": 30,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7qSA0x0cmGf1ye42h1TJaSysl7E.jpg",
+        "id": 46974,
+        "name": "Max Steel",
+        "original_name": "Max Steel",
+        "overview": "Max Steel is a science fiction–comedy, CGI–animated series. It is a re-imagining of its predecessor of the same name, as well as being based on the Mattel action-figure also of the same name. Max Steel premiered on March 25, 2013 on Disney XD.",
+        "poster_path": "/fuLkBrqnA5hzGkRoSN4lbVbXK0x.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "popularity": 11.3779,
+        "first_air_date": "2013-03-25",
+        "vote_average": 7.8,
+        "vote_count": 73,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/icggLDfQL2fi3eNS5hhHTaBseYB.jpg",
+        "id": 73673,
+        "name": "LEGO Elves: Secrets of Elvendale",
+        "original_name": "LEGO Elves: Secrets of Elvendale",
+        "overview": "Armed with a powerful amulet, a teenage guardian is tasked with protecting her little sister -- and all of Elvendale. Based on the popular web series.",
+        "poster_path": "/yvq2hsm66dvDs4qTevZiDd3ij0t.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762,
+          10765,
+          10751
+        ],
+        "popularity": 4.1243,
+        "first_air_date": "2017-09-01",
+        "vote_average": 7.3,
+        "vote_count": 31,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vyPxBjOe6nF1xU0mwheK2mc3MMd.jpg",
+        "id": 66006,
+        "name": "Web of Lies",
+        "original_name": "Web of Lies",
+        "overview": "The internet is no longer a place you log on and visit; it's where you live. The home of true crime is now online. The internet is the Wild West. And if you're not careful, you too could be caught in a Web of Lies.",
+        "poster_path": "/cJ6fVEbO3n2npcuzHXfM87sgyTs.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          99
+        ],
+        "popularity": 9.1052,
+        "first_air_date": "2014-01-08",
+        "vote_average": 8.0,
+        "vote_count": 26,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/mQYdERQ3flDX5s1jb7Jc2KHrK8C.jpg",
+        "id": 93219,
+        "name": "The Movies That Made Us",
+        "original_name": "The Movies That Made Us",
+        "overview": "Bu gişe rekortmeni filmler, bizi bir araya getirdi ve bize güzel anlar yaşattı. Bu filmleri ortaya çıkaran oyuncular, yönetmenler ve sektörün içinden isimlerle tanışın.",
+        "poster_path": "/1EpwMUmY6BhF1r082c3SYzR1rFP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 8.4138,
+        "first_air_date": "2019-11-29",
+        "vote_average": 7.188,
+        "vote_count": 117,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uWBqLLeEY8rxJEw8U4CDUv1OLmC.jpg",
+        "id": 64572,
+        "name": "Alviiin!!! Ve Sincaplar",
+        "original_name": "Alvinnn!!! and The Chipmunks",
+        "overview": "Babaları insan olan amatör genç müzisyen sincap ve kardeşleri, türlü haylazlıklarının ardından hayata dair kıymetli dersler alır.",
+        "poster_path": "/9s8yTj7UzE45qMFr3BLHGDq7nwG.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10751,
+          10762
+        ],
+        "popularity": 55.4298,
+        "first_air_date": "2015-08-03",
+        "vote_average": 6.976,
+        "vote_count": 42,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qmSyzVATB6r71yEsFSiraMP9QPg.jpg",
+        "id": 57780,
+        "name": "LEGO Legends of Chima",
+        "original_name": "LEGO Legends of Chima",
+        "overview": "Laval the Lion and Cragger the Crocodile are best friends who live in the mystical land of Chima. This all changes after an innocent escapade when Cragger gets his first experience with chi, a sacred resource important to Chima's delicate balance which gives its user awesome power.",
+        "poster_path": "/bkq3jXxyXVIojL0oxvLUGUEz9y1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16
+        ],
+        "popularity": 11.3502,
+        "first_air_date": "2013-01-16",
+        "vote_average": 6.712,
+        "vote_count": 26,
+        "origin_country": [
+          "DK"
+        ]
+      },
+      {
+        "backdrop_path": "/sQ9dqz7i2i1vjBdhERgbWJpEh6c.jpg",
+        "id": 22824,
+        "name": "If I See You in my Dreams",
+        "original_name": "夢で逢えたら",
+        "overview": "Virgin 24 year-old Fuguno Masuo is desperately in love with Shiozaki Nagisa, a 22 year-old kindergarten teacher. He is popular among the women, but he truly only has eyes for Nagisa. However, he is a clumsy, thickheaded and gentle man and gets into trouble a lot. He ends up in situations where it is easy for poor Nagisa to misinterpret what really happened.",
+        "poster_path": "/A3lIh4SoN1aKN1Sl4Oy7fLTUZ3Z.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16
+        ],
+        "popularity": 1.3402,
+        "first_air_date": "1998-11-30",
+        "vote_average": 6.6,
+        "vote_count": 26,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/mgXy1EQQekE4FOAP1KhyF55jrHq.jpg",
+        "id": 139434,
+        "name": "7 vs. Wild",
+        "original_name": "7 vs. Wild",
+        "overview": "Abandoned in the swedish wilderness seven candidates struggle to survive for seven days. Everybody has to get along with seven previously selected items and the clothes they are wearing. Who remains after seven days and collected the most points in the challenges of the day wins. No camera crew, no contact to the outer world, complete isolation.",
+        "poster_path": "/mOpZaVHuTFOPVYL7uZXexdpHXWz.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          10764,
+          99
+        ],
+        "popularity": 13.2811,
+        "first_air_date": "2021-11-06",
+        "vote_average": 8.4,
+        "vote_count": 23,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "backdrop_path": "/3kkTGvxNgO34q2aw3VKXAY3xtxP.jpg",
+        "id": 67175,
+        "name": "Prenses Elena",
+        "original_name": "Elena of Avalor",
+        "overview": "Prenses Elena, büyülü krallığı kötü kalpli büyücüden kurtaran, kendine güvenen ve iyi kalpli bir genç kızdır. Kraliçe olmak için yeterince büyüyene kadar, aile ve arkadaşlarının yardımıyla krallığı Veliaht Prenses olarak yönetmesi gerekir. Prenses Elena, Elena'nın zamanla cesur, zorluklara karşı dayanıklı ve merhametli bir kraliçe oluşunu anlatan büyülü bir maceradır.",
+        "poster_path": "/se8bejjwLz56qm1gOCLpVjK8iVk.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762
+        ],
+        "popularity": 56.7636,
+        "first_air_date": "2016-07-22",
+        "vote_average": 6.635,
+        "vote_count": 74,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/nsV1sHcmzNprimh8dvDC7BZK0u7.jpg",
+        "id": 88754,
+        "name": "LEGO Masters",
+        "original_name": "LEGO Masters",
+        "overview": "Eight pairs of Brick heads are pitted against each other in a quest to impress with their creativity, design and flair, driven by their unparalleled passion for the possibilities that will start with a single LEGO brick.",
+        "poster_path": "/ojWyyIpM998nMzjBXfJElaxcuIy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          35
+        ],
+        "popularity": 2.2322,
+        "first_air_date": "2019-04-28",
+        "vote_average": 7.7,
+        "vote_count": 22,
+        "origin_country": [
+          "AU"
+        ]
+      },
+      {
+        "backdrop_path": "/2xheJyiM5nlHA1f21iyaLLGgpIq.jpg",
+        "id": 99462,
+        "name": "Ruthless Aggression",
+        "original_name": "Ruthless Aggression",
+        "overview": "For the first time ever, hear the true stories from those who lived it, and witness the emergence of an entire new generation of Superstars, who would change WWE forever. WWE Ruthless Aggression will feature brand-new interviews with Cena, Batista, Orton, Triple H, Kurt Angle, Mark Henry, Becky Lynch, Kevin Owens, The Miz, Paul Heyman, Bruce Prichard and many more, giving WWE fans firsthand accounts of events that transpired in front of, and behind, the camera. Each episode is also packed with rare and never-before-seen footage, providing unprecedented access to the Ruthless Aggression Era.",
+        "poster_path": "/kKtOkvEGJOwRwWgcU6HFDxk5HV0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 3.2045,
+        "first_air_date": "2020-02-16",
+        "vote_average": 7.5,
+        "vote_count": 10,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/mokTcHBHCoyiRdROF2tsmbnojfz.jpg",
+        "id": 18035,
+        "name": "Kerwhizz",
+        "original_name": "Kerwhizz",
+        "overview": "Three teams answer ker-razy questions to win “Mods” to add to their Racing Pods. They then race two madcap laps round a unique Raceworld.",
+        "poster_path": "/BeIENldGUYsQ7vHexTfgxSdm1k.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762
+        ],
+        "popularity": 1.2159,
+        "first_air_date": "2008-11-07",
+        "vote_average": 8.8,
+        "vote_count": 5,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/kielAPjlgSrBuytR5ZfcOAEjHzR.jpg",
+        "id": 79385,
+        "name": "Kibaoh Klashers",
+        "original_name": "Kibaoh Klashers",
+        "overview": "Young beetle Dylan and his friends Hailey and Ollie team up to compete against tough opponents in the exciting, high-octane sport of Battle Blading.",
+        "poster_path": "/ri7x8Kpy3BGlhLPxESC9VnGltF.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762,
+          10765
+        ],
+        "popularity": 3.4158,
+        "first_air_date": "2017-02-01",
+        "vote_average": 7.0,
+        "vote_count": 7,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/hwiPMramakgIA0fId3PL84UtExi.jpg",
+        "id": 48567,
+        "name": "Say Yes to the Dress: Bridesmaids",
+        "original_name": "Say Yes to the Dress: Bridesmaids",
+        "overview": "Say Yes to the Dress: Bridesmaids is an American reality television series on TLC which follows events at Bridals by Lori in the Atlanta suburb of Sandy Springs, a bridal shop owned by Lori Allen. The series shows the progress of individual sales associates, managers, and fitters at the store, focusing on bridesmaid dresses and the bridesmaid showroom at Bridals by Lori. It is a spin-off of Say Yes to the Dress. Soon after the end of its first season, TLC renewed the show for a second season.",
+        "poster_path": "/2NgZO3a7YypggIydlHdq77CS21N.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 0.6163,
+        "first_air_date": "2011-07-08",
+        "vote_average": 10.0,
+        "vote_count": 3,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9BeUFOmnq9rI6hXUAG9xEvPvao9.jpg",
+        "id": 80040,
+        "name": "Desafío Champions Sendokai",
+        "original_name": "Desafío Champions Sendokai",
+        "overview": "",
+        "poster_path": "/8dBMIQ2r8FdLABrZeGklAUAUYCH.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          16,
+          35,
+          10759,
+          10751
+        ],
+        "popularity": 3.6163,
+        "first_air_date": "2013-04-09",
+        "vote_average": 8.613,
+        "vote_count": 222,
+        "origin_country": [
+          "ES"
+        ]
+      },
+      {
+        "backdrop_path": "/aL87L2x5FhBz2RQQgDVNhmB61O9.jpg",
+        "id": 56402,
+        "name": "Monsuno",
+        "original_name": "Monsuno",
+        "overview": "Monsuno hurtled through space before man existed. Upon burning through the planet's atmosphere and crashing to Earth, they brought chaos and the extinction of the dinosaurs. Over millions of years, the Monsuno essence slowly disappeared as it dropped deeper and deeper below the planet’s surface, until a scientist named Jeredy Suno at the secret government agency found a way to bring them back and control. He took his research and vanished, but not before he left his only son a special gift.",
+        "poster_path": "/pjzubEF1aG0lUDEacek8NUh2IFw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          10765
+        ],
+        "popularity": 14.565,
+        "first_air_date": "2012-02-23",
+        "vote_average": 7.96,
+        "vote_count": 100,
+        "origin_country": [
+          "JP",
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

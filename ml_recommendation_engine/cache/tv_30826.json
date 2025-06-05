@@ -1,0 +1,1437 @@
+{
+  "adult": false,
+  "backdrop_path": "/ho48HnguL11niYrqMETtP8A6SWY.jpg",
+  "created_by": [
+    {
+      "id": 1683421,
+      "credit_id": "5928833ac3a36877df040ec6",
+      "name": "Carlos Mercado Orduña",
+      "original_name": "Carlos Mercado Orduña",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "2008-02-05",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 10766,
+      "name": "Pembe Dizi"
+    }
+  ],
+  "homepage": "",
+  "id": 30826,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2022-07-20",
+  "last_episode_to_air": {
+    "id": 5590665,
+    "name": "61. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2022-07-20",
+    "episode_number": 61,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 14,
+    "show_id": 30826,
+    "still_path": null
+  },
+  "name": "La rosa de Guadalupe",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 487,
+      "logo_path": "/6ROTTOqsZo3XefxZAYowukFdJ6w.png",
+      "name": "Las Estrellas",
+      "origin_country": "MX"
+    }
+  ],
+  "number_of_episodes": 872,
+  "number_of_seasons": 15,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "La rosa de Guadalupe",
+  "overview": "",
+  "popularity": 156.4419,
+  "poster_path": "/fdKDNIGDKyWVn7m36s9bGkvM1ai.jpg",
+  "production_companies": [
+    {
+      "id": 20911,
+      "logo_path": "/gumLbuqnBC51HD3sjlRJmoQIdtu.png",
+      "name": "Televisa",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2008-02-05",
+      "episode_count": 200,
+      "id": 80399,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 200,
+      "id": 241889,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 200,
+      "id": 241890,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 200,
+      "id": 241891,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 241892,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 241893,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2014-02-07",
+      "episode_count": 3,
+      "id": 155749,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 3,
+      "id": 155750,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 3,
+      "id": 241894,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 5,
+      "id": 241895,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 7,
+      "id": 241896,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 7,
+      "id": 241897,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 5,
+      "id": 241898,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 38,
+      "id": 197965,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 241885,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.953,
+  "vote_count": 264,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 992407,
+        "known_for_department": "Acting",
+        "name": "Steph Bumelcrownd",
+        "original_name": "Steph Bumelcrownd",
+        "popularity": 0.4421,
+        "profile_path": "/yv2fZbF6xIakcLBVbvujlyCcu6b.jpg",
+        "character": "Adriana / Fernanda / Federica /Sara/Minerva",
+        "credit_id": "613b70275800c4002a5c70f6",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2171677,
+        "known_for_department": "Directing",
+        "name": "Juan Pablo Blanco",
+        "original_name": "Juan Pablo Blanco",
+        "popularity": 0.1074,
+        "profile_path": "/azqr9aNzwSXBt7WdZyTRvQArt2O.jpg",
+        "credit_id": "5cf27b119251413921ba9327",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2321414,
+        "known_for_department": "Directing",
+        "name": "Gastón Tuset",
+        "original_name": "Gastón Tuset",
+        "popularity": 0.1227,
+        "profile_path": "/5i6J0MDNNM4ADQZbgLRyo5MUwmX.jpg",
+        "credit_id": "5cf221010e0a2670bdcc3670",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1678016,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Carolina Calderón",
+        "original_name": "Carolina Calderón",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "5cf2876ac3a3684bf0212d36",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2327023,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Elizabeth Brady",
+        "original_name": "Elizabeth Brady",
+        "popularity": 0.0538,
+        "profile_path": null,
+        "credit_id": "5cf2871cc3a368735b22d6ab",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2327025,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ana Luisa Miranda",
+        "original_name": "Ana Luisa Miranda",
+        "popularity": 0.099,
+        "profile_path": null,
+        "credit_id": "5cf28892c3a368697a20f726",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1607458,
+        "known_for_department": "Crew",
+        "name": "Roberto Sánchez",
+        "original_name": "Roberto Sánchez",
+        "popularity": 0.1899,
+        "profile_path": null,
+        "credit_id": "5cf28ab1c3a3685e7c235a54",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1500289,
+        "known_for_department": "Directing",
+        "name": "Karina Duprez",
+        "original_name": "Karina Duprez",
+        "popularity": 0.1619,
+        "profile_path": null,
+        "credit_id": "5cf27facc3a3682e262083a0",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2327010,
+        "known_for_department": "Crew",
+        "name": "Mauricio Manzano",
+        "original_name": "Mauricio Manzano",
+        "popularity": 0.0434,
+        "profile_path": null,
+        "credit_id": "5cf2841792514141f2bb296e",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2327018,
+        "known_for_department": "Editing",
+        "name": "Rodrigo Lepe",
+        "original_name": "Rodrigo Lepe",
+        "popularity": 0.0948,
+        "profile_path": null,
+        "credit_id": "5cf2867ac3a3684bf0212c14",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1418202,
+        "known_for_department": "Sound",
+        "name": "Alfredo Zamudio",
+        "original_name": "Alfredo Zamudio",
+        "popularity": 0.1908,
+        "profile_path": null,
+        "credit_id": "5cf283bd0e0a2679e4ccb978",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2324795,
+        "known_for_department": "Crew",
+        "name": "Guillermo Alzúa",
+        "original_name": "Guillermo Alzúa",
+        "popularity": 0.053,
+        "profile_path": null,
+        "credit_id": "5cf289fdc3a3685e7c235936",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2311510,
+        "known_for_department": "Directing",
+        "name": "Marta Luna",
+        "original_name": "Marta Luna",
+        "popularity": 0.106,
+        "profile_path": null,
+        "credit_id": "5cf220f392514138ccba1078",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1786549,
+        "known_for_department": "Writing",
+        "name": "Julián Aguilar",
+        "original_name": "Julián Aguilar",
+        "popularity": 0.1349,
+        "profile_path": null,
+        "credit_id": "5cf28145c3a368697a20ee0f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2327020,
+        "known_for_department": "Editing",
+        "name": "Mauricio Cortés",
+        "original_name": "Mauricio Cortés",
+        "popularity": 0.0557,
+        "profile_path": null,
+        "credit_id": "5cf286c4c3a3684bf0212cb2",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1877118,
+        "known_for_department": "Crew",
+        "name": "Israel Sosa",
+        "original_name": "Israel Sosa",
+        "popularity": 0.0756,
+        "profile_path": null,
+        "credit_id": "5cf28a400e0a2679e4ccc54b",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1791755,
+        "known_for_department": "Directing",
+        "name": "Eduardo Said",
+        "original_name": "Eduardo Said",
+        "popularity": 0.1462,
+        "profile_path": null,
+        "credit_id": "5cf2216992514141f2ba9d98",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1240326,
+        "known_for_department": "Acting",
+        "name": "Alejandro Aragón",
+        "original_name": "Alejandro Aragón",
+        "popularity": 0.2134,
+        "profile_path": "/tHkqWeHVFbHxbbcOiG7HjqHEz7g.jpg",
+        "credit_id": "5cf27aebc3a3682e26207d15",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2326977,
+        "known_for_department": "Directing",
+        "name": "Claudio Reyes",
+        "original_name": "Claudio Reyes",
+        "popularity": 0.0879,
+        "profile_path": null,
+        "credit_id": "5cf27e4392514138ccba91f4",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2326988,
+        "known_for_department": "Writing",
+        "name": "Mauricio Aridjis",
+        "original_name": "Mauricio Aridjis",
+        "popularity": 0.0877,
+        "profile_path": null,
+        "credit_id": "5cf27fcd9251413921ba9bd9",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1405008,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Gabriela Castellanos",
+        "original_name": "Gabriela Castellanos",
+        "popularity": 0.0954,
+        "profile_path": null,
+        "credit_id": "5cf2886ec3a368697a20f709",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2327041,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Verónica Rodríguez",
+        "original_name": "Verónica Rodríguez",
+        "popularity": 0.077,
+        "profile_path": null,
+        "credit_id": "5cf28d0c925141392ebac78e",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2326989,
+        "known_for_department": "Writing",
+        "name": "Rigoberto Montijo",
+        "original_name": "Rigoberto Montijo",
+        "popularity": 0.2072,
+        "profile_path": null,
+        "credit_id": "5cf280810e0a2670bdccc3d1",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2327015,
+        "known_for_department": "Crew",
+        "name": "Lino Gama",
+        "original_name": "Lino Gama",
+        "popularity": 0.1167,
+        "profile_path": null,
+        "credit_id": "5cf285220e0a264876ccd71b",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2322017,
+        "known_for_department": "Sound",
+        "name": "Maryté Gutiérrez",
+        "original_name": "Maryté Gutiérrez",
+        "popularity": 0.0978,
+        "profile_path": null,
+        "credit_id": "5cf289830e0a2679d3cce3dd",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2326995,
+        "known_for_department": "Production",
+        "name": "Miguel Ángel Herros",
+        "original_name": "Miguel Ángel Herros",
+        "popularity": 0.101,
+        "profile_path": null,
+        "credit_id": "5cf28280925141247cbb3520",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1856776,
+        "known_for_department": "Crew",
+        "name": "Roberto Roffiel",
+        "original_name": "Roberto Roffiel",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "credit_id": "5cf28a53c3a3687758210e71",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1159225,
+        "known_for_department": "Directing",
+        "name": "Alfredo Gurrola",
+        "original_name": "Alfredo Gurrola",
+        "popularity": 0.121,
+        "profile_path": "/cF7kuipAv1M4MldprpjkvIzb6mz.jpg",
+        "credit_id": "5cf27ab00e0a2679e4cca864",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2327017,
+        "known_for_department": "Crew",
+        "name": "Oscar Morales",
+        "original_name": "Oscar Morales",
+        "popularity": 0.0491,
+        "profile_path": null,
+        "credit_id": "5cf285fe0e0a264876ccd807",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2326995,
+        "known_for_department": "Production",
+        "name": "Miguel Ángel Herros",
+        "original_name": "Miguel Ángel Herros",
+        "popularity": 0.101,
+        "profile_path": null,
+        "credit_id": "5cf282140e0a2670bdccc675",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1856775,
+        "known_for_department": "Sound",
+        "name": "Yesou Godínez",
+        "original_name": "Yesou Godínez",
+        "popularity": 0.0513,
+        "profile_path": null,
+        "credit_id": "5cf289ad92514171fdbb3ad2",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1855697,
+        "known_for_department": "Crew",
+        "name": "Gerardo Rosado",
+        "original_name": "Gerardo Rosado",
+        "popularity": 0.1404,
+        "profile_path": null,
+        "credit_id": "5cf28a3192514141f2bb381b",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2327016,
+        "known_for_department": "Camera",
+        "name": "Víctor Soto",
+        "original_name": "Víctor Soto",
+        "popularity": 0.091,
+        "profile_path": null,
+        "credit_id": "5cf285abc3a3687758210826",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2327024,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Alexa Sánchez",
+        "original_name": "Alexa Sánchez",
+        "popularity": 0.0377,
+        "profile_path": null,
+        "credit_id": "5cf287bd0e0a2619cccc2a92",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2326973,
+        "known_for_department": "Directing",
+        "name": "Ricardo de la Parra",
+        "original_name": "Ricardo de la Parra",
+        "popularity": 0.0646,
+        "profile_path": null,
+        "credit_id": "5cf27dae9251413921ba98cd",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1852522,
+        "known_for_department": "Sound",
+        "name": "Alejandro de La Parra",
+        "original_name": "Alejandro de La Parra",
+        "popularity": 0.1834,
+        "profile_path": null,
+        "credit_id": "5cf283a792514171fdbb33f2",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1852522,
+        "known_for_department": "Sound",
+        "name": "Alejandro de La Parra",
+        "original_name": "Alejandro de La Parra",
+        "popularity": 0.1834,
+        "profile_path": null,
+        "credit_id": "5cf2895ac3a36827ab2066ce",
+        "department": "Crew",
+        "job": "Additional Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2327039,
+        "known_for_department": "Sound",
+        "name": "William Pearson",
+        "original_name": "William Pearson",
+        "popularity": 0.4988,
+        "profile_path": null,
+        "credit_id": "5cf28c9b0e0a264876cce0f7",
+        "department": "Crew",
+        "job": "Additional Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1873636,
+        "known_for_department": "Writing",
+        "name": "Denisse Pfeiffer",
+        "original_name": "Denisse Pfeiffer",
+        "popularity": 0.1269,
+        "profile_path": "/rtYslZIPn6ubeL051lzGnqaTAHR.jpg",
+        "credit_id": "5cf280d4c3a3682e262085e0",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2155094,
+        "known_for_department": "Crew",
+        "name": "Lorenzo Roca",
+        "original_name": "Lorenzo Roca",
+        "popularity": 0.2052,
+        "profile_path": null,
+        "credit_id": "5cf289070e0a261973cafd58",
+        "department": "Crew",
+        "job": "Animal Wrangler"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1873898,
+        "known_for_department": "Crew",
+        "name": "Luis Guzmán",
+        "original_name": "Luis Guzmán",
+        "popularity": 0.1807,
+        "profile_path": null,
+        "credit_id": "5cf28992c3a3682e262092c3",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2087502,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lucy Bentancourt",
+        "original_name": "Lucy Bentancourt",
+        "popularity": 0.0953,
+        "profile_path": null,
+        "credit_id": "5cf2958f0e0a2670bdcce737",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1692825,
+        "known_for_department": "Crew",
+        "name": "Paola Hernández",
+        "original_name": "Paola Hernández",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "5cf290b892514138ccbab018",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2327071,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Diana C. Pérez",
+        "original_name": "Diana C. Pérez",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "5cf2968d925141392ebad699",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 973407,
+        "known_for_department": "Crew",
+        "name": "Omar Ayala",
+        "original_name": "Omar Ayala",
+        "popularity": 1.1618,
+        "profile_path": "/cxOERxdUEhFG1hdhoGPB6Xw4ryv.jpg",
+        "credit_id": "5cf28f6d0e0a2679e4cccf54",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2327072,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Francisca Santos",
+        "original_name": "Francisca Santos",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "credit_id": "5cf298280e0a261e00cc4e0f",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 973407,
+        "known_for_department": "Crew",
+        "name": "Omar Ayala",
+        "original_name": "Omar Ayala",
+        "popularity": 1.1618,
+        "profile_path": "/cxOERxdUEhFG1hdhoGPB6Xw4ryv.jpg",
+        "credit_id": "5cf28f790e0a2679d3ccecf4",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 973407,
+        "known_for_department": "Crew",
+        "name": "Omar Ayala",
+        "original_name": "Omar Ayala",
+        "popularity": 1.1618,
+        "profile_path": "/cxOERxdUEhFG1hdhoGPB6Xw4ryv.jpg",
+        "credit_id": "5cf28faf92514138ccbaaf21",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 973407,
+        "known_for_department": "Crew",
+        "name": "Omar Ayala",
+        "original_name": "Omar Ayala",
+        "popularity": 1.1618,
+        "profile_path": "/cxOERxdUEhFG1hdhoGPB6Xw4ryv.jpg",
+        "credit_id": "5cf28fa1c3a3684bf0213bc4",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2327068,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jesús García",
+        "original_name": "Jesús García",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "5cf296170e0a2679d3ccf905",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2327044,
+        "known_for_department": "Lighting",
+        "name": "José Tapia",
+        "original_name": "José Tapia",
+        "popularity": 0.0518,
+        "profile_path": null,
+        "credit_id": "5cf28e3a9251411cdbbb2198",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2327066,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Raúl Bretón",
+        "original_name": "Raúl Bretón",
+        "popularity": 0.0264,
+        "profile_path": null,
+        "credit_id": "5cf295240e0a2619cccc40b0",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2327063,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Hilda López",
+        "original_name": "Hilda López",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "5cf294b8c3a3682e2620a7fa",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1858546,
+        "known_for_department": "Crew",
+        "name": "Juan Manuel Vilchis",
+        "original_name": "Juan Manuel Vilchis",
+        "popularity": 0.4079,
+        "profile_path": null,
+        "credit_id": "5cf2904392514138ccbaaf8a",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1077317,
+        "known_for_department": "Directing",
+        "name": "Lily Garza",
+        "original_name": "Lily Garza",
+        "popularity": 0.1415,
+        "profile_path": "/iOA5H5uVXsjXpsV9llGh7wCsZKl.jpg",
+        "credit_id": "5d1d2fb394d8a820fa3bd3a6",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "religion",
+        "id": 11001
+      },
+      {
+        "name": "virgin mary",
+        "id": 178611
+      },
+      {
+        "name": "telenovela",
+        "id": 199262
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/qMgtOJM12WdSAacriuT2eZQqLGy.jpg",
+        "id": 227938,
+        "name": "Generación 98'",
+        "original_name": "Generación 98'",
+        "overview": "Seven former schoolmates meet again in an unexpected class reunion, after 25 years without seeing each other.",
+        "poster_path": "/3ADIg3R5rsxO4Fic66n5Q8JJvdc.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          10766,
+          35,
+          18
+        ],
+        "popularity": 22.3985,
+        "first_air_date": "2023-06-05",
+        "vote_average": 6.7,
+        "vote_count": 6,
+        "origin_country": [
+          "CL"
+        ]
+      },
+      {
+        "backdrop_path": "/eTEHFjeVD9mJ5yks3UFGh4UK7PZ.jpg",
+        "id": 251026,
+        "name": "Wild and Free: Cabo",
+        "original_name": "Sueltos en Los Cabos",
+        "overview": "Eight hot, young singles arrive to an amazing villa in Los Cabos, San Lucas for the vacation of a lifetime.",
+        "poster_path": "/kF9XZ9cz6XqsmCCbBtTIlKacTIx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 4.1016,
+        "first_air_date": "2024-04-26",
+        "vote_average": 6.933,
+        "vote_count": 15,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 242395,
+        "name": "Micos y Pericos",
+        "original_name": "Micos y Pericos",
+        "overview": "",
+        "poster_path": "/hBVW21vh3BVllgNlkBwNq8TAKrH.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          10762
+        ],
+        "popularity": 1.3082,
+        "first_air_date": "2009-07-11",
+        "vote_average": 6.0,
+        "vote_count": 1,
+        "origin_country": [
+          "CL",
+          "GT"
+        ]
+      },
+      {
+        "backdrop_path": "/5nq8QDEdZbIuCHwGZmxHI0LOkbq.jpg",
+        "id": 273825,
+        "name": "Amor amargo",
+        "original_name": "Amor amargo",
+        "overview": "",
+        "poster_path": "/u8TkzDfknYHbx0NEsD8TSzw3M5f.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 1.2896,
+        "first_air_date": "2024-11-04",
+        "vote_average": 7.1,
+        "vote_count": 27,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/v7CyoPHTxfQ0HJkAhgRJwiPrHli.jpg",
+        "id": 12650,
+        "name": "Las Vías del Amor",
+        "original_name": "Las Vías del Amor",
+        "overview": "Las Vías del Amor is a Mexican telenovela that aired on the Televisa channel in Mexico and Univision in the United States from 2002-2003.",
+        "poster_path": "/33DVpUeOPt6sK7rc7X8a8v8TDNm.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 40.1587,
+        "first_air_date": "2002-08-05",
+        "vote_average": 6.7,
+        "vote_count": 47,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/bEsFJEgOrKj4Na2YuESu7iI0CDO.jpg",
+        "id": 89410,
+        "name": "Search: WWW",
+        "original_name": "검색어를 입력하세요 WWW",
+        "overview": "İkiyüzlü bir meslektaşı nedeniyle bir web şirketindeki üst düzey yönetici pozisyonunu kaybeden Bae Ta-mi, yeniden kendini kanıtlamak için harekete geçer.",
+        "poster_path": "/2noAzJLq5dYm2HXbpGlWrgMyNqm.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 2.0967,
+        "first_air_date": "2019-06-05",
+        "vote_average": 8.0,
+        "vote_count": 98,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/eGUqjkaopXNiMTN7T5HkTXZmWMh.jpg",
+        "id": 227322,
+        "name": "Taşıyıcı Anne",
+        "original_name": "Madre de alquiler",
+        "overview": "Babasını kurtarmak için taşıyıcı annelik yapmaya zorlanan bir kadının yolu, itibarlarını korumak için her şeyi göze alan zengin bir aileyle kesişir.",
+        "poster_path": "/iQwiJfi7kov1DH147k8EGCm14q2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 3.0505,
+        "first_air_date": "2023-06-14",
+        "vote_average": 8.2,
+        "vote_count": 47,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/fuYbdrA2dpOe8ZrccNlqLnG84ji.jpg",
+        "id": 16703,
+        "name": "El Manantial",
+        "original_name": "El Manantial",
+        "overview": "In the village of San Andres, the rivalry between two families the Valdes and the Ramirez is centered on \"El Manantial\", a beautiful fountain of water that happens to bathe the small property of the Valdes and not the neighboring ranch, the rich and prosperous hacienda \"Piedras Grandes\", where the best cattle are raised and is property of the Ramirez. But the spring is not the real reason for the hatred between the families. Justo Ramirez, married to Margarita Insunza, had a relationship with Francisca Rivero, wife of his enemy and neighbor Rigoberto Valdes. This relationship, founded in the betrayal, will cause the utmost bitterness and the destruction between the two families. The Valdes have a beautiful daughter named Alfonsina, who was born in the same year as Alejandro, the son and heir of the Ramirez. Although they have grown separately with their souls full of prejudices against their respective families, the two cannot avoid feeling attracted to each other. Margarita will not permit this and so she tells her husband to make sure her son will never be together with Alfonsina so he could marry Barbara, her cousin's daughter. Justo rapes Alfonsina and she leaves along with her mom and her aunt. Five years later... Alfonsina is graduating from school and has a good life until her mother commits suicide because she found out she was deathly ill and could no longer live with the guilt of her lifestyle. Before dying, her mother confesses to Alfonsina that Justo Ramirez destroyed her life and after that Alfonsina vows revenge on the man who destroyed her family. She returns to San Andres and there she once again sees Alejandro who is now engaged to Barbara. Their love is still present in their hearts. They will have to fight for their love and see if they can be happy by the shores of El Manantial... \n\nEl Manantial is a Mexican telenovela that first aired in 2001, starring Adela Noriega and Mauricio Islas. The telenovela received TVyNovelas Award for Best Telenovela, in 2002.",
+        "poster_path": "/r2HBwduzyePakcqvkdclbWM21RA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 18.3357,
+        "first_air_date": "2001-10-01",
+        "vote_average": 7.242,
+        "vote_count": 95,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/j5hn3Xn2BDbwR3tBX7s8m8Y1zce.jpg",
+        "id": 13862,
+        "name": "Shōgun",
+        "original_name": "Shōgun",
+        "overview": "An English navigator becomes both a player and pawn in complex political games in feudal Japan.",
+        "poster_path": "/eW543y699jZMQAiBxqMBkYGXwjP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10768
+        ],
+        "popularity": 6.3599,
+        "first_air_date": "1980-09-15",
+        "vote_average": 7.667,
+        "vote_count": 203,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zb7TPASaVmMj2rpnkjOnQR1Feo.jpg",
+        "id": 123591,
+        "name": "Şirinler",
+        "original_name": "Les Schtroumpfs",
+        "overview": "Mavi ve küçük, sadece üç elma yüksekliğindeki Şirinler'i ilk başta ayırt etmek zor olabilir. Ancak, her Şirin kendi kişiliğine sahip farklı bir bireydir, isimleri her şeyi anlatır.",
+        "poster_path": "/AvKwA9dI6sRjX0BI3WA4NIBX5zO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          16,
+          35,
+          10751,
+          10762
+        ],
+        "popularity": 12.0086,
+        "first_air_date": "2021-04-18",
+        "vote_average": 7.0,
+        "vote_count": 172,
+        "origin_country": [
+          "BE"
+        ]
+      },
+      {
+        "backdrop_path": "/xMgzRUA1RjxLQn05oJ8IFbf06AO.jpg",
+        "id": 259140,
+        "name": "Ranma1/2",
+        "original_name": "らんま1/2",
+        "overview": "Akane Tendo yeni nişanlısı Ranma Saotome ile tanışır. Dövüş sanatları ustası olan Ranma'nın tuhaf bir özelliği vardır: Soğuk suyla temas ettiğinde sihirli biçimde bir kıza dönüşür.",
+        "poster_path": "/zQhwc27CWHM4zx9lJU9bI5FRQOm.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759,
+          35,
+          10765
+        ],
+        "popularity": 6.2833,
+        "first_air_date": "2024-10-06",
+        "vote_average": 8.4,
+        "vote_count": 107,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/bWvhXETphYBt0Mabfkz8e0lcul8.jpg",
+        "id": 64570,
+        "name": "Vampire Girl",
+        "original_name": "Chica Vampiro",
+        "overview": "Daisy O'Brian is a normal girl who dreams of a singing career in musical comedy. Her parents are vampires, and per her family tradition, she must decide to become a vampire or not on her 16th birthday. On that day, Daisy decides to stay human to live next to her love, Max, who is her neighbor and classmate.\n\nHowever, that same day, a fatal accident changes her life forever. The doctor says to her parents that she is not going to make it. So, her parents decide to bite Daisy, to save her, turning her into a vampire. This makes Vicente (her younger brother) the only mortal in the family. From that moment, Daisy leads a double life full of risks, where she must attend a human school, hiding her nature, and also go to vampire school and take classes for newly bitten vampires.",
+        "poster_path": "/mWpTjJO99SMusPHdV12UuMwtoNc.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          10765
+        ],
+        "popularity": 18.7971,
+        "first_air_date": "2013-05-14",
+        "vote_average": 8.169,
+        "vote_count": 118,
+        "origin_country": [
+          "CO"
+        ]
+      },
+      {
+        "backdrop_path": "/4TK1IREtfd7Ki8JWfwR1WahO5IP.jpg",
+        "id": 4606,
+        "name": "Garfield and Friends",
+        "original_name": "Garfield and Friends",
+        "overview": "The animated stories of Garfield the cat, Odie the dog, their owner Jon and the trouble they get into. And also Orson the Pig and his adventures on a farm with his fellow farm animals.",
+        "poster_path": "/3HyTfZ9sSCoZPYrYHMffhRVm3Af.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10762
+        ],
+        "popularity": 69.5041,
+        "first_air_date": "1988-09-17",
+        "vote_average": 7.2,
+        "vote_count": 355,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/m94lERZlYkFyn3wzoMwLUBeriRI.jpg",
+        "id": 10821,
+        "name": "Blue's Clues",
+        "original_name": "Blue's Clues",
+        "overview": "Blue's Clues is a colorful and learning series that is targeted at the younger crowd, but can be enjoyed by all. The host, Steve Burns, invites viewers daily into the Blue's Clues house to help him out, learn and have fun. The show is based around the host looking for three clues that Blue provides by labelling them with a pawprint to figure something out and in the process, having an adventure.",
+        "poster_path": "/7h7gD3n5MT7mQa3zho6JR1lCfh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10762
+        ],
+        "popularity": 17.3094,
+        "first_air_date": "1996-09-08",
+        "vote_average": 7.684,
+        "vote_count": 247,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/bgkJqa5zfrVirsiAAhyXtDiqx9G.jpg",
+        "id": 12504,
+        "name": "SilverHawks",
+        "original_name": "SilverHawks",
+        "overview": "Bionic policemen fight an escaped alien mob boss and his gang in space.",
+        "poster_path": "/mOEWtpkuqNMfY9c2UcWEIDQzo0o.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          10765,
+          10762
+        ],
+        "popularity": 11.5856,
+        "first_air_date": "1986-09-08",
+        "vote_average": 8.147,
+        "vote_count": 312,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dkcCEDrorsyG9swXojnW7W84Rfy.jpg",
+        "id": 106158,
+        "name": "Law & Order: Organized Crime",
+        "original_name": "Law & Order: Organized Crime",
+        "overview": "Yıkıcı bir kayıp yaşamasının ardından Elliot Stabler, organize suçla savaşmak için NYPD’ye geri döner. Ancak şehir ve polis departmanından uzak olduğu on yıl boyunca her şey çarpıcı bir şekilde değişmiştir. Kendisini yeniden inşa etmeye çalışan Elliot, adalet sistemindeki değişikliklere uyum sağlamak zorunda kalır.",
+        "poster_path": "/natmRk4Z51zZfDWossGaYt4ta9j.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 20.1764,
+        "first_air_date": "2021-04-01",
+        "vote_average": 7.889,
+        "vote_count": 261,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2vtI9xzD6qpDzY9m8kV67QY0qfM.jpg",
+        "id": 253905,
+        "name": "When the Phone Rings",
+        "original_name": "지금 거신 전화는",
+        "overview": "Yıldızı parlayan bir politikacı ve konuşma engelli karısının gergin evliliği, hayatlarını altüst eden bir kaçırılma olayından sonra çatırdamaya başlar.",
+        "poster_path": "/glWP5Y7CVeqrOjJpLckQjuLFjQJ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 11.0643,
+        "first_air_date": "2024-11-22",
+        "vote_average": 8.5,
+        "vote_count": 224,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/mjdftSIZyG6kUItWiDKnzT9rO7F.jpg",
+        "id": 63375,
+        "name": "Bear Grylls: Escape From Hell",
+        "original_name": "Bear Grylls: Escape From Hell",
+        "overview": "Bear Grylls takes his survival expertise one step further as he reveals the incredible stories of ordinary people stranded in devastatingly dire situations.\n\nCoupled with incredible archive footage and interviews with the survivors, Bear will pit himself against the very same dangers and scenarios, reliving their journeys through first-hand experience and showing us how to survive through some of the world's most desolate landscapes.",
+        "poster_path": "/fRFr8E4rE3igUBiRM1HA3kQo1JC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764,
+          10759
+        ],
+        "popularity": 2.6695,
+        "first_air_date": "2013-10-07",
+        "vote_average": 6.6,
+        "vote_count": 423,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/dhRcIc6acdXG83CJ2z9Hns6Fkg2.jpg",
+        "id": 113901,
+        "name": "Maradona: Uğurlu Hayal",
+        "original_name": "Maradona: Sueño bendito",
+        "overview": "Dizi, Arjantinli futbol efsanesi Diego Maradona'nın hayatına odaklanıyor. Diego Armando Maradona'nın, anavatanı Arjantin’deki yaşantısından Barselona ve Napoli’deki kariyerine odaklanılan belgeselde, Maradona'nın kariyeri boyunca yaşadığı önemli anlar gözler önüne seriliyor.",
+        "poster_path": "/mUHYXoUy6S3vxELoSRIzgnhRP08.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 5.1697,
+        "first_air_date": "2021-10-29",
+        "vote_average": 7.45,
+        "vote_count": 645,
+        "origin_country": [
+          "AR"
+        ]
+      },
+      {
+        "backdrop_path": "/vmfWHWnLfy6aT2caIgeSapYX8Aq.jpg",
+        "id": 4336,
+        "name": "Drawn Together",
+        "original_name": "Drawn Together",
+        "overview": "The world's first animated reality series gathers icons from all corners of the cartoon universe and lets them loose, with plenty of cameras to catch their exploits. Here's what happens when eight cartoon characters stop being polite and start getting real.",
+        "poster_path": "/12gxxU70l3Ng7WlllpA7QmeqTQF.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10764
+        ],
+        "popularity": 14.2713,
+        "first_air_date": "2004-10-27",
+        "vote_average": 8.208,
+        "vote_count": 1289,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

@@ -1,0 +1,856 @@
+{
+  "adult": false,
+  "backdrop_path": "/m6eRgkR1KC6Mr6gKx6gKCzSn6vD.jpg",
+  "created_by": [
+    {
+      "id": 1,
+      "credit_id": "52575da819c29531db1aacc9",
+      "name": "George Lucas",
+      "original_name": "George Lucas",
+      "gender": 2,
+      "profile_path": "/mDLDvsx8PaZoEThkBdyaG1JxPdf.jpg"
+    }
+  ],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "2008-10-03",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Aksiyon & Macera"
+    },
+    {
+      "id": 10765,
+      "name": "Bilim Kurgu & Fantazi"
+    },
+    {
+      "id": 16,
+      "name": "Animasyon"
+    }
+  ],
+  "homepage": "https://www.disneyplus.com/series/star-wars-the-clone-wars/1wYXzjabXGVZ",
+  "id": 4194,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2020-05-04",
+  "last_episode_to_air": {
+    "id": 2231675,
+    "name": "Zafer ve Ölüm",
+    "overview": "Galaksi kargaşa içindeyken Ahsoka ve Rex kendi hayatlarını kurtarmak için yarışır.",
+    "vote_average": 9.5,
+    "vote_count": 37,
+    "air_date": "2020-05-04",
+    "episode_number": 12,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 7,
+    "show_id": 4194,
+    "still_path": "/eyyOCR9U8djJPO7Bba7ffdqt7x4.jpg"
+  },
+  "name": "Star Wars: Klon Savaşları",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 56,
+      "logo_path": "/c5OC6oVCg6QP4eqzW6XIq17CQjI.png",
+      "name": "Cartoon Network",
+      "origin_country": "US"
+    },
+    {
+      "id": 213,
+      "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+      "name": "Netflix",
+      "origin_country": ""
+    },
+    {
+      "id": 2739,
+      "logo_path": "/1edZOYAfoyZyZ3rklNSiUpXX30Q.png",
+      "name": "Disney+",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 133,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Star Wars: The Clone Wars",
+  "overview": "Baş Yapımcı George Lucas ve Lucasfilm Animation'dan Star Wars efsanesi devam ediyor! Klasik karakterler, şaşırtıcı aksiyon ve iyi ile kötü arasındaki bitmeyen savaşla uzak bir galakside geçen, son teknoloji, sinema filmi kalitesinde bir bilgisayar animasyonu olan Star Wars: Klon Savaşları, Star Wars hikayesini çok çok uzak bir galakside geçen yepyeni maceralarla genişletiyor.",
+  "popularity": 108.7747,
+  "poster_path": "/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg",
+  "production_companies": [
+    {
+      "id": 108270,
+      "logo_path": "/eDWGeg5tdVNcI8aBaaJ21bEBtFa.png",
+      "name": "Lucasfilm Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 1,
+      "logo_path": "/tlVSws0RvvtPBwViUyOFAO0vcQS.png",
+      "name": "Lucasfilm Ltd.",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2008-09-04",
+      "episode_count": 59,
+      "id": 12281,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/jQW9SI37MP4PZR2rS5mqUBYMUzj.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2008-10-03",
+      "episode_count": 22,
+      "id": 12278,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/A3ahBR0y45LjKQeLEu6PU5UwTQs.jpg",
+      "season_number": 1,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2009-10-02",
+      "episode_count": 22,
+      "id": 12279,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/pENwUUU7AWX7qtBtAscPHXHngP.jpg",
+      "season_number": 2,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2010-09-17",
+      "episode_count": 22,
+      "id": 12280,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/syoaEVFyv5Zpc4lMWEn3VGPzyHg.jpg",
+      "season_number": 3,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2011-09-16",
+      "episode_count": 22,
+      "id": 12282,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/7eNONbOHJGh3Bw38sdtbnfG1ULW.jpg",
+      "season_number": 4,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2012-09-29",
+      "episode_count": 20,
+      "id": 62850,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/2lTwwcBAZlMlokhJsNCAxQlbU7l.jpg",
+      "season_number": 5,
+      "vote_average": 8.4
+    },
+    {
+      "air_date": "2014-03-07",
+      "episode_count": 13,
+      "id": 62851,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/rtE8sYz8PDGIw4iV8zacEvnPwEu.jpg",
+      "season_number": 6,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2020-02-21",
+      "episode_count": 12,
+      "id": 130578,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/n2cmQLAOOs5ikqBFoIldpLeVCLK.jpg",
+      "season_number": 7,
+      "vote_average": 8.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.459,
+  "vote_count": 2117,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 41345,
+        "known_for_department": "Acting",
+        "name": "Ashley Eckstein",
+        "original_name": "Ashley Eckstein",
+        "popularity": 1.3368,
+        "profile_path": "/jdzSL5AJePycTs1KQpYzm6I55qC.jpg",
+        "character": "Ahsoka Tano (voice)",
+        "credit_id": "52575da819c29531db1aabf3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34202,
+        "known_for_department": "Acting",
+        "name": "Matt Lanter",
+        "original_name": "Matt Lanter",
+        "popularity": 2.595,
+        "profile_path": "/2ms8DR9n4wh9ZU6lIuqsE58LPT9.jpg",
+        "character": "Anakin Skywalker (voice)",
+        "credit_id": "52575da719c29531db1aab23",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19506,
+        "known_for_department": "Acting",
+        "name": "James Arnold Taylor",
+        "original_name": "James Arnold Taylor",
+        "popularity": 2.0361,
+        "profile_path": "/xP7SNjPMhZ2m4aVuYboPa8W1RlB.jpg",
+        "character": "Obi-Wan Kenobi (voice)",
+        "credit_id": "65b2d7dacee4810183a9f484",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23680,
+        "known_for_department": "Acting",
+        "name": "Dee Bradley Baker",
+        "original_name": "Dee Bradley Baker",
+        "popularity": 4.0529,
+        "profile_path": "/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg",
+        "character": "Clone Troopers (voice)",
+        "credit_id": "52575da719c29531db1aab03",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71535,
+        "known_for_department": "Acting",
+        "name": "Tom Kane",
+        "original_name": "Tom Kane",
+        "popularity": 1.9889,
+        "profile_path": "/sq49aVP56G50Nr5kCL7Ove6Z9jE.jpg",
+        "character": "Yoda / Wullf Yularen / Narrator (voice)",
+        "credit_id": "52575da719c29531db1aab43",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71538,
+        "known_for_department": "Writing",
+        "name": "Dave Filoni",
+        "original_name": "Dave Filoni",
+        "popularity": 1.3193,
+        "profile_path": "/vEVllkkmrp7X3Cj4AOIraGl77pg.jpg",
+        "credit_id": "5ffa5d367d5db5003c4961ed",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2605420,
+        "known_for_department": "Production",
+        "name": "Caroline Kermel",
+        "original_name": "Caroline Kermel",
+        "popularity": 0.0382,
+        "profile_path": null,
+        "credit_id": "5ffa5d41afa1b00041c0a6ea",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1700794,
+        "known_for_department": "Production",
+        "name": "Josh Rimes",
+        "original_name": "Josh Rimes",
+        "popularity": 0.5042,
+        "profile_path": "/8aRwqvPOGuiqOfKXnx5qzlnqEkl.jpg",
+        "credit_id": "5ffa5d51706e56003f420de6",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1235797,
+        "known_for_department": "Production",
+        "name": "Cary Silver",
+        "original_name": "Cary Silver",
+        "popularity": 0.2593,
+        "profile_path": null,
+        "credit_id": "52575dab19c29531db1aae9a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51588,
+        "known_for_department": "Sound",
+        "name": "Kevin Kiner",
+        "original_name": "Kevin Kiner",
+        "popularity": 1.4203,
+        "profile_path": "/FtGnTCUaMTNDESIuwhEmzCNIpp.jpg",
+        "credit_id": "5ffa5a8132489b003cd8ba35",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1,
+        "known_for_department": "Directing",
+        "name": "George Lucas",
+        "original_name": "George Lucas",
+        "popularity": 4.1339,
+        "profile_path": "/mDLDvsx8PaZoEThkBdyaG1JxPdf.jpg",
+        "credit_id": "5ffa5a38b54002003e0e913b",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4693154,
+        "known_for_department": "Sound",
+        "name": "Mark Evans",
+        "original_name": "Mark Evans",
+        "popularity": 0.0356,
+        "profile_path": null,
+        "credit_id": "6635e302fe6c180123304941",
+        "department": "Sound",
+        "job": "Scoring Mixer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "space opera",
+        "id": 161176
+      },
+      {
+        "name": "nostalgic",
+        "id": 164246
+      },
+      {
+        "name": "playful",
+        "id": 259376
+      },
+      {
+        "name": "sentimental",
+        "id": 319319
+      },
+      {
+        "name": "forceful",
+        "id": 325816
+      },
+      {
+        "name": "informative",
+        "id": 325830
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/8BNjxMJMFp0BgqMh4PyuwZMXxh1.jpg",
+        "id": 60554,
+        "name": "Star Wars Rebels",
+        "original_name": "Star Wars Rebels",
+        "overview": "Galaktik İmparatorluk'un zulüm ve korku ile insanlar üzerindeki kontrolünü artırmasıyla galakside karanlık zamanlar yaşanırken birkaç cesur yürek, direniş için bir araya gelmek zorunda kalır. Hayalet uzay gemisinin birbirine hiç benzemeyen mürettebatı, bir isyanın fitilini ateşlemek için gereken kıvılcımı çakarak savunmasızların savunucusu olur.",
+        "poster_path": "/7ThzIAWrL33FnvnCG9pSHThx7lq.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          10765
+        ],
+        "popularity": 38.4873,
+        "first_air_date": "2014-10-13",
+        "vote_average": 7.738,
+        "vote_count": 891,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/6Bsfr4QipqfAMlv9DCk8zNACvUG.jpg",
+        "id": 3122,
+        "name": "Star Wars: Clone Wars",
+        "original_name": "Star Wars: Clone Wars",
+        "overview": "During the Clone Wars, Jedi Master Obi-Wan Kenobi leads an assault on the planet Muunilinst, home of the Intergalactic Banking Clan; and his Padawan, Anakin Skywalker, is appointed by Supreme Chancellor Palpatine to lead the Republic’s space forces. Meanwhile, Separatist leader and Sith Lord Count Dooku takes in Force-sensitive gladiator Asajj Ventress as his Sith apprentice, and tasks her with eliminating Skywalker.",
+        "poster_path": "/jKfAVTGkf9qpGPZ4E1pNKdW6vra.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          10765
+        ],
+        "popularity": 20.5001,
+        "first_air_date": "2003-11-07",
+        "vote_average": 7.767,
+        "vote_count": 432,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sjxtIUCWR74yPPcZFfTsToepfWm.jpg",
+        "id": 105971,
+        "name": "Star Wars: The Bad Batch",
+        "original_name": "Star Wars: The Bad Batch",
+        "overview": "Kamino'daki olayların üzerinden aylar geçmiştir ve Kötüler Timi Cumhuriyet'in düşüşünden sonra İmparatorluk'ta yolculuklarına devam etmektedir. Onları beklenmedik ve tehlikeli yeni yerlere götürecek çeşitli heyecan verici paralı asker görevlerini üstlenirlerken yolları hem yeni hem de tanıdık dost ve düşmanlarla kesişecek.",
+        "poster_path": "/cDQAvfgAqnKuklerrZylZr6PCQa.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "popularity": 18.8781,
+        "first_air_date": "2021-05-04",
+        "vote_average": 8.207,
+        "vote_count": 1037,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vp52Er9JebGn49GG37jFTwx15Lw.jpg",
+        "id": 203085,
+        "name": "Star Wars: Tales of the Jedi",
+        "original_name": "Star Wars: Tales of the Jedi",
+        "overview": "Erken dönem Jediları etrafında kurulan kısa hikayeler içeren 6 bölümlük bir macera. Birbirinden tamamen farklı iki Jedi'ın - Ahsoka Tano ve Kont Dooku'nun hayatlarına yolculuk edin. Her biri, kaderlerini belirleyecek seçimler yaparken sınavlarla karşılaşacaklar.",
+        "poster_path": "/k3nWQb0E8mLSR8acSkJP78VRVMv.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10765,
+          10759
+        ],
+        "popularity": 9.6954,
+        "first_air_date": "2022-10-26",
+        "vote_average": 8.059,
+        "vote_count": 392,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/Ad2y46YKP2u81bsR4axajbbJKwS.jpg",
+        "id": 79093,
+        "name": "Yıldız Savaşları Direniş",
+        "original_name": "Star Wars Resistance",
+        "overview": "Poe Dameron tarafından Direniş'e katılması ve İlk Düzen'de casusluk yapması için işe alınan Kazuda \"Kaz\" Xiono, BB-8 ile Colossus adlı uçak yakıt ikmal istasyonuna konuşlandırılınca kendini belanın içinde bulur. Bir yandan tamirci kimliğini korumaya çalışırken diğer yandan komik bir şekilde yıldız pilotlarla, yağmacı korsanlarla ve Colossus'un gizemli sahibiyle karışıklıklar yaşar. Kaz'ın bu araştırması, onu İlk Düzen'in galaksi için yaptığı planları keşfetmeye doğru yakınlaştırır.",
+        "poster_path": "/xul6SG8rar3wkHPY8YusUtxcdlZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          16,
+          10759
+        ],
+        "popularity": 15.2356,
+        "first_air_date": "2018-10-07",
+        "vote_average": 6.4,
+        "vote_count": 148,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9zcbqSxdsRMZWHYtyCd1nXPr2xq.jpg",
+        "id": 82856,
+        "name": "The Mandalorian",
+        "original_name": "The Mandalorian",
+        "overview": "İmparatorluk'un çöküşünden sonra yalnız bir Mandalorian, öksüzü Grogu'yla beraber kanunsuz galakside dikkatle yol alır.",
+        "poster_path": "/eU1i6eHXlzMOlEq0ku1Rzq7Y4wA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 36.2649,
+        "first_air_date": "2019-11-12",
+        "vote_average": 8.425,
+        "vote_count": 10331,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/CrVAqxtdmvelqVcj8pVeQg7wNV.jpg",
+        "id": 2723,
+        "name": "Samuray Jack",
+        "original_name": "Samurai Jack",
+        "overview": "Uzun zaman önce kötü büyücü Aku, hakimiyeti altına almak amacıyla dünyaya saldırmıştır. Güçleri ve öfkesi o kadar büyüktür ki hiçbir güç karşısında durmaya cesaret edememiştir. Ama bir savaşçı tek başına karşısına çıkacak ve bu kötü büyüye meydan okuyacaktır.",
+        "poster_path": "/ddZ7Q2WZ0xAHkVXYvcEgNGFgVkw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          16
+        ],
+        "popularity": 24.1617,
+        "first_air_date": "2001-08-10",
+        "vote_average": 8.454,
+        "vote_count": 799,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/kCGwvjpqM1owt9kI4pkYPJWJLvc.jpg",
+        "id": 83867,
+        "name": "Andor",
+        "original_name": "Andor",
+        "overview": "Tehlike, hile ve entrikalarla dolu bir çağda Cassian Andor, zalim Galaktik İmparatorluk'a karşı mücadelede yaratacağı farkı keşfedecek. Cassian, onu asi bir kahramana dönüştürecek bir yola girer.",
+        "poster_path": "/n649NH6UQv3etlgc0pRgzs1ual0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 134.3376,
+        "first_air_date": "2022-09-21",
+        "vote_average": 8.2,
+        "vote_count": 1447,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/oMWnpUUCeIqvTdP3IYZ0JnPdrmU.jpg",
+        "id": 115036,
+        "name": "The Book of Boba Fett",
+        "original_name": "The Book of Boba Fett",
+        "overview": "Bu, efsanevi ödül avcısı Boba Fett ve paralı asker Fennec Shand’ın hikayesini anlatan bir Star Wars macerasıdır. Dizi, bir zamanlar suç lordu Jabba the Hutt tarafından yönetilen topraklarda hak iddia etmek için Tatooine’in kumlarına dönen Boba Fett’i ve yeraltı dünyasına hükmetmeye çalışmasını odağına alıyor.",
+        "poster_path": "/gNbdjDi1HamTCrfvM9JeA94bNi2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10765
+        ],
+        "popularity": 8.4355,
+        "first_air_date": "2021-12-29",
+        "vote_average": 7.563,
+        "vote_count": 2710,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/285SD5D2xE2x0W96dYHyRNF2YNK.jpg",
+        "id": 114478,
+        "name": "Star Wars: Visions",
+        "original_name": "Star Wars: Visions",
+        "overview": "Dünyanın dört bir köşesinden derlenen bu kısa animasyon antolojisi, eşsiz kültürel bakış açılarıyla Star Wars efsanesine bir saygı duruşu niteliğinde.",
+        "poster_path": "/1KbeU7Ppwl0EQVAxRdXAVY285dN.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10765,
+          10759
+        ],
+        "popularity": 12.166,
+        "first_air_date": "2021-09-22",
+        "vote_average": 7.2,
+        "vote_count": 392,
+        "origin_country": [
+          "JP",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/6ZgSNyG8TinOxwpITpeJDhQQOD9.jpg",
+        "id": 21650,
+        "name": "I'm in the Band",
+        "original_name": "I'm in the Band",
+        "overview": "Tripp Campbell is the new lead guitarist for Iron Weasel, a band that once ruled the world of 80s pop metal. Can he push the washed-up rockers out of his parents' guest room and back in the limelight?",
+        "poster_path": "/cHTj9R311yylFlszfpQ0tk7Gpkh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 14.1754,
+        "first_air_date": "2009-11-27",
+        "vote_average": 8.549,
+        "vote_count": 263,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/kwronSXO1ogMqHHFvY2eBxfFLdn.jpg",
+        "id": 114479,
+        "name": "The Acolyte",
+        "original_name": "The Acolyte",
+        "overview": "İmparatorluk'un yükselişinden yüz yıl önce, Jedi Düzeni ve Galaktik Cumhuriyet barış ve refah içinde gelişmektedir. Bu sırada, seri suçları soruşturan bir Jedi ustası geçmişinden tehlikeli bir savaşçıyla karşı karşıya gelir.",
+        "poster_path": "/bnVL7o0r7rnOIFZMHr6eoDigpON.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          10765
+        ],
+        "popularity": 10.0954,
+        "first_air_date": "2024-06-04",
+        "vote_average": 5.58,
+        "vote_count": 657,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dGzPJnh8YcUS4J10sNunohaXMVn.jpg",
+        "id": 1406,
+        "name": "Deadwood",
+        "original_name": "Deadwood",
+        "overview": "Deadwood, Güney Dakota'nın ilk günlerinin öyküsü; ana karakterlerin çoğu gerçek insanlara dayanan gerçek tarihi olayların etrafında örülmüş. Deadwood, bir altın madenciliği kampı olarak başlar ve yavaş yavaş kanunsuz bir vahşi batı topluluğundan organize bir vahşi batı uygar kasabaya dönüşür. Hikaye, gerçek hayattaki karakterler Seth Bullock ve Al Swearengen'e odaklanıyor.",
+        "poster_path": "/4Yp35DVbVOAWkfQUIQ7pbh3u0aN.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          37,
+          80,
+          18
+        ],
+        "popularity": 17.0847,
+        "first_air_date": "2004-03-21",
+        "vote_average": 8.126,
+        "vote_count": 838,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/eSgGtHV6Qk3QhV1fr2B66ykMIph.jpg",
+        "id": 2490,
+        "name": "The IT Crowd",
+        "original_name": "The IT Crowd",
+        "overview": "Şirketin bodrum katında bir odada çalışmak zorunda kalan iki bilgisayar delisi bilgi işlem elemanı ve onların başına müdür olarak atanan, bilgisayar bilgisi e-mail okumaktan fazla olmayan bir bayanın komik hikayesi.",
+        "poster_path": "/qZXkBoOUYzvKI4UCMzDQ5kqWHjh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 28.7609,
+        "first_air_date": "2006-02-03",
+        "vote_average": 8.151,
+        "vote_count": 1431,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/900tHlUYUkp7Ol04XFSoAaEIXcT.jpg",
+        "id": 87108,
+        "name": "Chernobyl",
+        "original_name": "Chernobyl",
+        "overview": "1986 senesinde Sovyet nükleer santralinde meydana gelen patlama sonrası santral işçileri ve itfaiyeciler faciayı kontrol altına almaya çalışır.",
+        "poster_path": "/vDwYRtmfBgM9zq4o0xbeUuVo3DL.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 23.4571,
+        "first_air_date": "2019-05-06",
+        "vote_average": 8.7,
+        "vote_count": 6809,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9czVEnJemvP6gcJlMEjUeuISL1c.jpg",
+        "id": 67178,
+        "name": "Marvel's The Punisher",
+        "original_name": "Marvel's The Punisher",
+        "overview": "Dizi, daha önce \"Daredevil\" dizisine konu olan Frank Castle'i merkezine almaktadır. Karakteri The Walking Dead dizisinden de hatırlayacağınız Jon Bernthal canlandırmaktadır. Kendisine \"Punisher/İnfazcı\" adını veren Frank, öldürücü yöntemlerle suçla mücadele eden bir antikahramandır. Ailesinin mafya tarafından öldürülmesinin ardından kendine has yöntemlerle, ne pahasına olursa olsun suçluları avlamaya başlar. Girdiği bu yolda işkence etme, adam kaçırma, tehdit etme ve her türlü öldürme yöntemini kendisine mübah sayar. Kısa zamanda suç dünyasında tanınan biri haline gelir.",
+        "poster_path": "/c86aUAhACPyloPtL2CH4ZP5hO7V.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          80,
+          18
+        ],
+        "popularity": 35.6966,
+        "first_air_date": "2017-11-17",
+        "vote_average": 8.122,
+        "vote_count": 2742,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/btFkAI2q3Dx3VVOdNRG93Pnqv90.jpg",
+        "id": 2875,
+        "name": "MacGyver",
+        "original_name": "MacGyver",
+        "overview": "MacGyver,Kanada yapılmış bir Amerikan televizyon dizisidir. Başrolünde, becerikli gizli ajan olarak, Richard Dean Anderson'ın yeraldığı dizi, Lee David Zlotoff tarafından yaratıldı ve 29 Eylül 1985'den 21 Mayıs 1992'ye kadar yedi sezon boyunca devam etti. Richard Dean Anderson'un oynadığı karakter olan Angus Macgyver (isminden çok hoşlanmadığı için dizide sık kullanmaz) bir taksi şoförü iken, taksisine aldığı Fonex'in bir çalışanı tarafından keşfedilir. Fonex çalışanı bir takibe uğrar ve Macgyver bu takipten ilginç yöntemlerini kullanarak kurtulur. Seri, daha sonra Fonex için gizli ajan olarak çalışmaya başlayan Macgyver'ın maceralarını anlatır. Silah kullanmayı sevmeyen Macgyver, fizik ve kimya bilgilerini kullanarak çevresinde bulduğu araç gereçlerden silah, bomba vs. yaparak düşmanlarının elinden kurtulacaktır.",
+        "poster_path": "/4dxSzitiWtmIFAytkyJUaoiZvhr.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          80
+        ],
+        "popularity": 74.3664,
+        "first_air_date": "1985-09-29",
+        "vote_average": 7.7,
+        "vote_count": 853,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/oyi9AeavhrKTbISf4tZ83S7xp29.jpg",
+        "id": 68267,
+        "name": "Trol Avcıları: Arcadia Hikâyeleri",
+        "original_name": "Trollhunters: Tales of Arcadia",
+        "overview": "Hayali bir kasaba olan Arcadia’nın sakinleri, yaşadıkları bölgenin altında bulunan gizemli dünyanın da oldukça geniş olduğunu keşfederler ve bu gerçek akıllarını başlarından alır. Bu keşfin sonrasında yaşananları konu alan Trollhunters, her yaştan izleyicinin ilgisini çekecek ve Guillermo Del Toro’nun yaratıcılığına bir kez daha tanık olmanızı sağlayacak.",
+        "poster_path": "/9VZmMzINVdO3ZYGsKItU39pNO2l.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          16,
+          10759,
+          35,
+          10765
+        ],
+        "popularity": 15.2189,
+        "first_air_date": "2016-12-23",
+        "vote_average": 8.441,
+        "vote_count": 1086,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/bdhFPMYxuG769gaOA7awyYpcGP.jpg",
+        "id": 58811,
+        "name": "Helix",
+        "original_name": "Helix",
+        "overview": "Battlestar Galactica'nın yaratıcısı Ronald D. Moore'un televizyona dönüş projesi. Karanlık ve gerilimli bir bilimkurgu olacak Helix; Kuzey Kutbunda bir araştırma tesisinde ortaya çıkan salgını engellemeye çalışan bir grup bilim insanının, kendilerini dünyadaki canlıların katledilmesine engel olmaya çalışırken bulmalarını anlatıyor. Tabii bu sadece başlangıç..",
+        "poster_path": "/7goT0IcsXjRo9fdMlWKr6ZRmaNP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 10.1231,
+        "first_air_date": "2014-01-10",
+        "vote_average": 6.6,
+        "vote_count": 437,
+        "origin_country": [
+          "US",
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/mt3SRKq7uRBKVntaBg2ofsDfOdg.jpg",
+        "id": 4629,
+        "name": "Stargate SG-1",
+        "original_name": "Stargate SG-1",
+        "overview": "Eski Mısır tanrıları ile uzaylılar arasında ilişki kuran 1994 yapımı 'Yıldız Kapısı- Stargate' filminin devamı niteliğindeki televizyon dizisi, yıldız kapılarıyla galaksiyi dolaşan keşif takımı SG1'ın nefes kesen maceralarını anlatıyor. Televizyon tarihinin en uzun soluklu dizilerinden biri olan 'Yıldız Geçidi'nin yönetmenliğini Marıo Azzopardı üstleniyor. Dizinin başrollerinde ise Richard Dean Anderson, Michael Shanks ve Amanda Tapping rol alıyor.Kurduğu yeni ekiple Abydos gezegenine giden Albay Jack Oneİll, Ra'ya benzer uzaylının Apophis olduğunu öğrenir ve yıldız geçitlerinin ikiyle sınırlı olmadığını keşfeder.",
+        "poster_path": "/dQjmI7XxI47v8IM2MUysHG0LuU2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          9648
+        ],
+        "popularity": 118.5941,
+        "first_air_date": "1997-07-27",
+        "vote_average": 8.282,
+        "vote_count": 1644,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

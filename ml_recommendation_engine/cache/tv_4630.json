@@ -1,0 +1,995 @@
+{
+  "adult": false,
+  "backdrop_path": "/rMKFsYeK3LPJGk9xqUHhGdqA4aB.jpg",
+  "created_by": [
+    {
+      "id": 158735,
+      "credit_id": "52577831760ee36aaa54eb65",
+      "name": "Butch Hartman",
+      "original_name": "Butch Hartman",
+      "gender": 2,
+      "profile_path": "/wEzwotJekBQLPvG93cXaQ6wqJLD.jpg"
+    }
+  ],
+  "episode_run_time": [
+    12
+  ],
+  "first_air_date": "2001-03-30",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animasyon"
+    },
+    {
+      "id": 35,
+      "name": "Komedi"
+    },
+    {
+      "id": 10765,
+      "name": "Bilim Kurgu & Fantazi"
+    },
+    {
+      "id": 10762,
+      "name": "Çocuklar"
+    }
+  ],
+  "homepage": "https://www.nick.com/shows/the-fairly-oddparents",
+  "id": 4630,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2017-07-26",
+  "last_episode_to_air": {
+    "id": 1677101,
+    "name": "37. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2017-07-26",
+    "episode_number": 37,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 12,
+    "season_number": 10,
+    "show_id": 4630,
+    "still_path": "/ipxYYrowcSWKxX5t8x3kAsToKd3.jpg"
+  },
+  "name": "Ailem Bir Acayip",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 13,
+      "logo_path": "/aYkLXz4dxHgOrFNH7Jv7Cpy56Ms.png",
+      "name": "Nickelodeon",
+      "origin_country": "US"
+    },
+    {
+      "id": 224,
+      "logo_path": "/xlUUkgMevNvnKXcZ5z7F6R2CaGw.png",
+      "name": "Nicktoons",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 268,
+  "number_of_seasons": 10,
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Fairly OddParents",
+  "overview": "10 yaşındaki Timmy havalı ebeveynlere sahip olmayı dilediğinde şunu öğrendi: Tüm dileklerinizi gerçekleştiren büyücü bir aileniz olduğunda başınıza her şey gelebilir.",
+  "popularity": 89.3737,
+  "poster_path": "/9iiATIK5QK3hckjOrgUXmgnpR4D.jpg",
+  "production_companies": [
+    {
+      "id": 67200,
+      "logo_path": "/55PebHAetX8DhJgEBoQqm0iYFZq.png",
+      "name": "Billionfold",
+      "origin_country": "US"
+    },
+    {
+      "id": 34764,
+      "logo_path": "/bvon5U0QrVapPuHLopQLfK8O8rc.png",
+      "name": "Frederator Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 5371,
+      "logo_path": "/2GFJ3jJ7dhjqcOGj41aTwd3OhQT.png",
+      "name": "Nickelodeon Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 4859,
+      "logo_path": "/wOF6aAYFE5BQryYyaMdQPqUWYwt.png",
+      "name": "Nickelodeon Animation Studio",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2001-12-12",
+      "episode_count": 16,
+      "id": 14154,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/wnMKXmjYl9rWCaX6pjMvma0wKCH.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2001-03-30",
+      "episode_count": 12,
+      "id": 14155,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/fctyxLbxtXsHJi2YsR8o95XdKCh.jpg",
+      "season_number": 1,
+      "vote_average": 8.5
+    },
+    {
+      "air_date": "2002-03-01",
+      "episode_count": 29,
+      "id": 14156,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/lXGxGW08iwmiWNPhKJbzlqwijKe.jpg",
+      "season_number": 2,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2003-01-20",
+      "episode_count": 29,
+      "id": 14157,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/q0DVytE1yEIvwhmsGH9bO0AGkAu.jpg",
+      "season_number": 3,
+      "vote_average": 6.4
+    },
+    {
+      "air_date": "2004-02-16",
+      "episode_count": 21,
+      "id": 14158,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/rI1pU0eoZAsyfWYKUb5XYXb4e3Q.jpg",
+      "season_number": 4,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2005-02-14",
+      "episode_count": 34,
+      "id": 14159,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/7wSsnJZ3tCDY9oDhiUSnI4noXoP.jpg",
+      "season_number": 5,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2008-03-10",
+      "episode_count": 18,
+      "id": 14153,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/2YH4omFedMA8w6Hb9WlNchvP5E.jpg",
+      "season_number": 6,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2009-07-06",
+      "episode_count": 27,
+      "id": 14160,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/soQwzCumfqCvNjWQQmU17mnfAw8.jpg",
+      "season_number": 7,
+      "vote_average": 6.3
+    },
+    {
+      "air_date": "2011-02-12",
+      "episode_count": 18,
+      "id": 14161,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/bjzsskuz7xxhPkWyOmr3ov6Npb0.jpg",
+      "season_number": 8,
+      "vote_average": 5.0
+    },
+    {
+      "air_date": "2013-03-23",
+      "episode_count": 43,
+      "id": 14152,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/eYMpnDMY2JmCGB3ifOIyuxs5jdm.jpg",
+      "season_number": 9,
+      "vote_average": 4.3
+    },
+    {
+      "air_date": "2016-01-15",
+      "episode_count": 37,
+      "id": 73866,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/q27owGHSCWqq2UPaS9AQ0BuMPto.jpg",
+      "season_number": 10,
+      "vote_average": 4.5
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.565,
+  "vote_count": 1011,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15762,
+        "known_for_department": "Acting",
+        "name": "Tara Strong",
+        "original_name": "Tara Strong",
+        "popularity": 4.5344,
+        "profile_path": "/8Z86FfWbnUJnyFTcLa9MpVVFhMh.jpg",
+        "character": "Timmy Turner / Poof (voice)",
+        "credit_id": "5da8d8aab2681f00168e2d56",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 89042,
+        "known_for_department": "Acting",
+        "name": "Susanne Blakeslee",
+        "original_name": "Susanne Blakeslee",
+        "popularity": 1.6116,
+        "profile_path": "/5s4vquKADCS90iOiEwgCTZkaQjX.jpg",
+        "character": "Wanda / Mrs. Turner (voice)",
+        "credit_id": "57b89866c3a36863670016be",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31162,
+        "known_for_department": "Acting",
+        "name": "Daran Norris",
+        "original_name": "Daran Norris",
+        "popularity": 2.4628,
+        "profile_path": "/oLaegqPwuEdNNJVqrvcgI6guYsi.jpg",
+        "character": "Cosmo / Mr. Turner (voice)",
+        "credit_id": "5257782f760ee36aaa54e668",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59784,
+        "known_for_department": "Acting",
+        "name": "Carlos Alazraqui",
+        "original_name": "Carlos Alazraqui",
+        "popularity": 2.7903,
+        "profile_path": "/d2hufnjlfsZiY7N9NLZ6b7FE1IZ.jpg",
+        "character": "Denzel Q. Crocker (voice)",
+        "credit_id": "5257782f760ee36aaa54e69e",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86007,
+        "known_for_department": "Acting",
+        "name": "Jim Ward",
+        "original_name": "Jim Ward",
+        "popularity": 1.554,
+        "profile_path": "/7Um56ftGoxN6c5GxJSNckeARCDy.jpg",
+        "character": "Chet Ubetcha (voice)",
+        "credit_id": "5257782f760ee36aaa54e70a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 215588,
+        "known_for_department": "Acting",
+        "name": "Gary LeRoi Gray",
+        "original_name": "Gary LeRoi Gray",
+        "popularity": 1.4715,
+        "profile_path": "/2NDjq601E5BFBPGx5fyL43UnJmQ.jpg",
+        "character": "A.J. (voice)",
+        "credit_id": "563bcd03c3a3681b5e023fe1",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15761,
+        "known_for_department": "Acting",
+        "name": "Grey DeLisle",
+        "original_name": "Grey DeLisle",
+        "popularity": 4.4172,
+        "profile_path": "/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg",
+        "character": "Vicky (voice)",
+        "credit_id": "5257782f760ee36aaa54e6d4",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 116315,
+        "known_for_department": "Acting",
+        "name": "Kari Wahlgren",
+        "original_name": "Kari Wahlgren",
+        "popularity": 2.9274,
+        "profile_path": "/zOr1RedcTfmntJO0gXxFkyxNBkE.jpg",
+        "character": "Chloe Carmichael (voice)",
+        "credit_id": "5db62e6ad2c0c1001b147f06",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 158735,
+        "known_for_department": "Writing",
+        "name": "Butch Hartman",
+        "original_name": "Butch Hartman",
+        "popularity": 1.4564,
+        "profile_path": "/wEzwotJekBQLPvG93cXaQ6wqJLD.jpg",
+        "credit_id": "52577834760ee36aaa54ed2b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 954980,
+        "known_for_department": "Production",
+        "name": "Fred Seibert",
+        "original_name": "Fred Seibert",
+        "popularity": 0.9312,
+        "profile_path": "/fc3R8FIXhkKumPNBERUmbpoikkX.jpg",
+        "credit_id": "52577834760ee36aaa54ece5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56889,
+        "known_for_department": "Sound",
+        "name": "Guy Moon",
+        "original_name": "Guy Moon",
+        "popularity": 1.0916,
+        "profile_path": "/5dVdVIU24sUN8Gc55v32K1xxvVu.jpg",
+        "credit_id": "65b81632a39d0b01780bda43",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1645481,
+        "known_for_department": "Production",
+        "name": "Angela Leung",
+        "original_name": "Angela Leung",
+        "popularity": 0.1471,
+        "profile_path": null,
+        "credit_id": "6769fd0c010088364b7eba59",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1645481,
+        "known_for_department": "Production",
+        "name": "Angela Leung",
+        "original_name": "Angela Leung",
+        "popularity": 0.1471,
+        "profile_path": null,
+        "credit_id": "6769fd28416a3443b5a9e390",
+        "department": "Production",
+        "job": "Production Driver"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3663274,
+        "known_for_department": "Art",
+        "name": "Mike Dougherty",
+        "original_name": "Mike Dougherty",
+        "popularity": 0.3939,
+        "profile_path": null,
+        "credit_id": "6769fe4e010088364b7ebaec",
+        "department": "Art",
+        "job": "Prop Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3663274,
+        "known_for_department": "Art",
+        "name": "Mike Dougherty",
+        "original_name": "Mike Dougherty",
+        "popularity": 0.3939,
+        "profile_path": null,
+        "credit_id": "6769fe7846f0b37dfba9de3f",
+        "department": "Art",
+        "job": "Art Direction Intern"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 189406,
+        "known_for_department": "Sound",
+        "name": "Ron Jones",
+        "original_name": "Ron Jones",
+        "popularity": 0.6688,
+        "profile_path": null,
+        "credit_id": "6769ff14475804a99d64a6dd",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 189406,
+        "known_for_department": "Sound",
+        "name": "Ron Jones",
+        "original_name": "Ron Jones",
+        "popularity": 0.6688,
+        "profile_path": null,
+        "credit_id": "6769ff42aeae31555c7eb241",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 189406,
+        "known_for_department": "Sound",
+        "name": "Ron Jones",
+        "original_name": "Ron Jones",
+        "popularity": 0.6688,
+        "profile_path": null,
+        "credit_id": "6769ff80b434251268a9dc2d",
+        "department": "Visual Effects",
+        "job": "Compositing Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1120175,
+        "known_for_department": "Writing",
+        "name": "David J. Steinberg",
+        "original_name": "David J. Steinberg",
+        "popularity": 0.4916,
+        "profile_path": null,
+        "credit_id": "676a0002aeae31555c7eb283",
+        "department": "Crew",
+        "job": "Manager of Operations"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1120175,
+        "known_for_department": "Writing",
+        "name": "David J. Steinberg",
+        "original_name": "David J. Steinberg",
+        "popularity": 0.4916,
+        "profile_path": null,
+        "credit_id": "676a0018475804a99d64a71b",
+        "department": "Crew",
+        "job": "Thanks"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "fairy",
+        "id": 2710
+      },
+      {
+        "name": "wish",
+        "id": 4896
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/1A2uKV8XQCSoY84MBNLnaD5ez7c.jpg",
+        "id": 1567,
+        "name": "CatDog",
+        "original_name": "CatDog",
+        "overview": "The life and times of a cat and a dog with a unique twist: they're connected, literally. They share one body with a Dog's head at one end and Cat's head on the other. Adding to their dilemma is Cat's annoyance with Dog, mainly caused by Dog's stupidity and Cat's up-tight personality. Characters: Cat - Cat is the smarter one of the two brothers, and is always hatching some kind of plot to get his brother to calm down, so that Cat doesn't get beat around and hurt. Even though most of these plots involve messing with Dog's feeble mind, they often backfire on Cat, much to his dismay. It may not show all the time but, he deeply loves, and cares for his brother Dog. Dog - Dog is the more lovable of the two brothers, Dog loves to play and party and play some more, he loves baseball and playing fetch with frisbees, balls, sticks, etc, He is very friendly, and happy, but does have a breaking point. He's very sensitive, and if he fails at something he feels horrible, and worthless",
+        "poster_path": "/fkSCg9negcHAVO3gXohqEidqrsX.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10762
+        ],
+        "popularity": 15.6341,
+        "first_air_date": "1998-04-04",
+        "vote_average": 7.0,
+        "vote_count": 406,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1qygvgx7R0dJ1bqHqEZub6CSt5a.jpg",
+        "id": 2129,
+        "name": "The Adventures of Jimmy Neutron: Boy Genius",
+        "original_name": "The Adventures of Jimmy Neutron: Boy Genius",
+        "overview": "Jimmy Neutron is the smartest kid in town. As a genius, Jimmy thinks most things can be solved with the invention of a new gizmo. But Jimmy usually takes the easy way out, and his backfiring gadgets result in comedic adventures.",
+        "poster_path": "/cwmZY5PCWawjE2QZPdBaPBSnoqO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          35,
+          10765,
+          10762
+        ],
+        "popularity": 62.7725,
+        "first_air_date": "2002-07-20",
+        "vote_average": 7.399,
+        "vote_count": 809,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lXQpWlN24cxwBjNvqOUju2WouDg.jpg",
+        "id": 1760,
+        "name": "As Told by Ginger",
+        "original_name": "As Told by Ginger",
+        "overview": "As Told by Ginger focuses on middle schooler Ginger Foutley who, with her friends, tries to become more than a social geek.",
+        "poster_path": "/6Kd09yYpf2qEYusPB9rtsidMnJu.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          16,
+          35,
+          10762
+        ],
+        "popularity": 24.4156,
+        "first_air_date": "2000-10-25",
+        "vote_average": 6.567,
+        "vote_count": 82,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/t9cRI8CKYWlLFhdZF020UIpCim4.jpg",
+        "id": 17404,
+        "name": "Chopped",
+        "original_name": "Chopped",
+        "overview": "A high energy, fast paced cooking competition that challenges four up-and-coming chefs to turn a selection of everyday ingredients into an extraordinary three-course meal. After each course, a contestant gets “chopped” by our panel of esteemed culinary luminaries until the last man or woman left standing claims victory.",
+        "poster_path": "/x7g390tj73dtlGX3ajZrlQRcRpO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 74.2256,
+        "first_air_date": "2009-01-13",
+        "vote_average": 6.3,
+        "vote_count": 57,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/3MY7hMWrJ13Xtb1Y4jd7tztyPaZ.jpg",
+        "id": 387,
+        "name": "SüngerBob KarePantalon",
+        "original_name": "SpongeBob SquarePants",
+        "overview": "SüngerBob KareŞort veya SüngerBob Karepantolon, Nickelodeon kanalı için deniz biyolojisi eğitimcisi ve animatör Stephen Hillenburg tarafından yaratılmış bir Amerikan animasyon komedi televizyon dizisidir. Diziye adını veren SüngerBob ve arkadaşlarının Bikini Kasabası adlı su altı şehrindeki maceralarını anlatır.",
+        "poster_path": "/uLp6c03Cb9e2KrYSfn4QIi0lXXx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10751
+        ],
+        "popularity": 14.6558,
+        "first_air_date": "1999-05-01",
+        "vote_average": 7.7,
+        "vote_count": 3031,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gbmN2y9Dqm6XKEev1kd8GkGLLn.jpg",
+        "id": 2808,
+        "name": "Totally Spies!",
+        "original_name": "Totally Spies !",
+        "overview": "Totally Spies! depicts three girlfriends 'with an attitude' who have to cope with their daily lives at high school as well as the unpredictable pressures of international espionage. They confront the most intimidating - and demented - of villains, each with their own special agenda for demonic, global rude behavior.",
+        "poster_path": "/zSu4xj0WKh9W6V2QQl3qPBKMaoI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          16,
+          10762,
+          35,
+          10759
+        ],
+        "popularity": 57.8705,
+        "first_air_date": "2002-04-03",
+        "vote_average": 7.3,
+        "vote_count": 241,
+        "origin_country": [
+          "FR"
+        ]
+      },
+      {
+        "backdrop_path": "/hNwcgo06myd7ei7p8A1Y1b0VabU.jpg",
+        "id": 607,
+        "name": "The Powerpuff Girls",
+        "original_name": "The Powerpuff Girls",
+        "overview": "The Powerpuff Girls is a animated television series about Blossom, Bubbles, and Buttercup, three kindergarten-aged girls with superpowers, as well as their \"father\", the brainy scientist Professor Utonium, who all live in the fictional city of Townsville, USA. The girls are frequently called upon by the town's childlike and naive mayor to help fight nearby criminals using their powers.",
+        "poster_path": "/4CMPCuP6ihU5UvTStv23aGEEMuC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          35,
+          10762,
+          10751
+        ],
+        "popularity": 56.8503,
+        "first_air_date": "1998-11-18",
+        "vote_average": 7.54,
+        "vote_count": 920,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/pxeqQX4qFQ0cVxPt5SWZENV5BH3.jpg",
+        "id": 456,
+        "name": "The Simpsons",
+        "original_name": "The Simpsons",
+        "overview": "Bu animasyon komedi Springfield'de diziye adını veren aileye odaklanıyor. Baba Homer tipik bir aile babası değil. Nükleer santralde çalışarak ailesine liderlik etmeye çabalıyor ancak çoğu zaman ailesi onu yönetiyor. Sevgi dolu, mavi saçlı aile reisi anne Marge, sorun çıkaran oğlu Bart, çok başarılı kızı Lisa ve bebek Maggie ailenin diğer fertleri.",
+        "poster_path": "/l8KFfRLiS7ECtbq2nydD7tQ96A2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          16,
+          35
+        ],
+        "popularity": 182.262,
+        "first_air_date": "1989-12-17",
+        "vote_average": 8.016,
+        "vote_count": 10187,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/r6NeRD3diZI7dWEFrRhrwYWoxyB.jpg",
+        "id": 1720,
+        "name": "Foster'ın Hayalî Dostlar Mekânı",
+        "original_name": "Foster's Home for Imaginary Friends",
+        "overview": "8 yaşında, akıllı ve utangaç bir çocuk olan Mac ve onun hayali arkadaşı Bloo'yla tanışın. Bu iki ayrılması güç arkadaş, hayatlarının en güzel dönemini yaşıyorlardı. Ta ki, Mac'in annesi onun artık hayali bir arkadaşa sahip olmak için çok büyüdüğünü söyleyene kadar...",
+        "poster_path": "/kj6oGL4qqFDY8PGmTloqGQ2TblS.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10762,
+          16,
+          10751,
+          10765,
+          35
+        ],
+        "popularity": 24.6379,
+        "first_air_date": "2004-08-13",
+        "vote_average": 7.798,
+        "vote_count": 481,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cFuk3BU0sid8dby05eyyBPtK4dD.jpg",
+        "id": 2085,
+        "name": "Cesur Korkak Köpek",
+        "original_name": "Courage the Cowardly Dog",
+        "overview": "Kimi zaman ürkek kimi zaman ise cesur olan maceraperest köpeğimizin sahipleriyle olan maceralarını anlatan bir animasyondur. Cartoon Network Türkiye tarafından yayınlanmıştır.",
+        "poster_path": "/dzD8EWDvtg7rBCINu0RCH5EUejh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10751,
+          10765,
+          35,
+          10762
+        ],
+        "popularity": 74.0402,
+        "first_air_date": "1999-11-12",
+        "vote_average": 8.17,
+        "vote_count": 1529,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/fKpfCR3l0WukHTkI6Z2ySX1if4P.jpg",
+        "id": 3022,
+        "name": "Rugrats",
+        "original_name": "Rugrats",
+        "overview": "Ülkemizde de gösterilmiş olan, Tommy Pickles, Chuckie Finster, Phill & Lil Deville ismindeki bebeklerin hikayelerinin anlatıldığı muhteşem bir çizgi film. Tommy grubun lideri, en cesuru, Chuckie ise korkağıdır. Phill ve Lil ise grubun iğrenç olan herşeyden hoşlanan ikizleridir. Bir de bu bebeklerin baş belası Angelica Pickles vardır. Kendisinden çok çekerler. 1991 ile 2004 yılları arasında gösterilmiş 10 sezon sürmüş ve kült olmuş bir çizgi filmdir. Daha sonrasında 3 adet filmi de çekilmiştir. Ayrıca \"All Grown Up\" isminde bebeklerin büyüdükleri halini de anlatan bir spin off'u mecvuttur.",
+        "poster_path": "/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          16,
+          10762,
+          35
+        ],
+        "popularity": 59.8456,
+        "first_air_date": "1991-08-11",
+        "vote_average": 7.595,
+        "vote_count": 708,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5MWFjQ3NuNtNeOE9FdrVLeNMNPs.jpg",
+        "id": 1877,
+        "name": "Phineas ve Förb",
+        "original_name": "Phineas and Ferb",
+        "overview": "\"Phineas and Ferb\" / \"Phineas ve Förb\" - Yazın her gününü iyi değerlendiren iki üvey kardeş, küçük yaşta olmalarına rağmen çok zekidirler. Yazın her günü sıkılmayacakları yeni bir icat yaparlar. Ama Bu icatlar kız kardeşleri Candace'in ispiyonlama isteğini hergeçen gün dahada arttırır. Bu arada, evcil hayvanları ornitorenk, kötü Dr. Doofenshmirtz'e karşı Her gün kötü icatlarını yok etmek için karşı karşıya.",
+        "poster_path": "/oSLwJMOOQGAsyJNMi4Y3MO44iAJ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10751,
+          10765
+        ],
+        "popularity": 77.0996,
+        "first_air_date": "2007-08-17",
+        "vote_average": 7.883,
+        "vote_count": 896,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2Ne8sYfnnRVl9BaghudN8bSkMnW.jpg",
+        "id": 1682,
+        "name": "Teletubbies",
+        "original_name": "Teletubbies",
+        "overview": "Pre-school fun, fantasy and education with colourful rotund characters Tinky Winky, Dipsy, Laa-Laa and Po in a magical land called Teletubbyland.",
+        "poster_path": "/orb9uGxgXs1Lo69SWwWeS5MxA2l.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          10762
+        ],
+        "popularity": 31.3556,
+        "first_air_date": "1997-03-31",
+        "vote_average": 4.497,
+        "vote_count": 153,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/pSCOyP2VKzEmwXmDCjWU0pL0WD7.jpg",
+        "id": 32900,
+        "name": "Morgan Freeman ile Evrenin Sırları",
+        "original_name": "Through the Wormhole",
+        "overview": "Gezegenin en zeki bilim insanlarıyla birlikte varoluşumuzun en derin gizemlerini ve insanlığı sonsuza dek şaşırtan soruları araştırıran bu belgesel, Morgan Freeman’ın sunumuyla, evrenin kökeni, insanın yapısı, başlangıç öncesinde ne olduğu, gerçekten yalnız mıyız, bir yaratıcı var mı gibi sorulara yanıt arar. Bu sorular, insanlık tarihinde en parlak zihinler tarafından düşünülmüştür.",
+        "poster_path": "/cEziWNr1n1HKAuKhngF2n4engOR.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 20.0979,
+        "first_air_date": "2010-06-09",
+        "vote_average": 7.5,
+        "vote_count": 148,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lOtqhEeng0lBjsYU2AJ1t6GssV3.jpg",
+        "id": 9693,
+        "name": "The Civil War",
+        "original_name": "The Civil War",
+        "overview": "A documentary on the American Civil War narrated by Ken Burns, covering the secession of the Confederacy to the assassination of Abraham Lincoln.",
+        "poster_path": "/qs6J3T0mfAlmoOOUt0B2d4zd6je.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          10768,
+          18
+        ],
+        "popularity": 9.7962,
+        "first_air_date": "1990-09-23",
+        "vote_average": 8.054,
+        "vote_count": 111,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/o5P2aI2MKuMYZIP5YO3ahVMBaOh.jpg",
+        "id": 60874,
+        "name": "Space Dandy",
+        "original_name": "スペース☆ダンディ",
+        "overview": "Space Dandy is a dandy in space! This dreamy adventurer with a to-die-for pompadour travels across the galaxy in search of aliens no one has ever laid eyes on. Each new species he discovers earns him a hefty reward, but this dandy has to be quick on his feet because it’s first come – first served! Accompanied by his sidekicks, a rundown robot named QT and Meow the cat-looking space alien, Dandy bravely explores unknown worlds inhabited by a variety aliens. Join the best dressed alien hunter in all of space and time as he embarks on an adventure that ends at the edge of the universe!",
+        "poster_path": "/ypaXEydotwQyDvdV7bgVND9fOTx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10759
+        ],
+        "popularity": 6.109,
+        "first_air_date": "2014-01-04",
+        "vote_average": 7.486,
+        "vote_count": 110,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/wIe1HL7oMNwyltsqqx2sCPwNl4w.jpg",
+        "id": 2304,
+        "name": "Thomas & Friends",
+        "original_name": "Thomas & Friends",
+        "overview": "Thomas & Friends is a British children's television series, which had its first broadcast on the ITV network on 4 September 1984. It is based on The Railway Series of books by the Reverend Wilbert Awdry and his son, Christopher Awdry. These books deal with the adventures of a group of anthropomorphised locomotives and road vehicles who live on the fictional Island of Sodor. The books were based on stories Wilbert told to entertain his son, Christopher during his recovery from measles. From Series one to four, many of the stories are based on events from Awdry's personal experience.",
+        "poster_path": "/ovJvWQ8E8aYShcRlTwpqKhuq7FA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762
+        ],
+        "popularity": 74.8759,
+        "first_air_date": "1984-10-09",
+        "vote_average": 6.7,
+        "vote_count": 123,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/wYTv1Zy3WFNi63lxwpBQ61Yrgj0.jpg",
+        "id": 2767,
+        "name": "The Vicar of Dibley",
+        "original_name": "The Vicar of Dibley",
+        "overview": "Reverend Granger is assigned as the Vicar of the rural parish of Dibley, but she is not quite what the villagers expected.",
+        "poster_path": "/oSMljUndA07O8eMCSwaal4kcWoq.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 19.0635,
+        "first_air_date": "1994-11-10",
+        "vote_average": 7.335,
+        "vote_count": 94,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/2szaiTJ12GiVGeNsBIW0u5wkWLr.jpg",
+        "id": 11089,
+        "name": "Mock the Week",
+        "original_name": "Mock the Week",
+        "overview": "Mock the Week is a British topical celebrity panel game hosted by Dara Ó Briain. The game is influenced by improvised topical stand-up comedy, with several rounds requiring players to deliver answers on unexpected subjects on the spur of the moment.",
+        "poster_path": "/gewfnFndT4mgtgR3zPrGLsBTdZE.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 33.9676,
+        "first_air_date": "2005-06-05",
+        "vote_average": 7.0,
+        "vote_count": 76,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/JdMKUtYVUKUqXaMh2ZzlxAphR8.jpg",
+        "id": 1964,
+        "name": "The Jeffersons",
+        "original_name": "The Jeffersons",
+        "overview": "Sitcom following a successful African-American couple, George and Louise “Weezyö Jefferson as they “move on up” from working-class Queens to a ritzy Manhattan apartment. A spin-off of All in the Family.",
+        "poster_path": "/iFjIaWr9qDKMLnnh8tHwO6Tzp6D.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 39.7632,
+        "first_air_date": "1975-01-18",
+        "vote_average": 7.302,
+        "vote_count": 111,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

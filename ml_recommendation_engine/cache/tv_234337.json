@@ -1,0 +1,755 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2023-10-16",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 10766,
+      "name": "Pembe Dizi"
+    },
+    {
+      "id": 10751,
+      "name": "Aile"
+    }
+  ],
+  "homepage": "",
+  "id": 234337,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2025-02-27",
+  "last_episode_to_air": {
+    "id": 6012504,
+    "name": "46. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-06",
+    "episode_number": 46,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 34,
+    "season_number": 3,
+    "show_id": 234337,
+    "still_path": null
+  },
+  "name": "Die Landarztpraxis",
+  "next_episode_to_air": {
+    "id": 6012505,
+    "name": "47. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-07",
+    "episode_number": 47,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 35,
+    "season_number": 3,
+    "show_id": 234337,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 163,
+      "logo_path": "/tpuoOACmOTDY96gSQ2dT5sd1Q3Q.png",
+      "name": "SAT.1",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 182,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Die Landarztpraxis",
+  "overview": "",
+  "popularity": 2671.864,
+  "poster_path": "/50SoVJ73Gnk0pBpUdQuCgOdyMrW.jpg",
+  "production_companies": [
+    {
+      "id": 6904,
+      "logo_path": "/hYZGaKXbbpf6KS3slxiglZZj9kL.png",
+      "name": "Filmpool Entertainment",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-10-16",
+      "episode_count": 60,
+      "id": 355942,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/uf0Raoyav15TAdWOgWVplLzWIzw.jpg",
+      "season_number": 1,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2024-05-07",
+      "episode_count": 80,
+      "id": 396894,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/unuQj3l6jRXv5h4epkj1AfXnKM9.jpg",
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2024-12-27",
+      "episode_count": 47,
+      "id": 435197,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 3.0,
+  "vote_count": 3,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1302132,
+        "known_for_department": "Acting",
+        "name": "Caroline Frier",
+        "original_name": "Caroline Frier",
+        "popularity": 3.014,
+        "profile_path": "/a22jDtfL260k7d8OqkfYkvrIayD.jpg",
+        "character": "Dr. Sarah König",
+        "credit_id": "64fa50f45f2b8d00fef66885",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2591828,
+        "known_for_department": "Acting",
+        "name": "Katharina Hirschberg",
+        "original_name": "Katharina Hirschberg",
+        "popularity": 0.701,
+        "profile_path": "/1S9SuloWPcUjc128UH5hKcAZcg1.jpg",
+        "character": "Leo König",
+        "credit_id": "64fa510affc9de00fe3fbe69",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1149824,
+        "known_for_department": "Acting",
+        "name": "Oliver Franck",
+        "original_name": "Oliver Franck",
+        "popularity": 1.531,
+        "profile_path": "/hja4CejnjTE7jmPTWCJEoIF6oPu.jpg",
+        "character": "Dr. Fabian Kroiß",
+        "credit_id": "64fa511ca8b2ca4f1a3fdcd5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1640146,
+        "known_for_department": "Acting",
+        "name": "Alexander Koll",
+        "original_name": "Alexander Koll",
+        "popularity": 0.069,
+        "profile_path": "/sAdKDlpf2TMyC04ARv3MIYPYXtE.jpg",
+        "character": "Max Raichinger",
+        "credit_id": "64fa51315f2b8d0139d0d29b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1339203,
+        "known_for_department": "Acting",
+        "name": "Rosetta Pedone",
+        "original_name": "Rosetta Pedone",
+        "popularity": 0.482,
+        "profile_path": "/ilBfiWFy5kz2OdbGyvCs1YX2NTR.jpg",
+        "character": "Bianca Marino",
+        "credit_id": "64fa513fdc1cb400e53f2419",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1962166,
+        "known_for_department": "Acting",
+        "name": "Kathrin Anne Hess",
+        "original_name": "Kathrin Anne Hess",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Dr. Alexandra Seeberger-Kroiß",
+        "credit_id": "64fa5160ffc9de011bea207e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4259690,
+        "known_for_department": "Acting",
+        "name": "Simon Lucas",
+        "original_name": "Simon Lucas",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Basti Raichinger",
+        "credit_id": "64fa5186a84a4700e3d37e92",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 575634,
+        "known_for_department": "Acting",
+        "name": "Birgit Schneider",
+        "original_name": "Birgit Schneider",
+        "popularity": 0.041,
+        "profile_path": null,
+        "character": "Annemarie König",
+        "credit_id": "64fa519ca8b2ca4f1bc93276",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3313953,
+        "known_for_department": "Acting",
+        "name": "Holger Menzel",
+        "original_name": "Holger Menzel",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Johannes Bachmair",
+        "credit_id": "64fa51aba84a47011d48651d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4259691,
+        "known_for_department": "Acting",
+        "name": "Melanie Weichl",
+        "original_name": "Melanie Weichl",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Martina Bachmair",
+        "credit_id": "64fa51bfdc1cb401028c84d8",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39586,
+        "known_for_department": "Acting",
+        "name": "Christian Hoening",
+        "original_name": "Christian Hoening",
+        "popularity": 2.765,
+        "profile_path": "/c05hqr14jMoYtTN1cyHYnhAXiBD.jpg",
+        "character": "Dr. Georg Kroiß",
+        "credit_id": "65301a6ea6a4c100ca4a9e56",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1428159,
+        "known_for_department": "Acting",
+        "name": "Marion Mathoi",
+        "original_name": "Marion Mathoi",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Resi Hinterwimmer",
+        "credit_id": "65301aaf945d3600adc95380",
+        "order": 11
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": []
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/lAsz5DYQpXcOONSVuZdZIrtZoIv.jpg",
+        "id": 4920,
+        "name": "Damages",
+        "original_name": "Damages",
+        "overview": "Genç ve idealist avukat Ellen Parsons için Hewes & Associates hukuk firması ve sahibi Patty Hewes’la çalışmak, kariyerinin geleceği için çok büyük bir adım demek. Patty içinse çalışkanlığı ve meslek aşkı taptaze olan bu kız, elindeki dava için bulunmaz kumaş. Ünlü avukat, kendi gençliğine benzettiği Ellen’ı kanatları altına alıyor ve birlikte milyarder Arthur Frobisher’ın mağdur ettiği eski çalışanlarına haklarının verilmesi için var güçleriyle acımasız bir savaşa girişiyorlar.",
+        "poster_path": "/bowEbW8Q3Oc02BvHBKTL5gWv9Nx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          18,
+          80
+        ],
+        "popularity": 131.893,
+        "first_air_date": "2007-07-24",
+        "vote_average": 7.5,
+        "vote_count": 212,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wNDtuqgUAjptvaJYZzTjcUyJiGn.jpg",
+        "id": 64054,
+        "name": "Wicked Tuna: Outer Banks",
+        "original_name": "Wicked Tuna: Outer Banks",
+        "overview": "The long, cold winter has just hit New England, and while the bluefin tuna season has come to an end in Gloucester, Mass., it’s just getting started in the Outer Banks of North Carolina. After a disappointing season, several of Gloucester’s top fishermen head south to try to salvage their finances by fishing for the elusive bluefin tuna in unfamiliar Carolina waters before the experienced locals beat them to the catch. It’s a whole new battlefield and the Northern captains must conquer new styles of fishing, treacherous waters and the wrath of the Outer Banks’ top fishermen. They’re gambling on what could be a massive payday … or a huge financial loss.",
+        "poster_path": "/pZLdxqTHRvXD7DNXQgjMGAFnZKD.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 33.589,
+        "first_air_date": "2014-08-17",
+        "vote_average": 7.2,
+        "vote_count": 15,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/TH5eoVmj8NM3l7RYu9p8aBbYx0.jpg",
+        "id": 3370,
+        "name": "Eek! The Cat",
+        "original_name": "Eek! The Cat",
+        "overview": "Koombaya, it's Eek the cat and all his friends. Annabelle, Eek's 800-pound girlfriend, Sharky the vicious but lovable sharkdog, and Elmo the elk. Plus you can watch the Terrible Thunderlizards try to make Bill and Scooter, the cavemen, extinct. Plus there's Klutter who's, well, we're not exactly sure what Klutter is, but watch and find out for yourself.",
+        "poster_path": "/scqjDAOkZiswdZwG5Z1C9LKyLwr.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762
+        ],
+        "popularity": 65.143,
+        "first_air_date": "1992-09-11",
+        "vote_average": 6.8,
+        "vote_count": 107,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/h3F3LlriXJBD8Zr7D4JRFIheCHG.jpg",
+        "id": 64852,
+        "name": "Trapped",
+        "original_name": "Ófærð",
+        "overview": "Büyük bir kar fırtınası yüzünden dünyanın geri kalanıyla bağlantısı kesilen küçük bir İzlanda kasabasında, vahşi bir cinayete kurban gitmiş bir ceset bulunur.",
+        "poster_path": "/bTpSWcEqeTXH7Ipr2XUfGW36n02.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "is",
+        "genre_ids": [
+          18,
+          9648,
+          80
+        ],
+        "popularity": 52.057,
+        "first_air_date": "2015-12-27",
+        "vote_average": 7.3,
+        "vote_count": 243,
+        "origin_country": [
+          "IS"
+        ]
+      },
+      {
+        "backdrop_path": "/hiReFpcc4NZOZdbtyOYrcZ5vCv3.jpg",
+        "id": 2962,
+        "name": "The Mary Tyler Moore Show",
+        "original_name": "The Mary Tyler Moore Show",
+        "overview": "30-year-old single Mary Richards moves to Minneapolis to start a new life after a romantic break-up. There she reacquaints with Phyllis who rents her a room, and meets her upstairs neighbor and new best friend Rhoda. Mary unexpectedly lands a job as associate producer at the TV station WJM, where she works alongside her bristly boss, Lou; the comical newswriter, Murray; and the newscast's often-incompetent anchor, Ted.",
+        "poster_path": "/nFsgsmK7isjtdEVTL35mJEQZHuO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 266.631,
+        "first_air_date": "1970-09-19",
+        "vote_average": 7.514,
+        "vote_count": 71,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/i0bVPXHdvLQzE1Ld8dDwbCj1kOW.jpg",
+        "id": 64439,
+        "name": "Making a Murderer",
+        "original_name": "Making a Murderer",
+        "overview": "Filmed over 10 years, this real-life thriller follows a DNA exoneree who, while exposing police corruption, becomes a suspect in a grisly new crime.",
+        "poster_path": "/sy2nV3rCcJQaRK5M0NWvvTU7CBx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          80
+        ],
+        "popularity": 24.106,
+        "first_air_date": "2015-12-18",
+        "vote_average": 7.833,
+        "vote_count": 483,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4Wix9wMSArpgYBMV5ndZCJqEQbG.jpg",
+        "id": 16946,
+        "name": "Hayat",
+        "original_name": "Life",
+        "overview": "Bu belgesel, dünyamızın dört bir yanındaki en ilginç ve egzotik canlıları ve onların hayatta kalma mücadelelerini detaylı bir şekilde ele alır.\n\nHer bölüm, farklı bir ekosistemden veya habitattan canlıların yaşamına odaklanarak, doğanın zengin çeşitliliğini ve karmaşıklığını gözler önüne serer. Life, sadece hayvanların değil, aynı zamanda bitkiler ve mikroorganizmaların da hayatta kalma stratejilerini keşfeder. Belgesel, hayvanların avlanma, üreme, göç etme ve sosyal yapılar kurma gibi temel davranışlarını derinlemesine inceleyerek, izleyicilere doğadaki yaşamın inanılmaz gücünü ve zarif dengesini gösterir.  Life belgeseli, gezegenimizdeki hayatta kalma savaşlarının ne kadar çetin olduğunu, aynı zamanda doğanın mükemmel uyumunu da yansıtarak izleyiciyi etkileyici bir görsel ve duygusal yolculuğa çıkarır.",
+        "poster_path": "/9dVHGMYfI6T6p07UHfYVUk1Wzit.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 12.963,
+        "first_air_date": "2009-10-11",
+        "vote_average": 8.327,
+        "vote_count": 359,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/w0GA9tmKfRgxXj2zPUp0qzDuYjC.jpg",
+        "id": 60694,
+        "name": "Last Week Tonight with John Oliver",
+        "original_name": "Last Week Tonight with John Oliver",
+        "overview": "A half-hour satirical look at the week in news, politics and current events.",
+        "poster_path": "/b12eM3FXNjN7yM7XYTIdmeQRud9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767,
+          35,
+          10763
+        ],
+        "popularity": 692.022,
+        "first_air_date": "2014-04-27",
+        "vote_average": 7.888,
+        "vote_count": 688,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5evkOLJ3HlYrwpy6Q5DlubiHzCJ.jpg",
+        "id": 58937,
+        "name": "Sex Uzmanları",
+        "original_name": "Masters of Sex",
+        "overview": "Dizi, insan cinselliğinin öncülerinden Masters ve Johnson'ın sıra dışı yaşamlarına, çalışmalarına ve araştırmalarının ateşlediği devrime ışık tutuyor.",
+        "poster_path": "/bC42ksckQpjfck2BZ5McaEDN4pk.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 168.504,
+        "first_air_date": "2013-09-29",
+        "vote_average": 7.065,
+        "vote_count": 372,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qdVdWLUAj9Xxrx0OIT76gWVI4fg.jpg",
+        "id": 2612,
+        "name": "Deadliest Catch",
+        "original_name": "Deadliest Catch",
+        "overview": "Forty-foot waves, 700 pound crab pots, freezing temperatures and your mortality staring you in the face…it's all in a day's work for these modern day prospectors. During each episode we will watch crews race to meet their quota and make it home safely.",
+        "poster_path": "/aqF7wHfA2n89zbBqG6DLuDjrHut.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 172.078,
+        "first_air_date": "2005-04-12",
+        "vote_average": 7.1,
+        "vote_count": 149,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/rgBEfR1A9JVBvoc0xUWv73o4M1M.jpg",
+        "id": 60948,
+        "name": "12 Maymun",
+        "original_name": "12 Monkeys",
+        "overview": "Bir zaman yolcusu, güçlerini kullanarak kıyamet sonrası bir gelecekten günümüze dönerek, insanlığı yok etmek üzere olan virüs salgınını önlemeye çalışır.\n\nÖlümcül bir salgının insanlığı yok etmesinin ardından James Cole, virüsün yayılmasını engellemek için 2043’ten 2015’e gönderilmek üzere seçilir.",
+        "poster_path": "/w5u1PqBYfDyfrlkxADTA38jYG3I.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 72.118,
+        "first_air_date": "2015-01-16",
+        "vote_average": 7.395,
+        "vote_count": 1085,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/eciikZDLyEBQanGh3zpGNuYHtQ3.jpg",
+        "id": 484,
+        "name": "Murder, She Wrote",
+        "original_name": "Murder, She Wrote",
+        "overview": "An unassuming mystery writer turned sleuth uses her professional insight to help solve real-life homicide cases.",
+        "poster_path": "/3UxBFG4fiuZ0P9n2sCrjXh64Avy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          80,
+          18
+        ],
+        "popularity": 264.587,
+        "first_air_date": "1984-09-30",
+        "vote_average": 7.5,
+        "vote_count": 389,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vEGkRAhz2rTYK9kGOjcTRqRD13o.jpg",
+        "id": 580,
+        "name": "Star Trek: Deep Space Nine",
+        "original_name": "Star Trek: Deep Space Nine",
+        "overview": "At Deep Space Nine, a space station located next to a wormhole in the vicinity of the liberated planet of Bajor, Commander Sisko and crew welcome alien visitors, root out evildoers and solve all types of unexpected problems that come their way.",
+        "poster_path": "/vE6138ykaEXQkCSEHyuBIgfGlUZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 438.086,
+        "first_air_date": "1993-01-03",
+        "vote_average": 7.873,
+        "vote_count": 829,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/jg3iq5KFCVrYHVZrPLqznKW2Fz0.jpg",
+        "id": 33001,
+        "name": "Haven",
+        "original_name": "Haven",
+        "overview": "Zeki ve kendinden emin FBI Ajanı Audrey Parker'ın hayatında geçmişe dair boşluklar vardır. Sıradan bir vaka için Maine'deki Haven adlı küçük bir kasabaya gelir. Çok geçmeden mesleki merakı onu bu dışa kapalı yerleşim merkezindeki tuhaf olayların merkezine çeker. Sonradan anlaşılır ki bu kasaba doğaüstü olaylardan çeşitli şekillerde etkilenen insanların toplanma yeridir. Kasaba halkının kendini göstermeyen yetenekleri gün yüzüne çıkmaya başladıkça Audrey bir yandan bu güçlerin kasaba dışına yayılmasını önlemeye çalışırken bir yandan da Haven'ın sırlarını keşfetmeye devam eder.",
+        "poster_path": "/aceumwROgphFLSyOXFfijaoSZJE.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765,
+          9648
+        ],
+        "popularity": 165.125,
+        "first_air_date": "2010-07-09",
+        "vote_average": 7.536,
+        "vote_count": 461,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7w165QdHmJuTHSQwEyJDBDpuDT7.jpg",
+        "id": 2288,
+        "name": "Prison Break",
+        "original_name": "Prison Break",
+        "overview": "Haksız yere suçlandığını düşündüğü abisini hapishaneden kurtarmak isteyen Michael Scofield, nerdeyse kusursuz bir plan yapar. Lincoln Burrows'a yüklenen suç, kendilerini temize çıkarabilecekleri bir suç değildir. Devletin de işin içine karıştığını öğrendiklerinde kaçmaktan başka çareleri kalmaz. Michael planını uygulamaya sokar ve kaçış başlar.",
+        "poster_path": "/5E1BhkCgjLBlqx557Z5yzcN0i88.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          80,
+          18
+        ],
+        "popularity": 508.496,
+        "first_air_date": "2005-08-29",
+        "vote_average": 8.1,
+        "vote_count": 5325,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/oYwaOeQmE0tuBKy8kt43NFNI4bE.jpg",
+        "id": 578,
+        "name": "Numb3rs",
+        "original_name": "Numb3rs",
+        "overview": "Bir FBI ajanı, çok sayıda suçu aydınlatma konusunda yardımcı olması amacıyla, bir matematik dehası olan kardeşini büroya işe alır.\n\nŞaşkınlık yaratan suç dosyalarını kendi yöntemlerince çözmeye başlayan iki kardeşin maceraları, gerçek hayattan da izler taşıyor.\n\nBir dahi ve bir ajan güçlerini birleştirirse neler olur? sorusunun cevabını veren dizi, kapanmayan dosya bırakmamanın peşinde. ",
+        "poster_path": "/wOzbxJmpccPA5MYvBSGbor3WKh3.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 144.712,
+        "first_air_date": "2005-01-23",
+        "vote_average": 7.0,
+        "vote_count": 383,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lkZdVR06w2xrCj3T91qn1Mr1gOd.jpg",
+        "id": 4585,
+        "name": "Tripping the Rift",
+        "original_name": "Tripping the Rift",
+        "overview": "The continuing comic saga of a bizarre gang of misfits who live, work and play on the starship Jupiter 42, which is controlled by a neurotic A.I. known as Spaceship Bob. The ethically-challenged shipmates travel through the galaxy taking on one epic adventure at a time all while looking to make a quick buck and avoid getting thrown in jail.",
+        "poster_path": "/yAWGCy2lklxLQTDFgG1UFcwyp8D.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10765
+        ],
+        "popularity": 76.613,
+        "first_air_date": "2004-03-04",
+        "vote_average": 6.4,
+        "vote_count": 51,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qD6lxVdmkUNY6Gcc7eRYlxTH79p.jpg",
+        "id": 1549,
+        "name": "WWE SmackDown",
+        "original_name": "WWE SmackDown",
+        "overview": "The superstars of World Wrestling Entertainment's \"SmackDown\" brand collide each and every Friday on WWE Friday Night SmackDown.",
+        "poster_path": "/1WA4RvB4aJ7LY4s9xEw0SkRaS5x.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 130.425,
+        "first_air_date": "1999-04-29",
+        "vote_average": 7.4,
+        "vote_count": 167,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/iDu6LmIVHWiCdcW6CZcOP5Kx7Gr.jpg",
+        "id": 66840,
+        "name": "Bull",
+        "original_name": "Bull",
+        "overview": "Bull konusu itibariyle Dr.Jason Bull isimli karakterin etrafında geçecek bir hikâyeyle karşımıza çıkıyor. Trial Sciences Inc şirketinde görev yapan Jason şirket için önemli bir pozisyonda görevlidir. Zeki olmasıyla ön plana çıksa da aslında karakter özellikleri tam anlamıyla pozisyonuyla ters düşmektedir. Küstah, küstah olduğu kadarda sevimli bir karakterle karşımıza çıkacak olan Michael Weatherly izleyiciyi büyüleyecek gibi duruyor.",
+        "poster_path": "/r6bM2rNjSk5b9gWBOOKCVgKbjc0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          35
+        ],
+        "popularity": 213.483,
+        "first_air_date": "2016-09-20",
+        "vote_average": 7.0,
+        "vote_count": 369,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/iWQMxRDCTruFjbQ79qxpHAmklNw.jpg",
+        "id": 61671,
+        "name": "Unbreakable Kimmy Schmidt",
+        "original_name": "Unbreakable Kimmy Schmidt",
+        "overview": "Geçirdiği 15 yılın ardından bağlı olduğu tarikattan kaçan Kimmy, New York’ta kendine yeni bir hayat kurmaya çalışır. The Office’den tanıdığımız Ellie Kemper’ın başrolde olduğu dizinin altında, ünlü aktris ve senarist Tina Fey’in imzası var…",
+        "poster_path": "/eMFHl0HyLg7k04OVeE4xPvT6XhY.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 95.153,
+        "first_air_date": "2015-03-06",
+        "vote_average": 7.14,
+        "vote_count": 549,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

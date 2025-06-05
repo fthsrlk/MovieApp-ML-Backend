@@ -1,0 +1,916 @@
+{
+  "adult": false,
+  "backdrop_path": "/oJuDMcM8LZA5F5Ahgc9mZg2LRIO.jpg",
+  "created_by": [
+    {
+      "id": 1229349,
+      "credit_id": "5258a535760ee34661692520",
+      "name": "Jim Dauterive",
+      "original_name": "Jim Dauterive",
+      "gender": 2,
+      "profile_path": "/suXMyEByEUlZ8hQe045M5I7Q3Ws.jpg"
+    },
+    {
+      "id": 1230593,
+      "credit_id": "5258a535760ee3466169251a",
+      "name": "Loren Bouchard",
+      "original_name": "Loren Bouchard",
+      "gender": 2,
+      "profile_path": "/cyKk7RJsTuUPWLlPZZwRqMZvGt5.jpg"
+    }
+  ],
+  "episode_run_time": [
+    23
+  ],
+  "first_air_date": "2011-01-09",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animasyon"
+    },
+    {
+      "id": 35,
+      "name": "Komedi"
+    }
+  ],
+  "homepage": "https://www.fox.com/bobs-burgers/",
+  "id": 32726,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2024-12-29",
+  "last_episode_to_air": {
+    "id": 5832759,
+    "name": "10. Bölüm",
+    "overview": "",
+    "vote_average": 10.0,
+    "vote_count": 1,
+    "air_date": "2024-12-29",
+    "episode_number": 10,
+    "episode_type": "mid_season",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 15,
+    "show_id": 32726,
+    "still_path": "/JYv9XZmShL98QlxD2wUUqEeeJS.jpg"
+  },
+  "name": "Bob's Burgers",
+  "next_episode_to_air": {
+    "id": 6170147,
+    "name": "11. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-05-29",
+    "episode_number": 11,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 15,
+    "show_id": 32726,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 19,
+      "logo_path": "/1DSpHrWyOORkL9N2QHX7Adt31mQ.png",
+      "name": "FOX",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 286,
+  "number_of_seasons": 15,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Bob's Burgers",
+  "overview": "Bob's Burgers hamburger restoranı sahibi Belcher ailesinin hikayesini anlatıyor. Bob'un hamburgerleri gerçekten çok lezizdir ve rakiplerininkinden de kat kat iyidir. Ancak iş, bu hamburgerleri satmaya gelince çocukları çok da yardımcı olmamaktadır. Bu nedenle müşteriler genelde Jimmy Peso'nun restoranına gitmektedir.",
+  "popularity": 99.7086,
+  "poster_path": "/yVz5foNr6nCfathj0igg8RLVGfn.jpg",
+  "production_companies": [
+    {
+      "id": 1556,
+      "logo_path": "/31h94rG9hzjprXoYNy3L1ErUya2.png",
+      "name": "20th Century Fox Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 30452,
+      "logo_path": "/zmU1ElCS02iL5N7E5MuY4fV7bCX.png",
+      "name": "Bento Box Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 95753,
+      "logo_path": null,
+      "name": "Wilo Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 42449,
+      "logo_path": null,
+      "name": "Buck & Millie Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 154887,
+      "logo_path": "/wLFPu95hIMmyLR5hdtvYaMuK0tG.png",
+      "name": "20th Television Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 236166,
+      "logo_path": "/8rFlu5iytnjsciYXZDw90ktllCI.png",
+      "name": "20th Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2012-04-17",
+      "episode_count": 3,
+      "id": 44003,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/LuDmm7MuGuoiqfKrRoWes7K2WS.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-01-09",
+      "episode_count": 13,
+      "id": 44000,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/g6VoXS3pO6e5CZrarMlECBiPehn.jpg",
+      "season_number": 1,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2012-03-11",
+      "episode_count": 9,
+      "id": 44001,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/lopl0VHBXZqsEaFUCZ6ckjB0hWn.jpg",
+      "season_number": 2,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2012-09-30",
+      "episode_count": 23,
+      "id": 44002,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/g1BW2O4iuCMXlcutq5EKGL8CYe2.jpg",
+      "season_number": 3,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2013-09-29",
+      "episode_count": 22,
+      "id": 44004,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/uxh34mwqZp8ZQrb1HE3jjVCRoMp.jpg",
+      "season_number": 4,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2014-10-05",
+      "episode_count": 21,
+      "id": 63333,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/hSSq0pumcqPXU03GQnc4MxSYNgH.jpg",
+      "season_number": 5,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2015-09-27",
+      "episode_count": 19,
+      "id": 68070,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/8N63WszFxp67ZVnLMUgTFyz0GhJ.jpg",
+      "season_number": 6,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2016-09-25",
+      "episode_count": 22,
+      "id": 80357,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/mXvn5c7D5iva4P5SC93L6cuYIkA.jpg",
+      "season_number": 7,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2017-10-01",
+      "episode_count": 21,
+      "id": 93416,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/3l8k1XSh9JofNS9g9EFvjTq6nNv.jpg",
+      "season_number": 8,
+      "vote_average": 8.4
+    },
+    {
+      "air_date": "2018-09-30",
+      "episode_count": 22,
+      "id": 106926,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/t7z66Bt6n43ZJatBCp0Ckk97ge7.jpg",
+      "season_number": 9,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2019-09-29",
+      "episode_count": 22,
+      "id": 128851,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/xyJXbvdiUtWMr9b7tOI4QbKpTvy.jpg",
+      "season_number": 10,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2020-09-27",
+      "episode_count": 22,
+      "id": 157342,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/cHod7WdSd7AVJtfDywWzKOrXF6v.jpg",
+      "season_number": 11,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2021-09-26",
+      "episode_count": 22,
+      "id": 203671,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/fsUOL0guQ2JHxyYtbH8rg4G3AQ5.jpg",
+      "season_number": 12,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2022-09-25",
+      "episode_count": 22,
+      "id": 296971,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": "/rqnRU1pw9iGbKDclRxayv6SU09Y.jpg",
+      "season_number": 13,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2023-10-01",
+      "episode_count": 16,
+      "id": 340919,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": "/9S6Y6LABN0EEJ9isM9DCXMWUgS0.jpg",
+      "season_number": 14,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2024-09-29",
+      "episode_count": 13,
+      "id": 399554,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": "/yVz5foNr6nCfathj0igg8RLVGfn.jpg",
+      "season_number": 15,
+      "vote_average": 8.9
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.838,
+  "vote_count": 976,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 185773,
+        "known_for_department": "Acting",
+        "name": "H. Jon Benjamin",
+        "original_name": "H. Jon Benjamin",
+        "popularity": 1.9603,
+        "profile_path": "/yZgBHrH8D9Jjo15fuQKnWV3U2OC.jpg",
+        "character": "Bob Belcher (voice)",
+        "credit_id": "5258a533760ee346616923c1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1251981,
+        "known_for_department": "Acting",
+        "name": "John Roberts",
+        "original_name": "John Roberts",
+        "popularity": 0.9599,
+        "profile_path": "/s2cF0TVUTPWUaGKfM2ADZQdkypc.jpg",
+        "character": "Linda Belcher (voice)",
+        "credit_id": "5258a535760ee34661692496",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 109869,
+        "known_for_department": "Acting",
+        "name": "Kristen Schaal",
+        "original_name": "Kristen Schaal",
+        "popularity": 2.8665,
+        "profile_path": "/s3LSHVTx8gxHP2twYsXEGa8JbLl.jpg",
+        "character": "Louise Belcher (voice)",
+        "credit_id": "5258a533760ee346616923e5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1217563,
+        "known_for_department": "Acting",
+        "name": "Eugene Mirman",
+        "original_name": "Eugene Mirman",
+        "popularity": 1.5117,
+        "profile_path": "/rtEboZ6GqxV5hmYrlyhUTwU2v5J.jpg",
+        "character": "Gene Belcher (voice)",
+        "credit_id": "5258a533760ee34661692409",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 224512,
+        "known_for_department": "Acting",
+        "name": "Dan Mintz",
+        "original_name": "Dan Mintz",
+        "popularity": 1.2643,
+        "profile_path": "/avD0UskvT79HJNOjaZBRTPu5uoP.jpg",
+        "character": "Tina Belcher (voice)",
+        "credit_id": "5258a533760ee3466169246f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1230596,
+        "known_for_department": "Acting",
+        "name": "Larry Murphy",
+        "original_name": "Larry Murphy",
+        "popularity": 1.0521,
+        "profile_path": "/bcKH9bGuVuoXdfhM7k0iE7kBiPQ.jpg",
+        "character": "Teddy (voice)",
+        "credit_id": "6257690e7e9d5f00a6b99233",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1229349,
+        "known_for_department": "Writing",
+        "name": "Jim Dauterive",
+        "original_name": "Jim Dauterive",
+        "popularity": 0.2646,
+        "profile_path": "/suXMyEByEUlZ8hQe045M5I7Q3Ws.jpg",
+        "credit_id": "65a9a1d9b0cd20012a178b2c",
+        "department": "Crew",
+        "job": "Creator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1230593,
+        "known_for_department": "Creator",
+        "name": "Loren Bouchard",
+        "original_name": "Loren Bouchard",
+        "popularity": 0.9976,
+        "profile_path": "/cyKk7RJsTuUPWLlPZZwRqMZvGt5.jpg",
+        "credit_id": "65a9a1ef5cea180134c0f633",
+        "department": "Crew",
+        "job": "Creator"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "sibling relationship",
+        "id": 380
+      },
+      {
+        "name": "new jersey",
+        "id": 586
+      },
+      {
+        "name": "puberty",
+        "id": 1525
+      },
+      {
+        "name": "restaurant",
+        "id": 1946
+      },
+      {
+        "name": "singing",
+        "id": 12990
+      },
+      {
+        "name": "menu",
+        "id": 156804
+      },
+      {
+        "name": "adult animation",
+        "id": 161919
+      },
+      {
+        "name": "seaside town",
+        "id": 187224
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/2CmVYL5aOebxlE4cUl5xU4kcgdc.jpg",
+        "id": 15632,
+        "name": "The Cleveland Show",
+        "original_name": "The Cleveland Show",
+        "overview": "Bir adam lise aşkıyla Virginia'da yeniden bir araya gelir ve burada ailelerini harmanlayarak benzersiz komşularla hayatın maceralarıyla yüzleşirler.",
+        "poster_path": "/Qp4gvTc5Cp15VBdt77oXKQ54xF.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 16.6263,
+        "first_air_date": "2009-09-27",
+        "vote_average": 5.885,
+        "vote_count": 426,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/61sQakosFlSETNNCS9Mn2SqFVUf.jpg",
+        "id": 93221,
+        "name": "The Great North",
+        "original_name": "The Great North",
+        "overview": "Follow the Alaskan adventures of the Tobin family as a single dad does his best to keep his weird bunch of kids close, especially as the artistic dreams of his only daughter lead her away from the family fishing boat and into the glamorous world of the local mall.",
+        "poster_path": "/oHwdy9LPFQuvl1e80DoHpKcjO5Q.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 23.861,
+        "first_air_date": "2021-01-03",
+        "vote_average": 6.8,
+        "vote_count": 67,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/AmIHaw6CQWOfBCQYom15Jzsu7OB.jpg",
+        "id": 61222,
+        "name": "BoJack Horseman",
+        "original_name": "BoJack Horseman",
+        "overview": "O, hem bir at hem de 90'ların favori komedi dizi yıldızı. Bu da 20 yıl sonraki hali. Huysuzun teki olsa da pırlanta gibi. Ama hakiki pırlantadan çok, ucuz bir taklidi.",
+        "poster_path": "/6JFWzlChcGgLiIUo2COgNlWGFKy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          18
+        ],
+        "popularity": 48.7703,
+        "first_air_date": "2014-08-22",
+        "vote_average": 8.546,
+        "vote_count": 2544,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/pP3z3VS68PFRqTmypsYJWhWRkrG.jpg",
+        "id": 2418,
+        "name": "The Venture Bros.",
+        "original_name": "The Venture Bros.",
+        "overview": "Hank and Dean Venture, with their father Doctor Venture and faithful bodyguard Brock Samson, go on wild adventures facing megalomaniacs, zombies, and suspicious ninjas, all for the glory of adventure. Or something like that.",
+        "poster_path": "/ckQE1aLYQkRpp2HmHljiELAiOr1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10759,
+          10765
+        ],
+        "popularity": 32.6961,
+        "first_air_date": "2004-08-07",
+        "vote_average": 7.8,
+        "vote_count": 205,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/8iIKvcy8VyYHqZiRvVuDftTzIPM.jpg",
+        "id": 2122,
+        "name": "King of the Hill",
+        "original_name": "King of the Hill",
+        "overview": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident substitute Spanish teacher wife Peggy, wannabe comedian son Bobby, and naive niece Luanne. Hank has conservative views about God, family, and country, but his values and ethics are often challenged by the situations he, his family, and his beer-drinking neighbors/buddies find themselves in.",
+        "poster_path": "/3MnkwPdqQ4if7HL4rYTy6eUyq8q.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10751
+        ],
+        "popularity": 112.866,
+        "first_air_date": "1997-01-12",
+        "vote_average": 7.3,
+        "vote_count": 592,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lgGZ2ysbRyAOi2VgIZpp6k8qILj.jpg",
+        "id": 1434,
+        "name": "Family Guy",
+        "original_name": "Family Guy",
+        "overview": "2000 yılından bu yana komedi ve animasyon dallarında Emmy adaylıklarının ve ödüllerinin gediklisi olan çizgi dizi Family Guy,sıra dışı Griffin ailesinin absürd hayatlarını ekranlara taşıyor. Zaman zaman The Simpsons efsanesine benzetilen çizgisi ile yıllardır geniş bir hayran kitlesi yaratan dizi, başı dertten kurtulmayan baba Peter Griffin, fedakar ama hafif bela paratoneri olan anne Louis ve onların üç çocuğu, ne yapsa yaramayan “loser” Meg, fil çocuk Chris, dünyayı ele geçirmeyi kafaya koyan bebek Stewieve tabii ki ailenin yegane üyesi entelektüel köpek Brian’ın çılgın maceralarını konu alıyor.\n\nSeth MacFarlane imzasını taşıyan dizi, ki kendisi aynı zamanda baba Peter Griffin’e sesiyle hayat veriyor, Amerikan toplumuna yaptığı güncel göndermeleri, zeki esprileri, konuk ünlüleri ve müzikleriyle son on yılın en sevilen animasyon komedileri arasında yer alıyor.",
+        "poster_path": "/ad75MS8xP2EmkYXy4101ljmpIfn.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 145.196,
+        "first_air_date": "1999-01-31",
+        "vote_average": 7.386,
+        "vote_count": 4556,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uhVBmZBgjd9rjDU9JfjrJt3Tees.jpg",
+        "id": 10283,
+        "name": "Archer",
+        "original_name": "Archer",
+        "overview": "Uluslararası bir casus ajansı olan ISIS’te global sorunlar iyi eğitimli çalışanların birbirlerinin kafasını karıştırmak, birbirlerini ezmek ve ihanet etmek için kullandıkları fırsatlardır. Tüm bunların merkezinde ise usta casus Sterling Archer vardır. Archer baskın annesi ve aynı zamanda patronu Malory ile birlikte çalışmaktadır. Archer bir yandan da eski kız arkadaşı Ajan Lana Kane ve onun yeni erkek arkadaşı ISIS müfettişi Cyril Figgis ile uğraşmak zorundadır.",
+        "poster_path": "/vhnrkTGYPqcB63ALcSJm0WoaKHT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10759,
+          16
+        ],
+        "popularity": 40.8242,
+        "first_air_date": "2009-09-17",
+        "vote_average": 7.945,
+        "vote_count": 1292,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dOfVmmvq2yprPrRfwV2mFEpPhps.jpg",
+        "id": 68018,
+        "name": "The Blacklist: Redemption",
+        "original_name": "The Blacklist: Redemption",
+        "overview": "Covert operative Tom Keen joins forces with Susan \"Scottie\" Hargrave, the brilliant and cunning chief of a covert mercenary organization that solves problems that are too dangerous for the government.",
+        "poster_path": "/AlEiTVHLF9lWj7Xj4gTQYt0pAhU.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 5.0074,
+        "first_air_date": "2017-02-23",
+        "vote_average": 6.642,
+        "vote_count": 141,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qdVdWLUAj9Xxrx0OIT76gWVI4fg.jpg",
+        "id": 2612,
+        "name": "Deadliest Catch",
+        "original_name": "Deadliest Catch",
+        "overview": "Forty-foot waves, 700 pound crab pots, freezing temperatures and your mortality staring you in the face…it's all in a day's work for these modern day prospectors. During each episode we will watch crews race to meet their quota and make it home safely.",
+        "poster_path": "/aqF7wHfA2n89zbBqG6DLuDjrHut.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 55.662,
+        "first_air_date": "2005-04-12",
+        "vote_average": 7.096,
+        "vote_count": 151,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/yQDsMnXoBjNl6x6rfwAeITNcLKy.jpg",
+        "id": 59717,
+        "name": "Comedians in Cars Getting Coffee",
+        "original_name": "Comedians in Cars Getting Coffee",
+        "overview": "Jerry takes his comedy pals out for coffee in a selection of his classic automobiles. Larry David sums it up best when he says, 'You've finally made a show about nothing.'",
+        "poster_path": "/hpK5MsFa7k7RQdClvRglBo0wAoT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 41.8569,
+        "first_air_date": "2012-07-19",
+        "vote_average": 7.22,
+        "vote_count": 150,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/nxqRVJ3QP76CZBaunWl42hQVK0.jpg",
+        "id": 1803,
+        "name": "The Facts of Life",
+        "original_name": "The Facts of Life",
+        "overview": "Mrs. Edna Garrett, housemother and dietitian at the Eastland School, teaches a group of girls in her charge how to solve those problems that every teenager has to face.",
+        "poster_path": "/45i9VujUbQITmHl3QE3eNs9ZUv3.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 87.3118,
+        "first_air_date": "1979-08-24",
+        "vote_average": 7.0,
+        "vote_count": 94,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2CqC0XVbK2mdEkVVDDKXi1jWG0M.jpg",
+        "id": 416,
+        "name": "Harvey Birdman, Attorney at Law",
+        "original_name": "Harvey Birdman, Attorney at Law",
+        "overview": "Harvey Birdman, Attorney at Law features ex-superhero Harvey T. Birdman of Birdman and the Galaxy Trio as an attorney working for a law firm alongside other cartoon stars from 1960s and 1970s Hanna-Barbera cartoon series. Similarly, Harvey's clients are also primarily composed of characters taken from Hanna-Barbera cartoon series of the same era. Many of Birdman's nemeses featured in his former cartoon series also became attorneys, often representing the opposing side of a given case.",
+        "poster_path": "/tBVSDa48aOcq7vF0xLFprRWZgbh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          16,
+          35,
+          10759,
+          80
+        ],
+        "popularity": 33.984,
+        "first_air_date": "2000-12-30",
+        "vote_average": 8.005,
+        "vote_count": 110,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qo5H027TuPR3FpTMLD2l9IOLjMy.jpg",
+        "id": 43082,
+        "name": "Key & Peele",
+        "original_name": "Key & Peele",
+        "overview": "Key & Peele is an American sketch comedy television show. It stars Keegan-Michael Key and Jordan Peele, both former cast members of MADtv. Each episode of the show consists of several pre-taped sketches starring the two actors, introduced by Key and Peele in front of a live studio audience.",
+        "poster_path": "/qxBLWVlKLj04LECpPNBn825ZPf7.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 16.2841,
+        "first_air_date": "2012-01-31",
+        "vote_average": 7.632,
+        "vote_count": 204,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cbX2t9bg9rhpmABQYI5tLbxT3xD.jpg",
+        "id": 64228,
+        "name": "Be Cool, Scooby-Doo!",
+        "original_name": "Be Cool, Scooby-Doo!",
+        "overview": "The gang decide to go traveling in the Mystery Machine, seeking fun and adventure during what could possibly be their last summer break together. However, havoc-wreaking monsters seem to be drawn to them, appearing almost every stop of the way.",
+        "poster_path": "/rJksJvJnvrVQL9dMdqy1XwjD5KQ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          16,
+          9648,
+          10762
+        ],
+        "popularity": 21.4598,
+        "first_air_date": "2015-10-05",
+        "vote_average": 8.035,
+        "vote_count": 114,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cWufyOZ2P8YDZbcvyfQolYSfRid.jpg",
+        "id": 96723,
+        "name": "James May: Japonya'daki Ajanımız",
+        "original_name": "James May: Our Man in…",
+        "overview": "James May, ülkenin buz kaplı kuzeyinden ılıman güneyine uzanan muhteşem bir Japonya yolculuğuna çıkıyor. Güneşin Doğduğu Ülke'yi gerçekten anlama serüveninde, manzaraların tadını çıkaracak, halkla tanışacak ve erişteleri yiyecek.",
+        "poster_path": "/tIbHIOMh9ZT0Ph2p4CZ5mXxMvSc.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          35,
+          10759
+        ],
+        "popularity": 6.8899,
+        "first_air_date": "2020-01-03",
+        "vote_average": 7.605,
+        "vote_count": 100,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/lxekzMqu4I1dWG7bK4IaurD5PbM.jpg",
+        "id": 30703,
+        "name": "Köpekbalığı Tankı",
+        "original_name": "Shark Tank",
+        "overview": "Aspiring entrepreneurs pitch various business ideas to \"The Sharks\" -- tough, self-made, multi-millionaire and billionaire tycoons -- in hopes of landing an investment.",
+        "poster_path": "/wztqq3SWfdzcuxvl9oA2HwOXasO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 51.5489,
+        "first_air_date": "2009-08-09",
+        "vote_average": 6.738,
+        "vote_count": 124,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cyH8Ni1OSMtBbloEmI9eE69Xi7j.jpg",
+        "id": 47035,
+        "name": "Uncle Grandpa",
+        "original_name": "Uncle Grandpa",
+        "overview": "The adventures of Uncle Grandpa who is out to help every child and adult in the world through the power of imagination. With his mystical R.V. and eternal optimism, Uncle Grandpa is always ready to greet the day - and everyone he meets - with his signature, \"Good Mornin'.\"",
+        "poster_path": "/zLVOgigPMsd2hkwmcY5AqNhqgcn.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          16,
+          10765,
+          10751
+        ],
+        "popularity": 30.1629,
+        "first_air_date": "2013-09-02",
+        "vote_average": 4.421,
+        "vote_count": 101,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ar7HhZ2McVR2ORwQIuJrlobibCX.jpg",
+        "id": 67468,
+        "name": "People Just Do Nothing",
+        "original_name": "People Just Do Nothing",
+        "overview": "This mockumentary goes behind the microphone of Kurupt FM - the second most popular pirate radio station in West London, receiving up to eight texts per show and playing the finest in UK garage and drum 'n' bass. Co-founded by the MC Sniper and DJ Beats in 2002, the station has now built up a following of over a hundred people and has attracted the attention of the BBC who are making a documentary about the lives of those behind Kurupt FM",
+        "poster_path": "/uLUan19OV2aauGmpEU51Y5Ofez.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 12.038,
+        "first_air_date": "2014-07-20",
+        "vote_average": 7.394,
+        "vote_count": 52,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/zA7Flc83MPoN2Ys2joC9xu6wnX4.jpg",
+        "id": 67111,
+        "name": "HarmonQuest",
+        "original_name": "HarmonQuest",
+        "overview": "A fantasy comedy adventure series that melds live action comedians riffing on a stage in front of a live studio audience with animated forays into a fantasy adventure roleplaying game. The intrepid comedians, Dan Harmon, Jeff Davis, and Erin McGathy, along with a rotating special guest member, gather around a kitchen table and attempt to play the game and fail in hilarious fashion, to the chagrin of their adjudicator-referee- Game Master Spencer Crittenden.",
+        "poster_path": "/jeBr5TZoh3uZNqHqve12jKzkRUd.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          35,
+          10765
+        ],
+        "popularity": 6.2901,
+        "first_air_date": "2016-07-14",
+        "vote_average": 7.818,
+        "vote_count": 33,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/8HPHGHm6kahoxu4rnNfmzmmaEpJ.jpg",
+        "id": 88028,
+        "name": "Dead Pixels",
+        "original_name": "Dead Pixels",
+        "overview": "Rol yapma oyunu Kingdom Scrolls’u takıntı haline getiren üç oyuncu gencin, gerçek ve sanal hayatları birbirine girer.",
+        "poster_path": "/g5oLCCg8g0hmfFuOtiwEQ9SDiDY.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 2.6936,
+        "first_air_date": "2019-03-28",
+        "vote_average": 6.742,
+        "vote_count": 64,
+        "origin_country": [
+          "GB"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

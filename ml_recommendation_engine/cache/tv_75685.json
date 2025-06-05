@@ -1,0 +1,668 @@
+{
+  "adult": false,
+  "backdrop_path": "/kaiKuIEc8c0nhDVYcjWYJGD7eDC.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "2010-03-01",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Gerçeklik"
+    }
+  ],
+  "homepage": "https://www.iprima.cz/serialy/prostreno",
+  "id": 75685,
+  "in_production": true,
+  "languages": [
+    "cs"
+  ],
+  "last_air_date": "2025-03-04",
+  "last_episode_to_air": {
+    "id": 5966915,
+    "name": "24. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-06",
+    "episode_number": 24,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 30,
+    "show_id": 75685,
+    "still_path": null
+  },
+  "name": "Prostřeno!",
+  "next_episode_to_air": {
+    "id": 5966916,
+    "name": "25. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-07",
+    "episode_number": 25,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 30,
+    "show_id": 75685,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 970,
+      "logo_path": "/rkXrvlCHvu9kholozdXInpFIcD4.png",
+      "name": "Prima",
+      "origin_country": "CZ"
+    }
+  ],
+  "number_of_episodes": 876,
+  "number_of_seasons": 10,
+  "origin_country": [
+    "CZ"
+  ],
+  "original_language": "cs",
+  "original_name": "Prostřeno!",
+  "overview": "",
+  "popularity": 2309.775,
+  "poster_path": "/lh8GGzReYg4uoIjpveARaPgd4ZY.jpg",
+  "production_companies": [
+    {
+      "id": 124204,
+      "logo_path": "/jwUkzHG2T4a2lvVIIIahcgV9zGX.png",
+      "name": "Good TV Production",
+      "origin_country": "CZ"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CZ",
+      "name": "Czech Republic"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2010-03-01",
+      "episode_count": 85,
+      "id": 132469,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 96546,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2019-09-02",
+      "episode_count": 80,
+      "id": 132468,
+      "name": "Sezon 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2020-01-20",
+      "episode_count": 115,
+      "id": 143214,
+      "name": "Sezon 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2020-08-31",
+      "episode_count": 80,
+      "id": 161019,
+      "name": "Sezon 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2021-01-18",
+      "episode_count": 55,
+      "id": 189148,
+      "name": "Sezon 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2023-01-16",
+      "episode_count": 120,
+      "id": 346139,
+      "name": "Sezon 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 100,
+      "id": 355997,
+      "name": "Sezon 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 200,
+      "id": 378766,
+      "name": "Sezon 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 40,
+      "id": 441359,
+      "name": "Sezon 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "Český"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 6.5,
+  "vote_count": 6,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1133656,
+        "known_for_department": "Acting",
+        "name": "Václav Vydra",
+        "original_name": "Václav Vydra",
+        "popularity": 0.947,
+        "profile_path": "/p5nvD659FxiDHXMFV9ueOFjE3S9.jpg",
+        "character": "Commentary (voice)",
+        "credit_id": "5daa257c126ec300121122aa",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1556408,
+        "known_for_department": "Acting",
+        "name": "Jana Boušková",
+        "original_name": "Jana Boušková",
+        "popularity": 2.115,
+        "profile_path": "/6CBcVAge7gEv7SYU7FPfsMrDuO6.jpg",
+        "character": "Commentary (voice)",
+        "credit_id": "5daa259f126ec3001411192b",
+        "order": 1
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "cooking",
+        "id": 1918
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/tYLXJW1sZQU09VWY1BhSVPKGIwc.jpg",
+        "id": 138501,
+        "name": "Agatha All Along",
+        "original_name": "Agatha All Along",
+        "overview": "Kötü şöhretli Agatha Harkness, şüpheli bir gotik gencin onu kötü bir büyüden kurtarmasına yardım etmesinin ardından kendini güçten düşmüş halde bulur. Gencin onu efsanevi Cadılar Yolu'na götürmesi için yalvarması Agatha'nın ilgisini çeker; bu yol aşılabildiğinde cadıları onlarda eksik olan şeyle ödüllendiren büyülü bir sınama yoludur. Agatha ve bu gizemli genç birlikte ümitsiz bir cadı meclisi kurar ve yola çıkar.",
+        "poster_path": "/e6e2Nm2PvsOS7ysEO0l26sw8jB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          9648
+        ],
+        "popularity": 99.707,
+        "first_air_date": "2024-09-18",
+        "vote_average": 7.7,
+        "vote_count": 702,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/aMpNvgWjPimLldhKgwtCt5NjLen.jpg",
+        "id": 158300,
+        "name": "Knuckles",
+        "original_name": "Knuckles",
+        "overview": "Sonic the Hedgehog 2 (2022) ve Sonic the Hedgehog 3 (2024) arasındaki olayları konu alan altı bölümlük dizi, Echidna Knuckles'ın (Idris Elba tarafından seslendiriliyor) şerif yardımcısı Wade Whipple'ı Echidna savaşçılığı konusunda eğitmesini konu alıyor. Knuckles, film yapımcıları John Whittington ve Toby Ascher tarafından P+ için yaratılan bir spin-off dizisidir. Sega'nın Sonic the Hedgehog oyunlarına dayanmaktadır. John Whittington, Brian Schacter ve James Madejski tarafından yazılmıştır.",
+        "poster_path": "/sK6Nr6KNUA4WlAHyNBTioz9FK87.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10751,
+          35
+        ],
+        "popularity": 56.407,
+        "first_air_date": "2024-04-26",
+        "vote_average": 7.43,
+        "vote_count": 388,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/xSejbnuKiyIfdvRjh48Qnrml8W1.jpg",
+        "id": 105804,
+        "name": "Candy",
+        "original_name": "Candy",
+        "overview": "Candy, Amerikan tarihinde önemli yere sahip olan Betty Gore'un ölümünün sorumlusu olan Candy Montgomery'nin hikayesini konu ediyor. Bir kilisenin üyeleri arasında bulunan Candy Montgomery, sevgi dolu bir ortamda kocasıyla birlikte yaşar. Banliyölerde hayatını sürdüren kadın, kiliseye gelen arkadaşı Betty Gore'u bir baltayla saldırarak öldürür. Bunun nedeni ise yıllardır akıllarda kalan bir soru işaretidir.",
+        "poster_path": "/8vlxmTkiF2rzpvrWoN4mOoeVg1z.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 17.612,
+        "first_air_date": "2022-05-09",
+        "vote_average": 7.2,
+        "vote_count": 188,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2qLYxCyxf4fim0X5OqM5FjZqWXu.jpg",
+        "id": 241259,
+        "name": "Baby Reindeer",
+        "original_name": "Baby Reindeer",
+        "overview": "Başarısız bir komedyen hassas bir kadına iyi niyet gösterisinde bulunduğunda ikisinin de hayatını mahvedebilecek boğucu bir saplantının fitilini ateşler.",
+        "poster_path": "/tN9OcbkAOPwHSr1sgMornZtQZBx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 48.17,
+        "first_air_date": "2024-04-11",
+        "vote_average": 7.6,
+        "vote_count": 836,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/zclNcr7DdxJqt3Xq6eGeuF1QFqz.jpg",
+        "id": 15079,
+        "name": "Zack ve Cody Güvertede",
+        "original_name": "The Suite Life on Deck",
+        "overview": "The Suite Life of Zack ve Cody'nin ekibi, bu yeni spin-off dizisinde denizlere açılıyor. Zack, Cody, London ve Bay Moseby, lüks Tipton Hotel'in iyi döşenmiş salonlarından London'ın babasının lüks yolcu gemisi SS Tipton'a taşınır. İlk başta, London bir gemi tatilinde olduğunu düşünür, ancak çok geçmeden Zack, Cody ve yeni oyuncular Bailey ve Woody ile birlikte Seven Seas High'a kaydolduğunu öğrenir. London'ın babası, o denizdeyken derslerden kaçamayacağı için London'ın okumak zorunda kalacağına inanıyor. Moseby, MISS Emma Tutweiller ile birlikte öğrencilerin çalışmalarına odaklanmalarını sağlamaya çalışır, ancak Cody ve Zack yaramazlık yapmanın yeni yollarını keşfeder.",
+        "poster_path": "/j37l9CYQxTMzzy6vCgdbW0Nmjoy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751,
+          10762
+        ],
+        "popularity": 93.678,
+        "first_air_date": "2008-09-26",
+        "vote_average": 7.8,
+        "vote_count": 500,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/axlJMlV0LYbMHGaIITq5EJnImgn.jpg",
+        "id": 206829,
+        "name": "The Regime",
+        "original_name": "The Regime",
+        "overview": "Sarayın içindeki entrikalar, ihanetler ve aşklarla dolu bir yıl boyunca modern Avrupa’daki otoriter bir rejimin çözülmesinin hikayesi.",
+        "poster_path": "/OiotZVLFc5uEDoahiRX4qakAbu.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 30.66,
+        "first_air_date": "2024-03-03",
+        "vote_average": 6.3,
+        "vote_count": 108,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qq36sU5xH581RiNEkookMQ9D7yp.jpg",
+        "id": 194764,
+        "name": "The Penguin",
+        "original_name": "The Penguin",
+        "overview": "Oswald Chesterfield Cobblepot nam-ı diğer Penguen'in, Gotham Şehri'nin yeraltı suç dünyasındaki yükselişinin hikayesi.",
+        "poster_path": "/vOWcqC4oDQws1doDWLO7d3dh5qc.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 125.875,
+        "first_air_date": "2024-09-19",
+        "vote_average": 8.466,
+        "vote_count": 839,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cj9OkR52208ZNmtQMpa0q4vicol.jpg",
+        "id": 76659,
+        "name": "Nefes",
+        "original_name": "Breathe",
+        "overview": "Nefes, sıra dışı olaylarla karşılaşan sıradan insanların hayatlarını konu alan bir Hint dizisi. Suçla Mücadele Şubesinin kalıplara uymayan memuru Kabir (Sadh), organ donörlerinin birbirleriyle bağlantısız görünen ölümlerindeki ipuçlarını birleştirir ve beklenmedik bir şüpheliye, dost canlısı Danny'ye (Madhavan) ulaşır. Kabir, vakayı çözüp adaleti sağlayana dek durmayacaktır.",
+        "poster_path": "/dL9Ire8kfDWLG1TQMBXocHB2RR.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "hi",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 10.087,
+        "first_air_date": "2018-01-26",
+        "vote_average": 7.5,
+        "vote_count": 66,
+        "origin_country": [
+          "IN"
+        ]
+      },
+      {
+        "backdrop_path": "/csnJf7QslLWl2oekdm3mO3INFiq.jpg",
+        "id": 136315,
+        "name": "The Bear",
+        "original_name": "The Bear",
+        "overview": "Genç şef, görgüsüz mutfak ekibiyle birlikte bir sandviç dükkanını dönüştürmek için mücadele eder.",
+        "poster_path": "/fNvtpFbOdYmxU5CNIdkdJ5fqbsf.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 85.715,
+        "first_air_date": "2022-06-23",
+        "vote_average": 8.225,
+        "vote_count": 1254,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lnnXNSb3Uk9Y4YWF1Rszyt6tzj0.jpg",
+        "id": 110971,
+        "name": "How To with John Wilson",
+        "original_name": "How To with John Wilson",
+        "overview": "In a uniquely hilarious odyssey of self-discovery and cultural observation, documentary filmmaker and self-described \"anxious New Yorker\" John Wilson covertly and obsessively films the lives of his fellow New Yorkers while attempting to give everyday advice on relatable topics. The awkward contradictions of modern life are eased by Wilson’s candid, unpolished commentary. Building upon Wilson’s previously released \"how to\" short films, each episode takes wildly unexpected turns but is grounded in John's refreshing honesty.",
+        "poster_path": "/jpHziYpJniprEFDFwMbOHabgnow.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          99
+        ],
+        "popularity": 25.102,
+        "first_air_date": "2020-10-23",
+        "vote_average": 8.221,
+        "vote_count": 102,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2WQa9vZhgvW5T4ciD8XfjORkMaQ.jpg",
+        "id": 14264,
+        "name": "Cranford",
+        "original_name": "Cranford",
+        "overview": "A rich and comic drama about the people of Cranford, a small Cheshire town on the cusp of change in the 1840s. Adapted from the novels by Elizabeth Gaskell.",
+        "poster_path": "/gJfwVxOgfG4kSVNuoQfZ6JiaEZO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 16.699,
+        "first_air_date": "2007-11-18",
+        "vote_average": 8.1,
+        "vote_count": 47,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/39bifj2FNytJ2m1cqOBcWMTKgmV.jpg",
+        "id": 97951,
+        "name": "Mayor of Kingstown",
+        "original_name": "Mayor of Kingstown",
+        "overview": "Mayor of Kingstown, McLusky ailesinin hikayesini konu ediniyor. Gücü kendi etrafında toplamak isteyenlerin kasabası olan Kingstown'da McLusky ailesi hapishane sistemleri konusunda köksalmıştır. İki kardeş olan Mitch ve Mike McLusky, bu işleri yönetiyordur. Dizi, sistematik ırkçılıkla mücadele etme, yolsuzluk ve eşitsizlik gibi konuları işliyor. Kasabanın sahip olmadığı adalet ve düzen yeniden gelebilecek midir?",
+        "poster_path": "/86OUOPulMiM8rjrQSt4KMev7UAa.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 123.203,
+        "first_air_date": "2021-11-14",
+        "vote_average": 7.875,
+        "vote_count": 463,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/xr4kXYVKrwUOnkJ6cKLCe5V3HSF.jpg",
+        "id": 241539,
+        "name": "Celeste",
+        "original_name": "Celeste",
+        "overview": "Celeste is a huge star of the Latin music world. Her songs are a global phenomenon, and her concerts pack out stadiums. But this series is not about her. The real star of Celeste is Sara Santano, a Tax inspector who has spent her life collecting taxes. Having dedicated more than thirty years to inland revenue, and on the point of retiring, she receives the most important assignment of her career: to demonstrate that Celeste must pay tax in Spain.",
+        "poster_path": "/ptXjhh85HT4dB8xR6A7VI7ruq0X.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          35,
+          9648
+        ],
+        "popularity": 14.023,
+        "first_air_date": "2024-11-14",
+        "vote_average": 7.3,
+        "vote_count": 18,
+        "origin_country": [
+          "ES"
+        ]
+      },
+      {
+        "backdrop_path": "/9vkHfS9QFporrFCTqy1OarDZIs9.jpg",
+        "id": 85,
+        "name": "Buster'dan Mektup Var",
+        "original_name": "Postcards from Buster",
+        "overview": "Postcards from Buster is a children's television series for children aged 6–12, containing both animation and live-action that originally aired on Public Broadcasting Service. It is a spin-off of the Arthur cartoon series. The show stars Arthur's best friend, 8-year-old rabbit Buster Baxter. Inspired by a 2003 episode of Arthur entitled \"Postcards from Buster\", the television series was produced by Cinar and Marc Brown Studios.\n\nIt first aired October 11, 2004, on PBS Kids Go!. Buster's interests include eating anything, reading comic books, and playing video games. Buster's personality is that of a fairly intelligent and curious child. He also believes that extraterrestrials are real. Buster's parents are divorced; in this series, Buster is seen with his father, Bo Baxter.",
+        "poster_path": "/7GZ3nM8Mod24ego7IdIi9hqSSsN.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762
+        ],
+        "popularity": 41.45,
+        "first_air_date": "2004-10-11",
+        "vote_average": 8.3,
+        "vote_count": 82,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/mh2UczqEXJJVgqohbyZbHTuxwhL.jpg",
+        "id": 157741,
+        "name": "Landman",
+        "original_name": "Landman",
+        "overview": "Batı Teksas'ın petrol kuleleri dünyasında servet arayışının modern bir hikayesi. Doğanın sınırlarını zorlayan bu dünyada, zenginlik ve güç peşinde verilen mücadele hem kişisel hem de ahlaki bir sınav haline geliyor.",
+        "poster_path": "/rxWtATtTdwx0ERQjQ7BtVOMyq5r.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 111.306,
+        "first_air_date": "2024-11-17",
+        "vote_average": 8.0,
+        "vote_count": 174,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/94qWpm0EjFJzhojO120JzWoNM2u.jpg",
+        "id": 117830,
+        "name": "Tomb Raider: The Legend of Lara Croft",
+        "original_name": "Tomb Raider: The Legend of Lara Croft",
+        "overview": "Dünyanın dört bir yanına yayılan bir serüvene atılan korkusuz maceraperest Lara Croft, kadim bir gizemi ortaya çıkarırken kendi travmatik geçmişiyle de yüzleşir.",
+        "poster_path": "/mIvbfZFLJGwNvJKJcnYIppSbWdI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16
+        ],
+        "popularity": 32.108,
+        "first_air_date": "2024-10-10",
+        "vote_average": 6.4,
+        "vote_count": 87,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/is3ZdGCPEKTW7IyDe0khvE1nc6R.jpg",
+        "id": 225634,
+        "name": "Canavarlar: Lyle ve Erik Menendez'in Hikâyesi",
+        "original_name": "Monsters",
+        "overview": "Gerçek suç temalı bu sürükleyici drama, 1989'da Beverly Hills'te ebeveynlerini vahşice katletmekten hüküm giyen Menendez kardeşlerin hayatını derinlemesine inceliyor.",
+        "poster_path": "/qRI6pOEWsguQ4smLaRhRSdLaqdr.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 92.481,
+        "first_air_date": "2024-09-19",
+        "vote_average": 7.649,
+        "vote_count": 339,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/6gN8DYnIEln8v7OhRy61c57w0Xy.jpg",
+        "id": 124364,
+        "name": "FROM",
+        "original_name": "FROM",
+        "overview": "Amerika Birleşik Devletleri'nin ortasındaki kabus gibi bir şehir, içine giren herkesi tuzağa düşürür. Kasaba sakinleri, normallik duygusunu sürdürmek ve bir çıkış yolu aramak için savaşırken, güneş battığında ortaya çıkan korkunç yaratıklar da dahil olmak üzere, çevredeki ormandan gelen tehditlere karşı da hayatta kalmak için çabalar.",
+        "poster_path": "/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          18,
+          10765
+        ],
+        "popularity": 435.649,
+        "first_air_date": "2022-02-20",
+        "vote_average": 8.188,
+        "vote_count": 1759,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/y8T8BhptuHFPR0hCGcUSMyUfUfm.jpg",
+        "id": 219543,
+        "name": "Creature Commandos",
+        "original_name": "Creature Commandos",
+        "overview": "İnsanlar için çok tehlikeli görülen görevler için toplanan, hapsedilmiş canavarlardan oluşan gizli bir ekip olan Creature Commandos'un maceralarını takip edin. Başka hiçbir şey işe yaramadığında… onlar sizin son, en kötü seçeneğinizdir.",
+        "poster_path": "/bB3G6Ug1jfsOUptb0RJsqrgMVta.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10765,
+          10759
+        ],
+        "popularity": 74.342,
+        "first_air_date": "2024-12-05",
+        "vote_average": 8.0,
+        "vote_count": 157,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

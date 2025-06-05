@@ -1,0 +1,991 @@
+{
+  "adult": false,
+  "backdrop_path": "/zfJ92ITa8qYedvC7rtmWpXB6cRe.jpg",
+  "created_by": [
+    {
+      "id": 1889131,
+      "credit_id": "6746395595c55a2027178a30",
+      "name": "Maria João Mira",
+      "original_name": "Maria João Mira",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2024-11-25",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Dram"
+    }
+  ],
+  "homepage": "https://tvi.iol.pt/novelas/programa/a-fazenda/672c9278d34e94b82907283d",
+  "id": 259524,
+  "in_production": true,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2025-03-06",
+  "last_episode_to_air": {
+    "id": 6000239,
+    "name": "72. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-06",
+    "episode_number": 72,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 39,
+    "season_number": 1,
+    "show_id": 259524,
+    "still_path": "/qpH3f1kn4LTfkyYPXbv8aNgnHVs.jpg"
+  },
+  "name": "A Fazenda",
+  "next_episode_to_air": {
+    "id": 6003453,
+    "name": "73. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-07",
+    "episode_number": 73,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 259524,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 93,
+      "logo_path": "/bCngEbZ5SoIwkgmSMsLUABqanZn.png",
+      "name": "TVI",
+      "origin_country": "PT"
+    }
+  ],
+  "number_of_episodes": 73,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_name": "A Fazenda",
+  "overview": "",
+  "popularity": 2741.269,
+  "poster_path": "/5QBpGUZf3miGp8bdSooVu0Bd47h.jpg",
+  "production_companies": [
+    {
+      "id": 86448,
+      "logo_path": "/ouoDVGGHRAE7WfPtMKZn6kKDMec.png",
+      "name": "TVI - Televisão Independente",
+      "origin_country": "PT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-11-25",
+      "episode_count": 78,
+      "id": 402999,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/s9HIiR98Lpdgkj2ttglARIGNanZ.jpg",
+      "season_number": 1,
+      "vote_average": 10.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.8,
+  "vote_count": 4,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3372344,
+        "known_for_department": "Acting",
+        "name": "Margarida Corceiro",
+        "original_name": "Margarida Corceiro",
+        "popularity": 5.94,
+        "profile_path": "/8YxCNGN4qyrN0E12umJb7LRgReZ.jpg",
+        "character": "Eva Borges Lacerda",
+        "credit_id": "669bff4907ced42349cd59a7",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3315623,
+        "known_for_department": "Acting",
+        "name": "Evandro Gomes",
+        "original_name": "Evandro Gomes",
+        "popularity": 0.001,
+        "profile_path": "/civ38ulTSTatBqtDi601DXS9fgP.jpg",
+        "character": "Lutuima «Talu» Nascimento",
+        "credit_id": "669bff6bf03f5f743795458b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2024839,
+        "known_for_department": "Acting",
+        "name": "Kelly Bailey",
+        "original_name": "Kelly Bailey",
+        "popularity": 2.115,
+        "profile_path": "/kWb3gPzJDmP7VFncz9oM1TdF7t8.jpg",
+        "character": "Júlia Borges Lacerda",
+        "credit_id": "669bff0b49bc9e7daa18209c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3164022,
+        "known_for_department": "Acting",
+        "name": "Inês Aguiar",
+        "original_name": "Inês Aguiar",
+        "popularity": 3.682,
+        "profile_path": "/ebpwDBA9DZln3eZRxQJaCTjO9iv.jpg",
+        "character": "Mafalda Borges Lacerda",
+        "credit_id": "674506a146260e14fbeb5ffc",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1449171,
+        "known_for_department": "Acting",
+        "name": "João Jesus",
+        "original_name": "João Jesus",
+        "popularity": 0.665,
+        "profile_path": "/fuIUzsNjv2kFWCisXwH6GFyICnW.jpg",
+        "character": "Joel Agapito",
+        "credit_id": "669bff61e45c6c5e2ede9979",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3146154,
+        "known_for_department": "Acting",
+        "name": "Rita Cruz",
+        "original_name": "Rita Cruz",
+        "popularity": 0.555,
+        "profile_path": "/ul0fYfIEFyhcOjZulS1CnaiAatf.jpg",
+        "character": "Lukénia Nascimento",
+        "credit_id": "67450a23cfd24c3a7aaba746",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 937200,
+        "known_for_department": "Acting",
+        "name": "Dalila Carmo",
+        "original_name": "Dalila Carmo",
+        "popularity": 1.721,
+        "profile_path": "/zH45oh5wwduEMqJR984wqhbx06Y.jpg",
+        "character": "Leonor Borges Lacerda",
+        "credit_id": "67450696cc1d69986bd9f27e",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147100,
+        "known_for_department": "Acting",
+        "name": "Nuno Lopes",
+        "original_name": "Nuno Lopes",
+        "popularity": 2.644,
+        "profile_path": "/mM4d814VPIGxdYg7Q2BJRracSc8.jpg",
+        "character": "Gaspar Mendes da Sousa",
+        "credit_id": "674506af7b825e685b4eced5",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 108451,
+        "known_for_department": "Acting",
+        "name": "Diogo Infante",
+        "original_name": "Diogo Infante",
+        "popularity": 3.504,
+        "profile_path": "/6n1eK25AB9MdHG2jPNw6ARfqhiQ.jpg",
+        "character": "Miguel Borges Lacerda",
+        "credit_id": "6745097c7b825e685b4ecfb3",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 938036,
+        "known_for_department": "Acting",
+        "name": "São José Correia",
+        "original_name": "São José Correia",
+        "popularity": 0.441,
+        "profile_path": "/3ki81JHzPNtzXkVDV5bABTu0KD8.jpg",
+        "character": "Alba Meireles",
+        "credit_id": "674506bddf1f2ec7bc0bc5d2",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 937204,
+        "known_for_department": "Acting",
+        "name": "Rita Loureiro",
+        "original_name": "Rita Loureiro",
+        "popularity": 2.064,
+        "profile_path": "/wWtyzGPBAYSZGRMdC13lIsBjeK7.jpg",
+        "character": "Isabel «Becas» Sequeira Neto",
+        "credit_id": "67450a537b825e685b4ecfe2",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1784581,
+        "known_for_department": "Acting",
+        "name": "Nuno Pardal",
+        "original_name": "Nuno Pardal",
+        "popularity": 2.442,
+        "profile_path": "/rWoU9K6BehD4y1TA5569xvJCOOc.jpg",
+        "character": "Gustavo Sequeira Neto",
+        "credit_id": "674505eb46260e14fbeb5fd2",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 937202,
+        "known_for_department": "Acting",
+        "name": "Maya Booth",
+        "original_name": "Maya Booth",
+        "popularity": 1.646,
+        "profile_path": "/76mJ8rLNss3FoY9khSXoilKCAf1.jpg",
+        "character": "Vânia Matias",
+        "credit_id": "674509a0100e4f4524fbd0a4",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 556168,
+        "known_for_department": "Acting",
+        "name": "Hoji Fortuna",
+        "original_name": "Hoji Fortuna",
+        "popularity": 1.348,
+        "profile_path": "/hfsnAuwMM9sP4l0Uh0Is01pRMj2.jpg",
+        "character": "Januário da Cunha",
+        "credit_id": "674509aa46260e14fbeb60e0",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1821965,
+        "known_for_department": "Acting",
+        "name": "Diogo Amaral",
+        "original_name": "Diogo Amaral",
+        "popularity": 4.404,
+        "profile_path": "/5eRTFnvxJElulNYxbIoit6LMSJz.jpg",
+        "character": "Eduardo Matias",
+        "credit_id": "674509b7100e4f4524fbd0b6",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1363242,
+        "known_for_department": "Acting",
+        "name": "Pedro Hossi",
+        "original_name": "Pedro Hossi",
+        "popularity": 0.783,
+        "profile_path": "/x6L8DLp1wLKzee2zep8ZOxzAQHa.jpg",
+        "character": "Vladimiro Barbosa «Miro»",
+        "credit_id": "67450a087b825e685b4ecfd5",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3482470,
+        "known_for_department": "Acting",
+        "name": "Cláudio de Castro",
+        "original_name": "Cláudio de Castro",
+        "popularity": 0.001,
+        "profile_path": "/njhx5BCMpUSvu4zuTXve3h8eGCH.jpg",
+        "character": "Duarte Barbosa",
+        "credit_id": "67450a1708052b960c03fef3",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2365770,
+        "known_for_department": "Acting",
+        "name": "Soraia Tavares",
+        "original_name": "Soraia Tavares",
+        "popularity": 0.001,
+        "profile_path": "/lfb5BSVTBXMN48Ac8NGj4lVQVTX.jpg",
+        "character": "Daniela da Cunha",
+        "credit_id": "67450a2d08052b960c03fef9",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3268474,
+        "known_for_department": "Acting",
+        "name": "Sharam Diniz",
+        "original_name": "Sharam Diniz",
+        "popularity": 0.001,
+        "profile_path": "/hAWETlCuwOmltoLoKhuV8XIteqB.jpg",
+        "character": "Nadir Contreiras",
+        "credit_id": "67450a3b08052b960c03ff07",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1558759,
+        "known_for_department": "Acting",
+        "name": "Vitor Hugo",
+        "original_name": "Vitor Hugo",
+        "popularity": 2.468,
+        "profile_path": "/vzmtCI3deSc9C0CnX2t5sgbWsaH.jpg",
+        "character": "Ivandro Braga",
+        "credit_id": "67450a46100e4f4524fbd0ed",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2391586,
+        "known_for_department": "Acting",
+        "name": "Madalena Brandão",
+        "original_name": "Madalena Brandão",
+        "popularity": 0.318,
+        "profile_path": "/yyuE8CNkFefMzLFRqwbfqZeJv1D.jpg",
+        "character": "Letícia «Leti» Barbosa",
+        "credit_id": "67450a68cc1d69986bd9f293",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4336680,
+        "known_for_department": "Acting",
+        "name": "Cíntia Semedo",
+        "original_name": "Cíntia Semedo",
+        "popularity": 0.001,
+        "profile_path": "/jnDL4MBC2Ozwlw9jlkZXLnr3giB.jpg",
+        "character": "Filomena «Mena» Kiala",
+        "credit_id": "67450a787b825e685b4ecfed",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1300056,
+        "known_for_department": "Acting",
+        "name": "Helena Isabel",
+        "original_name": "Helena Isabel",
+        "popularity": 1.921,
+        "profile_path": "/gK28kRhk2GqV0YpKHqFikNsujlm.jpg",
+        "character": "Zulmira Agapito",
+        "credit_id": "67450a82cc1d69986bd9f29f",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1055229,
+        "known_for_department": "Acting",
+        "name": "Ângelo Torres",
+        "original_name": "Ângelo Torres",
+        "popularity": 1.439,
+        "profile_path": "/ea43tQ7n2ppcNsIWYn8lWCWzHzo.jpg",
+        "character": "Manuel Contreiras",
+        "credit_id": "67450a8fcfd24c3a7aaba781",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1062254,
+        "known_for_department": "Acting",
+        "name": "Isaac Alfaiate",
+        "original_name": "Isaac Alfaiate",
+        "popularity": 0.643,
+        "profile_path": "/k7QU9otYbBnZ2BTosfXYNzzdp9O.jpg",
+        "character": "Ary da Silva",
+        "credit_id": "67450a99cfd24c3a7aaba788",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1200459,
+        "known_for_department": "Acting",
+        "name": "Julie Sergeant",
+        "original_name": "Julie Sergeant",
+        "popularity": 0.094,
+        "profile_path": "/xcUeTvPtiwmtSDSJW0EWY0NvK7t.jpg",
+        "character": "Esmeralda das Dores",
+        "credit_id": "67450aa2dc98166f5cc01b4d",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5082301,
+        "known_for_department": "Acting",
+        "name": "Raquel Tillo",
+        "original_name": "Raquel Tillo",
+        "popularity": 0.001,
+        "profile_path": "/6XC0LzJTcKcSN638inUuhjbeAJT.jpg",
+        "character": "Bianca Romano",
+        "credit_id": "67450aafdc98166f5cc01b5f",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 121449,
+        "known_for_department": "Acting",
+        "name": "Cláudia Semedo",
+        "original_name": "Cláudia Semedo",
+        "popularity": 1.152,
+        "profile_path": "/mmt9Ngpx0L25ou7SNmhJz7oLNyb.jpg",
+        "character": "Weza Nascimento da Cunha",
+        "credit_id": "67450ac208052b960c03ff26",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5090821,
+        "known_for_department": "Acting",
+        "name": "Laïs da Veiga",
+        "original_name": "Laïs da Veiga",
+        "popularity": 0.001,
+        "profile_path": "/7dgUTcWxs3UgWFEy5IuDkbdiZmv.jpg",
+        "character": "Liana «Lili» Jamba",
+        "credit_id": "674af14b0dc2fdb0523f00e4",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5099368,
+        "known_for_department": "Acting",
+        "name": "Camy Ribau",
+        "original_name": "Camy Ribau",
+        "popularity": 0.001,
+        "profile_path": "/eWWcYxaKFfMQyyWhVw6WOcb16k1.jpg",
+        "character": "Jéssica Matias",
+        "credit_id": "6750d015cb1e120ccb5de1d1",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5099369,
+        "known_for_department": "Acting",
+        "name": "Isaac Cosmelli",
+        "original_name": "Isaac Cosmelli",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Lucas da Cunha",
+        "credit_id": "6750d06721e1eacac6f03798",
+        "order": 30
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "soap opera",
+        "id": 291959
+      },
+      {
+        "name": "portuguese soap opera",
+        "id": 345206
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/zso596QRpVM6dgqMRhdxrwxcGsE.jpg",
+        "id": 259812,
+        "name": "Leyla: Hayat... Aşk... Adalet...",
+        "original_name": "Leyla: Hayat... Aşk... Adalet...",
+        "overview": "Küçük yaşta annesini kaybeden ve babasından başka kimsesi olmayan Leyla’nın hayatı, babasının yeniden evlenmesiyle altüst olur. Üvey annesi Nur tarafından bir çöplüğe bırakılan Leyla, zorlu sınavlardan geçtikten yıllar sonra Nur’dan intikamını almak için geri döner. “Leyla: Hayat... Aşk... Adalet...” bu genç kadının, hayatını mahveden üvey annesine karşı vereceği mücadeleyi ve intikam arayışında aşkla sınanacağı duygusal yolculuğu ekranlara taşıyacak.",
+        "poster_path": "/zArNhxxXSAexR6xvzoQuFX0vXiW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "tr",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 122.741,
+        "first_air_date": "2024-09-11",
+        "vote_average": 7.2,
+        "vote_count": 5,
+        "origin_country": [
+          "TR"
+        ]
+      },
+      {
+        "backdrop_path": "/or7wKwv1IT6LEOktt395O5qi7e.jpg",
+        "id": 60574,
+        "name": "Peaky Blinders",
+        "original_name": "Peaky Blinders",
+        "overview": "Birinci Dünya Savaşı’ndan yeni çıkmış İngiltere’yi, yasadışı faaliyet gösteren çeşitli çeteler sarmıştır. Bunlardan biri de soygunculuk ve at yarışıyla para kazanan Peaky Blinders’dır. Polislere rüşvet yedirerek paçayı kurtaran çete, bir soygunda yanlışlık yapınca başlarına bela olacak yeni bir müfettişin şehre gelmesine vesile olurlar.",
+        "poster_path": "/5aHpODCpUa0kGTPXtiYC0moIPhT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 303.952,
+        "first_air_date": "2013-09-12",
+        "vote_average": 8.5,
+        "vote_count": 10221,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/34OGjFEbHj0E3lE2w0iTUVq0CBz.jpg",
+        "id": 87739,
+        "name": "The Queen's Gambit",
+        "original_name": "The Queen's Gambit",
+        "overview": "1950'lerde bir yetimhanede, küçük bir kız müthiş bir satranç yeteneği sergiler. Ancak yıldızlığa uzanan umulmadık yolculuğunda bağımlılıkla mücadele etmek zorunda kalır.",
+        "poster_path": "/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 72.508,
+        "first_air_date": "2020-10-23",
+        "vote_average": 8.5,
+        "vote_count": 4790,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2MaumbgBlW1NoPo3ZJO38A6v7OS.jpg",
+        "id": 66732,
+        "name": "Stranger Things",
+        "original_name": "Stranger Things",
+        "overview": "Ufak bir kasabada küçük bir çocuk kaybolunca, gizli deneyler, korkutucu doğaüstü güçler ve tuhaf bir küçük kızın da parçası olduğu bir gizem ortaya çıkar.",
+        "poster_path": "/hjVNQA2a12OxkpDEOQTBMbKVZ1K.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765,
+          9648
+        ],
+        "popularity": 293.245,
+        "first_air_date": "2016-07-15",
+        "vote_average": 8.6,
+        "vote_count": 18087,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lY2DhbA7Hy44fAKddr06UrXWWaQ.jpg",
+        "id": 100088,
+        "name": "The Last of Us",
+        "original_name": "The Last of Us",
+        "overview": "Dünyayı kasıp kavuran bir salgınından yirmi yıl sonra hayatta kalan Joel ve Ellie, her şeyi değiştirebilecek bir görev için yola koyulur.",
+        "poster_path": "/qmn3jtupnssxRsoocrppeMIXsll.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 172.698,
+        "first_air_date": "2023-01-15",
+        "vote_average": 8.584,
+        "vote_count": 5389,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+        "id": 93405,
+        "name": "Squid Game",
+        "original_name": "오징어 게임",
+        "overview": "Para sıkıntısı çeken yüzlerce oyuncu, çocuk oyunlarında yarışmaları için aldıkları tuhaf daveti kabul eder. İçeride onları cazip bir ödül ve ölüm riski beklemektedir.",
+        "poster_path": "/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          10759,
+          9648,
+          18
+        ],
+        "popularity": 603.484,
+        "first_air_date": "2021-09-17",
+        "vote_average": 7.862,
+        "vote_count": 15549,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/9zcbqSxdsRMZWHYtyCd1nXPr2xq.jpg",
+        "id": 82856,
+        "name": "The Mandalorian",
+        "original_name": "The Mandalorian",
+        "overview": "İmparatorluk'un çöküşünden sonra yalnız bir Mandalorian, öksüzü Grogu'yla beraber kanunsuz galakside dikkatle yol alır.",
+        "poster_path": "/eU1i6eHXlzMOlEq0ku1Rzq7Y4wA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 131.268,
+        "first_air_date": "2019-11-12",
+        "vote_average": 8.424,
+        "vote_count": 10243,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/rAOjnEFTuNysY7bot8zonhImGMh.jpg",
+        "id": 1402,
+        "name": "The Walking Dead",
+        "original_name": "The Walking Dead",
+        "overview": "Kasabanın polis şefi Rick Grimes bir gün vurularak hastaneye kaldırılır; fakat o komadayken geçen sürede bildiği yaşam altüst olmuştur. Artık dünya, insan etiyle beslenen zombilerin insafına kalacak. Tabii birazcık insani duyguları kaldıysa. Atlanta'da kaostan sonra sessizce hayatta kalmaya çalışan küçük bir grup insanınsa birbirlerinden başka tutunacak kimseleri yok.",
+        "poster_path": "/s3OIDrCErUjthsnPPreY7XktQXB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10765
+        ],
+        "popularity": 428.148,
+        "first_air_date": "2010-10-31",
+        "vote_average": 8.103,
+        "vote_count": 16797,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+        "id": 42009,
+        "name": "Black Mirror",
+        "original_name": "Black Mirror",
+        "overview": "Bu bilimkurgu antolojisi dizisi, insanlığın en görkemli buluşlarının ve en karanlık içgüdülerinin zıtlaştığı karmaşık ve teknolojiyle dolu bir yakın geleceği konu alıyor.",
+        "poster_path": "/5UaYsGZOFhjFDwQh6GuLjjA1WlF.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          9648
+        ],
+        "popularity": 207.285,
+        "first_air_date": "2011-12-04",
+        "vote_average": 8.3,
+        "vote_count": 5250,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/a4doyPOabvQor0RGkWdhVENAR3G.jpg",
+        "id": 1413,
+        "name": "American Horror Story",
+        "original_name": "American Horror Story",
+        "overview": "Cinayet dolu geçmişi olan bir ev, bir akıl hastanesi, bir cadı meclisi, bir ucube gösterisi, bir otel, Roanoke'de bir çiftlik evi, bir tarikat, kıyamet ve bir yaz kampı da dahil olmak üzere farklı karakter ve mekanlara odaklanan bir antoloji korku drama dizisi.",
+        "poster_path": "/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          10765
+        ],
+        "popularity": 211.587,
+        "first_air_date": "2011-10-05",
+        "vote_average": 8.116,
+        "vote_count": 5697,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9faGSFi5jam6pDWGNd0p8JcJgXQ.jpg",
+        "id": 1396,
+        "name": "Breaking Bad",
+        "original_name": "Breaking Bad",
+        "overview": "Kanserden öleceğini öğrenen bir kimya öğretmeni, ailesinin geleceğini garanti altına almak için metamfetamin üretip satmak üzere eski bir öğrencisiyle kafa kafaya verir.",
+        "poster_path": "/ineLOBPG8AZsluYwnkMpHRyu7L.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 540.297,
+        "first_air_date": "2008-01-20",
+        "vote_average": 8.923,
+        "vote_count": 15146,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/nfWhNM5VVd9a5bEGobs83TWTuLM.jpg",
+        "id": 74577,
+        "name": "The End of the F***ing World",
+        "original_name": "The End of the F***ing World",
+        "overview": "17 yaşında bir genç olan James tam anlamıyla bir psikopattır. Çocukluğundan itibaren sıra dışı olmuş hep tehlikeli işlere kalkışmıştır. Okul hayatını pek sevmese de planı için kurban seçebileceği en ideal yerdir. Onlarca öğrenci arasından öldürebileceği birini aramaya başlayan James sonunda Alyssa’da karar kılar. Kurbanına önce güven vermesi gerektiğini düşünen James ona aşıkmış gibi davranmaya başlar. Alyssa, maceraya aç bir asidir. Yaşadıkları yerden sıkılmış yeni yerler keşfetmek, yeni maceralara atılmak ister. İkisinin baş başa çıkacakları bu yolculukta planını daha rahat uygulayabileceğini düşünen James, Alyssa ile yola koyulur. Talihsizliklerle dolu bu yolculukta planlar değişir ve James Alyssa’ya aşık olur.",
+        "poster_path": "/yQ6PtNxHsAoJRnF0zjJMn2s22A8.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18,
+          80
+        ],
+        "popularity": 53.718,
+        "first_air_date": "2017-10-24",
+        "vote_average": 8.062,
+        "vote_count": 3246,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/hC6Uy57eFBUWZVrdnnODEc0XpTj.jpg",
+        "id": 56570,
+        "name": "Outlander",
+        "original_name": "Outlander",
+        "overview": "1945 yılında yaşayan, evli bir savaş hemşiresi olan Claire Randall; gizemli bir şekilde 1743 yılına yolculuk eder ve romantik bir İskoç savaşçısı olan Jamie Fraser ile evlenmek zorunda kalır. Claire zamanla Jamie’ye bir şeyler hissetmeye başlayacak ve iki farklı zamandan, iki farklı erkek arasında kalacaktır.",
+        "poster_path": "/oftZNfyTVNU7IfOqoGLoT8MGvNs.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 230.325,
+        "first_air_date": "2014-08-09",
+        "vote_average": 8.2,
+        "vote_count": 2639,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/yOarY3Yo0NMkuTuft87M5oAZa3C.jpg",
+        "id": 61374,
+        "name": "Tokyo Ghoul",
+        "original_name": "東京喰種トーキョーグール",
+        "overview": "Tokyo'da insanları yiyen gizemli hortlakların neden olduğu gerilim dolu bir korku hikayesi başlar. Bu gizemli hortlakların verdiği korku tüm insanları etkisi altına almıştır. Sıradan bir üniversite öğrencisi olan Kaneki, tıpkı kendisi gibi bir kitap kurdu olan Rize'yle Café Anteiku'da karşılaşır. Kaneki, kaderinin bir gecede değişeceğinin farkında değildir.",
+        "poster_path": "/1m4RlC9BTCbyY549TOdVQ5NRPcR.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          18,
+          10765
+        ],
+        "popularity": 96.143,
+        "first_air_date": "2014-07-04",
+        "vote_average": 8.3,
+        "vote_count": 2326,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/9KnIzPCv9XpWA0MqmwiKBZvV1Sj.jpg",
+        "id": 85552,
+        "name": "Euphoria",
+        "original_name": "Euphoria",
+        "overview": "Dizide 17 yaşındaki Rue’nun hikayesi anlatılıyor. Zendaya’nın hayat verdiği Rue’nun anlattığı hikayeler seks, kimlik arayışı, travma, sosyal medya, uyuşturucu, aşk ve arkadaşlık gibi temaları ele alıyor.",
+        "poster_path": "/3Q0hd3heuWwDWpwcDkhQOA6TYWI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 221.479,
+        "first_air_date": "2019-06-16",
+        "vote_average": 8.3,
+        "vote_count": 9942,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/3GQKYh6Trm8pxd2AypovoYQf4Ay.jpg",
+        "id": 85937,
+        "name": "İblis Keser",
+        "original_name": "鬼滅の刃",
+        "overview": "Bir iblis saldırısında ailesi katledilen ve kız kardeşi lanetlenen Tanjiro, laneti kaldırmanın bir yolunu bulmak ve intikam almak için tehlikeli bir yolculuğa çıkar.",
+        "poster_path": "/mszs7gapSnF7rw2xrg4WLQLVzZ9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "popularity": 73.348,
+        "first_air_date": "2019-04-06",
+        "vote_average": 8.7,
+        "vote_count": 6591,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/aTjbqMONy77fHJrIYu14g1F0d5h.jpg",
+        "id": 88396,
+        "name": "The Falcon and the Winter Soldier",
+        "original_name": "The Falcon and the Winter Soldier",
+        "overview": "Marvel Studios'dan \"The Falcon and The Winter Soldier\"da, Anthony Mackie Sam Wilson/Falcon olarak ve Sebastian Stan Bucky Barnes/Kış Askeri olarak rol almaktadır. \"Avengers: Endgame\"in son sahnelerinde bir araya gelen bu ikili, yeteneğinin ve sabrının sınandığı küresel bir macerada birlik olur.",
+        "poster_path": "/lRk6NxH6BTnEKdRdxkyPaoxGb3i.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "popularity": 81.848,
+        "first_air_date": "2021-03-19",
+        "vote_average": 7.635,
+        "vote_count": 8529,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9YteO4VWteiPmEbWYJRAeBTQZPD.jpg",
+        "id": 1100,
+        "name": "How I Met Your Mother",
+        "original_name": "How I Met Your Mother",
+        "overview": "Ted çocuklarına yıllar önce anneleriyle nasıl tanıştığını anlatırken, Ted'in ruh ikizi için destansı arayışı büyük ölçüde geriye dönüşlerle gösteriliyor.",
+        "poster_path": "/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 350.955,
+        "first_air_date": "2005-09-19",
+        "vote_average": 8.147,
+        "vote_count": 5122,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ex4kvQb0Ski5KL2fsnKQU2hV3oo.jpg",
+        "id": 1425,
+        "name": "House of Cards",
+        "original_name": "House of Cards",
+        "overview": "90’lı yıllarda, politikacı yazar Michael Dobbs tarafından yazılan aynı adlı kitaptan esinlenen ve BBC’ye mini dizi olarak uyarlanan “House of Cards”, şimdi Amerikalı yapımcılar tarafından bir kez daha, üstelik muhteşem bir kadro eşliğinde televizyona aktarıldı. Son yıllarda “The Curious Case of Benjamin Button” ve “Social Network” filmleriyle ses getiren David Fincher tarafından yapımcılığı ve yönetmenliği üstlenen dizinin başrollerinde, Fincher’ın filmlerinde de rol alan iki ünlü yıldız yer alıyor. “Seven” filminde birlikte çalıştığı Kevin Spacey ve “The Girl with the Dragon Tattoo” filminde rol alan Robin Wright. \n\n“House of Cards” Washington’da hırslı bir politikacının zirveye tırmanışını anlatıyor. Kevin Spacey tarafından canlandırılan Francis Underwood yıllarını Beyaz Saray koridorlarında geçirdikten sonra, artık başkanlık seçimlerine adaylığını koyması gerektiğini düşünüyor. Ne de olsa bunca zaman o koridorlarda gördüğü tüm üst düzey bürokratlar ile ilgili her türlü bilgiye sahip. Kimi hangi dosyayla tehdit edeceğini biliyor. Bu gözü kara politikacının Robin Wright tarafından canlandırılan eşi Claire’in de ondan aşağı kalır yanı yok. Francis Underwood’un başkanlık koltuğuna ilerlemek için adeta iskambil kağıtlarından bir ev gibi itinayla inşa ettiği stratejisini ilgiyle takip edeceksiniz.",
+        "poster_path": "/rXaHpG5E8y68pqfG2RRwmjdebo1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 117.306,
+        "first_air_date": "2013-02-01",
+        "vote_average": 8.0,
+        "vote_count": 2823,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dZklTql88IDOmkC3JAYQSTgyK6f.jpg",
+        "id": 1920,
+        "name": "Twin Peaks",
+        "original_name": "Twin Peaks",
+        "overview": "1990-91 yıllarında ABC kanalında yayınlanan dizi toplam iki sezon otuz bölüm sürmüştür. Körfez savaşı nedeni ile yayını durdurulmuştur. TV'ye yeniden adaptasyonu sağlanan dizinin senaryosu yine ikili tarafından kaleme alınmış, üretimi ise sahibi oldukları Lynch / Frost Productions şirketi tarafından yapılmaktadır. David Lynch ayrıca yönetmen koltuğunda oturmaktadır.\n\nOrjinal seri, Laura Palmer (Sheryl Lee) isimli bir genç kızın öldürülmesi ile başlar ve sonrasında gelişen olaylar üzerine şekillenir. FBI özel ajanı Dale Cooper (Kyle MacLachlan) cinayeti çözmek ve katili yakalamak için bu küçük kasabaya gönderilir. Başlangıçta masum görünen kasaba insanlarının derinlerine inildikçe karanlık yönleri ortaya çıkar ve farklı bir yaşam sürdükleri görülür.",
+        "poster_path": "/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 185.603,
+        "first_air_date": "1990-04-08",
+        "vote_average": 8.335,
+        "vote_count": 2175,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

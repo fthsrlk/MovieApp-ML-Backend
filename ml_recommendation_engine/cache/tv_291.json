@@ -1,0 +1,1277 @@
+{
+  "adult": false,
+  "backdrop_path": "/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
+  "created_by": [
+    {
+      "id": 1215244,
+      "credit_id": "52534be419c29579400f82fd",
+      "name": "Tony Warren",
+      "original_name": "Tony Warren",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    24
+  ],
+  "first_air_date": "1960-12-09",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Pembe Dizi"
+    }
+  ],
+  "homepage": "http://www.itv.com/coronationstreet",
+  "id": 291,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-02-19",
+  "last_episode_to_air": {
+    "id": 6003561,
+    "name": "27. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-05",
+    "episode_number": 27,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 44,
+    "season_number": 66,
+    "show_id": 291,
+    "still_path": "/p3GsPhao6XrCAbDiO4m9VDVUV05.jpg"
+  },
+  "name": "Coronation Street",
+  "next_episode_to_air": {
+    "id": 6003562,
+    "name": "28. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-07",
+    "episode_number": 28,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 44,
+    "season_number": 66,
+    "show_id": 291,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 9,
+      "logo_path": "/oz9pjTHnBUmlju8OkaTymhKbh6C.png",
+      "name": "ITV1",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 3950,
+  "number_of_seasons": 66,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Coronation Street",
+  "overview": "",
+  "popularity": 1370.411,
+  "poster_path": "/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
+  "production_companies": [
+    {
+      "id": 24546,
+      "logo_path": "/AffgIsVKcudKagSu3MV3phsV5Vw.png",
+      "name": "ITV Studios",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MY",
+      "name": "Malaysia"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 47,
+      "id": 63478,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1960-12-08",
+      "episode_count": 7,
+      "id": 59772,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 2.0
+    },
+    {
+      "air_date": "1961-01-04",
+      "episode_count": 102,
+      "id": 63224,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1962-01-01",
+      "episode_count": 105,
+      "id": 63225,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1963-01-02",
+      "episode_count": 74,
+      "id": 63226,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1964-01-01",
+      "episode_count": 41,
+      "id": 63227,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1965-01-04",
+      "episode_count": 16,
+      "id": 63228,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1966-01-03",
+      "episode_count": 60,
+      "id": 63229,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1967-01-02",
+      "episode_count": 2,
+      "id": 63230,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1968-01-01",
+      "episode_count": 50,
+      "id": 63231,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1969-01-01",
+      "episode_count": 104,
+      "id": 63232,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1970-01-05",
+      "episode_count": 7,
+      "id": 63233,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1971-01-04",
+      "episode_count": 6,
+      "id": 63234,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1972-01-03",
+      "episode_count": 2,
+      "id": 63235,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1973-01-01",
+      "episode_count": 2,
+      "id": 63236,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1974-01-02",
+      "episode_count": 41,
+      "id": 63237,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1975-01-01",
+      "episode_count": 7,
+      "id": 63238,
+      "name": "Sezon 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1976-01-05",
+      "episode_count": 5,
+      "id": 63239,
+      "name": "Sezon 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1977-01-03",
+      "episode_count": 3,
+      "id": 63240,
+      "name": "Sezon 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1978-01-01",
+      "episode_count": 16,
+      "id": 63241,
+      "name": "Sezon 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1979-01-01",
+      "episode_count": 2,
+      "id": 63242,
+      "name": "Sezon 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1980-01-02",
+      "episode_count": 27,
+      "id": 63243,
+      "name": "Sezon 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1981-01-05",
+      "episode_count": 4,
+      "id": 63244,
+      "name": "Sezon 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1982-01-03",
+      "episode_count": 6,
+      "id": 63245,
+      "name": "Sezon 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1983-01-03",
+      "episode_count": 2,
+      "id": 63246,
+      "name": "Sezon 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1984-01-02",
+      "episode_count": 2,
+      "id": 63247,
+      "name": "Sezon 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1985-01-02",
+      "episode_count": 2,
+      "id": 63248,
+      "name": "Sezon 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1986-01-01",
+      "episode_count": 2,
+      "id": 63249,
+      "name": "Sezon 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1987-01-05",
+      "episode_count": 76,
+      "id": 63250,
+      "name": "Sezon 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1988-01-04",
+      "episode_count": 41,
+      "id": 63251,
+      "name": "Sezon 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1989-01-02",
+      "episode_count": 2,
+      "id": 63252,
+      "name": "Sezon 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1990-01-01",
+      "episode_count": 35,
+      "id": 63253,
+      "name": "Sezon 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1991-01-02",
+      "episode_count": 7,
+      "id": 63254,
+      "name": "Sezon 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1992-01-01",
+      "episode_count": 57,
+      "id": 63255,
+      "name": "Sezon 33",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1993-01-01",
+      "episode_count": 2,
+      "id": 63256,
+      "name": "Sezon 34",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1994-01-03",
+      "episode_count": 14,
+      "id": 63257,
+      "name": "Sezon 35",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1995-01-02",
+      "episode_count": 10,
+      "id": 63258,
+      "name": "Sezon 36",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1996-01-01",
+      "episode_count": 63,
+      "id": 63259,
+      "name": "Sezon 37",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1997-01-01",
+      "episode_count": 12,
+      "id": 63260,
+      "name": "Sezon 38",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1998-01-02",
+      "episode_count": 2,
+      "id": 63261,
+      "name": "Sezon 39",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 39,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1999-01-01",
+      "episode_count": 208,
+      "id": 63262,
+      "name": "Sezon 40",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2000-01-01",
+      "episode_count": 6,
+      "id": 63263,
+      "name": "Sezon 41",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2001-01-01",
+      "episode_count": 2,
+      "id": 63264,
+      "name": "Sezon 42",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 42,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2002-01-01",
+      "episode_count": 25,
+      "id": 63265,
+      "name": "Sezon 43",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 43,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2003-01-01",
+      "episode_count": 11,
+      "id": 63266,
+      "name": "Sezon 44",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 44,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2004-01-01",
+      "episode_count": 3,
+      "id": 63267,
+      "name": "Sezon 45",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 45,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2005-01-01",
+      "episode_count": 13,
+      "id": 63268,
+      "name": "Sezon 46",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 46,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2006-01-01",
+      "episode_count": 2,
+      "id": 63269,
+      "name": "Sezon 47",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 47,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2006-12-31",
+      "episode_count": 54,
+      "id": 63270,
+      "name": "Sezon 48",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 48,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2008-01-02",
+      "episode_count": 2,
+      "id": 63271,
+      "name": "Sezon 49",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 49,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2009-01-01",
+      "episode_count": 51,
+      "id": 63272,
+      "name": "Sezon 50",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 50,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2009-12-31",
+      "episode_count": 61,
+      "id": 63273,
+      "name": "Sezon 51",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 51,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-01-02",
+      "episode_count": 264,
+      "id": 63274,
+      "name": "Sezon 52",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 52,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2012-01-02",
+      "episode_count": 258,
+      "id": 63275,
+      "name": "Sezon 53",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 53,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2013-01-02",
+      "episode_count": 260,
+      "id": 63276,
+      "name": "Sezon 54",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 54,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2014-01-01",
+      "episode_count": 253,
+      "id": 63277,
+      "name": "Sezon 55",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 55,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2015-01-02",
+      "episode_count": 210,
+      "id": 68214,
+      "name": "Sezon 56",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 56,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2016-01-01",
+      "episode_count": 21,
+      "id": 75682,
+      "name": "Sezon 57",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 57,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2017-01-01",
+      "episode_count": 10,
+      "id": 87569,
+      "name": "Sezon 58",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 58,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2018-01-01",
+      "episode_count": 95,
+      "id": 103280,
+      "name": "Sezon 59",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 59,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2019-01-01",
+      "episode_count": 134,
+      "id": 136012,
+      "name": "Sezon 60",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 60,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2019-12-31",
+      "episode_count": 220,
+      "id": 144435,
+      "name": "Sezon 61",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 61,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2021-01-01",
+      "episode_count": 266,
+      "id": 173510,
+      "name": "Sezon 62",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 62,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2022-01-03",
+      "episode_count": 177,
+      "id": 237397,
+      "name": "Sezon 63",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 63,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2023-01-02",
+      "episode_count": 160,
+      "id": 320448,
+      "name": "Sezon 64",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 64,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2024-01-01",
+      "episode_count": 157,
+      "id": 371113,
+      "name": "Sezon 65",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 65,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2025-01-01",
+      "episode_count": 30,
+      "id": 435692,
+      "name": "Sezon 66",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 66,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.3,
+  "vote_count": 110,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1215177,
+        "known_for_department": "Acting",
+        "name": "William Roache",
+        "original_name": "William Roache",
+        "popularity": 1.619,
+        "profile_path": "/8CqTsBo58YI6SxE2iiuSRRLl8Jz.jpg",
+        "character": "Ken Barlow",
+        "credit_id": "52534b8519c29579400f7eed",
+        "order": 3
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "northern england",
+        "id": 5215
+      },
+      {
+        "name": "community",
+        "id": 5890
+      },
+      {
+        "name": "manchester",
+        "id": 208548
+      },
+      {
+        "name": "soap opera",
+        "id": 291959
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/yTJFf7N9ohXjssZQyZ1cSMNopix.jpg",
+        "id": 39775,
+        "name": "Fantasy Island",
+        "original_name": "Fantasy Island",
+        "overview": "A magical island hosted by Mr Roarke and Tattoo where weekly guests learn valuable life lessons in their pursuit of fulfilling their dreams. Not all dreams are fulfilled as expected.",
+        "poster_path": "/ppxhytiPrgojE4eb6Tw0EonDzeP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          35
+        ],
+        "popularity": 51.557,
+        "first_air_date": "1978-01-28",
+        "vote_average": 6.32,
+        "vote_count": 103,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/nvrMucgxG9t9qConfqz8oqYYJqj.jpg",
+        "id": 35942,
+        "name": "Cadfael",
+        "original_name": "Cadfael",
+        "overview": "Brother Cadfael is a twelfth-century Anglo-Welsh monk.  A retired crusader disappointed in love, and now a herbalist in charge of the gardens of Shrewsbury Abbey, Brother Cadfael is often called on to solve murders and other crimes in and around Shrewsbury, Shropshire, in the border country where England meets Wales.",
+        "poster_path": "/9oEoPTP4kYjbS8Gi9eXPQ8wDMe0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 37.575,
+        "first_air_date": "1994-05-29",
+        "vote_average": 7.3,
+        "vote_count": 27,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/l1NpWOEVp9zssy6DtugZjbufA8E.jpg",
+        "id": 73199,
+        "name": "Trust Me",
+        "original_name": "Trust Me",
+        "overview": "A series of gripping thrillers that expose the dark side of the people we trust to care for us - doctors.",
+        "poster_path": "/3qBsumuVl2lAxYm95Svt0Y9AhYG.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 13.61,
+        "first_air_date": "2017-08-08",
+        "vote_average": 7.1,
+        "vote_count": 26,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/xGRtbGaPu38LITZUL2hfxXT1K6n.jpg",
+        "id": 63224,
+        "name": "The Outcast",
+        "original_name": "The Outcast",
+        "overview": "Set in post-war Britain, ten year-old Lewis Aldridge is grief-stricken as he struggles to cope with the death of his beloved mother. Left under the care of his emotionally distant father Gilbert, whom he barely knows and who quickly remarries, Lewis is forced to bury his feelings.",
+        "poster_path": "/kWfRfmctS33pbuP1cjhL70XVVxO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 10.13,
+        "first_air_date": "2015-07-12",
+        "vote_average": 5.2,
+        "vote_count": 10,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/6wfNpk7St2cfGZVSWPmjZehuSYH.jpg",
+        "id": 10472,
+        "name": "Austin City Limits",
+        "original_name": "Austin City Limits",
+        "overview": "Now the longest-running music series in American television history, ACL showcases popular music legends and innovators from every genre.",
+        "poster_path": "/qBVRuTUki4okdGOO5TJJZb99Q6X.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 200.34,
+        "first_air_date": "1975-01-01",
+        "vote_average": 6.2,
+        "vote_count": 18,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/tQKdXH7y2XyN9xAIWi8DyFnhfnf.jpg",
+        "id": 203734,
+        "name": "Canada's Drag Race: Canada vs The World",
+        "original_name": "Canada's Drag Race: Canada vs The World",
+        "overview": "A battle that brings back fan-favourites from the international Drag Race family for an elite competition.",
+        "poster_path": "/amJ1PVPOAoke0B6xo3YyephlFh3.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 13.494,
+        "first_air_date": "2022-11-18",
+        "vote_average": 4.7,
+        "vote_count": 10,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/1lBEfsnzUkxtxzvFwimENpM6bEP.jpg",
+        "id": 6127,
+        "name": "Agatha Christie'nin Marple'ı",
+        "original_name": "Agatha Christie's Marple",
+        "overview": "Agatha Christie’nin ünlü kitap serisinden uyarlanan Agatha Christie's Marple’da, St Mary Mead’de yaşayan Miss Jane Marple, gizemli cinayetlerin çözülmesine yardımcı oluyor.",
+        "poster_path": "/nVswrZQpqQND9TgwgbWgz18KgAo.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "popularity": 162.182,
+        "first_air_date": "2004-12-12",
+        "vote_average": 7.6,
+        "vote_count": 122,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/hUz0UHWSVd6e1g3I6vT4shAsnoY.jpg",
+        "id": 1871,
+        "name": "EastEnders",
+        "original_name": "EastEnders",
+        "overview": "The everyday lives of working-class residents of Albert Square, a traditional Victorian square of terrace houses surrounding a park in the East End of London's Walford borough.",
+        "poster_path": "/z4jgyI5TpoRZiJTNchkVkMrGQyz.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18,
+          80
+        ],
+        "popularity": 735.949,
+        "first_air_date": "1985-02-19",
+        "vote_average": 4.1,
+        "vote_count": 210,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/ljS3auI8tPDYyLw6CnNpLcr2kjT.jpg",
+        "id": 987,
+        "name": "General Hospital",
+        "original_name": "General Hospital",
+        "overview": "Gündüz saatlerinde yayımlanan pembe diziler arasında en uzun süredir yayın hayatına devam eden dizidir.1963'den beri süren dizi, 2002 nisanında 10 bininci bölümünü yayımladı.42 yıldır abc kanalında yayımlanan dizinin başladığı gün, rakip nbc, the doctors adlı bir diziyi yayımlamaya başladı ancak 1982'de diziyi bitirdiler.1963-1976 arasında yarım saat, 1976-1978 arasında 45 dakika olan dizi, 1978'de bir saate çıktı.",
+        "poster_path": "/gS5iORCJHwP5moEXSF9b6ZcsZ1w.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10766
+        ],
+        "popularity": 485.228,
+        "first_air_date": "1963-04-01",
+        "vote_average": 5.7,
+        "vote_count": 207,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/6X36iMqzu18dbsmXGGBxj7UU8wW.jpg",
+        "id": 91962,
+        "name": "Emergence",
+        "original_name": "Emergence",
+        "overview": "Bir polis şefi gizemli bir kazayı araştırırken hafızasını kaybetmiş bir çocuk bulur ve bildiği her şeye meydan okuyan bir komplo ortaya çıkar.",
+        "poster_path": "/r9nmcmP6IOIJV9K61dXIUuNWxdV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          10765
+        ],
+        "popularity": 32.728,
+        "first_air_date": "2019-09-24",
+        "vote_average": 6.9,
+        "vote_count": 187,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vF2hoPhXa6OaQYDZE6C7HET2wLE.jpg",
+        "id": 1466,
+        "name": "Joey",
+        "original_name": "Joey",
+        "overview": "The charming and still-single Joey has struck out on his own and moved to Hollywood, hoping to truly make it as an actor. After reuniting with his high-strung sister Gina, Joey moves in with Michael, his 20-year-old genius nephew, who unbelievably is literally a rocket scientist. However, what Joey lacks in book smarts he makes up for with people smarts – making him the best new friend his nephew could ask for.",
+        "poster_path": "/bU5yBQsmt0CnIpi9z8zB3iL7ZHP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 46.421,
+        "first_air_date": "2004-09-08",
+        "vote_average": 6.3,
+        "vote_count": 319,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qVmgq1KXBp6BF2EqYPPaUG9iUGy.jpg",
+        "id": 764,
+        "name": "Midsomer Murders",
+        "original_name": "Midsomer Murders",
+        "overview": "The peacefulness of the Midsomer community is shattered by violent crimes, suspects are placed under suspicion, and it is up to a veteran DCI and his young sergeant to calmly and diligently eliminate the innocent and ruthlessly pursue the guilty. ",
+        "poster_path": "/31wojXBSLT6LYTUMyc6BiyXqUyP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 362.511,
+        "first_air_date": "1997-03-23",
+        "vote_average": 7.5,
+        "vote_count": 309,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/1dX3uATCYn7tBWJVpP14WhNAIta.jpg",
+        "id": 64254,
+        "name": "Master of None",
+        "original_name": "Master of None",
+        "overview": "30 yaşındaki New Yorklu aktör Dev, ilk büyük iş, ciddi bir ilişki ve metroda iflas eden seks suçluları gibi olgunluk sütunlarını üstleniyor.",
+        "poster_path": "/AcJM86PhgHAfbrF4dMKBaqO3cHV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 56.439,
+        "first_air_date": "2015-11-06",
+        "vote_average": 7.411,
+        "vote_count": 518,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/8GGD7djS6oqTWcKwJb3uT833xeA.jpg",
+        "id": 100698,
+        "name": "Tiger King",
+        "original_name": "Tiger King",
+        "overview": "Amerika'daki büyük kedi korumacıları ve koleksiyoncularından oluşan derinden birbirine bağlı topluluğu ve bu hayvanların bakımı ve halka açık sergilenmesi için kurdukları özel hayvanat bahçeleri ve hayvan barınaklarını araştırıyor.",
+        "poster_path": "/dXQCEjVth8P8L47XIsoRt0oL8Gw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          80
+        ],
+        "popularity": 18.979,
+        "first_air_date": "2020-03-20",
+        "vote_average": 6.862,
+        "vote_count": 475,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/xHCfWGlxwbtMeeOnTvxUCZRGnkk.jpg",
+        "id": 62127,
+        "name": "Marvel's Iron Fist",
+        "original_name": "Marvel's Iron Fist",
+        "overview": "Gücünü nerede ve ne zaman kullanması gerektiğini konusunda profesyonel olan Iron Fist, dövüş sanatları konusunda uzmandır. Gücünü bir ejderhadan aldığı darbeyle kazanmıştır. Yıllardır uzak kaldığı şehrine (New York City) geri dönen Danny Rand benzersiz yeteneklerini ve dövüş sanatları konusundaki uzmanlığını yolsuzlukla mücadele ve kötülerle savaşmak için kullanır.",
+        "poster_path": "/scM2bhCBnqL3zbzDLTAYHd80RmE.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10765
+        ],
+        "popularity": 25.995,
+        "first_air_date": "2017-03-17",
+        "vote_average": 6.533,
+        "vote_count": 2481,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ueZFcwAUvkjyAB9beaiqJyg0M8H.jpg",
+        "id": 1981,
+        "name": "Charmed",
+        "original_name": "Charmed",
+        "overview": "Prue, Piper ve Phoebe kardeşlerin tavan arasında buldukları \"Gölgeler Kitabı\" adlı kitap kaderlerini değiştirir. Phoebe, kitaptaki büyülü sözleri okuyunca üç kız kardeşin atalarından miras kalan cadılık güçleri açığa çıkar.  Her birinin farklı doğaüstü yetenekleri vardır. Halliwell kardeşler şeytani varlıklara karşı savaşabilmek için kullandıkları bu yeteneklerini birleştirdiklerinde ise yenilmez sihirli bir güç yaratırlar.Bu eşi olmayan üçlünün gücüdür. Yüksek dereceli bazı iblisleri yok etmek için üçlünün gücü gerekmektedir. Tek başlarına sıradan birer cadıdır ve bu yüksek dereceli iblisleri tek başlarına yok edemezler...",
+        "poster_path": "/z4bPJ1BWU2EtV69NII2GVvsugQ2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18,
+          9648,
+          10765
+        ],
+        "popularity": 289.045,
+        "first_air_date": "1998-10-07",
+        "vote_average": 8.2,
+        "vote_count": 2342,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/f3cin9kOz4nOrlYEMxGFQhv4bdN.jpg",
+        "id": 71712,
+        "name": "The Good Doctor",
+        "original_name": "The Good Doctor",
+        "overview": "Otistik ve Savant Sendromlu Shaun Murphy isimli genç bir cerrah, prestijli bir hastanenin çocuk cerrahisi birimine yerleştirilir. Şu sorunun cevabı aranır: İnsanlarla iletişim kurma yeteneğine sahip olmayan bir kişi insanların hayatlarını kurtarabilir mi? Yalnız ve çevresindeki kişilerle iletişim kuramayan Shaun, hastalarının hayatlarını kurtarmak ve meslektaşlarının şüphelerini yok etmek için olağanüstü yeteneklerini kullanır.",
+        "poster_path": "/HW3aPHzgPbhl77BdBZAozVTfSm.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 625.612,
+        "first_air_date": "2017-09-25",
+        "vote_average": 8.5,
+        "vote_count": 12498,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/nDOIsgCYZqEMvomSR6t9QUIPZJS.jpg",
+        "id": 60622,
+        "name": "Fargo",
+        "original_name": "Fargo",
+        "overview": "Fargo, Noah Hawley tarafından yazılmış ABD yapımı kara mizah, suç filmi türü bir dizidir. Dizi aynı ismi taşıyan 1996 yapımı Coen kardeşler tarafından yönetilmiş ve birçok ödül kazanan Fargo'dan esinlenilmiştir.",
+        "poster_path": "/6U9CPeD8obHzweikFhiLhpc7YBT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 267.536,
+        "first_air_date": "2014-04-15",
+        "vote_average": 8.3,
+        "vote_count": 2801,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/mQJVtl7SYjNLwjsUZZsITmAxtdU.jpg",
+        "id": 77169,
+        "name": "Cobra Kai",
+        "original_name": "Cobra Kai",
+        "overview": "Amansız düşmanlar, kavgalı iki dövüş okulu, tazekan... Daniel ve Johnny, \"Karate Kid\" serisinin devamı niteliğindeki bu dizide West Valley'deki ezelî rekabeti kızıştırıyor.",
+        "poster_path": "/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          35
+        ],
+        "popularity": 484.596,
+        "first_air_date": "2018-05-02",
+        "vote_average": 8.2,
+        "vote_count": 6521,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/hmLTIRtVyTHShJl2Wb8LHmvUgJm.jpg",
+        "id": 19885,
+        "name": "Sherlock",
+        "original_name": "Sherlock",
+        "overview": "Arthur Conan Doyle'un ünlü eserinden uyarlanan yapımda, kahramanlarımız Sherlock Holmes ve Dr. John Watson günümüz Londra'sında sıradışı cinayetleri çözmeye çalışıyorlar. Huysuz Sherlock ile insancıl John, maceradan maceraya atılırken, izleyici kendisini aksiyondan komediye uzanan bir koşuşturmacanın içinde buluyor. ",
+        "poster_path": "/cIfGAkpvWD2zxHrXzhv3uptYbyV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 123.518,
+        "first_air_date": "2010-07-25",
+        "vote_average": 8.5,
+        "vote_count": 5639,
+        "origin_country": [
+          "GB"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

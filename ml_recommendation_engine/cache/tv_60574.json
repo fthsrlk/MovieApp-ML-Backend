@@ -1,0 +1,793 @@
+{
+  "adult": false,
+  "backdrop_path": "/or7wKwv1IT6LEOktt395O5qi7e.jpg",
+  "created_by": [
+    {
+      "id": 23227,
+      "credit_id": "52fe6452c3a36818d600b632",
+      "name": "Steven Knight",
+      "original_name": "Steven Knight",
+      "gender": 2,
+      "profile_path": "/vmM9j2yXI8A3AccX3YgOEZHQWcO.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2013-09-12",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 80,
+      "name": "Suç"
+    }
+  ],
+  "homepage": "https://www.bbc.co.uk/programmes/b045fz8r",
+  "id": 60574,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2022-04-03",
+  "last_episode_to_air": {
+    "id": 3606124,
+    "name": "Kilit ve Anahtar",
+    "overview": "Köstebek, Arthur'un ne zaman ve nerede yalnız olacağını öğrenir. Hapisten yeni çıkan Michael, işe koyulur. Finn'in Shelby'lere olan sadakati teste tabi tutulur.",
+    "vote_average": 8.2,
+    "vote_count": 39,
+    "air_date": "2022-04-03",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 79,
+    "season_number": 6,
+    "show_id": 60574,
+    "still_path": "/caBuctwmvKPJNuJD3FYdd8UxTtE.jpg"
+  },
+  "name": "Peaky Blinders",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4,
+      "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+      "name": "BBC One",
+      "origin_country": "GB"
+    },
+    {
+      "id": 332,
+      "logo_path": "/7HVPn1p2w1nC5oRKBehXVHpss7e.png",
+      "name": "BBC Two",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 36,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Peaky Blinders",
+  "overview": "Birinci Dünya Savaşı’ndan yeni çıkmış İngiltere’yi, yasadışı faaliyet gösteren çeşitli çeteler sarmıştır. Bunlardan biri de soygunculuk ve at yarışıyla para kazanan Peaky Blinders’dır. Polislere rüşvet yedirerek paçayı kurtaran çete, bir soygunda yanlışlık yapınca başlarına bela olacak yeni bir müfettişin şehre gelmesine vesile olurlar.",
+  "popularity": 78.428,
+  "poster_path": "/5aHpODCpUa0kGTPXtiYC0moIPhT.jpg",
+  "production_companies": [
+    {
+      "id": 686,
+      "logo_path": "/qMVjV8YFbxXrGVF4wD6hRjllVbr.png",
+      "name": "Tiger Aspect",
+      "origin_country": "GB"
+    },
+    {
+      "id": 20047,
+      "logo_path": "/cBjeG0zicn6oTV9NNtEGmmZhEXp.png",
+      "name": "Caryn Mandabach Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 2690,
+      "logo_path": "/9XXpd39mDfkWmcNB6R0tpvzo781.png",
+      "name": "Screen Yorkshire",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 21,
+      "id": 178069,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/o5VrKdfN5Xg2pRnQVSqBCi4iNG9.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2013-09-12",
+      "episode_count": 6,
+      "id": 59914,
+      "name": "Sezon 1",
+      "overview": "Belfastlı dedektif Chester Campbell, şehri vahşi sokak çetelerinden temizleme göreviyle Birmingham'a gelir.",
+      "poster_path": "/zePPYlrmiSzJchtfqL5XpSJfeUf.jpg",
+      "season_number": 1,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2014-10-02",
+      "episode_count": 6,
+      "id": 62804,
+      "name": "Sezon 2",
+      "overview": "Bolluk ve refah dolu 1920'ler başlamıştır. İşlerin açılmasıyla çete lideri Tommy Shelby faaliyetlerini genişletmeye karar verir. Tehlikeli bölgeye gireceklerdir.",
+      "poster_path": "/ks3LanPFgFlCO0pqjQeKUMx20Lm.jpg",
+      "season_number": 2,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2016-05-05",
+      "episode_count": 6,
+      "id": 72707,
+      "name": "Sezon 3",
+      "overview": "1924 yılında, Tommy, dışarıdan bakıldığında at yarışı pistleri işletmekte ve araba satmaktadır. Oysa, gizliden gizliye Winston Churchill için çalışmaktadır.",
+      "poster_path": "/y4gyEP6ZNO2lf3jwk2mtgkpyEpe.jpg",
+      "season_number": 3,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2017-11-15",
+      "episode_count": 6,
+      "id": 94653,
+      "name": "Sezon 4",
+      "overview": "Bir anlaşmazlıkla bölündükten bir yıl sonra mafyanın hedefi haline gelen Shelby ailesi, yeniden birleşmek ve karanlık, yeni bir müttefikten yardım istemek zorunda kalır.",
+      "poster_path": "/kuZ3ac7bm558upsnDKia0WC5A0n.jpg",
+      "season_number": 4,
+      "vote_average": 8.4
+    },
+    {
+      "air_date": "2019-08-25",
+      "episode_count": 6,
+      "id": 129442,
+      "name": "Sezon 5",
+      "overview": "Shelbyler 1929'da borsanın çöküşünün neden olduğu sorunlarla uğraşırken Tommy, gücünü tehdit eden genç aile üyeleri ve faşist rakiplerle karşı karşıya gelir.",
+      "poster_path": "/l2kS811oL9y8526Qkgn8HOYrge8.jpg",
+      "season_number": 5,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2022-02-27",
+      "episode_count": 6,
+      "id": 217806,
+      "name": "Sezon 6",
+      "overview": "Shelby'ler yıkıcı bir kayıp yaşarlar. Dört yıl sonra içki yasağı sona erince Tommy, afyon ticaretine yönelir ve en büyük düşmanlarıyla iş birliği yapmak zorunda kalır.",
+      "poster_path": "/iZ5XwfNWOb6tTdIjm2QuYFDTeLu.jpg",
+      "season_number": 6,
+      "vote_average": 7.9
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Londra'yı almak için",
+  "type": "Scripted",
+  "vote_average": 8.532,
+  "vote_count": 10339,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2037,
+        "known_for_department": "Acting",
+        "name": "Cillian Murphy",
+        "original_name": "Cillian Murphy",
+        "popularity": 8.595,
+        "profile_path": "/llkbyWKwpfowZ6C8peBjIV9jj99.jpg",
+        "character": "Thomas Shelby",
+        "credit_id": "52fe64c9c3a36818ce00dd1c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 220448,
+        "known_for_department": "Acting",
+        "name": "Paul Anderson",
+        "original_name": "Paul Anderson",
+        "popularity": 2.8788,
+        "profile_path": "/nds5rTBZvJ4rEsP4N6OaoEgQDkW.jpg",
+        "character": "Arthur Shelby",
+        "credit_id": "5a6ec4820e0a265f1002cc45",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1088620,
+        "known_for_department": "Acting",
+        "name": "Sophie Rundle",
+        "original_name": "Sophie Rundle",
+        "popularity": 1.7145,
+        "profile_path": "/z9XtNoPy9IazsdPB1fCoI8KuZoG.jpg",
+        "character": "Ada Shelby",
+        "credit_id": "543584cc0e0a264d7000017b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1167897,
+        "known_for_department": "Acting",
+        "name": "Natasha O'Keeffe",
+        "original_name": "Natasha O'Keeffe",
+        "popularity": 1.6301,
+        "profile_path": "/tOX10C02tSFnOSra8a8rGuA6QZ5.jpg",
+        "character": "Lizzie Stark",
+        "credit_id": "571b9704925141715d00497f",
+        "order": 12
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "england",
+        "id": 392
+      },
+      {
+        "name": "gypsy",
+        "id": 394
+      },
+      {
+        "name": "corruption",
+        "id": 417
+      },
+      {
+        "name": "gangster",
+        "id": 3149
+      },
+      {
+        "name": "outlaw",
+        "id": 9503
+      },
+      {
+        "name": "drugs",
+        "id": 14964
+      },
+      {
+        "name": "criminal",
+        "id": 15009
+      },
+      {
+        "name": "period drama",
+        "id": 15060
+      },
+      {
+        "name": "historical",
+        "id": 15126
+      },
+      {
+        "name": "british history",
+        "id": 159862
+      },
+      {
+        "name": "protection racket",
+        "id": 163107
+      },
+      {
+        "name": "illegal gambling",
+        "id": 173602
+      },
+      {
+        "name": "historical drama",
+        "id": 192772
+      },
+      {
+        "name": "bookmaker",
+        "id": 199659
+      },
+      {
+        "name": "aggressive",
+        "id": 202371
+      },
+      {
+        "name": "1920s",
+        "id": 207876
+      },
+      {
+        "name": "1910s",
+        "id": 210184
+      },
+      {
+        "name": "birmingham",
+        "id": 210590
+      },
+      {
+        "name": "modern history",
+        "id": 298512
+      },
+      {
+        "name": "zohaib",
+        "id": 310740
+      },
+      {
+        "name": "suspenseful",
+        "id": 314730
+      },
+      {
+        "name": "amused",
+        "id": 325765
+      },
+      {
+        "name": "enthusiastic",
+        "id": 325809
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/lHe8iwM4Cdm6RSEiara4PN8ZcBd.jpg",
+        "id": 44217,
+        "name": "Vikingler",
+        "original_name": "Vikings",
+        "overview": "Viking kahramanı Ragnar Lothbrok’un, ileriyi göremeyen, yetersiz bir lidere meydan okuyarak Norse sınırlarını nasıl genişlettiğini seyrettiğimiz gerçekçi bir dram.",
+        "poster_path": "/qkCh6cFSHikSIFTWUQyJ2qJzqsy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10768
+        ],
+        "popularity": 93.0572,
+        "first_air_date": "2013-03-03",
+        "vote_average": 8.094,
+        "vote_count": 7161,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/34OGjFEbHj0E3lE2w0iTUVq0CBz.jpg",
+        "id": 87739,
+        "name": "The Queen's Gambit",
+        "original_name": "The Queen's Gambit",
+        "overview": "1950'lerde bir yetimhanede, küçük bir kız müthiş bir satranç yeteneği sergiler. Ancak yıldızlığa uzanan umulmadık yolculuğunda bağımlılıkla mücadele etmek zorunda kalır.",
+        "poster_path": "/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 12.5735,
+        "first_air_date": "2020-10-23",
+        "vote_average": 8.462,
+        "vote_count": 4896,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/bT7pArYmcE91iCTec5H7pjrVbSu.jpg",
+        "id": 63351,
+        "name": "Narcos",
+        "original_name": "Narcos",
+        "overview": "Uyuşturucu İle Mücadele Dairesi’nde çalışan bir Meksikalı bir ajan olan Javier Pena, ünlü Kolombiyalı uyuşturucu kaçakçısı Pablo Escobar’ı yakalamak için Birleşik Devletler tarafından Kolombiya’ya yollanır. Escobar'ın gerçek hayat hikayesinden uyarlanan dizi, dünya çapına yayılmış bir uyuşturucu şebekesini engellemeye çalışan kolluk kuvvetlerini konu ediniyor.",
+        "poster_path": "/rTmal9fDbwh5F0waol2hq35U4ah.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 32.7859,
+        "first_air_date": "2015-08-28",
+        "vote_average": 8.044,
+        "vote_count": 2944,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9faGSFi5jam6pDWGNd0p8JcJgXQ.jpg",
+        "id": 1396,
+        "name": "Breaking Bad",
+        "original_name": "Breaking Bad",
+        "overview": "Kanserden öleceğini öğrenen bir kimya öğretmeni, ailesinin geleceğini garanti altına almak için metamfetamin üretip satmak üzere eski bir öğrencisiyle kafa kafaya verir.",
+        "poster_path": "/ineLOBPG8AZsluYwnkMpHRyu7L.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 116.064,
+        "first_air_date": "2008-01-20",
+        "vote_average": 8.925,
+        "vote_count": 15512,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/hmLTIRtVyTHShJl2Wb8LHmvUgJm.jpg",
+        "id": 19885,
+        "name": "Sherlock",
+        "original_name": "Sherlock",
+        "overview": "Arthur Conan Doyle'un ünlü eserinden uyarlanan yapımda, kahramanlarımız Sherlock Holmes ve Dr. John Watson günümüz Londra'sında sıradışı cinayetleri çözmeye çalışıyorlar. Huysuz Sherlock ile insancıl John, maceradan maceraya atılırken, izleyici kendisini aksiyondan komediye uzanan bir koşuşturmacanın içinde buluyor. ",
+        "poster_path": "/cIfGAkpvWD2zxHrXzhv3uptYbyV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 30.9861,
+        "first_air_date": "2010-07-25",
+        "vote_average": 8.513,
+        "vote_count": 5740,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+        "id": 1399,
+        "name": "Game of Thrones",
+        "original_name": "Game of Thrones",
+        "overview": "Krallık dediğin savaşsız olur mu? En güçlü krallığı kurup huzuru sağlamış olsanız bile bu gücü elinizde nasıl tutardınız? Burada yanlış yapana yer yok, affetmek yok. Hanedan entrikaları, kapılı kapılar ardında dönen oyunlar, birilerinin kuyusunu kazmak için düşmanın koynuna girmekten çekinmeyen kadınlar, kardeşler arası çekişmeler, dışlanmalar. Hepsi tek bir amaç için: taht kavgası.",
+        "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 202.8327,
+        "first_air_date": "2011-04-17",
+        "vote_average": 8.457,
+        "vote_count": 24962,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gder6NtVlBIpenWWMOwpbQK05Uc.jpg",
+        "id": 65708,
+        "name": "Taboo",
+        "original_name": "Taboo",
+        "overview": "James Keziah Delaney babasının bıraktığı gizemli mirası bulmak için gittiği Afrika'dan tam 10 yıl sonra 1814'te Londra'ya geri döner. Delaney haksızca yürütülen bir savaşta İngiltere ve Amerika arasında tehlikeli bir oyun oynarken kendisini Doğu Hindistan Şirketi'yle karşı karşıya bulur ve böylece maceraperest James Keziah Delaney 1800'lerin başında kendi denizcilik imparatorluğunu kurar.",
+        "poster_path": "/om1wVOuEtwH3krHutIWO9sJzkS5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 19.8642,
+        "first_air_date": "2017-01-07",
+        "vote_average": 7.902,
+        "vote_count": 1287,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/siA2d4PNn4JVFZAwfIYx4pnKCaK.jpg",
+        "id": 46648,
+        "name": "True Detective",
+        "original_name": "True Detective",
+        "overview": "Louisiana Cinayet Masası'nda görev yapan dedektif Rust Cohle ve Martin Hart bir seri katilin peşine düşerler. Beraber çalışan ikilinin, takip derinleştikçe kendi hayatlarının da içinden çıkılmaz bir duruma gelmesi kaçınılmaz olacaktır. 17 yıl boyunca bir seri katili yakalamak için iz süren dedektifler, yıllar sonra davanın tekrar ele alınması ile beraber kendilerini sorgu masasında bulurlar.",
+        "poster_path": "/cuV2O5ZyDLHSOWzg3nLVljp1ubw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 43.1416,
+        "first_air_date": "2014-01-12",
+        "vote_average": 8.286,
+        "vote_count": 3637,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/or0E36KfzJYZwqXeiCfm1JgepKF.jpg",
+        "id": 37680,
+        "name": "Suits",
+        "original_name": "Suits",
+        "overview": "Önemli bir avukatı zehir gibi zekâsıyla etkileyen üniversite terk genç, avukatlık ruhsatı olmadığı halde altın gibi bir iş ortaklığı fırsatını on ikiden vurur.",
+        "poster_path": "/vQiryp6LioFxQThywxbC6TuoDjy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 92.6162,
+        "first_air_date": "2011-06-23",
+        "vote_average": 8.224,
+        "vote_count": 5266,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gD830J0sf5gEeZvzkRVPdGxJmSR.jpg",
+        "id": 69740,
+        "name": "Ozark",
+        "original_name": "Ozark",
+        "overview": "Bir finans danışmanı, ailesini Chicago'dan Missouri'deki Ozarks'a sürükler. Burada, bir uyuşturucu patronunu memnun etmek için beş yılda 500 milyon dolar aklamalıdır.",
+        "poster_path": "/pCGyPVrI9Fzw6rE1Pvi4BIXF6ET.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 25.4948,
+        "first_air_date": "2017-07-21",
+        "vote_average": 8.21,
+        "vote_count": 2453,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
+        "id": 42009,
+        "name": "Black Mirror",
+        "original_name": "Black Mirror",
+        "overview": "İnsanlığın en kötü özelliklerini, en büyük buluşlarını ve çok daha fazlasını gözler önüne seren bu akılalmaz antoloji dizisinde çarpık öykülerin ardı arkası kesilmiyor.",
+        "poster_path": "/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          9648
+        ],
+        "popularity": 96.581,
+        "first_air_date": "2011-12-04",
+        "vote_average": 8.29,
+        "vote_count": 5471,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/2MaumbgBlW1NoPo3ZJO38A6v7OS.jpg",
+        "id": 66732,
+        "name": "Stranger Things",
+        "original_name": "Stranger Things",
+        "overview": "Ufak bir kasabada küçük bir çocuk kaybolunca, gizli deneyler, korkutucu doğaüstü güçler ve tuhaf bir küçük kızın da parçası olduğu bir gizem ortaya çıkar.",
+        "poster_path": "/hjVNQA2a12OxkpDEOQTBMbKVZ1K.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765,
+          9648
+        ],
+        "popularity": 62.6575,
+        "first_air_date": "2016-07-15",
+        "vote_average": 8.596,
+        "vote_count": 18275,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/rAOjnEFTuNysY7bot8zonhImGMh.jpg",
+        "id": 1402,
+        "name": "The Walking Dead",
+        "original_name": "The Walking Dead",
+        "overview": "Kasabanın polis şefi Rick Grimes bir gün vurularak hastaneye kaldırılır; fakat o komadayken geçen sürede bildiği yaşam altüst olmuştur. Artık dünya, insan etiyle beslenen zombilerin insafına kalacak. Tabii birazcık insani duyguları kaldıysa. Atlanta'da kaostan sonra sessizce hayatta kalmaya çalışan küçük bir grup insanınsa birbirlerinden başka tutunacak kimseleri yok.",
+        "poster_path": "/s3OIDrCErUjthsnPPreY7XktQXB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10765
+        ],
+        "popularity": 109.4463,
+        "first_air_date": "2010-10-31",
+        "vote_average": 8.097,
+        "vote_count": 16946,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ifZYdmNuMWimFCUGGcYAs9bHNlv.jpg",
+        "id": 63333,
+        "name": "The Last Kingdom",
+        "original_name": "The Last Kingdom",
+        "overview": "Dizi, Vikingler tarafından büyütülen, sonrasında kralları Büyük Alfred ile oğlu Edward için kalkan duvarları ve kan, intikam içerisinde Alfred'in İngiltere diye adlandırdığı krallıkları tek bir bayrak altında toplama rüyasını gerçekleştirmek için hizmet eden bir savaşçının hikayesi anlatılıyor.",
+        "poster_path": "/8eJf0hxgIhE6QSxbtuNCekTddy1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10768
+        ],
+        "popularity": 41.6851,
+        "first_air_date": "2015-10-10",
+        "vote_average": 8.253,
+        "vote_count": 1795,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/A6I3M4MIA2Pi2gS6vGdg2eVlVXT.jpg",
+        "id": 68421,
+        "name": "Altered Carbon",
+        "original_name": "Altered Carbon",
+        "overview": "Buzda geçen 250 yıldan sonra yeni bir vücutta dirilen bir mahkûm, özgürlüğünü geri kazanmak için akılalmaz bir cinayeti çözmek zorundadır.",
+        "poster_path": "/66rKwpSexUZ3yTv5lBS1bjU4Ykk.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 13.4037,
+        "first_air_date": "2018-02-02",
+        "vote_average": 7.665,
+        "vote_count": 2018,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/jXB3OoWPkojsOP2O2OoLCeAIDRS.jpg",
+        "id": 69478,
+        "name": "The Handmaid's Tale",
+        "original_name": "The Handmaid's Tale",
+        "overview": "Dizi, Gilead isimli bir toplumda geçiyor. Doğal sebepler nedeniyle nüfus düşüşü yaşayan bu toplumda kadınlar devletin malı olarak kabul ediliyor. Toplumun yeniden çoğalması için üreme hizmetine zorlanan Offred, bu acımasız koşullarda hayatta kalmaya çalışıyor.",
+        "poster_path": "/qdWEaWkIQIjANGFeskheXpP0mm1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 136.8672,
+        "first_air_date": "2017-04-26",
+        "vote_average": 8.176,
+        "vote_count": 2876,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/a906PH7CDmSOdS7kmnAgdWk5mhv.jpg",
+        "id": 67744,
+        "name": "MINDHUNTER",
+        "original_name": "MINDHUNTER",
+        "overview": "FBI'ın Elit Seri Suçlar Biriminden bir ajan, kötü şöhretli seri katilleri ve tecavüzcüleri araştırırken profil çıkarma teknikleri geliştirir.",
+        "poster_path": "/fbKE87mojpIETWepSbD5Qt741fp.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 14.5485,
+        "first_air_date": "2017-10-13",
+        "vote_average": 8.078,
+        "vote_count": 2604,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7cqKGQMnNabzOpi7qaIgZvQ7NGV.jpg",
+        "id": 76479,
+        "name": "The Boys",
+        "original_name": "The Boys",
+        "overview": "The Boys, süper kahramanların güçlerini ve şöhretlerini kötüye kullandığı bir evrende geçiyor. Kendilerini kanunu korumaya adayan ve “The Boys” olarak adlandırılan bir grup insan, yozlaşmış süper kahramanları ortadan kaldırmak için zorlu bir yolculuğa çıkar.",
+        "poster_path": "/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759
+        ],
+        "popularity": 74.0135,
+        "first_air_date": "2019-07-25",
+        "vote_average": 8.459,
+        "vote_count": 10973,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/xGexTKCJDkl12dTW4YCBDXWb1AD.jpg",
+        "id": 71446,
+        "name": "Money Heist",
+        "original_name": "La casa de papel",
+        "overview": "Bir suç dehası planını gerçekleştirmek üzere polisi ustalıkla yönlendirirken sekiz hırsız, rehineler alarak kendilerini İspanya Kraliyet Darphanesine kilitler.",
+        "poster_path": "/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 36.0744,
+        "first_air_date": "2017-05-02",
+        "vote_average": 8.237,
+        "vote_count": 18886,
+        "origin_country": [
+          "ES"
+        ]
+      },
+      {
+        "backdrop_path": "/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
+        "id": 96677,
+        "name": "Lupin",
+        "original_name": "Lupin",
+        "overview": "Arsen Lüpen'in maceralarından esinlenen kibar hırsız Assane Diop, varlıklı bir aile yüzünden haksızlığa uğrayan babasının intikamını almak için kolları sıvar. (16 yaş ve üzeri için uygundur)",
+        "poster_path": "/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 16.5145,
+        "first_air_date": "2021-01-08",
+        "vote_average": 7.729,
+        "vote_count": 2339,
+        "origin_country": [
+          "FR"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

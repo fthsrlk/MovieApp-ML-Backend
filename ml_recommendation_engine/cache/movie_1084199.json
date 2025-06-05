@@ -1,0 +1,1383 @@
+{
+  "adult": false,
+  "backdrop_path": "/sc1abgWNXc29wSBaerrjGBih06l.jpg",
+  "belongs_to_collection": null,
+  "budget": 10000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Korku"
+    },
+    {
+      "id": 878,
+      "name": "Bilim-Kurgu"
+    },
+    {
+      "id": 53,
+      "name": "Gerilim"
+    }
+  ],
+  "homepage": "",
+  "id": 1084199,
+  "imdb_id": "tt26584495",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Companion",
+  "overview": "Gizemli bir kıyamet olayından kurtulan az sayıda insandan biri olan bir kadın, ıssız ve fütüristik bir dünyada mahsur kalmış bir halde, diğer hayatta kalanlarla yeniden bağlantı kurmak için tehlikeli bir yolculuğa çıkar. Bu yolculuk sırasında insanlara yardım etmek ve onları korumak için tasarlanmış bir yapay zeka tarafından yönetilen gizemli bir \"Kusursuz Arkadaş\" ona eşlik eder. Ancak bu varlığın davranışları ve motivasyonları öngörülemez bir hal alır. Kadının \"Kusursuz Arkadaş\" ile olan ilişkisi geliştikçe onun gerçek niyetlerini sorgulamaya başlar ve bu durum gergin ve ürpertici karşılaşmalara yol açar.",
+  "popularity": 592.778,
+  "poster_path": "/6guIbrI70MtDVVI2sMjanwHtXds.jpg",
+  "production_companies": [
+    {
+      "id": 18609,
+      "logo_path": "/cYhbt3q231mWEkiMn3WPLCcXXl9.png",
+      "name": "BoulderLight Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 12,
+      "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 829,
+      "logo_path": "/aXqwCvJSCDbTclkxAYfsT1l4Dsa.png",
+      "name": "Vertigo Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 240675,
+      "logo_path": null,
+      "name": "Subconscious",
+      "origin_country": "US"
+    },
+    {
+      "id": 216687,
+      "logo_path": null,
+      "name": "Domain Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 174,
+      "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-01-22",
+  "revenue": 34480388,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Yalnızca sizin için yaratılmış birini bulun.",
+  "title": "Kusursuz Arkadaş",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 661,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1981044,
+        "known_for_department": "Acting",
+        "name": "Sophie Thatcher",
+        "original_name": "Sophie Thatcher",
+        "popularity": 44.731,
+        "profile_path": "/rUEPZaDxFdDGM76t4g6cYa8Ru7b.jpg",
+        "cast_id": 59,
+        "character": "Iris",
+        "credit_id": "679def9fa74d8ee23b262153",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1030513,
+        "known_for_department": "Acting",
+        "name": "Jack Quaid",
+        "original_name": "Jack Quaid",
+        "popularity": 39.193,
+        "profile_path": "/320qW5yEbxpmyxQ3evmClJbtKag.jpg",
+        "cast_id": 60,
+        "character": "Josh",
+        "credit_id": "679defa828bb97ddd39536dc",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1371509,
+        "known_for_department": "Acting",
+        "name": "Lukas Gage",
+        "original_name": "Lukas Gage",
+        "popularity": 17.821,
+        "profile_path": "/sftjB0MjD92meZqnL9OLtcTI02d.jpg",
+        "cast_id": 61,
+        "character": "Patrick",
+        "credit_id": "679defb0176fdb2244cb3ed3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2073513,
+        "known_for_department": "Acting",
+        "name": "Megan Suri",
+        "original_name": "Megan Suri",
+        "popularity": 14.896,
+        "profile_path": "/zUfiITKJh789PBSdF7B3HUBpJ8g.jpg",
+        "cast_id": 62,
+        "character": "Kat",
+        "credit_id": "679defb7176fdb2244cb3ee0",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 210172,
+        "known_for_department": "Acting",
+        "name": "Harvey Guillén",
+        "original_name": "Harvey Guillén",
+        "popularity": 15.417,
+        "profile_path": "/yiNBonobPwqMVweB02JWufzp2l9.jpg",
+        "cast_id": 63,
+        "character": "Eli",
+        "credit_id": "679defbe176fdb2244cb3ee5",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 36669,
+        "known_for_department": "Acting",
+        "name": "Rupert Friend",
+        "original_name": "Rupert Friend",
+        "popularity": 26.592,
+        "profile_path": "/mYgY8LrMkQ4OkGTIOf6MtkbMnnW.jpg",
+        "cast_id": 64,
+        "character": "Sergey",
+        "credit_id": "679defc6a57909701acb3bfe",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1998733,
+        "known_for_department": "Acting",
+        "name": "Jaboukie Young-White",
+        "original_name": "Jaboukie Young-White",
+        "popularity": 6.436,
+        "profile_path": "/8OYI8OqsMUpBZica4lM2odjgVH6.jpg",
+        "cast_id": 65,
+        "character": "Teddy",
+        "credit_id": "679defda7ebb0614ff2620b2",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1152011,
+        "known_for_department": "Acting",
+        "name": "Matthew J. McCarthy",
+        "original_name": "Matthew J. McCarthy",
+        "popularity": 4.751,
+        "profile_path": "/eHKjDZPdHTz5lV1UySfMdRqMrH6.jpg",
+        "cast_id": 66,
+        "character": "Sid",
+        "credit_id": "679defe7ebb9962403262a46",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 212776,
+        "known_for_department": "Acting",
+        "name": "Marc Menchaca",
+        "original_name": "Marc Menchaca",
+        "popularity": 7.814,
+        "profile_path": "/fL0LmdBwau30M4AFPVJrpLRXXsU.jpg",
+        "cast_id": 67,
+        "character": "Deputy Hendrix",
+        "credit_id": "679defefa57909701acb3c1a",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3303063,
+        "known_for_department": "Acting",
+        "name": "Woody Fu",
+        "original_name": "Woody Fu",
+        "popularity": 1.081,
+        "profile_path": "/305m52CIr9Jtb1whdc5i1Lx2iEd.jpg",
+        "cast_id": 68,
+        "character": "Mateo",
+        "credit_id": "679deff9176fdb2244cb3ee9",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1561797,
+        "known_for_department": "Production",
+        "name": "Ashley Lambert",
+        "original_name": "Ashley Lambert",
+        "popularity": 4.121,
+        "profile_path": "/ucsdNz1pdVWwRFwf4dtjfaXE8nR.jpg",
+        "cast_id": 69,
+        "character": "Josh's Car (voice)",
+        "credit_id": "679df000ebb9962403262a58",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1087245,
+        "known_for_department": "Directing",
+        "name": "Drew Hancock",
+        "original_name": "Drew Hancock",
+        "popularity": 4.336,
+        "profile_path": "/zJFrGcCFfuefiQyW3SHRXIib6LV.jpg",
+        "credit_id": "63e3f6f65ca7040084dce9b5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1087245,
+        "known_for_department": "Directing",
+        "name": "Drew Hancock",
+        "original_name": "Drew Hancock",
+        "popularity": 4.336,
+        "profile_path": "/zJFrGcCFfuefiQyW3SHRXIib6LV.jpg",
+        "credit_id": "63e3f7017304b50092e76f44",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84833,
+        "known_for_department": "Directing",
+        "name": "Zach Cregger",
+        "original_name": "Zach Cregger",
+        "popularity": 4.336,
+        "profile_path": "/aUogFaUip4SAf8FOlqsQCCkX9jq.jpg",
+        "credit_id": "63e3f70adb154f00ab38a6ed",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1276440,
+        "known_for_department": "Production",
+        "name": "Raphael Margules",
+        "original_name": "Raphael Margules",
+        "popularity": 1.442,
+        "profile_path": "/3Dqpx0s7zOZ086aTzlLMmb1AdJT.jpg",
+        "credit_id": "63e3f724db154f00ded27907",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1276439,
+        "known_for_department": "Production",
+        "name": "J.D. Lifshitz",
+        "original_name": "J.D. Lifshitz",
+        "popularity": 2.219,
+        "profile_path": "/wsKG7zRaVG17DT22QQag0Fzz4HN.jpg",
+        "credit_id": "63e3f7307304b50092e76f53",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21036,
+        "known_for_department": "Production",
+        "name": "Roy Lee",
+        "original_name": "Roy Lee",
+        "popularity": 5.636,
+        "profile_path": "/fMY0MiVyrGaK44ejqWzT2txcRVI.jpg",
+        "credit_id": "63e3f73c7304b500b400fb39",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2433507,
+        "known_for_department": "Production",
+        "name": "Tracy Rosenblum",
+        "original_name": "Tracy Rosenblum",
+        "popularity": 0.074,
+        "profile_path": null,
+        "credit_id": "63e3f7697304b50078df3682",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3034045,
+        "known_for_department": "Production",
+        "name": "Andrew Childs",
+        "original_name": "Andrew Childs",
+        "popularity": 0.344,
+        "profile_path": null,
+        "credit_id": "63e3f7777304b5008461b817",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1168710,
+        "known_for_department": "Editing",
+        "name": "Brett W. Bachman",
+        "original_name": "Brett W. Bachman",
+        "popularity": 0.269,
+        "profile_path": "/durN80P9MqHQPNXtpwoVJK2T2Ty.jpg",
+        "credit_id": "66ebcd472d67799ad3eb7a11",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1194701,
+        "known_for_department": "Editing",
+        "name": "Josh Ethier",
+        "original_name": "Josh Ethier",
+        "popularity": 1.039,
+        "profile_path": "/8DROpoQtncbjneiMdvse47uoK8l.jpg",
+        "credit_id": "66ebcd5962c4bb18c9748067",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1447961,
+        "known_for_department": "Camera",
+        "name": "Eli Born",
+        "original_name": "Eli Born",
+        "popularity": 0.606,
+        "profile_path": "/MqVp7aQ8p63nMiJZUEf37BB1sK.jpg",
+        "credit_id": "66fd7c341592ef1ba984adb7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1661480,
+        "known_for_department": "Production",
+        "name": "Jamie Buckner",
+        "original_name": "Jamie Buckner",
+        "popularity": 0.652,
+        "profile_path": null,
+        "credit_id": "66fd83289ebea19006f79f82",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1394660,
+        "known_for_department": "Art",
+        "name": "Scott Kuzio",
+        "original_name": "Scott Kuzio",
+        "popularity": 1.288,
+        "profile_path": null,
+        "credit_id": "66fd834fc9a10d46ea7c5542",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1578007,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Vanessa Porter",
+        "original_name": "Vanessa Porter",
+        "popularity": 0.928,
+        "profile_path": null,
+        "credit_id": "66fd83ca67c6fb09fff79cba",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1191975,
+        "known_for_department": "Sound",
+        "name": "Hrishikesh Hirway",
+        "original_name": "Hrishikesh Hirway",
+        "popularity": 0.001,
+        "profile_path": "/svV0Ft7opK6ZTQccQfzWjxUCWqu.jpg",
+        "credit_id": "66fd8437925fdf925b7c58bb",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2029985,
+        "known_for_department": "Sound",
+        "name": "Rob Lowry",
+        "original_name": "Rob Lowry",
+        "popularity": 0.241,
+        "profile_path": null,
+        "credit_id": "66fd844fc9a10d46ea7c5613",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 13585,
+        "known_for_department": "Production",
+        "name": "Nancy Nayor",
+        "original_name": "Nancy Nayor",
+        "popularity": 2.53,
+        "profile_path": "/fX7ZL0N4tZFX60binvu3opuqhdf.jpg",
+        "credit_id": "66fd846bfa3e69e0ef7c584d",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2240794,
+        "known_for_department": "Production",
+        "name": "Josh Mack",
+        "original_name": "Josh Mack",
+        "popularity": 0.165,
+        "profile_path": null,
+        "credit_id": "6706e3f74d7a645f9352271f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3228811,
+        "known_for_department": "Editing",
+        "name": "Adam Ridley",
+        "original_name": "Adam Ridley",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "6706e419cd43bcf291aa6e8e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1365425,
+        "known_for_department": "Acting",
+        "name": "Ryan Ridley",
+        "original_name": "Ryan Ridley",
+        "popularity": 5.018,
+        "profile_path": "/mSFssRpQl6ax2QrYTxBBfluVgy2.jpg",
+        "credit_id": "6706e4255f3857993340dc5b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3462219,
+        "known_for_department": "Production",
+        "name": "Paulina Sussman",
+        "original_name": "Paulina Sussman",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "6706e43a5f3857993340dc75",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1476243,
+        "known_for_department": "Art",
+        "name": "Naomi Munro",
+        "original_name": "Naomi Munro",
+        "popularity": 0.039,
+        "profile_path": null,
+        "credit_id": "6706e4883abedc1d3b6a21b8",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1869437,
+        "known_for_department": "Art",
+        "name": "Kendall Anderson",
+        "original_name": "Kendall Anderson",
+        "popularity": 1.103,
+        "profile_path": null,
+        "credit_id": "6706e4a44d7a645f93522764",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2588283,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Joshua First",
+        "original_name": "Joshua First",
+        "popularity": 0.009,
+        "profile_path": null,
+        "credit_id": "672d7d7f7dcab2a0a617bc08",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1853812,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sasha Grossman",
+        "original_name": "Sasha Grossman",
+        "popularity": 0.108,
+        "profile_path": null,
+        "credit_id": "672d7d8af2880d1004f6abae",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3281566,
+        "known_for_department": "Directing",
+        "name": "Betty Austin",
+        "original_name": "Betty Austin",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "672d7da87dcab2a0a617bc15",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3843827,
+        "known_for_department": "Production",
+        "name": "Jasmine Gutierrez",
+        "original_name": "Jasmine Gutierrez",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "672d7f6c5a20459207416b66",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 204339,
+        "known_for_department": "Crew",
+        "name": "Christopher Place",
+        "original_name": "Christopher Place",
+        "popularity": 4.606,
+        "profile_path": "/bbz8BujwBXQfEDu68ZxXpj35HoH.jpg",
+        "credit_id": "672d7f7acaf727f3748aaf09",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4527747,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Hailei Call",
+        "original_name": "Hailei Call",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "673e48c4ab4d6d0e8d1abedd",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1576849,
+        "known_for_department": "Sound",
+        "name": "Dan Kenyon",
+        "original_name": "Dan Kenyon",
+        "popularity": 3.097,
+        "profile_path": "/vPdBYJQ3IIGdvvM6pAQgonJ9DEU.jpg",
+        "credit_id": "676332b0713e9ff45bab0e5a",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1576849,
+        "known_for_department": "Sound",
+        "name": "Dan Kenyon",
+        "original_name": "Dan Kenyon",
+        "popularity": 3.097,
+        "profile_path": "/vPdBYJQ3IIGdvvM6pAQgonJ9DEU.jpg",
+        "credit_id": "676332b867c96321804a349c",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1576849,
+        "known_for_department": "Sound",
+        "name": "Dan Kenyon",
+        "original_name": "Dan Kenyon",
+        "popularity": 3.097,
+        "profile_path": "/vPdBYJQ3IIGdvvM6pAQgonJ9DEU.jpg",
+        "credit_id": "676332c067c96321804a34a3",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2056245,
+        "known_for_department": "Crew",
+        "name": "Ashley Pynn",
+        "original_name": "Ashley Pynn",
+        "popularity": 1.153,
+        "profile_path": "/yrJMsZzvbgyr25Cl7fu5nNBKBF2.jpg",
+        "credit_id": "6767a78f0b2fbb9dea5e3bb9",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1657908,
+        "known_for_department": "Crew",
+        "name": "Stephen Izzi",
+        "original_name": "Stephen Izzi",
+        "popularity": 2.609,
+        "profile_path": "/1hvngpGRjbUzavThfRxBzAouJWI.jpg",
+        "credit_id": "6767ac6fae1b411f405e4536",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2722089,
+        "known_for_department": "Crew",
+        "name": "Lenny Cruz",
+        "original_name": "Lenny Cruz",
+        "popularity": 0.533,
+        "profile_path": null,
+        "credit_id": "6767ac7b330bce6ec99124e9",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1664723,
+        "known_for_department": "Crew",
+        "name": "Anthony Hoang",
+        "original_name": "Anthony Hoang",
+        "popularity": 0.441,
+        "profile_path": "/b92rOITC9O8Avl2T29BWDWRihE3.jpg",
+        "credit_id": "6767ac8303a3aa53309118fa",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1456749,
+        "known_for_department": "Crew",
+        "name": "Greg Harvey",
+        "original_name": "Greg Harvey",
+        "popularity": 2.043,
+        "profile_path": null,
+        "credit_id": "6767ac8fae1b411f405e4542",
+        "department": "Crew",
+        "job": "Utility Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1953257,
+        "known_for_department": "Lighting",
+        "name": "Matthew Atwood",
+        "original_name": "Matthew Atwood",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "6767ac9aae1b411f405e454b",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5175966,
+        "known_for_department": "Production",
+        "name": "Paulina Jaśkiewicz",
+        "original_name": "Paulina Jaśkiewicz",
+        "popularity": 0.556,
+        "profile_path": "/mTdskyQ17x6YrFEBJN8dt7wjswQ.jpg",
+        "credit_id": "6784a11912cf9b29154e8e2f",
+        "department": "Production",
+        "job": "Key Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3574606,
+        "known_for_department": "Art",
+        "name": "Claire Typaldos",
+        "original_name": "Claire Typaldos",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "679c8bc316ff832e57bde4fd",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1815555,
+        "known_for_department": "Sound",
+        "name": "Brian Tarlecki",
+        "original_name": "Brian Tarlecki",
+        "popularity": 0.185,
+        "profile_path": null,
+        "credit_id": "679c8c50d4381a4fc9012bd3",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4445624,
+        "known_for_department": "Production",
+        "name": "Anthony Tittanegro",
+        "original_name": "Anthony Tittanegro",
+        "popularity": 0.06,
+        "profile_path": null,
+        "credit_id": "679d52d37b4153a3b9952e8e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4445623,
+        "known_for_department": "Production",
+        "name": "Andrew Lary",
+        "original_name": "Andrew Lary",
+        "popularity": 0.44,
+        "profile_path": null,
+        "credit_id": "679d52e480082986c8cb2b16",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4445622,
+        "known_for_department": "Production",
+        "name": "Pete Chiappetta",
+        "original_name": "Pete Chiappetta",
+        "popularity": 1.138,
+        "profile_path": null,
+        "credit_id": "679d533a3fd9d12e1d2613db",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57430,
+        "known_for_department": "Production",
+        "name": "Richard Brener",
+        "original_name": "Richard Brener",
+        "popularity": 4.15,
+        "profile_path": "/i1nFbAKpbtjxBr2vkY5WeYRs250.jpg",
+        "credit_id": "67a062bb776edf4be3954465",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2803492,
+        "known_for_department": "Sound",
+        "name": "Jillian Ennis",
+        "original_name": "Jillian Ennis",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "67c6d2bb0111a88c6b04df49",
+        "department": "Sound",
+        "job": "Music Consultant"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 310,
+        "name": "artificial intelligence (a.i.)"
+      },
+      {
+        "id": 3623,
+        "name": "cabin"
+      },
+      {
+        "id": 14544,
+        "name": "robot"
+      },
+      {
+        "id": 164698,
+        "name": "boyfriend girlfriend relationship"
+      },
+      {
+        "id": 179431,
+        "name": "duringcreditsstinger"
+      },
+      {
+        "id": 213882,
+        "name": "robot girl"
+      },
+      {
+        "id": 233380,
+        "name": "weekend getaway"
+      },
+      {
+        "id": 241609,
+        "name": "human android relationship"
+      },
+      {
+        "id": 241804,
+        "name": "toxic relationship"
+      },
+      {
+        "id": 244355,
+        "name": "incel"
+      },
+      {
+        "id": 245415,
+        "name": "toxic masculinity"
+      },
+      {
+        "id": 280688,
+        "name": "abusive relationship"
+      },
+      {
+        "id": 287324,
+        "name": "malfunctioning android"
+      },
+      {
+        "id": 287523,
+        "name": "white privilege"
+      },
+      {
+        "id": 291207,
+        "name": "sentient machine"
+      },
+      {
+        "id": 321464,
+        "name": "intense"
+      },
+      {
+        "id": 322255,
+        "name": "sinister"
+      },
+      {
+        "id": 323910,
+        "name": "sci-fi horror"
+      },
+      {
+        "id": 326348,
+        "name": "human vs machines"
+      },
+      {
+        "id": 334786,
+        "name": "cybernetics"
+      },
+      {
+        "id": 340171,
+        "name": "android horror"
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "tr",
+        "iso_3166_1": "TR",
+        "name": "Kusursuz Arkadaş | İlk Teaser",
+        "key": "ASshA7c0vYM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "published_at": "2024-10-02T16:00:09.000Z",
+        "id": "6712a05a16caa8b0f09c614b"
+      }
+    ]
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/hmZnqijPaaACjenDkrbWcCmcADI.jpg",
+        "id": 549509,
+        "title": "The Brutalist",
+        "original_title": "The Brutalist",
+        "overview": "The Brutalist filmi, İkinci Dünya Savaşı’ndan sonra \"Amerikan rüyasını\" yaşamak için ABD’ye göç eden Macaristan doğumlu, Bauhaus eğitimli Holokost kurtulanı mimar Laszlo’nun yolculuğunu ve hayat hikâyesini anlatıyor. Başlangıçta yoksulluk içinde çalışmaya zorlanan Laszlo, kısa süre sonra hayatının seyrini 30 yıl boyunca değiştirecek bir kontrata imza atar. Yenilikçi kamera oyunları, dramatik yapısı, alışılmadık açı ve kadrajları, kurgusu ve sıradışı ses tasarımı, parlak oyuncu kadrosuyla hem şaşırtıcı hem de unutulmaz.",
+        "poster_path": "/gl16UFazRs5Xv3VS8YKhRqQRY8T.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 340.92,
+        "release_date": "2024-12-20",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 732
+      },
+      {
+        "backdrop_path": "/nNF4ZB0UDL4qAUjQfbYZDq3Ck7J.jpg",
+        "id": 710295,
+        "title": "Kurt Adam",
+        "original_title": "Wolf Man",
+        "overview": "Evliliği yıpranmakta olan Blake, eşi Charlotte’u şehirden uzaklaşıp Oregon kırsalındaki çocukluk evine gitmeye ikna eder. Gece yarısı çiftlik evine vardıklarında, görünmeyen bir hayvanın saldırısına uğrarlar ve yaratık evin çevresinde dolaşırken kendilerini evin içine barikat kurarak korumaya çalışırlar. Ancak gece uzadıkça Blake tuhaf bir şekilde davranmaya başlar ve tanınmayacak bir şeye dönüşür.",
+        "poster_path": "/ujY9qtLzsEm5SipQTB3f5XXOGDX.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "popularity": 196.806,
+        "release_date": "2025-01-15",
+        "video": false,
+        "vote_average": 6.458,
+        "vote_count": 479
+      },
+      {
+        "backdrop_path": "/hD2SN5bbqxk0kcRmsATJkXObgnZ.jpg",
+        "id": 1405338,
+        "title": "İblis Şehri",
+        "original_title": "Demon City 鬼ゴロシ",
+        "overview": "Ailesini öldürmekle suçlanan ve ölüme terk edilen eski bir tetikçi, şehrini ele geçiren maskeli \"iblislerle\" hesaplaşmak için her şeyi göze alır.",
+        "poster_path": "/24TGgjq9UwTCptfEawUuQ3SJ8Ga.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          28,
+          80,
+          14,
+          53
+        ],
+        "popularity": 453.144,
+        "release_date": "2025-02-26",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 105
+      },
+      {
+        "backdrop_path": "/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
+        "id": 950396,
+        "title": "The Gorge",
+        "original_title": "The Gorge",
+        "overview": "Yüksek eğitimli iki ajan, gizemli bir vadinin iki tarafını korumak için gönderildikten sonra yakınlaşırlar. Vadideki kötülük ortaya çıktığında sağ kurtulmak için birlikte çalışmak zorundadırlar.",
+        "poster_path": "/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10749,
+          878,
+          53
+        ],
+        "popularity": 1623.512,
+        "release_date": "2025-02-13",
+        "video": false,
+        "vote_average": 7.768,
+        "vote_count": 1685
+      },
+      {
+        "backdrop_path": "/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg",
+        "id": 774370,
+        "title": "Köpek Adam",
+        "original_title": "Dog Man",
+        "overview": "Sadık bir polis köpeği ve onun polis memuru sahibi iş başında birlikte yaralandıklarında çılgınca ama hayat kurtaran bir ameliyatla ikisi birleştirilir ve Köpek Adam doğar. Köpek Adam korumaya, hizmet etmeye yemin etmiştir, tabii getirmeye, oturmaya ve yuvarlanmaya da. Köpek Adam, yeni kimliğini benimseyip şefini etkilemeye çalışırken sinsi kötü Kedi Petey'nin şeytani planlarını durdurmak zorundadır. Petey'nin son planı kendini klonlayarak yavru kedi Lil Petey'i yaratmak ve böylece suç işleme becerisini ikiye katlamaktır. Ancak Lil Petey, Köpek Adam ile beklenmedik bir bağ kurunca işler karışır. Küçük Petey ortak bir düşmanın pençesine düşünce Köpek Adam ve Petey, istemeyerek de olsa güçlerini birleştirip genç kediyi kurtarmak için zamana karşı aksiyon dolu bir yarışa girerler. Bu süreçte, ailenin en azılı düşmanlarını bile bir araya getirmenin gücünü keşfederler.",
+        "poster_path": "/89wNiexZdvLQ41OQWIsQy4O6jAQ.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          16,
+          35,
+          28
+        ],
+        "popularity": 396.014,
+        "release_date": "2025-01-24",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 143
+      },
+      {
+        "backdrop_path": "/kpWusrV8GePdx42GLJjZ7RJhkfz.jpg",
+        "id": 1140535,
+        "title": "Varlık",
+        "original_title": "Presence",
+        "overview": "Bir aile, banliyödeki yeni evlerine yerleştikten sonra burada yalnız olmadıklarını fark eder.",
+        "poster_path": "/izD4xrhkwz482CSiGT3kDTPBxQv.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          18
+        ],
+        "popularity": 374.296,
+        "release_date": "2025-01-16",
+        "video": false,
+        "vote_average": 6.03,
+        "vote_count": 164
+      },
+      {
+        "backdrop_path": "/r8YfVJu9OAzWbTAuuc86CIs1DYN.jpg",
+        "id": 661539,
+        "title": "Bob Dylan: Tam Bir Bilinmez",
+        "original_title": "A Complete Unknown",
+        "overview": "New York, 1960'ların Başları. Canlı müzik sahnesinin ve çalkantılı kültürel değişimin ortasında, Minnesota'dan 19 yaşındaki gizemli bir genç, gitarı ve devrimci yeteneğiyle West Village'a gelir. Amerikan müziğinin akışını sonsuza dek değiştirecektir.",
+        "poster_path": "/rAQQn7tu55cCAsfmVvWyRDyb5o1.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10402
+        ],
+        "popularity": 262.139,
+        "release_date": "2024-12-18",
+        "video": false,
+        "vote_average": 7.18,
+        "vote_count": 643
+      },
+      {
+        "backdrop_path": "/yUOJzi3qIeXCAK1nZ7el7DUBDNV.jpg",
+        "id": 1000837,
+        "title": "Hâlâ Buradayım",
+        "original_title": "Ainda Estou Aqui",
+        "overview": "BREZİLYA, 1971 - Brezilya, askeri diktatörlüğün artan baskısı altında. Beş çocuk annesi Eunice Paiva, ailesinin hükümetin acımasız ve rastgele eylemine maruz kalmasının ardından yeni bir başlangıç yapmak zorunda kalır.",
+        "poster_path": "/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "pt",
+        "genre_ids": [
+          18,
+          36
+        ],
+        "popularity": 143.571,
+        "release_date": "2024-09-19",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 416
+      },
+      {
+        "backdrop_path": "/zwSDvbnN51JqU1ULzPnEc22DkqV.jpg",
+        "id": 1272149,
+        "title": "Bridget Jones: Onun İçin Çıldırıyor",
+        "original_title": "Bridget Jones: Mad About the Boy",
+        "overview": "Bridget, ilk eşi Mark Darcy, Sudan’da  öldürüldüğünde dul kalmıştır. Artık 9 yaşındaki Billy ve 4 yaşındaki Mabel’ın bekâr annesidir ve çocuklarını sadık arkadaşlarının ve hatta eski sevgilisi Daniel Cleaver’ın yardımıyla yetiştirerek duygusal bir belirsizlik içinde sıkışıp kalmıştır. Jones, Urban ailesinden hayata ve aşka doğru yeni bir yol çizmesi için baskı görmeye başlar.",
+        "poster_path": "/hNsNO1BGm2JjHn1Ryz0OZ1pOhQe.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10749,
+          35,
+          18
+        ],
+        "popularity": 123.163,
+        "release_date": "2025-02-12",
+        "video": false,
+        "vote_average": 6.744,
+        "vote_count": 203
+      },
+      {
+        "backdrop_path": "/sGFR4zSOsogo77Wi5XI0P5il0ek.jpg",
+        "id": 1126166,
+        "title": "Ölümcül Uçuş",
+        "original_title": "Flight Risk",
+        "overview": "Bir hava mareşali eşliğinde bir firariyi mahkemeye götüren bir pilotun hikâyesi anlatılıyor. Alaska'nın vahşi doğasını geçerken gerilimler artar ve güven sarsılır çünkü uçaktaki hiç kimse göründüğü gibi değildir.",
+        "poster_path": "/9xejLLz5QCPto0eR7od8FZn2DLt.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          53,
+          80
+        ],
+        "popularity": 1543.187,
+        "release_date": "2025-01-22",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 386
+      },
+      {
+        "backdrop_path": "/5d5SOM7AuXm9XstOOK12B677VDD.jpg",
+        "id": 1212142,
+        "title": "Az Çok Hamileyim",
+        "original_title": "Kinda Pregnant",
+        "overview": "Evlenip aile kurma planı bozulan Lainy; hamile taklidi yapar, bir yalan söyler ve hayallerindeki adama tesadüfen âşık olur.",
+        "poster_path": "/qhOftV7RvdOthMkQijbhP9tGdj3.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10749
+        ],
+        "popularity": 79.658,
+        "release_date": "2025-02-04",
+        "video": false,
+        "vote_average": 5.537,
+        "vote_count": 188
+      },
+      {
+        "backdrop_path": "/nGC3ZkXEcjGbqAAonS1xn6gaNpb.jpg",
+        "id": 1013850,
+        "title": "Gerçek Acı",
+        "original_title": "A Real Pain",
+        "overview": "Birbirine tamamen zıt karakterdeki iki kuzen; David ve Benji… İkili, büyükannelerini anmak için Polonya’ya uzanan bir seyahate çıkacaklardır. Ancak bu macera, eski tatsızlıkların, aile geçmişinin gölgesinde yeniden gün yüzüne çıkmasıyla beklenmedik bir hal alacaktır.",
+        "poster_path": "/vrT0OqO4Un4b91BxvOmHQMlBlMv.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 112.485,
+        "release_date": "2024-11-01",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 651
+      },
+      {
+        "backdrop_path": "/qfAfE5auxsuxhxPpnETRAyTP5ff.jpg",
+        "id": 822119,
+        "title": "Kaptan Amerika: Cesur Yeni Dünya",
+        "original_title": "Captain America: Brave New World",
+        "overview": "Kaptan Amerika: Cesur Yeni Dünya, Kaptan Amerika'nın maceralarını konu ediyor. Amerika Birleşik Devletleri'nin yeni Başkanı Thaddeus Ross ile tanıştıktan kısa bir süre sonra Kaptan Amerika olarak da bilinen Sam Wilson, kendisini devasa bir uluslararası olayın tam ortasında bulur. Operasyonun gerçek dehası tüm dünyayı ateşe vermeden önce Sam Wilson zamana karşı amansız bir savaşa girişir.",
+        "poster_path": "/vobieeFFffYbXjv0rQnQ7uyPQBQ.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          53,
+          878
+        ],
+        "popularity": 858.521,
+        "release_date": "2025-02-12",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 886
+      },
+      {
+        "backdrop_path": "/7cNE2qydew1c8fqnlhWjkE3DHc2.jpg",
+        "id": 927342,
+        "title": "Amaran",
+        "original_title": "அமரன்",
+        "overview": "A heroic true story of Major Mukund Varadarajan, an Indian Army officer who displayed extraordinary bravery during a counterterrorism mission in Kashmir’s Shopian district. The film captures his courage in protecting his nation and the devotion of his wife Indhu Rebecaa Varghese.",
+        "poster_path": "/nv5DrlFpIYIPYhwvP2wg8VjdPwl.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "ta",
+        "genre_ids": [
+          28,
+          18,
+          12,
+          10752
+        ],
+        "popularity": 757.91,
+        "release_date": "2024-10-31",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 179
+      },
+      {
+        "backdrop_path": "/gdtcqHZph2QZMIVYxjNGF43kPum.jpg",
+        "id": 1058696,
+        "title": "Rotting in the Sun",
+        "original_title": "Rotting in the Sun",
+        "overview": "A filmmaker facing an existential crisis goes on a vacation to a Mexican gay nudist beach, where he meets a social media celebrity who convinces him to collaborate with him on his new TV show. But one disappears and another embarks on a wild journey through Mexico City to find him.",
+        "poster_path": "/95qc6Mf9PgtExq0E97Y2aLsaYho.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          9648,
+          35,
+          53
+        ],
+        "popularity": 7.787,
+        "release_date": "2023-09-08",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 81
+      },
+      {
+        "backdrop_path": "/qJUi08RHf2TVKNvvkhc07MJJiJt.jpg",
+        "id": 1397347,
+        "title": "Saturday Night's Main Event XXXVII",
+        "original_title": "Saturday Night's Main Event XXXVII",
+        "overview": "Undisputed WWE Champion Cody Rhodes will go head-to-head with Kevin Owens as Saturday Night's Main Event returns to NBC. Plus World Tag Team Champion Finn Bálor will face \"The Ring General\" Gunther for the World Heavyweight Title. The Women's World Championship will be on the line when Liv Morgan defends her title against IYO SKY.",
+        "poster_path": "/4wVEOOX8VEGWwEuuIWuN3XT1Avq.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28
+        ],
+        "popularity": 63.261,
+        "release_date": "2024-12-14",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 41
+      },
+      {
+        "backdrop_path": "/n9xkjl1feNcfdtANFFVvaJ5yDqO.jpg",
+        "id": 1195310,
+        "title": "Orkestradaki Tek Kız",
+        "original_title": "The Only Girl in the Orchestra",
+        "overview": "Bu kısa belgesel, New York Filarmoni orkestrasının tam zamanlı ilk kadın üyesi olan öncü kontrbas sanatçısı Orin O'Brien'ı konu alıyor.",
+        "poster_path": "/zpsTStOYGfkF590K3kCEjWXCleN.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "popularity": 8.652,
+        "release_date": "2023-11-09",
+        "video": false,
+        "vote_average": 6.691,
+        "vote_count": 34
+      },
+      {
+        "backdrop_path": "/bA4Io3xv46oEyP4O51uU0EKbluF.jpg",
+        "id": 995926,
+        "title": "I, the Executioner",
+        "original_title": "베테랑 2",
+        "overview": "The veteran detective Seo Do-cheol and his team at Major Crimes, relentless in their pursuit of criminals, join forces with rookie cop Park Sun-woo to track down a serial killer who has plunged the nation into turmoil.",
+        "poster_path": "/gAtP0usArK5gVOBObnsENKLwML8.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          28,
+          80
+        ],
+        "popularity": 175.435,
+        "release_date": "2024-09-13",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 35
+      },
+      {
+        "backdrop_path": "/sfhhJmKJBidavKSnCd8ZIMFOOup.jpg",
+        "id": 1235499,
+        "title": "The Last Showgirl",
+        "original_title": "The Last Showgirl",
+        "overview": "When the glittering Las Vegas revue she has headlined for decades announces it will soon close, a glamorous showgirl must reconcile with the decisions she’s made and the community she has built as she plans her next act.",
+        "poster_path": "/o70dV2jjGd6TmYTMOY9b34OLzDK.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 31.378,
+        "release_date": "2024-12-13",
+        "video": false,
+        "vote_average": 6.25,
+        "vote_count": 56
+      },
+      {
+        "backdrop_path": "/jWYF8DKJTQgGulFa0wcHtaGuytl.jpg",
+        "id": 1056746,
+        "title": "The Trouble with Jessica",
+        "original_title": "The Trouble with Jessica",
+        "overview": "Sarah and Tom are in terrible financial trouble. On the brink of losing everything, they’ve managed to find a buyer for their stylish London home. When their best friends Richard and Beth come round for a final dinner, an uninvited old friend, Jessica, tags along.  After a seemingly trivial argument, Jessica hangs herself in the garden. Tom goes to call the police when Sarah realizes if the buyer finds out, the sale will collapse, meaning definite financial ruin. The only solution - to convince Richard and Beth to take Jessica’s body to her flat and make it look like she killed herself there. If they’re clever enough about it, what could possibly go wrong?",
+        "poster_path": "/9wCT73zvdbX8gkvocS5nU68T1IG.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 6.257,
+        "release_date": "2024-04-05",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 45
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

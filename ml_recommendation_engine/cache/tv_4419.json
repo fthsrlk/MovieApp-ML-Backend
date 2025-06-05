@@ -1,0 +1,876 @@
+{
+  "adult": false,
+  "backdrop_path": "/3u5b6Zy3EKQX0ALvg1uBC7wd1Jw.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2003-02-21",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Komedi"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://www.hbo.com/real-time-with-bill-maher",
+  "id": 4419,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-02-28",
+  "last_episode_to_air": {
+    "id": 5917645,
+    "name": "6. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-02-28",
+    "episode_number": 6,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 59,
+    "season_number": 23,
+    "show_id": 4419,
+    "still_path": "/gS0h6h36A8rcsPdHCvbFCuoMtFZ.jpg"
+  },
+  "name": "Real Time with Bill Maher",
+  "next_episode_to_air": {
+    "id": 5917654,
+    "name": "7. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-07",
+    "episode_number": 7,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 23,
+    "show_id": 4419,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 49,
+      "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+      "name": "HBO",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 690,
+  "number_of_seasons": 23,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Real Time with Bill Maher",
+  "overview": "",
+  "popularity": 1377.986,
+  "poster_path": "/pbpoLLp4kvnYVfnEGiEhagpJuVZ.jpg",
+  "production_companies": [
+    {
+      "id": 21203,
+      "logo_path": null,
+      "name": "Bill Maher Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 21199,
+      "logo_path": "/freGVtYt766cJ6HollWKl8RO64a.png",
+      "name": "Brillstein Entertainment Partners",
+      "origin_country": "US"
+    },
+    {
+      "id": 56394,
+      "logo_path": null,
+      "name": "Brad Grey Television",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-01-17",
+      "episode_count": 184,
+      "id": 13195,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/b9pp8Po1aMpQDRpDhpfvh2hQq1R.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2003-02-21",
+      "episode_count": 20,
+      "id": 13187,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/6lt2qjIrxpF2lizb6D9ix3MRKid.jpg",
+      "season_number": 1,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2004-01-16",
+      "episode_count": 23,
+      "id": 13188,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/k79yJEFOZob2OzDi7mo9B7VAbus.jpg",
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2005-02-18",
+      "episode_count": 23,
+      "id": 13189,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/4DpiKt57NniKkRQexCixGohe5nq.jpg",
+      "season_number": 3,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2006-02-17",
+      "episode_count": 24,
+      "id": 13190,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/lKISsekmDGkk9j9Lz8Q21NMxxLy.jpg",
+      "season_number": 4,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "2007-02-16",
+      "episode_count": 24,
+      "id": 13191,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/iwav3GC7ONiLhYoqixPIP2AZNeD.jpg",
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2008-01-11",
+      "episode_count": 27,
+      "id": 13192,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/8kyJAKeTugSqXdPpS3SJcjVtbYb.jpg",
+      "season_number": 6,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "2009-02-20",
+      "episode_count": 31,
+      "id": 13186,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/A72kdDr1dcvOOPyuDKMD5ZwUQ21.jpg",
+      "season_number": 7,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2010-02-19",
+      "episode_count": 25,
+      "id": 13193,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/zXAEOWA4WGzGywAShMnRQlhxuqe.jpg",
+      "season_number": 8,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2011-01-14",
+      "episode_count": 35,
+      "id": 13194,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/6bl477zuP1hmryX2iRpblkaat9c.jpg",
+      "season_number": 9,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2012-01-13",
+      "episode_count": 35,
+      "id": 13196,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/dLV4vctPKPlBAsEFSw4hQ0AL2kX.jpg",
+      "season_number": 10,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2013-01-18",
+      "episode_count": 35,
+      "id": 13197,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/ttjoVdAR4iUmAu3eaD8iNzo0bHY.jpg",
+      "season_number": 11,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2014-01-17",
+      "episode_count": 35,
+      "id": 61220,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/jOmiIJz3RoS37eZWnkPnlC4D5Fr.jpg",
+      "season_number": 12,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2015-01-09",
+      "episode_count": 35,
+      "id": 64411,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": "/jFDPDgbnZel2rM1wSjVQRK9SeRk.jpg",
+      "season_number": 13,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2016-01-15",
+      "episode_count": 38,
+      "id": 75280,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": "/nqMqCoqXwzfGf5XlnlvQVJwtngX.jpg",
+      "season_number": 14,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2017-01-20",
+      "episode_count": 35,
+      "id": 84398,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": "/3NxmNPrGtYeuSBVIhoDEpXYDbF.jpg",
+      "season_number": 15,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "2018-01-19",
+      "episode_count": 35,
+      "id": 98132,
+      "name": "Sezon 16",
+      "overview": "",
+      "poster_path": "/1wjXY8wMv72iGfF4ZIT9OQenrPL.jpg",
+      "season_number": 16,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2019-01-18",
+      "episode_count": 35,
+      "id": 117056,
+      "name": "Sezon 17",
+      "overview": "",
+      "poster_path": "/oKVTarBspa39QW3uqPgxQ7y9Lij.jpg",
+      "season_number": 17,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2020-01-17",
+      "episode_count": 35,
+      "id": 135885,
+      "name": "Sezon 18",
+      "overview": "",
+      "poster_path": "/c3EurMWJu1hXKUeJVvLIoJaN26j.jpg",
+      "season_number": 18,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2021-01-15",
+      "episode_count": 35,
+      "id": 169603,
+      "name": "Sezon 19",
+      "overview": "",
+      "poster_path": "/99U62ZZrwBDM89iZcccKKlscGUJ.jpg",
+      "season_number": 19,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2022-01-21",
+      "episode_count": 35,
+      "id": 220300,
+      "name": "Sezon 20",
+      "overview": "",
+      "poster_path": "/aoldiJCNFKcmsAu6yTmPyUZBq5V.jpg",
+      "season_number": 20,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2023-01-20",
+      "episode_count": 24,
+      "id": 306087,
+      "name": "Sezon 21",
+      "overview": "",
+      "poster_path": "/oHXf8jUrIj38AUHKUhaEmhIABTu.jpg",
+      "season_number": 21,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2024-01-19",
+      "episode_count": 36,
+      "id": 370048,
+      "name": "Sezon 22",
+      "overview": "",
+      "poster_path": "/4FfulRkO1DHXshzBzCf9VACwbcx.jpg",
+      "season_number": 22,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2025-01-17",
+      "episode_count": 12,
+      "id": 429968,
+      "name": "Sezon 23",
+      "overview": "",
+      "poster_path": "/e6faKT5zw2fJpdhGIbHGpoHj4iJ.jpg",
+      "season_number": 23,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 6.0,
+  "vote_count": 209,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74086,
+        "known_for_department": "Acting",
+        "name": "Bill Maher",
+        "original_name": "Bill Maher",
+        "popularity": 11.987,
+        "profile_path": "/sVTF90nhXB3jIw05eJFklbGpnlC.jpg",
+        "character": "Self - Host",
+        "credit_id": "544a375f0e0a26747c003b14",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3036918,
+        "known_for_department": "Directing",
+        "name": "Alessio Pollacci",
+        "original_name": "Alessio Pollacci",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "65a6b42c51a64e0125547132",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4484448,
+        "known_for_department": "Directing",
+        "name": "Kelly D. Hommon",
+        "original_name": "Kelly D. Hommon",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "65a6b48a51a64e012e547068",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87670,
+        "known_for_department": "Directing",
+        "name": "Keith Truesdell",
+        "original_name": "Keith Truesdell",
+        "popularity": 1.275,
+        "profile_path": "/ljzHVldA55fa94hT7NgcBcnS20t.jpg",
+        "credit_id": "65a6b4a185702e00bec3a8a5",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "politics",
+        "id": 6078
+      },
+      {
+        "name": "usa politics",
+        "id": 206515
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/g5IpxvKtRT9LrskmBRpBAhL4fOL.jpg",
+        "id": 43961,
+        "name": "The Sarah Millican Television Programme",
+        "original_name": "The Sarah Millican Television Programme",
+        "overview": "The Sarah Millican Television Programme is a British comedic television show about television. It is shown on BBC Two and is hosted by comedian Sarah Millican. It began on 8 March 2012 and is scheduled to run for six episodes. A second series was broadcast from Christmas Day 2012 and throughout January, and a third series has been commissioned.\n\nAn unbroadcast pilot episode was filmed on 25 May 2011. A series was then commissioned and filmed at the MediaCityUK complex in Salford in late-2011.\n\nThe series is a co-production by So Television and Millican's own company, Chopsy Productions.",
+        "poster_path": "/7wP4twhiqpKZFmxdxEtUrP60ziW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 27.26,
+        "first_air_date": "2012-03-08",
+        "vote_average": 7.0,
+        "vote_count": 7,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/bTLFLbcm1jNuu3MlHcBATllKoN5.jpg",
+        "id": 100662,
+        "name": "VICE",
+        "original_name": "VICE",
+        "overview": "The Emmy®-winning documentary series is now on SHOWTIME, delivering immersive reporting from the frontlines of global conflicts, civil uprisings and beyond, and tackling untold and complex geopolitical stories from all corners of the globe.",
+        "poster_path": "/oZaVtjyEGePaI7mCDq67jXcrTHo.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          10763
+        ],
+        "popularity": 10.02,
+        "first_air_date": "2020-03-29",
+        "vote_average": 8.3,
+        "vote_count": 3,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lTFhMLlebNwtYQ8eJUY94pNzRkf.jpg",
+        "id": 90524,
+        "name": "Holey Moley",
+        "original_name": "Holey Moley",
+        "overview": "It's mini-golf like you've never seen it before. Every week, the first-of-its-kind mini-golf competition series features 12 mini-golfers facing off in a series of head-to-head, sudden-death matchups.",
+        "poster_path": "/hENnYXmi7q8fzcffUbzxfdzvZtO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 33.839,
+        "first_air_date": "2019-06-20",
+        "vote_average": 8.2,
+        "vote_count": 23,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/q0zY5AbqOhCghYWWwzpfT7dhcfb.jpg",
+        "id": 29173,
+        "name": "House Hunters International",
+        "original_name": "House Hunters International",
+        "overview": "This spin-off of the wildly popular House Hunters goes around the globe. Home hunters and their realtors check out all sorts of architectural styles and work through the quirks of buying real estate in other countries.",
+        "poster_path": "/uzPQ3FvOtmMrvGsNnKPoIJuMJON.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 218.969,
+        "first_air_date": "2006-03-06",
+        "vote_average": 6.4,
+        "vote_count": 25,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/Ajku4m7jbMpCTEPr794Imv19mCA.jpg",
+        "id": 4385,
+        "name": "The Colbert Report",
+        "original_name": "The Colbert Report",
+        "overview": "Colbert Raporu, Pazartesi ile Perşembe günleri Komedi Merkezi'nde yayınlanan Amerikan hicivli bir gece televizyon programı. Jon Stewart ile The Daily Show'un eski muhabiri olan politik mizahcı Stephen Colbert'i canlandırıyor. Colbert Raporu, politikaya ve medyaya benzer şekilde yorum yapan The Daily Show'dan bir ve ikiye bölündü. Özellikle Fox News'in The O'Reilly Factor adlı muhafazakar kişiliğe dayalı politik pundit programlarını hicvediyor. Gösteri, gerçek hayat isimleriyle oynanan Stephen Colbert adlı kurgusal bir çapa karakterine odaklanıyor. Colbert tarafından “iyi niyetli, iyi bilgilendirilmiş, yüksek mevkili bir aptal” olarak tanımlanan karakter, televizyonda siyaset uzmanlarının karikatürüdür.\n\nColbert Raporu her biri 2006, 2007, 2008, 2009, 2010, 2011 ve 2012'de yedi Primetime Emmy Ödülü, iki Televizyon Eleştirmenleri Derneği Ödülü ve iki Uydu Ödülüne aday gösterildi. 2013 yılında iki Emmys kazandı. Tom DeLay Legal Defence Trust ve Robert Wexler'ın programa verdiği röportajı takiben birçok örnekte hicivsiz bir gazetecilik olarak sunuldu. Söz konusu rapor, 17 Ekim 2005'te Colbert'in “hakikat” terimini, söz konusu yayınevini Merriam-Webster'ın 2006 Yılı Kelimesi olarak adlandırdığı ilk filmi izleyerek, medyada önemli ölçüde yer aldı.",
+        "poster_path": "/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10763,
+          35
+        ],
+        "popularity": 2794.133,
+        "first_air_date": "2005-10-17",
+        "vote_average": 6.801,
+        "vote_count": 266,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/utFM4lkrQ5lX2KNDjwMYLzFBrX3.jpg",
+        "id": 61789,
+        "name": "Alaskan Bush People",
+        "original_name": "Alaskan Bush People",
+        "overview": "Deep in the Alaskan wilderness lives a newly discovered family who was born and raised wild. Billy Brown, his wife Ami and their seven grown children – 5 boys and 2 girls – are so far removed from civilization that they often go six to nine months of the year without seeing an outsider. They’ve developed their own accent and dialect, refer to themselves as a \"wolf pack,\" and at night, all nine sleep together in a one-room cabin. Simply put, they are unlike any other family in America. Recently, according to the Browns, the cabin where they lived for years was seized and burned to the ground for being in the wrong location on public land.",
+        "poster_path": "/8sVgDiamkriNzQ95NnLGSBA7t2M.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764,
+          10751
+        ],
+        "popularity": 54.614,
+        "first_air_date": "2014-05-06",
+        "vote_average": 6.3,
+        "vote_count": 57,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/duCmqP1qub3aU5SpLwJlmOMCJ05.jpg",
+        "id": 4540,
+        "name": "Lucky Louie",
+        "original_name": "Lucky Louie",
+        "overview": "A blue-collar family man grapples with life's challenges while trying to maintain his marriage, raise his young daughter, and deal with the eccentricities of his friends and neighbors.",
+        "poster_path": "/f9YSKUw3rlw2AU4N3FCzrJR4bCM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 15.999,
+        "first_air_date": "2006-06-11",
+        "vote_average": 7.483,
+        "vote_count": 116,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wcMALEZVoKmwkNJUIdqi1mCan1.jpg",
+        "id": 72581,
+        "name": "Room 104",
+        "original_name": "Room 104",
+        "overview": "Mark ve Jay Duplass’ın bir kez daha HBO için çektikleri yeni antoloji serisi Room 104 dizisinde ortalama bir Amerikan otelinin bir odasından geçip giden farklı insanların hikayeleri anlatılacak, her bölümde farklı olay ve konulara odaklanacak.",
+        "poster_path": "/wOyn9r9VC2pJhXasUKxlpEmCAGV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          18,
+          35
+        ],
+        "popularity": 89.839,
+        "first_air_date": "2017-07-28",
+        "vote_average": 5.8,
+        "vote_count": 132,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/fAsjhpFEx0We8vrOnbgJI5bKuLU.jpg",
+        "id": 115915,
+        "name": "The Baby",
+        "original_name": "The Baby",
+        "overview": "38 yaşındaki Natasha, en yakın arkadaşlarının bebek sahibi olması fikrine bile sıcak bakmaz. Tam da bu sırada genç kadın hayatının şokunu yaşar. Beklenmedik bir şekilde kendisi bebek sahibi olan Natasha'nın hayatı dramatik bir şekilde alt üst olur. Kontrolcü, manipülatif ama inanılmaz derecede sevimli olan bebek çok geçmeden Natasha'nın hayatını gerçeküstü bir korku şovuna çevirir.",
+        "poster_path": "/pFpZNexdMLM1nLALKHVDhPbuMtM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          9648
+        ],
+        "popularity": 14.507,
+        "first_air_date": "2022-04-24",
+        "vote_average": 6.0,
+        "vote_count": 80,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/w0GA9tmKfRgxXj2zPUp0qzDuYjC.jpg",
+        "id": 60694,
+        "name": "Last Week Tonight with John Oliver",
+        "original_name": "Last Week Tonight with John Oliver",
+        "overview": "A half-hour satirical look at the week in news, politics and current events.",
+        "poster_path": "/b12eM3FXNjN7yM7XYTIdmeQRud9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767,
+          35,
+          10763
+        ],
+        "popularity": 692.022,
+        "first_air_date": "2014-04-27",
+        "vote_average": 7.888,
+        "vote_count": 688,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lUrtMjiunomHPDC2sQNIxswbmdU.jpg",
+        "id": 3034,
+        "name": "Scene of the Crime",
+        "original_name": "Tatort",
+        "overview": "Diziye konu olan olaylarda hep tanıdık temalar hakim. Almanya’da gündelik yaşamı etkileyen ya da geçmişte etkilemiş olan her konu, dizide ele alınıyor ya da alındı: Almanya’nın birleşmesi, terör, organ ticareti, küreselleşme, ırkçılık, uyuşturucu kullanımı, çevre skandalları, çocuk istismarı, işsizlik, sanayi suçları, yaşlı bakımıyla ilgili sorunlar, ya da eş bulma hizmetleri. Gerçek yaşamdakinden farklı olarak, toplumsal ayrılıklar “Tatort”ta her zaman çözülmese de, cinayetin faili her zaman bulunuyor ve pazar akşamı herkes yatağına huzur içinde gidiyor. Edebiyatbilimci Jochen Vogel’in sözleriyle “Tatort, Alman toplumunu anlatan bir roman.”",
+        "poster_path": "/b6kIWHHifuc8qH0IpzVzUeXBnvq.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 450.37,
+        "first_air_date": "1970-11-29",
+        "vote_average": 6.2,
+        "vote_count": 110,
+        "origin_country": [
+          "AT",
+          "DE",
+          "CH"
+        ]
+      },
+      {
+        "backdrop_path": "/m6APcUIeNdFormiiKsGaG8Hdu49.jpg",
+        "id": 39297,
+        "name": "Last Man Standing",
+        "original_name": "Last Man Standing",
+        "overview": "Mike Baxter bir açık hava spor malzemeleri mağazasının pazarlama direktörüdür. İş seyahatlerinde kullandığı kamyonetle macera yaşamayı çok seven Mike, kendi sektöründe işin kralı olsada eşi Vanessa ve üç kızı; 22 yaşındaki Kristin, 17 yaşındaki Mandy ve 14 yaşındaki Eve ile beraber yaşadığı kadınların hakim olduğu evin tuhaf adamıdır. Yıllardır ev kadınlığı yapan Vanessa’nın aniden iş hayatına geri dönmesi ve hızlı bir şekilde terfi almasıyla işler biraz değişir. Vanessa'nın artan iş yükü sonucunda, Mike daha önce yapmadığı kadar ebeveynlik yapmak zorunda kalır. Ancak bu hiç de göründüğü kadar kolay olmayacaktır.",
+        "poster_path": "/ofUvbcwxcA0E7qYUlhBx4gZmAzX.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 191.324,
+        "first_air_date": "2011-10-11",
+        "vote_average": 7.3,
+        "vote_count": 322,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/6wX6105dCfRqTrwvoQgA8bGxUCo.jpg",
+        "id": 1220,
+        "name": "The Graham Norton Show",
+        "original_name": "The Graham Norton Show",
+        "overview": "Each week celebrity guests join Irish comedian Graham Norton to discuss what's being going on around the world that week. The guests poke fun and share their opinions on the main news stories. Graham is often joined by a band or artist to play the show out.",
+        "poster_path": "/vrbqaBXB8AALynQzpWz6JdCPEJS.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 338.307,
+        "first_air_date": "2007-02-22",
+        "vote_average": 7.2,
+        "vote_count": 260,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/qmRUwosX4BsCj6QanpBYScLl3Sp.jpg",
+        "id": 1044,
+        "name": "Yeryüzü",
+        "original_name": "Planet Earth",
+        "overview": "Panet Earth, BBC tarafından üretilmiş Emmy ödüllü ve yüksek çözünürlükte çekilen ilk doğa belgeseli dizisidir. İlk kez 2006 yılında BBC'de yayınlanan ve 11 bölümden oluşan diziyi David Attenborough seslendirmiştir. 200 ayrı bölgede 40 kameraman ile 2000 gün çekim yapılarak 5 yılda tamamlanan bu belgesel, dünyanın en pahalı doğa belgeseli olarak kabul edilmiştir. Gezegenimizi daha önce benzeri görülmemiş bir şekilde izleyiciye sunuyor. Eşine az rastlanan ve aklın alamayacağı boyuttaki çekimlerle gezegenin en sevilen, en vahşi ve en zor görüntülenen hayvanlarıyla yaşanan özel anlar izleyiciler için baştan çıkarıcı bir televizyon deneyimi sunuyor.",
+        "poster_path": "/mfXulHiALTloIqivuC4Q3lI3RGw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 64.569,
+        "first_air_date": "2006-03-05",
+        "vote_average": 8.585,
+        "vote_count": 1105,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/kC3jZ6RKnA7VUYQBnVFB5EbZtvu.jpg",
+        "id": 62822,
+        "name": "Humans",
+        "original_name": "Humans",
+        "overview": "Dizi, insanların yaşamını kolaylaştıracak ve onlar çalışırken ev işlerini yapabilecek, gündelik hayatlarına yardımcı olacak sentetiklerin (android, yani insan görünümlü robotların) üretildiği, var olduğu bir gelecekte geçiyor. Sentetiklerin normalde duyguları, düşünceleri, özgür iradeleri yoktur. Ancak ‘bazı özel’ sentetikler hariç… Dizi de esasında bu iradeli olan bir grup sentetiğin ve onların çevresindeki insanların hikayesi üzerine kurulu.\n\nDiziyi Anita isminde sentetiğin Hawkins Ailesi tarafından satın alınmasıyla açıyoruz.",
+        "poster_path": "/iBjjSGgnjAQBSQGO9pYIh7Gp2PO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          9648
+        ],
+        "popularity": 64.538,
+        "first_air_date": "2015-06-14",
+        "vote_average": 7.463,
+        "vote_count": 613,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/evJaCkNlgUt55dcOaAJqxD90FWs.jpg",
+        "id": 49011,
+        "name": "Mom",
+        "original_name": "Mom",
+        "overview": "Gerçek aile sevgisini ve işlevsizliği saygısız ve çirkin bir şekilde ele alan dizide; alkolü bırakmaya çalışan bekar bir anne olan Christy, tuzaklarla dolu bir dünyada iki çocuğunu yetiştirmeye çalışmaktadır. Christy'nin hayatına geri dönen ve onun birçok hatasına dair pasif-agresif görüşlerini paylaşmaya hevesli olan annesiyle de mücadele etmesi gerekir.",
+        "poster_path": "/kIi3T7X0kmiV9vGDme146P2d979.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 182.332,
+        "first_air_date": "2013-09-23",
+        "vote_average": 7.3,
+        "vote_count": 582,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/yoxs931FblO1YVDpVdVm1fT4kg9.jpg",
+        "id": 64710,
+        "name": "Noragami",
+        "original_name": "ノラガミ",
+        "overview": "Bu diyar ve diğer diyar arasındaki sınırda 8 milyon tanrı, tanrılara hizmet eden ölü ruh ve yardımcı diğer ruhlar insanların işlerine karışmaktadır. Tatlı bir orta okul öğrencisi olan \"Hiyori Iki\" sınıf arkadaşlarının zorbalıklarına katlanmaktadır ve dinlenme odasına gidip tek başına ağlamaktadır.Tuvaletin duvarına karalanmış olan bir telefon numarası ve \" senin sorunlarını çözeceğim\" şeklinde mesaj görür. Numarayı aradıktan, Karşısına mayo giymiş evsiz kendine tanrı diyen bir çocuk çıkar. Yato isimli bu çocuk, kaba, huysuz, tembel, ve kimsenin isteklerini asla dinlememektedir. Fakat elinde tanrı olabilecek güç vardır ve kimse bunu bilmemektedir..",
+        "poster_path": "/5hb8qfoPKQMlLfuhZcbcXwCRVEd.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10765,
+          10759,
+          35
+        ],
+        "popularity": 42.136,
+        "first_air_date": "2014-01-05",
+        "vote_average": 8.3,
+        "vote_count": 614,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
+        "id": 1400,
+        "name": "Seinfeld",
+        "original_name": "Seinfeld",
+        "overview": "Seinfeld, dokuz sezon boyunca yayınlanan toplam 169 bölümle televizyon tarihinin en çarpıcı devrimlerinden birini gerçekleştirdi. Yayınlandığı ülkelerde televizyonların en sevilen komedisi olmayı başaran Seinfeld, aynı kentte yaşayan dört arkadaşın gündelik hayatından kesitler sunuyor ve son derece basit fikirlerden ilginç açılımlara uzanıyor.\n\nAna karakter Jerry Seinfeld kadar yan karakterler de dikkat çekici. Hemen her konuda kararsız biri olan Elaine, bitmeyen kompleksleriyle herkesi bıktıran George Costanza ve tuhaf karizması, parlak fikirleriyle Cosmo Kramer. Kumsalda uyuyor gibi hissedebilmek için kumla doldurulmuş yatakta uyumak fikri Cosmo Kramer’in dehasına sadece küçük bir örnek.",
+        "poster_path": "/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 360.9,
+        "first_air_date": "1989-07-05",
+        "vote_average": 8.3,
+        "vote_count": 2060,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/Ah7762FWHdQYHUnbCwAzPFHsgOs.jpg",
+        "id": 88640,
+        "name": "Looking for Alaska",
+        "original_name": "Looking for Alaska",
+        "overview": "Yatılı bir okula yeni varış, kibar bir kız öğrenciye aşık olur.",
+        "poster_path": "/9Sf2xUDLU0gyJfwDvmXhIqIzgrj.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 32.642,
+        "first_air_date": "2019-10-19",
+        "vote_average": 7.922,
+        "vote_count": 580,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sh7GRlX4d7j3XSTeyGZnlKqkHGk.jpg",
+        "id": 1447,
+        "name": "Psych",
+        "original_name": "Psych",
+        "overview": "Psych dizisi tam anlamıyla CSI serileriyle ve Medium dizisiyle komedinin harmanlanması diyebiliriz. Biraz daha ayrıntıya girelim o zaman...\n\nDizinin kısaca konusuna değinmek gerekirse, polis bir babanın oğlu olan Shaw'ın süper bir hafızası ve çok kuvvetli bir analiz yapma yeteneği vardır. Shawn bu yeteneklerini, çözülmesi zor olan suçların aydınlatılmasında kullanmaktadır. İzlediği suç ağırlıklı haberlerden, suçu kimin nasıl işlediğini var olan deliller doğrultusunda hafızasında birleştirerek suçluların yakalanmasını kolaylaştırmaktadır. Dizinin pilot bölümü bu tarzda gelişen olaylardan oluşmaktadır.",
+        "poster_path": "/fDI15gTVbtW5Sbv5QenqecRxWKJ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18,
+          9648,
+          80
+        ],
+        "popularity": 273.783,
+        "first_air_date": "2006-07-07",
+        "vote_average": 7.9,
+        "vote_count": 829,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

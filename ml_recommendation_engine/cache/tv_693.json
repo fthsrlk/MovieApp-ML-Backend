@@ -1,0 +1,1012 @@
+{
+  "adult": false,
+  "backdrop_path": "/pNBwM382FcKsu1EVyDbg6PhYF06.jpg",
+  "created_by": [
+    {
+      "id": 1218666,
+      "credit_id": "52538f8a19c295794027fb2e",
+      "name": "Marc Cherry",
+      "original_name": "Marc Cherry",
+      "gender": 2,
+      "profile_path": "/vTvKS3XDOVxomC5I6njoMcqdAyj.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2004-10-03",
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Gizem"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 35,
+      "name": "Komedi"
+    }
+  ],
+  "homepage": "",
+  "id": 693,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2012-05-13",
+  "last_episode_to_air": {
+    "id": 163989,
+    "name": "23. Bölüm",
+    "overview": "",
+    "vote_average": 9.0,
+    "vote_count": 4,
+    "air_date": "2012-05-13",
+    "episode_number": 23,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 8,
+    "show_id": 693,
+    "still_path": "/cWHF1o60h6clrVkzc60e5USUzyI.jpg"
+  },
+  "name": "Desperate Housewives",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 179,
+  "number_of_seasons": 8,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Desperate Housewives",
+  "overview": "Herkesi şaşırtarak, beklenmedik bir anda intiharı seçen Mary Alice Young, “oralardan bir yerden” dört yakın arkadaşının yaşadıklarını anlatıyor. Dört ev kadınının rutin yaşamları ne kadar sıkıcı ve tekdüze görünse de işin gerçeği hiç de öyle değil. Lynette, Tom'un gayri meşru çocuğu ve onun annesiyle başa çıkmaya çalışırken, Susan ise komadaki Mike'ın uyanıp ona dönmesini beklemektedir. Bree yeni tanıştığı Orson ile kötü günleri geride bırakmaya çalışacak, ama Orson'un geçmişi peşlerini bırakmayacak gibi görünüyor.",
+  "popularity": 74.194,
+  "poster_path": "/sywYmV9c9Vj2U7ocqNyfDt2pz3r.jpg",
+  "production_companies": [
+    {
+      "id": 157498,
+      "logo_path": null,
+      "name": "Cherry Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 17,
+      "id": 6930,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/xKf5DDOEhPYbwvqqsYLvkwKxNzf.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2004-10-03",
+      "episode_count": 23,
+      "id": 2058,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/loERayOsYU1xdTH2JLOuug1vHIK.jpg",
+      "season_number": 1,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2005-09-25",
+      "episode_count": 23,
+      "id": 2059,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/v3Yi3CqcKRr0pis0xnyNavnZj3D.jpg",
+      "season_number": 2,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2006-09-24",
+      "episode_count": 23,
+      "id": 2060,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/4Q64W87EgCaEjWMI9foQ4PI3NiN.jpg",
+      "season_number": 3,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2007-09-30",
+      "episode_count": 17,
+      "id": 6925,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/z7a9U2OLfOJyCrLzyiVcLUfgHBL.jpg",
+      "season_number": 4,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2008-09-28",
+      "episode_count": 24,
+      "id": 6926,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/bkoReBnRmXzHXMoGLCQI84lisQR.jpg",
+      "season_number": 5,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2009-09-27",
+      "episode_count": 23,
+      "id": 6927,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/aDEPAc5DJjiXW1pcc7ZCeyGcbSE.jpg",
+      "season_number": 6,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2010-09-26",
+      "episode_count": 23,
+      "id": 6928,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/8NzsZHHuCPITnaqoHw9ZvaNccy9.jpg",
+      "season_number": 7,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2011-09-25",
+      "episode_count": 23,
+      "id": 6929,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/7z0zBMcfeADtovgdT8orm9vTl8Y.jpg",
+      "season_number": 8,
+      "vote_average": 8.2
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.912,
+  "vote_count": 1922,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10742,
+        "known_for_department": "Acting",
+        "name": "Teri Hatcher",
+        "original_name": "Teri Hatcher",
+        "popularity": 3.6721,
+        "profile_path": "/ySmnfZm8ZGabcwp4UwaMDeSzXqx.jpg",
+        "character": "Susan Mayer",
+        "credit_id": "52538f8719c295794027f7d8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7427,
+        "known_for_department": "Acting",
+        "name": "Felicity Huffman",
+        "original_name": "Felicity Huffman",
+        "popularity": 2.4451,
+        "profile_path": "/hbGEEamG47fo4rrfBKU6YgbasVQ.jpg",
+        "character": "Lynette Scavo",
+        "credit_id": "52538f8619c295794027f7a0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 127171,
+        "known_for_department": "Acting",
+        "name": "Marcia Cross",
+        "original_name": "Marcia Cross",
+        "popularity": 2.1506,
+        "profile_path": "/3oHmZ7aoW2uQPcdLbi0i9BhKssI.jpg",
+        "character": "Bree Van de Kamp",
+        "credit_id": "52538f8719c295794027f7f4",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 52605,
+        "known_for_department": "Acting",
+        "name": "Eva Longoria",
+        "original_name": "Eva Longoria",
+        "popularity": 3.9483,
+        "profile_path": "/1u26GLWK1DE7gBugyI9P3OMFq4A.jpg",
+        "character": "Gabrielle Solis",
+        "credit_id": "52538f8719c295794027f7bc",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80967,
+        "known_for_department": "Acting",
+        "name": "Ricardo Chavira",
+        "original_name": "Ricardo Chavira",
+        "popularity": 1.6152,
+        "profile_path": "/lgFzss4nrwhf4dpOM71wQZoxA4X.jpg",
+        "character": "Carlos Solis",
+        "credit_id": "52538f8719c295794027f810",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14737,
+        "known_for_department": "Acting",
+        "name": "Doug Savant",
+        "original_name": "Doug Savant",
+        "popularity": 2.4095,
+        "profile_path": "/yJ9UjfZ3PcULd0OPZhZ4vv23KMG.jpg",
+        "character": "Tom Scavo",
+        "credit_id": "52538f2419c295794027ba93",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11153,
+        "known_for_department": "Acting",
+        "name": "James Denton",
+        "original_name": "James Denton",
+        "popularity": 2.8267,
+        "profile_path": "/41Es4qDy5HQjG5XZ4A85Db4vcIG.jpg",
+        "character": "Mike Delfino",
+        "credit_id": "52538f8719c295794027f848",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 101396,
+        "known_for_department": "Acting",
+        "name": "Brenda Strong",
+        "original_name": "Brenda Strong",
+        "popularity": 2.2968,
+        "profile_path": "/jMfkFmQT2zgTojkcmn67Fju3HU.jpg",
+        "character": "Mary Alice Young",
+        "credit_id": "52538f8719c295794027f82c",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 27011,
+        "known_for_department": "Acting",
+        "name": "Vanessa Williams",
+        "original_name": "Vanessa Williams",
+        "popularity": 3.0775,
+        "profile_path": "/30O1Af0wy6UBt8EpVRuq28tTGoT.jpg",
+        "character": "Renee Perry",
+        "credit_id": "57edee6dc3a3682aa10003de",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21961,
+        "known_for_department": "Production",
+        "name": "George W. Perkins",
+        "original_name": "George W. Perkins",
+        "popularity": 0.7153,
+        "profile_path": null,
+        "credit_id": "52570fca19c295731c02009b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1226282,
+        "known_for_department": "Production",
+        "name": "Michael Edelstein",
+        "original_name": "Michael Edelstein",
+        "popularity": 0.1766,
+        "profile_path": null,
+        "credit_id": "52570fcc19c295731c0200db",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1212412,
+        "known_for_department": "Directing",
+        "name": "Larry Shaw",
+        "original_name": "Larry Shaw",
+        "popularity": 1.6911,
+        "profile_path": "/5aipQmeCqvDJiqV2302jBJPEPiW.jpg",
+        "credit_id": "52538f8d19c295794027fcb0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1213617,
+        "known_for_department": "Writing",
+        "name": "Alexandra Cunningham",
+        "original_name": "Alexandra Cunningham",
+        "popularity": 0.2697,
+        "profile_path": null,
+        "credit_id": "52538f8d19c295794027fcce",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1218856,
+        "known_for_department": "Writing",
+        "name": "Patty Lin",
+        "original_name": "Patty Lin",
+        "popularity": 0.2282,
+        "profile_path": null,
+        "credit_id": "52538f8e19c295794027fcec",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1212579,
+        "known_for_department": "Writing",
+        "name": "Tracey Stern",
+        "original_name": "Tracey Stern",
+        "popularity": 0.4757,
+        "profile_path": null,
+        "credit_id": "52538f8e19c295794027fd0a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1215986,
+        "known_for_department": "Writing",
+        "name": "Tom Spezialy",
+        "original_name": "Tom Spezialy",
+        "popularity": 0.3536,
+        "profile_path": null,
+        "credit_id": "52538f8e19c295794027fd28",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1218666,
+        "known_for_department": "Creator",
+        "name": "Marc Cherry",
+        "original_name": "Marc Cherry",
+        "popularity": 1.2641,
+        "profile_path": "/vTvKS3XDOVxomC5I6njoMcqdAyj.jpg",
+        "credit_id": "52538f8e19c295794027fd46",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1219566,
+        "known_for_department": "Writing",
+        "name": "John Pardee",
+        "original_name": "John Pardee",
+        "popularity": 0.1973,
+        "profile_path": null,
+        "credit_id": "52538f8e19c295794027fd62",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1211962,
+        "known_for_department": "Writing",
+        "name": "Chris Black",
+        "original_name": "Chris Black",
+        "popularity": 1.3544,
+        "profile_path": "/l7cfUXkaJxsNmfwJcrUAw3RluYG.jpg",
+        "credit_id": "52538f8e19c295794027fd7e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43954,
+        "known_for_department": "Directing",
+        "name": "David Grossman",
+        "original_name": "David Grossman",
+        "popularity": 1.7102,
+        "profile_path": "/rDZ1xOyWCOuGZpXM6OTZqfsRt54.jpg",
+        "credit_id": "52538f8e19c295794027fd9a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70039,
+        "known_for_department": "Writing",
+        "name": "Joe Keenan",
+        "original_name": "Joe Keenan",
+        "popularity": 0.5801,
+        "profile_path": null,
+        "credit_id": "52538f8e19c295794027fdb6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219605,
+        "known_for_department": "Writing",
+        "name": "Bob Daily",
+        "original_name": "Bob Daily",
+        "popularity": 0.3565,
+        "profile_path": null,
+        "credit_id": "52538f8e19c295794027fdd2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219567,
+        "known_for_department": "Writing",
+        "name": "Joey Murphy",
+        "original_name": "Joey Murphy",
+        "popularity": 0.1957,
+        "profile_path": null,
+        "credit_id": "52538f8e19c295794027fdee",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219568,
+        "known_for_department": "Writing",
+        "name": "Kevin Murphy",
+        "original_name": "Kevin Murphy",
+        "popularity": 0.9372,
+        "profile_path": null,
+        "credit_id": "52538f8e19c295794027fe0a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1213382,
+        "known_for_department": "Production",
+        "name": "Charles Pratt, Jr.",
+        "original_name": "Charles Pratt, Jr.",
+        "popularity": 0.722,
+        "profile_path": null,
+        "credit_id": "52538f8e19c295794027fe26",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1219615,
+        "known_for_department": "Production",
+        "name": "Charles Skouras III",
+        "original_name": "Charles Skouras III",
+        "popularity": 0.7026,
+        "profile_path": null,
+        "credit_id": "52538f9019c295794027fe44",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "housewife",
+        "id": 3451
+      },
+      {
+        "name": "female friendship",
+        "id": 5248
+      },
+      {
+        "name": "neighbor",
+        "id": 10226
+      },
+      {
+        "name": "neighborhood",
+        "id": 180523
+      },
+      {
+        "name": "amused",
+        "id": 325765
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/8uJPiVNMjjVUHgnCb3de1nSv0L5.jpg",
+        "id": 75666,
+        "name": "McMafia",
+        "original_name": "McMafia",
+        "overview": "İngilizler tarafından yetiştirilmiş ve Rus mafyasının sürgünlerinden olan Alex Godman, hayatını geçmişinin gölgesinden kaçmakla geçirir. Anne ve babasının mafya bağlantılarından arınarak, kendi meşru işini yapmak ve kız arkadaşı ile birlikte yeni bir hayat kurarak, dürüst bir yaşam sürmek için uğraşır. Ancak bir cinayet, ailesini ve geçmişini tehdit etmeye başlar. Alex yeniden suçluların olduğu yeraltı dünyasına çekilir ve sevdiği kişileri korumak için değerleriyle yüzleşmek zorunda kalır. Ruslara ek olarak organize suçlar dünyasından Meksika uyuşturucu kartelleri, Pakistan uyuşturucu Lordları ve Balkan kökenli kaçakçılar ile yüzleşmesi gerekmektedir. (Dizi içeriği 16 yaş ve üzeri için uygundur)",
+        "poster_path": "/jdt7RFfVCGWrNnrxeQ0Us9kGhJu.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 5.0773,
+        "first_air_date": "2018-01-01",
+        "vote_average": 7.3,
+        "vote_count": 208,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/hCUOckGQ4WnYRoCPFSTdxxErnr7.jpg",
+        "id": 2352,
+        "name": "The Nanny",
+        "original_name": "The Nanny",
+        "overview": "Fran, fresh out of her job as a bridal consultant in her boyfriend’s shop, first appears on the doorstep of Broadway producer Maxwell Sheffield peddling cosmetics, and quickly stumbled upon the opportunity to become The Nanny for his three children. But soon Fran, with her offbeat nurturing and no-nonsense honesty, touches Maxwell as well as the kids.",
+        "poster_path": "/4syShXMjaPAP3mG81ekhruv94sd.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 56.8798,
+        "first_air_date": "1993-11-03",
+        "vote_average": 8.068,
+        "vote_count": 1189,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/mXtL24G2Awyl3lKFtreMHnH5qFC.jpg",
+        "id": 105,
+        "name": "Sex and the City",
+        "original_name": "Sex and the City",
+        "overview": "Kariyer sahibi ve başarılı New York’lu dört kadın arkadaşın hikâyesini anlatmaktadır. Gazeteci Carrie Bradshaw, New York’ta bir gazetede kadın erkek ilişkileri ve seks üzerine köşe yazıları yazmaktadır. Carrie yazılarını yaşadığı ilişkilere dayandırmaktadır. Mr. Big ile olan ilşkisi onu derinden etkilemektedir. Avukat olan Miranda erkekler ve aşk konusunda katı kurallara sahiptir ve aşık olmadan ilişkilerini yürütmeye çalışır. Kendine ait halkla ilişkiler şirketi olan grubun en çapkını Samantha, sürekli ilişki yerine tek gecelik ilişkileri tercih etmekte ve bu nedenle fazla seçici davranmamaktadır. Grubun en romantiği ve tutucu yapıya sahip olanı Charlotte’ın en büyük amacı ise mükemmel, genç ve zengin bir erkekle büyük bir aşk yaşayarak mükemmel bir düğünle evlenmektir.",
+        "poster_path": "/tzVUZxNwntAS8Gk3WF2DCcI8x1B.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 61.2434,
+        "first_air_date": "1998-06-06",
+        "vote_average": 7.39,
+        "vote_count": 2051,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/776K5RkvhIXm7cyHAUBDaWcSlXC.jpg",
+        "id": 12577,
+        "name": "Devil May Cry",
+        "original_name": "デビル メイ クライ",
+        "overview": "Capcom'un popüler PlayStation II oyunu olan Devil May Cry'dan uyarlanan anime; bir iblis avcısı olan Dante'nin, maceralarını anlatır. Şeytan bir babadan (Sparda) ve insan bir anneden (Eva) doğan Dante, kendi bürosu olan \"Devil May Cry\"da, Morisson'un kendisine getirdiği işlerle hayatını sürdürmektedir. İlk bölümde Patty adındaki büyük bir mirasın varisi olan küçük bir kız çocuğunu korumakla görevlendirilir.\n\nAnime'de, Trish ve Lady gibi bazı oyundan karakterlerde görünmektedir",
+        "poster_path": "/xDGxMQk24gt4proydCyxddPzTIG.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10765,
+          10759
+        ],
+        "popularity": 13.3014,
+        "first_air_date": "2007-06-14",
+        "vote_average": 7.639,
+        "vote_count": 219,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/22uQSlECwD3tcdqiFwo3K3qlCtY.jpg",
+        "id": 1940,
+        "name": "Entourage",
+        "original_name": "Entourage",
+        "overview": "Film star Vince Chase navigates the vapid terrain of Los Angeles with a close circle of friends and his trusty agent.",
+        "poster_path": "/kLKP8zrArBtBboGz3qJOuMGC7rL.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 36.7905,
+        "first_air_date": "2004-07-18",
+        "vote_average": 7.341,
+        "vote_count": 564,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/6FrVFsxsXujg7GJiBy1sw0Fdnji.jpg",
+        "id": 3750,
+        "name": "Nip/Tuck",
+        "original_name": "Nip/Tuck",
+        "overview": "Kokain çeken, seks bağımlısı Dr. Christian Troy bu dünyaya tüm olumsuzluklarıyla tartışmasız dahil olmuşken; ona göre daha mantıklı ve ağırbaşlı olan Dr. Sean McNamara'nın içinde nefes aldığı dünya ile tam olarak örtüştüğü söylenemez.\n\nPara ve güzel kadınlardan oluşan sahte bir cennette geçen zaman, Sean'i eşi ve çocuklarından uzağa sürüklemiştir. Yalnızlaşan ve çevresindeki hiç kimseyle derin ilişkiler kuramayan Sean, kendini sorgulama noktasına gelmiştir\n\nNip/Tuck'ta pırıltılı bir yaşamı izlerken, diğer yanda bu şatafatlı hayatın kaybettirdiklerine de tanık olacağız.\n\n",
+        "poster_path": "/b8wq87RBCman73pxQzWWK93Eicu.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 29.3931,
+        "first_air_date": "2003-07-22",
+        "vote_average": 7.188,
+        "vote_count": 485,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/tgVKBjXuBTzyq87awCwuvV4zGZL.jpg",
+        "id": 1432,
+        "name": "Veronica Mars",
+        "original_name": "Veronica Mars",
+        "overview": "In the fictional town of Neptune, California, student Veronica Mars progresses from high school to college while moonlighting as a private investigator under the tutelage of her detective father.",
+        "poster_path": "/vOdJETEueGgUqJR4UvwTdUoJhvO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          18,
+          35
+        ],
+        "popularity": 21.9587,
+        "first_air_date": "2004-09-22",
+        "vote_average": 7.823,
+        "vote_count": 639,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1FXmpYLQVGGwLe7cZTb5Smg9byv.jpg",
+        "id": 1395,
+        "name": "Gossip Girl",
+        "original_name": "Gossip Girl",
+        "overview": "Herkes onların şatafatlı yaşamlarını konuşuyor. Manhattan’ın en zengin gençleri, özenilerek izlenen sıradışı hayatları, dramatik aşk ilişkileri ve sorunları... Onlar hakkında en son dedikodular ise henüz kendileri bile bilmeden önce Dedikoducu Kız’ın bloğunda.",
+        "poster_path": "/mRvSUuU1VQQkZZ578jKJpcUCuL8.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 48.2055,
+        "first_air_date": "2007-09-19",
+        "vote_average": 8.197,
+        "vote_count": 2169,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lBmlLro9ZfY815ZXE5NKhYNxPRQ.jpg",
+        "id": 95,
+        "name": "Buffy the Vampire Slayer",
+        "original_name": "Buffy the Vampire Slayer",
+        "overview": "Buffy, görünüşte annesiyle birlikte Sunnydale'e taşınan ve burada yeni okulu Sunnydale High'a alışmaya çalışan sıradan bir genç kızdır. Buffy'nin kısa zamanda bu küçük kasabaya alışmasını kolaylaştıran şey, yöre halkının sıcak karşılamasından çok, Cehennem Ağzı'ndan fırlamış türlü iblis ve vampirlerdir. Buffy her nesilde, gecenin yaratıklarıyla mücadele etmeleri üzere seçilen Avcı'ların sonuncusudur ve buraya gelmesinin sebebi de önceki okulunu, vampirleri yok etmek için ateşe verip kül etmiş olmasıdır. Hiç de istemediği bu kaderi yaşamasını kolaylaştıran şey arkadaşları Willow, Xander ve gözetmeni Giles'ın varlığıdır. Ancak ruhu olan vampir Angel'ın devreye girişi işleri biraz karıştıracaktır.",
+        "poster_path": "/y7fVZkyheCEQHDUEHwNmYENGfT2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          35,
+          18,
+          10759
+        ],
+        "popularity": 78.4572,
+        "first_air_date": "1997-03-10",
+        "vote_average": 8.126,
+        "vote_count": 1814,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/yUOFocKDW7MCC5isx4FK8A68QFp.jpg",
+        "id": 4607,
+        "name": "Lost",
+        "original_name": "Lost",
+        "overview": "Oceanic Havayolları’nın Sidney-Los Angeles seferini yapan 815 sefer sayılı uçağı, okyanus üzerinden geçerken, manyetik bir alana kapılarak büyük bir adaya düşer. Fakat önceleri sıradan, tropik bir ada gibi görünen bu kara parçasının, kazazedelerin her birinin hayatını farklı biçimde değiştireceğinden habersizdirler. \n\nAdada sandıklarından daha fazla zaman mahsur kalan Oceanic Havayolları yolcuları her gün yeni bir sürprizle karşılaştıkları bu gizemli adada hayatta kalabilmek ve ne olursa olsun bir yolunu bulup adadan kurtulmak ya da anakaraya haber ulaştırmak için mücadeleye girerler. Öte yandan hem ormanın derinliklerinden gelen 'Diğer ada sakinleri', kara bir duman, silahlı bir Fransız kadın, üniformalı iskeletler, terkedilmiş ambarlar adadan kurtulmak isteyenleri bekleyen cevaplanmamış sorular... \n\nEn İyi Televizyon Dizisi dalında Altın Küre ve Emmy Ödüllü Lost, 6 sezon boyunca televizyon seyircisini ekran başına kitlemeyi başaran, 2000'li yılların kendi fenomenini yaratamış, en çok izlenen dizilerinden biri. Ayrıca oyuncu kadrosuna da kazandırdığı ödüller ve adaylıklarla da televizyon ve sinema dünyasında yeni yıldızlar yaratan LOST fenomeni, hem teknik ekibi, hem yazar ve yapımcı kadrosuyla en çok konuşulan, üzerine en çok komplo teorisi ve senaryo üretilen televizyon yapımı olma özelliğini koruyor...",
+        "poster_path": "/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          10759,
+          18
+        ],
+        "popularity": 94.2348,
+        "first_air_date": "2004-09-22",
+        "vote_average": 7.945,
+        "vote_count": 4526,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/8E575DpxUuy5vkxK75BTVznIg02.jpg",
+        "id": 31295,
+        "name": "Misfits",
+        "original_name": "Misfits",
+        "overview": "Dizi, birbirini tanımayan 5 gencin fırtınaya yakalandıktan sonra süper güçler kazanmasını konu alıyor. İlk bakışta Heroes'a benzetebileceğiniz diziyi Heroes'dan ayıran ise bu süper güçler kazanan gençlerin dünyayı kurtarmaya veya dünyayı kötülükle yönetmeye kalkışmaması. Misfits'te her karakterin kendine özgü sorunları vardır, ne iyidirler ne de kötüdürler, sadece uyumsuzdurlar ve süper güçlerinden hiç memnun değildirler.",
+        "poster_path": "/1yjmRIp8A92FlAw5JpouQ50ATUA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          35
+        ],
+        "popularity": 34.8422,
+        "first_air_date": "2009-11-12",
+        "vote_average": 7.631,
+        "vote_count": 911,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/1orqm4lN8VtYGlxZ1g12ip6iwmG.jpg",
+        "id": 1417,
+        "name": "Glee",
+        "original_name": "Glee",
+        "overview": "Dizi, bir lisede geçiyor. Will Schuester, lise çağlarında koroda şarkı söylemiş ve büyük bir ödül kazanmış, şu anda da mezun olduğu okulda çalışan genç bir öğretmendir. Zamanında büyük işler başaran bu koro şimdi tam bir enkaz halinde olduğundan Schuester, bu koroya el atmaya karar verir ve onları eğitmeye başlar. Okulun bu kaybedenler takımı, Will Schuester sayesinde yavaş yavaş içinde ki yeteneği ortaya çıkarıp kendilerinin bile beklemediği bir şekilde popüler olmaya başlayacaktır.",
+        "poster_path": "/62T2vsZYTje3KhdCsiLR1K1RFJW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 35.4143,
+        "first_air_date": "2009-05-19",
+        "vote_average": 6.8,
+        "vote_count": 855,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5TpptGoxVVght2n6oz8QJklmSTu.jpg",
+        "id": 4018,
+        "name": "Quantum Leap",
+        "original_name": "Quantum Leap",
+        "overview": "Theorizing that one could time travel within his own lifetime, Dr. Sam Beckett stepped into the Quantum Leap accelerator and vanished... He woke to find himself trapped in the past, facing mirror images that were not his own and driven by an unknown force to change history for the better. His only guide on this journey is Al, an observer from his own time, who appears in the form of a hologram that only Sam can see and hear. And so Dr. Beckett finds himself leaping from life to life, striving to put right what once went wrong and hoping each time that his next leap will be the leap home.",
+        "poster_path": "/ujIGP3e3V6kDQHRhjNYtUE3fHJi.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 35.0568,
+        "first_air_date": "1989-03-26",
+        "vote_average": 8.036,
+        "vote_count": 715,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7RrcmIQ7e37M3vMkUNAKCEA6uEy.jpg",
+        "id": 46533,
+        "name": "The Americans",
+        "original_name": "The Americans",
+        "overview": "Soğuk Savaş döneminde 1980'li yılların başlarında, Ronald Reagan'ın ABD başkanlık koltuğuna oturmasının hemen ardındaki zaman diliminde geçecek The Americans; Washington DC'de bir banliyöde çevreye iki Amerikalı görünümü veren, ebeveynlerinin gerçek kimliklerinden habersiz durumdaki iki çocuğa sahip ancak gerçekte iki KGB ajanı olan evli bir çift üzerine odaklanıyor.\n\nAnlaşmalı evliliklerine rağmen, Soğuk Savaş dönemi daha yoğun ve hararetli bir hal aldıkça ikilinin birbirlerine olan bağlılıkları ve duyguları her geçen gün daha gerçekçi bir hal almaya başlayacaktır.\n\nAltın Küre ödülü (1999 en iyi kadın oyuncu drama TV, Felicity) sahibi Keri Russell, Elizabeth Jennings olarak dizinin ana kadın karakterini canlandırırken, Elizabeth'in kocası Phillip Jennings karakterini Matthew Rhys (Brothers &amp; Sisters) canlandıracak. Noah Emmerich (White Collar, The Walking Dead) ise aynı mahalleye taşınan, casuslarımız için bir tehdit olarak olarak beliren ve karşı istihbarat için çalışan FBI ajanı Stan rolüyle dizinin oyuncu kadrosunda yer alan bir diğer isim olacak.",
+        "poster_path": "/w1UBlxEXhbKe8sp0fxFZh7MqTce.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 25.6085,
+        "first_air_date": "2013-01-30",
+        "vote_average": 7.853,
+        "vote_count": 956,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/6NuvpA24GbWrnkKsYrNyr2RiRbp.jpg",
+        "id": 31917,
+        "name": "Pretty Little Liars",
+        "original_name": "Pretty Little Liars",
+        "overview": "Dizide bir arkadaş grubu olan 5 kız anlatılıyor. Spencer Hastings, Hanna Marin, Aria Montgomery, Emily Fields ve Alison DiLaurentis. Bir pijama partisinde Alison kaybolur ve hiçbir yerde bulunamaz. 1 yıl sonra cesedi eskiden yaşadığı evin arkasında görülür. Cesedi bulununca diğer dört kız \"A\" adlı anonim birinden mesajlar alır, bunlar sadece Alison'ın bildiği sırları içeren mesajlardır. Cenaze töreninden sonra bile mesajlar almaya devam ederler ve bu sayede tekrar bir araya gelirler.",
+        "poster_path": "/8hF4CWc1ZVvYFYjtzXQurP4Kzvu.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 121.9255,
+        "first_air_date": "2010-06-08",
+        "vote_average": 7.982,
+        "vote_count": 2660,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
+        "id": 1408,
+        "name": "House, M.D.",
+        "original_name": "House",
+        "overview": "Gregory House New Jersey Princeton Plainsboro Hastanesinin tıbbi tanı uzamanı doktordur. Kendini aşırı beğenmesi, insanları önemsememesi ve boşvermişlik gibi özelliklerine rağmen müthiş bir doktordur. Uzmanlık alanı bulaşıcı hastalıklardır. Hiç kimsenin tanı koyamadığı hastalara tanı koyarak onların hayatlarını kurtarmaktadır ancak ekibindekilerin psikolojilerini de sürekli olarak bozmaktadır. Hastanenin yöneticisi Lisa Cuddy onu sürekli gözlem altında tutmaya çalışmaktadır ve ondan asla vazgeçmemektedir çünkü en zor durumlarda hastaları kurtaran hep odur ama Dr. House yüzünden hastane sık sık dava edilmektedir.",
+        "poster_path": "/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          35
+        ],
+        "popularity": 134.857,
+        "first_air_date": "2004-11-16",
+        "vote_average": 8.592,
+        "vote_count": 6917,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/bYG7fGOVI5U33QXEqXk9ZYiHx0y.jpg",
+        "id": 4601,
+        "name": "Law & Order: Criminal Intent",
+        "original_name": "Law & Order: Criminal Intent",
+        "overview": "The third installment of the “Law & Order” franchise takes viewers deep into the minds of its criminals while following the intense psychological approaches the Major Case Squad uses to solve its crimes.",
+        "poster_path": "/zgBg8gTCELQg73awE7qAuV06c4Z.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 125.2125,
+        "first_air_date": "2001-09-30",
+        "vote_average": 7.6,
+        "vote_count": 349,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5xCxoMktHFsrcF283IMTL4OGtuR.jpg",
+        "id": 66551,
+        "name": "The Mick",
+        "original_name": "The Mick",
+        "overview": "Dizi, kocası federal dolandırıcılık suçlamasıyla tutuklandıktan sonra Rhode Island'da yaşayan zengin kız kardeşinin yanına kaçmak ve onun şımarık çocuklarına bakmak zorunda kalan Mackenzie Murphy'nin (Kaitlin Olson) hikayesini anlatmaktadır.",
+        "poster_path": "/jwYBohob30EeP1rJJMx9zcWSaGS.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 13.5622,
+        "first_air_date": "2017-01-01",
+        "vote_average": 7.217,
+        "vote_count": 246,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uGEmgttIbqyM35aI42tq4w9KCB1.jpg",
+        "id": 4626,
+        "name": "Ugly Betty",
+        "original_name": "Ugly Betty",
+        "overview": "Betty Suarez is smart, tough and tenacious, but also sensitive and loving. She hopes these skills will help her to get a job within the Meade Publishing Corporation. The fact that she isn’t traditionally attractive initially keeps her from getting hired by fashion bible, Mode. The magazine, however, is in flux, with power-hungry executives vying for dominance. Hoping to control the situation, the publisher gives his inexperienced son, Daniel, the position of Editor-in-Chief.  He hires Betty as Daniel’s assistant after catching him in a compromising position with his secretary on his first day on the job. After a tough start, in which Daniel tries to force Betty into quitting by treating her terribly, he realizes her worth and the two pair up to be an effective team.",
+        "poster_path": "/prGylxnFpIWMcvHh9sUC46hmiIC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 25.7106,
+        "first_air_date": "2006-09-28",
+        "vote_average": 6.3,
+        "vote_count": 240,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/d80flL9gjiYBhK7lqApwrRFGGCb.jpg",
+        "id": 5917,
+        "name": "90210",
+        "original_name": "90210",
+        "overview": "“Beverly Hills, 90210” efsanesini iki binli yıllara taşıyan yapım, yeni neslin Beverly Hills maceralarına odaklanıyor.\n\nYeni “90210”da, Brenda ve Brendan Walsh kardeşler yerine bu kez hayata Annie ve kardeşi Dixon Wilson’ın gözünden bakıyoruz. Kahramanlarımız, Batı Beverly Hills Lisesi’ndeki ilk günlerinden sonra artık Kansas’ta olmadıklarını idrak ediyorlar. Baba Harry ve anne Debbie’nin de dâhil olduğu Wilson ailesi, Harry’nin eski TV yıldızı annesi Tabitha’ya göz kulak olmak amacıyla Beverly Hills’e taşınıyor. Tiyatro tutkunu ve arkadaş canlısı Annie ve Wilson’ların evlatlık oğlu, yıldız sporcu Dixon için okul, büyük bir kültür şoku oluyor. Babalarının lisenin müdürü olarak işe başlaması ise kahramanlarımızın sıkıntılarına tuz biber ekiyor. İki kardeş; zengin kızı Naomi, popüler sporcu Ethan, hevesli gazeteci Navid ya da asi bir kız olan Silver gibi sınıf arkadaşlarıyla baş etmek konusunda birbirlerine yardımcı oluyorlar.",
+        "poster_path": "/6uy8Le8X8qqvc5X7pSFn3BJA69M.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 27.5579,
+        "first_air_date": "2008-09-02",
+        "vote_average": 5.682,
+        "vote_count": 192,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

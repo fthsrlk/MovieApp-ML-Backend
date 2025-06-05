@@ -1,0 +1,155 @@
+{% extends "base.html" %}
+
+{% block title %}{{ title }} - MovieApp{% endblock %}
+
+{% block page_title %}{{ title }}{% endblock %}
+
+{% block head_extra %}
+    {# Detay sayfasına özel CSS stilleri eklenebilir #}
+    <style>
+        .detail-hero {
+            background-image: linear-gradient(rgba(26, 26, 46, 0.85), rgba(26, 26, 46, 0.95)), url("https://image.tmdb.org/t/p/w1280{{ item.backdrop_path if item.backdrop_path else '' }}");
+            background-size: cover;
+            background-position: center center;
+            padding: 80px 0;
+            color: var(--light-text-color);
+            text-shadow: 1px 1px 3px rgba(0,0,0,0.7);
+        }
+        .detail-hero .detail-title {
+            font-size: 48px;
+        }
+        .genres-list span {
+            display: inline-block;
+            background-color: rgba(255,255,255,0.15);
+            color: var(--light-text-color);
+            padding: 6px 12px;
+            border-radius: 20px;
+            margin-right: 8px;
+            margin-bottom: 8px;
+            font-size: 14px;
+        }
+        /* Rating yıldızları için ek stiller base.html'deki rating stillerini ezecekse buraya eklenebilir */
+    </style>
+{% endblock %}
+
+{% block content %}
+{# Detay sayfasının ana hero bölümü (arka planlı) #}
+<section class="detail-hero">
+    <div class="detail-container">
+        <div class="detail">
+            <div class="detail-image">
+                <img src="https://image.tmdb.org/t/p/w500{{ item.poster_path if item.poster_path else url_for('static', filename='img/no-poster.jpg') }}" alt="{{ title }}">
+            </div>
+            <div class="detail-content">
+                <h1 class="detail-title">{{ title }}</h1>
+                {% if item.tagline %}
+                    <p class="detail-tagline"><em>{{ item.tagline }}</em></p>
+                {% endif %}
+                <div class="detail-info">
+                    <span><i class="fas fa-calendar-alt"></i> {{ (item.release_date or item.first_air_date or 'Bilgi Yok').split('-')[0] }}</span>
+                    {% if item.runtime %}<span><i class="fas fa-clock"></i> {{ item.runtime }} dk</span>{% endif %}
+                    {% if item.number_of_seasons %}<span><i class="fas fa-tv"></i> {{ item.number_of_seasons }} Sezon</span>{% endif %}
+                    <span><i class="fas fa-star"></i> {{ "%.1f"|format(item.vote_average|float) if item.vote_average else 'N/A' }} ({{ item.vote_count }} oy)</span>
+                </div>
+                
+                <div class="genres-list mb-30">
+                    {% for genre in item.genres %}
+                        <span>{{ genre.name }}</span>
+                    {% endfor %}
+                </div>
+
+                <h3><i class="fas fa-info-circle"></i> Açıklama</h3>
+                <p class="detail-description">{{ item.overview if item.overview else 'Bu içerik için bir açıklama bulunmamaktadır.' }}</p>
+                
+                <div class="action-buttons">
+                    <button id="add-to-watchlist" class="btn btn-success {% if in_watchlist %}hidden{% endif %}" data-media-type="{{ media_type }}" data-item-id="{{ item.id }}">
+                        <i class="fas fa-plus-circle"></i> İzleme Listesine Ekle
+                    </button>
+                    <button id="remove-from-watchlist" class="btn btn-danger {% if not in_watchlist %}hidden{% endif %}" data-media-type="{{ media_type }}" data-item-id="{{ item.id }}">
+                        <i class="fas fa-minus-circle"></i> Listeden Çıkar
+                    </button>
+
+                    {# Rating Section - base.html'deki CSS'i kullanacak #}
+                    <div class="rating-section">
+                        <span class="rating-label-text">Puan Ver:</span>
+                        <div class="rating" data-media-type="{{ media_type }}" data-item-id="{{ item.id }}">
+                            <input type="radio" id="star5" name="rating" value="5" {% if user_rating == 5 %}checked{% endif %}/><label for="star5" title="5 yıldız"></label>
+                            <input type="radio" id="star4" name="rating" value="4" {% if user_rating == 4 %}checked{% endif %}/><label for="star4" title="4 yıldız"></label>
+                            <input type="radio" id="star3" name="rating" value="3" {% if user_rating == 3 %}checked{% endif %}/><label for="star3" title="3 yıldız"></label>
+                            <input type="radio" id="star2" name="rating" value="2" {% if user_rating == 2 %}checked{% endif %}/><label for="star2" title="2 yıldız"></label>
+                            <input type="radio" id="star1" name="rating" value="1" {% if user_rating == 1 %}checked{% endif %}/><label for="star1" title="1 yıldız"></label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+{# Oyuncular Bölümü #}
+{% if item.credits and item.credits.cast %}
+<section class="section cast-section">
+    <div class="container">
+        <h2 class="section-title">Oyuncular</h2>
+        <div class="cast-list">
+            {% for actor in item.credits.cast[:12] %} {# İlk 12 oyuncu #}
+                <div class="cast-item">
+                    <img src="https://image.tmdb.org/t/p/w185{{ actor.profile_path if actor.profile_path else url_for('static', filename='img/no-avatar.png') }}" alt="{{ actor.name }}" class="cast-image">
+                    <p class="cast-name">{{ actor.name }}</p>
+                    <p class="cast-character">{{ actor.character }}</p>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+{% endif %}
+
+{# Benzer İçerikler Bölümü #}
+{% if similar and similar|length > 0 %}
+<section class="section recommendation-section" style="background-color: #e9ecef;">
+    <div class="container">
+        <h2 class="section-title">Bunları da Beğenebilirsiniz</h2>
+        <div class="card-grid">
+            {% for s_item in similar[:5] %} {# İlk 5 benzer içerik #}
+                <div class="card {% if s_item.id in user_watchlist.get(media_type, []) %}in-watchlist{% endif %}">
+                    {% if s_item.id in user_watchlist.get(media_type, []) %}
+                        <div class="watchlist-tag"><i class="fas fa-check"></i> İzleme Listemde</div>
+                    {% endif %}
+                    <div class="card-image-wrapper">
+                        <img src="https://image.tmdb.org/t/p/w500{{ s_item.poster_path if s_item.poster_path else url_for('static', filename='img/no-poster.jpg') }}" alt="{{ s_item.title or s_item.name }}">
+                        <div class="card-overlay">
+                            <h3 class="card-overlay-title">{{ s_item.title or s_item.name }}</h3>
+                            <div class="card-overlay-info">
+                                <span>{{ (s_item.release_date or s_item.first_air_date).split('-')[0] if (s_item.release_date or s_item.first_air_date) else 'N/A' }}</span>
+                                <span><i class="fas fa-star"></i> {{ "%.1f"|format(s_item.vote_average|float) if s_item.vote_average else 'N/A' }}</span>
+                            </div>
+                            <div class="card-overlay-actions">
+                                <a href="{{ url_for('detail', media_type=media_type, item_id=s_item.id) }}" class="btn"><i class="fas fa-info-circle"></i> Detaylar</a>
+                                <button class="btn btn-watchlist add-to-watchlist-card {% if s_item.id in user_watchlist.get(media_type, []) %}hidden{% endif %}" 
+                                        data-media-type="{{ media_type }}" 
+                                        data-item-id="{{ s_item.id }}">
+                                    <i class="fas fa-plus-circle"></i> İzle
+                                </button>
+                                <button class="btn btn-watchlist remove-from-watchlist-card {% if s_item.id not in user_watchlist.get(media_type, []) %}hidden{% endif %}" 
+                                        data-media-type="{{ media_type }}" 
+                                        data-item-id="{{ s_item.id }}">
+                                    <i class="fas fa-minus-circle"></i> Çıkar
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card-content">
+                        <h4 class="card-title">{{ s_item.title or s_item.name }}</h4>
+                        <div class="card-info">
+                            <span>{{ (s_item.release_date or s_item.first_air_date).split('-')[0] if (s_item.release_date or s_item.first_air_date) else 'N/A' }}</span>
+                            <span><i class="fas fa-star"></i> {{ "%.1f"|format(s_item.vote_average|float) if s_item.vote_average else 'N/A' }}</span>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+{% endif %}
+
+{% endblock %} 

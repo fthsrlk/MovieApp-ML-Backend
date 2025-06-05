@@ -1,0 +1,867 @@
+{
+  "adult": false,
+  "backdrop_path": "/zJeWBM8AiA2wS8OnBMkt1l9Yy5d.jpg",
+  "created_by": [
+    {
+      "id": 227330,
+      "credit_id": "5253926c19c29579402a33cd",
+      "name": "Glen A. Larson",
+      "original_name": "Glen A. Larson",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 160145,
+      "credit_id": "5253926c19c29579402a33d3",
+      "name": "Donald P. Bellisario",
+      "original_name": "Donald P. Bellisario",
+      "gender": 2,
+      "profile_path": "/8xjZRZvWfn0aaZVHlYxRUtlqJIR.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "1980-12-11",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Aksiyon & Macera"
+    },
+    {
+      "id": 80,
+      "name": "Suç"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 9648,
+      "name": "Gizem"
+    }
+  ],
+  "homepage": "",
+  "id": 734,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1988-05-01",
+  "last_episode_to_air": {
+    "id": 40132,
+    "name": "13. Bölüm",
+    "overview": "",
+    "vote_average": 7.0,
+    "vote_count": 1,
+    "air_date": "1988-05-01",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 8,
+    "show_id": 734,
+    "still_path": "/ujCD5KwLWRHva6sOUU7MonHwytn.jpg"
+  },
+  "name": "Magnum, P.I.",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 162,
+  "number_of_seasons": 8,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Magnum, P.I.",
+  "overview": "Hawai'de büyük, lüks bir evde yaşayan özel bir dedektifin hikayesini anlatır. Magnum'un (Tom Selleck) kaldığı yer i̇ngiliz asilzadesi Robin Masters'a ait olup, dedektif bu kişi için çalışmaktadır. Ferrari de dizinin simgelerinden biridir.",
+  "popularity": 69.5778,
+  "poster_path": "/wKJRQYmOTzLKy6rTVkyk8NIUC6I.jpg",
+  "production_companies": [
+    {
+      "id": 23341,
+      "logo_path": null,
+      "name": "Belisarius Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 6905,
+      "logo_path": null,
+      "name": "Glen A. Larson Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 104278,
+      "logo_path": null,
+      "name": "Universal Television Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 26727,
+      "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1980-12-11",
+      "episode_count": 18,
+      "id": 2156,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/gff0kcXTkvBuCL4JSkXmYn4bjIs.jpg",
+      "season_number": 1,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "1981-10-08",
+      "episode_count": 22,
+      "id": 2157,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/vbl8chHUmjCHjWe3ycBS3d6AOHG.jpg",
+      "season_number": 2,
+      "vote_average": 5.5
+    },
+    {
+      "air_date": "1982-09-30",
+      "episode_count": 23,
+      "id": 2158,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/uww2RSQOZZ4LJFxH8qRvvVbrvMF.jpg",
+      "season_number": 3,
+      "vote_average": 6.2
+    },
+    {
+      "air_date": "1983-09-29",
+      "episode_count": 21,
+      "id": 2161,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/xO9keMjFoRwAZnMrdXqIl5Fgf56.jpg",
+      "season_number": 4,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "1984-09-27",
+      "episode_count": 22,
+      "id": 2163,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/8lAPyZYt9tE22PnLj4ySGbnyxSv.jpg",
+      "season_number": 5,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "1985-09-26",
+      "episode_count": 21,
+      "id": 2162,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/7EWiLFmvP0tOpb5e667Tau9nvhY.jpg",
+      "season_number": 6,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "1986-10-01",
+      "episode_count": 22,
+      "id": 2159,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/troVh84fcjEyNnKfPZvHr2krAKy.jpg",
+      "season_number": 7,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "1987-10-07",
+      "episode_count": 13,
+      "id": 2160,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/pDyzxEEMniCPp6LYbIouYVyLMCZ.jpg",
+      "season_number": 8,
+      "vote_average": 7.1
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.3,
+  "vote_count": 401,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15112,
+        "known_for_department": "Acting",
+        "name": "Tom Selleck",
+        "original_name": "Tom Selleck",
+        "popularity": 8.8763,
+        "profile_path": "/3JaeMTmbrufVo6BZsLVeRQ9V7JR.jpg",
+        "character": "Thomas Magnum",
+        "credit_id": "5253926b19c29579402a32f9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12296,
+        "known_for_department": "Acting",
+        "name": "John Hillerman",
+        "original_name": "John Hillerman",
+        "popularity": 1.6702,
+        "profile_path": "/zRuuhcWG1jjzZaQaeUEV76guU7D.jpg",
+        "character": "Jonathan Higgins",
+        "credit_id": "542570570e0a263b6e005c9e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42156,
+        "known_for_department": "Acting",
+        "name": "Roger E. Mosley",
+        "original_name": "Roger E. Mosley",
+        "popularity": 1.4658,
+        "profile_path": "/yfwVeu1cPAFgRJEo8WaiBj6dWTS.jpg",
+        "character": "Terry 'TC' Calvin",
+        "credit_id": "542570630e0a263b7a005c92",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 159648,
+        "known_for_department": "Acting",
+        "name": "Larry Manetti",
+        "original_name": "Larry Manetti",
+        "popularity": 1.4655,
+        "profile_path": "/dMvNdXKMC0hHl0pvnKq1o2OYKyv.jpg",
+        "character": "Rick Wright",
+        "credit_id": "54257075c3a368698c0009b1",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 160145,
+        "known_for_department": "Creator",
+        "name": "Donald P. Bellisario",
+        "original_name": "Donald P. Bellisario",
+        "popularity": 1.3274,
+        "profile_path": "/8xjZRZvWfn0aaZVHlYxRUtlqJIR.jpg",
+        "credit_id": "5253926c19c29579402a33df",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219883,
+        "known_for_department": "Production",
+        "name": "Douglas Green",
+        "original_name": "Douglas Green",
+        "popularity": 0.4342,
+        "profile_path": null,
+        "credit_id": "5253926d19c29579402a3421",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219884,
+        "known_for_department": "Production",
+        "name": "Chas. Floyd Johnson",
+        "original_name": "Chas. Floyd Johnson",
+        "popularity": 0.3613,
+        "profile_path": null,
+        "credit_id": "5253926f19c29579402a3465",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 158062,
+        "known_for_department": "Writing",
+        "name": "Reuben Leder",
+        "original_name": "Reuben Leder",
+        "popularity": 0.7889,
+        "profile_path": null,
+        "credit_id": "5253927019c29579402a34a7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219886,
+        "known_for_department": "Production",
+        "name": "Joel Rogosin",
+        "original_name": "Joel Rogosin",
+        "popularity": 0.5334,
+        "profile_path": null,
+        "credit_id": "5253927219c29579402a34e9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219887,
+        "known_for_department": "Production",
+        "name": "Rick Weaver",
+        "original_name": "Rick Weaver",
+        "popularity": 0.0602,
+        "profile_path": null,
+        "credit_id": "5253927319c29579402a352b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 163000,
+        "known_for_department": "Writing",
+        "name": "Andrew Schneider",
+        "original_name": "Andrew Schneider",
+        "popularity": 0.9364,
+        "profile_path": "/bIIpurzC9lyaCCGnJ1I8E0z4E6k.jpg",
+        "credit_id": "5253927319c29579402a356d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68124,
+        "known_for_department": "Writing",
+        "name": "Nick Thiel",
+        "original_name": "Nick Thiel",
+        "popularity": 0.7738,
+        "profile_path": null,
+        "credit_id": "5253927419c29579402a35b3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1217028,
+        "known_for_department": "Production",
+        "name": "Douglas Benton",
+        "original_name": "Douglas Benton",
+        "popularity": 0.755,
+        "profile_path": null,
+        "credit_id": "5253927419c29579402a35f3",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "helicopter",
+        "id": 720
+      },
+      {
+        "name": "hawaii",
+        "id": 1668
+      },
+      {
+        "name": "private investigator",
+        "id": 11168
+      },
+      {
+        "name": "ferrari",
+        "id": 322635
+      },
+      {
+        "name": "dobermann",
+        "id": 344587
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/fog3hdLZKWbU4KZsSZO18mXD6Oz.jpg",
+        "id": 1908,
+        "name": "Miami Vice",
+        "original_name": "Miami Vice",
+        "overview": "The story of the Miami Police Department's vice squad and its efforts to end drug trafficking and prostitution, centered on the unlikely partnership of Sonny Crockett and Ricardo Tubbs - who first meet when Tubbs is undercover in a drug cartel.",
+        "poster_path": "/b5kLqC6eDiA17nq3jr1Vi340Kns.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 45.6819,
+        "first_air_date": "1984-09-16",
+        "vote_average": 7.456,
+        "vote_count": 447,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/bdqL478uP9QSlGINsrSfoBfJaCX.jpg",
+        "id": 209793,
+        "name": "Andropoz",
+        "original_name": "Andropoz",
+        "overview": "Evli ve iki çocuk babası olan tuhafiyeci Yusuf, 50’li yaşlarının başında orta yaş bunalımına girer. Bedeninin yaşlanmasını kafasına takan Yusuf, hem dış görünüşünü hem de yaşam tarzını değiştirmek ister. Yusuf’un en büyük hayali ise, Meryem ile evlendiği günden beri oturduğu evden ayrılıp, deniz kenarında bir eve taşınmaktır. Hayalini gerçekleştirmeye çalışan Yusuf, evi almak için mücadele ederken kendisini beklenmedik durumların içinde bulur.",
+        "poster_path": "/nrefBZxZFcWkBAxRR8dnjVXnMpf.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "tr",
+        "genre_ids": [
+          10751,
+          35,
+          18
+        ],
+        "popularity": 1.2665,
+        "first_air_date": "2022-10-07",
+        "vote_average": 6.318,
+        "vote_count": 22,
+        "origin_country": [
+          "TR"
+        ]
+      },
+      {
+        "backdrop_path": "/tojqnnZHVW5uMT4cZzjINUMysEL.jpg",
+        "id": 9554,
+        "name": "The Life of Birds",
+        "original_name": "The Life of Birds",
+        "overview": "In the documentary series produced by the BBC, The Life of Birds, Sir David Attenborough unveils a new investigation into the behaviour of birds, perfectly adapted animals that conquer the air. This ten-part series reveals the secret of the birds' great success, their remarkable strategies for finding food, their complex social systems, and their ingenious and often bizarre ways of mating and breeding. From the high speed of large airborne hunters to long distance migrations or the bright colors of nectar feeding hummingbirds, this is the ultimate bird series that every ornithologist should not miss.",
+        "poster_path": "/vZ8jprJrmd9c4RZl1AjHzGraZaB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 5.4674,
+        "first_air_date": "1998-10-21",
+        "vote_average": 8.0,
+        "vote_count": 36,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/zAIDLYFLyITzuTTqINAzBMk6Xok.jpg",
+        "id": 49546,
+        "name": "Bizimkiler",
+        "original_name": "Bizimkiler",
+        "overview": "Bizimkiler, 1989-2002 yılları arasında 13 yıl kesintisiz olarak yayınlanmış, Türk televizyonculuk tarihinin en uzun süren dizisidir.\n\nDizi, bir apartmanda oturan, yöneticisinden kapıcısına kadar 7 farklı ailenin gündelik yaşamını, birbirleriyle ilişkilerini ve eksen ailenin, iş ve akrabalık ilişkilerini konu etmektedir. Gündelik yaşam içindeki sıcak, gerilimli, tartışmalı olayları “durum komiği” içinde aktarmaktadır.  Apartmanın beceriksiz ama titiz, herkesi ve her şeyi denetim altında tutmaya çalışan yöneticisi Sabri bey; kapıcılığı küçük avantalarla besleyerek kazanç kapısı haline getirmiş, bunun yanında dışarıda çevirdiği işlerle de köşe dönmeye çalışan, dalavereci kapıcı Cafer’le her gün sürtüşmektedir.  Bütün dizi boyunca süren bu çekişmenin yanında ailelerin kendi içlerindeki ve aralarındaki ilişkiler de bütün bölümlerde ayrı ayrı sergilenmektedir.  Yönetici Sabri, karısı Ayla’nın hırçınlıklarıyla uğraşmaktadır.",
+        "poster_path": "/3Px2e9XgpOhhofAUUT9NRmrARvq.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "tr",
+        "genre_ids": [
+          10751,
+          35
+        ],
+        "popularity": 90.0355,
+        "first_air_date": "1989-01-07",
+        "vote_average": 8.105,
+        "vote_count": 19,
+        "origin_country": [
+          "TR"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 93747,
+        "name": "Ärger im Revier",
+        "original_name": "Ärger im Revier",
+        "overview": "",
+        "poster_path": "/g3OYBvkIOhDyjaSROjO0DnoqcL8.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          10764,
+          99
+        ],
+        "popularity": 1.5275,
+        "first_air_date": "2003-10-06",
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "backdrop_path": "/w0kHwuuNYHcL77Ny8cuBnrRset3.jpg",
+        "id": 566,
+        "name": "Charles in Charge",
+        "original_name": "Charles in Charge",
+        "overview": "Charles, a 19-year-old student at the fictional Copeland College in New Brunswick, New Jersey, works as a live-in babysitter in exchange for room and board.",
+        "poster_path": "/sM3nBqh3iSjPTBMtIFyWnROVLIz.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 22.5024,
+        "first_air_date": "1984-10-03",
+        "vote_average": 6.1,
+        "vote_count": 64,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/olGfr2re6T9DRjEIqMLtFylGPRm.jpg",
+        "id": 5027,
+        "name": "Baa Baa Black Sheep",
+        "original_name": "Baa Baa Black Sheep",
+        "overview": "The dramatized World War II adventures of US Major Gregory \"Pappy\" Boyington and his Marine Attack Squadron 214, AKA The Black Sheep Squadron.",
+        "poster_path": "/u4VN9UMiUfPVgIvtubGQyfrZ581.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10768
+        ],
+        "popularity": 11.4968,
+        "first_air_date": "1976-09-21",
+        "vote_average": 7.663,
+        "vote_count": 40,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4pNHwINB5yGbVoZk5Ck0iPApctZ.jpg",
+        "id": 1059,
+        "name": "T. J. Hooker",
+        "original_name": "T. J. Hooker",
+        "overview": "Sergeant Thomas Jefferson Hooker is a tough-as-nails veteran police officer with the LCPD who turns his back on a gold badge and goes back to patrolling the streets and training recuits. Along with his young partners in blue, Hooker take on Lake City's toughest criminals.",
+        "poster_path": "/zcHUwD20mqMD4g8LKdpKD12QRhE.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 14.8496,
+        "first_air_date": "1982-03-13",
+        "vote_average": 6.3,
+        "vote_count": 82,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/fyPyyWNmzH7Ugt51K8SqiI0SWNI.jpg",
+        "id": 3162,
+        "name": "Tehlike Çemberi",
+        "original_name": "Hart to Hart",
+        "overview": "Zengin ve görkemli bir çift olan Jonathan ve Jennifer Hart, her zaman kendilerini entrika ve maceraların içinde bulurlar. Sadık ve boğuk sesli hizmetçileri Max (Lionel Stander) ile birlikte, bu şık dedektifler Tehlike Çemberi 'nin beş sezonluk yayın hayatı boyunca izleyicileri keyiflendirmiştir. Sidney Sheldon tarafından yaratılan Tehlike Çemberi , çok satan romanları (Master of the Game, The Other Side Of Midnight) ve hit televizyon yapımları (I Dream of Jeannie, The Patty Duke Show) ile tanınan bir yazardır. Tehlike Çemberi, parlak ve esprili diyaloglar, muhteşem kostümler ve hiçbir zaman modası geçmeyen heyecan verici maceralarla dolu akıllı ve seksi bir dedektif draması olarak öne çıkıyor.",
+        "poster_path": "/rK7eHDVQVYwwuxf91rmSNn6ykQn.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          80
+        ],
+        "popularity": 34.6873,
+        "first_air_date": "1979-09-22",
+        "vote_average": 6.818,
+        "vote_count": 118,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9GEghzkUfxWNQ65BbRwfysKOVoS.jpg",
+        "id": 1532,
+        "name": "Starsky & Hutch",
+        "original_name": "Starsky & Hutch",
+        "overview": "Streetwise Detective David Starsky partners up with a more intellectual partner, Kenneth 'Hutch' Hutchinson, to protect citizens and patrol the streets of Bay City.",
+        "poster_path": "/aBj5oTi1uibVcXDoCJeKseJNY2d.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          80
+        ],
+        "popularity": 23.2009,
+        "first_air_date": "1975-09-10",
+        "vote_average": 7.251,
+        "vote_count": 181,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/tUKU1WLqMtIZHUl8lP9bLAJx0nl.jpg",
+        "id": 954,
+        "name": "The Rockford Files",
+        "original_name": "The Rockford Files",
+        "overview": "Cranky but likable L.A. PI Jim Rockford pulls no punches (but takes plenty of them). An ex-con sent to the slammer for a crime he didn't commit, Rockford takes on cases others don't want, aided by his tough old man, his lawyer girlfriend and some shady associates from his past.",
+        "poster_path": "/fniHEsTeqHMg41GlCYJxZVgtn7H.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 53.8787,
+        "first_air_date": "1974-09-13",
+        "vote_average": 7.541,
+        "vote_count": 109,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/nMdyDnHiRpJ2sfqk3JfUb3CvME4.jpg",
+        "id": 47054,
+        "name": "Atlantis",
+        "original_name": "Atlantis",
+        "overview": "Efsanevi kahramanlar ve efsanevi yaratıklar dünyasında bir fantezi tiyatrosu. Gizemli bir yer; Yunan mitolojisinin yaşadığı yer bu Atlantis şehri. İki yeni arkadaşı Pythagoras ve Herkül tarafından desteklenen Jason'ın maceralarını konu alan fantastik bir dünya.",
+        "poster_path": "/bmdlBu7y0pZq3KZwtFFHzWPEsbP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10765
+        ],
+        "popularity": 8.6956,
+        "first_air_date": "2013-09-28",
+        "vote_average": 6.444,
+        "vote_count": 133,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/jJVfPCkCbXrGOWtzfm1bhQg3HBq.jpg",
+        "id": 3382,
+        "name": "Charlie's Angels",
+        "original_name": "Charlie's Angels",
+        "overview": "Beautiful, intelligent, and ultra-sophisticated, Charlie's Angels are everything a man could dream of... and way more than they could ever handle! Receiving their orders via speaker phone from their never seen boss, Charlie, the Angels employ their incomparable sleuthing and combat skills, as well as their lethal feminine charm, to crack even the most seemingly insurmountable of cases.",
+        "poster_path": "/jxyI5V4LZ5rHDrXv7NpPh4EBCAo.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759
+        ],
+        "popularity": 58.1131,
+        "first_air_date": "1976-09-22",
+        "vote_average": 6.7,
+        "vote_count": 211,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/rbpnxXiCHnbNtSOTjlomRQRwcmR.jpg",
+        "id": 3318,
+        "name": "Street Hawk",
+        "original_name": "Street Hawk",
+        "overview": "Street Hawk is an American television series that aired for 13 episodes on ABC in 1985. The series is a Limekiln and Templar Production in association with Universal Television. Its central characters were created by Paul M. Belous and Robert \"Bob\" Wolterstorff, and its core format was developed by Bruce Lansbury, who had initially commissioned the program's creation. This series was originally planned for the fall of 1984, Mondays at 8:00PM Eastern/7:00PM Central. However, ABC executives changed their minds when the summer series Call to Glory did well, and Street Hawk was pushed to mid-season. Street Hawk made its debut on January 4, 1985 on ABC at 9:00PM Eastern/8:00PM Central and ran until May 16, 1985.\n\nReruns aired on the USA Network on Saturdays at 10:00AM from 1990-91.",
+        "poster_path": "/r3bajIlqFrqcd4aztq8E2Dcouur.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          9648,
+          10765,
+          18
+        ],
+        "popularity": 2.9351,
+        "first_air_date": "1985-01-04",
+        "vote_average": 6.833,
+        "vote_count": 96,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uSNmMsfadV5dEhYEwqn6Kojctj9.jpg",
+        "id": 1706,
+        "name": "The Pretender",
+        "original_name": "The Pretender",
+        "overview": "Raised in a secret facility built for experimenting on children, Jarod is a genius who can master any profession and become anyone he has to be. When he realizes as an adult that he's actually a prisoner and his captors are not as benevolent as he's been told, he breaks out. While trying to find his real identity, Jarod helps those he encounters and tries to avoid the woman sent to retrieve him.",
+        "poster_path": "/76q5tPOPQkQYIuZu2SG6viZcp2b.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          10765
+        ],
+        "popularity": 27.1334,
+        "first_air_date": "1996-09-19",
+        "vote_average": 7.4,
+        "vote_count": 195,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/Ao5XqVJj74hYWnnEG98MvRLBHdY.jpg",
+        "id": 3769,
+        "name": "Dynasty",
+        "original_name": "Dynasty",
+        "overview": "The saga of a wealthy Denver family in the oil business: Blake Carrington, the patriarch; Krystle, his former secretary and wife; his children: Adam, lost in childhood after a kidnapping; Fallon, pampered and spoiled; Steven, openly gay; and Amanda, hidden from him by his ex-wife, the conniving Alexis. Most of the show features the conflict between 2 large corporations, Blake's Denver Carrington and Alexis' ColbyCo.",
+        "poster_path": "/bKBTf22IDwD39GbpQ6clYQ2WCtA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 43.2149,
+        "first_air_date": "1981-01-12",
+        "vote_average": 6.483,
+        "vote_count": 116,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9as2hYKrhbKWj4ePtFMftQfEsEX.jpg",
+        "id": 2303,
+        "name": "Hawaii Five-O",
+        "original_name": "Hawaii Five-O",
+        "overview": "Hawaii Five-O is an American police procedural drama series produced by CBS Productions and Leonard Freeman. Set in Hawaii, the show originally aired for 12 seasons from 1968 to 1980, and continues in reruns. Jack Lord portrayed Detective Lieutenant Steve McGarrett, the head of a special state police task force which was based on an actual unit that existed under martial law in the 1940s. The theme music composed by Morton Stevens became especially popular. Many episodes would end with McGarrett instructing his subordinate to \"Book 'em, Danno!\", sometimes specifying a charge such as \"murder one\".",
+        "poster_path": "/8iFAlqhfY1D0ithTrfKTxObPlUH.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "popularity": 70.6071,
+        "first_air_date": "1968-09-20",
+        "vote_average": 7.085,
+        "vote_count": 142,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dieT9MczvZXpCLrIAjs3vKYWKa7.jpg",
+        "id": 894,
+        "name": "The Prisoner",
+        "original_name": "The Prisoner",
+        "overview": "After resigning, a secret agent is abducted and taken to what looks like an idyllic village, but is really a bizarre Kafkaesque prison. His warders demand information. He gives them nothing, but only tries to escape.",
+        "poster_path": "/1FtqAlj6jsBk25PKwL2NrgzdFSo.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765,
+          9648
+        ],
+        "popularity": 8.969,
+        "first_air_date": "1967-09-29",
+        "vote_average": 7.7,
+        "vote_count": 192,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/a6Tv4itpZsHELnmV5Miyw9EfSK7.jpg",
+        "id": 33153,
+        "name": "Fanny and Alexander",
+        "original_name": "Fanny och Alexander",
+        "overview": "Through the eyes of ten-year-old Alexander, we witness the delights and conflicts of the Ekdahl family, a sprawling bourgeois clan in turn-of-the-twentieth-century Sweden.",
+        "poster_path": "/z7zQFnWwuNBXMOixCeHordsic6i.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "sv",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 3.4576,
+        "first_air_date": "1984-12-26",
+        "vote_average": 8.252,
+        "vote_count": 131,
+        "origin_country": [
+          "SE"
+        ]
+      },
+      {
+        "backdrop_path": "/b8fW3cOXCHKWNQw2g37A45RpICk.jpg",
+        "id": 918,
+        "name": "M*A*S*H",
+        "original_name": "M*A*S*H",
+        "overview": "The 4077th Mobile Army Surgical Hospital is stuck in the middle of the Korean war. With little help from the circumstances they find themselves in, they are forced to make their own fun. Fond of practical jokes and revenge, the doctors, nurses, administrators, and soldiers often find ways of making wartime life bearable.",
+        "poster_path": "/6rhuM3oMoEWKxAdrm7IyM8oq8cC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10768,
+          18,
+          35
+        ],
+        "popularity": 98.4946,
+        "first_air_date": "1972-09-17",
+        "vote_average": 7.915,
+        "vote_count": 680,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

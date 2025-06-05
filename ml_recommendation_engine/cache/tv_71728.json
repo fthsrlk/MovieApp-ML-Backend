@@ -1,0 +1,910 @@
+{
+  "adult": false,
+  "backdrop_path": "/nlDBlCtorM7nx130wYnfR5ZmyLX.jpg",
+  "created_by": [
+    {
+      "id": 160172,
+      "credit_id": "5919ad29c3a368423c05a211",
+      "name": "Chuck Lorre",
+      "original_name": "Chuck Lorre",
+      "gender": 2,
+      "profile_path": "/8OTRD3d6N0GKy1Z0LJaWZ3MVxXr.jpg"
+    },
+    {
+      "id": 1224133,
+      "credit_id": "5919ab9ec3a3683fb6053dfd",
+      "name": "Steven Molaro",
+      "original_name": "Steven Molaro",
+      "gender": 2,
+      "profile_path": "/2NZtxlNz5IWS1XoC0MdeBdkUZ5l.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2017-09-25",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Komedi"
+    },
+    {
+      "id": 10751,
+      "name": "Aile"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    }
+  ],
+  "homepage": "https://www.warnerbros.com/tv/young-sheldon",
+  "id": 71728,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2024-05-16",
+  "last_episode_to_air": {
+    "id": 4922129,
+    "name": "Anı Kitabı",
+    "overview": "Yas tutan Mary, yetişkin çocuklarının vaftiz olmasında ısrar eder. Artık bir eş ve baba olan Sheldon ise aile evinden ayrılışını anımsar.",
+    "vote_average": 8.3,
+    "vote_count": 14,
+    "air_date": "2024-05-16",
+    "episode_number": 14,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 7,
+    "show_id": 71728,
+    "still_path": "/8WpVoP3kCYzWJq6oLqictXolheL.jpg"
+  },
+  "name": "Young Sheldon",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 141,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Young Sheldon",
+  "overview": "The Big Bang Theory'nin zeki çocuğu Sheldon'ın 9 yaşındaki haliyle tanışmaya hazır mısınız? Teksas'ta yaşayan dahi çocuk Sheldon Cooper, ne yazık ki gelişmiş matematik yeteneğinin ve sivri zekasının faydasını sosyal hayatında göremez. Sheldon için hayat pek o kadar da kolay olmayacaktır...",
+  "popularity": 88.1251,
+  "poster_path": "/kidkbZRBGbsEIrX7pODRSKi9ipl.jpg",
+  "production_companies": [
+    {
+      "id": 1957,
+      "logo_path": "/qIxtba5CbnJfHCA88czLfTNKW9M.png",
+      "name": "Warner Bros. Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 35504,
+      "logo_path": "/e70DaugzSRbTbVEhZV3e1nCofcY.png",
+      "name": "Chuck Lorre Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-05-28",
+      "episode_count": 5,
+      "id": 177893,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/9rCYh9Eniix53CF6jqhFYiVBoey.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2017-09-25",
+      "episode_count": 22,
+      "id": 88399,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/aW9mbHCdsI0b9UJ7o8Teq9RzL9L.jpg",
+      "season_number": 1,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2018-09-24",
+      "episode_count": 22,
+      "id": 108333,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/2ssD8oXwmCrd42lw9eNUCCynMr9.jpg",
+      "season_number": 2,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2019-09-26",
+      "episode_count": 21,
+      "id": 129338,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/1vcEZVuv3ZwHUb6bm6fSWB9HTJc.jpg",
+      "season_number": 3,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2020-11-05",
+      "episode_count": 18,
+      "id": 165705,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/nQqx3W7LxX0ci3l7xFISFoafzBz.jpg",
+      "season_number": 4,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2021-10-07",
+      "episode_count": 22,
+      "id": 202005,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/5Gf83qYgLY8Qivn7jpv5nxxZPu6.jpg",
+      "season_number": 5,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2022-09-29",
+      "episode_count": 22,
+      "id": 298442,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/MpdROQ5XxQqOMKhJlLUf7PTxIC.jpg",
+      "season_number": 6,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2024-02-15",
+      "episode_count": 14,
+      "id": 365600,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/teajZtLOzeKpbc7B4tOWFHF9MSa.jpg",
+      "season_number": 7,
+      "vote_average": 8.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "The Big Bang Theory'nin arkasındaki küçük beyinlerde.",
+  "type": "Scripted",
+  "vote_average": 8.048,
+  "vote_count": 2704,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1684536,
+        "known_for_department": "Acting",
+        "name": "Iain Armitage",
+        "original_name": "Iain Armitage",
+        "popularity": 3.6258,
+        "profile_path": "/wwBzIjjBLJAOnCXMEuH03JSmXmD.jpg",
+        "character": "Sheldon Cooper",
+        "credit_id": "5919abdbc3a368426905d661",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 133450,
+        "known_for_department": "Acting",
+        "name": "Zoe Perry",
+        "original_name": "Zoe Perry",
+        "popularity": 2.8072,
+        "profile_path": "/zkcRUV0e3jJWI89h4GR1SYxEkzY.jpg",
+        "character": "Mary Cooper",
+        "credit_id": "5919abc8c3a3683a9305619d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1212111,
+        "known_for_department": "Acting",
+        "name": "Lance Barber",
+        "original_name": "Lance Barber",
+        "popularity": 2.8173,
+        "profile_path": "/1yNWnNWN5PAE55ComenWi5chzSj.jpg",
+        "character": "George Cooper",
+        "credit_id": "5919ac2cc3a3683a930561e0",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1817307,
+        "known_for_department": "Acting",
+        "name": "Montana Jordan",
+        "original_name": "Montana Jordan",
+        "popularity": 1.8697,
+        "profile_path": "/hTWj58Uftie14O7nvT2jrSgGkst.jpg",
+        "character": "Georgie Cooper",
+        "credit_id": "5bf7fe88c3a36838ab084e71",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 1575317,
+        "known_for_department": "Acting",
+        "name": "Raegan Revord",
+        "original_name": "Raegan Revord",
+        "popularity": 2.9581,
+        "profile_path": "/mi8iCn1CtbFzfUJk96ft7XaDP16.jpg",
+        "character": "Missy Cooper",
+        "credit_id": "5919ac41925141580d059004",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8873,
+        "known_for_department": "Acting",
+        "name": "Annie Potts",
+        "original_name": "Annie Potts",
+        "popularity": 3.2633,
+        "profile_path": "/hWIzkAH7jkSkxBfwdudxbSPxeno.jpg",
+        "character": "Connie Tucker",
+        "credit_id": "5bf7feaa0e0a261ac2081f22",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 82785,
+        "known_for_department": "Acting",
+        "name": "Emily Osment",
+        "original_name": "Emily Osment",
+        "popularity": 3.3396,
+        "profile_path": "/nEQEIMtO8VvzOmlLYYKYKWy4lMN.jpg",
+        "character": "Mandy McAllister",
+        "credit_id": "61e5941e0cd32a001d3d737f",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5374,
+        "known_for_department": "Acting",
+        "name": "Jim Parsons",
+        "original_name": "Jim Parsons",
+        "popularity": 2.9176,
+        "profile_path": "/4D5oAUeM2wlejSwJJ6TmKoM9Abn.jpg",
+        "character": "Sheldon Cooper (voice)",
+        "credit_id": "5919abb7925141580d058fa0",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5374,
+        "known_for_department": "Acting",
+        "name": "Jim Parsons",
+        "original_name": "Jim Parsons",
+        "popularity": 2.9176,
+        "profile_path": "/4D5oAUeM2wlejSwJJ6TmKoM9Abn.jpg",
+        "credit_id": "5e5ffc61303c8500173f2dfd",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 160172,
+        "known_for_department": "Writing",
+        "name": "Chuck Lorre",
+        "original_name": "Chuck Lorre",
+        "popularity": 1.4078,
+        "profile_path": "/8OTRD3d6N0GKy1Z0LJaWZ3MVxXr.jpg",
+        "credit_id": "60f49d2740d0fe0080534919",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 163528,
+        "known_for_department": "Writing",
+        "name": "Bill Prady",
+        "original_name": "Bill Prady",
+        "popularity": 0.9625,
+        "profile_path": "/voM7AngVEko9ZzNFuv0F53AMTzu.jpg",
+        "credit_id": "60f49d3240d0fe005f346791",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1922973,
+        "known_for_department": "Production",
+        "name": "Todd Spiewak",
+        "original_name": "Todd Spiewak",
+        "popularity": 0.2422,
+        "profile_path": null,
+        "credit_id": "664912080d66df01ca92a40a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72870,
+        "known_for_department": "Production",
+        "name": "Timothy Marx",
+        "original_name": "Timothy Marx",
+        "popularity": 0.5605,
+        "profile_path": null,
+        "credit_id": "6649133e95bd4a4bc08e7e65",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1224133,
+        "known_for_department": "Writing",
+        "name": "Steven Molaro",
+        "original_name": "Steven Molaro",
+        "popularity": 0.8323,
+        "profile_path": "/2NZtxlNz5IWS1XoC0MdeBdkUZ5l.jpg",
+        "credit_id": "664911d25e39a926b095bdf8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 160172,
+        "known_for_department": "Writing",
+        "name": "Chuck Lorre",
+        "original_name": "Chuck Lorre",
+        "popularity": 1.4078,
+        "profile_path": "/8OTRD3d6N0GKy1Z0LJaWZ3MVxXr.jpg",
+        "credit_id": "6649120fa983e37f027c6f69",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54599,
+        "known_for_department": "Sound",
+        "name": "Jeff Cardoni",
+        "original_name": "Jeff Cardoni",
+        "popularity": 1.209,
+        "profile_path": null,
+        "credit_id": "664912b7f02cee3d9e1d486b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1849424,
+        "known_for_department": "Sound",
+        "name": "Rick Norman",
+        "original_name": "Rick Norman",
+        "popularity": 0.7206,
+        "profile_path": null,
+        "credit_id": "676a0baf4df531caf1a9e599",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "prequel",
+        "id": 9675
+      },
+      {
+        "name": "school",
+        "id": 10873
+      },
+      {
+        "name": "sibling",
+        "id": 18027
+      },
+      {
+        "name": "family",
+        "id": 18035
+      },
+      {
+        "name": "sitcom",
+        "id": 193171
+      },
+      {
+        "name": "knowledge",
+        "id": 211986
+      },
+      {
+        "name": "kid genius",
+        "id": 235333
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "tr",
+        "iso_3166_1": "TR",
+        "name": "Young Sheldon - Türkçe Alt Yazılı Fragman",
+        "key": "ARg6wYDQ4cE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "published_at": "2017-10-27T12:04:58.000Z",
+        "id": "644f21c4bdd56802e5cc11d6"
+      }
+    ]
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/sccDflItNho4OiHkzpiDxB2fUFw.jpg",
+        "id": 1418,
+        "name": "The Big Bang Theory",
+        "original_name": "The Big Bang Theory",
+        "overview": "En büyük zevkleri kuantum fiziğine kafa yormak olan üstün zekalı iki arkadaş, güzel bir kızla karşılaşınca ne yaparlar? The Big Bang Theory, işte o karşılaşma anında gerçekleşen büyük patlama ve sonrasını anlatan bir komedi dizisi. Leonard ve Sheldon adlarındaki iki arkadaşın oturdukları apartmanda yan dairelerine yeni bir komşu taşınır. Adı Penny olan bu komşu güzeller güzeli bir sarışındır. Üstelik maceralı bir ilişkiden daha yeni sapasağlam ayakta çıkmıştır. Penny, zekaları gereğinden fazla ilerlemiş, ancak kızlar konusunda oldukça geri kalmış bu yeni iki komşusuna hayat hakkında öğretebileceği bir şeyleri olduğunu düşünmektedir. Yaşanacak olanlar da zaman içinde onun ne kadar haklı olduğunu gösterecektir. ",
+        "poster_path": "/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 84.6161,
+        "first_air_date": "2007-09-24",
+        "vote_average": 7.909,
+        "vote_count": 11703,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2Qg2fViQzWenpUaMjhv0kNhCbE9.jpg",
+        "id": 71738,
+        "name": "The Orville",
+        "original_name": "The Orville",
+        "overview": "300 yıl ileride geçen dizide; dünyanın yıldızlararası filosunda yer alan, çok da iyi olamayan araştırma gemisi U.S.S. Orville'in maceraları konu ediliyor. Kozmik zorluklarla karşılaşan uzay gezginleri arasında hem insanlar hem de uzaylılar bulunuyor. Başka gezegenlerden kişilerin de içinde bulunduğu gemi, ışıktan hızlı ilerleyecek güçte olsa da, her iş yerinde olan eğlenceli problemler burada da meydana geliyor.",
+        "poster_path": "/78xnHh9H5wYcUeZoB0bt1UgInAW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35,
+          10765
+        ],
+        "popularity": 28.7291,
+        "first_air_date": "2017-09-10",
+        "vote_average": 7.622,
+        "vote_count": 1242,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/evJaCkNlgUt55dcOaAJqxD90FWs.jpg",
+        "id": 49011,
+        "name": "Mom",
+        "original_name": "Mom",
+        "overview": "Gerçek aile sevgisini ve işlevsizliği saygısız ve çirkin bir şekilde ele alan dizide; alkolü bırakmaya çalışan bekar bir anne olan Christy, tuzaklarla dolu bir dünyada iki çocuğunu yetiştirmeye çalışmaktadır. Christy'nin hayatına geri dönen ve onun birçok hatasına dair pasif-agresif görüşlerini paylaşmaya hevesli olan annesiyle de mücadele etmesi gerekir.",
+        "poster_path": "/kIi3T7X0kmiV9vGDme146P2d979.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 52.3411,
+        "first_air_date": "2013-09-23",
+        "vote_average": 7.3,
+        "vote_count": 589,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/71PGVaGN2Aiy0nWsmdUWP88ne32.jpg",
+        "id": 49009,
+        "name": "The Goldbergs",
+        "original_name": "The Goldbergs",
+        "overview": "Anne babalığa dair bloglardan önce, 80’ler diye bildiğimiz daha kolay bir zaman vardı. 11 yaşındaki Adam (Sean Giambrone) için bunlar onun merak yıllarıydı. O bu yıllarını videoya kaydetmişti. Goldberg’ler diğer aileler gibi sevimli bir ailedir, tek farkları biraz daha yüksek sesli bağırışları olur. Anne Beverly (Wendi McClendon-Covey) klasik bir annedir; fazla koruyucu yapısıyla bu aileyi sıfır sınırlarla ve yüzde yüz otoriteyle yönetir. Baba Murray (Jeff Garlin) aksi ve sinirli bir babadır ama babalığı bağırmadan yapmaya çalışır. Abla Erica (Hayley Orrantia) 17 yaşındadır ve kimsenin bulaşmaması gereken bir yapısı vardır. Barry (Troy Gentile) 16 yaşındadır ve hep A alan bir çocuktur. Adam (Sam Giambrone) en küçükleridir ve kendisinden daha büyük bir kadına aşık geleceğin yönetmenidir. Tüm ailenin saygı duyduğu kişi ise büyük baba Al “Pops” Solomon’dur (George Segal).",
+        "poster_path": "/pZyaKyry0V1muunoTt6pZ6cLduR.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          35
+        ],
+        "popularity": 44.9786,
+        "first_air_date": "2013-09-24",
+        "vote_average": 7.503,
+        "vote_count": 338,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qoauOMsZq2GXBxVj05Oga0IYPbX.jpg",
+        "id": 1422,
+        "name": "The Middle",
+        "original_name": "The Middle",
+        "overview": "Sporcular, film yıldızları ve politikacılar… Unutun bunları, esas kahramanlar aileler! ABC’nin komedi dizilerinden Warner Bros şirketi tarafından yapımı üstlenilen “The Middle” adlı dizi ise bunların ötesinde; üç çocuk annesi ve sevgi dolu bir eş olan Frankie Heck söz konusu olunca o bir süper kahraman, çünkü hem orta sınıf olan ailesiyle ilgileniyor, hem yaşadıkları Indiana’da kalmak için çabalıyor, hem de hayat akışına göğüs geriyor.",
+        "poster_path": "/pBYSSxbs2vllON4DemdnG5AODJt.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 42.7669,
+        "first_air_date": "2009-09-30",
+        "vote_average": 7.568,
+        "vote_count": 672,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gwy5pUl8EH1vROVWfEo1TAmqHNK.jpg",
+        "id": 62649,
+        "name": "Superstore",
+        "original_name": "Superstore",
+        "overview": "Bir megamarket çalışanlarının aile sıcaklığındaki iş ortamları ve aralarındaki ilişkiler, ortaya muazzam bir komedi çıkartıyor. Müşterilerle aralarında gerçekleşen zorlu pazarlıklarla, mağazada kaybolan çocuklarla, çalınan eşyalarla, soygunlarla ve akla gelmeyecek yüzlerce problemle uğraşacaklar gibi görünüyor. Aile sıcaklığında bir iş ortamına sahip bu insanların birlikte çalışıp sorunların üstesinden gelme çabaları oldukça komik anlar yaşatacak.",
+        "poster_path": "/maBJkaBM4UqAttn9UkLCfZEVEfk.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 41.2626,
+        "first_air_date": "2015-11-30",
+        "vote_average": 7.525,
+        "vote_count": 700,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/hwlWGc8LD6eTN1l1A9vd3geWwtC.jpg",
+        "id": 2691,
+        "name": "Two and a Half Men",
+        "original_name": "Two and a Half Men",
+        "overview": "Malibu sahilinde yaşayan çapkın ve bekar Charlie Harper reklam filmlerine şarkı sözü yazar. Söylediğine bakılırsa, başarılıdır da (iddiasına göre Teenage Mutant Ninja Turtles’ın tema müziği ona aittir). Charlie, yalnız yaşamaktan son derece memnun; ama hemen her gece başka bir kadınla uyumak kaydıyla...\n\nHer şey tam da istediği gibi giderken, günün birinde eşi Judith tarafından kapı önüne konan kuralcı erkek kardeşi Alan ve onun 10 yaşındaki oğlu Jake Charlie’yle yaşamak için ona taşınırlar.\n\nKardeşi Alan ve oğlu Jake ile birlikte yaşama fikri Charlie’ye başta cazip gelmese de sonradan onlara o kadar alışır ki bu aile yaşantısını kaybetmemek için elinden gelen her şeyi yapar.\n\nCharlie ve Alan’ın baskıcı ve her şeye karışan anneleri Evelyn, Charlie’nin “tam bir hayal kırıklığı” olduğunu düşünüyor; Alan’ın ise “onu torun sahibi yaptığı için” hayatını alt üst ettiğini. Charlie’nin yan komşusu Rose ise Charlie’ye takıntılı bir tutkuyla bağlı ve sık sık ziyaretlerine geliyor.",
+        "poster_path": "/A9QDK4OWpv41W27kCv0LXe30k9S.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 183.051,
+        "first_air_date": "2003-09-22",
+        "vote_average": 7.452,
+        "vote_count": 3382,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/b1t0mS2MAqnMdh5opqi94rlDEjn.jpg",
+        "id": 4588,
+        "name": "ER",
+        "original_name": "ER",
+        "overview": "1994 yılında ER yayına başladığında televizyon tarihinin geri dönülmez evrelerinden biri de başladı. Gösterime girdiği ilk sezon ABD’de tüm reytingleri alt üst eden dizi daha önceki hastane dizilerinin başaramadığını başararak türe yepyeni bir atılım getirdi. Chicago’da bir hastanenin acil servisini her yönüyle ekrana taşıyan ER’ın hikayeleri öncelikle doktorlar, hemşireler, tıp öğrencileri ve diğer hastane personeli üzerine yoğunlaşıyor. İkincil öykü çıkış noktası ise hastaların yaşadığı problemler.",
+        "poster_path": "/fuS63AoFTkprf8PFeL1f8z68zJr.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 45.261,
+        "first_air_date": "1994-09-19",
+        "vote_average": 7.819,
+        "vote_count": 852,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/3MmRal3Uw3O0TVMvhfM63Z3mPz3.jpg",
+        "id": 126027,
+        "name": "Ghosts",
+        "original_name": "Ghosts",
+        "overview": "Güzel bir kır evinin kendilerine miras kalmasıyla hayallerinin gerçekleştiğine inanan güzel çift Samantha ve Jay'i büyük bir sürpriz bekliyor! Daha önce ölen bir grup insanla aynı evde yaşamaya başlayan çiftin maceraları konu edinmektedir.",
+        "poster_path": "/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 40.9369,
+        "first_air_date": "2021-10-07",
+        "vote_average": 7.905,
+        "vote_count": 258,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4iuWl9irvIsFMyFvIpZdSP8VN0z.jpg",
+        "id": 42272,
+        "name": "Baby Daddy",
+        "original_name": "Baby Daddy",
+        "overview": "Genç bir barmenin hayatı, kapısının önüne bırakılan bir bebeği kardeşi, arkadaşı ve çocukluk aşkıyla birlikte büyütmeye karar vermesiyle değişir.",
+        "poster_path": "/lwpaNYFacUITOtfIZ1UDq7vnKeD.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 23.1844,
+        "first_air_date": "2012-06-20",
+        "vote_average": 7.1,
+        "vote_count": 195,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sIdedEB5hZNQhDCVY3pgRXny89z.jpg",
+        "id": 118906,
+        "name": "Paraleller",
+        "original_name": "Parallèles",
+        "overview": "Dört arkadaş Bilal, Romane, Samuel ve Victor'un hayatları, gizemli bir olay onların kendi dünyalarından koparılmasını ve her birinin kendilerini farklı bir paralel dünyada bulmasını sağladığında tamamen alt üst olur. Dördünün her biri tam olarak ne olduğunu anlamak ve orijinal dünyalarına dönmenin bir yolunu aramak için mümkün olan her şeyi yapar.",
+        "poster_path": "/o259EJfN0tQl7smNXs7Rpz4t8H0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          10759,
+          10765
+        ],
+        "popularity": 1.8103,
+        "first_air_date": "2022-03-23",
+        "vote_average": 7.717,
+        "vote_count": 138,
+        "origin_country": [
+          "FR"
+        ]
+      },
+      {
+        "backdrop_path": "/3zRUiH8erHIgNUBTj05JT00HwsS.jpg",
+        "id": 52,
+        "name": "That '70s Show",
+        "original_name": "That '70s Show",
+        "overview": "That 70's Show, 1998-2006 yılları arasında 8 sezon boyunca Amerika Fox televizyonunda yayınlanmış bir komedi sitcom dizisidir. Türkiye'de uzun bir süre TV8 ekranlarında yayınlanmıştır, şu anda da Comedy Smart kanalında yayını sürmektedir.Dizi, 70'li yıllarda hayali kasaba olan Point Place'de yaşayan bir grup genç etrafında geçiyor ve 70'li yılların Amerikan gençlik kültürünü konu alıyor. Dizinin ana karakterlerinden Eric ve tayfasının her bölümde yaptıkları bol dumanlı ve anlamsız bodrum muhabbetleri dizinin en eğlenceli bölümünü oluşturuyor.70'li yılların moda kıyafetleri, şarkıları, sosyal ve politik olayları, diziye konuk oyuncu olarak katılan o dönemin ünlüleri dizinin dikkat çeken önemli unsurlarında biridir. That 70's Show, bir kez Emmy ödülü kazanmıştır ve sekiz kezde aday gösterilmiştir. Dizi, Emmy dışında da bir çok ödül almaya hak kazanmış, bir çok ödüle de aday gösterilmiştir.",
+        "poster_path": "/laEZvTqM80UaplUaDSCCbWhlyEV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751,
+          18
+        ],
+        "popularity": 86.8438,
+        "first_air_date": "1998-08-23",
+        "vote_average": 7.945,
+        "vote_count": 1466,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zFJxwXtW3Y7FSDrc2FnVFpQCcY1.jpg",
+        "id": 79680,
+        "name": "Snowpiercer",
+        "original_name": "Snowpiercer",
+        "overview": "Dünya buzlarla kaplanınca hayatta kalan son insanlar dünyanın çevresini dolaşan dev bir trende yaşar. Ancak trendeki hassas dengeyi bozmadan birlikte yaşamak çok zordur.",
+        "poster_path": "/exKzfiKzMdQBHrdd7zNmKauJkbg.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 30.1884,
+        "first_air_date": "2020-05-17",
+        "vote_average": 7.385,
+        "vote_count": 1288,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2Tw7TtT5CY9ecVPpzZ3gkmPjTX4.jpg",
+        "id": 63314,
+        "name": "Club de Cuervos",
+        "original_name": "Club de Cuervos",
+        "overview": "When the patriarch of a prominent family dies, his heirs battle to determine who will gain control of his beloved soccer team: The Cuervos of Nuevo Toledo.",
+        "poster_path": "/fctsQt5NjZg5VxFVr9amJpHCjzo.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 11.6817,
+        "first_air_date": "2015-08-07",
+        "vote_average": 8.411,
+        "vote_count": 302,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/aCbOj4wc6vQUUVNKppssj2PYUy0.jpg",
+        "id": 96580,
+        "name": "Resident Alien",
+        "original_name": "Resident Alien",
+        "overview": "Dark Hose’un aynı adlı çizgi roman serisinden uyarlanan “Resident Alien”da dünyaya düşen bir uzaylı, gizli görevini tamamlayabilmek için kasaba doktorunun yerine geçer.",
+        "poster_path": "/5van3ktOTqWr5lcixh5aR8NlqqW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765
+        ],
+        "popularity": 22.1894,
+        "first_air_date": "2021-01-27",
+        "vote_average": 7.815,
+        "vote_count": 809,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4OQnb2QoifmFCe3TnUS2kxt3afM.jpg",
+        "id": 4615,
+        "name": "Herkül: Efsanevi Seyahatler",
+        "original_name": "Hercules: The Legendary Journeys",
+        "overview": "Bu yarı mitolojik kostümlü dizide, Zeus’un başka bir kadından oğlu olan ve Hera’nın bu sebeple nefret ettiği Herkül çalışmalarını ve Argonotların yolculuğunu tamamladıktan sonra bir Olimposlu olarak yaşamıyor, ölümsüzlüğü reddediyor ve dünyadaki kötülüklerle savaşmaya devam ediyor. Yunanistan’da ve dışında Iolaus ve bazen de tehlikeli Salmoneus ile dolaşıyor. Yolda karşısında sürekli zorluklar çıkıyor. Bu zorlukların çoğunu Hera yaratmış olsa da, Herkül her zaman zafer kazanıp çaresiz ölümlülere yardım edip yeni maceralara doğru yoluna devam ediyor",
+        "poster_path": "/AbmVXsi7Btr6cvppvaHAZflnjTC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10765
+        ],
+        "popularity": 30.2408,
+        "first_air_date": "1995-01-29",
+        "vote_average": 6.963,
+        "vote_count": 539,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5WVAGHTNMWhNwk5l3FoeAScmw7M.jpg",
+        "id": 2673,
+        "name": "The O.C.",
+        "original_name": "The O.C.",
+        "overview": "Avukat Sandy Cohen, zor koşullarda asi genç bir adam olan 16 yaşındaki Ryan Atwood'u hapishaneden kurtardığında, çocuğun zekasını tanır. Potansiyelini Çin sokaklarında boşa harcamamaya karar vererek, çocuğu Newport Beach'in banliyösündeki evine götürmeye karar verdi - karısının Kirsten dehşetine. Fakat Ryan'ın ortaya çıkışıyla yaşamı temelde değiştiren tek kişi Ryan değil, Ryan'ın da zengin ve güzel hayatının Chino sokaklarındakinden çok farklı olduğunu fark etmek zorunda.",
+        "poster_path": "/xDc6BMGDaeyalpSZ9KKk7RCBCz5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 55.3023,
+        "first_air_date": "2003-08-05",
+        "vote_average": 7.757,
+        "vote_count": 855,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/kSqEenES71d1ApF2rRWxp5X0en5.jpg",
+        "id": 156902,
+        "name": "Kaleidoscope",
+        "original_name": "Kaleidoscope",
+        "overview": "Usta bir hırsız, ekibiyle beraber 7 milyar dolarlık destansı ve ayrıntılı bir soyguna girişir. Ancak ihanet, açgözlülük ve diğer tehditler planlarını bozar.",
+        "poster_path": "/2nXJoSB5Y6R9ne7pjqL7Cs3zqY1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 7.5591,
+        "first_air_date": "2023-01-01",
+        "vote_average": 6.88,
+        "vote_count": 415,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/f3cin9kOz4nOrlYEMxGFQhv4bdN.jpg",
+        "id": 71712,
+        "name": "The Good Doctor",
+        "original_name": "The Good Doctor",
+        "overview": "Otistik ve Savant Sendromlu Shaun Murphy isimli genç bir cerrah, prestijli bir hastanenin çocuk cerrahisi birimine yerleştirilir. Şu sorunun cevabı aranır: İnsanlarla iletişim kurma yeteneğine sahip olmayan bir kişi insanların hayatlarını kurtarabilir mi? Yalnız ve çevresindeki kişilerle iletişim kuramayan Shaun, hastalarının hayatlarını kurtarmak ve meslektaşlarının şüphelerini yok etmek için olağanüstü yeteneklerini kullanır.",
+        "poster_path": "/HW3aPHzgPbhl77BdBZAozVTfSm.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 109.7774,
+        "first_air_date": "2017-09-25",
+        "vote_average": 8.477,
+        "vote_count": 12543,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/26JD1Ob6bAeOqHPlTdcdyjtNx5E.jpg",
+        "id": 4500,
+        "name": "The Wonder Years",
+        "original_name": "The Wonder Years",
+        "overview": "The story of Kevin Arnold facing the trials and tribulations of youth while growing up during the 1960s and 70s. Told through narration from an adult Kevin, Kevin faces the difficulties of maintaining relationships and friendships on his enthralling journey into adulthood.",
+        "poster_path": "/tkaduqdhFrF1vp8L55OJfB5jw8Z.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18,
+          10751
+        ],
+        "popularity": 61.4209,
+        "first_air_date": "1988-01-31",
+        "vote_average": 8.3,
+        "vote_count": 1020,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

@@ -1,0 +1,938 @@
+{
+  "adult": false,
+  "backdrop_path": "/lcuacKO5gwY2IjdmgAoEgSlsaTV.jpg",
+  "created_by": [
+    {
+      "id": 227330,
+      "credit_id": "5257263d760ee3776a2699a9",
+      "name": "Glen A. Larson",
+      "original_name": "Glen A. Larson",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1976-10-03",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Suç"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 9648,
+      "name": "Gizem"
+    }
+  ],
+  "homepage": "",
+  "id": 2179,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1983-05-11",
+  "last_episode_to_air": {
+    "id": 152948,
+    "name": "24. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "1983-05-11",
+    "episode_number": 24,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 8,
+    "show_id": 2179,
+    "still_path": "/qg8SbcT1bUwDJtZO9ZslICjESIc.jpg"
+  },
+  "name": "Quincy, M.E.",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 148,
+  "number_of_seasons": 8,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Quincy, M.E.",
+  "overview": "",
+  "popularity": 83.8439,
+  "poster_path": "/e0bsxZqhE5fhRjaX2LKu8GuKccE.jpg",
+  "production_companies": [
+    {
+      "id": 26727,
+      "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 6905,
+      "logo_path": null,
+      "name": "Glen A. Larson Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 104278,
+      "logo_path": null,
+      "name": "Universal Television Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1976-10-03",
+      "episode_count": 4,
+      "id": 6654,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/8Z8yrt5iXX2ugM4qVdinxCa3lBX.jpg",
+      "season_number": 1,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "1977-02-04",
+      "episode_count": 13,
+      "id": 6655,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/8Z8yrt5iXX2ugM4qVdinxCa3lBX.jpg",
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1977-09-16",
+      "episode_count": 20,
+      "id": 6656,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/kPi9TusaBhme3SBQ3yEY2ag3NEA.jpg",
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1978-09-21",
+      "episode_count": 23,
+      "id": 6659,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/kJLCJhZnu9hylxnW5unKVQGOMrW.jpg",
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1979-09-20",
+      "episode_count": 22,
+      "id": 6660,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/vA9AMxWbDzFzZk8qPCBs2fPrvRz.jpg",
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1980-09-16",
+      "episode_count": 18,
+      "id": 6657,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/hMzy71Sj95ALJpIz8jVXXcVoKq4.jpg",
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1981-10-28",
+      "episode_count": 24,
+      "id": 6661,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/9PAvk6hwO56NbrvwnGJ53klBb0G.jpg",
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1982-09-29",
+      "episode_count": 24,
+      "id": 6658,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/juX99i0PTbOH4PXUQ9Qcq0vo3S8.jpg",
+      "season_number": 8,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.486,
+  "vote_count": 109,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5250,
+        "known_for_department": "Acting",
+        "name": "Jack Klugman",
+        "original_name": "Jack Klugman",
+        "popularity": 1.9969,
+        "profile_path": "/oJxveOxlunD8C9OczqKeryU0k6D.jpg",
+        "character": "Quincy",
+        "credit_id": "5257263d760ee3776a26979f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 122154,
+        "known_for_department": "Acting",
+        "name": "Robert Ito",
+        "original_name": "Robert Ito",
+        "popularity": 2.5442,
+        "profile_path": "/9QDa4UAvCWlNyzPP2exAHDcsN5g.jpg",
+        "character": "Sam Fujiyama",
+        "credit_id": "5257263d760ee3776a269765",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 107068,
+        "known_for_department": "Acting",
+        "name": "Val Bisoglio",
+        "original_name": "Val Bisoglio",
+        "popularity": 1.4423,
+        "profile_path": "/hxHOZKWalOfKXSiYr3jEuQEiL0k.jpg",
+        "character": "Danny Tovo",
+        "credit_id": "5257263d760ee3776a2697d9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1216956,
+        "known_for_department": "Acting",
+        "name": "John S. Ragin",
+        "original_name": "John S. Ragin",
+        "popularity": 1.3099,
+        "profile_path": "/yMweQTShOxYNyLrvfypneJo1Dh4.jpg",
+        "character": "Robert Asten",
+        "credit_id": "5257263d760ee3776a269813",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1184610,
+        "known_for_department": "Acting",
+        "name": "Garry Walberg",
+        "original_name": "Garry Walberg",
+        "popularity": 1.2997,
+        "profile_path": "/m1ACkjK5Xftm72x7YDXvia43WRT.jpg",
+        "character": "Frank Monahan",
+        "credit_id": "5257263d760ee3776a26984d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2310360,
+        "known_for_department": "Acting",
+        "name": "Joseph Roman",
+        "original_name": "Joseph Roman",
+        "popularity": 0.6746,
+        "profile_path": null,
+        "character": "Sergeant Brill",
+        "credit_id": "64ac7bc23e2ec800af7ea3cf",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 227330,
+        "known_for_department": "Writing",
+        "name": "Glen A. Larson",
+        "original_name": "Glen A. Larson",
+        "popularity": 1.8595,
+        "profile_path": null,
+        "credit_id": "5257263d760ee3776a2699b5",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 151351,
+        "known_for_department": "Directing",
+        "name": "Winrich Kolbe",
+        "original_name": "Winrich Kolbe",
+        "popularity": 0.9075,
+        "profile_path": null,
+        "credit_id": "5257263d760ee3776a2699ef",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1185253,
+        "known_for_department": "Directing",
+        "name": "Lester Wm. Berke",
+        "original_name": "Lester Wm. Berke",
+        "popularity": 0.4432,
+        "profile_path": null,
+        "credit_id": "5257263f760ee3776a269a2b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1229731,
+        "known_for_department": "Production",
+        "name": "William O. Cairncross",
+        "original_name": "William O. Cairncross",
+        "popularity": 0.2528,
+        "profile_path": null,
+        "credit_id": "52572640760ee3776a269a67",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44808,
+        "known_for_department": "Writing",
+        "name": "Sam Egan",
+        "original_name": "Sam Egan",
+        "popularity": 1.0032,
+        "profile_path": null,
+        "credit_id": "52572641760ee3776a269aa3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1216977,
+        "known_for_department": "Writing",
+        "name": "David Moessinger",
+        "original_name": "David Moessinger",
+        "popularity": 0.8539,
+        "profile_path": null,
+        "credit_id": "52572641760ee3776a269adf",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 108272,
+        "known_for_department": "Acting",
+        "name": "Richard Irving",
+        "original_name": "Richard Irving",
+        "popularity": 0.8659,
+        "profile_path": "/8afGmdULAetbRAcjtr0mTlOE1HC.jpg",
+        "credit_id": "52572641760ee3776a269b25",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146776,
+        "known_for_department": "Writing",
+        "name": "Jud Kinberg",
+        "original_name": "Jud Kinberg",
+        "popularity": 0.771,
+        "profile_path": null,
+        "credit_id": "52572642760ee3776a269b63",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 116406,
+        "known_for_department": "Production",
+        "name": "Edward Montagne",
+        "original_name": "Edward Montagne",
+        "popularity": 1.1962,
+        "profile_path": null,
+        "credit_id": "52572642760ee3776a269baf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51757,
+        "known_for_department": "Production",
+        "name": "Christopher Morgan",
+        "original_name": "Christopher Morgan",
+        "popularity": 0.8834,
+        "profile_path": null,
+        "credit_id": "52572642760ee3776a269bef",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 372172,
+        "known_for_department": "Production",
+        "name": "Robert F. O'Neill",
+        "original_name": "Robert F. O'Neill",
+        "popularity": 0.6254,
+        "profile_path": null,
+        "credit_id": "52572642760ee3776a269c2b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 151747,
+        "known_for_department": "Writing",
+        "name": "B.W. Sandefur",
+        "original_name": "B.W. Sandefur",
+        "popularity": 0.8166,
+        "profile_path": null,
+        "credit_id": "52572643760ee3776a269c67",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43922,
+        "known_for_department": "Writing",
+        "name": "Michael Sloan",
+        "original_name": "Michael Sloan",
+        "popularity": 2.7474,
+        "profile_path": "/kQz3R9EF52DbNiHreq8wza1HTVn.jpg",
+        "credit_id": "52572643760ee3776a269ca1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1229734,
+        "known_for_department": "Production",
+        "name": "Peter J. Thompson",
+        "original_name": "Peter J. Thompson",
+        "popularity": 0.2514,
+        "profile_path": null,
+        "credit_id": "52572645760ee3776a269cdf",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "los angeles, california",
+        "id": 12670
+      },
+      {
+        "name": "doctor",
+        "id": 13005
+      },
+      {
+        "name": "coroner",
+        "id": 156179
+      },
+      {
+        "name": "murder investigation",
+        "id": 161982
+      },
+      {
+        "name": "medical examination",
+        "id": 190433
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/tUKU1WLqMtIZHUl8lP9bLAJx0nl.jpg",
+        "id": 954,
+        "name": "The Rockford Files",
+        "original_name": "The Rockford Files",
+        "overview": "Cranky but likable L.A. PI Jim Rockford pulls no punches (but takes plenty of them). An ex-con sent to the slammer for a crime he didn't commit, Rockford takes on cases others don't want, aided by his tough old man, his lawyer girlfriend and some shady associates from his past.",
+        "poster_path": "/fniHEsTeqHMg41GlCYJxZVgtn7H.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 53.8787,
+        "first_air_date": "1974-09-13",
+        "vote_average": 7.541,
+        "vote_count": 109,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/aAwsbpt43lWZGwsoy8VzAZbgHS7.jpg",
+        "id": 4467,
+        "name": "Late Night with David Letterman",
+        "original_name": "Late Night with David Letterman",
+        "overview": "Late Night with David Letterman is a nightly hour-long comedy talk show on NBC that was created and hosted by David Letterman. It premiered in 1982 as the first incarnation of the Late Night franchise and went off the air in 1993, after Letterman left NBC and moved to Late Show on CBS. Late Night with Conan O'Brien then filled the time slot. As of March 2, 2009, the slot has been filled by Late Night with Jimmy Fallon. It will be filled by Seth Meyers in the spring of 2014, after Fallon becomes host of The Tonight Show.",
+        "poster_path": "/kSraSPTeNoiR60ti9amNqLvM3Em.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 207.2722,
+        "first_air_date": "1982-02-01",
+        "vote_average": 5.808,
+        "vote_count": 52,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lKS9ISa5DtHnVX4cI8I8OrDvHsn.jpg",
+        "id": 80210,
+        "name": "Rig 45",
+        "original_name": "Rig 45",
+        "overview": "When Andrea, a damage regulator from Benthos Oil, is sent out to Rig 45 two days before Christmas to investigate a fatal accident, the rig is hit by a hurricane and all communications lost. Soon, the crew realize that the accident is in fact a murder, and they now know that they are in real danger.",
+        "poster_path": "/qrTE8fy8Hvx71QjdJcipG9MqWMw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "sv",
+        "genre_ids": [
+          80
+        ],
+        "popularity": 3.2432,
+        "first_air_date": "2018-06-08",
+        "vote_average": 6.2,
+        "vote_count": 22,
+        "origin_country": [
+          "SE"
+        ]
+      },
+      {
+        "backdrop_path": "/OUj3QIwydIDdckv1z45hheojlJ.jpg",
+        "id": 4554,
+        "name": "Raines",
+        "original_name": "Raines",
+        "overview": "Raines is a crime drama television series focused on Michael Raines, a 'mentally haunted' LAPD detective, who interacts with imaginary manifestations of dead crime victims in order to solve criminal cases. Raines must deal with his unique, unintentional method, as it causes problems with his co-workers and in his personal life.",
+        "poster_path": "/qBl0okmhCzSZT89YfYsvBYyKrzu.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 4.3589,
+        "first_air_date": "2007-03-15",
+        "vote_average": 7.5,
+        "vote_count": 14,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wvnAIBwDLdDHOj60HZFi9BBtxCZ.jpg",
+        "id": 947,
+        "name": "Cheyenne",
+        "original_name": "Cheyenne",
+        "overview": "Cheyenne Bodie was a big man, a former army scout who went west after the American Civil War and drifted from job to job, here a cowboy, there a lawman, and always a larger-than-life hero.\n\nCHEYENNE is an American western television series of 108 black-and-white episodes broadcast on ABC from 1955 to 1963. The show was the first hour-long western, and in fact the first hour-long dramatic series of any kind, with continuing characters, to last more than one season. It was also the first series to be made by a major Hollywood film studio which did not derive from its established film properties, and the first of a long chain of Warner Brothers original series produced by William T. Orr.",
+        "poster_path": "/osdglTGStAMbThkUsVJ0DRzvwrq.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          37,
+          18
+        ],
+        "popularity": 26.194,
+        "first_air_date": "1955-09-20",
+        "vote_average": 5.8,
+        "vote_count": 21,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/slZLirUAduYaPxmoDzTIq4K9vkZ.jpg",
+        "id": 32697,
+        "name": "Harry's Law",
+        "original_name": "Harry's Law",
+        "overview": "Harriet, Matthew and Malcolm couldn't be any more different, but when they cross paths, they realize they're all looking for a fresh start. The most unlikely of people are starting a law practice in the most unlikely of places -- a rundown shoe store.",
+        "poster_path": "/agFM2SKoUYgAFz2YiRhfva8hdDU.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 10.4868,
+        "first_air_date": "2011-01-17",
+        "vote_average": 7.3,
+        "vote_count": 40,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/q6MvCf2qJsAsCAEzVImYV3j5aNL.jpg",
+        "id": 509,
+        "name": "CHiPs",
+        "original_name": "CHiPs",
+        "overview": "Lighthearted look at the adventures of two Highway Patrol officers in Los Angeles. The main characters are Jon Baker and Frank Poncherello, two motorcycle officers always on the street to save lives.",
+        "poster_path": "/1464ScbUZQ22RjFtRtGiv4i2Zrs.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759
+        ],
+        "popularity": 9.5303,
+        "first_air_date": "1977-09-15",
+        "vote_average": 6.8,
+        "vote_count": 126,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vMOiUNrYK7PgZUrYgCrmctLejZM.jpg",
+        "id": 68708,
+        "name": "Roman Empire",
+        "original_name": "Roman Empire",
+        "overview": "This stylish mix of documentary and historical epic chronicles the reign of Commodus, the emperor whose rule marked the beginning of Rome's fall.",
+        "poster_path": "/uzgEzk9wve2O0uDPMy68SDLkjTl.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          99
+        ],
+        "popularity": 4.7095,
+        "first_air_date": "2016-11-11",
+        "vote_average": 6.921,
+        "vote_count": 101,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/6gJwjU5NMOSsJhgeVQAgg1zb9vU.jpg",
+        "id": 2473,
+        "name": "The Avengers",
+        "original_name": "The Avengers",
+        "overview": "A quirky spy show of the adventures of eccentrically suave British Agent John Steed and his predominantly female partners. Jonathan Steed - an urbane, proper gentleman spy - teams with various assistants throughout the series' run, including Dr. David Keel, Cathy Gale, Emma Peel and Tara King, to repeatedly save the world from diabolical schemes plotted by equally diabolical evil-doers (among them robots and man-eating monsters).",
+        "poster_path": "/n6Ouc7ncZuvxPETgeBI1e4NlCP5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          80,
+          10765
+        ],
+        "popularity": 61.0085,
+        "first_air_date": "1961-01-07",
+        "vote_average": 7.7,
+        "vote_count": 136,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/4ubxzr6wNZElImE3EOUsjxvVjYw.jpg",
+        "id": 2686,
+        "name": "Three's Company",
+        "original_name": "Three's Company",
+        "overview": "When two single girls, Janet and Chrissy, need a roommate to share their Santa Monica apartment, they decide to offer a room to Jack, a man they find passed out in the bathtub after the going-away party for their last roommate. However, hijinks ensure when Jack must pretend to be gay in order to throw off the scent of the trio's conservative landlady.",
+        "poster_path": "/6xn9XQ5iwJIa1FkoZAFtnh5tAQl.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 56.0419,
+        "first_air_date": "1977-03-15",
+        "vote_average": 7.7,
+        "vote_count": 161,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5tGYbT3irV4ZuO7M65HewlVT6fx.jpg",
+        "id": 2730,
+        "name": "I Love Lucy",
+        "original_name": "I Love Lucy",
+        "overview": "Cuban Bandleader Ricky Ricardo would be happy if his wife Lucy would just be a housewife. Instead she tries constantly to perform at the Tropicana where he works, and make life comically frantic in the apartment building they share with landlords Fred and Ethel Mertz, who also happen to be their best friends.",
+        "poster_path": "/mPUSrFTvQqwEqTtfukxJBtkbxWj.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 70.4726,
+        "first_air_date": "1951-10-15",
+        "vote_average": 7.91,
+        "vote_count": 229,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ibLYptKeE64xa3zzfgbLcBjtN09.jpg",
+        "id": 44549,
+        "name": "Nashville",
+        "original_name": "Nashville",
+        "overview": "Connie Britton'ın kariyerinin zirvesindeki bir yıldızı, Hayden Panettiere'nin ise yükselişteki bir müzisyeni canlandırdığı country müzikle ilgili aile dizisidir.",
+        "poster_path": "/oZ2K2cPeWURnQjCxrvSEnaEcIST.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 41.3972,
+        "first_air_date": "2012-10-10",
+        "vote_average": 6.57,
+        "vote_count": 235,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/jwFJrUXj0SEAVpZsgvRUBi5trLL.jpg",
+        "id": 2919,
+        "name": "Burn Notice",
+        "original_name": "Burn Notice",
+        "overview": "A formerly blacklisted spy uses his unique skills and training to help people in desperate situations.",
+        "poster_path": "/o2fnD3SNiQjGVgA2C3ezaeh2HK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          80
+        ],
+        "popularity": 32.58,
+        "first_air_date": "2007-06-28",
+        "vote_average": 7.46,
+        "vote_count": 518,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cP82Jtvn7DwVt0mWaDFm7QhWHez.jpg",
+        "id": 94951,
+        "name": "Mythic Quest",
+        "original_name": "Mythic Quest",
+        "overview": "Tüm zamanların en büyük çok oyunculu video oyununun arkasındaki ekiple tanışın. Dünyalar inşa etmeye, kahramanlar tasarlamaya ve efsaneler yaratmaya odaklanmış bir iş yerinde en büyük savaşlar oyunda değil ofiste yaşanır.",
+        "poster_path": "/7QxQlpqEjx3vRpEtuh6Y0R6eY9O.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 25.8817,
+        "first_air_date": "2020-02-07",
+        "vote_average": 7.229,
+        "vote_count": 380,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vPWjtsNklEMYiSF0BiQ1QLHbCSC.jpg",
+        "id": 14009,
+        "name": "The Addams Family",
+        "original_name": "The Addams Family",
+        "overview": "A satirical inversion of the ideal of the perfect American nuclear family, they are an eccentric wealthy family who delight in everything grotesque and macabre, and are never really aware that people find them bizarre or frightening. In fact, they themselves are often terrified by \"normal\" people.",
+        "poster_path": "/9eqmCtAY9d2WwafLBYXRKYepgeA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 29.47,
+        "first_air_date": "1964-09-18",
+        "vote_average": 8.0,
+        "vote_count": 399,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/kRRYafjTZh8gnZDLKSg5imj80es.jpg",
+        "id": 1663,
+        "name": "The Six Million Dollar Man",
+        "original_name": "The Six Million Dollar Man",
+        "overview": "Follow the adventures of Steve Austin, cybernetically enhanced astronaut turned secret agent, employed by the OSI, under the command of Oscar Goldman and supervised by the scientist who created his cybernetics, Rudy Wells. Steve uses the superior strength and speed provided by his bionic arm and legs, and the enhanced vision provided by his artificial eye, to fight enemy agents, aliens, mad scientists, and a wide variety of other villains.",
+        "poster_path": "/5pd6DayQgZxK9lQHdZZYZuXyaZ2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 47.7088,
+        "first_air_date": "1974-01-18",
+        "vote_average": 7.249,
+        "vote_count": 405,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/aEvoRR2lcesBoKJSSqDqsppQrKJ.jpg",
+        "id": 2192,
+        "name": "Robotech",
+        "original_name": "Robotech",
+        "overview": "Robotech is an 85-episode adaptation of three different anime television series made between 1982-1984 in Japan; the adaptation was aired in 1985. Within the combined and edited story, Robotechnology refers to the scientific advances discovered in an alien starship that crashed on a South Pacific island. With this technology, Earth developed giant robotic machines or mecha to fight three successive extraterrestrial invasions.",
+        "poster_path": "/f3SIr4To9Tuie4I9D2U41XsIbpC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          18,
+          10765
+        ],
+        "popularity": 8.8641,
+        "first_air_date": "1985-03-04",
+        "vote_average": 8.498,
+        "vote_count": 333,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4FqKFhF4BrNsrK3EdRpVJofVqCp.jpg",
+        "id": 3452,
+        "name": "Frasier",
+        "original_name": "Frasier",
+        "overview": "Kelsey Grammer’in başrolde olduğu Frasier, beşi üst üste olmak üzere 21 Emmy Ödülü kazanmayı başarmış son derece başarılı bir komedi. İki psikaytr olan Crane Kardeşler olmak üzere hemen her karakterinin sergilediği ‘hastalıklı davranış halleri’ ve aralarındaki ilişkiler üzerine gelişen dizinin her bölümünde ‘yeterli dozda’ nevroz haliyle karşı karşıya kalacaksınız.\n\nİkisi de eşlerinden boşanmış Crane Kardeşler’in özenle döşenmiş evlerinde, pahalı içki ve sigaralarla süsledikleri ‘elit’ yaşamları, emekli polis memuru babaları Martin’in, Frasier’ın evin taşınmasıyla birlikte ciddi bir değişime uğruyor. Martin’in köpeği Eddie ve bir süre sonra eve taşınan bakıcısı Daphne de bu büyük değişimin kahramanları arasında. Bir yanda Frasier Crane’in seçkinci tavrı, diğer yanda Martin ve Daphne’nin avam yaşam tarzları...\n\nNBC’de Salı günleri gösterilen Frasier, geçen yıl 18-49 yaş grubu izleyiciler arasında en çok izlenen program olarak reyting sıralamalarında NBC’yi ilk sırayı aldı. 6.8 rating ve 17’lik paylaşım payıyla NBC’nin yayın tarihi boyunca Salı günü 21.00-21.30 diliminde en büyük zaferine imza atmış oldu. Diğer yandan son sezonu ABD’de yaklaşık 15.9 milyon kişi tarafından izlendi. Frasier’ın ilk bölümü de ABD’de 28.6 milyon kişi taraından izlenerek bu alanda bir rekora imza atmıştı...",
+        "poster_path": "/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 95.8582,
+        "first_air_date": "1993-09-16",
+        "vote_average": 7.666,
+        "vote_count": 799,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sh7GRlX4d7j3XSTeyGZnlKqkHGk.jpg",
+        "id": 1447,
+        "name": "Psych",
+        "original_name": "Psych",
+        "overview": "Psych dizisi tam anlamıyla CSI serileriyle ve Medium dizisiyle komedinin harmanlanması diyebiliriz. Biraz daha ayrıntıya girelim o zaman...\n\nDizinin kısaca konusuna değinmek gerekirse, polis bir babanın oğlu olan Shaw'ın süper bir hafızası ve çok kuvvetli bir analiz yapma yeteneği vardır. Shawn bu yeteneklerini, çözülmesi zor olan suçların aydınlatılmasında kullanmaktadır. İzlediği suç ağırlıklı haberlerden, suçu kimin nasıl işlediğini var olan deliller doğrultusunda hafızasında birleştirerek suçluların yakalanmasını kolaylaştırmaktadır. Dizinin pilot bölümü bu tarzda gelişen olaylardan oluşmaktadır.",
+        "poster_path": "/fDI15gTVbtW5Sbv5QenqecRxWKJ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18,
+          9648,
+          80
+        ],
+        "popularity": 54.9482,
+        "first_air_date": "2006-07-07",
+        "vote_average": 7.871,
+        "vote_count": 855,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/A2qdFRq9oJDC5E7fbgSS4POUMDF.jpg",
+        "id": 1426,
+        "name": "Luther",
+        "original_name": "Luther",
+        "overview": "İşine bağlı bir dedektif, çözdüğü suçların altında yatan psikolojik etkenlerle mücadele ederken kendi kişisel hayatının kontrolünü elinde tutmaya çalışır.",
+        "poster_path": "/hDxOMX8zzH1FiqKWVBzNaYGBkle.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 15.2428,
+        "first_air_date": "2010-05-04",
+        "vote_average": 7.855,
+        "vote_count": 1083,
+        "origin_country": [
+          "GB"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

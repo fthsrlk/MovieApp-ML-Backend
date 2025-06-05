@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}MovieApp{% endblock %}</title> {# Her sayfanın kendi başlığını ayarlayabilmesi için block #}
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    {% block head_extra %}{% endblock %} {# Her sayfaya özel ek CSS veya meta etiketleri için #}
+</head>
+<body class="{% if request.endpoint == 'index' %}page-index fullpage-active{% else %}page-standard{% endif %}">
+    {# Sabit Ana Sayfa Butonu #}
+    <a href="{{ url_for('index') }}" class="home-button-fixed" id="home-button-fixed" aria-label="Ana Sayfa">
+        <i class="fas fa-home"></i>
+    </a>
+
+    {# Hamburger Menü Butonu #}
+    <button class="hamburger-menu-button" id="hamburger-menu-button" aria-label="Menüyü Aç/Kapat" aria-expanded="false">
+        <span></span>
+        <span></span>
+        <span></span>
+    </button>
+
+    {# Overlay Navigasyon Menüsü #}
+    <nav class="overlay-nav" id="overlay-nav">
+        <button class="overlay-nav-close" id="overlay-nav-close" aria-label="Menüyü Kapat">&times;</button>
+        <ul>
+            <li><a href="{{ url_for('index') }}" class="overlay-nav-item {% if request.endpoint == 'index' %}active{% endif %}">Ana Sayfa</a></li>
+            <li><a href="{{ url_for('search') }}" class="overlay-nav-item {% if request.endpoint == 'search' %}active{% endif %}">Ara</a></li>
+            <li><a href="{{ url_for('watchlist') }}" class="overlay-nav-item {% if request.endpoint == 'watchlist' %}active{% endif %}">İzleme Listem</a></li>
+            <li><a href="{{ url_for('recommendations') }}" class="overlay-nav-item {% if request.endpoint == 'recommendations' %}active{% endif %}">Öneriler</a></li>
+            <li><button id="clearAllDataBtnOverlay" class="overlay-nav-item btn-danger">Tüm Verileri Temizle</button></li> {# ID değiştirildi #}
+        </ul>
+    </nav>
+
+    {# Eski Header kaldırılacak veya gizlenecek. Şimdilik gizleyelim. #}
+    <header class="header" style="display: none !important;">
+        <div class="container header-container">
+            <a href="{{ url_for('index') }}" class="logo">MovieApp</a>
+            <nav class="nav">
+                {# Navigasyon linklerinin aktif durumunu request.endpoint ile kontrol edebilirsiniz #}
+                <a href="{{ url_for('index') }}" class="nav-item {% if request.endpoint == 'index' %}active{% endif %}">Ana Sayfa</a>
+                <a href="{{ url_for('search') }}" class="nav-item {% if request.endpoint == 'search' %}active{% endif %}">Ara</a>
+                <a href="{{ url_for('watchlist') }}" class="nav-item {% if request.endpoint == 'watchlist' %}active{% endif %}">İzleme Listem</a>
+                <a href="{{ url_for('recommendations') }}" class="nav-item {% if request.endpoint == 'recommendations' %}active{% endif %}">Öneriler</a>
+                <button id="clearAllDataBtn" class="nav-item btn-danger" style="cursor: pointer; border: none; color: white; background-color: var(--secondary-color); padding: 10px 18px; border-radius: var(--border-radius); margin-left: 25px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">Tüm Verileri Temizle</button>
+            </nav>
+        </div>
+    </header>
+
+    {% if request.endpoint == 'index' %}
+        {# Ana sayfanın hero bölümü ve diğer fullpage sectionları index.html'in kendi content bloğunda olacak #}
+    {% else %}
+    <section class="hero page-hero" style="padding: 60px 0; min-height: auto; background: var(--primary-color); display: none !important;"> {# Bu da gizlenebilir #}
+         <div class="container">
+             <h1>{% block page_title %}{% endblock %}</h1>
+         </div>
+     </section>
+    {% endif %}
+
+    <main id="main-content-wrapper">
+        {% block content %}{% endblock %}
+    </main>
+
+    <div class="notification-container"></div>
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+    {% block scripts_extra %}{% endblock %}
+</body>
+</html> 

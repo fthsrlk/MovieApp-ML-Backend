@@ -1,0 +1,1048 @@
+{
+  "adult": false,
+  "backdrop_path": "/3xKJ0nyUTlySmMBCpOcsuSnFPI1.jpg",
+  "belongs_to_collection": null,
+  "budget": 15000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Korku"
+    },
+    {
+      "id": 9648,
+      "name": "Gizem"
+    }
+  ],
+  "homepage": "",
+  "id": 1232546,
+  "imdb_id": "tt30955489",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Until Dawn",
+  "overview": "Kız kardeşi Melanie'nin gizemli bir şekilde kaybolmasının üzerinden bir yıl geçtikten sonra, Clover ve arkadaşları cevaplar bulmak için kız kardeşinin ortadan kaybolduğu ücra vadiye doğru yola çıkarlar. Terk edilmiş bir ziyaretçi merkezini keşfederken, maskeli bir katil tarafından takip edildiklerini ve korkunç bir şekilde teker teker öldürüldüklerini fark ederler... ancak sonra uyanıp kendilerini aynı akşamın başlangıcına dönmüş olarak bulurlar.",
+  "popularity": 46.6269,
+  "poster_path": "/6O9nkcmZBymDXtxOGJmulqcxJdv.jpg",
+  "production_companies": [
+    {
+      "id": 125281,
+      "logo_path": "/3hV8pyxzAJgEjiSYVv1WZ0ZYayp.png",
+      "name": "PlayStation Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 149696,
+      "logo_path": "/w0ARek3q2bIKGfoM2WRsFOqyYCB.png",
+      "name": "Coin Operated",
+      "origin_country": "US"
+    },
+    {
+      "id": 125060,
+      "logo_path": "/9giIHcLFMEQhYByHBvPB2ZuQSM8.png",
+      "name": "Mångata",
+      "origin_country": "US"
+    },
+    {
+      "id": 829,
+      "logo_path": "/aXqwCvJSCDbTclkxAYfsT1l4Dsa.png",
+      "name": "Vertigo Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 3287,
+      "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+      "name": "Screen Gems",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-04-23",
+  "revenue": 36401579,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Şafağa kadar dayanabilir misin?",
+  "title": "Şafağa Kadar",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 142,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3307906,
+        "known_for_department": "Acting",
+        "name": "Ella Rubin",
+        "original_name": "Ella Rubin",
+        "popularity": 2.4386,
+        "profile_path": "/8AKz6wWvokDM4N4tMGIoyv0wYsl.jpg",
+        "cast_id": 11,
+        "character": "Clover Paul",
+        "credit_id": "666c7ee8edc6901197188671",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2342988,
+        "known_for_department": "Acting",
+        "name": "Michael Cimino",
+        "original_name": "Michael Cimino",
+        "popularity": 2.1071,
+        "profile_path": "/jZeicDN4rlQ4uMxI1UWTeM57FFa.jpg",
+        "cast_id": 12,
+        "character": "Max",
+        "credit_id": "666c7ef2feb3f941562d07ad",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1972166,
+        "known_for_department": "Acting",
+        "name": "Odessa A'zion",
+        "original_name": "Odessa A'zion",
+        "popularity": 3.3187,
+        "profile_path": "/meS7AUhkbybFiDtQyeczQ6rxO0F.jpg",
+        "cast_id": 14,
+        "character": "Nina Riley",
+        "credit_id": "666c7f0388ec5a30c2249e7c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2983147,
+        "known_for_department": "Acting",
+        "name": "Ji-young Yoo",
+        "original_name": "Ji-young Yoo",
+        "popularity": 1.7619,
+        "profile_path": "/4jgtqpNWhMx8XOKQ9qQJvDdzbxG.jpg",
+        "cast_id": 13,
+        "character": "Megan",
+        "credit_id": "666c7efa90beee441c38af1f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2286570,
+        "known_for_department": "Acting",
+        "name": "Belmont Cameli",
+        "original_name": "Belmont Cameli",
+        "popularity": 1.7735,
+        "profile_path": "/yJwjcWwDdHkCeTLGgbKkSJdXXVc.jpg",
+        "cast_id": 18,
+        "character": "Abel",
+        "credit_id": "66ad2f81ca4548c3b0b2aab9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 992366,
+        "known_for_department": "Acting",
+        "name": "Maia Mitchell",
+        "original_name": "Maia Mitchell",
+        "popularity": 2.565,
+        "profile_path": "/4gxrYpXlUyHebEEouwLT6BgPo65.jpg",
+        "cast_id": 17,
+        "character": "Melanie Paul",
+        "credit_id": "66ad2f6ab271fff9d2a3d5da",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53,
+        "known_for_department": "Acting",
+        "name": "Peter Stormare",
+        "original_name": "Peter Stormare",
+        "popularity": 4.4935,
+        "profile_path": "/5muzSVt66Qxc8KuVbq0phZIN9tj.jpg",
+        "cast_id": 26,
+        "character": "Dr. Alan Hill",
+        "credit_id": "67ae604ad63e9deeea370436",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5092748,
+        "known_for_department": "Acting",
+        "name": "Zsófia Temesvári",
+        "original_name": "Zsófia Temesvári",
+        "popularity": 0.3224,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Wendigo Melanie Paul",
+        "credit_id": "680d00f7baac1c5a7d80e3ef",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3515824,
+        "known_for_department": "Crew",
+        "name": "Tibor Szauerwein",
+        "original_name": "Tibor Szauerwein",
+        "popularity": 0.5743,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Psycho",
+        "credit_id": "680d01b25b2ebd5b9537a9cb",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1302131,
+        "known_for_department": "Acting",
+        "name": "Lotta Losten",
+        "original_name": "Lotta Losten",
+        "popularity": 0.5683,
+        "profile_path": "/k6C2tAU9EvFpBlLx9O2fKEVRFwx.jpg",
+        "cast_id": 34,
+        "character": "Reporter",
+        "credit_id": "680d01e4f769f0af6a80e2d0",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3270774,
+        "known_for_department": "Acting",
+        "name": "Mariann Hermányi",
+        "original_name": "Mariann Hermányi",
+        "popularity": 1.1002,
+        "profile_path": "/yvzk4xb681pwfgtXjeVC7pkkHA8.jpg",
+        "cast_id": 30,
+        "character": "Glore Witch",
+        "credit_id": "6803ba92e506a8e3a0ad7e6c",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1775164,
+        "known_for_department": "Acting",
+        "name": "Willem van der Vegt",
+        "original_name": "Willem van der Vegt",
+        "popularity": 1.1588,
+        "profile_path": "/bVZQqpk95R5Np4ygZa4gCM0mo4p.jpg",
+        "cast_id": 27,
+        "character": "Pleading Man",
+        "credit_id": "67ae605e2375bfc5f6d0e905",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5092741,
+        "known_for_department": "Acting",
+        "name": "Ádám Bot",
+        "original_name": "Ádám Bot",
+        "popularity": 0.1318,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Wendigo",
+        "credit_id": "680d02c68077d2580137b16a",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3521888,
+        "known_for_department": "Crew",
+        "name": "Ádám Kocsis",
+        "original_name": "Ádám Kocsis",
+        "popularity": 0.2642,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Wendigo",
+        "credit_id": "680d02e5f769f0af6a80e33c",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5398340,
+        "known_for_department": "Acting",
+        "name": "Adrienn Mész",
+        "original_name": "Adrienn Mész",
+        "popularity": 0.0512,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Wendigo",
+        "credit_id": "680d03278077d2580137b1a7",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5398341,
+        "known_for_department": "Acting",
+        "name": "Ádám Zambryzcki",
+        "original_name": "Ádám Zambryzcki",
+        "popularity": 0.0509,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Wendigo",
+        "credit_id": "680d03aa10d1e453d2eaba11",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5398343,
+        "known_for_department": "Acting",
+        "name": "Boglárka Heim",
+        "original_name": "Boglárka Heim",
+        "popularity": 0.0795,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Wendigo",
+        "credit_id": "680d03f9f769f0af6a80e3b6",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1302082,
+        "known_for_department": "Directing",
+        "name": "David F. Sandberg",
+        "original_name": "David F. Sandberg",
+        "popularity": 1.7495,
+        "profile_path": "/3AlGnSR8jYUHaoXzFwVM6Hnjklt.jpg",
+        "cast_id": 31,
+        "character": "Missing person (voice)",
+        "credit_id": "680afba5130f76eb3b9d2d59",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1302082,
+        "known_for_department": "Directing",
+        "name": "David F. Sandberg",
+        "original_name": "David F. Sandberg",
+        "popularity": 1.7495,
+        "profile_path": "/3AlGnSR8jYUHaoXzFwVM6Hnjklt.jpg",
+        "credit_id": "65a8660e2c6b7b012ba1afee",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1302082,
+        "known_for_department": "Directing",
+        "name": "David F. Sandberg",
+        "original_name": "David F. Sandberg",
+        "popularity": 1.7495,
+        "profile_path": "/3AlGnSR8jYUHaoXzFwVM6Hnjklt.jpg",
+        "credit_id": "65a9d4e868afd60130509f66",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1338249,
+        "known_for_department": "Writing",
+        "name": "Gary Dauberman",
+        "original_name": "Gary Dauberman",
+        "popularity": 2.0084,
+        "profile_path": "/iQvToa3ShnLoEPMomwNt7SNnOjm.jpg",
+        "credit_id": "65a9d538e267de012ba2e2fb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1302131,
+        "known_for_department": "Acting",
+        "name": "Lotta Losten",
+        "original_name": "Lotta Losten",
+        "popularity": 0.5683,
+        "profile_path": "/k6C2tAU9EvFpBlLx9O2fKEVRFwx.jpg",
+        "credit_id": "65a9d54e357c0000cbd69047",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21036,
+        "known_for_department": "Production",
+        "name": "Roy Lee",
+        "original_name": "Roy Lee",
+        "popularity": 2.4938,
+        "profile_path": "/fMY0MiVyrGaK44ejqWzT2txcRVI.jpg",
+        "credit_id": "65a9d561c433ea00c5745f84",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2457600,
+        "known_for_department": "Production",
+        "name": "Asad Qizilbash",
+        "original_name": "Asad Qizilbash",
+        "popularity": 0.7745,
+        "profile_path": "/hZdqsU1EmLsPDnW2LElvoRlSaFp.jpg",
+        "credit_id": "65a9d575534661012bcd1143",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1058615,
+        "known_for_department": "Production",
+        "name": "Carter Swan",
+        "original_name": "Carter Swan",
+        "popularity": 0.8126,
+        "profile_path": null,
+        "credit_id": "65a9d58a0c4c1600d17b5fab",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2858779,
+        "known_for_department": "Production",
+        "name": "Mia Maniscalco",
+        "original_name": "Mia Maniscalco",
+        "popularity": 0.4155,
+        "profile_path": null,
+        "credit_id": "666c7f6ab404fb07205a0d14",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23461,
+        "known_for_department": "Camera",
+        "name": "Maxime Alexandre",
+        "original_name": "Maxime Alexandre",
+        "popularity": 1.1683,
+        "profile_path": "/W0YnA5kR1g0PBliPg78ZQPeYO9.jpg",
+        "credit_id": "66b17fb5ebfc26b919c61598",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2061346,
+        "known_for_department": "Production",
+        "name": "Charles Miller",
+        "original_name": "Charles Miller",
+        "popularity": 0.953,
+        "profile_path": null,
+        "credit_id": "670ee7a07a22bf3607f267a8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3390262,
+        "known_for_department": "Production",
+        "name": "Hermen Hulst",
+        "original_name": "Hermen Hulst",
+        "popularity": 0.5259,
+        "profile_path": "/oR5Y1Rt6mczrI5dboZzDED30lU5.jpg",
+        "credit_id": "67872c29caa53e90987af5e1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1222758,
+        "known_for_department": "Writing",
+        "name": "Blair Butler",
+        "original_name": "Blair Butler",
+        "popularity": 1.6672,
+        "profile_path": "/7Jy5dHgA9QFz1nXZMy8mIf69Euy.jpg",
+        "credit_id": "67872cabf38b5d3338bafd5b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1338249,
+        "known_for_department": "Writing",
+        "name": "Gary Dauberman",
+        "original_name": "Gary Dauberman",
+        "popularity": 2.0084,
+        "profile_path": "/iQvToa3ShnLoEPMomwNt7SNnOjm.jpg",
+        "credit_id": "67872cb0caa53e90987af60f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1417979,
+        "known_for_department": "Visual Effects",
+        "name": "Viktor Müller",
+        "original_name": "Viktor Müller",
+        "popularity": 2.0357,
+        "profile_path": null,
+        "credit_id": "67b28569169e365af69fbc5e",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1638135,
+        "known_for_department": "Visual Effects",
+        "name": "Lenka Líkařová",
+        "original_name": "Lenka Líkařová",
+        "popularity": 0.9959,
+        "profile_path": null,
+        "credit_id": "67b2857ebe1135c1d86dd4ae",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40825,
+        "known_for_department": "Sound",
+        "name": "Benjamin Wallfisch",
+        "original_name": "Benjamin Wallfisch",
+        "popularity": 2.2034,
+        "profile_path": "/dWcshjk0OUi3stGFFrwZIsYKZfQ.jpg",
+        "credit_id": "680e59395b2ebd5b95381223",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 616,
+        "name": "witch"
+      },
+      {
+        "id": 10224,
+        "name": "haunting"
+      },
+      {
+        "id": 8303,
+        "name": "abandoned house"
+      },
+      {
+        "id": 10349,
+        "name": "survival"
+      },
+      {
+        "id": 10854,
+        "name": "time loop"
+      },
+      {
+        "id": 18508,
+        "name": "exploding body"
+      },
+      {
+        "id": 34079,
+        "name": "death"
+      },
+      {
+        "id": 41645,
+        "name": "based on video game"
+      },
+      {
+        "id": 158126,
+        "name": "creature feature"
+      },
+      {
+        "id": 193167,
+        "name": "wendigo"
+      },
+      {
+        "id": 207046,
+        "name": "murder mystery"
+      },
+      {
+        "id": 228795,
+        "name": "butterfly effect"
+      },
+      {
+        "id": 256183,
+        "name": "supernatural horror"
+      },
+      {
+        "id": 283085,
+        "name": "body horror"
+      },
+      {
+        "id": 295907,
+        "name": "psychological horror"
+      },
+      {
+        "id": 342197,
+        "name": "missing people"
+      },
+      {
+        "id": 342995,
+        "name": "teen scream"
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "tr",
+        "iso_3166_1": "TR",
+        "name": "Until Dawn: Şafağa Kadar | İlk Fragman",
+        "key": "8Wr4oNobXVU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "published_at": "2025-01-16T14:03:07.000Z",
+        "id": "67892402a64feb16c91d4cb3"
+      }
+    ]
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/c1EYO6aAScOIF9PhfIF95W4EqCe.jpg",
+        "id": 1212121,
+        "title": "Homem com H",
+        "original_title": "Homem com H",
+        "overview": "Homem com H will move between different phases of singer Ney Matogrosso's career, going through his childhood, adolescence, adulthood and maturity. The film is a journey through time and follows a boy from humble origins who is passionate about nature, who frees himself from oppression and authority figures, breaks prejudices and becomes one of the most influential artists of his generation.",
+        "poster_path": "/zPP99GqMKRrCuRPTKLHFjkt9BjT.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "pt",
+        "genre_ids": [
+          18,
+          10402
+        ],
+        "popularity": 3.7591,
+        "release_date": "2025-05-01",
+        "video": false,
+        "vote_average": 9.4,
+        "vote_count": 9
+      },
+      {
+        "backdrop_path": "/yBQ9dkm9BtWtVwUyiAb6bH9adiJ.jpg",
+        "id": 1284514,
+        "title": "Sweet Jesus",
+        "original_title": "Doux Jésus",
+        "overview": "Sister Lucie, a dedicated nun, decides to flee her convent after 20 years to find her love of youth. It is for her the beginning of an extraordinary adventure.",
+        "poster_path": "/txVRgUJqOS1FsteeqAzBIS0aZpX.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 0.3821,
+        "release_date": "2025-04-09",
+        "video": false,
+        "vote_average": 6.222,
+        "vote_count": 9
+      },
+      {
+        "backdrop_path": "/6jwgr2nr4s48C3tHVk6F0rBQyHI.jpg",
+        "id": 100193,
+        "title": "Terror Squad",
+        "original_title": "Terror Squad",
+        "overview": "A squad of Libyan terrorists infiltrate the city of Kokomo, Indiana, with the goal of car bombing a nuclear power plant. While attempting to escape local law enforcement, a massive car chase ensues, terrorizing the entire town before the terrorists end up at the local high school and take the detention class hostage. Will they escape? Will the crafty delinquents foil their plans? Will Chuck Connors step more than two feet away from his car? Watch and find out!",
+        "poster_path": "/5ZmvMkMYkAnBJR9YsplXj9E8F8x.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          53
+        ],
+        "popularity": 0.3151,
+        "release_date": "1988-04-01",
+        "video": false,
+        "vote_average": 4.615,
+        "vote_count": 13
+      },
+      {
+        "backdrop_path": "/vD4TtuuPKpj0yfhBovQfI6PFGfw.jpg",
+        "id": 83913,
+        "title": "The Carrier",
+        "original_title": "The Carrier",
+        "overview": "An orphaned teen is attacked by a mysterious beast and struck with an infectious disease that turns everything he touches into a death trap.",
+        "poster_path": "/ex7j6okHHR1VP9bACdkRzBbctnO.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          27,
+          53
+        ],
+        "popularity": 0.2505,
+        "release_date": "1988-08-01",
+        "video": false,
+        "vote_average": 5.174,
+        "vote_count": 23
+      },
+      {
+        "backdrop_path": "/ncdoorCh3P5yyaqOq0iv6nL1EYO.jpg",
+        "id": 1064758,
+        "title": "Planet B",
+        "original_title": "Planète B",
+        "overview": "France, 2039. One night, a group of activists who are being pursued by the State vanish without a trace. Julia Bombarth is one of them. When she awakens, she finds herself trapped in an entirely unfamiliar world: PLANET B.",
+        "poster_path": "/zCi5WZbYeFkM1KsOcbSv2qd37Bf.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          878,
+          53
+        ],
+        "popularity": 4.8755,
+        "release_date": "2024-12-25",
+        "video": false,
+        "vote_average": 4.75,
+        "vote_count": 18
+      },
+      {
+        "backdrop_path": "/x1BFYlbgziCMXM34aGbeWF2mphc.jpg",
+        "id": 857570,
+        "title": "Landfill",
+        "original_title": "Landfill",
+        "overview": "When a little girl begins to see the ghost of another girl her age shortly after finding a necklace at a landfill, she embarks on a journey to help the ghost discover the mystery behind her death.",
+        "poster_path": "/fvt9M2b4ulqkBCWJmAT1vhhzWzB.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          80,
+          14
+        ],
+        "popularity": 0.4101,
+        "release_date": "2023-10-17",
+        "video": false,
+        "vote_average": 5.167,
+        "vote_count": 6
+      },
+      {
+        "backdrop_path": "/ppuxcqXnMUhaJBNlAqqeGjw7198.jpg",
+        "id": 438128,
+        "title": "Doctor Who: Meglos",
+        "original_title": "Doctor Who: Meglos",
+        "overview": "On the lush planet Tigella, two opposing factions are divided over the usage of the Dodecahedron, an ancient and powerful artefact which provides the entire planet's energy. The Doctor is summoned to arbitrate the conflict, but the power-crazed Meglos intercepts the call and impersonates him in order to steal the Dodecahedron.",
+        "poster_path": "/iB5EXc1zX2apWnu2NQ5L0CxMwEN.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          18,
+          878,
+          10770
+        ],
+        "popularity": 0.1394,
+        "release_date": "1980-10-18",
+        "video": true,
+        "vote_average": 6.0,
+        "vote_count": 1
+      },
+      {
+        "backdrop_path": "/2OKBeiYlEBwWs8LUaZbYl7ZPJZE.jpg",
+        "id": 1208983,
+        "title": "Neighborhood Watch",
+        "original_title": "Neighborhood Watch",
+        "overview": "When a mentally ill young man thinks he witnesses an abduction and the police refuse to believe him, he reluctantly turns to his next door neighbor – a bitter, retired security guard – to help him find the missing woman.",
+        "poster_path": "/dtSYJ20Qy1yLM9KTnv2SUEfxekO.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          53
+        ],
+        "popularity": 12.3722,
+        "release_date": "2025-04-25",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 27
+      },
+      {
+        "backdrop_path": "/vN9QaRYvfAEYKaSNhmH42JODEhg.jpg",
+        "id": 1285199,
+        "title": "WWE WrestleMania 41: Sunday",
+        "original_title": "WWE WrestleMania 41: Sunday",
+        "overview": "John Cena vies for his record 17th World Title when he challenges Cody Rhodes for the Undisputed WWE Championship at Allegiant Stadium in Las Vegas.",
+        "poster_path": "/ngRfoPVEEI36COa5TVf1vrv57Ia.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [],
+        "popularity": 2.7935,
+        "release_date": "2025-04-20",
+        "video": true,
+        "vote_average": 6.446,
+        "vote_count": 28
+      },
+      {
+        "backdrop_path": "/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
+        "id": 986056,
+        "title": "Thunderbolts*",
+        "original_title": "Thunderbolts*",
+        "overview": "Yelena Belova önderliğinde, MCU'nun en beklenmedik kahramanlarından oluşan aykırı bir takım bir araya geliyor. Valentina Allegra de Fontaine’in kurduğu ölümcül bir tuzağa düşen bu dışlanmış karakterler, geçmişlerinin en karanlık yönleriyle yüzleşmek zorunda kalacakları tehlikeli bir göreve çıkacaklar.",
+        "poster_path": "/yTTURwDVR7ZZKhGFsH0MlX9LzpK.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          878
+        ],
+        "popularity": 395.8187,
+        "release_date": "2025-04-30",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 676
+      },
+      {
+        "backdrop_path": "/gKfmVuT9WIKZrpAlR8a8vIVEBGJ.jpg",
+        "id": 614722,
+        "title": "Hell House LLC III: Lake of Fire",
+        "original_title": "Hell House LLC III: Lake of Fire",
+        "overview": "Set one year after the events of Hell House LLC II, the hotel is on the verge of being torn down when it is purchased by billionaire Russell Wynn as the new home for his popular interactive show, Insomnia. He invites journalist Venessa Sheppard and her crew to record everything happening inside the hotel leading up to the performance - but they soon encounter a more nefarious plot, one that threatens to unleash a veritable hell on earth.",
+        "poster_path": "/gchygJq6AnzGFg0uYRDKn7mqsyU.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          9648
+        ],
+        "popularity": 1.3154,
+        "release_date": "2019-09-19",
+        "video": false,
+        "vote_average": 5.217,
+        "vote_count": 143
+      },
+      {
+        "backdrop_path": "/kpnpn5h7s2jBoW86Gdvzqpv9LGK.jpg",
+        "id": 1256223,
+        "title": "Dove osano le cicogne",
+        "original_title": "Dove osano le cicogne",
+        "overview": "A couple is desperately looking to conceive a child and moves to Spain to get the help of a renowned doctor. Their plans change after they meet an apparently perfect girl that volunteers to carry on the pregnancy in their place.",
+        "poster_path": "/2u0F5uo9FtyxCU5MoBSgd7vISP1.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "it",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 0.8345,
+        "release_date": "2025-01-01",
+        "video": false,
+        "vote_average": 6.24,
+        "vote_count": 52
+      },
+      {
+        "backdrop_path": "/2CcMG34v4PCynvxwmBUwVtNqsKL.jpg",
+        "id": 1249213,
+        "title": "Drop: Kabul Et veya Reddet",
+        "original_title": "Drop",
+        "overview": "Yıllar sonra ilk randevusuna çıkan dul bir anne olan Violet, beklediğinden daha yakışıklı ve çekici olan randevusu Henry ile şık bir restorana geldiğinde rahatlar. Ancak Violet, telefonuna gelen anonim mesajlarla önce sinirlenmeye, sonra korkmaya başlar ve ikilinin kimyaları bozulmaya başlar. Violet’a kimseye söylememesi ve verilen talimatları takip etmesi söylenir, yoksa evinin güvenlik kameralarında gördüğü kapüşonlu kişi, Violet’ın küçük oğlunu ve bakıcı kız kardeşini öldürecektir. Violet, sevdiklerinin hayatlarını kurtarmak için tam olarak verilen talimatları yerine getirmek zorundadır. Görünmeyen zalimin son talimatı? Henry’i öldür.",
+        "poster_path": "/jQfpBRdgXQ0oxIQKjfSVrBzc0Av.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          53
+        ],
+        "popularity": 83.6773,
+        "release_date": "2025-04-10",
+        "video": false,
+        "vote_average": 6.549,
+        "vote_count": 273
+      },
+      {
+        "backdrop_path": "/oog0DJtSuPnWoSTYM7cKmAFbeuU.jpg",
+        "id": 16372,
+        "title": "Masumlar",
+        "original_title": "The Innocents",
+        "overview": "Miss Giddens; bir papazın kızı olarak yetişmiş, deneyimsiz bir mürebbiyedir.  Öksüz ve yetim iki kardeş olan Flora ve Miles'in bakımını üstlenmesi amacıyla onların sorumluluğundan kaçmak isteyen amcaları tarafından tutulur. Miss Giddens, Londra'nın dışında, Bly House'da hizmetçilerle birlikte yaşayan çocukların bakımı konusunda amcalarının isteğiyle her türlü sorumluluğu alır. Gotik Bly House'da yaşamaya başladıkça oraya ait gizli sırları da keşfetmeye başlar.",
+        "poster_path": "/idqvLBmlEHUITMnQ0EJ6Yb5TpVw.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          9648
+        ],
+        "popularity": 1.5848,
+        "release_date": "1961-12-15",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 611
+      },
+      {
+        "backdrop_path": "/r4X2xRrWleVgx0kahP27xRmm3ia.jpg",
+        "id": 1083968,
+        "title": "Tuzak",
+        "original_title": "Locked",
+        "overview": "Filmin merkezinde, ailesini geçindirmek için bir araba çalmaya kalkışan Eddie yer alıyor. Ancak çalmaya çalıştığı aracın sahibi William, uzaktan kontrolle Eddie’yi otomobilin içine kilitliyor. Bu noktadan itibaren, daracık bir alan; bir güç savaşının, hayatta kalma mücadelesinin ve gitgide yükselen bir gerilimin sahnesine dönüşüyor.",
+        "poster_path": "/cl7Mjpe7J6VVS2LzjKBYjOdkWXV.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          53
+        ],
+        "popularity": 46.3757,
+        "release_date": "2025-03-20",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 118
+      },
+      {
+        "backdrop_path": "/cJvUJEEQ86LSjl4gFLkYpdCJC96.jpg",
+        "id": 1241436,
+        "title": "Warfare",
+        "original_title": "Warfare",
+        "overview": "A platoon of Navy SEALs embarks on a dangerous mission in Ramadi, Iraq, with the chaos and brotherhood of war retold through their memories of the event.",
+        "poster_path": "/j8tqBXwH2PxBPzbtO19BTF9Ukbf.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10752,
+          28
+        ],
+        "popularity": 467.2245,
+        "release_date": "2025-04-09",
+        "video": false,
+        "vote_average": 7.188,
+        "vote_count": 176
+      },
+      {
+        "backdrop_path": "/xCXMHUMQJess3GACbR2PQI7sjeH.jpg",
+        "id": 1072371,
+        "title": "Jules",
+        "original_title": "Jules",
+        "overview": "Uçan bir daire, hafıza sorunları yaşayan yaşlı bir banliyö sakininin arka bahçesine düşer ve bu kişi içerideki korkmuş uzaylıyla bir bağ kurar.",
+        "poster_path": "/yMOWu8rpZPiBI0j8MInBTtNO0vU.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          878,
+          18
+        ],
+        "popularity": 3.3199,
+        "release_date": "2023-08-10",
+        "video": false,
+        "vote_average": 7.223,
+        "vote_count": 303
+      },
+      {
+        "backdrop_path": "/z7VhtN4xkedXaQPGUevRMK7wo9M.jpg",
+        "id": 8388,
+        "title": "Üç Kabadayı",
+        "original_title": "¡Three Amigos!",
+        "overview": "Sessiz film döneminde three amigos adı ile çevirdikleri filmler bir dönem iş yapmış üç aktör işsiz kalmışlardır. Bu arada Meksika'nın bir köyünde El Guapo isimli haydut ortalığı haraca bağlamış ve terör estirmektedir. El Guopa'dan bıkan köy halkı tüm paralarını birleştirerek onu yok etmek için kiralık silahşör tutmaya karar verirler. Sinema'da gördükleri üç silahşörü gerçek sanan köy halkı mektup yazarak iş tekliflerini iletirler. Gelen teklifi bir film sanan üç silahşör köye gider. Ancak bir süre sonra onlar olayın ciddiyetini, köy halkı da onların beceriksizliğini anlar. Yine de pes etmeyen üç silahşör El Guopa'yı alt etmek için planlarını yaparlar.",
+        "poster_path": "/tKcOxhaBpLdvo8lExbz5AgpuGwc.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          37,
+          18
+        ],
+        "popularity": 2.7532,
+        "release_date": "1986-12-12",
+        "video": false,
+        "vote_average": 6.313,
+        "vote_count": 1032
+      },
+      {
+        "backdrop_path": "/eDBZN0TbWkxoAB0qIDFagVcPPTN.jpg",
+        "id": 1153714,
+        "title": "Death of a Unicorn",
+        "original_title": "Death of a Unicorn",
+        "overview": "A father and daughter accidentally hit and kill a unicorn while en route to a weekend retreat, where his billionaire boss seeks to exploit the creature’s miraculous curative properties.",
+        "poster_path": "/lXR32JepFwD1UHkplWqtBP1K79z.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          14,
+          35,
+          12,
+          878
+        ],
+        "popularity": 186.0114,
+        "release_date": "2025-03-27",
+        "video": false,
+        "vote_average": 6.463,
+        "vote_count": 178
+      },
+      {
+        "backdrop_path": "/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
+        "id": 1233413,
+        "title": "Günahkarlar",
+        "original_title": "Sinners",
+        "overview": "Sorunlu hayatlarını geride bırakmaya çalışan ikiz kardeşler yeniden başlamak için memleketlerine döner, ancak daha büyük bir kötülüğün onları karşılamak için beklediğini keşfederler. \"Şeytanla dans etmeye devam edersen, bir gün peşinden evine gelir.\"",
+        "poster_path": "/aLTh70DKnbYEUTuipoSkGGU2G6u.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          27,
+          53
+        ],
+        "popularity": 143.6438,
+        "release_date": "2025-04-16",
+        "video": false,
+        "vote_average": 7.574,
+        "vote_count": 632
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

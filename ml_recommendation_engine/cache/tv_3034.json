@@ -1,0 +1,1178 @@
+{
+  "adult": false,
+  "backdrop_path": "/lUrtMjiunomHPDC2sQNIxswbmdU.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "1970-11-29",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 80,
+      "name": "Suç"
+    }
+  ],
+  "homepage": "http://www.daserste.de/tatort",
+  "id": 3034,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2025-04-06",
+  "last_episode_to_air": {
+    "id": 6066666,
+    "name": "16. Bölüm",
+    "overview": "",
+    "vote_average": 6.0,
+    "vote_count": 2,
+    "air_date": "2025-04-27",
+    "episode_number": 16,
+    "episode_type": "standard",
+    "production_code": "1302",
+    "runtime": 90,
+    "season_number": 56,
+    "show_id": 3034,
+    "still_path": "/u1O7XZrNe9pXfb94vvhFlnyFtwU.jpg"
+  },
+  "name": "Tatort",
+  "next_episode_to_air": {
+    "id": 6086722,
+    "name": "17. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-05-11",
+    "episode_number": 17,
+    "episode_type": "standard",
+    "production_code": "1303",
+    "runtime": 90,
+    "season_number": 56,
+    "show_id": 3034,
+    "still_path": "/fBcXF0MVM5UMBn8UNaX9HCY2HHI.jpg"
+  },
+  "networks": [
+    {
+      "id": 189,
+      "logo_path": "/k1poBlW9HGDnIyZU67BtH3BXQuz.png",
+      "name": "ORF 1",
+      "origin_country": "AT"
+    },
+    {
+      "id": 308,
+      "logo_path": "/nGl2dDGonksWY4fTzPPdkK3oNyq.png",
+      "name": "Das Erste",
+      "origin_country": "DE"
+    },
+    {
+      "id": 571,
+      "logo_path": "/txYJaM2VKunNRk3JooH1mnsVSOg.png",
+      "name": "SRF 1",
+      "origin_country": "CH"
+    },
+    {
+      "id": 2118,
+      "logo_path": "/yMnlNdwOHo3YrqPFXVYgvz3pimN.png",
+      "name": "ORF 2",
+      "origin_country": "AT"
+    }
+  ],
+  "number_of_episodes": 1303,
+  "number_of_seasons": 56,
+  "origin_country": [
+    "DE",
+    "AT",
+    "CH"
+  ],
+  "original_language": "de",
+  "original_name": "Tatort",
+  "overview": "Diziye konu olan olaylarda hep tanıdık temalar hakim. Almanya’da gündelik yaşamı etkileyen ya da geçmişte etkilemiş olan her konu, dizide ele alınıyor ya da alındı: Almanya’nın birleşmesi, terör, organ ticareti, küreselleşme, ırkçılık, uyuşturucu kullanımı, çevre skandalları, çocuk istismarı, işsizlik, sanayi suçları, yaşlı bakımıyla ilgili sorunlar, ya da eş bulma hizmetleri. Gerçek yaşamdakinden farklı olarak, toplumsal ayrılıklar “Tatort”ta her zaman çözülmese de, cinayetin faili her zaman bulunuyor ve pazar akşamı herkes yatağına huzur içinde gidiyor. Edebiyatbilimci Jochen Vogel’in sözleriyle “Tatort, Alman toplumunu anlatan bir roman.”",
+  "popularity": 76.7843,
+  "poster_path": "/j73WOp6ArCy8vK4vreIdSunoXAr.jpg",
+  "production_companies": [
+    {
+      "id": 1251,
+      "logo_path": "/fc0O0mvjl8PbHgZXXY2VgPYos1Z.png",
+      "name": "ARD",
+      "origin_country": "DE"
+    },
+    {
+      "id": 986,
+      "logo_path": "/qDV8nLH9pjElZSnPmg29mzzNlTo.png",
+      "name": "ARD Degeto",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AT",
+      "name": "Austria"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1995-10-31",
+      "episode_count": 21,
+      "id": 82135,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/hptePbC4rUOqBXsNZ6ubzsXzBmg.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1970-11-29",
+      "episode_count": 2,
+      "id": 60378,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/6TAYXllilCc5poENxNsfG8AXcDh.jpg",
+      "season_number": 1,
+      "vote_average": 6.1
+    },
+    {
+      "air_date": "1971-01-10",
+      "episode_count": 11,
+      "id": 60379,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/gGxLhorzl8vYC1v3sgs8w2XRc5D.jpg",
+      "season_number": 2,
+      "vote_average": 5.5
+    },
+    {
+      "air_date": "1972-01-09",
+      "episode_count": 11,
+      "id": 60380,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/5ZIxNyUXw1vtSt7ZuzCCkYf4FJH.jpg",
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1973-01-07",
+      "episode_count": 11,
+      "id": 60381,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/wiij5aPEq1Kpg1Lc6SJG7gyGBCS.jpg",
+      "season_number": 4,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "1974-01-20",
+      "episode_count": 11,
+      "id": 60382,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/25FMMhSTmOPYUcmxLvI6tcerOHn.jpg",
+      "season_number": 5,
+      "vote_average": 5.5
+    },
+    {
+      "air_date": "1975-01-19",
+      "episode_count": 12,
+      "id": 60383,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/rf1C0uVJdUEoLwtnPQnFlVfNHVD.jpg",
+      "season_number": 6,
+      "vote_average": 5.6
+    },
+    {
+      "air_date": "1976-01-18",
+      "episode_count": 11,
+      "id": 60385,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/ccifmRRFORZtRc4kXwo346JuzIo.jpg",
+      "season_number": 7,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "1977-01-02",
+      "episode_count": 13,
+      "id": 60386,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/tn4UpRCx89OTwY2MEN8X5z40pd.jpg",
+      "season_number": 8,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "1978-01-01",
+      "episode_count": 12,
+      "id": 60387,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/67HpcAPbrc7GAejkOHry8DN1hDp.jpg",
+      "season_number": 9,
+      "vote_average": 4.3
+    },
+    {
+      "air_date": "1979-01-14",
+      "episode_count": 13,
+      "id": 60388,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/n9SzQ9Iryk76tWvVFMVKUsKhl7d.jpg",
+      "season_number": 10,
+      "vote_average": 4.3
+    },
+    {
+      "air_date": "1980-01-13",
+      "episode_count": 12,
+      "id": 60395,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/7gDOet43QV1dYkoWdb0lv6zcnlY.jpg",
+      "season_number": 11,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "1981-01-11",
+      "episode_count": 12,
+      "id": 60396,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/7PZbf3WSHWTfXiRIq5s0E2QVB8a.jpg",
+      "season_number": 12,
+      "vote_average": 3.7
+    },
+    {
+      "air_date": "1982-01-10",
+      "episode_count": 12,
+      "id": 60401,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": "/y5Zp2sHsDABHFo3741NqnZvQFEY.jpg",
+      "season_number": 13,
+      "vote_average": 5.3
+    },
+    {
+      "air_date": "1983-01-09",
+      "episode_count": 9,
+      "id": 60402,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": "/kFyhfVOSYeIl5EHYXI25EFfst0V.jpg",
+      "season_number": 14,
+      "vote_average": 4.5
+    },
+    {
+      "air_date": "1984-01-08",
+      "episode_count": 12,
+      "id": 60403,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": "/CiVRil1FhR9DmLvX2khCek4bch.jpg",
+      "season_number": 15,
+      "vote_average": 5.0
+    },
+    {
+      "air_date": "1985-01-06",
+      "episode_count": 12,
+      "id": 60406,
+      "name": "Sezon 16",
+      "overview": "",
+      "poster_path": "/35jNuvpLsVMUMaY9YL15ah8Q92e.jpg",
+      "season_number": 16,
+      "vote_average": 5.4
+    },
+    {
+      "air_date": "1986-01-26",
+      "episode_count": 12,
+      "id": 60407,
+      "name": "Sezon 17",
+      "overview": "",
+      "poster_path": "/1DdsIMCdkjf02cEcWzLLCc7g7eX.jpg",
+      "season_number": 17,
+      "vote_average": 5.7
+    },
+    {
+      "air_date": "1987-01-25",
+      "episode_count": 12,
+      "id": 60408,
+      "name": "Sezon 18",
+      "overview": "",
+      "poster_path": "/uhmp0ZARifO3wogOJTEwJti7BBL.jpg",
+      "season_number": 18,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "1988-01-24",
+      "episode_count": 14,
+      "id": 60419,
+      "name": "Sezon 19",
+      "overview": "",
+      "poster_path": "/klF33gWdYXitjf0lgwnrlCwwMj.jpg",
+      "season_number": 19,
+      "vote_average": 5.9
+    },
+    {
+      "air_date": "1989-01-22",
+      "episode_count": 12,
+      "id": 60420,
+      "name": "Sezon 20",
+      "overview": "",
+      "poster_path": "/geBdJlnyEyymhEJUnmroUdv61lB.jpg",
+      "season_number": 20,
+      "vote_average": 6.2
+    },
+    {
+      "air_date": "1990-01-21",
+      "episode_count": 11,
+      "id": 60422,
+      "name": "Sezon 21",
+      "overview": "",
+      "poster_path": "/e8gg686BkrXScdYE0oKXeLVtfH2.jpg",
+      "season_number": 21,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "1991-01-01",
+      "episode_count": 15,
+      "id": 60424,
+      "name": "Sezon 22",
+      "overview": "",
+      "poster_path": "/gplmYBTryOhgMVKdCEZ9KQ8ETSp.jpg",
+      "season_number": 22,
+      "vote_average": 5.8
+    },
+    {
+      "air_date": "1992-01-19",
+      "episode_count": 15,
+      "id": 60426,
+      "name": "Sezon 23",
+      "overview": "",
+      "poster_path": "/lnI7AMaaXhniXEMnSa8q99voFNo.jpg",
+      "season_number": 23,
+      "vote_average": 5.0
+    },
+    {
+      "air_date": "1993-01-03",
+      "episode_count": 18,
+      "id": 60431,
+      "name": "Sezon 24",
+      "overview": "",
+      "poster_path": "/30fuHPssEBxVS0Ah02XLRi8plJo.jpg",
+      "season_number": 24,
+      "vote_average": 3.6
+    },
+    {
+      "air_date": "1994-01-23",
+      "episode_count": 15,
+      "id": 60435,
+      "name": "Sezon 25",
+      "overview": "",
+      "poster_path": "/eGNMWiUbCHuqbCLBmDiu0Y17Tm3.jpg",
+      "season_number": 25,
+      "vote_average": 6.4
+    },
+    {
+      "air_date": "1995-01-01",
+      "episode_count": 22,
+      "id": 60439,
+      "name": "Sezon 26",
+      "overview": "",
+      "poster_path": "/72XhBsTtJA2kS2kAhjBC7HQmS4y.jpg",
+      "season_number": 26,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "1996-01-01",
+      "episode_count": 27,
+      "id": 60481,
+      "name": "Sezon 27",
+      "overview": "",
+      "poster_path": "/1CGkrJDpn6PQIfvZoqXsHupYrAn.jpg",
+      "season_number": 27,
+      "vote_average": 6.1
+    },
+    {
+      "air_date": "1997-01-12",
+      "episode_count": 27,
+      "id": 60486,
+      "name": "Sezon 28",
+      "overview": "",
+      "poster_path": "/v96aGJl0sqAOjkFRvBSYWj4oT3e.jpg",
+      "season_number": 28,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "1998-01-18",
+      "episode_count": 26,
+      "id": 60487,
+      "name": "Sezon 29",
+      "overview": "",
+      "poster_path": "/q3Qp6OsvjPwf6oVmIRmuuDLLip4.jpg",
+      "season_number": 29,
+      "vote_average": 4.6
+    },
+    {
+      "air_date": "1999-01-10",
+      "episode_count": 29,
+      "id": 60488,
+      "name": "Sezon 30",
+      "overview": "",
+      "poster_path": "/Ade3q7VjKrXCx0667SqWROHJnyR.jpg",
+      "season_number": 30,
+      "vote_average": 4.8
+    },
+    {
+      "air_date": "2000-01-02",
+      "episode_count": 29,
+      "id": 60489,
+      "name": "Sezon 31",
+      "overview": "",
+      "poster_path": "/tORIFsTpFsMmcCFxf05v6aFOxj5.jpg",
+      "season_number": 31,
+      "vote_average": 6.2
+    },
+    {
+      "air_date": "2001-01-07",
+      "episode_count": 29,
+      "id": 60490,
+      "name": "Sezon 32",
+      "overview": "",
+      "poster_path": "/8b31mlSm3hGVeKRX5D0z1DNhyIf.jpg",
+      "season_number": 32,
+      "vote_average": 5.6
+    },
+    {
+      "air_date": "2002-01-06",
+      "episode_count": 31,
+      "id": 60491,
+      "name": "Sezon 33",
+      "overview": "",
+      "poster_path": "/ls9aNKJEieg9dbHX5y3ukmkwYl5.jpg",
+      "season_number": 33,
+      "vote_average": 5.9
+    },
+    {
+      "air_date": "2003-01-05",
+      "episode_count": 33,
+      "id": 60492,
+      "name": "Sezon 34",
+      "overview": "",
+      "poster_path": "/tM0kC3QcwP8n8AEbAfak5mjvzpT.jpg",
+      "season_number": 34,
+      "vote_average": 6.3
+    },
+    {
+      "air_date": "2004-01-04",
+      "episode_count": 30,
+      "id": 60493,
+      "name": "Sezon 35",
+      "overview": "",
+      "poster_path": "/aV0qLgXFbZ2HNWlHEcbnukLt2yE.jpg",
+      "season_number": 35,
+      "vote_average": 4.1
+    },
+    {
+      "air_date": "2005-01-02",
+      "episode_count": 35,
+      "id": 60494,
+      "name": "Sezon 36",
+      "overview": "",
+      "poster_path": "/yRLlcqXlEruxybMKAj2J3dTqMp3.jpg",
+      "season_number": 36,
+      "vote_average": 5.4
+    },
+    {
+      "air_date": "2006-01-01",
+      "episode_count": 32,
+      "id": 60495,
+      "name": "Sezon 37",
+      "overview": "",
+      "poster_path": "/qTaOh8jLTVt4ldjxvPJGt2Lk2Mi.jpg",
+      "season_number": 37,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "2007-01-01",
+      "episode_count": 35,
+      "id": 60496,
+      "name": "Sezon 38",
+      "overview": "",
+      "poster_path": "/uZJMpM69uUsPwA35opNpzR3lTuU.jpg",
+      "season_number": 38,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2008-01-06",
+      "episode_count": 31,
+      "id": 60497,
+      "name": "Sezon 39",
+      "overview": "",
+      "poster_path": "/y5l3bNVmwccucgpBiyhqt5uYRcm.jpg",
+      "season_number": 39,
+      "vote_average": 6.0
+    },
+    {
+      "air_date": "2009-01-04",
+      "episode_count": 34,
+      "id": 60498,
+      "name": "Sezon 40",
+      "overview": "",
+      "poster_path": "/voc7C1pJnKqgyYvSNMzf76eyKLS.jpg",
+      "season_number": 40,
+      "vote_average": 6.2
+    },
+    {
+      "air_date": "2010-01-03",
+      "episode_count": 35,
+      "id": 60499,
+      "name": "Sezon 41",
+      "overview": "",
+      "poster_path": "/jYRWWrIzXPqqPVvmTGvoihn4SUE.jpg",
+      "season_number": 41,
+      "vote_average": 5.8
+    },
+    {
+      "air_date": "2011-01-02",
+      "episode_count": 36,
+      "id": 60500,
+      "name": "Sezon 42",
+      "overview": "",
+      "poster_path": "/5INJDC3XAM2V3r6tshnx0lHQ2dd.jpg",
+      "season_number": 42,
+      "vote_average": 5.9
+    },
+    {
+      "air_date": "2012-01-01",
+      "episode_count": 35,
+      "id": 60501,
+      "name": "Sezon 43",
+      "overview": "",
+      "poster_path": "/zVGTWIfuJV9lBEgrunzAGM5Dy0P.jpg",
+      "season_number": 43,
+      "vote_average": 5.8
+    },
+    {
+      "air_date": "2013-01-01",
+      "episode_count": 36,
+      "id": 60502,
+      "name": "Sezon 44",
+      "overview": "",
+      "poster_path": "/97a44OYKh95t0rJzaCXissSvKww.jpg",
+      "season_number": 44,
+      "vote_average": 6.1
+    },
+    {
+      "air_date": "2014-01-01",
+      "episode_count": 36,
+      "id": 60503,
+      "name": "Sezon 45",
+      "overview": "",
+      "poster_path": "/wbc5SR1s5W0g6MXo0FUvuZ1kiDd.jpg",
+      "season_number": 45,
+      "vote_average": 5.7
+    },
+    {
+      "air_date": "2015-01-01",
+      "episode_count": 40,
+      "id": 64214,
+      "name": "Sezon 46",
+      "overview": "",
+      "poster_path": "/9ijV4mOVa0XfDcpKP0I24yGhPPh.jpg",
+      "season_number": 46,
+      "vote_average": 5.8
+    },
+    {
+      "air_date": "2016-01-01",
+      "episode_count": 37,
+      "id": 73280,
+      "name": "Sezon 47",
+      "overview": "",
+      "poster_path": "/pkM4RqgmBSaNwPF3VCEaF0CMKd6.jpg",
+      "season_number": 47,
+      "vote_average": 5.8
+    },
+    {
+      "air_date": "2017-01-08",
+      "episode_count": 35,
+      "id": 79651,
+      "name": "Sezon 48",
+      "overview": "",
+      "poster_path": "/r4rC9YTKvIACcOu04QJBd58vQ6j.jpg",
+      "season_number": 48,
+      "vote_average": 5.9
+    },
+    {
+      "air_date": "2018-01-01",
+      "episode_count": 37,
+      "id": 96683,
+      "name": "Sezon 49",
+      "overview": "",
+      "poster_path": "/kvSiwvlucrmOaLXHgGiClgZHNDJ.jpg",
+      "season_number": 49,
+      "vote_average": 5.4
+    },
+    {
+      "air_date": "2019-01-01",
+      "episode_count": 37,
+      "id": 114475,
+      "name": "Sezon 50",
+      "overview": "",
+      "poster_path": "/1PKdc559pZPlDkEQLvRZZsV7UrR.jpg",
+      "season_number": 50,
+      "vote_average": 6.2
+    },
+    {
+      "air_date": "2020-01-01",
+      "episode_count": 36,
+      "id": 138850,
+      "name": "Sezon 51",
+      "overview": "",
+      "poster_path": "/mx9oteKRBRrVbA8O5W4gCzFQmja.jpg",
+      "season_number": 51,
+      "vote_average": 5.9
+    },
+    {
+      "air_date": "2021-01-01",
+      "episode_count": 33,
+      "id": 174506,
+      "name": "Sezon 52",
+      "overview": "",
+      "poster_path": "/9q1A6nT4avCcaazz9yjUowXiww4.jpg",
+      "season_number": 52,
+      "vote_average": 5.9
+    },
+    {
+      "air_date": "2022-01-01",
+      "episode_count": 36,
+      "id": 237846,
+      "name": "Sezon 53",
+      "overview": "",
+      "poster_path": "/wdXFj2zJei1hiyKvDKp8SwLlz2d.jpg",
+      "season_number": 53,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2023-01-01",
+      "episode_count": 35,
+      "id": 319266,
+      "name": "Sezon 54",
+      "overview": "",
+      "poster_path": "/sZ4oQcUqyDsnBAGzCvx3q39LTpz.jpg",
+      "season_number": 54,
+      "vote_average": 6.1
+    },
+    {
+      "air_date": "2024-01-01",
+      "episode_count": 32,
+      "id": 366730,
+      "name": "Sezon 55",
+      "overview": "",
+      "poster_path": "/9bqjfH2WQYWDRH7yDzel0hcElSq.jpg",
+      "season_number": 55,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2025-01-01",
+      "episode_count": 20,
+      "id": 430427,
+      "name": "Sezon 56",
+      "overview": "",
+      "poster_path": "/852efz9KqTeoUHRN8IhKVyqhkWu.jpg",
+      "season_number": 56,
+      "vote_average": 6.9
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.167,
+  "vote_count": 111,
+  "credits": {
+    "cast": [],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "police",
+        "id": 6149
+      },
+      {
+        "name": "criminal investigation",
+        "id": 157241
+      },
+      {
+        "name": "crime investigation",
+        "id": 189402
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/s4ZnPpSVJwtq8sclFuYz5zYQLeS.jpg",
+        "id": 21116,
+        "name": "Das Traumschiff",
+        "original_name": "Das Traumschiff",
+        "overview": "The series is about a cruise ship that travels to places around the world.",
+        "poster_path": "/6Jb2jvnbly0E0xLvpTCLsr9wD2O.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          35,
+          10751,
+          18
+        ],
+        "popularity": 25.9279,
+        "first_air_date": "1981-11-22",
+        "vote_average": 4.429,
+        "vote_count": 14,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "backdrop_path": "/gFRge2c7FXDf5BJslf0dPw8AwCG.jpg",
+        "id": 75068,
+        "name": "Barcelona Crime",
+        "original_name": "Der Barcelona Krimi",
+        "overview": "With its expert and attractive crime squad run by these two, Barcelona can be proud of its homicide team: Xavi, independent, impulsive, enigmatic, with a well-functioning network of contacts on the city‘s dark side; and his charming partner Fina, a single mother and self-confident beauty. They‘re never far behind the plotters and schemers who prefer to do their dark dealings after sunset. Their cases take them throughout the Catalan metropolis – out to its suburbs and deep into the heart of the medieval city. With puzzling mysteries waiting to be solved, Xavi and Fina have lots to do before crimes are mercilessly stopped.",
+        "poster_path": "/gVQIktyh9KNP5wqHKrQrgk10aiF.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 2.1629,
+        "first_air_date": "2017-09-03",
+        "vote_average": 4.4,
+        "vote_count": 5,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "backdrop_path": "/5sdTl2NpbTS1raycAc2D4b7Atz9.jpg",
+        "id": 66111,
+        "name": "Macross Δ",
+        "original_name": "マクロスΔ（デルタ）",
+        "overview": "Macross Delta is set in the year 2067, 8 years after the events of  the latest Macross TV series, Macross Frontier. The story focuses on  Walküre, a team of talented idols and the Delta Squadron, a team of  experienced Valkyrie pilots as they battle against the Var Syndrome, a  mysterious phenomena that is consuming the galaxy and there is also the  mysterious Aerial Knights Valkyrie fighter team of the Kingdom of Wind.",
+        "poster_path": "/rkhrKOtd6FqG37xGgOhZPTiohBS.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          10759,
+          16,
+          10765
+        ],
+        "popularity": 6.2292,
+        "first_air_date": "2016-04-03",
+        "vote_average": 6.647,
+        "vote_count": 17,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/fvI7Bfo8tErP4ynBz0yJYqTsZnb.jpg",
+        "id": 78768,
+        "name": "Spreewaldkrimi",
+        "original_name": "Spreewaldkrimi",
+        "overview": "",
+        "poster_path": "/9YJ3dve7D7BwOxgukOM0y5FSuKC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          80
+        ],
+        "popularity": 2.6468,
+        "first_air_date": "2006-11-06",
+        "vote_average": 7.0,
+        "vote_count": 9,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 244057,
+        "name": "Hart tegen hard",
+        "original_name": "Hart tegen hard",
+        "overview": "",
+        "poster_path": "/fBSATDlm7TNEsFIgfdwIK5niSHi.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "nl",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 2.5374,
+        "first_air_date": "2011-10-04",
+        "vote_average": 8.0,
+        "vote_count": 1,
+        "origin_country": [
+          "NL"
+        ]
+      },
+      {
+        "backdrop_path": "/A8tV6D9tHaFE6d3KAVlXzENNiMK.jpg",
+        "id": 62502,
+        "name": "Johann Sebastian Bach",
+        "original_name": "Johann Sebastian Bach",
+        "overview": "",
+        "poster_path": "/7VUI4nn5bHTE6e3p85eifImuMKK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 1.7506,
+        "first_air_date": "1985-03-08",
+        "vote_average": 9.0,
+        "vote_count": 1,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "backdrop_path": "/vzdzIB95qdoSZHon8HNWnSs4vJf.jpg",
+        "id": 129708,
+        "name": "Im Wald",
+        "original_name": "Im Wald",
+        "overview": "A camper burns ablaze in the forest area. In the rubble: the remains of a human body. There is a single witness.",
+        "poster_path": "/rvVMZghv5zMMXD0d0IsuZ0j9FFO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          80
+        ],
+        "popularity": 0.9934,
+        "first_air_date": "2018-01-02",
+        "vote_average": 6.667,
+        "vote_count": 3,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "backdrop_path": "/utqCOvMmjjMTlXNZz6PHOzRM5QP.jpg",
+        "id": 47480,
+        "name": "The Tom and Jerry Show",
+        "original_name": "The Tom and Jerry Show",
+        "overview": "The iconic cat and mouse rivals are back in a fresh take on the classic series. Preserving the look, characters and sensibility of the original, this series shines a brightly colored, high-definition lens on the madcap slapstick and never-ending battle that has made Tom and Jerry two of the most beloved characters of all time.",
+        "poster_path": "/41EWXLXTZO4MLb2BL28mWZuydyq.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          16,
+          35,
+          10762
+        ],
+        "popularity": 97.2619,
+        "first_air_date": "2014-04-09",
+        "vote_average": 7.289,
+        "vote_count": 95,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/hccvVyqdCErrWhgRZH9Fk0w6Fck.jpg",
+        "id": 61565,
+        "name": "The Brokenwood Mysteries",
+        "original_name": "The Brokenwood Mysteries",
+        "overview": "In a seemingly quiet country town the newest resident, Detective Inspector Mike Shepherd, finds that murder lurks in even the most homely location.",
+        "poster_path": "/6qvoTNDALu0SS4TNaggjnrN5wu2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          18,
+          80
+        ],
+        "popularity": 29.1914,
+        "first_air_date": "2014-09-28",
+        "vote_average": 7.6,
+        "vote_count": 79,
+        "origin_country": [
+          "NZ"
+        ]
+      },
+      {
+        "backdrop_path": "/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg",
+        "id": 13945,
+        "name": "Gute Zeiten, schlechte Zeiten",
+        "original_name": "Gute Zeiten, schlechte Zeiten",
+        "overview": "Gute Zeiten, schlechte Zeiten is a long-running German television soap opera, first broadcast on RTL in 1992. The programme concerns the lives of a fictional neighborhood in Germany's capital city Berlin. Over the years the soap opera tends to have an overhaul of young people in their late teens and early twenties; targeting a young viewership.",
+        "poster_path": "/qujVFLAlBnPU9mZElV4NZgL8iXT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 669.6392,
+        "first_air_date": "1992-05-11",
+        "vote_average": 5.769,
+        "vote_count": 39,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "backdrop_path": "/tmvJMXPo7N8wJuk6bX6WsXtOU9g.jpg",
+        "id": 6202,
+        "name": "Stromberg",
+        "original_name": "Stromberg",
+        "overview": "A comedy centered around the incompetent boss of a German insurance office.",
+        "poster_path": "/2ThMER8tdMHzSq4GKx9PbRndGHk.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 7.3874,
+        "first_air_date": "2004-10-11",
+        "vote_average": 7.671,
+        "vote_count": 111,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "backdrop_path": "/y1rbX0zSWODE9KfSUaSPGd2VEtD.jpg",
+        "id": 51488,
+        "name": "Crime Scene Cleaner",
+        "original_name": "Der Tatortreiniger",
+        "overview": "Heiko Schotte (Schotty) works for a cleaning company, cleaning all kind of crime scenes. There he sometimes meets weird people and tries to solve difficult situations.",
+        "poster_path": "/rFSIYAqBNrU9XfI5lDZELlPF6Fn.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          35,
+          80
+        ],
+        "popularity": 7.747,
+        "first_air_date": "2011-12-22",
+        "vote_average": 8.135,
+        "vote_count": 130,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "backdrop_path": "/diYVGzRSAJpOCE5Avd5ZKBFUepi.jpg",
+        "id": 70485,
+        "name": "Mr. Mercedes",
+        "original_name": "Mr. Mercedes",
+        "overview": "Bill Hodges emeklilik günlerinin tadını çıkarmaya niyetli bir dedektiftir. Fakat Brady Hartsfield adlı sosyopat katilin kendisine yolladığı taciz mesajları ve işlediği cinayetler arttıkça emekliliğe ara verip bu katilin peşine düşer. Hofges, katile yaklaştıkça kendi geçmişiyle de yüzleşmek zorunda kalacaktır.",
+        "poster_path": "/zZm3LidCf6Edv6yX3WMKo6KwICg.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          10765,
+          18
+        ],
+        "popularity": 9.6873,
+        "first_air_date": "2017-08-09",
+        "vote_average": 7.131,
+        "vote_count": 318,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/twOty8QayfsRgHsRgdUFMzgAwdp.jpg",
+        "id": 3137,
+        "name": "Babylon 5: Başlangıç",
+        "original_name": "Babylon 5",
+        "overview": "İnsanoğlunun Üçüncü Çağı'nın başlangıcıydı. Dünya-Minbari Savaşı'ndan 10 yıl sonra. Babylon Projesi, gerçeğe dönüştürülmüş bir rüya idi. Amacı: İnsanların ve uzaylıların birlikte geçinebilecekleri bir yer yaratarak yeni bir savaşı önlemek. Diplomatlar, dolandırıcılar, girişimciler ve maceracılar için evden çok uzakta bir uğrak limanı. 2,5 milyon ton dönen metal içine sarılmış insanlar ve uzaylılar, gecenin içinde yapayalnız. Tehlikeli bir yer olabilir. Ama barış için son ve en iyi umudumuz. Bu, son Babylon istasyonunun öyküsüdür. Bu yerin adı: Babylon 5...",
+        "poster_path": "/fIu4IKZMyhJA35QiCFhViYo4sml.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765,
+          10759
+        ],
+        "popularity": 44.1903,
+        "first_air_date": "1994-01-26",
+        "vote_average": 8.034,
+        "vote_count": 537,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5irZf1VW4GMtqEoMqbAghWyte0U.jpg",
+        "id": 46849,
+        "name": "Kuşak Savaşı",
+        "original_name": "Unsere Mütter, unsere Väter",
+        "overview": "Berlin, 1941. Beş arkadaş Avrupa’nın çehresini ve kendi hayatlarını değiştirecek bir macerada kahraman olmak istemektedir. Wilhelm savaştan çok edebiyata ilgi duyan hassas bir hayalperest olan küçük kardeşi Friedhelm ile doğu sınırına gider. Doğu sınırındaki Wehrmacht’ta çalışmayı dört gözle bekleyen hemşire Charlotte ise Wilhelm’e aşıktır. Greta hayalleri olan yetenekli bir şarkıcıyken, Yahudi erkek arkadaşı Viktor ailesini Almanya’dan ayrılmaya ikna edememiştir. Friedhelm zaman içinde ruhsuz bir ölüm makinesine dönüşür. Wilhelm birlğinden ayrılır. Charlotte’ın Nazi ideolojisi Alman ordusuna yardım eden Yahudi bir hemşireye ihanet edince yıkılır. Greta kendisini bir SS subayına satarak Viktor’un kaçmasını sağlar. Milyonlarca kişi onlar gibi kahraman olmak istemiştir ama hiçbiri savaşın onlara neler yapabileceğini düşünmemiştir.",
+        "poster_path": "/m1qXjaki7wCe6CpsB4wG4nCsJ9v.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          10768,
+          18
+        ],
+        "popularity": 5.6195,
+        "first_air_date": "2013-03-17",
+        "vote_average": 8.005,
+        "vote_count": 426,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "backdrop_path": "/w0s1EmnmgkBYMSqZIrYgbiRt3j6.jpg",
+        "id": 1558,
+        "name": "Home Improvement",
+        "original_name": "Home Improvement",
+        "overview": "The daily trials and tribulations of handyman Tim Taylor, a TV show host raising three boys with help from his loyal co-host, domineering wife, and unseen neighbor.",
+        "poster_path": "/sa3J2ZXeg7TiziuXGyfz99HdYDS.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 36.6837,
+        "first_air_date": "1991-09-17",
+        "vote_average": 7.399,
+        "vote_count": 643,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/bSlYHSM9m2OuzPX73xU2KWWY1yk.jpg",
+        "id": 67198,
+        "name": "Star Trek: Discovery",
+        "original_name": "Star Trek: Discovery",
+        "overview": "Günümüzün daha modern sürümü olan dizi, Uzay Yolu dizisinin olaylarından 10 yıl öncesini konu edinir. Uzun metrajlı filmlerin zaman çizelgesinden ayrı olarak yeni dünyalar ve medeniyetler keşfeden USS Discovery mürettebatını izler. Discovery, Star Trek tarihinde daha önce bahsedilen ancak keşfedilmemiş bir olayın etrafında dönüyor.",
+        "poster_path": "/xwpOHgym48Ftz7fbJq5te5xoiwu.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 61.4653,
+        "first_air_date": "2017-09-24",
+        "vote_average": 7.059,
+        "vote_count": 1849,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/6g6NdCgFxO8qVp0cosVOm4xdjQG.jpg",
+        "id": 61888,
+        "name": "The Last Man on Earth",
+        "original_name": "The Last Man on Earth",
+        "overview": "Phil Miller ailesini çok seven ve bankadaki işinden nefret eden sıradan bir adamdı, ancak şimdi insanlığın son umudu! Dünyada kalan son insan olan Phil, gezegende bir canlı olduğunu daha fark eder. Bu iki yabancı, insanlığın kurtulması için tüm farklılıklarını göz ardı edecek ve işbirliği yapacaklardır.",
+        "poster_path": "/9TcvdOIBEnIDXbLvFUKluRDa3tZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 37.1844,
+        "first_air_date": "2015-03-01",
+        "vote_average": 6.901,
+        "vote_count": 887,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9hfA9zMsyckwZ8WLMVQYKG8YSwY.jpg",
+        "id": 80350,
+        "name": "New Amsterdam",
+        "original_name": "New Amsterdam",
+        "overview": "Amerika'nın en eski hastanesine yeni atanan direktör Dr. Max Goodwin, mevcut durumu değiştirmek ve hastaların hayatını kurtarmak için harekete geçer.",
+        "poster_path": "/jsH4AeGZn5Q6h314A3OTUHKxHhR.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 33.8792,
+        "first_air_date": "2018-09-25",
+        "vote_average": 8.361,
+        "vote_count": 1020,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/tLccUh3uazZ9TkLhe53UwprJhI4.jpg",
+        "id": 32798,
+        "name": "Hawaii Five-0",
+        "original_name": "Hawaii Five-0",
+        "overview": "Binbaşı Steve 5 yıldır bir kaçakçının peşindedir. Söz konusu kaçakçı ile 5 yıldır uğraşan binbaşı kaçakçı olan Victor’u yakalayamasa da onun kardeşini yakalayacaktır. Victor da bu durumda Steve’in babasını rehin alacaktır. Bu sırada bir çatışmanın ortaya çıktığı görülecektir. Bu çatışmada iki tarafın da esirlerini öldürmeleri söz konusudur. Steve Havaii’ye dönecektir. Ona Vali tarafından bir teklif sunulacaktır. Hem babasının intikamını almak hem de Havaii’yi güvende tutmak için bir ekip kuracak ve Vali tarafından desteklenecektir. Steve ilk aşamada bu teklifi reddetse de daha sonra söz konusu teklifi kabul edecektir Akula.",
+        "poster_path": "/sIdCKlmM2nU4akIvFQaAIiU8YES.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          10759
+        ],
+        "popularity": 147.5828,
+        "first_air_date": "2010-09-20",
+        "vote_average": 7.76,
+        "vote_count": 1764,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

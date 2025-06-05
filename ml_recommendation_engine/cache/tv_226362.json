@@ -1,0 +1,982 @@
+{
+  "adult": false,
+  "backdrop_path": "/yMjGzK7L4gwzpQNNtFKDeG79upo.jpg",
+  "created_by": [
+    {
+      "id": 1027870,
+      "credit_id": "66ecd09027a9af9d0dadbc28",
+      "name": "Bruno Stagnaro",
+      "original_name": "Bruno Stagnaro",
+      "gender": 2,
+      "profile_path": "/e52lZywS1Ob5aeedGIqU9ju4n1Y.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2025-04-30",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 10759,
+      "name": "Aksiyon & Macera"
+    },
+    {
+      "id": 10765,
+      "name": "Bilim Kurgu & Fantazi"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/80216888",
+  "id": 226362,
+  "in_production": true,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2025-04-30",
+  "last_episode_to_air": {
+    "id": 5951329,
+    "name": "Soğuk Domates Suyu",
+    "overview": "Trenle yapılan riskli bir şehre dönüş yolculuğundan sonra Juan, gizemli bir parlak ışığın peşine takılır ve akla hayale gelmeyen bir keşif yapar.",
+    "vote_average": 7.2,
+    "vote_count": 6,
+    "air_date": "2025-04-30",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 68,
+    "season_number": 1,
+    "show_id": 226362,
+    "still_path": "/iXCVfc0Na5AvHmkrF4SAB7GEIBX.jpg"
+  },
+  "name": "Sonsuzluk Yolcusu",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 213,
+      "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+      "name": "Netflix",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 6,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_name": "El Eternauta",
+  "overview": "Milyonlarca insanı öldüren toksik bir kar yağışının ardından, Juan Salvo ile Buenos Aires'te hayatta kalan bir grup insan dünya dışından görünmez bir tehdide karşı direnmelidir.",
+  "popularity": 277.5585,
+  "poster_path": "/7gT79KFAE4MGfA2C1N8ZAIEKq7u.jpg",
+  "production_companies": [
+    {
+      "id": 21914,
+      "logo_path": "/iF5QYCtPLuwkU90jWdjrul25d71.png",
+      "name": "K & S Films",
+      "origin_country": "AR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-04-28",
+      "episode_count": 6,
+      "id": 340649,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/1AzTPAI77omeaHtXFFy48vrkKkL.jpg",
+      "season_number": 1,
+      "vote_average": 7.2
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.783,
+  "vote_count": 175,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69310,
+        "known_for_department": "Acting",
+        "name": "Ricardo Darín",
+        "original_name": "Ricardo Darín",
+        "popularity": 4.3729,
+        "profile_path": "/wP7gyISMcsXLJoInWTjncqhrsAT.jpg",
+        "character": "Juan Salvo",
+        "credit_id": "645e5fbc88b14801756703a8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 562364,
+        "known_for_department": "Acting",
+        "name": "Carla Peterson",
+        "original_name": "Carla Peterson",
+        "popularity": 2.0334,
+        "profile_path": "/wzu3UNvxIlk1i9uWjcFi8ANrAyl.jpg",
+        "character": "Elena",
+        "credit_id": "645e5fc3d6c300016bbfc860",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54190,
+        "known_for_department": "Acting",
+        "name": "César Troncoso",
+        "original_name": "César Troncoso",
+        "popularity": 1.7496,
+        "profile_path": "/eUbQSEPu2qrIAQ2UMzTXN1Ofq8r.jpg",
+        "character": "Alfredo Favalli",
+        "credit_id": "645e5fccf90b1901381ecdb7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1085574,
+        "known_for_department": "Acting",
+        "name": "Andrea Pietra",
+        "original_name": "Andrea Pietra",
+        "popularity": 0.6914,
+        "profile_path": "/otpcmgf87yWytteQUu6IpfwA0Ow.jpg",
+        "character": "Ana",
+        "credit_id": "645e5fd288b1480158f2ee09",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1010372,
+        "known_for_department": "Acting",
+        "name": "Ariel Staltari",
+        "original_name": "Ariel Staltari",
+        "popularity": 1.5584,
+        "profile_path": "/aXAgNDrPbg5s5AIjkuLWHskiVOm.jpg",
+        "character": "Omar",
+        "credit_id": "645e5fd9ef8b32017263082c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1500062,
+        "known_for_department": "Acting",
+        "name": "Marcelo Subiotto",
+        "original_name": "Marcelo Subiotto",
+        "popularity": 0.9305,
+        "profile_path": "/3qyt1IiQFDSPFDCZCRmeKMBZYz2.jpg",
+        "character": "Lucas",
+        "credit_id": "645e5fdfd6c30001246bb8ae",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1108145,
+        "known_for_department": "Acting",
+        "name": "Claudio Martínez Bel",
+        "original_name": "Claudio Martínez Bel",
+        "popularity": 1.0132,
+        "profile_path": "/gpy8GhNC4Pt4LAtg7JtNGctqUi4.jpg",
+        "character": "Polsky",
+        "credit_id": "645e5fe7aafebd0144a4363c",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3141016,
+        "known_for_department": "Acting",
+        "name": "Mora Fisz",
+        "original_name": "Mora Fisz",
+        "popularity": 10.3459,
+        "profile_path": "/e8rnqmhAHKPlGdjtqwfAbSaMuaJ.jpg",
+        "character": "Clara Salvo",
+        "credit_id": "645e5ff5aafebd0144a43648",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1050765,
+        "known_for_department": "Acting",
+        "name": "Guillermo Jacubowicz",
+        "original_name": "Guillermo Jacubowicz",
+        "popularity": 0.3088,
+        "profile_path": "/3REBY1An5fn3ByORifeYoBOQN2C.jpg",
+        "character": "Benito",
+        "credit_id": "68141066f9a9c637def40588",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5409835,
+        "known_for_department": "Acting",
+        "name": "Orianna Cárdenas",
+        "original_name": "Orianna Cárdenas",
+        "popularity": 0.4143,
+        "profile_path": "/cVxwik3YcUibe5N4KZbpvvJbVN0.jpg",
+        "character": "Inga",
+        "credit_id": "6814100a784007b3e9f45b20",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5409840,
+        "known_for_department": "Acting",
+        "name": "Aron Park",
+        "original_name": "Aron Park",
+        "popularity": 0.176,
+        "profile_path": "/qnHzCSjvbfdQIrAGbORQ3UqQqNp.jpg",
+        "character": "Pablo",
+        "credit_id": "681410c8a7d90469939c7c53",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5088628,
+        "known_for_department": "Acting",
+        "name": "Lautaro Murúa",
+        "original_name": "Lautaro Murúa",
+        "popularity": 0.1718,
+        "profile_path": null,
+        "character": "Horacio",
+        "credit_id": "68163874c3835243099595c4",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1027869,
+        "known_for_department": "Acting",
+        "name": "Jorge Sesán",
+        "original_name": "Jorge Sesán",
+        "popularity": 0.5737,
+        "profile_path": "/oqZQa98lj1d2Es7hjlCeyJ2lGNI.jpg",
+        "character": "Maquinista",
+        "credit_id": "681639210b11eaaf62f4807c",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2601667,
+        "known_for_department": "Acting",
+        "name": "Dante Mastropierro",
+        "original_name": "Dante Mastropierro",
+        "popularity": 0.1322,
+        "profile_path": "/arkJKtVJDkgpH8Z8eo6ue2wCBvo.jpg",
+        "character": "Compañero maquinista",
+        "credit_id": "68163932fb2d00566c8b5f17",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2629329,
+        "known_for_department": "Crew",
+        "name": "Martín M. Oesterheld",
+        "original_name": "Martín M. Oesterheld",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "645e5fb088b14800fc78862d",
+        "department": "Crew",
+        "job": "Creative Consultant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 557732,
+        "known_for_department": "Production",
+        "name": "Hugo Sigman",
+        "original_name": "Hugo Sigman",
+        "popularity": 0.2542,
+        "profile_path": null,
+        "credit_id": "645e6002f90b190155417724",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1310730,
+        "known_for_department": "Production",
+        "name": "Matías Mosteirín",
+        "original_name": "Matías Mosteirín",
+        "popularity": 0.2792,
+        "profile_path": "/dD1sCP08bnihuZMSqxaOHdTOFxk.jpg",
+        "credit_id": "645e600b9590e301695e6b61",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1310729,
+        "known_for_department": "Production",
+        "name": "Leticia Cristi",
+        "original_name": "Leticia Cristi",
+        "popularity": 0.5069,
+        "profile_path": null,
+        "credit_id": "645e6015d6c300018c881fe1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3201905,
+        "known_for_department": "Production",
+        "name": "Diego Copello",
+        "original_name": "Diego Copello",
+        "popularity": 0.09,
+        "profile_path": null,
+        "credit_id": "645e6032aafebd0123209b1e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2738676,
+        "known_for_department": "Writing",
+        "name": "Héctor Germán Oesterheld",
+        "original_name": "Héctor Germán Oesterheld",
+        "popularity": 0.0336,
+        "profile_path": "/veLwangbwzdY4b4Of8Sm6MEgnmP.jpg",
+        "credit_id": "645e61cf9590e301016c299a",
+        "department": "Writing",
+        "job": "Graphic Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3665275,
+        "known_for_department": "Editing",
+        "name": "Luciano Avila",
+        "original_name": "Luciano Avila",
+        "popularity": 0.2858,
+        "profile_path": "/r5y7qET3kyFqaMimJkjyM6V1zM6.jpg",
+        "credit_id": "66d8dd8ea5ac2cebe0bd8576",
+        "department": "Editing",
+        "job": "Online Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3667856,
+        "known_for_department": "Art",
+        "name": "Natalia Atencio",
+        "original_name": "Natalia Atencio",
+        "popularity": 0.0938,
+        "profile_path": "/ejNAMavb1eZbTpIg4Nbe1sJcUP1.jpg",
+        "credit_id": "6728e0ba008c8137852e0572",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3321290,
+        "known_for_department": "Production",
+        "name": "Diana Salomé Cabral",
+        "original_name": "Diana Salomé Cabral",
+        "popularity": 0.1553,
+        "profile_path": "/oZFojlQWWHwCpFf0lswWizmcGfT.jpg",
+        "credit_id": "67620772f1dccf86c3bdeeb7",
+        "department": "Production",
+        "job": "Post Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2374411,
+        "known_for_department": "Directing",
+        "name": "Gaston Girod",
+        "original_name": "Gaston Girod",
+        "popularity": 0.1468,
+        "profile_path": null,
+        "credit_id": "679b9887e21cbb9a5b34615d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2127365,
+        "known_for_department": "Production",
+        "name": "Ezequiel Rossi",
+        "original_name": "Ezequiel Rossi",
+        "popularity": 0.1596,
+        "profile_path": null,
+        "credit_id": "679b98adb00d3bad92bd8574",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2075130,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Patricia Conta",
+        "original_name": "Patricia Conta",
+        "popularity": 0.1731,
+        "profile_path": null,
+        "credit_id": "679b98d863924ee4cbfbf086",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 122688,
+        "known_for_department": "Sound",
+        "name": "Martín Grignaschi",
+        "original_name": "Martín Grignaschi",
+        "popularity": 0.1137,
+        "profile_path": null,
+        "credit_id": "679b98e7819ed2eab0345928",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45546,
+        "known_for_department": "Sound",
+        "name": "Federico Jusid",
+        "original_name": "Federico Jusid",
+        "popularity": 0.6365,
+        "profile_path": "/gK4EkeVqDvxuIMlNZB1SZSaGIFS.jpg",
+        "credit_id": "679b98f6d04b03bd9f346a27",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3892854,
+        "known_for_department": "Production",
+        "name": "Ignacio Pol",
+        "original_name": "Ignacio Pol",
+        "popularity": 0.0457,
+        "profile_path": null,
+        "credit_id": "67fadc9cd4c444a1cc9a2520",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5340882,
+        "known_for_department": "Visual Effects",
+        "name": "Pablo Accame",
+        "original_name": "Pablo Accame",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "67fadcb4aacf7cfb2699202f",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "snowstorm",
+        "id": 3373
+      },
+      {
+        "name": "alien invasion",
+        "id": 14909
+      },
+      {
+        "name": "based on graphic novel",
+        "id": 18712
+      },
+      {
+        "name": "serie argentina",
+        "id": 349360
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/hMMWtinDnIjvUeiWKmvpkmnxGnK.jpg",
+        "id": 288055,
+        "name": "Star Wars: Tales of the Underworld",
+        "original_name": "Star Wars: Tales of the Underworld",
+        "overview": "İki kanun kaçağı, kaderlerini çizerken galaksinin tehlikeli yeraltı dünyasında yol alır.",
+        "poster_path": "/vmLXaBruRgjtC8CpzSTeQH2bLbJ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10765,
+          80,
+          10759,
+          18
+        ],
+        "popularity": 48.2295,
+        "first_air_date": "2025-05-04",
+        "vote_average": 7.757,
+        "vote_count": 37,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/u41RabPPKrUPb3xEZryShF4Ts45.jpg",
+        "id": 229236,
+        "name": "Suspect: The Shooting of Jean Charles de Menezes",
+        "original_name": "Suspect: The Shooting of Jean Charles de Menezes",
+        "overview": "Temmuz 2005'te Londra'da polis bir terörist hücresinin peşindedir. Bir izleme operasyonu sırasında yaşanan sıra dışı olaylar dizisi, masum genç bir Brezilyalının şüpheli olarak yanlış tanımlanmasına ve vurularak öldürülmesine neden olur. Yakınları açıklanan yanlış bilgilere karşı mücadele verirken, beklenmedik bir kaynaktan destek bulurlar ve Başkent polisi, vurulma olayıyla ilgili ağır gerçeklerle yüzleşmek zorunda kalarak krize sürüklenir.",
+        "poster_path": "/s3JThgTo3W3rl9F6o2tvBx52ih0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 7.5606,
+        "first_air_date": "2025-04-30",
+        "vote_average": 7.25,
+        "vote_count": 10,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/xedpbCiPxGiyusIutkhkLXx1shT.jpg",
+        "id": 231001,
+        "name": "Carême",
+        "original_name": "Carême",
+        "overview": "Genç ve hırslı bir şef, babasını kurtarmak ve adını duyurmak için baştan çıkarıcı cazibesini kullanarak casusluk yapar.",
+        "poster_path": "/AoRaqmBGeJt1H23cbMatnWMMxTA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 40.5313,
+        "first_air_date": "2025-04-30",
+        "vote_average": 7.0,
+        "vote_count": 5,
+        "origin_country": [
+          "FR"
+        ]
+      },
+      {
+        "backdrop_path": "/yGCt11S62nIIY1GtBB0oNmuRaH1.jpg",
+        "id": 286788,
+        "name": "Dönüm Noktası: Vietnam Savaşı",
+        "original_name": "Turning Point: The Vietnam War",
+        "overview": "Bu düşündürücü belgesel dizisi, Tonkin Körfezi olayından Saigon'un düşüşüne Vietnam Savaşı'nın yürek burkan sonuçlarını inceliyor.",
+        "poster_path": "/pwyhia2REWLVv3UmY9Cc5N7Gtfx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          10768
+        ],
+        "popularity": 3.4376,
+        "first_air_date": "2025-04-30",
+        "vote_average": 7.0,
+        "vote_count": 9,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 286730,
+        "name": "Rino Gaetano - Ma il cielo è sempre più blu",
+        "original_name": "Rino Gaetano - Ma il cielo è sempre più blu",
+        "overview": "",
+        "poster_path": "/vOhefQxLdV6znPNEGUyrm7hAao9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "it",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 0.126,
+        "first_air_date": "2007-11-11",
+        "vote_average": 6.75,
+        "vote_count": 2,
+        "origin_country": [
+          "IT"
+        ]
+      },
+      {
+        "backdrop_path": "/jkyjkLuKxKa2PXaTcPDfrBUHxi8.jpg",
+        "id": 207411,
+        "name": "Good American Family",
+        "original_name": "Good American Family",
+        "overview": "Perspektif, ön yargı ve travma konularını işleyen, çeşitli bakış açılarıyla anlatılan bu etkileyici drama, Orta Batı'dan bir çiftin nadir bir cücelik hastalığına sahip bir kızı evlat edinmesiyle ilgili rahatsız edici hikâyelerden ilham almıştır. Ancak, onu üç biyolojik çocuklarıyla birlikte büyütmeye başladıklarında, kızın yaşı ve geçmişiyle ilgili bir gizem ortaya çıkar ve zamanla onun söylediği kişi olmadığından şüphelenmeye başlarlar.",
+        "poster_path": "/fzznLJmBzU5tTxFzklepKifE16o.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 52.4902,
+        "first_air_date": "2025-03-19",
+        "vote_average": 7.896,
+        "vote_count": 130,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1WxpAZfoW8B2sIfWND81GdTHm4G.jpg",
+        "id": 231003,
+        "name": "Lazarus",
+        "original_name": "Lazarus",
+        "overview": "Yıl 2052—dünya eşi benzeri görülmemiş bir barış ve refah çağına girmiştir. Bunun sebebi ise insanlığın hastalık ve acıdan kurtulmuş olmasıdır. Nobel Ödüllü sinirbilimci Dr. Skinner, hiçbir yan etkisi olmayan Hapuna adında mucizevi bir ilaç geliştirmiştir: Hapuna kısa sürede yaygınlaşarak insanların vazgeçilmezi olur. Ancak Hapuna'nın resmî olarak kullanılmaya başlanmasının ardından Dr. Skinner aniden ortadan kaybolur. Kayboluşunun ardından 3 yıl sonra da dünya işleyişine devam etmiştir. Fakat Dr. Skinner bu kez felaketin habercisi olarak geri döner. Hapuna’nın ömrü kısalttığını ve kullananların 3 yıl içerisinde öleceğini açıklar. Günahkâr dünyanın sonu yaklaşmaktadır. Bu tehdide karşı, insanlığı Skinner’ın planından kurtarmak için dünya çapında beş ajandan oluşan Lazarus adında özel bir görev gücü oluşturulur. Skinner’ı bulup bir aşı geliştirebilirler mi? Yoksa insanlığın zamanı dolmak üzere mi?",
+        "poster_path": "/j5Tvg6cF4jM2nB9YrjQ3Jiq3PBn.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10765,
+          10759
+        ],
+        "popularity": 20.7452,
+        "first_air_date": "2025-04-06",
+        "vote_average": 9.2,
+        "vote_count": 20,
+        "origin_country": [
+          "JP",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/pxhxhEKJXznWEavLXJWUxxxdo2X.jpg",
+        "id": 131651,
+        "name": "Turning Point: 9/11 and the War on Terror",
+        "original_name": "Turning Point: 9/11 and the War on Terror",
+        "overview": "Modern history can be divided into two time frames: before 9/11 and after 9/11. This five-part docuseries is a cohesive chronicle of the September 11, 2001 attacks on the U.S., offering illuminating perspectives and personal stories of how the catastrophic events of that day changed the course of the nation.",
+        "poster_path": "/jZsV8GInbLWcAX3mAFxE6gE8bTR.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          10768
+        ],
+        "popularity": 5.5766,
+        "first_air_date": "2021-09-01",
+        "vote_average": 7.285,
+        "vote_count": 107,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/xXgFEvZL0k7ac3hu8xsvaCJlU8D.jpg",
+        "id": 244628,
+        "name": "Long Bright River",
+        "original_name": "Long Bright River",
+        "overview": "Mickey, Philadelphia'nın opioid krizinin harap ettiği bir mahallesinde yaşayan bir polis memurudur. Gizemli bir dizi cinayet toplumu sarstığında, davanın kendisiyle başlangıçta şüphelendiğinden çok daha fazla ilgisi olduğundan şüphelenir. Soruşturma ilerledikçe kendi geçmişinin suçlarla ayrılmaz bir şekilde bağlantılı olabileceğini fark eder ve geçmişinin gölgeleriyle yüzleşmek zorunda kalır.",
+        "poster_path": "/tQHOmmDXtDSsmXn55GcdtSOLMAc.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 7.2222,
+        "first_air_date": "2025-03-13",
+        "vote_average": 7.4,
+        "vote_count": 37,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/fGTYhDELAOt6TsqN7s9Uuc7Ypt6.jpg",
+        "id": 91552,
+        "name": "Departure",
+        "original_name": "Departure",
+        "overview": "Yolcu uçağı Flight 716, Atlantik Okyanusu üzerinde aniden ortadan kaybolduğunda, Kendra Malley, eski patronu ve akıl hocası Howard Lawson tarafından bu gizemli kazayı araştırması ve potansiyel kurtulanları bulması için geri çağrılır. Tüm dünyanın gözü bu olayın üzerindeyken Kendra ve ekibi, kayıp uçağı bulmak için harekete geçer. Uçağın ortadan kaybolmasının pilot intiharından terörizme, teknik kusurdan siyasi komploya kadar birçok nedenden olabileceğini düşünen Kendra, gerçeği bulmak ve tekrar bir olayın olmasını engellemek için çabalar.",
+        "poster_path": "/b52lWChoqjtE6ZgMLK2XjA3unDW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 11.7213,
+        "first_air_date": "2019-07-10",
+        "vote_average": 6.656,
+        "vote_count": 90,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/mhRhipgo5ACKcoHMCOaD6a7h8gs.jpg",
+        "id": 241883,
+        "name": "Bahçıvan",
+        "original_name": "El jardinero",
+        "overview": "Annesi, Elmer'in duygusuzluğunu kullanarak onu bir tetikçiye dönüştürdü. Ama Elmer yeni kurbanına âşık olunca sakin, yerel bahçıvan kimlikleri tehlikeye girer.",
+        "poster_path": "/cEAn5NQuBDygU1B57D0dbPwwDDR.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 13.6096,
+        "first_air_date": "2025-04-11",
+        "vote_average": 6.992,
+        "vote_count": 64,
+        "origin_country": [
+          "ES"
+        ]
+      },
+      {
+        "backdrop_path": "/w8NsengOrWLapYBVutr52gwWMio.jpg",
+        "id": 275388,
+        "name": "Cam Kubbe",
+        "original_name": "Glaskupan",
+        "overview": "Arkadaşının kızı kaybolunca arama çalışmalarına katılan kriminolog Lejla, çocukken başına gelen ve hiç unutamadığı kaçırılma olayının yarattığı travmayla yüzleşmek zorunda kalır.",
+        "poster_path": "/8BASUGDpNoCUTNvX754JpuEKhpv.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "sv",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "popularity": 34.4893,
+        "first_air_date": "2025-04-15",
+        "vote_average": 7.176,
+        "vote_count": 68,
+        "origin_country": [
+          "SE"
+        ]
+      },
+      {
+        "backdrop_path": "/rFoYY2Idt9Zz76jKNR4TFuZ6kJ9.jpg",
+        "id": 107329,
+        "name": "Go Ahead",
+        "original_name": "以家人之名",
+        "overview": "Hikâye, birbirleri için olabilecek en iyi aile olmak için ortak deneyimlerinde teselli bulan üç sorunlu gencin etrafında dönüyor.  İşe yaramayan ailelerde büyüyen, kan bağı olmayan üç kişi, evde bulamadıkları sevgiyi özledikleri için birbirlerine aile gibi davranırlar. En büyük erkek kardeş Ling Xiao (Song Weilong), ikinci erkek kardeş He Ziqiu (Zhang Xincheng) ve en küçük kız kardeş Li Jianjian(Tan Songyun) birlikte büyüyor, birbirlerinin seçtikleri yolları desteklerken hayatın neşesini ve çekişmesini yaşıyorlar.\n\nLing Xiao ve He Ziqiu liseden mezun olurken asıl ailelerine geri dönerler. Beş yıl sonra, üçü yeniden bir araya gelir, ancak karmaşık aile geçmişlerinden gelen kalp kırıklıkları peşlerini bırakmayan bir gölge gibi kalır. Kendilerini daha iyi yapabilmek için nihayet kişisel sorunlarını çözebilecekler mi?",
+        "poster_path": "/75SigmLMhs3x4rA149w2hxT3iXD.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "zh",
+        "genre_ids": [
+          18,
+          10751,
+          35
+        ],
+        "popularity": 5.9379,
+        "first_air_date": "2020-08-10",
+        "vote_average": 8.4,
+        "vote_count": 196,
+        "origin_country": [
+          "CN"
+        ]
+      },
+      {
+        "backdrop_path": "/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
+        "id": 250307,
+        "name": "The Pitt",
+        "original_name": "The Pitt",
+        "overview": "Pittsburgh Pennsylvania'daki bir hastanede çalışan sağlık profesyonellerinin, kritik hastaları tedavi etmenin duygusal yüküyle boğuşurken günlük ve hastanedeki yaşamları.",
+        "poster_path": "/6fMGktEDXMZZPACJ5cWkVQ6TSte.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 21.9724,
+        "first_air_date": "2025-01-09",
+        "vote_average": 8.7,
+        "vote_count": 141,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wJLDeUl7QT6Gs3YnIGQQ5K380r3.jpg",
+        "id": 90972,
+        "name": "Station Eleven",
+        "original_name": "Station Eleven",
+        "overview": "Station Eleven, yıkıcı bir grip salgınından kurtulmayı başaran bir grup insanın hayatına odaklanıyor. Dünya nüfusunun %99'u dünyayı kasıp kavuran bir grip salgının kurbanı olur. Hayatta kalbayı başarabilmiş bir grup insan, hayatlarını yeniden inşa etmek için mücadele etmeye başlar.",
+        "poster_path": "/xWlhMOzRxUpu4uzkWcDQOaESCE.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765,
+          9648
+        ],
+        "popularity": 10.2125,
+        "first_air_date": "2021-12-16",
+        "vote_average": 7.0,
+        "vote_count": 345,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/nLyXXIDMpDHvUgxchezxuhoJ4Ej.jpg",
+        "id": 235930,
+        "name": "Devil May Cry",
+        "original_name": "Devil May Cry",
+        "overview": "Gizemli bir düşmanın, cehennemin kapılarını açma tehdidiyle karşı karşıya kalan dünyayı ancak şeytani bir yakışıklılığa sahip bir iblis avcısı kurtarabilir.",
+        "poster_path": "/9YA4ko7x1o2NS65lDrlKAuNAqjJ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "popularity": 17.8876,
+        "first_air_date": "2025-04-03",
+        "vote_average": 7.974,
+        "vote_count": 170,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/rNrG1E0NLoQnYudBmPGKfcY2RIM.jpg",
+        "id": 156933,
+        "name": "Presumed Innocent",
+        "original_name": "Presumed Innocent",
+        "overview": "Korkunç bir cinayet, kendi aralarından biri şüpheli hâline gelmesi ile Şikago Savcılığı’nı altüst eder. Sanığın ise ailesini bir arada tutmak için mücadele etmesi gerekir.",
+        "poster_path": "/7MXg0BxuSRWz2yKc03M40du2mrc.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 18.7897,
+        "first_air_date": "2024-06-11",
+        "vote_average": 7.931,
+        "vote_count": 437,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uQUHCqxHsG9blvtCoL7vluMG9Jp.jpg",
+        "id": 118357,
+        "name": "1883",
+        "original_name": "1883",
+        "overview": "Dutton ailesinin ataları daha iyi bir gelecek arayışıyla Batı’ya doğru zorlu bir yolculuğa çıkarlar. Bu mücadele dolu yolculuğun sonunda büyük bir hanedanlığın tohumları atılır.",
+        "poster_path": "/bjlaecwNRR0Nh4cZMqXbMYQUyny.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          37
+        ],
+        "popularity": 22.4696,
+        "first_air_date": "2021-12-19",
+        "vote_average": 8.286,
+        "vote_count": 731,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vV5LKWmuysEe5wsuZJGbdiL5XJ2.jpg",
+        "id": 194583,
+        "name": "The Walking Dead: Dead City",
+        "original_name": "The Walking Dead: Dead City",
+        "overview": "The Walking Dead: Dead City, Maggie (Lauren Cohan) ve Negan’ın (Jeffrey Dean Morgan) ana karadan uzun zaman önce ayrılmış kıyamet sonrası Manhattan’da seyahat ederken yaşadıklarını konu alıyor.",
+        "poster_path": "/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10765
+        ],
+        "popularity": 56.4854,
+        "first_air_date": "2023-06-18",
+        "vote_average": 8.05,
+        "vote_count": 588,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/kCGwvjpqM1owt9kI4pkYPJWJLvc.jpg",
+        "id": 83867,
+        "name": "Andor",
+        "original_name": "Andor",
+        "overview": "Tehlike, hile ve entrikalarla dolu bir çağda Cassian Andor, zalim Galaktik İmparatorluk'a karşı mücadelede yaratacağı farkı keşfedecek. Cassian, onu asi bir kahramana dönüştürecek bir yola girer.",
+        "poster_path": "/n649NH6UQv3etlgc0pRgzs1ual0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 134.3376,
+        "first_air_date": "2022-09-21",
+        "vote_average": 8.2,
+        "vote_count": 1447,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

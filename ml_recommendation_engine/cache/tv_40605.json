@@ -1,0 +1,653 @@
+{
+  "adult": false,
+  "backdrop_path": "/jR4GKwQADfOQ2twiUtTmWpsUJVi.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    43
+  ],
+  "first_air_date": "1995-12-05",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Gerçeklik"
+    }
+  ],
+  "homepage": "",
+  "id": 40605,
+  "in_production": false,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2010-09-16",
+  "last_episode_to_air": {
+    "id": 1555618,
+    "name": "1. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2010-09-16",
+    "episode_number": 1,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 14,
+    "show_id": 40605,
+    "still_path": null
+  },
+  "name": "Die Harald Schmidt Show",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 163,
+      "logo_path": "/tpuoOACmOTDY96gSQ2dT5sd1Q3Q.png",
+      "name": "SAT.1",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 1369,
+  "number_of_seasons": 14,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Die Harald Schmidt Show",
+  "overview": "",
+  "popularity": 2931.409,
+  "poster_path": "/lQcE1AzjDP5zJRUW76PMRn7ai9W.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1995-12-05",
+      "episode_count": 128,
+      "id": 51414,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/cABrAWIZC4Jw6dKBvsqkvBmZzGP.jpg",
+      "season_number": 1,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1996-08-16",
+      "episode_count": 167,
+      "id": 71055,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1997-08-30",
+      "episode_count": 155,
+      "id": 71063,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1998-08-25",
+      "episode_count": 166,
+      "id": 71096,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/cABrAWIZC4Jw6dKBvsqkvBmZzGP.jpg",
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1999-08-17",
+      "episode_count": 171,
+      "id": 71112,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/cABrAWIZC4Jw6dKBvsqkvBmZzGP.jpg",
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2000-08-15",
+      "episode_count": 170,
+      "id": 71120,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2001-08-14",
+      "episode_count": 161,
+      "id": 71153,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/cABrAWIZC4Jw6dKBvsqkvBmZzGP.jpg",
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2002-08-20",
+      "episode_count": 179,
+      "id": 71178,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/cABrAWIZC4Jw6dKBvsqkvBmZzGP.jpg",
+      "season_number": 8,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2003-09-15",
+      "episode_count": 67,
+      "id": 71195,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/cABrAWIZC4Jw6dKBvsqkvBmZzGP.jpg",
+      "season_number": 9,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2004-12-23",
+      "episode_count": 1,
+      "id": 108220,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2005-08-17",
+      "episode_count": 1,
+      "id": 108221,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2008-08-23",
+      "episode_count": 1,
+      "id": 108222,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2009-09-17",
+      "episode_count": 1,
+      "id": 108223,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2010-09-16",
+      "episode_count": 1,
+      "id": 108224,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 7.0,
+  "vote_count": 16,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5648,
+        "known_for_department": "Acting",
+        "name": "Harald Schmidt",
+        "original_name": "Harald Schmidt",
+        "popularity": 4.299,
+        "profile_path": "/dPlgKtBPmmbQJfbovq43GzE3fxj.jpg",
+        "character": "Host",
+        "credit_id": "52595d7f760ee34661935333",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1516678,
+        "known_for_department": "Acting",
+        "name": "Manuel Andrack",
+        "original_name": "Manuel Andrack",
+        "popularity": 0.945,
+        "profile_path": "/1AD74ehAmUcDJeIBG2L5sSru7aM.jpg",
+        "character": "Assistant Host",
+        "credit_id": "560b01d29251417194003260",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 135677,
+        "known_for_department": "Acting",
+        "name": "Helmut Zerlett",
+        "original_name": "Helmut Zerlett",
+        "popularity": 1.749,
+        "profile_path": "/r8gKau9pzIwtpvGyxrwBXAzjRAa.jpg",
+        "character": "Band Leader",
+        "credit_id": "560b01c09251417191003620",
+        "order": 2
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "sketch comedy",
+        "id": 156203
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/dL9dGldfasnx0Hb8m71ZjYU6i2a.jpg",
+        "id": 211894,
+        "name": "Eiskalte Spur",
+        "original_name": "Eiskalte Spur",
+        "overview": "",
+        "poster_path": "/cHBq418SeBEoYSjMES9CfYTHAv4.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 0.675,
+        "first_air_date": "2020-12-09",
+        "vote_average": 5.0,
+        "vote_count": 1,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "backdrop_path": "/1TsnKEBW6gQhSaafoFCd2E9mV9.jpg",
+        "id": 116798,
+        "name": "Hitler's Most Wanted",
+        "original_name": "Hitler's Most Wanted",
+        "overview": "An original perspective on how and why a generation of men and women living in a European society became the leaders of one of the most terrifying regimes of all time, responsible for 60 million deaths. Visiting the places where elite Nazi leaders grew up and the sites of their worst atrocities, James Ellis, a dedicated young historian, explores the defining moments which transformed everyday Germans into mass murderers.",
+        "poster_path": "/8RYV0ZzkbOjoOOqJSvLpTmOBYtx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 4.144,
+        "first_air_date": "2019-05-16",
+        "vote_average": 0.0,
+        "vote_count": 1,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/iuMj6fG3NZpTNVJY6IrnVX91QJ0.jpg",
+        "id": 89688,
+        "name": "Itsudatte My Santa!",
+        "original_name": "いつだってMyサンタ！",
+        "overview": "Mai, a Santa in training, appears in front of an unlucky boy named Santa on Christmas Eve, promising him that she will make him happy for one night.",
+        "poster_path": "/mrE9g6pgoIJldkj4HcWTrUn1rym.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 6.42,
+        "first_air_date": "2005-12-07",
+        "vote_average": 5.5,
+        "vote_count": 2,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/aYrvYmAnEL2Nzyd447f344Lafg2.jpg",
+        "id": 113666,
+        "name": "The Joy of Life",
+        "original_name": "Le bonheur de la vie",
+        "overview": "This series answers children's most intimate questions concerning their sexuality.",
+        "poster_path": "/l6XJd2X0hv763x4rHSYD6dHm6Xc.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          16,
+          10762,
+          10751
+        ],
+        "popularity": 8.207,
+        "first_air_date": "1991-04-07",
+        "vote_average": 8.0,
+        "vote_count": 1,
+        "origin_country": [
+          "FR"
+        ]
+      },
+      {
+        "backdrop_path": "/3QJ4F31e9Q22q1ZnsR53decB04h.jpg",
+        "id": 215925,
+        "name": "Christmas Always Finds Its Way",
+        "original_name": "Christmas Always Finds Its Way",
+        "overview": "What happens when Santa meets a vampire? Can a miniature Christmas window display rekindle an old love? Will a magical computer help a town regain its lost Christmas spirit? From Real Magic and Imagine Entertainment come three thrilling tales about Christmas, togetherness, and discovering the magic that's all around us.",
+        "poster_path": "/xJbOGq99oSg0I9g4BYxsm3D5aDp.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10759
+        ],
+        "popularity": 1.774,
+        "first_air_date": "2022-12-07",
+        "vote_average": 6.0,
+        "vote_count": 2,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 240801,
+        "name": "Yıldızlar Bana Uzak",
+        "original_name": "Yıldızlar Bana Uzak",
+        "overview": "Kadir ve Aslı… Onların aşkı unutulacak ya da zamana yenilecek bir aşk değildir. Sonsuza kadar hatırlanacak kutsal bir bağ gibidir. Ama Kadir’in hapse girmesi hem de Aslı’nın babasının katili olarak hapse girmesi bütün güzel anıların yitip gitmesine yol açar. Aslı bu darbenin etkisiyle savrulurken Kadir’in artık tek bir amacı vardır. Masumiyetini ispatlamak ve hapishanede kendisine yol gösteren Yahya ile birlikte bu oyunu oynayan Varnalı ailesinden intikam almak… Gerçekler ortaya çıktığında ise içlerinde küllenmiş aşk ateşi yeniden alev almaya yüz tutacak olsa da, geçmişe gömülmüş büyük sırlar yüzünden o büyülü mutluluk bir kez daha avuçlarından kayıp gitmek üzeredir.",
+        "poster_path": "/vWJyhfRQHi4HsiocR3R4p1tqghh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "tr",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 13.057,
+        "first_air_date": "2023-12-31",
+        "vote_average": 4.0,
+        "vote_count": 2,
+        "origin_country": [
+          "TR"
+        ]
+      },
+      {
+        "backdrop_path": "/bwDHlqsVO9etc1EHVb9nmd5svOi.jpg",
+        "id": 82489,
+        "name": "Tokidoki",
+        "original_name": "Tokidoki",
+        "overview": "Paulien Cornelissen, who studied in Japan years ago, goes back to examine the land of the rising sun. Each episode's theme is a unique, almost translatable word from the Japanese language.",
+        "poster_path": "/5Ivv5yv8lqQTJBunroz7ecRtiSJ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "nl",
+        "genre_ids": [],
+        "popularity": 2.894,
+        "first_air_date": "2018-09-16",
+        "vote_average": 8.0,
+        "vote_count": 1,
+        "origin_country": [
+          "NL"
+        ]
+      },
+      {
+        "backdrop_path": "/2k0975sEfGxnqOU5KpHzG4hdDbw.jpg",
+        "id": 39105,
+        "name": "Recipe for Life",
+        "original_name": "Przepis na życie",
+        "overview": "Przepis na życie is a Polish Comedy drama television series produced by Akson Studio for the TVN network. The series was created and written by Polish actress Agnieszka Pilaszewska. The main character is a middle-aged woman whose life changes when her husband leaves her and she loses her job. The only activity that can make her feel better is cooking. This is her passion. The storyline follows her fate, as well as her daughter's and ex-husband's who is now with another woman.",
+        "poster_path": "/sH35af4l49UUgvMllkc3RqyzJ94.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "pl",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 101.779,
+        "first_air_date": "2011-03-06",
+        "vote_average": 6.7,
+        "vote_count": 3,
+        "origin_country": [
+          "PL"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 16716,
+        "name": "The Last Scandal of My Life",
+        "original_name": "마지막 스캔들",
+        "overview": "The Last Scandal of My Life is  about a 39-year-old housewife who finds love with a top actor after a painful divorce.",
+        "poster_path": "/nOARMLOU3L3blgA34gBG8BjxJEI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 12.45,
+        "first_air_date": "2008-03-08",
+        "vote_average": 6.0,
+        "vote_count": 2,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/8z9DLDvyXM5HLiwz5pt73fpxK6L.jpg",
+        "id": 63727,
+        "name": "Seven Year Switch",
+        "original_name": "Seven Year Switch",
+        "overview": "Four married couples try to save their marriages by entering into a social experiment. During this experiment, the four couples switch spouses and live with another participants spouse for two weeks as husband and wife.",
+        "poster_path": "/wl4g5RYKexeUuWYZTmOXSVRXP0k.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 19.018,
+        "first_air_date": "2015-07-08",
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/yo2qVPUqVmv7lOpxcEyJ5FY3Uv8.jpg",
+        "id": 75251,
+        "name": "Udaan",
+        "original_name": "उड़ान",
+        "overview": "A few children, residing in a village in Uttar Pradesh, are forced to work as child labourers. They are exploited by some rich landlords of the village.",
+        "poster_path": "/wNf7StbnqGGUt089ikkVdv8lArQ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "hi",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 6.449,
+        "first_air_date": "2014-08-18",
+        "vote_average": 8.0,
+        "vote_count": 1,
+        "origin_country": [
+          "IN"
+        ]
+      },
+      {
+        "backdrop_path": "/7vgUu6e9HFVvXuwdmpjk6npjvSv.jpg",
+        "id": 86176,
+        "name": "Michalovy barvy",
+        "original_name": "Michalovy barvy",
+        "overview": "",
+        "poster_path": "/oqepshNBSL3QatE3gqtUfMrgbcE.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "cs",
+        "genre_ids": [
+          10762
+        ],
+        "popularity": 13.214,
+        "first_air_date": "2015-09-01",
+        "vote_average": 6.0,
+        "vote_count": 1,
+        "origin_country": [
+          "CZ"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 38051,
+        "name": "Mamuśki",
+        "original_name": "Mamuśki",
+        "overview": "",
+        "poster_path": "/acyWFr6PTStHxagYNfI0kkrWpTU.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [],
+        "popularity": 32.635,
+        "first_air_date": "2007-03-01",
+        "vote_average": 7.0,
+        "vote_count": 2,
+        "origin_country": [
+          "PL"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 16367,
+        "name": "Heist",
+        "original_name": "Heist",
+        "overview": "Heist is a three-part Irish crime documentary series broadcast on RTÉ One. It examined three memorable and notorious large-scale crimes committed in the country and was broadcast on a sequence of Tuesday evenings in July 2008 at 21:35. The series is produced by RTÉ Archive Unit.\n\nThe first programme focused on the Real IRA's attempted robbery of a Securicor vehicle in County Wicklow. The second programme examined the 1995 Brinks Allied Heist in which an armed gang robbed £2.8 million from a Dublin depot in Ireland's most expensive cash raid. The final programme detailed the history of Russborough House, the Irish estate owned by the now dead Sir Alfred Beit, and from which priceless works have been robbed on four separate occasions since 1974. That year, an IRA gang stole nineteen paintings with an estimated value of £8 million including a Vermeer, a Goya, two Gainsboroughs and three Rubens. Beit and one of his staff members were struck by revolvers and then tied up in their library. Then in May 1986, £30 million worth of paintings were stolen by the prominent Dublin criminal Martin Cahill. Most of these were recovered in the United Kingdom and Belgium following an international police operation.",
+        "poster_path": null,
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 0.001,
+        "first_air_date": "",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "origin_country": []
+      },
+      {
+        "backdrop_path": null,
+        "id": 52495,
+        "name": "Tokyo Shower",
+        "original_name": "도쿄 여우비",
+        "overview": "A young actress, Soo-jin, runs away while filming a commercial shoot in Tokyo. She meets and falls in love with Hyun-soo, a sushi chef from Korea living in Japan. Seven years later and now a famous actress, she still cannot forget him.",
+        "poster_path": "/b0TcaLAw4XDeH8cH9qWotigcCrP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 10.495,
+        "first_air_date": "2008-06-02",
+        "vote_average": 3.6,
+        "vote_count": 8,
+        "origin_country": []
+      },
+      {
+        "backdrop_path": "/AfU4AFsjXuDwRTfM8z0h6oCE7X0.jpg",
+        "id": 35146,
+        "name": "For Maddie with Love",
+        "original_name": "For Maddie with Love",
+        "overview": "For Maddie with Love is a 1980 British television drama serial dealing with Maddie’s discovery that she has a brain tumour and only a few months to live.\n\nThis 48-part daytime serial, written by Douglas Watkinson was made by ATV and shown on British television beginning in May 1980. Maddie was played by Nyree Dawn Porter and her husband by Ian Hendry. The series ran over two years from 1980 to 1981 and was published as a novel in 1980 by NEL books. It has never been repeated or remade.\n\nUnusually the setting for the drama looked more like that of a theatre piece. Partial sets were used with only the furniture and background items strictly needed for each scene. This gave the look a slightly surreal feel but one that drew the viewer in.",
+        "poster_path": "/egf3wxcKoPn4bMMJrl2rq4OrZDY.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [],
+        "popularity": 1.005,
+        "first_air_date": "1980-05-01",
+        "vote_average": 5.0,
+        "vote_count": 1,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/6R0X3XKaBkXKBsRgkHb1bBp3x4t.jpg",
+        "id": 57110,
+        "name": "Batman: Black and White Motion Comics",
+        "original_name": "Batman: Black and White Motion Comics",
+        "overview": "",
+        "poster_path": "/vaMbitWw9r0hyMhMaTlaggla8Ot.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16
+        ],
+        "popularity": 9.65,
+        "first_air_date": "2008-12-09",
+        "vote_average": 7.5,
+        "vote_count": 2,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 43843,
+        "name": "Britain's Lost Routes with Griff Rhys Jones",
+        "original_name": "Britain's Lost Routes with Griff Rhys Jones",
+        "overview": "Griff Rhys Jones retraces some famous routes across the UK.",
+        "poster_path": "/8slWg4pLfyH3ZyvZQjnrAzzn1Vn.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 6.287,
+        "first_air_date": "2012-05-31",
+        "vote_average": 6.0,
+        "vote_count": 1,
+        "origin_country": [
+          "GB"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

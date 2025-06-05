@@ -1,0 +1,858 @@
+{
+  "adult": false,
+  "backdrop_path": "/4043WFrLsGnZa3RL4Po9buc1EtF.jpg",
+  "created_by": [
+    {
+      "id": 1214366,
+      "credit_id": "5258efa9760ee346618f06f4",
+      "name": "Edward Kitsis",
+      "original_name": "Edward Kitsis",
+      "gender": 2,
+      "profile_path": "/5Re9mReATq4ZMRuxkona0YzQ1Dt.jpg"
+    },
+    {
+      "id": 1214367,
+      "credit_id": "5258efa9760ee346618f06fa",
+      "name": "Adam Horowitz",
+      "original_name": "Adam Horowitz",
+      "gender": 2,
+      "profile_path": "/rw5D1tDe3CO9Wfuu5BD6eaMnkEA.jpg"
+    }
+  ],
+  "episode_run_time": [
+    43
+  ],
+  "first_air_date": "2011-10-23",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 10765,
+      "name": "Bilim Kurgu & Fantazi"
+    }
+  ],
+  "homepage": "http://abc.go.com/shows/once-upon-a-time",
+  "id": 39272,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2018-05-18",
+  "last_episode_to_air": {
+    "id": 1463272,
+    "name": "22. Storybrooke'tan Ayrılmak",
+    "overview": "Dilek Rumpel'ın hain planı ortaya çıkar.",
+    "vote_average": 8.4,
+    "vote_count": 5,
+    "air_date": "2018-05-18",
+    "episode_number": 22,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 7,
+    "show_id": 39272,
+    "still_path": "/nCA4A5oZ6Fs904gGMABf1k9zpoK.jpg"
+  },
+  "name": "Once Upon a Time",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 156,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Once Upon a Time",
+  "overview": "Hepsi sonsuza kadar mutlu mesut yaşadılar… Ya da herkesin bu cümleye inanması sağlandı. Şimdi 28 yaşında olan Emma Swan kendisine nasıl bakacağını biliyor çünkü bebekken terk edildiğinden beri o bunu zaten yapıyor ama onunda yıllar önce terk ettiği oğlu onu tekrar buluyor ve işte her şey burada değişmeye başlıyor. Henry şimdi 10 yaşında ve Emma’nın yardımına muhtaç. Çünkü Henry aslında Emma’nın alternatif bir dünyadan geldiğine ve Pamuk Prenses ve yakışıklı Prens’in kızı olduğunu inanıyor. Sahip olduğu masallar kitabına göre, onu Korkunç Cadı’nın lanetinden korumak için başka bir diyara göndermeleri gerekiyordu bu sayede cadı masallar ülkesinde kapana kısılmış, zamanda donmuş olacaktı ama tabi ki Emma bu hikâyenin bir kelimesine bile inanmamaktadır. Emma bu küçük çocuğu alıp yaşadığı yer olan Storybrooke’a götürür fakat Henry’nin durumuna endişelendiğini için bir süre orda kalmaya karar verir. Orda geçirdiği zamanda Storybrooke’ta çok daha değişik şeyler döndüğünden şüphelenecektir. Orası sihrin unutulduğu ama gücünün de çok yakında hissedildiği, tüm masal karakterlerinin yaşadığı ama bir zamanlar kim olduklarını hatırlamadıkları bir yerdir. Tüm dünyaların geleceğe dair verecekleri bu epik savaşta Emma’nın kaderini kabullenmesi ve çalgınlar gibi savaşması gerekmektedir.",
+  "popularity": 76.3427,
+  "poster_path": "/u95scYysMZvBoekSLmMNJjeqXcY.jpg",
+  "production_companies": [
+    {
+      "id": 76781,
+      "logo_path": null,
+      "name": "Kitsis/Horowitz",
+      "origin_country": "US"
+    },
+    {
+      "id": 19366,
+      "logo_path": "/vOH8dyQhLK01pg5fYkgiS31jlFm.png",
+      "name": "ABC Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2012-09-29",
+      "episode_count": 44,
+      "id": 50703,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/c3UiJxKziI3E9LsuCwgaxgE7A3k.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-10-23",
+      "episode_count": 22,
+      "id": 50700,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/zheXKUnVBwDRpRaKLHr4i967pwa.jpg",
+      "season_number": 1,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2012-09-30",
+      "episode_count": 22,
+      "id": 50701,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/93u0lqEVp1Isj8LqiorVZiuorIc.jpg",
+      "season_number": 2,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2013-09-29",
+      "episode_count": 22,
+      "id": 50702,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/qPBmN10mcoEWnJrUcLyroEYukr8.jpg",
+      "season_number": 3,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2014-09-28",
+      "episode_count": 23,
+      "id": 62835,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/5yn17zDIujdP3T7C9YZHKbyQvtx.jpg",
+      "season_number": 4,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2015-09-27",
+      "episode_count": 23,
+      "id": 68211,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/1ZKnr8yFMEtH4voLFO73WtslZcd.jpg",
+      "season_number": 5,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2016-09-25",
+      "episode_count": 22,
+      "id": 79788,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/1L9eC6R1PiF2ztbMvOvEir1aUJd.jpg",
+      "season_number": 6,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2017-10-06",
+      "episode_count": 22,
+      "id": 91667,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/rBNAWejc4qmKAmdhp2bN2qYMI5S.jpg",
+      "season_number": 7,
+      "vote_average": 7.2
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.378,
+  "vote_count": 2319,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 177231,
+        "known_for_department": "Acting",
+        "name": "Lana Parrilla",
+        "original_name": "Lana Parrilla",
+        "popularity": 2.0548,
+        "profile_path": "/jw0H1hMEW9xJ4atAzGMMRUFiys.jpg",
+        "character": "Regina Mills / Evil Queen",
+        "credit_id": "5258efa4760ee346618f0308",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 235767,
+        "known_for_department": "Acting",
+        "name": "Colin O'Donoghue",
+        "original_name": "Colin O'Donoghue",
+        "popularity": 1.4887,
+        "profile_path": "/jxdxsSd1cNY3bXqhVwe7BWNjsJ8.jpg",
+        "character": "Captain Hook",
+        "credit_id": "5258efa8760ee346618f05f6",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18023,
+        "known_for_department": "Acting",
+        "name": "Robert Carlyle",
+        "original_name": "Robert Carlyle",
+        "popularity": 3.1254,
+        "profile_path": "/yOdTewlmmvxqDaKbWJ7eAk0ULCf.jpg",
+        "character": "Mr. Gold / Rumplestiltskin / Weaver",
+        "credit_id": "5258efa6760ee346618f0494",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5503,
+        "known_for_department": "Acting",
+        "name": "Gabrielle Anwar",
+        "original_name": "Gabrielle Anwar",
+        "popularity": 2.8717,
+        "profile_path": "/v0zVLAM7kv7ZP0j95HWfNPr1fvp.jpg",
+        "character": "Victoria Belfrey / Lady Tremaine",
+        "credit_id": "59e168b5c3a3680dbf006573",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 37046,
+        "known_for_department": "Acting",
+        "name": "Dania Ramirez",
+        "original_name": "Dania Ramirez",
+        "popularity": 1.7986,
+        "profile_path": "/cxszUNiRplTWv3BRtgiQxdshbHg.jpg",
+        "character": "Jacinda Vidrio / Cinderella",
+        "credit_id": "59e168ccc3a3680e0e00682c",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 202952,
+        "known_for_department": "Acting",
+        "name": "Mekia Cox",
+        "original_name": "Mekia Cox",
+        "popularity": 3.5611,
+        "profile_path": "/r8RrebMle9U3Xiwl2hiD6pFdfSl.jpg",
+        "character": "Sabine / Tiana",
+        "credit_id": "5e96ea8030f79c0019d86c1a",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 211598,
+        "known_for_department": "Acting",
+        "name": "Andrew J. West",
+        "original_name": "Andrew J. West",
+        "popularity": 1.2185,
+        "profile_path": "/9cgJAb7Frqn9kBR3p73zASfPNBb.jpg",
+        "character": "Henry Mills",
+        "credit_id": "59d96d48925141252c030cab",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1472792,
+        "known_for_department": "Acting",
+        "name": "Alison Fernandez",
+        "original_name": "Alison Fernandez",
+        "popularity": 1.3384,
+        "profile_path": "/3L5tZZzoo422CmLvSEA88PaBrNb.jpg",
+        "character": "Lucy Vidrio",
+        "credit_id": "59d96d74925141251f032cca",
+        "order": 21
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4140,
+        "known_for_department": "Sound",
+        "name": "Mark Isham",
+        "original_name": "Mark Isham",
+        "popularity": 2.1614,
+        "profile_path": "/ayQ1j1T3wFk44kliy1u4atTT8um.jpg",
+        "credit_id": "669ec4f2c5e20d62a81876c6",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1549295,
+        "known_for_department": "Sound",
+        "name": "Thomas DeGorter",
+        "original_name": "Thomas DeGorter",
+        "popularity": 0.4978,
+        "profile_path": null,
+        "credit_id": "580e81749251416c4e0001c5",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1561180,
+        "known_for_department": "Sound",
+        "name": "Joseph Schultz",
+        "original_name": "Joseph Schultz",
+        "popularity": 0.1966,
+        "profile_path": null,
+        "credit_id": "580e819a9251416b7700025f",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2128983,
+        "known_for_department": "Visual Effects",
+        "name": "Danica Tsang",
+        "original_name": "Danica Tsang",
+        "popularity": 0.4568,
+        "profile_path": null,
+        "credit_id": "67af64c7f12cec6e301cc715",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2121490,
+        "known_for_department": "Visual Effects",
+        "name": "Rob Price",
+        "original_name": "Rob Price",
+        "popularity": 1.0736,
+        "profile_path": null,
+        "credit_id": "67af6a0d80f76d61eb8e7e1c",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "magic",
+        "id": 2343
+      },
+      {
+        "name": "fairy tale",
+        "id": 3205
+      },
+      {
+        "name": "fantasy world",
+        "id": 170362
+      },
+      {
+        "name": "based on fairy tale",
+        "id": 179411
+      },
+      {
+        "name": "storybook",
+        "id": 179655
+      },
+      {
+        "name": "false memory",
+        "id": 187008
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/AoX5EadGgVigJIQPkGYkAV9M0hE.jpg",
+        "id": 57754,
+        "name": "Once Upon a Time in Wonderland",
+        "original_name": "Once Upon a Time in Wonderland",
+        "overview": "Viktoryan dönemi İngiltere'sinde genç ve güzel Alice (Sophie Lowe) tavşan deliğinin diğer tarafında bulunan tuhaf ve yeni bir ülkenin masalını anlatıyor. Görünmez bir kedi, nargile içen bir tırtıl ve konuşan canlı iskambil kartları Alicein bu imkansız macerasında karşılaştığı fantastik şeylerden birkaçı. Tabi bu sorunlu kız böyle bir şey anlattığına göre, deli olduğu düşünülür. Doktorları da her şeyi unutmasına neden olacak bir tedaviyle onu iyileştirmeye çalışır. Alice tüm bunları arkasında bırakmaya hazır görünür, özellikle de aşık olduğu ama sonsuza kadar kaybettiği cinin yakışıklı ve gizemli Cyrus (Peter Gadiot) acı veren hatırasını. Ama Alice içinde o dünyanın gerçek olduğunu bilir. Kupa Valesi (Michael Socha) ve durdurulamaz Beyaz Tavşan (John Lithgow) tam zamanında onu içinde bulunduğu durumdan kurtarmaya gelir. Hep birlikte tavşan deliğinden geçerek hiçbir şeyin imkansız olmadığı Harikalar Dünyasına giderler.",
+        "poster_path": "/p0Tq3A9CzvzjGWR3L7xBuqIAoJT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 7.5687,
+        "first_air_date": "2013-10-10",
+        "vote_average": 6.947,
+        "vote_count": 132,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/jg3iq5KFCVrYHVZrPLqznKW2Fz0.jpg",
+        "id": 33001,
+        "name": "Haven",
+        "original_name": "Haven",
+        "overview": "Zeki ve kendinden emin FBI Ajanı Audrey Parker'ın hayatında geçmişe dair boşluklar vardır. Sıradan bir vaka için Maine'deki Haven adlı küçük bir kasabaya gelir. Çok geçmeden mesleki merakı onu bu dışa kapalı yerleşim merkezindeki tuhaf olayların merkezine çeker. Sonradan anlaşılır ki bu kasaba doğaüstü olaylardan çeşitli şekillerde etkilenen insanların toplanma yeridir. Kasaba halkının kendini göstermeyen yetenekleri gün yüzüne çıkmaya başladıkça Audrey bir yandan bu güçlerin kasaba dışına yayılmasını önlemeye çalışırken bir yandan da Haven'ın sırlarını keşfetmeye devam eder.",
+        "poster_path": "/aceumwROgphFLSyOXFfijaoSZJE.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765,
+          9648
+        ],
+        "popularity": 37.9723,
+        "first_air_date": "2010-07-09",
+        "vote_average": 7.5,
+        "vote_count": 465,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1orqm4lN8VtYGlxZ1g12ip6iwmG.jpg",
+        "id": 1417,
+        "name": "Glee",
+        "original_name": "Glee",
+        "overview": "Dizi, bir lisede geçiyor. Will Schuester, lise çağlarında koroda şarkı söylemiş ve büyük bir ödül kazanmış, şu anda da mezun olduğu okulda çalışan genç bir öğretmendir. Zamanında büyük işler başaran bu koro şimdi tam bir enkaz halinde olduğundan Schuester, bu koroya el atmaya karar verir ve onları eğitmeye başlar. Okulun bu kaybedenler takımı, Will Schuester sayesinde yavaş yavaş içinde ki yeteneği ortaya çıkarıp kendilerinin bile beklemediği bir şekilde popüler olmaya başlayacaktır.",
+        "poster_path": "/62T2vsZYTje3KhdCsiLR1K1RFJW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 35.4143,
+        "first_air_date": "2009-05-19",
+        "vote_average": 6.8,
+        "vote_count": 855,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/6GIf7uiQ4Y5xPzIRkTct2NIyBqK.jpg",
+        "id": 365,
+        "name": "Jericho",
+        "original_name": "Jericho",
+        "overview": "Ufukta aniden beliren nükleer bir bulut; küçük, huzurlu Kansas kasabası Jericho'nun sakinlerini tam bir kaosun içine sürükler. ABD'nin büyük bir kısmı, nükleer felakete maruz kalmıştır. Dünyadan tamamen izole olan Jericho'lular, hayatta kalan tek Amerikalılar olup olmadıklarını merak etmektedirler. Tüm iletişim ve enerji faaliyetlerinin durmasıyla birlikte bilinmeyinin yarattığı korku, Jericho'da sosyal, psikolojik ve fiziksel olarak tam bir karmaşa ortamı yaratır. Fakat kriz zamanlarında hiç beklenmedik insanlar, kendilerinde daha önce farkına varmadıkları bir kuvveti keşfederek birer kahramana dönüşebilir.",
+        "poster_path": "/a57H9UsS388Av2LSLKO9inNmY7j.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          9648,
+          37
+        ],
+        "popularity": 16.7468,
+        "first_air_date": "2006-09-20",
+        "vote_average": 7.4,
+        "vote_count": 489,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wPJgjOfsFUny1WBo53Q9xtIMSs.jpg",
+        "id": 104157,
+        "name": "Katla",
+        "original_name": "Katla",
+        "overview": "Bir buzul altı yanardağının patlamasından bir yıl sonra, eriyen buzdan tarih öncesi çağlardan kalma gizemli unsurlar ortaya çıkar ve beklenmedik sonuçlar doğurur.",
+        "poster_path": "/9RgnnbtRmc2wpNdTDLz4P28hTw4.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "is",
+        "genre_ids": [
+          18,
+          9648,
+          10765
+        ],
+        "popularity": 4.1269,
+        "first_air_date": "2021-06-17",
+        "vote_average": 6.989,
+        "vote_count": 353,
+        "origin_country": [
+          "IS"
+        ]
+      },
+      {
+        "backdrop_path": "/ombM2Yd0UORA7AlxXnIQ6ZFd8yE.jpg",
+        "id": 48865,
+        "name": "Reign",
+        "original_name": "Reign",
+        "overview": "Kraliçe Mary’nin bilinmeyen ve daha önce anlatılmamış iktidara yükselme hikayesi; 15 yaşında ve Prens Francis ile nişanlıyken Fransa’ya gelmesi ve üç yakın arkadaşıyla yaşadıkları anlatılıyor. Öfkeli düşmanlar, karanlık güçler ve cinsel entrikalar dünyasında sarayda yaşarken hayatta kalma hikayesi.",
+        "poster_path": "/epNfFs0gPyrpekecpzyX0XTkZgI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 51.3444,
+        "first_air_date": "2013-10-17",
+        "vote_average": 8.055,
+        "vote_count": 836,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/u04AvxFIDgL9JSd9xoVNK3BoBEd.jpg",
+        "id": 39340,
+        "name": "2 Broke Girls",
+        "original_name": "2 Broke Girls",
+        "overview": "Dizide olaylar, zengin ve soylu bir aileden gelen Caroline'in birden bire beş parasız kalması ve Max ile aynı restoranda çalışmaya başlaması sonrasında kurdukları arkadaşlık üzerine kurulmuştur. Karakter olarak Max, kendi yağıyla kavrulan, gündüzleri bebek bakıcılığı, akşamları da garsonluk yaparak geçimini sağlayan, sokak kültürüyle yetişmiş, lafını esirgemeyen, tabiri caizse lafı gediğine oturtan bir kızdır. Max'in aksine Caroline ise girişimciliği ön planda olan, 1'i 2 yapmanın yollarını arayan, daha çok mantığını kullanan bir kızdır ve onunda önerisiyle aldıkları karar sonucu kendi \"çörek dükkânlarını\" açmaya karar verirler. Bunun için yaptıkları hesap sonucunda ortalama 250.000 dolara sahip olmaları gerekmektedir ve nihayetinde, her bölümün sonunda elde ettikleri toplam kazancın bir çetelesi izleyiciye sunulmaktadır.",
+        "poster_path": "/qCa4ANpF1QOioqRUNHgk2B3KFMZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 49.8081,
+        "first_air_date": "2011-09-19",
+        "vote_average": 7.2,
+        "vote_count": 1588,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/21fr4skILqHaCz0VY50DQn0tYhO.jpg",
+        "id": 99610,
+        "name": "Feel Good",
+        "original_name": "Feel Good",
+        "overview": "Mae bir komedyendir ve kariyeri kötü gitmekte, aynı zamanda bir terapi grubuyla bağımlılık tedavisini devam ettirmeye çalışmaktadır. Bunların yanı sıra aile ilişkileri de pek yolunda değildir. George ise Mae ile tanıştığı güne kadar kendisini heteroseksüel olarak tanıyan bir kadındır. Mae ve George tanıştıktan sonra birbirlerinin hayatında önemli değişikliklere yol açarlar",
+        "poster_path": "/hjtki8Kr4hGNIb3I0lvtZH8q6MU.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 5.0475,
+        "first_air_date": "2020-03-18",
+        "vote_average": 7.3,
+        "vote_count": 223,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/6lYM8Xs6R4Uc5iYEIQsypwVigqi.jpg",
+        "id": 40546,
+        "name": "The 10th Kingdom",
+        "original_name": "The 10th Kingdom",
+        "overview": "Virginia and Tony, a father and daughter living in Manhattan, find themselves in a parallel universe where Snow White, Cinderella and Little Red Riding Hood are struggling to maintain order. Their kingdoms have been fragmented by trolls, giants and goblins.",
+        "poster_path": "/aD5ISjx3AG1rygncAdv7eb8KYYo.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          35,
+          10751,
+          9648
+        ],
+        "popularity": 6.4283,
+        "first_air_date": "2000-02-27",
+        "vote_average": 7.6,
+        "vote_count": 244,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2Qy30HCQ4nJRBLAj6qfBBsk6FQh.jpg",
+        "id": 67265,
+        "name": "Chesapeake Shores",
+        "original_name": "Chesapeake Shores",
+        "overview": "A divorced mom deals with an old romance and complicated family issues when she returns to her hometown with her twin daughters.",
+        "poster_path": "/wAWnKnDwrhfUZZ3hKlwr23yBOwM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 16.7158,
+        "first_air_date": "2016-08-14",
+        "vote_average": 7.828,
+        "vote_count": 137,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lYD41UqeRJohZ2nJnpwpSQJiCcj.jpg",
+        "id": 37664,
+        "name": "The Secret Circle",
+        "original_name": "The Secret Circle",
+        "overview": "After her mother dies in a fire, Cassie Blake moves in with her grandmother in the small town of Chance Harbor, Washington. As she gets to know her high school classmates, strange and frightening things begin to happen. They are all descended from powerful witches, and they've been waiting for Cassie to join them and complete a new generation of the Secret Circle. What they don't yet know is that darker powers are at play and that Cassie's mother's death might not have been an accident.",
+        "poster_path": "/3MwvNMhD9xpf1exlSfWgVm4sOF5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 6.8121,
+        "first_air_date": "2011-09-15",
+        "vote_average": 7.301,
+        "vote_count": 342,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9jlwGGx9zTkEV5mnuyQXDTUMCw3.jpg",
+        "id": 33852,
+        "name": "Lost Girl",
+        "original_name": "Lost Girl",
+        "overview": "Lost Girl, doğaüstü baştan çıkarıcı ‘Bo’nun (Anna Silk) hayatını konu alıyor. ‘Bo’ aslında bir ‘Succubus’ yani ölümlülerin seksüel enerjilerinden beslenen bayan bir iblis. Bo normal bir kız gibi insan ailesinin yanında büyüdü ve normal bir kız olduğuna inanıyordu ta ki erkek arkadaşı ile ilk seksüel faaliyetinde bütün enerjisini emene kadar. Şimdi tek başına yollarda ve korkuyor. Sonraları kendisinin bir ‘Fae’, milenyum yıllarına kadar sırlarını başarı ile korumuş efsanevi yaratık grubu, olduğunu keşfeder. Yanlız olmadığını öğrendiğinde dehşete düşer, ‘Fae’ ve insan arasında orta yolda gitmeye karar verir ve geçmişini nereden, nasıl geldiğini öğrenmeyi kendine görev olarak sayar, bu görevin ilk aşaması ise biyolojik annesini bulmaktır.\n\nBo’ya dizide şekilden şekile giren dedektif Dyson rolünde Kris Holden-Reid, kendisine bilimsel yollardan yardım etmeye çalışan insan doktor Lauren rolünde Zoie Palmer, en iyi arkadaşı olarak Kenzie rolünde iki kere Gemini Award ödülünü kazanan Ksenia Solo eşlik ediyor. Kadroda ayrıca Rick Howard’ı Trick rolünde, arkadaş canlısı ama bir şeyler gizlemeye çalışan bar sahibi ve Emmanuelle Vaugier yer alıyor.",
+        "poster_path": "/jE6sqorxIyVU55VhDbz7NbqxZlV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 17.1779,
+        "first_air_date": "2010-09-12",
+        "vote_average": 7.725,
+        "vote_count": 416,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/hOdTVqJPXTnvmWeXgRZBlXDdoYE.jpg",
+        "id": 1411,
+        "name": "Person of Interest",
+        "original_name": "Person of Interest",
+        "overview": "Kameralar her yerde! İzliyorlar, dinliyorlar, kaydediyorlar. Sizin hakkınızda her şeyi biliyorlar! Peki siz onlar hakkında ne biliyorsunuz? Gizemli bir iş adamı olan Mr. Finch, ileride işlenecek suçları önceden önlemeyi hedefleyen bir bilgisayar programı geliştirir. İlginç bir karaktere sahip bu milyoner işadamı elindeki programı hayata geçirebilmek için resmi kayıtlarda ölü olarak geçen Reese adlı eski bir CIA ajanıyla anlaşır. Kendi kaynakları ve teknolojisiyle Reese'in yetenekleri ve sezgilerini birleştiren Mr. Finch'in amacı gelecekte işlenecek olan suçları henüz suçlular eyleme geçmeden önlemektir.",
+        "poster_path": "/6FuKOyJgViZXgMDOq9djFJLWPqX.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          80,
+          10765
+        ],
+        "popularity": 33.1051,
+        "first_air_date": "2011-09-22",
+        "vote_average": 8.074,
+        "vote_count": 1815,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/oS3nip9GGsx5A7vWp8A1cazqJlF.jpg",
+        "id": 39351,
+        "name": "Grimm",
+        "original_name": "Grimm",
+        "overview": "Polis dedektifi Nick Burkhardt (David Giuntoli)'ın son 'Grimms'lerden olduğunu keşfetmesiyle çeşili maceralarına tanık olacağız. Dedektif Nick Burkhardt, Portland- Oregon'daki cinayet çalışmalarında korkunç gerçeklerle yüzleşmeye hazırdır. Ta ki tam olarak açıklayamayacağı bazı şeyler görmeye başlayana dek...\n\nNick Burkhardt cinayet masası dedektifi olarak çalıştığından beri, kendini gerçeğe bayağı bir alıştırdığını düşünüyordu. Taa ki, açıklaması zor hatta neredeyse imkânsız şeyleri görmeye başladığından beri. Hasta teyzesi Marie geldiğinde aslında bunların, ‘Grimm’ diye adlandırılan, bir grup seçkin avcı topluluğunun torunları olduğunu ve dünyadaki insan soyunu korumak için doğaüstü yaratıklarla savaştıklarını söylediğinde Nick’in hayatı sonsuza kadar değişecektir. ",
+        "poster_path": "/iOptnt1QHi6bIHmOq6adnZTV0bU.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          10765
+        ],
+        "popularity": 63.6374,
+        "first_air_date": "2011-10-28",
+        "vote_average": 8.266,
+        "vote_count": 3312,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1EBMUCxPjGQneeyshurFBpqXVL9.jpg",
+        "id": 61599,
+        "name": "The Librarians",
+        "original_name": "The Librarians",
+        "overview": "Hepimizi çevreleyen gizli ve büyülü bir dünyadan bizi yani masumları korumaya çalışan dört sıradan insan seçilir. Flynn karakteri (Noah Wyle) bu kişileri seçerek, bir araya getirir. Bu yolda antik bir güç için çalışmaları gerekmektedir.",
+        "poster_path": "/jnEzRcKFqaSXLAP87gVKTXawwGg.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          35
+        ],
+        "popularity": 16.2355,
+        "first_air_date": "2014-12-07",
+        "vote_average": 7.265,
+        "vote_count": 480,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/tOpAS2rLuIQlqO4cwuDLMiedn2S.jpg",
+        "id": 1848,
+        "name": "Winx Club",
+        "original_name": "Winx Club",
+        "overview": "In a magical universe, witches, warriors begin fighting in the name of good .vs. evil! At a magic school, five teenage girls are selected to defend the universe with their magic.",
+        "poster_path": "/iAEh0rhHfq0oPdsZbsCSNPRBHXW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "it",
+        "genre_ids": [
+          10762,
+          16,
+          10765,
+          10759,
+          9648
+        ],
+        "popularity": 51.6065,
+        "first_air_date": "2004-01-28",
+        "vote_average": 8.052,
+        "vote_count": 500,
+        "origin_country": [
+          "IT",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/iWQMxRDCTruFjbQ79qxpHAmklNw.jpg",
+        "id": 61671,
+        "name": "Unbreakable Kimmy Schmidt",
+        "original_name": "Unbreakable Kimmy Schmidt",
+        "overview": "Geçirdiği 15 yılın ardından bağlı olduğu tarikattan kaçan Kimmy, New York’ta kendine yeni bir hayat kurmaya çalışır. The Office’den tanıdığımız Ellie Kemper’ın başrolde olduğu dizinin altında, ünlü aktris ve senarist Tina Fey’in imzası var…",
+        "poster_path": "/eMFHl0HyLg7k04OVeE4xPvT6XhY.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 26.1351,
+        "first_air_date": "2015-03-06",
+        "vote_average": 7.144,
+        "vote_count": 557,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4PhaaA593zHfAyYUIXVWTih3qcD.jpg",
+        "id": 605,
+        "name": "Sabrina, the Teenage Witch",
+        "original_name": "Sabrina, the Teenage Witch",
+        "overview": "On her sixteenth birthday, Sabrina Spellman discovers she has magical powers. She lives with her 600-year-old aunts Hilda and Zelda as well as talking cat Salem in the fictional town of Westbridge, Massachusetts.",
+        "poster_path": "/nNhj3coHNVVJPVM7fm5PEYVTCMO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751,
+          10765
+        ],
+        "popularity": 68.1617,
+        "first_air_date": "1996-09-27",
+        "vote_average": 7.811,
+        "vote_count": 1134,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/yFFW6MtYRjBHppYWskmG81pR7xV.jpg",
+        "id": 39859,
+        "name": "Awkward.",
+        "original_name": "Awkward.",
+        "overview": "An irreverent look at the conflict, chaos and humor that defines teenage life through the eyes of 15-year-old Jenna Hamilton whose life begins to change when a simple accident becomes an epic misunderstanding and is blown way out of proportion. Narration in the first-person voice of Jenna's blog posts captures the humor within the struggles and experiences everyone can relate to from their formative years.",
+        "poster_path": "/hRCQ0BDFcblyLitmio28pJqBN6s.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 28.2239,
+        "first_air_date": "2011-07-19",
+        "vote_average": 7.427,
+        "vote_count": 398,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zi40ANCqdvVqCN3q43g1hjdVCsp.jpg",
+        "id": 1407,
+        "name": "Homeland",
+        "original_name": "Homeland",
+        "overview": "Irak'ta öldürüldüğü tahmin edilen bir Amerikan askeri, kaybolduktan 8 yıl sonra geri döner. Ancak eve dönüş sevinci sona erdikten sonra, onun gerçekten bir Amerikan kahramanı olup olmadığı ya da bir terör saldırısı planlayan uyuyan bir hücrenin parçası olup olmadığı konusunda şüpheler ortaya çıkar.",
+        "poster_path": "/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10768,
+          80
+        ],
+        "popularity": 46.8217,
+        "first_air_date": "2011-10-02",
+        "vote_average": 7.558,
+        "vote_count": 2308,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

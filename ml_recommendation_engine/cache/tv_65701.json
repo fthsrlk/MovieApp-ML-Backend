@@ -1,0 +1,886 @@
+{
+  "adult": false,
+  "backdrop_path": "/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg",
+  "created_by": [
+    {
+      "id": 1176585,
+      "credit_id": "56ce9a48c3a3681e390010af",
+      "name": "Rhett McLaughlin",
+      "original_name": "Rhett McLaughlin",
+      "gender": 2,
+      "profile_path": "/JJoUGFBGQCilaY7vOZeHCaupzW.jpg"
+    },
+    {
+      "id": 1176586,
+      "credit_id": "56ce9a52c3a3681e440014a9",
+      "name": "Link Neal",
+      "original_name": "Link Neal",
+      "gender": 2,
+      "profile_path": "/nkNxzM4AYcQQswu3y7oOY5Kovfa.jpg"
+    }
+  ],
+  "episode_run_time": [
+    10
+  ],
+  "first_air_date": "2012-01-09",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Komedi"
+    }
+  ],
+  "homepage": "http://youtube.com/rhettandlink2",
+  "id": 65701,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-03-04",
+  "last_episode_to_air": {
+    "id": 6029009,
+    "name": "52. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-06",
+    "episode_number": 52,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 20,
+    "season_number": 27,
+    "show_id": 65701,
+    "still_path": "/8bIrWzOtRgs1lcAQgfuU2qjVyoY.jpg"
+  },
+  "name": "Good Mythical Morning",
+  "next_episode_to_air": {
+    "id": 6030818,
+    "name": "53. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-07",
+    "episode_number": 53,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 17,
+    "season_number": 27,
+    "show_id": 65701,
+    "still_path": "/nQdQwmOWQfbS1UpmU9hvHUV8bda.jpg"
+  },
+  "networks": [
+    {
+      "id": 247,
+      "logo_path": "/9Ga8A5QegQmiSVHp4hyusfMfpVk.png",
+      "name": "YouTube",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 3049,
+  "number_of_seasons": 27,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Good Mythical Morning",
+  "overview": "",
+  "popularity": 3344.859,
+  "poster_path": "/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
+  "production_companies": [
+    {
+      "id": 83074,
+      "logo_path": null,
+      "name": "Rhett & Link",
+      "origin_country": ""
+    },
+    {
+      "id": 83075,
+      "logo_path": null,
+      "name": "Mythical Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 781,
+      "id": 168953,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2012-01-09",
+      "episode_count": 129,
+      "id": 74857,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2012-08-06",
+      "episode_count": 85,
+      "id": 80041,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2013-01-14",
+      "episode_count": 60,
+      "id": 80127,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2013-09-03",
+      "episode_count": 79,
+      "id": 180047,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2014-01-08",
+      "episode_count": 124,
+      "id": 80128,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2014-07-14",
+      "episode_count": 115,
+      "id": 80151,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2015-01-12",
+      "episode_count": 135,
+      "id": 80170,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2015-08-10",
+      "episode_count": 100,
+      "id": 80600,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2016-01-11",
+      "episode_count": 115,
+      "id": 80129,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2016-08-01",
+      "episode_count": 105,
+      "id": 79033,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2017-01-16",
+      "episode_count": 109,
+      "id": 84322,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2017-08-21",
+      "episode_count": 191,
+      "id": 91712,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/dSiBXGrzVXxEwPVKmuRS08BsuUh.jpg",
+      "season_number": 12,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2018-01-08",
+      "episode_count": 214,
+      "id": 97950,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": "/z0beSI0A23BCi1bwGAs1wN7fKE4.jpg",
+      "season_number": 13,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2018-08-20",
+      "episode_count": 95,
+      "id": 155719,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": "/z0beSI0A23BCi1bwGAs1wN7fKE4.jpg",
+      "season_number": 14,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2019-01-07",
+      "episode_count": 125,
+      "id": 180049,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": "/z0beSI0A23BCi1bwGAs1wN7fKE4.jpg",
+      "season_number": 15,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2019-08-26",
+      "episode_count": 91,
+      "id": 180050,
+      "name": "Sezon 16",
+      "overview": "",
+      "poster_path": "/z0beSI0A23BCi1bwGAs1wN7fKE4.jpg",
+      "season_number": 16,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2020-01-13",
+      "episode_count": 144,
+      "id": 180051,
+      "name": "Sezon 17",
+      "overview": "",
+      "poster_path": "/z0beSI0A23BCi1bwGAs1wN7fKE4.jpg",
+      "season_number": 17,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2020-09-14",
+      "episode_count": 74,
+      "id": 168952,
+      "name": "Sezon 18",
+      "overview": "",
+      "poster_path": "/bzhrgL1y7uCF7hdFpm1Ygf7cjL2.jpg",
+      "season_number": 18,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2021-01-11",
+      "episode_count": 139,
+      "id": 173525,
+      "name": "Sezon 19",
+      "overview": "",
+      "poster_path": "/bzhrgL1y7uCF7hdFpm1Ygf7cjL2.jpg",
+      "season_number": 19,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2021-09-14",
+      "episode_count": 76,
+      "id": 209142,
+      "name": "Sezon 20",
+      "overview": "",
+      "poster_path": "/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
+      "season_number": 20,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2022-01-10",
+      "episode_count": 143,
+      "id": 239349,
+      "name": "Sezon 21",
+      "overview": "",
+      "poster_path": "/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
+      "season_number": 21,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2022-09-12",
+      "episode_count": 76,
+      "id": 307725,
+      "name": "Sezon 22",
+      "overview": "",
+      "poster_path": "/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
+      "season_number": 22,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2023-01-09",
+      "episode_count": 153,
+      "id": 323590,
+      "name": "Sezon 23",
+      "overview": "",
+      "poster_path": "/3D3M7wvy23RsDjNwIaQOrLhulAL.jpg",
+      "season_number": 23,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2023-09-11",
+      "episode_count": 76,
+      "id": 347090,
+      "name": "Sezon 24",
+      "overview": "",
+      "poster_path": "/9Ar4kNCupt0KPbPHe90YNYVSHun.jpg",
+      "season_number": 24,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2024-01-08",
+      "episode_count": 161,
+      "id": 373976,
+      "name": "Sezon 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2024-09-09",
+      "episode_count": 84,
+      "id": 417660,
+      "name": "Sezon 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2025-01-06",
+      "episode_count": 53,
+      "id": 436570,
+      "name": "Sezon 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.8,
+  "vote_count": 67,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1176586,
+        "known_for_department": "Acting",
+        "name": "Link Neal",
+        "original_name": "Link Neal",
+        "popularity": 3.403,
+        "profile_path": "/nkNxzM4AYcQQswu3y7oOY5Kovfa.jpg",
+        "character": "Self - Host",
+        "credit_id": "56ce9a869251413e5f0010bb",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1176585,
+        "known_for_department": "Acting",
+        "name": "Rhett McLaughlin",
+        "original_name": "Rhett McLaughlin",
+        "popularity": 3.758,
+        "profile_path": "/JJoUGFBGQCilaY7vOZeHCaupzW.jpg",
+        "character": "Self - Host",
+        "credit_id": "56ce9a7f9251413e6d001155",
+        "order": 2
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "morning show",
+        "id": 13384
+      },
+      {
+        "name": "hilarious",
+        "id": 320420
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/qFfWFwfaEHzDLWLuttWiYq7Poy2.jpg",
+        "id": 2261,
+        "name": "The Tonight Show Starring Johnny Carson",
+        "original_name": "The Tonight Show Starring Johnny Carson",
+        "overview": "The Tonight Show Starring Johnny Carson is a talk show hosted by Johnny Carson under The Tonight Show franchise from 1962 to 1992. It originally aired during late-night. For its first ten years, Carson's Tonight Show was based in New York City with occasional trips to Burbank, California; in May 1972, the show moved permanently to Burbank, California. In 2002, The Tonight Show Starring Johnny Carson was ranked #12 on TV Guide's 50 Greatest TV Shows of All Time.",
+        "poster_path": "/oA8QVTGlAN511uCAMDN60aVQUs1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 3828.286,
+        "first_air_date": "1962-10-01",
+        "vote_average": 7.41,
+        "vote_count": 72,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/oaFgItE5XWZYFU7LapMF1YHK7kW.jpg",
+        "id": 73525,
+        "name": "Landmand søger kærlighed",
+        "original_name": "Landmand søger kærlighed",
+        "overview": "",
+        "poster_path": "/unV5iZlLdRcliTBIFa0SePPmSRT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "da",
+        "genre_ids": [
+          10751,
+          10764
+        ],
+        "popularity": 46.765,
+        "first_air_date": "2015-04-22",
+        "vote_average": 7.0,
+        "vote_count": 1,
+        "origin_country": [
+          "DK"
+        ]
+      },
+      {
+        "backdrop_path": "/ytAgbDJJHKjRl5WIESX9W5by8XL.jpg",
+        "id": 32515,
+        "name": "E Dance Academy",
+        "original_name": "Dance Academy",
+        "overview": "At Sydney's National Dance Academy, a few talented youngsters are recruited for the excruciatingly tough course. It follows Tara Webster, a sheepfarmgirl who's ambition is to be the next best ballerina. Jewish long line of doctors' heir Samuel 'Sammy' and minor juvenile offender Christian are the outsiders but gradually fit in, making new kinds of friends. Star ballerina's daughter Kat also introduces them in the circle of last-year brother Ethan, who already aspires a career as choreographer. Also Abigail, a smart young girl who'll walk over dead bodies to reach the stars tries to sabotage everything and everyone.",
+        "poster_path": "/dauOWEXAN0ZdHdxm1s2AIIt0Vur.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18,
+          10751
+        ],
+        "popularity": 42.444,
+        "first_air_date": "2010-05-31",
+        "vote_average": 7.3,
+        "vote_count": 45,
+        "origin_country": [
+          "AU"
+        ]
+      },
+      {
+        "backdrop_path": "/h0y3OzHzG4yNvn8u3Za6ByH8lrQ.jpg",
+        "id": 45789,
+        "name": "Sturm der Liebe",
+        "original_name": "Sturm der Liebe",
+        "overview": "These are the stories of relationships taking place in the fictional five-star hotel Fürstenhof, located in Feldkirchen-Westerham near Rosenheim with the plot revolving around members of the family room area, the hotel owners, and employees.",
+        "poster_path": "/jfFNydakwvbeACEwSd2Gh8UWtba.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 2574.453,
+        "first_air_date": "2005-09-26",
+        "vote_average": 5.8,
+        "vote_count": 32,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "backdrop_path": "/9giQxevgoCWfSfXALGmuaXmqEq0.jpg",
+        "id": 2224,
+        "name": "The Daily Show",
+        "original_name": "The Daily Show",
+        "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+        "poster_path": "/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10763,
+          35
+        ],
+        "popularity": 3342.248,
+        "first_air_date": "1996-07-22",
+        "vote_average": 6.4,
+        "vote_count": 553,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qjHTkQ3QUlw6sxkIhugqNYsRJnR.jpg",
+        "id": 126506,
+        "name": "Smiling Friends",
+        "original_name": "Smiling Friends",
+        "overview": "Smiling Friends Inc. is a small company whose main purpose is to bring happiness and make people smile. The series follows the day-to-day lives and misadventures of its representatives, the lazy, cynical Charlie, and the cheerful, optimistic Pim, as they try to cheer up and comfort the troubled people who call their company's hotline. They receive seemingly simple requests but the jobs turn out to be more complicated than they seem, making it difficult to bring happiness to the world.",
+        "poster_path": "/l1Qdw9DsJaomE8BXeVfkF6h1qaa.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 32.64,
+        "first_air_date": "2020-04-01",
+        "vote_average": 8.4,
+        "vote_count": 227,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/6vk1WNHyNKR4oQooBJpZ8pGksBz.jpg",
+        "id": 85349,
+        "name": "Amphibia",
+        "original_name": "Amphibia",
+        "overview": "The adventures of 13-year-old, self-centered Anne Boonchuy who is magically transported to the fictitious world of Amphibia, a rural marshland full of frog-people. With the help of an excitable young frog named Sprig, Anne will become a hero and discover the first true friendship of her life.",
+        "poster_path": "/bFCgv9iWZECWSDxNQYc9soqvwjx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10762,
+          10759,
+          10765,
+          10751
+        ],
+        "popularity": 115.851,
+        "first_air_date": "2019-06-17",
+        "vote_average": 8.5,
+        "vote_count": 294,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/oJuDMcM8LZA5F5Ahgc9mZg2LRIO.jpg",
+        "id": 32726,
+        "name": "Bob's Burgers",
+        "original_name": "Bob's Burgers",
+        "overview": "Bob’s Burgers hamburger restoranı sahibi Belcher ailesinin (Bob, Linda, Tina, Gene ve Louise) hikayesini anlatıyor. Bob’un hamburgerleri gerçekten çok lezizdir ve rakiplerininkinden de kat kat iyidir. Ama iş bu hamburgerleri satmaya gelince, çocukları çok da yardımcı olmamaktadır. Bu nedenle müşteriler genelde Jimmy Peso’nun restoranına gitmektedir.",
+        "poster_path": "/yVz5foNr6nCfathj0igg8RLVGfn.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 547.556,
+        "first_air_date": "2011-01-09",
+        "vote_average": 7.8,
+        "vote_count": 952,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dAepkmD4vdfhS82r2OIqF1nwGR5.jpg",
+        "id": 17610,
+        "name": "NCIS: Los Angeles",
+        "original_name": "NCIS: Los Angeles",
+        "overview": "Özet ve Detaylar. Deniz Kuvvetleri Araştırma Servisi'nin Los Angeles'da bulunan birimi, ulusal güvenliği tehdit eden ve bir türlü yakalanamayan azılı suçluların peşindedir. G. Callen ve Sam Hanna'nın da aralarında bulunduğu özel ajanlar, suçluları yakalamaya çalışırken en son teknoloji ürünü cihazlardan yararlanır.",
+        "poster_path": "/TIIgcznwNfNr3KOZvxn26eKV99.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          80,
+          9648
+        ],
+        "popularity": 528.315,
+        "first_air_date": "2009-09-22",
+        "vote_average": 7.5,
+        "vote_count": 1170,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5olSfAUqoASDsq1C7el6hYM9Kju.jpg",
+        "id": 4556,
+        "name": "Scrubs",
+        "original_name": "Scrubs",
+        "overview": "Genç doktorların garip deneyimlerini ekrana taşıyan Scrubs, prestijli Humanitas Prize Ödülü’ne sahip, iki kez de Emmy’ye aday gösterilmiş keyifli bir komedi dizisi. J.D. olarak tanınan John Dorian, dizimizin ana karakteri. J.D:’nin doktorluk macerasını izlerken ‘gerçeküstü’ bir hastane olan Sacred Heart Hospital’ın koridorlarında mizahı da trajediyi de birlikte izleyeceğiz. Chris Turk, genç doktorlarımızdan bir diğeri. J.D.’nin kolejdeki en yakın arkadaşı ve seçkin cerrahi grubunun bir üyesi. Güzel Elliot Reid’in ise tek kusuru gerçek bir asosyal oluşu. Gözleri her zaman bu genç doktorların üzerinde olan Dr. Bob, zaman zaman insanı zorlasa da onlar için endişelenen ve onlara yardımcı olmaya çalışan Dr. Perry Cox ve garip hemşire Carla Espinosa Scrubs’ın diğer karakterleri arasında. J.D.’nin baş düşmanı, hastanenin temizlikçisini de unutmamak lazım.",
+        "poster_path": "/u1z05trCA7AuSuDhi365grwdos1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 198.436,
+        "first_air_date": "2001-10-02",
+        "vote_average": 8.018,
+        "vote_count": 1889,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ueZFcwAUvkjyAB9beaiqJyg0M8H.jpg",
+        "id": 1981,
+        "name": "Charmed",
+        "original_name": "Charmed",
+        "overview": "Prue, Piper ve Phoebe kardeşlerin tavan arasında buldukları \"Gölgeler Kitabı\" adlı kitap kaderlerini değiştirir. Phoebe, kitaptaki büyülü sözleri okuyunca üç kız kardeşin atalarından miras kalan cadılık güçleri açığa çıkar.  Her birinin farklı doğaüstü yetenekleri vardır. Halliwell kardeşler şeytani varlıklara karşı savaşabilmek için kullandıkları bu yeteneklerini birleştirdiklerinde ise yenilmez sihirli bir güç yaratırlar.Bu eşi olmayan üçlünün gücüdür. Yüksek dereceli bazı iblisleri yok etmek için üçlünün gücü gerekmektedir. Tek başlarına sıradan birer cadıdır ve bu yüksek dereceli iblisleri tek başlarına yok edemezler...",
+        "poster_path": "/z4bPJ1BWU2EtV69NII2GVvsugQ2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18,
+          9648,
+          10765
+        ],
+        "popularity": 289.045,
+        "first_air_date": "1998-10-07",
+        "vote_average": 8.2,
+        "vote_count": 2342,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
+        "id": 57243,
+        "name": "Doctor Who",
+        "original_name": "Doctor Who",
+        "overview": "Bu Doktor bambaşka bir doktor. Adı, karakteri, tavırları her şeyiyle bir muamma. Rose Tyler adında bir kadın, kendisini Doktor diye adlandıran gizemli bir yabancıyla tanışır ve bundan sonra hayatı baştan sona değişir. Kısa süre içerisinde ailesi de dahil bütün dünyanın tehlike altında olduğunu öğrenir. Yapması gereken ise kurtuluş yolunu bulmaktır.",
+        "poster_path": "/4edFyasCrkH4MKs6H4mHqlrxA6b.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10765
+        ],
+        "popularity": 445.678,
+        "first_air_date": "2005-03-26",
+        "vote_average": 7.537,
+        "vote_count": 3076,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/2yDV0xLyqW88dn5qE7YCRnoYmfy.jpg",
+        "id": 4613,
+        "name": "Kardeşler Takımı",
+        "original_name": "Band of Brothers",
+        "overview": "2. Dünya Savaşı'nı anlatan en başarılı TV dizisi olarak gösterilen Kardeşler Takımı, askerler arasındaki görev duygusu, dostluk, güveni son derece etkileyici sahnelerle sergileyen bir cesaret öyküsü.\n\nBand of Brothers / Kardeşler Takımı, tarihçi ve biografçı Stephen Ambrose tarafından yazılan aynı adlı romanından uyarlanan, II. Dünya Savaşı temalı, 10 bölümlük televizyon dizisi serisidir. Ortak yapımcılığını, Akademi Ödüllü Er Ryan'ı Kurtarmak filminde beraber çalışan Steven Spielberg ve Tom Hanks üstlenmiştir.\n\nDizi, II. Dünya Savaşı sırasında Amerikan ordusunun 506. Alay'ın 101. Hava Gücüne bağlı Easy Bölüğü askerlerinin yaşadıkları tecrübeler esas alınarak kurgulanmıştır. Dizi, öncelikle askerlerin temel eğitim aldığı Georgia'daki Toccoa kampından başlamıştır. Devamında ise Normandiya Çıkarması, Operasyon Market Garden ve savaşın sonunda doğru gerçekleşen Bastogne Savaşı ile sona ermiştir.\n\nDizideki olaylar Ambrose'nin Easy Bölüğünden hayatta olanlar ile gerçekleştirdiği bire bir röportajlar ile şekillendirilmiştir. Ayrıca savaş sonrası hayatta kalmayı başaran askerlerin yazdıkları kitaplardan da yararlanılmıştır.",
+        "poster_path": "/8JMXquNmdMUy2n2RgW8gfOM0O3l.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10768
+        ],
+        "popularity": 88.751,
+        "first_air_date": "2001-09-09",
+        "vote_average": 8.6,
+        "vote_count": 3679,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/jgb9xICHFX8wTGQ75js4uNbttQs.jpg",
+        "id": 62688,
+        "name": "Supergirl",
+        "original_name": "Supergirl",
+        "overview": "DC'nin çizgi romanlarından uyarlanacak dizi, Superman'in kuzeni olan Kara Zor-El'i ekranlara getirecek. Krypton gezegenindeki felakatin ardından Dünya'ya kaçan kahramanımız, farklı bir kimlikle yaşayacak. 24 yaşına geldiğinde güçlerini kabullenen Kara, olması gerektiği gibi bir süper kahramana dönüşecek. Projenin arkasında Arrow ve The Flash gibi dizilerin yapımcısı Greg Berlanti var.",
+        "poster_path": "/cFO65xb0xiXKqk5BmgHawCXB1i0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765,
+          10759
+        ],
+        "popularity": 162.813,
+        "first_air_date": "2015-10-26",
+        "vote_average": 7.306,
+        "vote_count": 4220,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2PrYnQR8YPei5vCVRwJXnwMqMyR.jpg",
+        "id": 61889,
+        "name": "Marvel's Daredevil",
+        "original_name": "Marvel's Daredevil",
+        "overview": "Görme yetisini kaybetmiş olan Avukat Matt Murdock'ın diğer duyuları diğer insanlardan daha fazla gelişmiştir. Murdock suçsuz insanları başarıyla savunmasının yanı sıra, geceleri Daredevil kimliğiyle şehri kötülerden ve suçlulardan korumaktadır.",
+        "poster_path": "/3pKSA5PA9sIU5xNeemfX1EFspWB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          10759
+        ],
+        "popularity": 499.689,
+        "first_air_date": "2015-04-10",
+        "vote_average": 8.2,
+        "vote_count": 4623,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/oRdc2nn7jLOYy4fBdvmFKPsKzZE.jpg",
+        "id": 2734,
+        "name": "Law & Order: Special Victims Unit",
+        "original_name": "Law & Order: Special Victims Unit",
+        "overview": "New York yeraltı dünyasının karanlık yüzünü araştıran bir özel suçlar birimi... New York Polis departmanında cinsel suçlar konusunda uzman dedektiflerden oluşan bu birim, insanın kanını donduran vakaları incelemek zorunda... Her gün yardım isteyen kurbanlar, kapatılmayı bekleyen dosyalarla uğraşan bu ekibin üyeleri, bir yandan da bu araştırmaların özel yaşamlarına olan etkisini dengelemeye çalışıyorlar.",
+        "poster_path": "/imaKy0BLfX1iPzj9ZvbOD0D09m6.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 1362.262,
+        "first_air_date": "1999-09-20",
+        "vote_average": 7.937,
+        "vote_count": 3889,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/41neXsH222hV2zrsTyw8h7javon.jpg",
+        "id": 2190,
+        "name": "South Park",
+        "original_name": "South Park",
+        "overview": "South Park, Amerikan \"Comedy Central\" programında 1997 yılından beri yayınlanan bir komedi animasyon serisidir. Ülkemizde de Türkçe altyazılı olarak Cnbc-e ve e2 kanalları tarafından yayınlanır.\n\nSouth Park'ın ortaya çıkış hikayesi şöyledir; Colorado Üniversitesi film bölümü öğrencileri Matt Stone ve Trey Parker, \"Jesus vs. Frosty\" adlı bir kısa animasyon film yapar. Şans eseri bu animasyon Fox Network yöneticileri tarafından izlenir ve Matt ve Trey'e ünlülere yılbaşı kartı olarak göndermek için bir kısa bir film yapmalarını teklif eder. Teklif üzerine Matt ve Trey \"The Spirit of Christmas\" adlı yeni bir animasyon film yapar. Bu yeni animasyonda internette çok hızlı bir şekilde yayılır ve çok beğenilir. The Spirit of Christmas, Matt ve Trey'e Comedy Central kapılarını açar ve 13 Ağustos 1997 tarihinde South Park'ın ilk bölümü olan \"Cartman Gets an Anal Probe\" bölümü yayınlanır.\n\nDizi hikayesi, South Park kasabasında yaşayan dört çocuk olan Eric Cartman, Stan Marsh, Kyle Broflovski, Kenny McCormick ve kasaba halkı arasında geçmektedir. Konular çoğunlukla sosyal ve politik taşlamaların bulunduğu, bolca küfür ve cinsel içerikli espri barındırdığından dolayı dizi öncesi bu dizi izlemeyin diye bir uyarı çıkar ki buda dizinin diğer bir ince esprisidir. South Park, Amerika ve Dünya gündeminde ki olaylarada esprili bir şekilde yaklaşarak izleyicilerin beğenisini kazanmıştır.",
+        "poster_path": "/xJnbMTrJ2fl1AXAKx34U4BPvOhs.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 305.188,
+        "first_air_date": "1997-08-13",
+        "vote_average": 8.4,
+        "vote_count": 4458,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1F2RnXLc0fmRt7iWfBK4mNVsjno.jpg",
+        "id": 34524,
+        "name": "Teen Wolf",
+        "original_name": "Teen Wolf",
+        "overview": "Genç Kurt, MTV için Jeff Davis tarafından geliştirilen bir Amerikan televizyon dizisidir. Aynı isimli 1985 yapımı filme dayanmaktadır. Dizinin ana karakteri Ormanda ölü bir kız ararken bir kurt adam tarafından ısırılan lise öğrencisi Scott McCall'dir. Scott en iyi arkadaşı Stilinski dışında herkesten kurt adam kimliğini gizli tutarak normal hayatını muhafaza etmeye çalışmaktadır. Başka gizemli bir kurt adam olan Derek Hale ise ona hayatında ve vücudundaki değişiklikler konusunda yardımcı olmaktadır.",
+        "poster_path": "/8Ij1O2nU8exLgwPXU8Eo6PZdCDC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          35
+        ],
+        "popularity": 366.237,
+        "first_air_date": "2011-06-05",
+        "vote_average": 8.5,
+        "vote_count": 4350,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2MaumbgBlW1NoPo3ZJO38A6v7OS.jpg",
+        "id": 66732,
+        "name": "Stranger Things",
+        "original_name": "Stranger Things",
+        "overview": "Ufak bir kasabada küçük bir çocuk kaybolunca, gizli deneyler, korkutucu doğaüstü güçler ve tuhaf bir küçük kızın da parçası olduğu bir gizem ortaya çıkar.",
+        "poster_path": "/hjVNQA2a12OxkpDEOQTBMbKVZ1K.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765,
+          9648
+        ],
+        "popularity": 293.245,
+        "first_air_date": "2016-07-15",
+        "vote_average": 8.6,
+        "vote_count": 18087,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

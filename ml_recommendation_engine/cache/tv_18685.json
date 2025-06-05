@@ -1,0 +1,972 @@
+{
+  "adult": false,
+  "backdrop_path": "/hFquZERQLZdUw3C40vac8idee8B.jpg",
+  "created_by": [
+    {
+      "id": 1237661,
+      "credit_id": "525857b5760ee346610c5c26",
+      "name": "Fernando Gaitán",
+      "original_name": "Fernando Gaitán",
+      "gender": 2,
+      "profile_path": "/rMkuo6DEU5pJeluTQhJj7Zbr1pG.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2009-06-29",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Pembe Dizi"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 35,
+      "name": "Komedi"
+    }
+  ],
+  "homepage": "http://www2.esmas.com/entretenimiento/telenovelas/hasta-que-el-dinero-nos-separe/",
+  "id": 18685,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2010-05-11",
+  "last_episode_to_air": {
+    "id": 1518599,
+    "name": "227. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2010-05-11",
+    "episode_number": 227,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 1,
+    "show_id": 18685,
+    "still_path": null
+  },
+  "name": "Hasta que el dinero nos separe",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 354,
+      "logo_path": "/du69v2G2f3MIxuf78hSlfDesIUu.png",
+      "name": "UniMás",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 227,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "Hasta que el dinero nos separe",
+  "overview": "",
+  "popularity": 79.0038,
+  "poster_path": "/m6elQKPtzBlfVa2cHz96NZnBQcc.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2009-06-29",
+      "episode_count": 227,
+      "id": 106174,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/kAbEp5mMwRSVl5ZkUrBm58OH0pd.jpg",
+      "season_number": 1,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.918,
+  "vote_count": 679,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3264555,
+        "known_for_department": "Acting",
+        "name": "Lalo",
+        "original_name": "Lalo",
+        "popularity": 0.1098,
+        "profile_path": null,
+        "character": "Vicente Chávez Méndez",
+        "credit_id": "6161de314df291006494d856",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3264558,
+        "known_for_department": "Acting",
+        "name": "Claudia Troyo",
+        "original_name": "Claudia Troyo",
+        "popularity": 0.1782,
+        "profile_path": null,
+        "character": "Susana Hadad",
+        "credit_id": "6161e00e1d3563002bc2c7d7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3264567,
+        "known_for_department": "Acting",
+        "name": "Alberto Loztin",
+        "original_name": "Alberto Loztin",
+        "popularity": 0.0796,
+        "profile_path": null,
+        "character": "Efraín Zetina",
+        "credit_id": "6161e11518b75100613f4ae1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1247042,
+        "known_for_department": "Acting",
+        "name": "Pedro Fernández",
+        "original_name": "Pedro Fernández",
+        "popularity": 0.3316,
+        "profile_path": "/waha0JE8N66vLxN90BgPgVplpyX.jpg",
+        "character": "Rafael Medina",
+        "credit_id": "6161dc0d8c40f70091dcf543",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 937505,
+        "known_for_department": "Acting",
+        "name": "Itatí Cantoral",
+        "original_name": "Itatí Cantoral",
+        "popularity": 0.9018,
+        "profile_path": "/mpkvomyNT4QkhjIVFV0M78pLTAr.jpg",
+        "character": "Alejandra Álvarez del Castillo",
+        "credit_id": "6161dc708e2ba6008bf598f4",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1222334,
+        "known_for_department": "Acting",
+        "name": "Víctor Noriega",
+        "original_name": "Víctor Noriega",
+        "popularity": 0.2579,
+        "profile_path": "/shMcZ24qPFcl6aEKJNPIOlXFRxr.jpg",
+        "character": "Marco Valenzuela",
+        "credit_id": "6161dcd353866e0093b8f1b3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 586323,
+        "known_for_department": "Acting",
+        "name": "Luz Elena González",
+        "original_name": "Luz Elena González",
+        "popularity": 0.2537,
+        "profile_path": "/cviwyatAc5BbNex4EzZEXttYK4c.jpg",
+        "character": "Victoria \"Vicky\" de la Parra",
+        "credit_id": "6161dd1fba131b008d68abe8",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 942413,
+        "known_for_department": "Acting",
+        "name": "Carlos Cámara",
+        "original_name": "Carlos Cámara",
+        "popularity": 0.3529,
+        "profile_path": "/wYMNWqvqMUkSFTYZBS4unuL1MKL.jpg",
+        "character": "Lic. Francisco Beltrán",
+        "credit_id": "6161dd654df2910093fb871e",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1040935,
+        "known_for_department": "Acting",
+        "name": "Sergio Corona",
+        "original_name": "Sergio Corona",
+        "popularity": 0.6245,
+        "profile_path": "/zHqkaB2uNGEh0zN3smzvxyyyozM.jpg",
+        "character": "Don Jorge Álvarez del Castillo",
+        "credit_id": "6161dd9dba131b0023247e16",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 941494,
+        "known_for_department": "Acting",
+        "name": "Rodrigo Vidal",
+        "original_name": "Rodrigo Vidal",
+        "popularity": 0.5332,
+        "profile_path": "/xSSTRxhgZG21ozAorCEOUkf0Atk.jpg",
+        "character": "Jaime del Rincón",
+        "credit_id": "6161ddd5ba131b00627b2a3e",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2343077,
+        "known_for_department": "Acting",
+        "name": "Sergio DeFassio",
+        "original_name": "Sergio DeFassio",
+        "popularity": 0.0596,
+        "profile_path": "/pAwCrUB66FEYiNNP4dUBcbJE5Lm.jpg",
+        "character": "Ismael Dueñas",
+        "credit_id": "6161de678c40f7002a6e1e67",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 941925,
+        "known_for_department": "Acting",
+        "name": "Harry Geithner",
+        "original_name": "Harry Geithner",
+        "popularity": 0.3114,
+        "profile_path": "/g7C4OJhammyzmWMUScOde2WvzZR.jpg",
+        "character": "Edgar Marino",
+        "credit_id": "6161debc89d97f002911e55f",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 942711,
+        "known_for_department": "Acting",
+        "name": "Carlos Bonavides",
+        "original_name": "Carlos Bonavides",
+        "popularity": 0.4142,
+        "profile_path": "/vqcjdbDz0Ox7YQDdK5BsPtVaCfL.jpg",
+        "character": "Ramiro Jiménez",
+        "credit_id": "6161deee89d97f00427b5ca0",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1244177,
+        "known_for_department": "Acting",
+        "name": "Joana Benedek",
+        "original_name": "Joana Benedek",
+        "popularity": 0.1982,
+        "profile_path": "/ao80KQ8ed4vICBrhdlfHcJzGzYd.jpg",
+        "character": "Marian Celeste",
+        "credit_id": "6161df176e938a0044b4192e",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1240380,
+        "known_for_department": "Acting",
+        "name": "Fabiola Campomanes",
+        "original_name": "Fabiola Campomanes",
+        "popularity": 1.4619,
+        "profile_path": "/rcqjdWUcMPEc8R4hPIcxjZd4AvC.jpg",
+        "character": "Lola Sansores",
+        "credit_id": "6161df3718b7510042896958",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 105215,
+        "known_for_department": "Acting",
+        "name": "Frances Ondiviela",
+        "original_name": "Frances Ondiviela",
+        "popularity": 0.441,
+        "profile_path": "/ygo3NKRzuGMz19G22R9eR4WIQuJ.jpg",
+        "character": "Rosaura Suárez de la Grana",
+        "credit_id": "6161df7fba131b00627b2e63",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1044085,
+        "known_for_department": "Acting",
+        "name": "Diana Golden",
+        "original_name": "Diana Golden",
+        "popularity": 0.332,
+        "profile_path": "/6r1HSALAD6dgS0P0ozwV4JiI5Md.jpg",
+        "character": "Isabel Duarte",
+        "credit_id": "6161dfa253866e0026b8977e",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 941370,
+        "known_for_department": "Acting",
+        "name": "Carlos Ignacio",
+        "original_name": "Carlos Ignacio",
+        "popularity": 0.1651,
+        "profile_path": "/i4kZs8uvkuM8loUt6m6mH3klXX.jpg",
+        "character": "Germán Ramírez Betancourt",
+        "credit_id": "6161dfca89d97f0089cefb65",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1017158,
+        "known_for_department": "Acting",
+        "name": "Erika García",
+        "original_name": "Erika García",
+        "popularity": 0.0911,
+        "profile_path": "/w3lFnXfbsViAH4ugeOjQ13oxQdW.jpg",
+        "character": "Julieta Medina",
+        "credit_id": "6161e0456e938a0044b41c95",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1856409,
+        "known_for_department": "Acting",
+        "name": "Malillany Marín",
+        "original_name": "Malillany Marín",
+        "popularity": 0.1801,
+        "profile_path": null,
+        "character": "Claudia Bermudez",
+        "credit_id": "6161e07f89d97f002911eae1",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1248470,
+        "known_for_department": "Acting",
+        "name": "Héctor Sandarti",
+        "original_name": "Héctor Sandarti",
+        "popularity": 0.2969,
+        "profile_path": "/gCQDvW0vEDPfgQf3TLCPJqBCi0b.jpg",
+        "character": "Nelson Jóse Ospina",
+        "credit_id": "6161e0a79ca7590061fbf784",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1856411,
+        "known_for_department": "Acting",
+        "name": "Ana Bekoa",
+        "original_name": "Ana Bekoa",
+        "popularity": 0.062,
+        "profile_path": null,
+        "character": "Rubi",
+        "credit_id": "6161e0c9ba131b0023248609",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1159801,
+        "known_for_department": "Acting",
+        "name": "Ferdinando Valencia",
+        "original_name": "Ferdinando Valencia",
+        "popularity": 0.2362,
+        "profile_path": "/o0X8cw8w5sLAIInyzBgcdWM2Mas.jpg",
+        "character": "el Rizos",
+        "credit_id": "6161e14733ec260028eec2e3",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1243415,
+        "known_for_department": "Acting",
+        "name": "Agustín Arana",
+        "original_name": "Agustín Arana",
+        "popularity": 0.2097,
+        "profile_path": "/61AY2mL0agTZBG7cuEEDtV7MaYN.jpg",
+        "character": "Daniel Zepeda de los Monteros",
+        "credit_id": "6161e1669d592c0089834f71",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 970653,
+        "known_for_department": "Acting",
+        "name": "Gaby Ramirez",
+        "original_name": "Gaby Ramirez",
+        "popularity": 0.2983,
+        "profile_path": "/jS5ukfPU786fqu2aLedEIPvlnOJ.jpg",
+        "character": "Ovidia",
+        "credit_id": "6161e18533ec260065427135",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1094404,
+        "known_for_department": "Acting",
+        "name": "Pedro Weber",
+        "original_name": "Pedro Weber",
+        "popularity": 0.3881,
+        "profile_path": "/tVGfmDenZyrrh6Fbb6K8CR0r5R0.jpg",
+        "character": "Don Gastón de la Parra",
+        "credit_id": "6161e1aec8a2d40043cef4bc",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 140605,
+        "known_for_department": "Acting",
+        "name": "Norma Lazareno",
+        "original_name": "Norma Lazareno",
+        "popularity": 0.8811,
+        "profile_path": "/f9QNajPBLWXU8MRd66lSwxui6A6.jpg",
+        "character": "Rosario Álvarez del Castillo",
+        "credit_id": "6161e1ce8c40f70091dd0423",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 940420,
+        "known_for_department": "Acting",
+        "name": "Leticia Perdigón",
+        "original_name": "Leticia Perdigón",
+        "popularity": 0.587,
+        "profile_path": "/1MxizZUGOdQiYl5aA8rb8ukTNyg.jpg",
+        "character": "Doña Leonor Núñez de Medina",
+        "credit_id": "6161e1f34df291006494e144",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 243046,
+        "known_for_department": "Acting",
+        "name": "Carmen Salinas",
+        "original_name": "Carmen Salinas",
+        "popularity": 1.315,
+        "profile_path": "/qQgg0a73sSE6GkYu5HkzmK0aw2C.jpg",
+        "character": "Arcadia Alcalá Vda. del Rincón",
+        "credit_id": "6161e234ba131b00422d4800",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1628453,
+        "known_for_department": "Acting",
+        "name": "Elizabeth Aguilar",
+        "original_name": "Elizabeth Aguilar",
+        "popularity": 0.312,
+        "profile_path": "/bmSrIq7YyTNMTMKZaLENelODrOk.jpg",
+        "character": "Doña Dolores Sansores",
+        "credit_id": "6161e2601d35630060c7e1ae",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1458383,
+        "known_for_department": "Acting",
+        "name": "Jorge Ortiz de Pinedo",
+        "original_name": "Jorge Ortiz de Pinedo",
+        "popularity": 0.2032,
+        "profile_path": "/1tTfyGSKTZuzUYRwHKn6Nn28Wub.jpg",
+        "character": "Don Rafael Santillan Medina",
+        "credit_id": "6161e2a03d35570066c649c0",
+        "order": 30
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": []
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/cvHNEZqPguUT97MjwNpsRbtRTDp.jpg",
+        "id": 11721,
+        "name": "La fea más bella",
+        "original_name": "La fea más bella",
+        "overview": "La Fea Más Bella is a Mexican telenovela produced by Televisa. It is the second Mexican version of the popular Colombian telenovela: Betty la fea. La Fea más Bella stars popular actress/singer/comedian Angélica Vale and actor/singer Jaime Camil, with one of the most diverse and popular supporting casts ever assembled in Mexico, including Angélica María, José José, Sergio Mayer, Elizabeth Álvarez, Patricia Navidad and many others.\n\nUnivision broadcast 2 hour episodes of La Fea Más Bella from September 13, 2010 to April 15, 2011 La Fea Más Bella also won the TV y Novelas award for best telenovela of the year. In 2009 it was dubbed into Arabic and aired on MTV Lebanon as Letty instead of La Fea Más Bella.\n\n\"The Best Telenovela of the Year 2007\".",
+        "poster_path": "/AbSoUYjEu4lNe1cPCEBrpRj6fAl.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 60.1177,
+        "first_air_date": "2006-01-23",
+        "vote_average": 8.1,
+        "vote_count": 594,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/jLtHP2xflfObH9gCDpNKNGvuML6.jpg",
+        "id": 13918,
+        "name": "Apuesta por un amor",
+        "original_name": "Apuesta por un amor",
+        "overview": "Apuesta por un Amor is a Mexican telenovela produced by Angelli Nesma Medina for Televisa in 2004. Patricia Manterola and Juan Soler starred as the protagonists, while Alejandra Ávalos, Roberto Ballesteros and Fabián Robles starred as the antagonists.",
+        "poster_path": "/iShHEsgIsBen59pF1p9ejTaRoLa.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 10.8996,
+        "first_air_date": "2004-10-25",
+        "vote_average": 6.8,
+        "vote_count": 58,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/89ZQH6TZmCDj7XWCnZOjL5LQopD.jpg",
+        "id": 86636,
+        "name": "Nailed It! Mexico",
+        "original_name": "Nailed It! Mexico",
+        "overview": "The fun, fondant and hilarious cake fails head to Mexico, where very amateur bakers compete to re-create elaborate sweet treats for a cash prize.",
+        "poster_path": "/lcRGgpE2rOF8dp8A1FjGAXkbRke.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 4.5224,
+        "first_air_date": "2019-02-08",
+        "vote_average": 6.9,
+        "vote_count": 38,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/oendLT8NLrc0NlmzUdbAu6uZpuk.jpg",
+        "id": 12688,
+        "name": "Daniela's Diary",
+        "original_name": "El diario de Daniela",
+        "overview": "El diario de Daniela is a Mexican telenovela. It first aired on 1999, and starred Daniela Luján and Martín Ricca.",
+        "poster_path": "/cN9Bs2JrI8dEJCDoC5JOz1suBp1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 14.843,
+        "first_air_date": "1998-11-30",
+        "vote_average": 7.4,
+        "vote_count": 67,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/fdro0ce34bjywOJ00gN3GdKsAWD.jpg",
+        "id": 83235,
+        "name": "Sangre de mi Tierra",
+        "original_name": "Sangre de mi Tierra",
+        "overview": "",
+        "poster_path": "/2dm8Im50b0dtiExir61kf2nKIqQ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 3.2233,
+        "first_air_date": "2017-11-29",
+        "vote_average": 7.185,
+        "vote_count": 27,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/IJCSUObPR9wrJCzqFXSZwzPLCI.jpg",
+        "id": 69322,
+        "name": "Çilek Kokusu",
+        "original_name": "Çilek Kokusu",
+        "overview": "Birbirlerinden tamamen zıt karakterlere, hayatlara sahip olan Aslı ve Burak sürpriz bir şekilde tanışırlar. Birbirlerini bir daha hiç görmeyeceklerini düşünürlerken, Aslı, Burak ve Volkan, Bodrum'da sonunu bilemedikleri bir oyunun içine düşerler. Tesadüfler zinciri onların peşini Bodrum'da da bırakmaz.",
+        "poster_path": "/oCbz02JOouAV7kpIeZtwBLbmotz.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "tr",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 5.0118,
+        "first_air_date": "2015-06-24",
+        "vote_average": 7.7,
+        "vote_count": 35,
+        "origin_country": [
+          "TR"
+        ]
+      },
+      {
+        "backdrop_path": "/vFMZ1TlGe2bOMVE1a9RVv9vtG1o.jpg",
+        "id": 90921,
+        "name": "The 43",
+        "original_name": "Los días de Ayotzinapa",
+        "overview": "This docuseries disputes the Mexican government's account of how and why 43 students from Ayotzinapa Rural Teachers' College vanished in Iguala in 2014.",
+        "poster_path": "/s1Ae3QjwFBWTHnmlQ9dNGuSE3LB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          99,
+          10768
+        ],
+        "popularity": 0.744,
+        "first_air_date": "2019-02-15",
+        "vote_average": 6.8,
+        "vote_count": 56,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/w3DmGO8AUVrZfu1N7LQUE3FUWkP.jpg",
+        "id": 94075,
+        "name": "Doki",
+        "original_name": "Doki",
+        "overview": "Doki's a dog with a lot of questions about science and nature, and he and his explorer friends travel the globe and beyond to get the answers.",
+        "poster_path": "/j0q9mIlDva0D18AQBeLedX0c34A.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762
+        ],
+        "popularity": 1.2943,
+        "first_air_date": "2015-08-22",
+        "vote_average": 7.542,
+        "vote_count": 24,
+        "origin_country": [
+          "BR",
+          "CA",
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/agahccSTTBsYP2F2N8dIXxBZnx2.jpg",
+        "id": 91837,
+        "name": "En la Boca del Lobo",
+        "original_name": "En la Boca del Lobo",
+        "overview": "Based on a true story and the book, At the Devil's Table: The Untold Story of the Insider Who Brought Down the Cali Cartel by award-winning investigative reporter William C. Rempel, En la Boca del Lobo follows the series of events that ultimately lead to the dramatic downfall of Colombia’s infamous Cali drug cartel. The story centers on Ricardo Salgado, an engineer and soldier who rises ranks and became in charge of the security of the godfather of the Cali Cartel, one of the largest criminal organizations in the world and rival of the Medellin Cartel.",
+        "poster_path": "/pba0Iph8QYyczzqoySsGVRsu7Kb.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          80,
+          18,
+          10759,
+          99
+        ],
+        "popularity": 10.373,
+        "first_air_date": "2014-10-10",
+        "vote_average": 7.1,
+        "vote_count": 64,
+        "origin_country": [
+          "CO"
+        ]
+      },
+      {
+        "backdrop_path": "/zbBfn2qoKjC70sDSNByrTOdsVMw.jpg",
+        "id": 90546,
+        "name": "A Certain Scientific Accelerator",
+        "original_name": "とある科学の一方通行[アクセラレータ]",
+        "overview": "After rescuing Last Order and subsequently taking a bullet to the head, Academy City’s top-ranked esper rests in the hospital. But Accelerator’s recovery is cut short when a mysterious girl carrying a photo of his little clone companion asks for help. Now they’re taking on Disciplinary Action—an anti-evil coalition whose sinister plans threaten Last Order, Academy City, and even the entire world!",
+        "poster_path": "/10KGPY9ihuI5v9an0VF1eU5cxOs.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10765
+        ],
+        "popularity": 2.6756,
+        "first_air_date": "2019-07-12",
+        "vote_average": 7.5,
+        "vote_count": 96,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/lYGCsbdwwiXXkbosAT41cn6ixNI.jpg",
+        "id": 85045,
+        "name": "Crazy about you",
+        "original_name": "Loquito por ti",
+        "overview": "The series revolves around the life of Camilo and Juancho, two friends who work in the maestro Guzmán's orchestra, both share the dream of one day becoming the most recognized musicians in the tropical genre. In this long journey to fulfill their dream, they meet Daniela, a woman of good economic position who wants to be famous and live music as they do. Daniela will have to hide from her family that she is part of a musical orchestra, and Camilo and Juancho that she is from a family of high social class. But everything gets complicated when Camilo and Juancho fall in love with Daniela, that's when their friendship and dreams of being famous will be truncated by the love of a woman.",
+        "poster_path": "/vh40gJ4JLNEbqOT6lILjS1cwzgr.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 12.3414,
+        "first_air_date": "2018-10-10",
+        "vote_average": 7.394,
+        "vote_count": 71,
+        "origin_country": [
+          "CO"
+        ]
+      },
+      {
+        "backdrop_path": "/eVWtB7O39WA4cY9Ei8JOSuYh2oO.jpg",
+        "id": 60640,
+        "name": "The Stray Cat",
+        "original_name": "La Gata",
+        "overview": "La Gata is an upcoming Mexican telenovela to be produced by Nathalie Lartilleux for Televisa. It is a remake of the Venezuelan telenovela La Gata, produced in 1968 and Mexican telenovela Rosa Salvaje produced in 1987.",
+        "poster_path": "/be88AXUaU6mcd3IKbHvVrmfZQqS.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 18.6323,
+        "first_air_date": "2014-05-05",
+        "vote_average": 7.4,
+        "vote_count": 57,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/7apk7MDXON2zZ2ntXgaIusHrUNa.jpg",
+        "id": 27845,
+        "name": "The Prince of Tennis",
+        "original_name": "テニスの王子様",
+        "overview": "Ryoma Echizen is a young tennis prodigy who has won 4 consecutive tennis championships but who constantly lies in the shadow of his father, a former pro tennis player. He joins the Seishun Gakuen junior highschool, one of the best tennis schools in Japan, and there along with his teamates he learns to find his own type of tennis in an attempt to defeat his biggest obstacle of all: his father as well as himself.",
+        "poster_path": "/6Q1yvR5q5c5EItFe2QKfN4Y4vGF.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 17.3326,
+        "first_air_date": "2001-10-10",
+        "vote_average": 8.3,
+        "vote_count": 130,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/taqD0yjyXEQ58HGHJVG1sxJBGQO.jpg",
+        "id": 38324,
+        "name": "Dragon Quest: The Adventure of Dai",
+        "original_name": "ドラゴンクエスト ダイの大冒険",
+        "overview": "After the defeat of the demon lord Hadlar all of the monsters were unleashed from his evil will and moved to the island of Delmurin to live in peace. Dai is the only human living on the island. Having been raised by the kindly monster Brass, Dai's dream is to grow up to be a hero. He gets to become one when Hadlar is resurrected and the previous hero, Avan, comes to train Dai to help in the battle. But Hadlar, announcing that he now works for an even more powerful demon lord, comes to kill Avan. To save his students Avan uses a Self-Sacrifice spell to attack, but is unable to defeat Hadlar. When it seems that Dai and Avan's other student Pop are doomed a mark appears on Dai's forehead and he suddenly gains super powers and is able to fend off Hadlar. The two students then go off on a journey to avenge Avan and bring peace back to the world.",
+        "poster_path": "/6ryUWLfFNm15vNOosOgcSYISRlf.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10765,
+          10759,
+          35
+        ],
+        "popularity": 17.4965,
+        "first_air_date": "1991-10-17",
+        "vote_average": 8.2,
+        "vote_count": 120,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/mxC5PhhrfSkKkpyEY08etSFtysU.jpg",
+        "id": 115304,
+        "name": "Tılsımlı Bileklik",
+        "original_name": "Disney Entrelazados",
+        "overview": "Allegra, büyükannesini yıllar önce ünlü yapan \"Freaky Friday\"in kahramanı olmak için Eleven O' Clock müzikhol şirketine katılmanın hayalini kurar. Büyükannesi Coco, müzikal tiyatronun yaşayan bir efsanesidir ve Allegra'nın annesi Caterina ile karmaşık bir ilişkisi vardır. Evde gizemli bir bilezik bulan Allegra'nın hayatı büyük ölçüde değişir. Bilezik onu, Caterina'nın onun yaşında olduğu ve kariyerine Eleven O' Clock'ta Coco'nun gölgesinde yaşarken başladığı 1994 yılına götürüyor (Cocó, o zamanlar kariyerinin zirvesinde olan bir yıldızdı). Allegra geçmişi değiştirebilecek mi?",
+        "poster_path": "/ismBBYX2GVISAhyILCaiRU2TjXx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          10765,
+          35,
+          10751,
+          18,
+          10766
+        ],
+        "popularity": 2.656,
+        "first_air_date": "2021-11-12",
+        "vote_average": 7.632,
+        "vote_count": 114,
+        "origin_country": [
+          "AR"
+        ]
+      },
+      {
+        "backdrop_path": "/zfxdi95MRPYd945uyNsUXrQnwjF.jpg",
+        "id": 7311,
+        "name": "Nuevo Rico Nuevo Pobre",
+        "original_name": "Nuevo Rico Nuevo Pobre",
+        "overview": "Nuevo Rico Nuevo Pobre is a Colombian telenovela produced and broadcast by Caracol TV starring Martín Karpan, John Alex Toro, Maria Cecilia Botero, Carolina Acevedo, Hugo Gómez, former Miss Colombia Andrea Noceti and Andrés Toro.\n\nThe show started on July 16, 2007 on Caracol TV and it is also broadcast on Ecuador's Teleamazonas in primetime. Caracol TV has sold the rights of the show to Telemundo and Fox. It is, as of May 2008, one of the highest rated TV shows in Colombia.",
+        "poster_path": "/rqkZi3rcReCJ3zbJl4OUOsJrqh7.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 43.8779,
+        "first_air_date": "2007-07-16",
+        "vote_average": 7.758,
+        "vote_count": 364,
+        "origin_country": [
+          "CO"
+        ]
+      },
+      {
+        "backdrop_path": "/nN7v2ULmZrAkmf99V1Nmj3IxImE.jpg",
+        "id": 12976,
+        "name": "Quinceañera",
+        "original_name": "Quinceañera",
+        "overview": "Quinceañera, is a Mexican telenovela, produced by and broadcast on Televisa in 1987, starring Adela Noriega and Thalía. Quinceañera was the first telenovela to talk about substance abuse, date rape and gangs, and is considered to be the first telenovela made for teenagers.\n\nQuinceañera was named by the Associated Press as one of the ten most influential telenovelas ever to air in Latin America, and Univision tlnovelas viewers named it one of their all-time favorite Mexican telenovelas. In 2010, Quinceañera was placed #7 on the People en Español's \"20 Best Telenovelas\" list, and in 2012, Terra named it as one of the fifty best telenovelas of all-time.",
+        "poster_path": "/odQgI6tPmsoRWz46ktIULK0LdEi.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 11.9062,
+        "first_air_date": "1987-10-05",
+        "vote_average": 7.0,
+        "vote_count": 122,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/oOqWl3GavxfYiwxegiVyQ5p9NYK.jpg",
+        "id": 16961,
+        "name": "Café con Aroma de Mujer",
+        "original_name": "Café con Aroma de Mujer",
+        "overview": "Café con aroma de mujer is a 1994 Colombian telenovela, produced by then programming company RCN TV on state-owned Canal A. It was written and created by Fernando Gaitán. It was broadcast in several countries throughout Latin America, North America and Europe.",
+        "poster_path": "/tvcpeQNt28GQLtNljhuLwgRBRv8.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18,
+          10751,
+          10764
+        ],
+        "popularity": 33.8224,
+        "first_air_date": "1994-12-30",
+        "vote_average": 7.556,
+        "vote_count": 384,
+        "origin_country": [
+          "CO"
+        ]
+      },
+      {
+        "backdrop_path": "/be8s04cLyXXEqjBT24YPYdDSZKB.jpg",
+        "id": 127700,
+        "name": "Dünya'ya Hoş Geldin",
+        "original_name": "Welcome to Earth",
+        "overview": "İnsanlar gezegenimizin yüzeyinin her santimini haritalandırmış olarak görebilirler, ancak yakından bakarsanız, keşfedilmeyi bekleyen birçok şey olduğunu göreceksiniz. Keşif çağı henüz bitmedi! Dünya'ya hoş geldiniz. Merakı ve hayranlığı kesinlikle bulaşıcı olan Will Smith, dünyanın en büyük harikalarını keşfetmek ve en gizli sırlarını ortaya çıkarmak için dünya çapında olağanüstü maceralara atılıyor. Dizi boyunca Will, sessizce kükreyen volkanlardan, algımızın ötesindeki çöllere ve hayvan sürülerine kadar, gezegendeki en tuhaf, en sıra dışı ve heyecan verici manzaralara yaklaşmak için dünyanın farklı köşelerine seyahat eden National Geographic kaşifleri tarafından yönlendiriliyor. Nefes kesen sinematografiyi Will'in sınırsız merakı ve coşkusuyla birleştiren bu seri, dünyadaki en etkileyici ve ilham verici yolculuğudur.",
+        "poster_path": "/n9FvI0ARqYqr4UJpI6CX6PSSmY5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 2.6492,
+        "first_air_date": "2021-12-08",
+        "vote_average": 7.6,
+        "vote_count": 419,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/nJwrbIIu4PRMuRm92NRpv9CKJK9.jpg",
+        "id": 78722,
+        "name": "A Family of Ten",
+        "original_name": "Una Familia de Diez",
+        "overview": "Ten members of the same family share a small house and stumble together through life's mishaps.",
+        "poster_path": "/ds2t2T4dFGiCFo2PeP4hlwt9NRD.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          35,
+          18,
+          10762,
+          10751
+        ],
+        "popularity": 24.0683,
+        "first_air_date": "2007-03-22",
+        "vote_average": 8.055,
+        "vote_count": 795,
+        "origin_country": [
+          "MX"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

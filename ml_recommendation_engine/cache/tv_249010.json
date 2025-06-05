@@ -1,0 +1,875 @@
+{
+  "adult": false,
+  "backdrop_path": "/4i3iJepkqqH5JJgTNLJdi8ke6ir.jpg",
+  "created_by": [
+    {
+      "id": 1854526,
+      "credit_id": "664c3c697509698a011e0c44",
+      "name": "Karen Meiring",
+      "original_name": "Karen Meiring",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 4427691,
+      "credit_id": "664c3ca9658beb2b069668fc",
+      "name": "Theltom Masimila",
+      "original_name": "Theltom Masimila",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2024-05-06",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Pembe Dizi"
+    }
+  ],
+  "homepage": "https://www.etv.co.za/scoop/kelders-van-geheime-0",
+  "id": 249010,
+  "in_production": true,
+  "languages": [
+    "af"
+  ],
+  "last_air_date": "2025-02-27",
+  "last_episode_to_air": {
+    "id": 5908446,
+    "name": "219. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-06",
+    "episode_number": 219,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 249010,
+    "still_path": null
+  },
+  "name": "Kelders van Geheime",
+  "next_episode_to_air": {
+    "id": 5908448,
+    "name": "220. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-07",
+    "episode_number": 220,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 249010,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 5225,
+      "logo_path": "/sJ4g8v6i4xWfGwuAvm8Unb5wZhU.png",
+      "name": "e.tv",
+      "origin_country": "ZA"
+    }
+  ],
+  "number_of_episodes": 260,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "ZA"
+  ],
+  "original_language": "af",
+  "original_name": "Kelders van Geheime",
+  "overview": "",
+  "popularity": 2102.965,
+  "poster_path": "/vf1I0G5jICTstI1EXxb9Oqq80TU.jpg",
+  "production_companies": [
+    {
+      "id": 115021,
+      "logo_path": null,
+      "name": "KFilms",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ZA",
+      "name": "South Africa"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-05-06",
+      "episode_count": 260,
+      "id": 383620,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/3qgJdhBQ4dDDdFJY7Yxt6SVVIy4.jpg",
+      "season_number": 1,
+      "vote_average": 8.4
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "Afrikaans",
+      "iso_639_1": "af",
+      "name": "Afrikaans"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.0,
+  "vote_count": 13,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 55676,
+        "known_for_department": "Acting",
+        "name": "Sandra Prinsloo",
+        "original_name": "Sandra Prinsloo",
+        "popularity": 3.505,
+        "profile_path": "/jsTq0HMXINYjGaneR7pckLoIPsY.jpg",
+        "character": "Hermien Marais",
+        "credit_id": "66003e937f6c8d017c7220d5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2822760,
+        "known_for_department": "Acting",
+        "name": "Cedwyn Joel",
+        "original_name": "Cedwyn Joel",
+        "popularity": 1.583,
+        "profile_path": null,
+        "character": "Joey Syster",
+        "credit_id": "66003e211b1f3c017c9a7220",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1246678,
+        "known_for_department": "Acting",
+        "name": "Vinette Ebrahim",
+        "original_name": "Vinette Ebrahim",
+        "popularity": 1.525,
+        "profile_path": "/ljJFV4Qolxu8tVMcQ7nx0s0YDaR.jpg",
+        "character": "Nenna Abrahams",
+        "credit_id": "66003e0f60620a014926f9a8",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1165981,
+        "known_for_department": "Acting",
+        "name": "Brümilda van Rensburg",
+        "original_name": "Brümilda van Rensburg",
+        "popularity": 1.021,
+        "profile_path": "/9urqsB9HXi9uZNMfM0SXhHyzLab.jpg",
+        "character": "Octavia Marais",
+        "credit_id": "663c5c41bdc22a401601699a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3456830,
+        "known_for_department": "Acting",
+        "name": "Rushney Ferguson",
+        "original_name": "Rushney Ferguson",
+        "popularity": 0.445,
+        "profile_path": null,
+        "character": "Veronique Marais",
+        "credit_id": "66003eb71b1f3c017c9a72b4",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3779915,
+        "known_for_department": "Acting",
+        "name": "Duane Williams",
+        "original_name": "Duane Williams",
+        "popularity": 0.106,
+        "profile_path": null,
+        "character": "Edmund Abrahams",
+        "credit_id": "66003dfbb84cdd014af4c9b9",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4216264,
+        "known_for_department": "Acting",
+        "name": "Riana Alfreds",
+        "original_name": "Riana Alfreds",
+        "popularity": 0.452,
+        "profile_path": null,
+        "character": "Sandy Syster",
+        "credit_id": "66003e36378062017c3ad74e",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1887054,
+        "known_for_department": "Acting",
+        "name": "Geon Nel",
+        "original_name": "Geon Nel",
+        "popularity": 1.558,
+        "profile_path": "/y0fgZp9yLq6Om5qZPOEv8MvFAe1.jpg",
+        "character": "Tjoppie Marais",
+        "credit_id": "66003ea70c1255017e0fac3f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1458146,
+        "known_for_department": "Acting",
+        "name": "David Chevers",
+        "original_name": "David Chevers",
+        "popularity": 1.178,
+        "profile_path": "/vMZhaLJM4GM0XBOgMVyFHv8ozah.jpg",
+        "character": "Charl Jr. Marais",
+        "credit_id": "663c5c80275f93b7fd11a1b6",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3477095,
+        "known_for_department": "Acting",
+        "name": "Dean Balie",
+        "original_name": "Dean Balie",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Phillip Smith",
+        "credit_id": "66003e6c60620a017c2ca009",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4282770,
+        "known_for_department": "Acting",
+        "name": "Vashti Prins",
+        "original_name": "Vashti Prins",
+        "popularity": 0.002,
+        "profile_path": null,
+        "character": "Shireen Syster",
+        "credit_id": "66003e5d459ad60187f97656",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1817074,
+        "known_for_department": "Acting",
+        "name": "Ashley de Lange",
+        "original_name": "Ashley de Lange",
+        "popularity": 0.804,
+        "profile_path": "/wcwGT7D32qBrWPu6lUDD6YtQ7VT.jpg",
+        "character": "Annette Marais",
+        "credit_id": "6637a7cc2faf4d012ac5ad6f",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4612186,
+        "known_for_department": "Acting",
+        "name": "Veronique Jephtas",
+        "original_name": "Veronique Jephtas",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Debbie-Lee Syster",
+        "credit_id": "66003e4d459ad60187f97642",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4612194,
+        "known_for_department": "Acting",
+        "name": "Angelo Johnson",
+        "original_name": "Angelo Johnson",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "CJ Marais",
+        "credit_id": "66003ed004733f017dedc364",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4612196,
+        "known_for_department": "Acting",
+        "name": "Angelo Bergh",
+        "original_name": "Angelo Bergh",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Marco Marais",
+        "credit_id": "66003eea0c1255017e0fac6b",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 120085,
+        "known_for_department": "Acting",
+        "name": "Marcel Van Heerden",
+        "original_name": "Marcel Van Heerden",
+        "popularity": 0.608,
+        "profile_path": "/f6s7hlWptEYZrEjA2vlZIjO4HA9.jpg",
+        "character": "Rijk Nel",
+        "credit_id": "66003f4b04733f0164ea3609",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1277547,
+        "known_for_department": "Acting",
+        "name": "Abduragman Adams",
+        "original_name": "Abduragman Adams",
+        "popularity": 1.388,
+        "profile_path": "/y4IHDuIZyqQPtFjVBrQmBxtcKd3.jpg",
+        "character": "Dewald Piedt",
+        "credit_id": "66003f5e3520e8017ed89fb7",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1465470,
+        "known_for_department": "Acting",
+        "name": "Zak Hendrikz",
+        "original_name": "Zak Hendrikz",
+        "popularity": 0.4,
+        "profile_path": "/pvP38pi9q0H1TAGrdIcRhwdqlRw.jpg",
+        "character": "Du Toit Fourie",
+        "credit_id": "66003f2760620a017c2ca0b6",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1153449,
+        "known_for_department": "Acting",
+        "name": "Illse Roos",
+        "original_name": "Illse Roos",
+        "popularity": 1.058,
+        "profile_path": "/sqfxkrIvj6T4tYj5Rvd9k4xb4hL.jpg",
+        "character": "Lynn Fourie",
+        "credit_id": "66003f380929f601649b1e51",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1854526,
+        "known_for_department": "Production",
+        "name": "Karen Meiring",
+        "original_name": "Karen Meiring",
+        "popularity": 0.013,
+        "profile_path": null,
+        "credit_id": "663b0d11270cc021b48d8b85",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4427691,
+        "known_for_department": "Creator",
+        "name": "Theltom Masimila",
+        "original_name": "Theltom Masimila",
+        "popularity": 0.514,
+        "profile_path": null,
+        "credit_id": "663b0d372494790d3ae57bed",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "afrikaans",
+        "id": 10257
+      },
+      {
+        "name": "cape town, south africa",
+        "id": 176806
+      },
+      {
+        "name": "telenovela",
+        "id": 199262
+      },
+      {
+        "name": "drama",
+        "id": 316421
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/7ZBNbpkLhC2fS90j6onLS8qqfRX.jpg",
+        "id": 4682,
+        "name": "Strictly Come Dancing: It Takes Two",
+        "original_name": "Strictly Come Dancing: It Takes Two",
+        "overview": "The companion show to the popular BBC One programme Strictly Come Dancing which features interviews and training footage of the couples competing in the main Saturday night show, opinions from the judges on the previous Saturday show and the training footage for the next, and interviews with celebrities who have been watching the show.",
+        "poster_path": "/1UOKLsJ3bopZHg6ntRfmO4C5Gcm.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [],
+        "popularity": 128.944,
+        "first_air_date": "2004-10-25",
+        "vote_average": 5.0,
+        "vote_count": 12,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/cowrSDpkCkNcmg5fO7gstaZLR1B.jpg",
+        "id": 14808,
+        "name": "The Real Housewives of New York City",
+        "original_name": "The Real Housewives of New York City",
+        "overview": "Manhattanlı beş ev kadını, toplumun seçkin kesimini temsil ettiklerinden ve başkalarının da bunun farkında olduğundan son derece emindir.",
+        "poster_path": "/8RyKqPXef4YqkT40ZEr1wbP0dmk.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 180.528,
+        "first_air_date": "2008-03-04",
+        "vote_average": 5.9,
+        "vote_count": 61,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sx3N4xsZDv0zAGfImtruZLYirhs.jpg",
+        "id": 242931,
+        "name": "Pulang Araw",
+        "original_name": "Pulang Araw",
+        "overview": "Red Sun is a family drama that tells stories of courage, sacrifice, and hardships that every Filipino family has. These stories were inspired by the tales of the unsung heroes who defied the odds of World War II and the Japanese occupation of the Philippines.",
+        "poster_path": "/2zbaRzgieKiHYkTGztQUzrAYbgb.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "tl",
+        "genre_ids": [
+          10759,
+          18,
+          10768,
+          10751
+        ],
+        "popularity": 102.763,
+        "first_air_date": "2024-07-29",
+        "vote_average": 7.261,
+        "vote_count": 23,
+        "origin_country": [
+          "PH"
+        ]
+      },
+      {
+        "backdrop_path": "/1rGfdcrJOzqyBGo0HUa740L2GhX.jpg",
+        "id": 247174,
+        "name": "El Conde: Amor y Honor",
+        "original_name": "El Conde: Amor y Honor",
+        "overview": "A wrongful conviction changes the life of Alejandro Gaitán and separates him from the woman he loves, Mariana Zambrano. After 17 years in jail, he becomes a count with the help of another prisoner and seeks revenge on those who turned on him.",
+        "poster_path": "/lwcTD8hRx5Ch4sAmjNHmWigkaND.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759
+        ],
+        "popularity": 71.412,
+        "first_air_date": "2024-07-01",
+        "vote_average": 8.3,
+        "vote_count": 35,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cchlQWYrnMPyl1EbjZWCzeAz8l5.jpg",
+        "id": 36361,
+        "name": "Ulice",
+        "original_name": "Ulice",
+        "overview": "Ulice is a Czech soap opera produced and broadcast by Nova. In the Czech language Ulice means street.\n\nThe show describes the lives of the Farský, Jordán, Boháč, Nikl, and Liška families and many other people that live in Prague. Their daily battle against real problems of living in a modern world like divorce, love, betrayal and illness or disease. Ulice often shows crime.",
+        "poster_path": "/gFEHva8Csx18hMGJJZ6gi4sFSKR.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "cs",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 3651.829,
+        "first_air_date": "2005-09-05",
+        "vote_average": 4.6,
+        "vote_count": 31,
+        "origin_country": [
+          "CZ"
+        ]
+      },
+      {
+        "backdrop_path": "/aizbHLcKVWvJ7jxkflJzTu5Z8GE.jpg",
+        "id": 81329,
+        "name": "Chronicles of the Sun",
+        "original_name": "Un si grand soleil",
+        "overview": "Claire is surprised when she gets arrested for the murder of her childhood friend after she returns to Montpellier.",
+        "poster_path": "/t6jVlbPMtZOJoAOfeoR4yQmnjXM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          10766
+        ],
+        "popularity": 3299.616,
+        "first_air_date": "2018-08-27",
+        "vote_average": 6.846,
+        "vote_count": 117,
+        "origin_country": [
+          "FR"
+        ]
+      },
+      {
+        "backdrop_path": "/6gN8DYnIEln8v7OhRy61c57w0Xy.jpg",
+        "id": 124364,
+        "name": "FROM",
+        "original_name": "FROM",
+        "overview": "Amerika Birleşik Devletleri'nin ortasındaki kabus gibi bir şehir, içine giren herkesi tuzağa düşürür. Kasaba sakinleri, normallik duygusunu sürdürmek ve bir çıkış yolu aramak için savaşırken, güneş battığında ortaya çıkan korkunç yaratıklar da dahil olmak üzere, çevredeki ormandan gelen tehditlere karşı da hayatta kalmak için çabalar.",
+        "poster_path": "/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          18,
+          10765
+        ],
+        "popularity": 435.649,
+        "first_air_date": "2022-02-20",
+        "vote_average": 8.187,
+        "vote_count": 1758,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lBoHzOgft2QfpjkVVvZCqeM4ttT.jpg",
+        "id": 90228,
+        "name": "Dune: Prophecy",
+        "original_name": "Dune: Prophecy",
+        "overview": "Sıradışı yeteneklere sahip Bene Gesserit kadınları, zihinleri ve vücutlarını tamamen kendi kontrollerinde yönetebilmek için eğitim alarak insanlığı kendi planlarına göre yönlendirebilecektir. Yetenekleri sayesinde imparatorluğun politikalarına karşı koymayı başaran bu zeki birlik nihayetinde kendilerini, Dune adını verdikleri karmaşık bir gezegen olan Arrakis'te bulurlar.",
+        "poster_path": "/5B8Cxz8ZZXp3w2WmmdKTXpkS24e.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 161.398,
+        "first_air_date": "2024-11-17",
+        "vote_average": 7.559,
+        "vote_count": 339,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+        "id": 93405,
+        "name": "Squid Game",
+        "original_name": "오징어 게임",
+        "overview": "Para sıkıntısı çeken yüzlerce oyuncu, çocuk oyunlarında yarışmaları için aldıkları tuhaf daveti kabul eder. İçeride onları cazip bir ödül ve ölüm riski beklemektedir.",
+        "poster_path": "/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          10759,
+          9648,
+          18
+        ],
+        "popularity": 603.484,
+        "first_air_date": "2021-09-17",
+        "vote_average": 7.9,
+        "vote_count": 15546,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/lY2DhbA7Hy44fAKddr06UrXWWaQ.jpg",
+        "id": 100088,
+        "name": "The Last of Us",
+        "original_name": "The Last of Us",
+        "overview": "Dünyayı kasıp kavuran bir salgınından yirmi yıl sonra hayatta kalan Joel ve Ellie, her şeyi değiştirebilecek bir görev için yola koyulur.",
+        "poster_path": "/qmn3jtupnssxRsoocrppeMIXsll.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 172.698,
+        "first_air_date": "2023-01-15",
+        "vote_average": 8.584,
+        "vote_count": 5389,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/rLSe8Qps7A0bwUg6h5CttlHpcKp.jpg",
+        "id": 44006,
+        "name": "Chicago Fire",
+        "original_name": "Chicago Fire",
+        "overview": "Amerika’nın kahramanları; herkes diğer tarafa koşarken düşünmeden tehlikenin içine giren cesur adamlar ve kadınlar. Ancak işin büyük sorumlulukları kişisel bir özveri de gerektiriyor. Büyük şöhretler ve büyük egolar işi başarma ve anlık kararlar verme baskısıyla birleşince ekip üyelerini karşı karşıya getirebiliyor. İçlerinden birinin başına trajik bir olay gelir ve herkes birbirini suçlamaya başlar. Bir boşanmanın eşiğinde olan Matthew Casey (Jesse Spencer, “House M.D.”) işine devam etmeye çalışır ancak Kurtarma Bölüğünün küstah Kelly Severide’ı ile (Taylor Kinney, “The Vampire Diaries”) çatışmaya da devam eder. İkisi de hayatını kaybeden ekip üyeleri için birbirini suçlamaktadır. Ancak acil bir durum gelip çattığında, farklılıklarını ve çatışmalarını bir kenara bırakıp birbirleri için her şeylerini feda edebilecek noktaya gelirler. “Chicago Fire” Amerika’nın en asil mesleklerinden birinin iç yüzünü detaylı bir şekilde gözler önüne seriyor.",
+        "poster_path": "/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 510.247,
+        "first_air_date": "2012-10-10",
+        "vote_average": 8.4,
+        "vote_count": 2239,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5DUMPBSnHOZsbBv81GFXZXvDpo6.jpg",
+        "id": 114410,
+        "name": "Chainsaw Man",
+        "original_name": "チェンソーマン",
+        "overview": "Denji'nin babası ölünce büyük bir borç üstüne kalır ve bunu ödeyebilmesinin hiçbir yolu yoktur. Ancak kurtardığı Pochita isimli iblis köpek sayesinde iblis avcılığı yaparak borcunu azar azar kapatır. Pochita'nın testere güçleri iblislere karşı işe yarıyordur. Denji öldüğünde Pochita kendini feda edip onu diriltir. Fakat Denji artık eskisi gibi insan değildir. O artık Testere Adam!",
+        "poster_path": "/npdB6eFzizki0WaZ1OvKcJrWe97.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "popularity": 82.233,
+        "first_air_date": "2022-10-12",
+        "vote_average": 8.559,
+        "vote_count": 1755,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/34OGjFEbHj0E3lE2w0iTUVq0CBz.jpg",
+        "id": 87739,
+        "name": "The Queen's Gambit",
+        "original_name": "The Queen's Gambit",
+        "overview": "1950'lerde bir yetimhanede, küçük bir kız müthiş bir satranç yeteneği sergiler. Ancak yıldızlığa uzanan umulmadık yolculuğunda bağımlılıkla mücadele etmek zorunda kalır.",
+        "poster_path": "/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 72.508,
+        "first_air_date": "2020-10-23",
+        "vote_average": 8.5,
+        "vote_count": 4790,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/oggnxmvofLtGQvXsO9bAFyCj3p6.jpg",
+        "id": 1438,
+        "name": "The Wire",
+        "original_name": "The Wire",
+        "overview": "Amerika’nın 26. büyük şehri, Maryland eyaletinin ise en büyük şehri Baltimore’un yaşamadan bilemeyeceğiniz hikayesini izlemeye hazırlanın. Çünkü TV’da hikaye anlatıcılığının öncüsü The Wire, hafızalardan kazınması imkansız bir destan yazmaya geliyor.  Özel bir programın uygulandığı bir hapishanede yaşananları konu edinen OZ ve mafya kavramının üç-beş silahlı adamdan çok daha başka anlamlara da geldiğini cesurca anlatan The Sopranos, HBO’nun o tarihe kadar çıkardığı en başarılı, en sıradışı yapımlardı. Bu iki dizinin başarısının üzerine yapım şirketi, ‘bağımsız ve kaliteli yayın’ ilkesini benimsediğini anlatabilmek için yeni bir dizi arayşına girişti. İşte tam da bu sırada 2000 yılında aynı adlı kitabını mini diziye uyarladıkları The Corner’ın yaratıcısı David Simon yepyeni bir projeyle kanalın kapısını çaldı. İlk sözleri de “Bunun bir polis-suçlu kovalamacası olmayacağına yemin ediyorum. İlk bakışta öyle görünecek. Ama bir Baltimore hikayesi olacak”tı. The Corner nasıl konusunu gerçek insanlar ve gerçek mekanlara dayandırıyor ama ‘köşe’deki uyuşturucu ticareti fonunda karakterlerin öykülerini anlatıyorsa The Wire da suç, suçlu, adalet, adalet mekanizmaları, kentsel dönüşüm, siyasi otorite ve öteki kavramları üzerinden Baltimore’un yaşam dinemiklerini ve Baltimore’da var olma şekillerini göz önüne seriyor. İyiyle kötünün ayrımına varmakta zorlanacağınız, her sezonunda varoşlardan eğitim sistemine, büyük suç örgütlerinden, dolandırıcı sendikalara Baltimore’un farklı bir köşesine keşfe çıkacağınız The Wire, HBO’nun itibarını artırmanın yanı sıra TV dünyasına da gerçekçilik, görsel hikaye anlatımı ve sosyal eleştiri gibi kavramlar kazandırdı.",
+        "poster_path": "/4lbclFySvugI51fwsyxBTOm4DqK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 150.575,
+        "first_air_date": "2002-06-02",
+        "vote_average": 8.6,
+        "vote_count": 2304,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/rRGnjRCHdDl3m3oCVSvo5z2E5c5.jpg",
+        "id": 65249,
+        "name": "Boku dake ga Inai Machi",
+        "original_name": "僕だけがいない街",
+        "overview": "Hayatın zorluklarıyla cebelleşen manga yazarı Satoru Fujinuma, kendisini ifade edememe korkusuyla yüzleşmektedir. Ancak, ölüm ve faciaları engellemeye zorlayan doğaüstü bir yeteneği vardır. Bu olaylar gerçekleşmeden önce, zamanda geri gider ve bu süreç sürekli tekrar eder; ta ki söz konusu olan kaza önlenene kadar.\n\nBir gün, kendisini katil durumuna düşüren bir kazaya karışır. Kurbanı kurtarma çabasıyla kendisini geçmişe yollar. Fakat, sınıf arkadaşı Kayo Hinazuki'nin kaybolmasından bir ay önceki zamana, ilkokul öğrencisi olduğu yıllara gelmiştir. Bunun üstüne, Satoru kendisine yeni bir görev edinir: Kayo'yu kurtarmak ve kayboluşundaki gizemi çözmek.",
+        "poster_path": "/EljUwZJhpuYfVuSfqY8Pt1xxpH.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          18,
+          9648
+        ],
+        "popularity": 37.931,
+        "first_air_date": "2016-01-08",
+        "vote_average": 8.5,
+        "vote_count": 1098,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/nfWhNM5VVd9a5bEGobs83TWTuLM.jpg",
+        "id": 74577,
+        "name": "The End of the F***ing World",
+        "original_name": "The End of the F***ing World",
+        "overview": "17 yaşında bir genç olan James tam anlamıyla bir psikopattır. Çocukluğundan itibaren sıra dışı olmuş hep tehlikeli işlere kalkışmıştır. Okul hayatını pek sevmese de planı için kurban seçebileceği en ideal yerdir. Onlarca öğrenci arasından öldürebileceği birini aramaya başlayan James sonunda Alyssa’da karar kılar. Kurbanına önce güven vermesi gerektiğini düşünen James ona aşıkmış gibi davranmaya başlar. Alyssa, maceraya aç bir asidir. Yaşadıkları yerden sıkılmış yeni yerler keşfetmek, yeni maceralara atılmak ister. İkisinin baş başa çıkacakları bu yolculukta planını daha rahat uygulayabileceğini düşünen James, Alyssa ile yola koyulur. Talihsizliklerle dolu bu yolculukta planlar değişir ve James Alyssa’ya aşık olur.",
+        "poster_path": "/yQ6PtNxHsAoJRnF0zjJMn2s22A8.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18,
+          80
+        ],
+        "popularity": 53.718,
+        "first_air_date": "2017-10-24",
+        "vote_average": 8.061,
+        "vote_count": 3244,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/9PJl6qubokov6PxEdkWyZdF3vuK.jpg",
+        "id": 46901,
+        "name": "True Love",
+        "original_name": "Amores verdaderos",
+        "overview": "Amores verdaderos is a 2012 Mexican telenovela produced by Nicandro Díaz Gonzalez for Televisa. It is based on Amor en Custodia, produced in Colombia, Argentina, and Mexico.",
+        "poster_path": "/smcTh9fyEBQkasD5TSuqdNeFlzW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 274.732,
+        "first_air_date": "2012-09-03",
+        "vote_average": 7.695,
+        "vote_count": 714,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/bKxiLRPVWe2nZXCzt6JPr5HNWYm.jpg",
+        "id": 110316,
+        "name": "Alice in Borderland",
+        "original_name": "今際の国のアリス",
+        "overview": "Amaçsız bir bilgisayar oyuncusu ve iki arkadaşı kendilerini paralel evrendeki Tokyo'da bulur. Burada hayatta kalmak için bir dizi acımasız oyuna katılmaları gerekir.",
+        "poster_path": "/Ac8ruycRXzgcsndTZFK6ouGA0FA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          9648,
+          18,
+          10759
+        ],
+        "popularity": 145.96,
+        "first_air_date": "2020-12-10",
+        "vote_average": 8.168,
+        "vote_count": 2161,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/nDOIsgCYZqEMvomSR6t9QUIPZJS.jpg",
+        "id": 60622,
+        "name": "Fargo",
+        "original_name": "Fargo",
+        "overview": "Fargo, Noah Hawley tarafından yazılmış ABD yapımı kara mizah, suç filmi türü bir dizidir. Dizi aynı ismi taşıyan 1996 yapımı Coen kardeşler tarafından yönetilmiş ve birçok ödül kazanan Fargo'dan esinlenilmiştir.",
+        "poster_path": "/6U9CPeD8obHzweikFhiLhpc7YBT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 267.536,
+        "first_air_date": "2014-04-15",
+        "vote_average": 8.3,
+        "vote_count": 2801,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+        "id": 42009,
+        "name": "Black Mirror",
+        "original_name": "Black Mirror",
+        "overview": "Bu bilimkurgu antolojisi dizisi, insanlığın en görkemli buluşlarının ve en karanlık içgüdülerinin zıtlaştığı karmaşık ve teknolojiyle dolu bir yakın geleceği konu alıyor.",
+        "poster_path": "/5UaYsGZOFhjFDwQh6GuLjjA1WlF.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          9648
+        ],
+        "popularity": 207.285,
+        "first_air_date": "2011-12-04",
+        "vote_average": 8.3,
+        "vote_count": 5249,
+        "origin_country": [
+          "GB"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

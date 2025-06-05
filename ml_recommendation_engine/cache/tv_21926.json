@@ -1,0 +1,746 @@
+{
+  "adult": false,
+  "backdrop_path": "/t1b9cgIHwEMn1RpfjJtDNvri24Q.jpg",
+  "created_by": [
+    {
+      "id": 1215602,
+      "credit_id": "5b55bea1c3a3685c93018ebe",
+      "name": "John de Mol",
+      "original_name": "John de Mol",
+      "gender": 2,
+      "profile_path": "/w6I4OZDHnSQsmpMvoRvfz1BvVpr.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2000-03-01",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Gerçeklik"
+    }
+  ],
+  "homepage": "",
+  "id": 21926,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2025-03-06",
+  "last_episode_to_air": {
+    "id": 5983051,
+    "name": "9. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-06",
+    "episode_number": 9,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 32,
+    "season_number": 15,
+    "show_id": 21926,
+    "still_path": null
+  },
+  "name": "Big Brother",
+  "next_episode_to_air": {
+    "id": 5983052,
+    "name": "10. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-07",
+    "episode_number": 10,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 15,
+    "show_id": 21926,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 163,
+      "logo_path": "/tpuoOACmOTDY96gSQ2dT5sd1Q3Q.png",
+      "name": "SAT.1",
+      "origin_country": "DE"
+    },
+    {
+      "id": 411,
+      "logo_path": "/ybTppkzqb3XOWKNcco144BFlosB.png",
+      "name": "RTL II",
+      "origin_country": "DE"
+    },
+    {
+      "id": 1283,
+      "logo_path": "/xSfWRN9kd5mUp65JEKRD5IVmgcB.png",
+      "name": "sixx",
+      "origin_country": "DE"
+    },
+    {
+      "id": 3155,
+      "logo_path": "/2OWbACUYTojW3CSzbEuPicnAabp.png",
+      "name": "Joyn",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 2454,
+  "number_of_seasons": 15,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Big Brother",
+  "overview": "",
+  "popularity": 3033.824,
+  "poster_path": "/ojPXByoWcWJrs2WZcEv8p0qBhtS.jpg",
+  "production_companies": [
+    {
+      "id": 85953,
+      "logo_path": "/hpTBxWjOvkUoKKLG9y8l6jmSovN.png",
+      "name": "Endemol Shine Germany",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2000-03-01",
+      "episode_count": 116,
+      "id": 106773,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2000-09-14",
+      "episode_count": 112,
+      "id": 106774,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2001-01-27",
+      "episode_count": 108,
+      "id": 106775,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 9.5
+    },
+    {
+      "air_date": "2003-03-31",
+      "episode_count": 111,
+      "id": 106776,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2004-03-02",
+      "episode_count": 419,
+      "id": 106777,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2005-03-02",
+      "episode_count": 369,
+      "id": 106778,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2007-02-05",
+      "episode_count": 156,
+      "id": 106779,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2008-01-07",
+      "episode_count": 183,
+      "id": 106780,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2008-12-08",
+      "episode_count": 211,
+      "id": 106781,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2010-01-11",
+      "episode_count": 220,
+      "id": 106782,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-05-02",
+      "episode_count": 153,
+      "id": 106783,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2015-09-22",
+      "episode_count": 92,
+      "id": 106784,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2020-02-10",
+      "episode_count": 85,
+      "id": 381955,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2024-03-04",
+      "episode_count": 99,
+      "id": 381956,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2025-02-24",
+      "episode_count": 20,
+      "id": 435902,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 3.5,
+  "vote_count": 11,
+  "credits": {
+    "cast": [],
+    "crew": []
+  },
+  "keywords": {
+    "results": []
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/uyRvektEQl7Aj6mXhqtrejDM8lH.jpg",
+        "id": 275308,
+        "name": "Licht aus",
+        "original_name": "Licht aus",
+        "overview": "",
+        "poster_path": "/tAx5PIZDMcXuxmLdltJ3yrRT80a.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          10764,
+          10759
+        ],
+        "popularity": 2.212,
+        "first_air_date": "2024-10-31",
+        "vote_average": 4.5,
+        "vote_count": 3,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 131053,
+        "name": "Let the music play – Das Hit Quiz",
+        "original_name": "Let the music play – Das Hit Quiz",
+        "overview": "",
+        "poster_path": null,
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 20.152,
+        "first_air_date": "2021-08-09",
+        "vote_average": 5.0,
+        "vote_count": 3,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "backdrop_path": "/oRdc2nn7jLOYy4fBdvmFKPsKzZE.jpg",
+        "id": 2734,
+        "name": "Law & Order: Special Victims Unit",
+        "original_name": "Law & Order: Special Victims Unit",
+        "overview": "New York yeraltı dünyasının karanlık yüzünü araştıran bir özel suçlar birimi... New York Polis departmanında cinsel suçlar konusunda uzman dedektiflerden oluşan bu birim, insanın kanını donduran vakaları incelemek zorunda... Her gün yardım isteyen kurbanlar, kapatılmayı bekleyen dosyalarla uğraşan bu ekibin üyeleri, bir yandan da bu araştırmaların özel yaşamlarına olan etkisini dengelemeye çalışıyorlar.",
+        "poster_path": "/imaKy0BLfX1iPzj9ZvbOD0D09m6.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 1362.262,
+        "first_air_date": "1999-09-20",
+        "vote_average": 7.937,
+        "vote_count": 3889,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7sqFEDDmK1hG5m92upolcfQxy7R.jpg",
+        "id": 75006,
+        "name": "The Umbrella Academy",
+        "original_name": "The Umbrella Academy",
+        "overview": "Babalarının ölümüyle yeniden bir araya gelen sıra dışı yeteneklere sahip kardeşler, şaşırtıcı aile sırlarını ve insanlığı bekleyen yakın bir tehdidi açığa çıkarır.",
+        "poster_path": "/qhcwrnnCnN8NE1N6XXKHFmveJR9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10765,
+          18
+        ],
+        "popularity": 118.911,
+        "first_air_date": "2019-02-15",
+        "vote_average": 8.5,
+        "vote_count": 9563,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+        "id": 93405,
+        "name": "Squid Game",
+        "original_name": "오징어 게임",
+        "overview": "Para sıkıntısı çeken yüzlerce oyuncu, çocuk oyunlarında yarışmaları için aldıkları tuhaf daveti kabul eder. İçeride onları cazip bir ödül ve ölüm riski beklemektedir.",
+        "poster_path": "/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          10759,
+          9648,
+          18
+        ],
+        "popularity": 603.484,
+        "first_air_date": "2021-09-17",
+        "vote_average": 7.862,
+        "vote_count": 15548,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/lOr9NKxh4vMweufMOUDJjJhCRHW.jpg",
+        "id": 85271,
+        "name": "WandaVision",
+        "original_name": "WandaVision",
+        "overview": "Yorucu bir hayatı arkalarında bırakmak isteyen süper kahramanlar Wanda ve Vision, güçlerini kullanmak zorunda olmadıkları bir hayatı arzular. Bunun için de sıradan bir yaşam sürebilecekleri idealize edilmiş bir banliyöde yaşamaya başlarlar. Artık geçmişte yaşadıkları zorlukları arkalarında bırakıp sonunda istedikleri hayata kavuştuklarını düşünen Wanda ve Vision, çok geçmeden hiçbir şeyin göründüğü gibi olmadığını keşfeder.",
+        "poster_path": "/sgCHdBJ1w0vJNUrW1Sq90KEXv9j.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          9648,
+          18
+        ],
+        "popularity": 83.448,
+        "first_air_date": "2021-01-15",
+        "vote_average": 8.2,
+        "vote_count": 12130,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/rDGCj1mi7J8aS1EwqtvjKVp4d1j.jpg",
+        "id": 31910,
+        "name": "Naruto: Shippuuden",
+        "original_name": "ナルト 疾風伝",
+        "overview": "Naruto, Sasuke ile şelaledeki dövüşünün ardından Sasuke'yi geri getirmekte başarısız olmuştur. Orochimaru'nun Sasuke'nin vucudunu tamamen ele geçirmesi 3 yıl sürecektir. Bu süre içinde Naruto'nun, Sasuke'yi geri getirmesi gereklidir. Ancak bu kez Sakura da Naruto'ya yardım etmeye karar verir. Bu yüzden Naruto; Jiraiya'nın, Sakura; Tsunade'nin öğrencileri olur ve eğitimlerine başlarlar. Tüm bunlar olurken Akatsuki'nin başka planları vardır.",
+        "poster_path": "/71mASgFgSiPl9QUexVH8BubU0lD.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "popularity": 209.051,
+        "first_air_date": "2007-02-15",
+        "vote_average": 8.5,
+        "vote_count": 8260,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/3GQKYh6Trm8pxd2AypovoYQf4Ay.jpg",
+        "id": 85937,
+        "name": "İblis Keser",
+        "original_name": "鬼滅の刃",
+        "overview": "Bir iblis saldırısında ailesi katledilen ve kız kardeşi lanetlenen Tanjiro, laneti kaldırmanın bir yolunu bulmak ve intikam almak için tehlikeli bir yolculuğa çıkar.",
+        "poster_path": "/mszs7gapSnF7rw2xrg4WLQLVzZ9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "popularity": 73.348,
+        "first_air_date": "2019-04-06",
+        "vote_average": 8.7,
+        "vote_count": 6591,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/xGexTKCJDkl12dTW4YCBDXWb1AD.jpg",
+        "id": 71446,
+        "name": "Money Heist",
+        "original_name": "La casa de papel",
+        "overview": "Bir suç dehası planını gerçekleştirmek üzere polisi ustalıkla yönlendirirken sekiz hırsız, rehineler alarak kendilerini İspanya Kraliyet Darphanesine kilitler.",
+        "poster_path": "/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 112.802,
+        "first_air_date": "2017-05-02",
+        "vote_average": 8.2,
+        "vote_count": 18793,
+        "origin_country": [
+          "ES"
+        ]
+      },
+      {
+        "backdrop_path": "/fZDXXRO5uJLgjmZQZANY54bImjR.jpg",
+        "id": 83095,
+        "name": "Tate no Yuusha no Nariagari",
+        "original_name": "盾の勇者の成り上がり",
+        "overview": "Iwatani Naofumi, kahraman olmak için 3 kişi ile birlikte paralel bir dünyaya çağrılır ve bu çağrılan kahramanlar efsanevi ekipmanlarla donatıldılar. Kalkan Kahramanı olan Naofumi, ise deneyimsizliği ve yetersizliğinden dolayı en zayıf kahraman olarak görülür ve ihanete uğrar. Kendine ihanet edenlerden intikamını almaya ant içer. Böylece paralel dünyadaki kaderi başlar...",
+        "poster_path": "/yjq2n0agGJfmZQ9NpbYIhuBofcq.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759,
+          10765,
+          18
+        ],
+        "popularity": 55.99,
+        "first_air_date": "2019-01-09",
+        "vote_average": 8.5,
+        "vote_count": 1380,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/q3jHCb4dMfYF6ojikKuHd6LscxC.jpg",
+        "id": 84958,
+        "name": "Loki",
+        "original_name": "Loki",
+        "overview": "Marvel Studios'tan Loki'de, \"Avengers: Endgame\"de yaşananların sonrası ele alınmaktadır ve bu yeni dizide kurnaz süper kötü Loki (Tom Hiddleston) Fesatlık Tanrısı rolüne devam eder. Dizinin yönetmenliğini Kate Herron, baş yazarlığını ise Michael Waldron üstlenmiştir.",
+        "poster_path": "/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 113.217,
+        "first_air_date": "2021-06-09",
+        "vote_average": 8.173,
+        "vote_count": 11755,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ywQtHG17LZhAFZyZtBflhtFMtJ7.jpg",
+        "id": 70785,
+        "name": "Anne with an E",
+        "original_name": "Anne with an E",
+        "overview": "Cesur ve tutkulu yetim kız, evlenmemiş yaşlı bir kadın ile onun tatlı dilli bekar erkek kardeşinin yanında alışılmadık bir yuva bulur. Yeşilin Kızı Anne'den uyarlandı.",
+        "poster_path": "/6P6tXhjT5tK3qOXzxF9OMLlG7iz.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10751
+        ],
+        "popularity": 110.13,
+        "first_air_date": "2017-03-19",
+        "vote_average": 8.661,
+        "vote_count": 4717,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/vc3GVrH46tZPUk7RxRpQO6wH3ny.jpg",
+        "id": 69291,
+        "name": "Miss Kobayashi's Dragon Maid",
+        "original_name": "小林さんちのメイドラゴン",
+        "overview": "Kobayashi bir apartman dairesinde yalnız yaşıyor, ta ki bir gün Tohru ortaya çıkana ve sonunda birlikte yaşamaya başlayana kadar. Tooru, insanları aşağılık ve aptal olarak görür, ancak Kobayashi-san tarafından kurtarıldığı için, her şey plana göre gitmese de borcunu ödemek ve ona çeşitli konularda yardım etmek için elinden gelen her şeyi yapar.\n\nBir ejderha kızla yaşayan çalışkan bir ofis hanımı hakkında efsanevi bir günlük yaşam komedisi.",
+        "poster_path": "/tNznuhcf7WKzEmPQEsIgGMrB3Az.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          35,
+          10765
+        ],
+        "popularity": 89.919,
+        "first_air_date": "2017-01-12",
+        "vote_average": 8.346,
+        "vote_count": 824,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/dsLflWrkUpWLbvhYxGKHV0zrK7U.jpg",
+        "id": 34391,
+        "name": "Marvel's Ultimate Spider-Man",
+        "original_name": "Marvel's Ultimate Spider-Man",
+        "overview": "Genç bir süper kahraman, deneyimli bir yönetmenin rehberliğinde hayat kurtaran görevler ve kişisel gelişim arasında hokkabazlık yaparak kaderine hakim olmayı hedefliyor.",
+        "poster_path": "/eXtlDP6kgUyYw0G2L9AxSWUp14Q.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10762,
+          10759,
+          16,
+          35,
+          10751
+        ],
+        "popularity": 67.07,
+        "first_air_date": "2012-04-01",
+        "vote_average": 7.7,
+        "vote_count": 1000,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/s0w8JbuNNxL1YgaHeDWih12C3jG.jpg",
+        "id": 63926,
+        "name": "One Punch Man",
+        "original_name": "ワンパンマン",
+        "overview": "Bu seri cansız duruşu, kel kafası ve de hiç de etkileyici olmayıp her tarafından sıradanlık fışkıran Saitama adındaki genç hakkında. Ne var ki sıradan görünüşünün altında sıradan problemler yatmamakta. İşin aslında kendine zorlu rakipler arayan süper bir kahraman o! Asıl sorun işte burada ortaya çıkıyor. Ne zaman umut vadedebilecek bir rakip ortaya çıksa tek yumrukla amele sümüğü gibi yere yapıştırıyor. Acaba Saitama sonunda kendisine meydan okuyabilecek kötü birisini bulabilecek midir? Meydan okumak için yeni kötüler ararkenki Saitama'nın kolay ve komik zaferlerini sakın ola kaçırmayın!",
+        "poster_path": "/jbYJuxfZMpYDalkiOnBcCv9TaL.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          35,
+          10759
+        ],
+        "popularity": 99.203,
+        "first_air_date": "2015-10-05",
+        "vote_average": 8.403,
+        "vote_count": 3663,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/yHiAcA5HvhIiQHs7TWTTIQFJwt3.jpg",
+        "id": 98387,
+        "name": "Rubi",
+        "original_name": "Rubí",
+        "overview": "",
+        "poster_path": "/sVh19iLGwTXp9fhIbzV33U9pmbh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          10766
+        ],
+        "popularity": 47.458,
+        "first_air_date": "2020-01-21",
+        "vote_average": 7.4,
+        "vote_count": 845,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/n5Ty1KJIRNCXlDHDjcPpUgp57tr.jpg",
+        "id": 62104,
+        "name": "Nanatsu no Taizai",
+        "original_name": "七つの大罪",
+        "overview": "Bazılarının hala canlı olduklarını iddia etmelerine rağmen Yedi Ölümcül Günah, İngiltere Krallığı'nı devirme komploları kurup, Kutsal Şövalyeler tarafından köklerinin kazındığı söylenen bir grup şeytani şövalyelerdir. 10 yıl sonra da Kutsal Şövalyeler hükümete darbe düzenlemiş, krala suikast yapmış ve krallığın yeni zalim hükümdarları olmuşlardır. Kralın tek kızı olan Elizabeth de Yedi Ölümcül Günah'ı bulup krallığı geri almak için onlardan yardım temin etmek amacıyla bir yolculuğa çıkmıştır.",
+        "poster_path": "/gxTojpKEOtue85EEFlozwRbDXwJ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          10759,
+          16,
+          10765
+        ],
+        "popularity": 24.799,
+        "first_air_date": "2014-10-05",
+        "vote_average": 8.4,
+        "vote_count": 4976,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/5DUMPBSnHOZsbBv81GFXZXvDpo6.jpg",
+        "id": 114410,
+        "name": "Chainsaw Man",
+        "original_name": "チェンソーマン",
+        "overview": "Denji'nin babası ölünce büyük bir borç üstüne kalır ve bunu ödeyebilmesinin hiçbir yolu yoktur. Ancak kurtardığı Pochita isimli iblis köpek sayesinde iblis avcılığı yaparak borcunu azar azar kapatır. Pochita'nın testere güçleri iblislere karşı işe yarıyordur. Denji öldüğünde Pochita kendini feda edip onu diriltir. Fakat Denji artık eskisi gibi insan değildir. O artık Testere Adam!",
+        "poster_path": "/npdB6eFzizki0WaZ1OvKcJrWe97.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "popularity": 82.233,
+        "first_air_date": "2022-10-12",
+        "vote_average": 8.559,
+        "vote_count": 1755,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
+        "id": 119051,
+        "name": "Wednesday",
+        "original_name": "Wednesday",
+        "overview": "Zeki, alaycı ve azıcık içi geçmiş bir kız olan Wednesday Addams, Nevermore Akademisinde yeni dostlar ve düşmanlar edinirken art arda gerçekleşen cinayetleri araştırır.",
+        "poster_path": "/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          9648,
+          35
+        ],
+        "popularity": 130.303,
+        "first_air_date": "2022-11-23",
+        "vote_average": 8.433,
+        "vote_count": 8902,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/mrGd5M3kPkAKynZruOAwsadsr9w.jpg",
+        "id": 69050,
+        "name": "Riverdale",
+        "original_name": "Riverdale",
+        "overview": "Küçük bir kasabada yaşayan sürrealist gençlerin hayatını anlatacaktır. Dışarıdan sakin ve şirin bir kasaba gibi gözüken Riverdale’in iç yüzü oldukça karanlık ve tuhaftır. Bu kasabada yaşananlar dışarıdan gelenler için garip olarak adlandırılabilir ancak içeride yaşayanlar için oldukça sıradandır.",
+        "poster_path": "/d8mmn9thQ5dBk2qbv6BCqGUXWK3.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 245.327,
+        "first_air_date": "2017-01-26",
+        "vote_average": 8.438,
+        "vote_count": 13508,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

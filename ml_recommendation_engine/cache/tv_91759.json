@@ -1,0 +1,933 @@
+{
+  "adult": false,
+  "backdrop_path": "/ohJTnu93hJ0Uonl86Wn3mOSlWXN.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2017-02-06",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Aile"
+    },
+    {
+      "id": 35,
+      "name": "Komedi"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    }
+  ],
+  "homepage": "https://www.mytvsuper.com/en/programme/loandbehold_110561/Lo-And-Behold/",
+  "id": 91759,
+  "in_production": true,
+  "languages": [
+    "cn"
+  ],
+  "last_air_date": "2025-02-26",
+  "last_episode_to_air": {
+    "id": 6012330,
+    "name": "2505. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-06",
+    "episode_number": 2505,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 1,
+    "show_id": 91759,
+    "still_path": null
+  },
+  "name": "愛·回家之開心速遞",
+  "next_episode_to_air": {
+    "id": 6012332,
+    "name": "2507. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-07",
+    "episode_number": 2507,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 1,
+    "show_id": 91759,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 48,
+      "logo_path": "/v78f4q6DYdRB8dLj4rQBpqQG8pW.png",
+      "name": "TVB Jade",
+      "origin_country": "HK"
+    }
+  ],
+  "number_of_episodes": 2503,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "HK"
+  ],
+  "original_language": "cn",
+  "original_name": "愛·回家之開心速遞",
+  "overview": "",
+  "popularity": 1701.881,
+  "poster_path": "/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
+  "production_companies": [
+    {
+      "id": 79261,
+      "logo_path": "/4OKzkasr0IV8CSqejjgRfKw7e0m.png",
+      "name": "TVB",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-02-06",
+      "episode_count": 2507,
+      "id": 128727,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/7S0MKF8LFz5z6iDXYcav9Xhd4Im.jpg",
+      "season_number": 1,
+      "vote_average": 10.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "广州话 / 廣州話"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.4,
+  "vote_count": 42,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1133980,
+        "known_for_department": "Acting",
+        "name": "劉丹",
+        "original_name": "劉丹",
+        "popularity": 10.396,
+        "profile_path": "/ji0qG0Syt3QvQaq4qouaxP8g99P.jpg",
+        "character": "Hung Shu-kan",
+        "credit_id": "5d42ccffd8cc4a00153507ed",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 125775,
+        "known_for_department": "Acting",
+        "name": "湯盈盈",
+        "original_name": "湯盈盈",
+        "popularity": 4.73,
+        "profile_path": "/n5Vup5Qg2azqXqbpSG0y1GTRX9G.jpg",
+        "character": "Ko Pak-fei",
+        "credit_id": "5d42cd377719d7001363695f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 564829,
+        "known_for_department": "Acting",
+        "name": "Koni Lui",
+        "original_name": "Koni Lui",
+        "popularity": 1.034,
+        "profile_path": "/8UpzrcfGoK9ROWJCjyzSEooSFvl.jpg",
+        "character": "Hung Yeuk-shui",
+        "credit_id": "6035331e813831003e880950",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 142644,
+        "known_for_department": "Acting",
+        "name": "單立文",
+        "original_name": "單立文",
+        "popularity": 9.935,
+        "profile_path": "/9efm5ogg9PzhDwSCCWzqevfo1iV.jpg",
+        "character": "Hung Shu-yan",
+        "credit_id": "5d42cd107719d7001363693a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2988169,
+        "known_for_department": "Acting",
+        "name": "Andrea So",
+        "original_name": "Andrea So",
+        "popularity": 1.701,
+        "profile_path": "/j4jrBgs2N3fC5Tk6XqzbQT9ibCh.jpg",
+        "character": "Hung Shum-yu",
+        "credit_id": "603534a6394a8700417518ea",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1223072,
+        "known_for_department": "Acting",
+        "name": "滕麗名",
+        "original_name": "滕麗名",
+        "popularity": 4.459,
+        "profile_path": "/rCGjxrs3HeRoOhzqbAwCucV12qo.jpg",
+        "character": "Hung Sheung-sin",
+        "credit_id": "5d42cd47d8cc4a0017350ba2",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2988172,
+        "known_for_department": "Acting",
+        "name": "Kalok Chow",
+        "original_name": "Kalok Chow",
+        "popularity": 2.474,
+        "profile_path": "/3mJIbOo4QzBc2Rlt4bhhipod8q4.jpg",
+        "character": "Kam Shing-on",
+        "credit_id": "603534caa14e10003ecfb0d6",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3511831,
+        "known_for_department": "Acting",
+        "name": "Iris Lam Hoi Yan",
+        "original_name": "Iris Lam Hoi Yan",
+        "popularity": 1.729,
+        "profile_path": "/gYTzjvsoIqlhmdIZbgfuAdddXBD.jpg",
+        "character": "譚育英（Bonnie）",
+        "credit_id": "6501158de0ca7f00cbeac41c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1191924,
+        "known_for_department": "Acting",
+        "name": "Law Lok-Lam",
+        "original_name": "Law Lok-Lam",
+        "popularity": 3.37,
+        "profile_path": "/3d9PYDN0BsOKgLJfyVhOaKLeaC2.jpg",
+        "character": "Lung Gam-wai",
+        "credit_id": "6035353b51e6ab0042214cbf",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2988173,
+        "known_for_department": "Acting",
+        "name": "Ricco Ng",
+        "original_name": "Ricco Ng",
+        "popularity": 0.594,
+        "profile_path": "/fhi4ZgYgQ5U9e5V0ov7ajgKPeMJ.jpg",
+        "character": "Chu Ling-ling",
+        "credit_id": "603534fdeec5b5003c19ceea",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2671663,
+        "known_for_department": "Acting",
+        "name": "馬貫東",
+        "original_name": "馬貫東",
+        "popularity": 1.344,
+        "profile_path": "/b2O04lOj4oyeZBTIZEf5fEpysiq.jpg",
+        "character": "Qin Bosi",
+        "credit_id": "61413e66149565008e9bdce8",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3617317,
+        "known_for_department": "Acting",
+        "name": "Maggie Leung Man-Hau",
+        "original_name": "Maggie Leung Man-Hau",
+        "popularity": 1.655,
+        "profile_path": "/edPtvBwiDO42nPBleoH5ZXQOArY.jpg",
+        "character": "谭何容仪 (少女)",
+        "credit_id": "62c982ed498bc206934ac679",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1558965,
+        "known_for_department": "Acting",
+        "name": "Lesley Chiang",
+        "original_name": "Lesley Chiang",
+        "popularity": 1.476,
+        "profile_path": "/6bsyBnxXAnImuVY7n4P4gyapkFN.jpg",
+        "character": "",
+        "credit_id": "62fe596b74d6c0007ec7bb4a",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4135035,
+        "known_for_department": "Acting",
+        "name": "Stanley Cheung",
+        "original_name": "Stanley Cheung",
+        "popularity": 0.26,
+        "profile_path": "/gSDqJFM94jP6JGNZmlOcUh0UCEA.jpg",
+        "character": "Gong Yip 'Industry'",
+        "credit_id": "6602a5781b1f3c017c9d32f4",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2064589,
+        "known_for_department": "Acting",
+        "name": "Andrew Yuen",
+        "original_name": "Andrew Yuen",
+        "popularity": 1.881,
+        "profile_path": "/7kqxz3bfXr5bDoJqU7L861Wz1nb.jpg",
+        "character": "Chiu Wai",
+        "credit_id": "6602a921d38b58017d1b08e3",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4615731,
+        "known_for_department": "Acting",
+        "name": "Li Wai Kin",
+        "original_name": "Li Wai Kin",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Terry Lung Lik-wong",
+        "credit_id": "6602b18160620a0149276cca",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3073110,
+        "known_for_department": "Acting",
+        "name": "Mandy Lam",
+        "original_name": "Mandy Lam",
+        "popularity": 1.106,
+        "profile_path": "/fkbl9s9tWSQfkOs2bR2TcKetmjb.jpg",
+        "character": "Linda Lung Lik-lin",
+        "credit_id": "6602b68d1b1f3c017c9d43f1",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3847717,
+        "known_for_department": "Acting",
+        "name": "鄭世豪",
+        "original_name": "鄭世豪",
+        "popularity": 1.767,
+        "profile_path": "/tnictapHveo25IXKBuQ0okM9uB7.jpg",
+        "character": "Max Lung Lik-si",
+        "credit_id": "6602b9d462f335017d549fc6",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4027124,
+        "known_for_department": "Acting",
+        "name": "Andrew Chan",
+        "original_name": "Andrew Chan",
+        "popularity": 0.02,
+        "profile_path": "/nZtTpLcVPPYBqAXeuycKmzU2bBw.jpg",
+        "character": "Lung Ging-fung",
+        "credit_id": "6602bca104733f0164eb8785",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1365933,
+        "known_for_department": "Acting",
+        "name": "Jimmy Au Shui-Wai",
+        "original_name": "Jimmy Au Shui-Wai",
+        "popularity": 2.128,
+        "profile_path": "/67TWZynh4dEKpWX4J80QDBOfaT9.jpg",
+        "character": "Ng Ka Chung 'KC'",
+        "credit_id": "6602be8860620a017c2f1f57",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2407904,
+        "known_for_department": "Acting",
+        "name": "Jack Hui Ka Kit",
+        "original_name": "Jack Hui Ka Kit",
+        "popularity": 0.112,
+        "profile_path": "/orGH0WYywq6l3hroNXXOE8Hp9J9.jpg",
+        "character": "Song Shui-fei",
+        "credit_id": "6602c01904733f0164eb89c8",
+        "order": 20
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4615603,
+        "known_for_department": "Writing",
+        "name": "Ma Jun Ying",
+        "original_name": "Ma Jun Ying",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "660291871b1f3c017c9d1e1c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4615601,
+        "known_for_department": "Writing",
+        "name": "Yuan Bao Hui",
+        "original_name": "Yuan Bao Hui",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "66028f573520e8017eda951f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1268921,
+        "known_for_department": "Writing",
+        "name": "Anna Lee",
+        "original_name": "Anna Lee",
+        "popularity": 0.129,
+        "profile_path": null,
+        "credit_id": "66028bca0929f601649c0929",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3370367,
+        "known_for_department": "Directing",
+        "name": "Luo Zhen Yue",
+        "original_name": "Luo Zhen Yue",
+        "popularity": 0.04,
+        "profile_path": "/wWnJhwzseSJ509PoYWZlNeIHLH1.jpg",
+        "credit_id": "660287e70929f601649c06fb",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "family",
+        "id": 18035
+      },
+      {
+        "name": "sitcom",
+        "id": 193171
+      },
+      {
+        "name": "ethical",
+        "id": 318875
+      },
+      {
+        "name": "modern drama",
+        "id": 319157
+      },
+      {
+        "name": "heartwarming",
+        "id": 319357
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/s4htNd1OTv7gHadDhVHNbQ3UJZc.jpg",
+        "id": 94905,
+        "name": "The Buddhism Palm Strikes Back",
+        "original_name": "如來神掌再戰江湖",
+        "overview": "",
+        "poster_path": "/gPkDES0NDkXPRUBVveEkmtAhtPy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "cn",
+        "genre_ids": [],
+        "popularity": 46.268,
+        "first_air_date": "1993-06-14",
+        "vote_average": 7.0,
+        "vote_count": 1,
+        "origin_country": [
+          "HK"
+        ]
+      },
+      {
+        "backdrop_path": "/enVrO8TRkdT8dmYXTfI4sEjR5Kp.jpg",
+        "id": 222766,
+        "name": "The Day of the Jackal",
+        "original_name": "The Day of the Jackal",
+        "overview": "Rakipsiz ve yakalanması son derece zor bir yalnız suikastçı olan Çakal, en yüksek ücret karşılığında suikastlar gerçekleştirerek hayatını kazanmaktadır. Ancak son cinayetinin ardından, Avrupa’da heyecan dolu bir kedi-fare kovalamacasında Çakal’ın izini sürmeye başlayan ve ardında yıkım bırakan azimli bir İngiliz istihbarat subayı Bianca  ile karşılaşır.",
+        "poster_path": "/tYLecM3WSEjlkKhkGiH5G68Dprm.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          9648
+        ],
+        "popularity": 293.905,
+        "first_air_date": "2024-11-07",
+        "vote_average": 8.279,
+        "vote_count": 516,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/6gN8DYnIEln8v7OhRy61c57w0Xy.jpg",
+        "id": 124364,
+        "name": "FROM",
+        "original_name": "FROM",
+        "overview": "Amerika Birleşik Devletleri'nin ortasındaki kabus gibi bir şehir, içine giren herkesi tuzağa düşürür. Kasaba sakinleri, normallik duygusunu sürdürmek ve bir çıkış yolu aramak için savaşırken, güneş battığında ortaya çıkan korkunç yaratıklar da dahil olmak üzere, çevredeki ormandan gelen tehditlere karşı da hayatta kalmak için çabalar.",
+        "poster_path": "/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          18,
+          10765
+        ],
+        "popularity": 435.649,
+        "first_air_date": "2022-02-20",
+        "vote_average": 8.187,
+        "vote_count": 1758,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9faGSFi5jam6pDWGNd0p8JcJgXQ.jpg",
+        "id": 1396,
+        "name": "Breaking Bad",
+        "original_name": "Breaking Bad",
+        "overview": "Kanserden öleceğini öğrenen bir kimya öğretmeni, ailesinin geleceğini garanti altına almak için metamfetamin üretip satmak üzere eski bir öğrencisiyle kafa kafaya verir.",
+        "poster_path": "/ineLOBPG8AZsluYwnkMpHRyu7L.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 540.297,
+        "first_air_date": "2008-01-20",
+        "vote_average": 8.9,
+        "vote_count": 15143,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7w165QdHmJuTHSQwEyJDBDpuDT7.jpg",
+        "id": 2288,
+        "name": "Prison Break",
+        "original_name": "Prison Break",
+        "overview": "Haksız yere suçlandığını düşündüğü abisini hapishaneden kurtarmak isteyen Michael Scofield, nerdeyse kusursuz bir plan yapar. Lincoln Burrows'a yüklenen suç, kendilerini temize çıkarabilecekleri bir suç değildir. Devletin de işin içine karıştığını öğrendiklerinde kaçmaktan başka çareleri kalmaz. Michael planını uygulamaya sokar ve kaçış başlar.",
+        "poster_path": "/5E1BhkCgjLBlqx557Z5yzcN0i88.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          80,
+          18
+        ],
+        "popularity": 508.496,
+        "first_air_date": "2005-08-29",
+        "vote_average": 8.1,
+        "vote_count": 5325,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/q3jHCb4dMfYF6ojikKuHd6LscxC.jpg",
+        "id": 84958,
+        "name": "Loki",
+        "original_name": "Loki",
+        "overview": "Marvel Studios'tan Loki'de, \"Avengers: Endgame\"de yaşananların sonrası ele alınmaktadır ve bu yeni dizide kurnaz süper kötü Loki (Tom Hiddleston) Fesatlık Tanrısı rolüne devam eder. Dizinin yönetmenliğini Kate Herron, baş yazarlığını ise Michael Waldron üstlenmiştir.",
+        "poster_path": "/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 113.217,
+        "first_air_date": "2021-06-09",
+        "vote_average": 8.173,
+        "vote_count": 11755,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ysaA0BInz4071p3LKqAQnWKZCsK.jpg",
+        "id": 2004,
+        "name": "Malcolm in the Middle",
+        "original_name": "Malcolm in the Middle",
+        "overview": "Kaykay yapmak ve en iyi arkadaşı Stevie ile takılmaktan hoşlanan 9 yaşındaki Malcolm, \"yetenekliler\" sınıfına girmeye zorlanınca hayatı alt üst olur ve etrafı toplumdan dışlanan bir grup yetenekliyle çevrelenir.",
+        "poster_path": "/ckLLIsNy3Z0Go1PYHA2PHzVymUA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          35,
+          18
+        ],
+        "popularity": 295.632,
+        "first_air_date": "2000-01-09",
+        "vote_average": 8.479,
+        "vote_count": 4449,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
+        "id": 1408,
+        "name": "House, M.D.",
+        "original_name": "House",
+        "overview": "Gregory House New Jersey Princeton Plainsboro Hastanesinin tıbbi tanı uzamanı doktordur. Kendini aşırı beğenmesi, insanları önemsememesi ve boşvermişlik gibi özelliklerine rağmen müthiş bir doktordur. Uzmanlık alanı bulaşıcı hastalıklardır. Hiç kimsenin tanı koyamadığı hastalara tanı koyarak onların hayatlarını kurtarmaktadır ancak ekibindekilerin psikolojilerini de sürekli olarak bozmaktadır. Hastanenin yöneticisi Lisa Cuddy onu sürekli gözlem altında tutmaya çalışmaktadır ve ondan asla vazgeçmemektedir çünkü en zor durumlarda hastaları kurtaran hep odur ama Dr. House yüzünden hastane sık sık dava edilmektedir.",
+        "poster_path": "/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          35
+        ],
+        "popularity": 568.775,
+        "first_air_date": "2004-11-16",
+        "vote_average": 8.591,
+        "vote_count": 6804,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9zcbqSxdsRMZWHYtyCd1nXPr2xq.jpg",
+        "id": 82856,
+        "name": "The Mandalorian",
+        "original_name": "The Mandalorian",
+        "overview": "İmparatorluk'un çöküşünden sonra yalnız bir Mandalorian, öksüzü Grogu'yla beraber kanunsuz galakside dikkatle yol alır.",
+        "poster_path": "/eU1i6eHXlzMOlEq0ku1Rzq7Y4wA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 131.268,
+        "first_air_date": "2019-11-12",
+        "vote_average": 8.4,
+        "vote_count": 10242,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
+        "id": 94997,
+        "name": "House of the Dragon",
+        "original_name": "House of the Dragon",
+        "overview": "George R.R. Martin'in \"Fire & Blood\" adlı eserinden uyarlanan ve Game of Thrones'taki olaylardan 200 yıl öncesini konu alan dizi, Targaryen Hanesi'nin gücünün zirvesinde olduğu dönemde bir iç veraset savaşını anlatıyor.",
+        "poster_path": "/t9XkeE7HzOsdQcDDDapDYh8Rrmt.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 272.884,
+        "first_air_date": "2022-08-21",
+        "vote_average": 8.4,
+        "vote_count": 5201,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/41neXsH222hV2zrsTyw8h7javon.jpg",
+        "id": 2190,
+        "name": "South Park",
+        "original_name": "South Park",
+        "overview": "South Park, Amerikan \"Comedy Central\" programında 1997 yılından beri yayınlanan bir komedi animasyon serisidir. Ülkemizde de Türkçe altyazılı olarak Cnbc-e ve e2 kanalları tarafından yayınlanır.\n\nSouth Park'ın ortaya çıkış hikayesi şöyledir; Colorado Üniversitesi film bölümü öğrencileri Matt Stone ve Trey Parker, \"Jesus vs. Frosty\" adlı bir kısa animasyon film yapar. Şans eseri bu animasyon Fox Network yöneticileri tarafından izlenir ve Matt ve Trey'e ünlülere yılbaşı kartı olarak göndermek için bir kısa bir film yapmalarını teklif eder. Teklif üzerine Matt ve Trey \"The Spirit of Christmas\" adlı yeni bir animasyon film yapar. Bu yeni animasyonda internette çok hızlı bir şekilde yayılır ve çok beğenilir. The Spirit of Christmas, Matt ve Trey'e Comedy Central kapılarını açar ve 13 Ağustos 1997 tarihinde South Park'ın ilk bölümü olan \"Cartman Gets an Anal Probe\" bölümü yayınlanır.\n\nDizi hikayesi, South Park kasabasında yaşayan dört çocuk olan Eric Cartman, Stan Marsh, Kyle Broflovski, Kenny McCormick ve kasaba halkı arasında geçmektedir. Konular çoğunlukla sosyal ve politik taşlamaların bulunduğu, bolca küfür ve cinsel içerikli espri barındırdığından dolayı dizi öncesi bu dizi izlemeyin diye bir uyarı çıkar ki buda dizinin diğer bir ince esprisidir. South Park, Amerika ve Dünya gündeminde ki olaylarada esprili bir şekilde yaklaşarak izleyicilerin beğenisini kazanmıştır.",
+        "poster_path": "/xJnbMTrJ2fl1AXAKx34U4BPvOhs.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 305.188,
+        "first_air_date": "1997-08-13",
+        "vote_average": 8.366,
+        "vote_count": 4458,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wQEW3xLrQAThu1GvqpsKQyejrYS.jpg",
+        "id": 94605,
+        "name": "Arcane",
+        "original_name": "Arcane",
+        "overview": "Piltover ve Zaun kentleri arasındaki sert çatışmanın ortasında iki kız kardeş, büyülü teknolojiler ve birbirine zıt inanışlar arasındaki savaşın karşı cephelerindedir.",
+        "poster_path": "/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 177.729,
+        "first_air_date": "2021-11-06",
+        "vote_average": 8.781,
+        "vote_count": 4942,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+        "id": 93405,
+        "name": "Squid Game",
+        "original_name": "오징어 게임",
+        "overview": "Para sıkıntısı çeken yüzlerce oyuncu, çocuk oyunlarında yarışmaları için aldıkları tuhaf daveti kabul eder. İçeride onları cazip bir ödül ve ölüm riski beklemektedir.",
+        "poster_path": "/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          10759,
+          9648,
+          18
+        ],
+        "popularity": 603.484,
+        "first_air_date": "2021-09-17",
+        "vote_average": 7.9,
+        "vote_count": 15546,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/lY2DhbA7Hy44fAKddr06UrXWWaQ.jpg",
+        "id": 100088,
+        "name": "The Last of Us",
+        "original_name": "The Last of Us",
+        "overview": "Dünyayı kasıp kavuran bir salgınından yirmi yıl sonra hayatta kalan Joel ve Ellie, her şeyi değiştirebilecek bir görev için yola koyulur.",
+        "poster_path": "/qmn3jtupnssxRsoocrppeMIXsll.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 172.698,
+        "first_air_date": "2023-01-15",
+        "vote_average": 8.584,
+        "vote_count": 5389,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9YteO4VWteiPmEbWYJRAeBTQZPD.jpg",
+        "id": 1100,
+        "name": "How I Met Your Mother",
+        "original_name": "How I Met Your Mother",
+        "overview": "Ted çocuklarına yıllar önce anneleriyle nasıl tanıştığını anlatırken, Ted'in ruh ikizi için destansı arayışı büyük ölçüde geriye dönüşlerle gösteriliyor.",
+        "poster_path": "/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 350.955,
+        "first_air_date": "2005-09-19",
+        "vote_average": 8.147,
+        "vote_count": 5122,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sccDflItNho4OiHkzpiDxB2fUFw.jpg",
+        "id": 1418,
+        "name": "The Big Bang Theory",
+        "original_name": "The Big Bang Theory",
+        "overview": "En büyük zevkleri kuantum fiziğine kafa yormak olan üstün zekalı iki arkadaş, güzel bir kızla karşılaşınca ne yaparlar? The Big Bang Theory, işte o karşılaşma anında gerçekleşen büyük patlama ve sonrasını anlatan bir komedi dizisi. Leonard ve Sheldon adlarındaki iki arkadaşın oturdukları apartmanda yan dairelerine yeni bir komşu taşınır. Adı Penny olan bu komşu güzeller güzeli bir sarışındır. Üstelik maceralı bir ilişkiden daha yeni sapasağlam ayakta çıkmıştır. Penny, zekaları gereğinden fazla ilerlemiş, ancak kızlar konusunda oldukça geri kalmış bu yeni iki komşusuna hayat hakkında öğretebileceği bir şeyleri olduğunu düşünmektedir. Yaşanacak olanlar da zaman içinde onun ne kadar haklı olduğunu gösterecektir. ",
+        "poster_path": "/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 222.02,
+        "first_air_date": "2007-09-24",
+        "vote_average": 7.91,
+        "vote_count": 11545,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
+        "id": 119051,
+        "name": "Wednesday",
+        "original_name": "Wednesday",
+        "overview": "Zeki, alaycı ve azıcık içi geçmiş bir kız olan Wednesday Addams, Nevermore Akademisinde yeni dostlar ve düşmanlar edinirken art arda gerçekleşen cinayetleri araştırır.",
+        "poster_path": "/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          9648,
+          35
+        ],
+        "popularity": 130.303,
+        "first_air_date": "2022-11-23",
+        "vote_average": 8.433,
+        "vote_count": 8902,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/20eIP9o5ebArmu2HxJutaBjhLf4.jpg",
+        "id": 87108,
+        "name": "Çernobil",
+        "original_name": "Chernobyl",
+        "overview": "1986 senesinde Sovyet nükleer santralinde meydana gelen patlama sonrası santral işçileri ve itfaiyeciler faciayı kontrol altına almaya çalışır.",
+        "poster_path": "/87QSOjVXFwXpCcczMLhh2WRJDV5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 86.964,
+        "first_air_date": "2019-05-06",
+        "vote_average": 8.7,
+        "vote_count": 6644,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/hHEqDPbO6z4Xje5tOf3Wm1mdMtI.jpg",
+        "id": 73021,
+        "name": "Disenchantment",
+        "original_name": "Disenchantment",
+        "overview": "Disenchantment, parçalanmak üzere olan Orta Çağ krallığı Dreamland’de geçiyor. Bentwood Prensi Guysbert ile evlenmekten vazgeçen Prenses Bean kendisini farklı bir dünyanın içerisinde bulur. Düğün töreninden kaçan prenses kendi kaderini çizmek için sarayından çıkarak gerçek dünyaya adım atar. Hayatta kim olduğunu çözmeye çalışan Bean, Elf arkadaşı Elfo ve içindeki şeytan Luci ile türlü maceralara atılır. Fantastik yaratıklarla dolu bu dünyada canavarlar, cinler, mitolojik yaratıklar, iblisler, troller, morslar ve birçok budala insan yer alıyor.\n\nSimpsonlar efsanesinin yaratıcısı Matt Groenling tarafından hayata geçirilen yapımın seslendirme kadrosunda Abbi Jacobson, Nat Faxon, Eric Andre, John DiMaggio, Billy West, Maurice LaMarche, Tress MacNeille, David Herman, Matt Berry, Noel Fielding ve Lucy Montgomery gibi isimler yer alıyor.",
+        "poster_path": "/qQrMvkF2CoQBCAJHpml158Cmxvz.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10759,
+          10765
+        ],
+        "popularity": 84.828,
+        "first_air_date": "2018-08-17",
+        "vote_average": 7.444,
+        "vote_count": 1137,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/l0XvAI856XdyDYEfr1njztjH7u0.jpg",
+        "id": 40075,
+        "name": "Gravity Falls",
+        "original_name": "Gravity Falls",
+        "overview": "İkiz kardeşler Dipper ve Mabel Pines'ın aileleri yazın Dipper ve Mabel'ı \"Harika Amca Stan\"in yanına Gravity Falls, Oregon'a gönderirler. Stan, \"Gizemli Kulübe\"de yaşamaktadır ve çalışmaktadır; ama Dipper ve Mabel gerçekten çok garip şeyler olduğunu bilirler ve anlaşılmadık kasabada kendi yollarını bulmak için birbirlerine güvenmek zorundadırlar. Dipper'ın ormanda bulduğu günlükle işler daha da tuhaflaşır.",
+        "poster_path": "/6kWUl4Rfvomz9VBsjzDsuQ3ZvrG.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          9648,
+          10765,
+          10762,
+          10759,
+          10751
+        ],
+        "popularity": 171.622,
+        "first_air_date": "2012-06-15",
+        "vote_average": 8.6,
+        "vote_count": 3079,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

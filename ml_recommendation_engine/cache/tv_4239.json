@@ -1,0 +1,886 @@
+{
+  "adult": false,
+  "backdrop_path": "/y6nEgbjMUpYLnVUwZDzX95wH5Vj.jpg",
+  "created_by": [
+    {
+      "id": 1213885,
+      "credit_id": "52576012760ee36aaa2ea7e0",
+      "name": "Michael G. Moye",
+      "original_name": "Michael G. Moye",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1228401,
+      "credit_id": "52576012760ee36aaa2ea7e6",
+      "name": "Ron Leavitt",
+      "original_name": "Ron Leavitt",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "1987-04-05",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Komedi"
+    }
+  ],
+  "homepage": "",
+  "id": 4239,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1997-06-09",
+  "last_episode_to_air": {
+    "id": 289845,
+    "name": "24. Bölüm",
+    "overview": "",
+    "vote_average": 5.8,
+    "vote_count": 5,
+    "air_date": "1997-06-09",
+    "episode_number": 24,
+    "episode_type": "finale",
+    "production_code": "11.21.7F.27.22.60UNIQ",
+    "runtime": 22,
+    "season_number": 11,
+    "show_id": 4239,
+    "still_path": "/8aDokckrOiH8aWa1q8LpuiEwDG5.jpg"
+  },
+  "name": "Married... with Children",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 19,
+      "logo_path": "/1DSpHrWyOORkL9N2QHX7Adt31mQ.png",
+      "name": "FOX",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 258,
+  "number_of_seasons": 11,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Married... with Children",
+  "overview": "",
+  "popularity": 90.874,
+  "poster_path": "/qxdOgESOkBMmfcWUizL01mbdqzl.jpg",
+  "production_companies": [
+    {
+      "id": 3614,
+      "logo_path": "/qFRpYYtU9iyVKDMpm3a8tN7Q7YE.png",
+      "name": "Columbia Pictures Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 35513,
+      "logo_path": null,
+      "name": "Embassy Communications",
+      "origin_country": "US"
+    },
+    {
+      "id": 56596,
+      "logo_path": null,
+      "name": "ELP Communications",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1986-12-12",
+      "episode_count": 16,
+      "id": 12440,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/1i5MPWdqyRzbiQtIw24V7z2bWgM.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1987-04-05",
+      "episode_count": 13,
+      "id": 12441,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/9ZW3gjyi8yzxE5kb2j0K5KSVQaG.jpg",
+      "season_number": 1,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "1987-09-27",
+      "episode_count": 22,
+      "id": 12442,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/iVFJDS1ZtSV5UNF4c3Czle9yN1G.jpg",
+      "season_number": 2,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "1988-11-06",
+      "episode_count": 21,
+      "id": 12443,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/hi6fuePh4kT4zg3iYAkPHWAxxek.jpg",
+      "season_number": 3,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "1989-09-03",
+      "episode_count": 23,
+      "id": 12444,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/g9YcG9EcHfqj8yZLWs18pYsJZTh.jpg",
+      "season_number": 4,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "1990-09-23",
+      "episode_count": 25,
+      "id": 12445,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/81HMgG7SfXHjZpU3hijbwGO98G5.jpg",
+      "season_number": 5,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "1991-09-08",
+      "episode_count": 26,
+      "id": 12446,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/f3mh7sqaFDzhVaUD9QVzzMW1MKJ.jpg",
+      "season_number": 6,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "1992-09-13",
+      "episode_count": 26,
+      "id": 12447,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/ce9npzfI4oyo6MEtQTP1AsQXYZU.jpg",
+      "season_number": 7,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "1993-09-05",
+      "episode_count": 26,
+      "id": 12448,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/1GIMnEBye5fMtCZovsXtXzdD56o.jpg",
+      "season_number": 8,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "1994-09-04",
+      "episode_count": 26,
+      "id": 12449,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/kESgkBNU9OGj5mSta42TNorgHj8.jpg",
+      "season_number": 9,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "1995-09-17",
+      "episode_count": 26,
+      "id": 12450,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/wlXPHEWknxpiEKALyP5HiGabYUq.jpg",
+      "season_number": 10,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "1996-09-28",
+      "episode_count": 24,
+      "id": 12451,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/r88MFacLvTvJB2tqQd3SR0itJAK.jpg",
+      "season_number": 11,
+      "vote_average": 6.3
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.712,
+  "vote_count": 1074,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18977,
+        "known_for_department": "Acting",
+        "name": "Ed O'Neill",
+        "original_name": "Ed O'Neill",
+        "popularity": 2.5486,
+        "profile_path": "/4RrxSno3UEtGWuMm4yJoaFzckpL.jpg",
+        "character": "Al Bundy",
+        "credit_id": "5257600e760ee36aaa2e9d4b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 18980,
+        "known_for_department": "Acting",
+        "name": "Katey Sagal",
+        "original_name": "Katey Sagal",
+        "popularity": 3.0436,
+        "profile_path": "/jdnBWdXlQG2Q2F6v9MPJkaWQ9Vd.jpg",
+        "character": "Peggy Bundy",
+        "credit_id": "5257600e760ee36aaa2e9e3f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 18981,
+        "known_for_department": "Directing",
+        "name": "Amanda Bearse",
+        "original_name": "Amanda Bearse",
+        "popularity": 1.5481,
+        "profile_path": "/vsigj6WmFdm6w7O7uA7UOWuxuxG.jpg",
+        "character": "Marcy D'Arcy",
+        "credit_id": "5257600e760ee36aaa2e9e91",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 18979,
+        "known_for_department": "Acting",
+        "name": "Christina Applegate",
+        "original_name": "Christina Applegate",
+        "popularity": 3.7185,
+        "profile_path": "/dNLVRcmXAqFje98Wc2X8CNFGvKh.jpg",
+        "character": "Kelly Bundy",
+        "credit_id": "5257600e760ee36aaa2e9e05",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18978,
+        "known_for_department": "Acting",
+        "name": "David Faustino",
+        "original_name": "David Faustino",
+        "popularity": 2.0707,
+        "profile_path": "/dNqoFIPkusGDUjjIAX0jmtQV47v.jpg",
+        "character": "Bud Bundy",
+        "credit_id": "5257600e760ee36aaa2e9d9d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18982,
+        "known_for_department": "Acting",
+        "name": "Ted McGinley",
+        "original_name": "Ted McGinley",
+        "popularity": 2.7371,
+        "profile_path": "/nUeN0vYFDgqX6LtLf29TgvnNhnJ.jpg",
+        "character": "Jefferson D'Arcy",
+        "credit_id": "5257600f760ee36aaa2e9ee3",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3217697,
+        "known_for_department": "Acting",
+        "name": "Matthew Berry",
+        "original_name": "Matthew Berry",
+        "popularity": 1.3988,
+        "profile_path": "/oXUvMtJAFGwqSrUdlzMNRSN6uyI.jpg",
+        "credit_id": "64af4338e24b935b32afd6f2",
+        "department": "Writing",
+        "job": "Story Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57151,
+        "known_for_department": "Writing",
+        "name": "Eric Abrams",
+        "original_name": "Eric Abrams",
+        "popularity": 0.6679,
+        "profile_path": null,
+        "credit_id": "64af4346c4904800ff849248",
+        "department": "Writing",
+        "job": "Story Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1212628,
+        "known_for_department": "Writing",
+        "name": "Kim Weiskopf",
+        "original_name": "Kim Weiskopf",
+        "popularity": 0.6913,
+        "profile_path": null,
+        "credit_id": "52576012760ee36aaa2ea7f0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1228401,
+        "known_for_department": "Creator",
+        "name": "Ron Leavitt",
+        "original_name": "Ron Leavitt",
+        "popularity": 0.5467,
+        "profile_path": null,
+        "credit_id": "52576012760ee36aaa2ea842",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1213885,
+        "known_for_department": "Creator",
+        "name": "Michael G. Moye",
+        "original_name": "Michael G. Moye",
+        "popularity": 0.429,
+        "profile_path": null,
+        "credit_id": "52576012760ee36aaa2ea894",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4347,
+        "known_for_department": "Acting",
+        "name": "Frank Sinatra",
+        "original_name": "Frank Sinatra",
+        "popularity": 2.5166,
+        "profile_path": "/dafKPsivu50RdChBSrgGmMRenYt.jpg",
+        "credit_id": "64f9e55ddc1cb400e53f060b",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "chicago, illinois",
+        "id": 520
+      },
+      {
+        "name": "slapstick comedy",
+        "id": 9253
+      },
+      {
+        "name": "dysfunctional family",
+        "id": 10041
+      },
+      {
+        "name": "family relationships",
+        "id": 10235
+      },
+      {
+        "name": "social satire",
+        "id": 11514
+      },
+      {
+        "name": "family",
+        "id": 18035
+      },
+      {
+        "name": "sitcom",
+        "id": 193171
+      },
+      {
+        "name": "family life",
+        "id": 235636
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/zP5SftyPx2VCdly369kTVVNIcT3.jpg",
+        "id": 1404,
+        "name": "Chuck",
+        "original_name": "Chuck",
+        "overview": "Daha Fazla Bilgisayar Satın Al meraklısı Chuck Bartowski, farkında olmadan hükümet bilgilerinin ve ölümcül dövüş becerilerinin bulunduğu bir veritabanını kafasına indirdiğinde, CIA'nın en hayati sırrı haline gelir. Bu, Chuck'ı tam teşekküllü bir casus olma yoluna sokar.",
+        "poster_path": "/vEZvGVVMjk1TRs59nfypTI5lAXj.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          35,
+          18
+        ],
+        "popularity": 33.5777,
+        "first_air_date": "2007-09-24",
+        "vote_average": 7.73,
+        "vote_count": 1060,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/Ajku4m7jbMpCTEPr794Imv19mCA.jpg",
+        "id": 4385,
+        "name": "The Colbert Report",
+        "original_name": "The Colbert Report",
+        "overview": "Colbert Raporu, Pazartesi ile Perşembe günleri Komedi Merkezi'nde yayınlanan Amerikan hicivli bir gece televizyon programı. Jon Stewart ile The Daily Show'un eski muhabiri olan politik mizahcı Stephen Colbert'i canlandırıyor. Colbert Raporu, politikaya ve medyaya benzer şekilde yorum yapan The Daily Show'dan bir ve ikiye bölündü. Özellikle Fox News'in The O'Reilly Factor adlı muhafazakar kişiliğe dayalı politik pundit programlarını hicvediyor. Gösteri, gerçek hayat isimleriyle oynanan Stephen Colbert adlı kurgusal bir çapa karakterine odaklanıyor. Colbert tarafından “iyi niyetli, iyi bilgilendirilmiş, yüksek mevkili bir aptal” olarak tanımlanan karakter, televizyonda siyaset uzmanlarının karikatürüdür.\n\nColbert Raporu her biri 2006, 2007, 2008, 2009, 2010, 2011 ve 2012'de yedi Primetime Emmy Ödülü, iki Televizyon Eleştirmenleri Derneği Ödülü ve iki Uydu Ödülüne aday gösterildi. 2013 yılında iki Emmys kazandı. Tom DeLay Legal Defence Trust ve Robert Wexler'ın programa verdiği röportajı takiben birçok örnekte hicivsiz bir gazetecilik olarak sunuldu. Söz konusu rapor, 17 Ekim 2005'te Colbert'in “hakikat” terimini, söz konusu yayınevini Merriam-Webster'ın 2006 Yılı Kelimesi olarak adlandırdığı ilk filmi izleyerek, medyada önemli ölçüde yer aldı.",
+        "poster_path": "/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10763,
+          35
+        ],
+        "popularity": 155.7383,
+        "first_air_date": "2005-10-17",
+        "vote_average": 6.835,
+        "vote_count": 272,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zJeWBM8AiA2wS8OnBMkt1l9Yy5d.jpg",
+        "id": 734,
+        "name": "Magnum, P.I.",
+        "original_name": "Magnum, P.I.",
+        "overview": "Hawai'de büyük, lüks bir evde yaşayan özel bir dedektifin hikayesini anlatır. Magnum'un (Tom Selleck) kaldığı yer i̇ngiliz asilzadesi Robin Masters'a ait olup, dedektif bu kişi için çalışmaktadır. Ferrari de dizinin simgelerinden biridir.",
+        "poster_path": "/wKJRQYmOTzLKy6rTVkyk8NIUC6I.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          80,
+          18,
+          9648
+        ],
+        "popularity": 69.5778,
+        "first_air_date": "1980-12-11",
+        "vote_average": 7.3,
+        "vote_count": 401,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sdvd6l9kffMrlaLy7iCqaQNMCL6.jpg",
+        "id": 4238,
+        "name": "The King of Queens",
+        "original_name": "The King of Queens",
+        "overview": "ADRESE TESLİM KOMEDİ, ADRESİNİ ŞAŞIRMIŞ HUYSUZ BİR İHTİYAR VE YALNIZ KALAMAYAN GENÇ BİR ÇİFT  Dağıtım şirketinde şoförlük yapan Doug Heffernan (Kevin James) ile hukuk bürosunda sekreterlik yapan eşi Carrie Heffernan’ın (Leah Remini) aşk, yaşam, aile ve evlilik gibi konular çevresinde dönen maceralarına tanık oluyoruz. The King of Queens, ilhamını gündelik yaşamdan alıyor. Genç evli çift Doug ve Carrie yaşadığımız çağı yansıtan ev içi gerçekler ile boğuşurken ‘kendi halimize gülmemizi’ sağlıyor.  Doug eşini, işini, büyük ekran televizyonunu ve dostları Deacon (Victor Williams), Spence (Patton Oswalt) ve Richie’yi (Larry Romano) çok seviyor. Doug’ın yemeğe olan aşırı düşkünlüğüne, Carrie’nin pahalı elbiselere karşı tutkusuna rağmen birbirlerine olan aşkları, karşılaştıkları her türlü çıkmazı aşmalarını sağlıyor.",
+        "poster_path": "/vXs300Yvjy4Kr0iHgBtajHkYbAt.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 83.5195,
+        "first_air_date": "1998-09-21",
+        "vote_average": 7.069,
+        "vote_count": 640,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/adsc78pBssCRr3iTgzxgdCPI1v2.jpg",
+        "id": 155,
+        "name": "3rd Rock from the Sun",
+        "original_name": "3rd Rock from the Sun",
+        "overview": "The high commander of an alien expedition lands on Earth -- what he considers to be the least-important planet -- in human form as Dick Solomon. Along for the ride are his alien compatriots Harry, Sally and Tommy -- who is the eldest of the group but is now angrily trapped in a teen's body.",
+        "poster_path": "/sUB4lZghNnwQywKqgjIfJsyBqI2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          10765,
+          35,
+          18
+        ],
+        "popularity": 47.6805,
+        "first_air_date": "1996-01-09",
+        "vote_average": 7.48,
+        "vote_count": 505,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uyB27Tx3KtczuSo4tDfmiXhfuCp.jpg",
+        "id": 1892,
+        "name": "The Fresh Prince of Bel-Air",
+        "original_name": "The Fresh Prince of Bel-Air",
+        "overview": "Will, a street-smart teenager, moves from the tough streets of West Philly to posh Bel-Air to live with his Uncle Philip, Aunt Vivian, his cousins — spoiled Hilary, preppy Carlton and young Ashley — and their sophisticated British butler, Geoffrey. Though Will’s antics and upbringing contrast greatly with the upper-class lifestyle of his extended relatives, he soon finds himself right at home as a loved part of the family.",
+        "poster_path": "/fJXzwxCVr2TEkhhKRKcih9o5DYK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 31.1798,
+        "first_air_date": "1990-09-10",
+        "vote_average": 7.9,
+        "vote_count": 2312,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/btFkAI2q3Dx3VVOdNRG93Pnqv90.jpg",
+        "id": 2875,
+        "name": "MacGyver",
+        "original_name": "MacGyver",
+        "overview": "MacGyver,Kanada yapılmış bir Amerikan televizyon dizisidir. Başrolünde, becerikli gizli ajan olarak, Richard Dean Anderson'ın yeraldığı dizi, Lee David Zlotoff tarafından yaratıldı ve 29 Eylül 1985'den 21 Mayıs 1992'ye kadar yedi sezon boyunca devam etti. Richard Dean Anderson'un oynadığı karakter olan Angus Macgyver (isminden çok hoşlanmadığı için dizide sık kullanmaz) bir taksi şoförü iken, taksisine aldığı Fonex'in bir çalışanı tarafından keşfedilir. Fonex çalışanı bir takibe uğrar ve Macgyver bu takipten ilginç yöntemlerini kullanarak kurtulur. Seri, daha sonra Fonex için gizli ajan olarak çalışmaya başlayan Macgyver'ın maceralarını anlatır. Silah kullanmayı sevmeyen Macgyver, fizik ve kimya bilgilerini kullanarak çevresinde bulduğu araç gereçlerden silah, bomba vs. yaparak düşmanlarının elinden kurtulacaktır.",
+        "poster_path": "/4dxSzitiWtmIFAytkyJUaoiZvhr.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          80
+        ],
+        "popularity": 74.3664,
+        "first_air_date": "1985-09-29",
+        "vote_average": 7.7,
+        "vote_count": 853,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/w0s1EmnmgkBYMSqZIrYgbiRt3j6.jpg",
+        "id": 1558,
+        "name": "Home Improvement",
+        "original_name": "Home Improvement",
+        "overview": "The daily trials and tribulations of handyman Tim Taylor, a TV show host raising three boys with help from his loyal co-host, domineering wife, and unseen neighbor.",
+        "poster_path": "/sa3J2ZXeg7TiziuXGyfz99HdYDS.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 36.6837,
+        "first_air_date": "1991-09-17",
+        "vote_average": 7.399,
+        "vote_count": 643,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zPyVcPi5vFjjHbZsYYbbIG1I0oL.jpg",
+        "id": 2140,
+        "name": "Everybody Loves Raymond",
+        "original_name": "Everybody Loves Raymond",
+        "overview": "Ray Barone, Long Island'da eşi Debra, kızı Ally ve ikiz oğulları Geoffrey ve Michael ile yaşayan başarılı bir spor yazarıdır. Bu iyi haber. Kötü haber? Ray'in burnunu sokan ebeveynleri Frank ve Marie, doğrudan caddenin karşısında oturuyorlar ve televizyon tarihinde benzeri görülmemiş bir ölçüde oğullarının evine sızan \"Su casa es mi casa\" sloganını benimsiyorlar.",
+        "poster_path": "/dcCnVVggEBfNpzHrqzDJqhE6tGP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 63.6951,
+        "first_air_date": "1996-09-13",
+        "vote_average": 6.805,
+        "vote_count": 589,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gH5HQbMsSfPc0R41JYTefjB7klZ.jpg",
+        "id": 314,
+        "name": "Star Trek: Enterprise",
+        "original_name": "Star Trek: Enterprise",
+        "overview": "Orijinal Uzay Yolu'ndan yüzyıl önce geçen bu yeni hikayede, Kaptan Archer ve mürettebatı ilk Atılgan gemisiyle uzayı keşfediyor ve yeni türlerle tanışıyor.",
+        "poster_path": "/tsbBTABtNgu0ycsFpnIhiQ5woOM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 62.1192,
+        "first_air_date": "2001-09-26",
+        "vote_average": 7.565,
+        "vote_count": 841,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/hZmWDFV7qVAlhvEqJ23txLD7oHa.jpg",
+        "id": 1739,
+        "name": "According to Jim",
+        "original_name": "According to Jim",
+        "overview": "According to Jim is an American sitcom television series starring Jim Belushi in the title role as a suburban father of three children. It originally ran on ABC from October 1, 2001 to June 2, 2009.",
+        "poster_path": "/iNegoiByXFILSmBccfISNpVmTAK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 43.6054,
+        "first_air_date": "2001-10-03",
+        "vote_average": 6.5,
+        "vote_count": 347,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/73Ii6WOmDGTccVe3rBZOr82Zfo8.jpg",
+        "id": 2685,
+        "name": "Family Matters",
+        "original_name": "Family Matters",
+        "overview": "A long-running dramedy centering on the Winslow family, a middle-class African American family living in Chicago, and their pesky next-door neighbor, ultra-nerd Steve Urkel. A spin-off of Perfect Strangers.",
+        "poster_path": "/lIIPV3te2mxBQBHw2rfhwkUYsHf.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 32.3772,
+        "first_air_date": "1989-09-22",
+        "vote_average": 6.744,
+        "vote_count": 305,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/3zRUiH8erHIgNUBTj05JT00HwsS.jpg",
+        "id": 52,
+        "name": "That '70s Show",
+        "original_name": "That '70s Show",
+        "overview": "That 70's Show, 1998-2006 yılları arasında 8 sezon boyunca Amerika Fox televizyonunda yayınlanmış bir komedi sitcom dizisidir. Türkiye'de uzun bir süre TV8 ekranlarında yayınlanmıştır, şu anda da Comedy Smart kanalında yayını sürmektedir.Dizi, 70'li yıllarda hayali kasaba olan Point Place'de yaşayan bir grup genç etrafında geçiyor ve 70'li yılların Amerikan gençlik kültürünü konu alıyor. Dizinin ana karakterlerinden Eric ve tayfasının her bölümde yaptıkları bol dumanlı ve anlamsız bodrum muhabbetleri dizinin en eğlenceli bölümünü oluşturuyor.70'li yılların moda kıyafetleri, şarkıları, sosyal ve politik olayları, diziye konuk oyuncu olarak katılan o dönemin ünlüleri dizinin dikkat çeken önemli unsurlarında biridir. That 70's Show, bir kez Emmy ödülü kazanmıştır ve sekiz kezde aday gösterilmiştir. Dizi, Emmy dışında da bir çok ödül almaya hak kazanmış, bir çok ödüle de aday gösterilmiştir.",
+        "poster_path": "/laEZvTqM80UaplUaDSCCbWhlyEV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751,
+          18
+        ],
+        "popularity": 86.8438,
+        "first_air_date": "1998-08-23",
+        "vote_average": 7.945,
+        "vote_count": 1466,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/jB3CQHS4zBzD00yZG936WmsH6P4.jpg",
+        "id": 790,
+        "name": "Herkül Puaro",
+        "original_name": "Agatha Christie's Poirot",
+        "overview": "Agatha Christie'nin 1920'de yazdığı ilk kitabı The Mysterious Affair at Styles (Styles'taki Esrarengiz Vak'a/Ölüm Sessiz Geldi)'tan 1976'da yayımlanan son romanı Curtain (Ve Perde İndi)'ye kadar ona birçok romanda bulunan küçük, titiz, zeki, simetri hastası Belçikalı dedektifin maceralarını konu alan dizi. Kısa hikaye ve romanları televizyon filmi tanında BBC, ITV, ABC Family yapımı olarak birçok ülkenin televizyonunda yayınlandı. Poirot kimi zaman sekreteri Miss Lemon, kimi zaman en yakın arkadaşı Yüzbaşı Hastings, çoğunlukla arkadaşı Başmüfettiş Japp'le karıştıkları cinayet vakalarını \"küçük gri hücreleri\"yle çözer. | Tam Bolumleri Olsun ve Lutfen Hepsi Turkce Seslendirmeli Olsun  Bir RicaTesekur ederim",
+        "poster_path": "/6f4IVfbn8knb7RjdZlGLuW5guDc.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 58.2614,
+        "first_air_date": "1989-01-08",
+        "vote_average": 8.146,
+        "vote_count": 495,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/dAb6XKP1Zcykbo6LCM9ibG8ktQj.jpg",
+        "id": 51019,
+        "name": "Almost Human",
+        "original_name": "Almost Human",
+        "overview": "Yıl olmuş 2048… John Kennex, polis departmanına yapılan bir saldırı nedeniyle 17 ay komada kalmış, kız arkadaşı tarafından terk edilmiş ve bu sırada kaybettiği ayağı yerine mekanik bir ayak takılmış bir polis. Sonunda görevine döner ve kurallar gereği bir robotla partner olur, ki robotlardan da hiç hoşlanmayan biri. İlk robot ortağı ona geçmişle ilgili suçlayıcı şeyler söyleyince ondan kurtulur ve bunun üzerine, artık üretilmeyen bir modele tabi Dorian ile partner olmasına karar verilir. Dorian zaman zaman duygusal tepkiler de verebilen bir androidtir.",
+        "poster_path": "/7KNvabIPtsfR01H1bJwc1sobRUM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          10765,
+          10759
+        ],
+        "popularity": 5.4789,
+        "first_air_date": "2013-11-17",
+        "vote_average": 7.373,
+        "vote_count": 515,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5AZcrUUht7RQXzomXBUovdPOqoG.jpg",
+        "id": 1678,
+        "name": "The Golden Girls",
+        "original_name": "The Golden Girls",
+        "overview": "Four Southern Florida seniors share a house, their dreams, and a whole lot of cheesecake. Bright, promiscuous, clueless and hilarious, these lovely, mismatched ladies form the perfect circle of friends.",
+        "poster_path": "/lJKAjneNGquVBmUqHY6ZFOFImfD.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 29.0358,
+        "first_air_date": "1985-09-14",
+        "vote_average": 7.533,
+        "vote_count": 350,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1lBEfsnzUkxtxzvFwimENpM6bEP.jpg",
+        "id": 6127,
+        "name": "Agatha Christie'nin Marple'ı",
+        "original_name": "Agatha Christie's Marple",
+        "overview": "Agatha Christie’nin ünlü kitap serisinden uyarlanan Agatha Christie's Marple’da, St Mary Mead’de yaşayan Miss Jane Marple, gizemli cinayetlerin çözülmesine yardımcı oluyor.",
+        "poster_path": "/nVswrZQpqQND9TgwgbWgz18KgAo.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "popularity": 23.4732,
+        "first_air_date": "2004-12-12",
+        "vote_average": 7.652,
+        "vote_count": 125,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/rowPlHjX7RvcKQD6GYwskF9R82c.jpg",
+        "id": 1459,
+        "name": "Wonder Showzen",
+        "original_name": "Wonder Showzen",
+        "overview": "Wonder Showzen is an American sketch comedy television series that aired between 2005 and 2006 on MTV2. It was created by John Lee and Vernon Chatman of PFFR. The show is rated TV-MA.\n\nThe show's format is that of educational PBS children's television shows such as Sesame Street and The Electric Company, parodying the format with adult-oriented content. In addition to general controversial comedy, it satirizes politics, religion, war, sex, and culture with black comedy.\n\nEvery episode begins with a disclaimer, accompanied by the sound of someone screaming \"Don't eat my baby!\", which reads:\n\n\"Wonder Showzen contains offensive, despicable content that is too controversial and too awesome for actual children. The stark, ugly and profound truths Wonder Showzen exposes may be soul-crushing to the weak of spirit. If you allow a child to watch this show, you are a bad parent or guardian.\"",
+        "poster_path": "/tgXqlZG0ruHIaQLzXMmkXLONb4d.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 7.9609,
+        "first_air_date": "2005-03-11",
+        "vote_average": 7.3,
+        "vote_count": 44,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/te5zhQ26Eu5OmvQtkOOnX0L62St.jpg",
+        "id": 5391,
+        "name": "Voyagers!",
+        "original_name": "Voyagers!",
+        "overview": "A member of a league of time travelers and a boy travel through time repairing errors in world history.",
+        "poster_path": "/qPhJpkri0ROaNrKjMi3UgL7mdBn.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765
+        ],
+        "popularity": 5.7337,
+        "first_air_date": "1982-10-03",
+        "vote_average": 7.506,
+        "vote_count": 83,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/tmvJMXPo7N8wJuk6bX6WsXtOU9g.jpg",
+        "id": 6202,
+        "name": "Stromberg",
+        "original_name": "Stromberg",
+        "overview": "A comedy centered around the incompetent boss of a German insurance office.",
+        "poster_path": "/2ThMER8tdMHzSq4GKx9PbRndGHk.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 7.3874,
+        "first_air_date": "2004-10-11",
+        "vote_average": 7.671,
+        "vote_count": 111,
+        "origin_country": [
+          "DE"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

@@ -1,0 +1,839 @@
+{
+  "adult": false,
+  "backdrop_path": "/jqweieg5sg0HLlVjugP9fWDiIJq.jpg",
+  "created_by": [
+    {
+      "id": 13594,
+      "credit_id": "52571e75760ee3776a1d6b2d",
+      "name": "Joseph Barbera",
+      "original_name": "Joseph Barbera",
+      "gender": 2,
+      "profile_path": "/16UhnbVLaX9QBtcnjLH6hrdzq4F.jpg"
+    },
+    {
+      "id": 13620,
+      "credit_id": "52571e75760ee3776a1d6b27",
+      "name": "William Hanna",
+      "original_name": "William Hanna",
+      "gender": 2,
+      "profile_path": "/zf5WRsouQN0ozuJ4vFosXylPjaZ.jpg"
+    }
+  ],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "1960-09-30",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Aile"
+    },
+    {
+      "id": 16,
+      "name": "Animasyon"
+    },
+    {
+      "id": 35,
+      "name": "Komedi"
+    },
+    {
+      "id": 10762,
+      "name": "Çocuklar"
+    }
+  ],
+  "homepage": "http://webrockonline.com",
+  "id": 1996,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1966-04-01",
+  "last_episode_to_air": {
+    "id": 136537,
+    "name": "26. Bölüm",
+    "overview": "",
+    "vote_average": 6.0,
+    "vote_count": 3,
+    "air_date": "1966-04-01",
+    "episode_number": 26,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 6,
+    "show_id": 1996,
+    "still_path": "/jzKJBffDPr8957OyvFRwJvgd94D.jpg"
+  },
+  "name": "Taş Devri",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 166,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Flintstones",
+  "overview": "Fred Çakmaktaş, karısı Vilma, çocukları Çakıl ve vefakâr ev hayvanları Dino, komşuları Barney Moloztaş, karısı Betty ve evlat edindikleri çocukları Bam Bam, Taş Devri'nin karakterleridir. Taşyatağı'nda (Bedrock) yaşarlar. Hikayesi; Fred ve Barney çok yakın arkadaştır ve aynı taş ocağında çalışırlar. En sevdikleri spor bowlingtir, sürekli oynarlar.Patronları bay Slate(İlk sezonda Bay Arduaz) sinir bir adamdır. Onunla ara sıra kavga ederler, başları belaya girer, kovulma noktasına gelirler ama konu hep tatlıya bağlanır. Bir de üye oldukları bufalo derneği vardır. Bazen bu derneğin partileri yapılır. Fred ve Barney bazen kavga ederler, uzun süre konuşmazlar hatta karıları Wilma ve Betty'nin de birbirleriyle görüşmelerini engellemeye çalışırlar ama en sonunda karıları onları barıştırır. Wilma ve Betty yakın arkadaştır, kocalarının onları ihmal etmeleri durumunda ittifaka geçer ve istediklerini yaptırırlar. Taş devrinin filmleri de yapılmıştır.",
+  "popularity": 82.813,
+  "poster_path": "/30P6ifagQ3fguTsI33KMmDLTAx6.jpg",
+  "production_companies": [
+    {
+      "id": 1353,
+      "logo_path": "/yXhCcOFK5Fy3ZBQwhBYx8Zu9ZIw.png",
+      "name": "Hanna-Barbera Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 12551,
+      "logo_path": null,
+      "name": "Screen Gems Television",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1959-11-01",
+      "episode_count": 43,
+      "id": 5928,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/hiOEtWJvUSg4QIc2mrTU7b9h5DH.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1960-09-30",
+      "episode_count": 28,
+      "id": 5922,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/15d5FJcCv1AttYY4BWhV5WICnrx.jpg",
+      "season_number": 1,
+      "vote_average": 6.1
+    },
+    {
+      "air_date": "1961-09-15",
+      "episode_count": 32,
+      "id": 5925,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/b78kmJRIISfmphUDXaVxrSlY8yC.jpg",
+      "season_number": 2,
+      "vote_average": 6.0
+    },
+    {
+      "air_date": "1962-09-14",
+      "episode_count": 28,
+      "id": 5923,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/jWG7IbH8xVFsrWsfy8egx5ZbtFO.jpg",
+      "season_number": 3,
+      "vote_average": 6.0
+    },
+    {
+      "air_date": "1963-09-19",
+      "episode_count": 26,
+      "id": 5926,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/kyLQLs2l3rP2SyoSY5V53RyYSCa.jpg",
+      "season_number": 4,
+      "vote_average": 4.3
+    },
+    {
+      "air_date": "1964-09-17",
+      "episode_count": 26,
+      "id": 5924,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/9RrvkLmuzPfI5g6pCtvhzidsW4q.jpg",
+      "season_number": 5,
+      "vote_average": 4.1
+    },
+    {
+      "air_date": "1965-09-17",
+      "episode_count": 26,
+      "id": 5927,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/iCCAjp9zftIqBf7bayHiII5NT5o.jpg",
+      "season_number": 6,
+      "vote_average": 6.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.416,
+  "vote_count": 915,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1944,
+        "known_for_department": "Acting",
+        "name": "Alan Reed",
+        "original_name": "Alan Reed",
+        "popularity": 1.8931,
+        "profile_path": "/ilsEwVPUTQ6f9qSdRtraGhZ5BG6.jpg",
+        "character": "Fred Flintstone (voice)",
+        "credit_id": "52571e71760ee3776a1d6875",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33923,
+        "known_for_department": "Acting",
+        "name": "Mel Blanc",
+        "original_name": "Mel Blanc",
+        "popularity": 3.3805,
+        "profile_path": "/8fevv4K06TmHsYom2XfmxgKrTcd.jpg",
+        "character": "Barney Rubble (voice)",
+        "credit_id": "52571e71760ee3776a1d684b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 145257,
+        "known_for_department": "Acting",
+        "name": "Jean Vander Pyl",
+        "original_name": "Jean Vander Pyl",
+        "popularity": 1.6491,
+        "profile_path": "/pHJjddmRyn3f2TP2HmgcGhY0HMT.jpg",
+        "character": "Wilma Flintstone (voice)",
+        "credit_id": "52571e71760ee3776a1d689f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1228673,
+        "known_for_department": "Acting",
+        "name": "Gerry Johnson",
+        "original_name": "Gerry Johnson",
+        "popularity": 0.4005,
+        "profile_path": "/jq1YfTShlAKgIe4cWCIhQCzurRa.jpg",
+        "character": "Betty Rubble (voice)",
+        "credit_id": "52571e73760ee3776a1d695d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16422,
+        "known_for_department": "Acting",
+        "name": "Don Messick",
+        "original_name": "Don Messick",
+        "popularity": 2.0276,
+        "profile_path": "/iT3okvWCKy6RAdo6dbx09RP0I3p.jpg",
+        "character": "Bamm-Bamm Rubble (voice)",
+        "credit_id": "5f3ab6a1c5840d00339f83de",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 362742,
+        "known_for_department": "Writing",
+        "name": "Michael Maltese",
+        "original_name": "Michael Maltese",
+        "popularity": 1.4586,
+        "profile_path": "/kh0VmXGxAAUPybZHMFsir5beXiH.jpg",
+        "credit_id": "52571e75760ee3776a1d6b41",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1228676,
+        "known_for_department": "Writing",
+        "name": "Barry Blitzer",
+        "original_name": "Barry Blitzer",
+        "popularity": 0.4199,
+        "profile_path": "/nv2lTAZuN1IhP7jyzRU9G1noyn8.jpg",
+        "credit_id": "52571e76760ee3776a1d6b89",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 129308,
+        "known_for_department": "Writing",
+        "name": "R.S. Allen",
+        "original_name": "R.S. Allen",
+        "popularity": 0.9049,
+        "profile_path": null,
+        "credit_id": "52571e76760ee3776a1d6be3",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 558639,
+        "known_for_department": "Directing",
+        "name": "Alex Lovy",
+        "original_name": "Alex Lovy",
+        "popularity": 0.9866,
+        "profile_path": "/txGj5oXMl7rVvHwDQsOeichoFIH.jpg",
+        "credit_id": "52571e76760ee3776a1d6c25",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13620,
+        "known_for_department": "Directing",
+        "name": "William Hanna",
+        "original_name": "William Hanna",
+        "popularity": 1.6885,
+        "profile_path": "/zf5WRsouQN0ozuJ4vFosXylPjaZ.jpg",
+        "credit_id": "52571e76760ee3776a1d6c59",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13594,
+        "known_for_department": "Production",
+        "name": "Joseph Barbera",
+        "original_name": "Joseph Barbera",
+        "popularity": 2.5794,
+        "profile_path": "/16UhnbVLaX9QBtcnjLH6hrdzq4F.jpg",
+        "credit_id": "52571e76760ee3776a1d6c8d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13594,
+        "known_for_department": "Production",
+        "name": "Joseph Barbera",
+        "original_name": "Joseph Barbera",
+        "popularity": 2.5794,
+        "profile_path": "/16UhnbVLaX9QBtcnjLH6hrdzq4F.jpg",
+        "credit_id": "62b6c89f9566580062d08678",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "prehistory",
+        "id": 10506
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/b3C1vl4JhhU1HkjCSS0B5cYDOQ2.jpg",
+        "id": 2362,
+        "name": "Jetgiller",
+        "original_name": "The Jetsons",
+        "overview": "George Jetson ve ilginç ailesiyle tanışın: karısı Jane, oğlu Elroy ve kızı Judy. Geleceğin otomatikleştirilmiş, düğmeli dünyasında yaşamak, birbiri ardına komik talihsizlikler yaşayan hırçın koca ve baba için hayatı daha kolay hale getirmedi!",
+        "poster_path": "/9e2wgxZpAu22yR77fRXzHwOtw9z.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10751,
+          10762
+        ],
+        "popularity": 21.5265,
+        "first_air_date": "1962-09-23",
+        "vote_average": 7.256,
+        "vote_count": 454,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/3Yte3y3wVTSDvVmcYUv2Fl6KlBk.jpg",
+        "id": 2416,
+        "name": "Kont Duckula",
+        "original_name": "Count Duckula",
+        "overview": "Kont Duckula, dünyaya tesadüfen gelen vejetaryen bir vampir ördektir. Ailesi ve atalarının aksine kana susamışlığı yoktur, çünkü reenkarne olduğunda kan çıkarılmış ve yerine ketçap konmuştur. Turkce Seslendirmeli olsun",
+        "poster_path": "/9J3vo4F3101rrGj18xrjpaTxjuk.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762,
+          35
+        ],
+        "popularity": 14.4392,
+        "first_air_date": "1988-09-06",
+        "vote_average": 7.8,
+        "vote_count": 236,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/1XpTPpBDqMrP1USdJIiH2oBd7UU.jpg",
+        "id": 4269,
+        "name": "The Transformers",
+        "original_name": "The Transformers",
+        "overview": "The Transformers is the first animated television series in the Transformers franchise. The series depicts a war among giant robots that can transform into vehicles and other objects.",
+        "poster_path": "/h4DvodvcLWh7xdpj872Bq0V2DKS.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762,
+          10759,
+          10765
+        ],
+        "popularity": 35.8207,
+        "first_air_date": "1984-10-06",
+        "vote_average": 7.8,
+        "vote_count": 387,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/82czKnq7CcHaGjNSkxlHLwanE2k.jpg",
+        "id": 4232,
+        "name": "Top Cat",
+        "original_name": "Top Cat",
+        "overview": "Top Cat, known as T.C. to his alley cat friends, is a mischievous prankster who lives in a trash can in the alley ways of New York City. He and his alley-cat cohorts think of get rich schemes and assorted pranks which are mostly involving and aimed at Officer Dibble, their nemesis and friend. T.C. manages to get out of his tight situations with hilarity and charm and even helps Dibble on occasion who is underscored by his overbearing sergeant...",
+        "poster_path": "/hnWYwPE7nwqAD1OGLEEXyML5LaH.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10762
+        ],
+        "popularity": 8.9094,
+        "first_air_date": "1961-09-27",
+        "vote_average": 7.513,
+        "vote_count": 349,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/hHlhvZcB6B9dNSTvJouZ6M2BUNR.jpg",
+        "id": 2228,
+        "name": "Pinky and the Brain",
+        "original_name": "Pinky and the Brain",
+        "overview": "Pinky and Brain are genetically enhanced laboratory mice who reside in a cage in the Acme Labs research facility. Brain is self-centered and scheming; Pinky is good-natured but feebleminded. In each episode, Brain devises a new plan to take over the world, which ultimately ends in failure, usually due to Pinky's idiocy, the impossibility of Brain's plan, Brain's own arrogance, or just circumstances beyond their control.",
+        "poster_path": "/msVySCL9hRGaWFA0c3Bvx9WJFVV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10751,
+          10765,
+          10762
+        ],
+        "popularity": 24.0122,
+        "first_air_date": "1995-09-09",
+        "vote_average": 7.646,
+        "vote_count": 702,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/m8xpVIsZlCVndlDxLrM8AUIg5GG.jpg",
+        "id": 926,
+        "name": "Scooby-Doo, Neredesin?",
+        "original_name": "Scooby-Doo, Where Are You!",
+        "overview": "Scooby-Doo, Neredesin?; Son zamanların popüler çizgi dizi animasyonları rasında yer almaktadır. Hikaye, Büyük Sevgi dolu bir köpeğin hikayesini ekranlara yansıtır, en iyi arkadaşı Shaggy ve yeşil çiçekli bir minibüste, ve bu minibüsü kullanan üç saygılı takdire şayan arkadaş (Welma, Fred, Dapphne), birlikte suçlarla mücadele edip gizemleri çözüyorlar.",
+        "poster_path": "/lTzUSCtXR77CmGmEHcaxpxu2b4h.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          9648,
+          35,
+          10762,
+          10751
+        ],
+        "popularity": 29.9414,
+        "first_air_date": "1969-09-13",
+        "vote_average": 7.8,
+        "vote_count": 729,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/fKpfCR3l0WukHTkI6Z2ySX1if4P.jpg",
+        "id": 3022,
+        "name": "Rugrats",
+        "original_name": "Rugrats",
+        "overview": "Ülkemizde de gösterilmiş olan, Tommy Pickles, Chuckie Finster, Phill & Lil Deville ismindeki bebeklerin hikayelerinin anlatıldığı muhteşem bir çizgi film. Tommy grubun lideri, en cesuru, Chuckie ise korkağıdır. Phill ve Lil ise grubun iğrenç olan herşeyden hoşlanan ikizleridir. Bir de bu bebeklerin baş belası Angelica Pickles vardır. Kendisinden çok çekerler. 1991 ile 2004 yılları arasında gösterilmiş 10 sezon sürmüş ve kült olmuş bir çizgi filmdir. Daha sonrasında 3 adet filmi de çekilmiştir. Ayrıca \"All Grown Up\" isminde bebeklerin büyüdükleri halini de anlatan bir spin off'u mecvuttur.",
+        "poster_path": "/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          16,
+          10762,
+          35
+        ],
+        "popularity": 59.8456,
+        "first_air_date": "1991-08-11",
+        "vote_average": 7.595,
+        "vote_count": 708,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1szJqm8ksrwbPheLfEZn2ohTGbg.jpg",
+        "id": 5687,
+        "name": "Şirinler",
+        "original_name": "The Smurfs",
+        "overview": "Belçikalı çizer Pierre Culliford'un oluşturduğu çizgi roman ve animasyon dizisinin ortak ismi. 1958'de Pierre Culliford tarafından çizgi roman olarak ortaya çıktı. 1981'de televizyonda gösterilen Şirinler büyük ilgi gördü. Yıllarca Türkiye'de de yayınlanan çizgi dizi, başta Amerika Birleşik Devletleri olmak üzere birçok ülkede, yüksek izlenme oranlarına rağmen gösterimden kaldırılmıştır.\n\nŞirinler'in ingilizce adı olan \"Smurf\" kelimesinin \"Socialist Men Under Red Flag'ın (Kızıl Bayrak Altındaki Sosyalist Adamlar) kısaltması olduğu iddiası bir şehir efsanesinden ibarettir. Çünkü, Şirinler'in yaratıcısı Peyo tarafından Şirinler'e verilen orijinal isim Les Schtroumpfs'tur.",
+        "poster_path": "/cezQyM5cO454vUdLiLOkv78K64D.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10751,
+          10765,
+          10762,
+          35
+        ],
+        "popularity": 49.805,
+        "first_air_date": "1981-09-12",
+        "vote_average": 6.9,
+        "vote_count": 512,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/bNYJxbtslqHdbNfIT9XXjbwEZuX.jpg",
+        "id": 162,
+        "name": "Night Court",
+        "original_name": "Night Court",
+        "overview": "An eccentric fun-loving judge presides over an urban night court and all the silliness going on there.",
+        "poster_path": "/bpEVtr4NCkbmTdponemKSjt9POc.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 24.1299,
+        "first_air_date": "1984-01-04",
+        "vote_average": 7.349,
+        "vote_count": 126,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7dM4JldwctiayHJNBiXYYKhdXYP.jpg",
+        "id": 4439,
+        "name": "The Honeymooners",
+        "original_name": "The Honeymooners",
+        "overview": "A bus driver and his sewer worker friend struggle to strike it rich while their wives look on with weary patience. One of the most influential situation comedy television series in American history.",
+        "poster_path": "/vBXD45yVIjvucXAwes8vu7SqgSy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 7.5756,
+        "first_air_date": "1955-10-01",
+        "vote_average": 7.444,
+        "vote_count": 63,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/fsUfOopW3SchYbxYLX34alrpCHl.jpg",
+        "id": 21471,
+        "name": "Pixie and Dixie and Mr. Jinks",
+        "original_name": "Pixie and Dixie and Mr. Jinks",
+        "overview": "Pixie & Dixie and Mr. Jinks is a Hanna-Barbera cartoon that featured as a regular segment of the television series The Huckleberry Hound Show from 1958 to 1961.",
+        "poster_path": "/5ZumU878KJndWedQICQAKz6kCf4.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10762,
+          16,
+          35
+        ],
+        "popularity": 24.4489,
+        "first_air_date": "1958-10-02",
+        "vote_average": 7.2,
+        "vote_count": 57,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7jEnft2CLNbILWAiBRIBrXNN7Qh.jpg",
+        "id": 498,
+        "name": "David Letterman ile Geç Gösteri",
+        "original_name": "Late Show with David Letterman",
+        "overview": "ABD’nin en çok izlenen talk show ustalarından David Letterman; sinema, televizyon, tiyatro, müzik, politika ve spor dünyasının zirvedeki isimlerini ağırladığı ünlü şovuyla izleyicileri gülmekten kırıp geçiriyor.",
+        "poster_path": "/fTBC5EpsgKmli9VQcJMtqQ08Qj4.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767,
+          35
+        ],
+        "popularity": 445.8375,
+        "first_air_date": "1993-08-30",
+        "vote_average": 6.338,
+        "vote_count": 151,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9kuUPHz99Oojm6GG7mawtIjv4lv.jpg",
+        "id": 331,
+        "name": "America's Next Top Model",
+        "original_name": "America's Next Top Model",
+        "overview": "Aspiring models compete for a chance to break into the business with a panel of judges critiquing their progress throughout the competition.",
+        "poster_path": "/47EIfjYrT80AOfpAIkvSxdpwGOv.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 91.3079,
+        "first_air_date": "2003-05-20",
+        "vote_average": 5.3,
+        "vote_count": 131,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sujktmeEojksf4tpJneU5QRyQcc.jpg",
+        "id": 6395,
+        "name": "The Master and Margarita",
+        "original_name": "Мастер и Маргарита",
+        "overview": "The Master and Margarita is a Russian television production of Telekanal Rossiya, based on the novel The Master and Margarita, written by Soviet writer Mikhail Bulgakov between 1928 and 1940. Vladimir Bortko directed this adaptation and was also its screenwriter.",
+        "poster_path": "/fdHbRajsZmrs7TNmPF3NjjYCMaM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ru",
+        "genre_ids": [
+          18,
+          9648,
+          10765
+        ],
+        "popularity": 1.7822,
+        "first_air_date": "2005-12-19",
+        "vote_average": 7.383,
+        "vote_count": 81,
+        "origin_country": [
+          "RU"
+        ]
+      },
+      {
+        "backdrop_path": "/7lYBvjfgrguOUgnS9NrpysHtaCq.jpg",
+        "id": 4582,
+        "name": "Ironside",
+        "original_name": "Ironside",
+        "overview": "When an assassin's bullet confines him to a wheelchair for life ending his career as Chief of Detectives, Robert T. Ironside becomes a consultant to the police department. Detective Sergeant Ed Brown and policewoman Eve Whitfield join with him to crack varied and fascinating cases. Ex-con Mark Sanger is employed by the chief as home help but eventually becomes a fully fledged member of the team also. Officer Whitfield leaves after 4 years service, and is replaced by Officer Fran Belding.",
+        "poster_path": "/Fu9Sv0pQ0s89uWwwXcaG0kiNW7.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 43.0983,
+        "first_air_date": "1967-03-28",
+        "vote_average": 6.8,
+        "vote_count": 64,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4iSl4y1gWZwXmjyS3Ho8HqLWXAK.jpg",
+        "id": 10929,
+        "name": "The Wild Wild West",
+        "original_name": "The Wild Wild West",
+        "overview": "The Wild Wild West is an American television series. Developed at a time when the television western was losing ground to the spy genre, this show was conceived by its creator, Michael Garrison, as \"James Bond on horseback.\" Set during the administration of President Ulysses Grant, the series followed Secret Service agents James West and Artemus Gordon as they solved crimes, protected the President, and foiled the plans of megalomaniacal villains to take over all or part of the United States.\n\nThe show also featured a number of fantasy elements, such as the technologically advanced devices used by the agents and their adversaries. The combination of the Victorian era time-frame and the use of Verne-esque style technology have inspired some to give the show credit for the origins of the steam punk subculture.",
+        "poster_path": "/4LSZNCSxDodwCP8EsKRTgMDUKY4.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          35,
+          18,
+          37,
+          10765
+        ],
+        "popularity": 21.4455,
+        "first_air_date": "1965-09-17",
+        "vote_average": 7.534,
+        "vote_count": 74,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/49E8mWyokr9f3tOkaT4Z58xhxLZ.jpg",
+        "id": 4237,
+        "name": "Snorks",
+        "original_name": "Snorks",
+        "overview": "The Snorks is an animated television series produced by Hanna-Barbera which ran on NBC from September 15, 1984, to May 13, 1989. Although not as popular as the animated series The Smurfs, the program continued to be available in syndication from 1986 to 1989 as part of The Funtastic World of Hanna-Barbera's 3rd season, on USA Network in the late-1980s and early-1990s, on the BBC in the late 1990s, and from 2009–2011 and again from 2012–Present on Boomerang.",
+        "poster_path": "/rQmrzG1US6nvVRdW4dYHIXd7NQy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          16,
+          10762
+        ],
+        "popularity": 24.6351,
+        "first_air_date": "1984-09-15",
+        "vote_average": 6.4,
+        "vote_count": 46,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/otE9DjFrKMOv0Mkz1o7HfJGCvNF.jpg",
+        "id": 20111,
+        "name": "Mobile Suit Gundam SEED",
+        "original_name": "機動戦士ガンダムSEED",
+        "overview": "Cosmic Era 71. Mankind has developed into two subspecies: Naturals, who reside on Earth, and Coordinators, genetically enhanced humans capable of withstanding the rigors of space who inhabit orbital colonies known as PLANTs. The story revolves around a young Coordinator named Kira Yamato, who becomes involved in the war between the two races after a neutral space colony secretly developing mobile suits for the Earth Alliance is attacked by the PLANTs' military force, ZAFT.",
+        "poster_path": "/rWgdDIq4JeaI36KdmLPkYcQjBQ3.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          10759,
+          16,
+          10765,
+          10768
+        ],
+        "popularity": 31.5769,
+        "first_air_date": "2002-10-05",
+        "vote_average": 7.612,
+        "vote_count": 49,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/dMGgTq9rYHoPxMwQ48iYFSD9Zyn.jpg",
+        "id": 1441,
+        "name": "Threshold",
+        "original_name": "Threshold",
+        "overview": "Threshold was a science fiction drama television series that first aired on CBS in September 2005. Produced by Brannon Braga, David S. Goyer and David Heyman, the series focuses on a secret government project investigating the first contact with an extraterrestrial species.",
+        "poster_path": "/y9e96lS10N5tbg6Yg3VI063pJry.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 2.812,
+        "first_air_date": "2005-09-16",
+        "vote_average": 7.026,
+        "vote_count": 76,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/tqubNA9ZtI6CW64JXhqXw9fAgPT.jpg",
+        "id": 1101,
+        "name": "My So-Called Life",
+        "original_name": "My So-Called Life",
+        "overview": "The life of a 15 year-old high school student, whose angst-ridden journey through adolescence, friendship, parents, and life teaches her what it means to grow up.",
+        "poster_path": "/vnA2pgfSzvr4RAZytveESXLk0r.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 6.6404,
+        "first_air_date": "1994-08-25",
+        "vote_average": 7.629,
+        "vote_count": 143,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

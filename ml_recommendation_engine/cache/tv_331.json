@@ -1,0 +1,981 @@
+{
+  "adult": false,
+  "backdrop_path": "/9kuUPHz99Oojm6GG7mawtIjv4lv.jpg",
+  "created_by": [
+    {
+      "id": 77897,
+      "credit_id": "52534f6519c295794011063e",
+      "name": "Tyra Banks",
+      "original_name": "Tyra Banks",
+      "gender": 1,
+      "profile_path": "/3ONPoETfLc04hkMztk9Z8seY4D9.jpg"
+    }
+  ],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "2003-05-20",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Gerçeklik"
+    }
+  ],
+  "homepage": "http://www.vh1.com/shows/americas-next-top-model",
+  "id": 331,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2018-04-10",
+  "last_episode_to_air": {
+    "id": 1469155,
+    "name": "15. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2018-04-10",
+    "episode_number": 15,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 42,
+    "season_number": 24,
+    "show_id": 331,
+    "still_path": "/gu1R4OqLhamkP7a6ghPIoH57pP3.jpg"
+  },
+  "name": "America's Next Top Model",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 40,
+      "logo_path": "/333LtWX9Z7H9uRrNcCl1JcTvdpR.png",
+      "name": "UPN",
+      "origin_country": "US"
+    },
+    {
+      "id": 71,
+      "logo_path": "/hEpcdJ4O6eitG9ADSnDXNUrlovS.png",
+      "name": "The CW",
+      "origin_country": "US"
+    },
+    {
+      "id": 158,
+      "logo_path": "/w9oUxxUiXTC1O1MzJSvsMjQbgft.png",
+      "name": "VH1",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 312,
+  "number_of_seasons": 24,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "America's Next Top Model",
+  "overview": "",
+  "popularity": 91.3079,
+  "poster_path": "/47EIfjYrT80AOfpAIkvSxdpwGOv.jpg",
+  "production_companies": [
+    {
+      "id": 58908,
+      "logo_path": null,
+      "name": "Bankable Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 58907,
+      "logo_path": null,
+      "name": "10 by 10 Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2008-02-06",
+      "episode_count": 12,
+      "id": 62681,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/c3Lvh9Rd8llJAofYYbDi0jPa8nu.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2003-05-19",
+      "episode_count": 8,
+      "id": 62679,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/wzXNJigswbWjtz9JskBoOX0Dze4.jpg",
+      "season_number": 1,
+      "vote_average": 3.8
+    },
+    {
+      "air_date": "2004-01-12",
+      "episode_count": 10,
+      "id": 62680,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/vowlMza06g3MC2xD2EWGvr07uyL.jpg",
+      "season_number": 2,
+      "vote_average": 9.0
+    },
+    {
+      "air_date": "2004-09-21",
+      "episode_count": 12,
+      "id": 62682,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/qx34VyLivFCuKaLpXZ7ocnVqXnk.jpg",
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2005-03-01",
+      "episode_count": 12,
+      "id": 62683,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/te9rbwAhlgHVa9FPu5CvUeCZySH.jpg",
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2005-09-21",
+      "episode_count": 12,
+      "id": 62684,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/grCeFuBog6zHO0Kq9uQan6oyLZJ.jpg",
+      "season_number": 5,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "2006-03-07",
+      "episode_count": 12,
+      "id": 62685,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/tPGbziZtnuUhI4sbIcngYZHvTTa.jpg",
+      "season_number": 6,
+      "vote_average": 1.0
+    },
+    {
+      "air_date": "2006-09-20",
+      "episode_count": 13,
+      "id": 62686,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/cJmeAWE04ER1bhTkrCPDiNasezJ.jpg",
+      "season_number": 7,
+      "vote_average": 1.0
+    },
+    {
+      "air_date": "2007-02-28",
+      "episode_count": 13,
+      "id": 62687,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/qsGWptnvo9ayBm2FyYgI4bts6mz.jpg",
+      "season_number": 8,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2007-09-19",
+      "episode_count": 13,
+      "id": 62688,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/dpEQxOC5Enh3XnUPnltcG1OG1np.jpg",
+      "season_number": 9,
+      "vote_average": 0.5
+    },
+    {
+      "air_date": "2008-02-20",
+      "episode_count": 13,
+      "id": 62689,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/i9wtTZgth66Z4b6HAmVx13dzPuy.jpg",
+      "season_number": 10,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2008-09-03",
+      "episode_count": 13,
+      "id": 62690,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/eSK3OkEvt81av9KDzgpnv81u806.jpg",
+      "season_number": 11,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2009-03-04",
+      "episode_count": 13,
+      "id": 62691,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/9xod6D4kRraxyu7GBi4q5AFjfHg.jpg",
+      "season_number": 12,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2009-09-09",
+      "episode_count": 13,
+      "id": 62692,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": "/tgt9bS9SUG6YkqsTKMYSBs5zqZB.jpg",
+      "season_number": 13,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2010-03-10",
+      "episode_count": 12,
+      "id": 62693,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": "/qzC2L0HducvOa9mhLyeauRAbuUP.jpg",
+      "season_number": 14,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2010-09-08",
+      "episode_count": 13,
+      "id": 62694,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": "/qaWtFyaoEl8Gj1Tz8ugiEqM6Y7s.jpg",
+      "season_number": 15,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-02-23",
+      "episode_count": 13,
+      "id": 62695,
+      "name": "Sezon 16",
+      "overview": "",
+      "poster_path": "/yqRqguYB1rqu2nHsZdCplsQNoMR.jpg",
+      "season_number": 16,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2011-09-14",
+      "episode_count": 13,
+      "id": 62696,
+      "name": "Sezon 17",
+      "overview": "",
+      "poster_path": "/z2awopkkrckpCZMe23oCSa0jSjm.jpg",
+      "season_number": 17,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2012-02-29",
+      "episode_count": 13,
+      "id": 62697,
+      "name": "Sezon 18",
+      "overview": "",
+      "poster_path": "/fJrErA7dWAcXZmhza9u3FwQsVW9.jpg",
+      "season_number": 18,
+      "vote_average": 4.8
+    },
+    {
+      "air_date": "2012-08-24",
+      "episode_count": 13,
+      "id": 62698,
+      "name": "Sezon 19",
+      "overview": "",
+      "poster_path": "/tKHu8MpLsIUMqeEcfewQwAMJzYn.jpg",
+      "season_number": 19,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2013-08-02",
+      "episode_count": 16,
+      "id": 62699,
+      "name": "Sezon 20",
+      "overview": "",
+      "poster_path": "/dP2bIGkm8J2RkIMyaVB7cmfZjyO.jpg",
+      "season_number": 20,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2014-08-18",
+      "episode_count": 16,
+      "id": 62700,
+      "name": "Sezon 21",
+      "overview": "",
+      "poster_path": "/dQv18QTI7Mf0WQVhowMF0oPauQY.jpg",
+      "season_number": 21,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2015-08-05",
+      "episode_count": 16,
+      "id": 69285,
+      "name": "Sezon 22",
+      "overview": "",
+      "poster_path": "/bEvzB6m1FOwmQK0KffZtGJPMKha.jpg",
+      "season_number": 22,
+      "vote_average": 3.5
+    },
+    {
+      "air_date": "2016-12-12",
+      "episode_count": 15,
+      "id": 82753,
+      "name": "Sezon 23",
+      "overview": "",
+      "poster_path": "/4sUDGddphAVmzV4SiA1Y3ZPmrxR.jpg",
+      "season_number": 23,
+      "vote_average": 0.5
+    },
+    {
+      "air_date": "2018-01-09",
+      "episode_count": 15,
+      "id": 96635,
+      "name": "Sezon 24",
+      "overview": "",
+      "poster_path": "/p7OvW5t2AEqVyf71Rz7w8Xja2KV.jpg",
+      "season_number": 24,
+      "vote_average": 9.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 5.3,
+  "vote_count": 131,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 77897,
+        "known_for_department": "Acting",
+        "name": "Tyra Banks",
+        "original_name": "Tyra Banks",
+        "popularity": 2.3502,
+        "profile_path": "/3ONPoETfLc04hkMztk9Z8seY4D9.jpg",
+        "character": "Self - Judge",
+        "credit_id": "5856a2919251416f10050319",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1748840,
+        "known_for_department": "Acting",
+        "name": "Drew Elliott",
+        "original_name": "Drew Elliott",
+        "popularity": 0.3617,
+        "profile_path": null,
+        "character": "Self - Judge",
+        "credit_id": "5a549da60e0a2607ce00c992",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1748841,
+        "known_for_department": "Acting",
+        "name": "Law Roach",
+        "original_name": "Law Roach",
+        "popularity": 0.7286,
+        "profile_path": "/31bycCJ4yamJyKZYHzkPAYxxOpx.jpg",
+        "character": "Self - Judge",
+        "credit_id": "5a549db30e0a2607d400c86e",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1001806,
+        "known_for_department": "Acting",
+        "name": "Ashley Graham",
+        "original_name": "Ashley Graham",
+        "popularity": 0.7345,
+        "profile_path": "/srCfLgrHWVEOH2MDoJbMTusuwfn.jpg",
+        "character": "Self - Judge",
+        "credit_id": "5a549dc39251417aa600c32c",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2706688,
+        "known_for_department": "Sound",
+        "name": "Les Pierce",
+        "original_name": "Les Pierce",
+        "popularity": 0.3236,
+        "profile_path": null,
+        "credit_id": "65566d1422af3e013a57844d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3044624,
+        "known_for_department": "Sound",
+        "name": "David Thomas",
+        "original_name": "David Thomas",
+        "popularity": 0.4315,
+        "profile_path": null,
+        "credit_id": "65566d037f054000ff364849",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70701,
+        "known_for_department": "Production",
+        "name": "Ken Mok",
+        "original_name": "Ken Mok",
+        "popularity": 0.4511,
+        "profile_path": null,
+        "credit_id": "65566d2deea34d00e28ade40",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1250979,
+        "known_for_department": "Production",
+        "name": "Anthony Dominici",
+        "original_name": "Anthony Dominici",
+        "popularity": 0.6372,
+        "profile_path": null,
+        "credit_id": "65566d3bb5400214cf38b8fd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1407486,
+        "known_for_department": "Writing",
+        "name": "Kenya Barris",
+        "original_name": "Kenya Barris",
+        "popularity": 2.0407,
+        "profile_path": "/rJlBuLI9hf34Iy0kE3zlqDNSF2P.jpg",
+        "credit_id": "65566ce00816c70137e96ac1",
+        "department": "Production",
+        "job": "Development Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70701,
+        "known_for_department": "Production",
+        "name": "Ken Mok",
+        "original_name": "Ken Mok",
+        "popularity": 0.4511,
+        "profile_path": null,
+        "credit_id": "65566cd4ea84c71096ddb62c",
+        "department": "Production",
+        "job": "Development Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "competition",
+        "id": 271
+      },
+      {
+        "name": "model",
+        "id": 14818
+      },
+      {
+        "name": "fashion show",
+        "id": 167198
+      },
+      {
+        "name": "modeling",
+        "id": 173242
+      },
+      {
+        "name": "photoshoot",
+        "id": 248612
+      },
+      {
+        "name": "reality competition",
+        "id": 250845
+      },
+      {
+        "name": "fashion model",
+        "id": 275133
+      },
+      {
+        "name": "male models",
+        "id": 325196
+      },
+      {
+        "name": "melodramatic",
+        "id": 325835
+      },
+      {
+        "name": "next top model",
+        "id": 333722
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/99vIBuyFDPOi0cQQQjM4X9qBCzF.jpg",
+        "id": 23377,
+        "name": "Victoria's Secret Fashion Show",
+        "original_name": "Victoria's Secret Fashion Show",
+        "overview": "Merging fashion, fantasy and entertainment, this lingerie runway show includes pink carpet interviews, model profiles, behind-the-scenes looks at the making of the show, and musical performances.",
+        "poster_path": "/uVFGz2hi7bneb39zSqInxbVvMKO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 9.4224,
+        "first_air_date": "1995-02-10",
+        "vote_average": 7.6,
+        "vote_count": 13,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/81UcAldW1Vz36JxWbnucXSxNsxg.jpg",
+        "id": 73101,
+        "name": "MasterChef",
+        "original_name": "MasterChef",
+        "overview": "Danish version of the cooking competition in which celebrity chefs put a group of contestants through a series of challenges and elimination rounds, in order to turn one home cook into a culinary master.",
+        "poster_path": "/86TMU2JYnBvd4rnJkEio8ne5teB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "da",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 9.1941,
+        "first_air_date": "2015-01-19",
+        "vote_average": 6.4,
+        "vote_count": 9,
+        "origin_country": [
+          "DK"
+        ]
+      },
+      {
+        "backdrop_path": "/nV9VruLiUkiqOYuQoY70UCdweVG.jpg",
+        "id": 122692,
+        "name": "RuPaul's Drag Race Down Under",
+        "original_name": "RuPaul's Drag Race Down Under",
+        "overview": "Drag queen contestants compete in an elimination-style contest and strut their stuff in a variety of challenges - all to prove that they’ve got what it takes to be Down Under's next Drag Queen Superstar!",
+        "poster_path": "/uWZPjouQgLs1lMVL0lu8P5J1jBc.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 7.7941,
+        "first_air_date": "2021-05-01",
+        "vote_average": 5.3,
+        "vote_count": 24,
+        "origin_country": [
+          "NZ"
+        ]
+      },
+      {
+        "backdrop_path": "/uxFAMydhi1aDW3ivM8lLNUlN3Vp.jpg",
+        "id": 113879,
+        "name": "Beyond the Clouds",
+        "original_name": "Beyond the Clouds",
+        "overview": "Beyond the Clouds takes an exclusive look inside the production and inspiration behind the Disney+ original movie.",
+        "poster_path": "/wNFPhrHmki6VT7xAfQ9hYL6vGDU.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 1.163,
+        "first_air_date": "2020-12-04",
+        "vote_average": 9.0,
+        "vote_count": 2,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vJlKrSBQJQwMdWhcKqEZGrjmKi8.jpg",
+        "id": 73644,
+        "name": "American Beauty Star",
+        "original_name": "American Beauty Star",
+        "overview": "12 competitors from all facets of the beauty industry are challenged to become the next American Beauty Star. Challenges include creating high-end magazine editorial looks and red carpet styles for a Hollywood premiere.",
+        "poster_path": "/aN9v9nTFbugZ3qpGl0MGkVgdUMK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 0.2777,
+        "first_air_date": "2017-09-21",
+        "vote_average": 8.0,
+        "vote_count": 1,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 40284,
+        "name": "Ton of Cash",
+        "original_name": "Ton of Cash",
+        "overview": "Ton of Cash is a show on VH1 that premiered on August 17, 2011. It is hosted by Dhani Jones. The show centers around a group of contestants trying to haul $1,000,000 from L.A. to Las Vegas. It currently is shown on Thursday mornings at 2AM Eastern on VH1. The show was moved to the later timeslot due to low ratings. In addition to the timeslot change, VH1 no longer airs repeats of the show during the week.",
+        "poster_path": null,
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [],
+        "popularity": 0.2169,
+        "first_air_date": "",
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/aokBIjjKXvhffvkGJvIyrYvwxqt.jpg",
+        "id": 61535,
+        "name": "Are You The One?",
+        "original_name": "Are You The One?",
+        "overview": "In the most ambitious dating experiment ever attempted, a group of gorgeous single women and guys are put through an extensive and scientific matchmaking process to find their Perfect Match.",
+        "poster_path": "/q0ffWnsnRiw0NM9bDppksVguxLl.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 17.2471,
+        "first_air_date": "2014-01-21",
+        "vote_average": 6.0,
+        "vote_count": 47,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7ssuZk33GSPkAdMsrAcr02PwbLj.jpg",
+        "id": 67725,
+        "name": "Famous in Love",
+        "original_name": "Famous in Love",
+        "overview": "Sıradan bir üniversite öğrencisi olan Paige Townsen (Bella Thorne) Hollywood'da gişe rekorları kıracak bir filmin seçmelerine katılır ve başrolünü kazanır. Hayatı bir gecede değişen Paige yıldızlarla dolu bir yaşamın içine girer. Bir yandan kayıp bir pop yıldızını ortaya çıkarması beklenirken diğer yandan iki erkek başrol oyuncusu ile dengeleri sağlamaya çalışır.",
+        "poster_path": "/ae4z2yBQr5htmHyfh89XdHlyQn2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 7.5868,
+        "first_air_date": "2017-04-18",
+        "vote_average": 6.8,
+        "vote_count": 78,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/3jMCaxKK4r5A5gu196dCCrk5d6X.jpg",
+        "id": 562,
+        "name": "The Ellen DeGeneres Show",
+        "original_name": "The Ellen DeGeneres Show",
+        "overview": "The Ellen DeGeneres Show, often shortened to just Ellen, is an American television talk show hosted by comedian/actress Ellen DeGeneres.",
+        "poster_path": "/PhUYIGUUk1RzWq2Aw3TqH65McE.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 125.6035,
+        "first_air_date": "2003-09-08",
+        "vote_average": 5.714,
+        "vote_count": 159,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/bkz7rStamWJxC3lp9TUpU9GR18S.jpg",
+        "id": 139798,
+        "name": "Single's Inferno",
+        "original_name": "솔로지옥",
+        "overview": "Issız bir adada mahsur kalan cilveli bekârlar flört edip kaynaşmaya hazır. Bu adadan kurtulmalarının tek yolu, çift olmak ve romantik randevulara çıkmak.",
+        "poster_path": "/86zkkFCrNc4VeqvCANTmpGNgFEF.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 7.7763,
+        "first_air_date": "2021-12-18",
+        "vote_average": 7.7,
+        "vote_count": 67,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/7SDggAJXFqgXwcVSyMzJYi5n7cg.jpg",
+        "id": 71887,
+        "name": "Marlon",
+        "original_name": "Marlon",
+        "overview": "Marlon Wayans'ın hayatından kurgulanan dizi, kendisini eski eşinden olan iki çocuğuna adamış, yeterince olgunlaşmamış bir baba ve Marlon ailesinin eğlenceli hayatlarını anlatmaktadır.",
+        "poster_path": "/7jCZupMTSyS3SohvE14T3xVT36n.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 6.692,
+        "first_air_date": "2017-08-16",
+        "vote_average": 6.6,
+        "vote_count": 135,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ReSSC77upQRIZgvaJaPQPCbWaK.jpg",
+        "id": 34634,
+        "name": "Altın Peşinde",
+        "original_name": "Gold Rush",
+        "overview": "Altın peşindeki hırslı madencilerin hayatlarını takip edin, kuzeye doğru yola çıkarken. Yeni madenciler, yeni hak iddiaları, yeni makineler ve yer altından altın çıkarma konusunda yeni yollarla, riskler her zamankinden daha yüksek. Ama büyük riskler, daha büyük kazançlar getirecek mi?",
+        "poster_path": "/g7bGSjPhGA7QfHYuo5VlvnvS0vH.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 66.1739,
+        "first_air_date": "2010-12-03",
+        "vote_average": 6.994,
+        "vote_count": 158,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/AoahptTbnYm9Sb593sAykKbCuk.jpg",
+        "id": 62320,
+        "name": "Grace ve Frankie",
+        "original_name": "Grace and Frankie",
+        "overview": "Emmy adaylığı bulunan bu dizide, mülayim Grace ve eksantrik Frankie, kocaları birbirine aşık olup onları terk edince yakınlaşmaya başlarlar. (16 yaş ve üzeri için uygundur)",
+        "poster_path": "/3aD3PaSeF8eHJFLliLlWYw4EcPt.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 29.6216,
+        "first_air_date": "2015-05-08",
+        "vote_average": 7.701,
+        "vote_count": 334,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/61YttrsiP6B4sJo98HFMuHKPV3G.jpg",
+        "id": 87428,
+        "name": "Why Women Kill",
+        "original_name": "Why Women Kill",
+        "overview": "Farklı yıllarda yaşayan üç kadına odaklanan dizi, kadınların evlilikteki rollerinin nasıl değiştiğini ancak ihanete tepkilerinin benzerliğini anlatıyor.60'larda bir ev hanımı, 80'lerde bir sosyetik güzel ve 2019'da ise bir avukat, evliliklerinde sadakatsizlikle uğraşıyor.",
+        "poster_path": "/fI3E1G5N8oimMeyYn5UzWRT2cST.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          80,
+          18
+        ],
+        "popularity": 20.392,
+        "first_air_date": "2019-08-15",
+        "vote_average": 7.949,
+        "vote_count": 321,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5U7NIuRK836GutAlo7TLPfmVtGW.jpg",
+        "id": 141,
+        "name": "Cheers",
+        "original_name": "Cheers",
+        "overview": "The story about a blue-collar Boston bar run by former sports star Sam Malone and the quirky and wonderful people who worked and drank there.",
+        "poster_path": "/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 25.9469,
+        "first_air_date": "1982-09-30",
+        "vote_average": 7.6,
+        "vote_count": 601,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9bbUjObvMGTCzXaKZFypflVVjNW.jpg",
+        "id": 2604,
+        "name": "The Boondocks",
+        "original_name": "The Boondocks",
+        "overview": "When Robert “Granddad” Freeman becomes legal guardian to his two grandsons, he moves from the tough south side of Chicago to the upscale neighborhood of Woodcrest (a.k.a. \"The Boondocks\") so he can enjoy his golden years in safety and comfort. But with Huey, a 10-year-old leftist revolutionary, and his eight-year-old misfit brother, Riley, suburbia is about to be shaken up.",
+        "poster_path": "/vAvT2RXjOpgH0COriRm9riPqA0m.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          35,
+          16
+        ],
+        "popularity": 22.6771,
+        "first_air_date": "2005-11-06",
+        "vote_average": 8.142,
+        "vote_count": 373,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uinrziSwEmS6s8VvGBad5sed7bF.jpg",
+        "id": 1435,
+        "name": "The Good Wife",
+        "original_name": "The Good Wife",
+        "overview": "Bu etkileyici drama, seçkin bir politikacının karısıyken aldatılan Alicia Florrick’in yaşadıklarını konu alıyor. Kocası Peter Florrick’in başka bir kadınla, kamuya açık yerde seks yapması ve hapse düşmesi üzerine Alicia, en son 13 yıl önce girdiği mahkeme kapısından tekrar içeri adım atmaya karar veriyor. Bir zamanlar sınıf birincisiyken, evi ve ailesi için vazgeçtiği mesleğine geri dönüyor. Eski sınıf arkadaşı Will Gardner’ın Chicago’daki prestijli hukuk firmasında işe başlayan Alicia, kariyerini yeniden inşa etmek için zorlu yolları aşmak zorunda. Ama iyi bir anne ve eş olmaktan da vazgeçmeye hiç niyetli değil.",
+        "poster_path": "/lasNCd45fpPLirlA7QxkuopWro.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 68.6684,
+        "first_air_date": "2009-09-22",
+        "vote_average": 7.595,
+        "vote_count": 608,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qoauOMsZq2GXBxVj05Oga0IYPbX.jpg",
+        "id": 1422,
+        "name": "The Middle",
+        "original_name": "The Middle",
+        "overview": "Sporcular, film yıldızları ve politikacılar… Unutun bunları, esas kahramanlar aileler! ABC’nin komedi dizilerinden Warner Bros şirketi tarafından yapımı üstlenilen “The Middle” adlı dizi ise bunların ötesinde; üç çocuk annesi ve sevgi dolu bir eş olan Frankie Heck söz konusu olunca o bir süper kahraman, çünkü hem orta sınıf olan ailesiyle ilgileniyor, hem yaşadıkları Indiana’da kalmak için çabalıyor, hem de hayat akışına göğüs geriyor.",
+        "poster_path": "/pBYSSxbs2vllON4DemdnG5AODJt.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 42.7669,
+        "first_air_date": "2009-09-30",
+        "vote_average": 7.568,
+        "vote_count": 672,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gDvxT2z6TNxervG97WfpePRZ3aR.jpg",
+        "id": 42509,
+        "name": "Steins;Gate",
+        "original_name": "Steins;Gate",
+        "overview": "Steins Gate, özelleştirilmiş bir mikrodalga cihazıyla kendi geçmişlerine mesaj gönderebilen bir grup arkadaş hakkındadır. Pek çok farklı deney yapmaktadırlar. SERN isimli organizasyon ise kendi zaman yolculuğu araştırmalarını yapmaktadır. Karakterler bir yol bulup yakalanmamak zorundadır.",
+        "poster_path": "/5DZix6ggRiFEbsGqUeTAI1z2wtX.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10765,
+          9648,
+          35
+        ],
+        "popularity": 13.4881,
+        "first_air_date": "2011-04-06",
+        "vote_average": 8.432,
+        "vote_count": 818,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/ombM2Yd0UORA7AlxXnIQ6ZFd8yE.jpg",
+        "id": 48865,
+        "name": "Reign",
+        "original_name": "Reign",
+        "overview": "Kraliçe Mary’nin bilinmeyen ve daha önce anlatılmamış iktidara yükselme hikayesi; 15 yaşında ve Prens Francis ile nişanlıyken Fransa’ya gelmesi ve üç yakın arkadaşıyla yaşadıkları anlatılıyor. Öfkeli düşmanlar, karanlık güçler ve cinsel entrikalar dünyasında sarayda yaşarken hayatta kalma hikayesi.",
+        "poster_path": "/epNfFs0gPyrpekecpzyX0XTkZgI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 51.3444,
+        "first_air_date": "2013-10-17",
+        "vote_average": 8.055,
+        "vote_count": 836,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

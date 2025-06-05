@@ -1,0 +1,670 @@
+{
+  "adult": false,
+  "backdrop_path": "/dzY2ZYyPRbXcw8UOupHK3V5VQYk.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romantik"
+    }
+  ],
+  "homepage": "",
+  "id": 259872,
+  "imdb_id": "tt1852099",
+  "origin_country": [
+    "BE"
+  ],
+  "original_language": "fr",
+  "original_title": "Des jours plus belles que la nuit",
+  "overview": "",
+  "popularity": 172.21,
+  "poster_path": "/uCkANtG6ezb7hjRKVudY3PUcbvn.jpg",
+  "production_companies": [
+    {
+      "id": 10422,
+      "logo_path": null,
+      "name": "Blue Artichoke Films",
+      "origin_country": "NL"
+    },
+    {
+      "id": 253637,
+      "logo_path": null,
+      "name": "la fille d'O",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    },
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "release_date": "2009-10-10",
+  "revenue": 0,
+  "runtime": 60,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Des jours plus belles que la nuit",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 56,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1593298,
+        "known_for_department": "Acting",
+        "name": "Wim van Damme",
+        "original_name": "Wim van Damme",
+        "popularity": 1.203,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Self",
+        "credit_id": "56eea740c3a368225600af9a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1593299,
+        "known_for_department": "Acting",
+        "name": "Floor Wyns",
+        "original_name": "Floor Wyns",
+        "popularity": 1.63,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Self",
+        "credit_id": "56eea74d925141771a001f08",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 1003968,
+        "known_for_department": "Directing",
+        "name": "Jennifer Lyon Bell",
+        "original_name": "Jennifer Lyon Bell",
+        "popularity": 2.33,
+        "profile_path": null,
+        "credit_id": "5416a2660e0a261c32004ce6",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 229033,
+        "known_for_department": "Production",
+        "name": "Murielle Scherre",
+        "original_name": "Murielle Scherre",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5416a28ec3a3687d9a001d74",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 229033,
+        "known_for_department": "Production",
+        "name": "Murielle Scherre",
+        "original_name": "Murielle Scherre",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "595ba954c3a368253c04eddc",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 1003968,
+        "known_for_department": "Directing",
+        "name": "Jennifer Lyon Bell",
+        "original_name": "Jennifer Lyon Bell",
+        "popularity": 2.33,
+        "profile_path": null,
+        "credit_id": "595ba91fc3a3680dec028a10",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 1003968,
+        "known_for_department": "Directing",
+        "name": "Jennifer Lyon Bell",
+        "original_name": "Jennifer Lyon Bell",
+        "popularity": 2.33,
+        "profile_path": null,
+        "credit_id": "595ba919c3a368253c04ed9a",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 229033,
+        "known_for_department": "Production",
+        "name": "Murielle Scherre",
+        "original_name": "Murielle Scherre",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "595ba94e9251410a59056b5b",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 1003968,
+        "known_for_department": "Directing",
+        "name": "Jennifer Lyon Bell",
+        "original_name": "Jennifer Lyon Bell",
+        "popularity": 2.33,
+        "profile_path": null,
+        "credit_id": "595ba936c3a368293b05ba60",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 229033,
+        "known_for_department": "Production",
+        "name": "Murielle Scherre",
+        "original_name": "Murielle Scherre",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "595ba9479251410c5605370b",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1844577,
+        "known_for_department": "Sound",
+        "name": "Damien Done",
+        "original_name": "Damien Done",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "595bab43c3a3680d59028d10",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 1003968,
+        "known_for_department": "Directing",
+        "name": "Jennifer Lyon Bell",
+        "original_name": "Jennifer Lyon Bell",
+        "popularity": 2.33,
+        "profile_path": null,
+        "credit_id": "595ba9289251410b8605838c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 229033,
+        "known_for_department": "Production",
+        "name": "Murielle Scherre",
+        "original_name": "Murielle Scherre",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "595ba95a92514121f003b710",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1844576,
+        "known_for_department": "Editing",
+        "name": "Jonathan del Piero",
+        "original_name": "Jonathan del Piero",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "595bab38c3a3680dec028c63",
+        "department": "Editing",
+        "job": "Additional Editing"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": null,
+        "id": 256381,
+        "title": "Q",
+        "original_title": "Q",
+        "overview": "When growing up in a community where gang violence is a way of life and Basketball is a way to escape it.",
+        "poster_path": null,
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [],
+        "popularity": 4.126,
+        "release_date": "2014-04-25",
+        "video": false,
+        "vote_average": 5.798,
+        "vote_count": 52
+      },
+      {
+        "backdrop_path": "/csQSGH0QU8D3Ov5YLEYuHep8ihA.jpg",
+        "id": 1196470,
+        "title": "Kıyametten Sonra",
+        "original_title": "Survive",
+        "overview": "Okyanuslar kaybolduğunda, yüzeyde kalan tek şey tehlikedir. Julia ve sevgi dolu kocası, okyanusun ortasındaki teknelerinde oğullarının doğum gününü kutlarlar. Ancak şiddetli bir fırtına neredeyse onları alabora ettiğinde, aile uyandığında kendilerini ıssız topraklarda bulur. Dünya trajik bir değişim geçirmiş ve okyanuslardan su çekilmiştir. Julia, uçurumdan aç yaratıkların taze et avlamak için ortaya çıktığı bir dünyada çocuklarını kurtarmak zorundadır.",
+        "poster_path": "/59nsfU5hMG3puDZIGzZzJ1yW8FN.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          878,
+          53,
+          12,
+          28
+        ],
+        "popularity": 107.549,
+        "release_date": "2024-06-19",
+        "video": false,
+        "vote_average": 5.948,
+        "vote_count": 153
+      },
+      {
+        "backdrop_path": "/fKHJikRdF003w0GI16VrSg4mL0K.jpg",
+        "id": 1256599,
+        "title": "Jake Paul vs. Mike Tyson",
+        "original_title": "Jake Paul vs. Mike Tyson",
+        "overview": "Jake Paul vs. Mike Tyson, Teksas'ın Arlington kentindeki AT&T Stadyumu'nda gerçekleşen büyük bir boks etkinliğidir. Dünya çapında beş farklı dilde canlı olarak yayınlanan bu maç, boks tutkunları için heyecan verici anlar sunuyor. Ünlü YouTuber Jake Paul ve efsane boksör Mike Tyson'ın karşı karşıya geldiği bu maç, izleyicilere unutulmaz anlar yaşatıyor.",
+        "poster_path": "/dZqlRhJBcuHNQgoxC8phKgWC6W8.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28
+        ],
+        "popularity": 45.896,
+        "release_date": "2024-11-15",
+        "video": true,
+        "vote_average": 6.0,
+        "vote_count": 53
+      },
+      {
+        "backdrop_path": "/kXPCUNo7ALN0S03AbmTY9Ln6Fbc.jpg",
+        "id": 1201734,
+        "title": "God of Pain",
+        "original_title": "God of Pain",
+        "overview": "A man wakes up in the middle of the street with no idea where he is or how he ended up there. Soon he is forced to confront the demons he is battling within before a gateway to the underworld unlocks the secret of Algea the God of Pain.",
+        "poster_path": "/dF0FAFCfILaor5RBqdNHq24OaIn.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          878,
+          53
+        ],
+        "popularity": 29.482,
+        "release_date": "2024-08-20",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 56
+      },
+      {
+        "backdrop_path": "/rVbpucPpRyFXYV73AiCOrKknNJw.jpg",
+        "id": 84427,
+        "title": "House of Pleasures",
+        "original_title": "L'Apollonide, souvenirs de la maison close",
+        "overview": "The dawn of the 20th century: L’Apollonide, a luxurious and traditional brothel in Paris, is living its last days. In this closed world, where some men fall in love and others become viciously harmful, the women share their secrets, their fears, their joys and their pains.",
+        "poster_path": "/adkiqkEOKW8nMlfF8hVcaPWTAwB.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 14.015,
+        "release_date": "2011-09-21",
+        "video": false,
+        "vote_average": 6.576,
+        "vote_count": 251
+      },
+      {
+        "backdrop_path": "/t6Pnd8lzSeelNOOXraRfg5HizZD.jpg",
+        "id": 979250,
+        "title": "Demonte Colony 2",
+        "original_title": "டிமான்டி காலனி 2",
+        "overview": "Debbie attempts to contact the spirit of her deceased husband Sam, she inadvertently contacts Srinivasan, who had just died. This contact saves his life but leaves him in a coma for years. Later, Debbie unravels mystery about Lord Demonte sacrificing people and enslaves their spirits. Can Debbie break this cycle and help Srinivasan to wake up from his coma?",
+        "poster_path": "/lZmH9hea8fstTK49fplSQS0NWUd.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "ta",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "popularity": 6.096,
+        "release_date": "2024-08-15",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 12
+      },
+      {
+        "backdrop_path": null,
+        "id": 788188,
+        "title": "О",
+        "original_title": "О",
+        "overview": "",
+        "poster_path": null,
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "ru",
+        "genre_ids": [
+          16
+        ],
+        "popularity": 0.836,
+        "release_date": "2020-12-15",
+        "video": false,
+        "vote_average": 6.767,
+        "vote_count": 15
+      },
+      {
+        "backdrop_path": "/h2WNVAOgiWUWqG1TOlMiNtRoRRL.jpg",
+        "id": 105904,
+        "title": "Naked Poison",
+        "original_title": "獸性新人類",
+        "overview": "Nerdy office worker Min gets his kicks taking sneaky snaps of his female co-workers, spying on his neighbours having rough sex, and coating himself in oil before bashing one out to internet porn; things change, however, when he mixes ingredients from his late grandfather's medicine shop to create the ultimate aphrodisiac/date-rape drug, which he uses to satisfy both his sexual urges and his desire for revenge on office bullies Winnie and Peter.",
+        "poster_path": "/t2WlXZkUxliOVPw23TujDeUu65E.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "cn",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "popularity": 21.579,
+        "release_date": "2000-09-23",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 19
+      },
+      {
+        "backdrop_path": null,
+        "id": 352929,
+        "title": "Ovo",
+        "original_title": "Ovo",
+        "overview": "While a fascist party increases in power, Laurent flees the country. On the way which takes him to the exile, he remembers the milestones that have urged him to abandon everything.",
+        "poster_path": "/zDA5cqTaiDpGq8mC4B0LIBsSx6T.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          53,
+          18
+        ],
+        "popularity": 0.417,
+        "release_date": "2012-10-14",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 6
+      },
+      {
+        "backdrop_path": "/smjGg5K8e6zofjSSc5o5xOnflLI.jpg",
+        "id": 40108,
+        "title": "Emmanuelle: Queen of Sados",
+        "original_title": "Η Μαύρη Εμμανουέλα",
+        "overview": "A woman struggles to keep her stepdaughter from harms way after she hires an assassin to kill her husband, but the hitman turns and blackmails her for the crime.",
+        "poster_path": "/90bI5FQllcfB7ZjH0kPfhsewqmE.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "el",
+        "genre_ids": [
+          80,
+          18,
+          53
+        ],
+        "popularity": 80.703,
+        "release_date": "1980-02-01",
+        "video": false,
+        "vote_average": 6.311,
+        "vote_count": 114
+      },
+      {
+        "backdrop_path": "/cmT2WYpFBRk4UjQ0P984BoF8Eba.jpg",
+        "id": 957119,
+        "title": "Sidelined: The QB and Me",
+        "original_title": "Sidelined: The QB and Me",
+        "overview": "Dallas, güçlü iradeli ancak yük altında bir dansçıdır ve ülkenin en iyi dans okuluna, merhum annesinin de mezun olduğu okula, girmeye kararlıdır. Ancak bu hayal, alaycı ama içten içe yas tutan futbol yıldızı Drayton’ın benzersiz hikayesiyle hayatına ani bir şekilde dahil olmasıyla beklenmedik bir şekilde rayından çıkar. İkisi birlikte hayallerine ulaşmayı başarabilecek mi, yoksa hayalleri bir kenara mı itilecek?",
+        "poster_path": "/j5s5cNCayCqGJuRvDihgQhjgoEP.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10749
+        ],
+        "popularity": 123.349,
+        "release_date": "2025-02-06",
+        "video": false,
+        "vote_average": 5.792,
+        "vote_count": 36
+      },
+      {
+        "backdrop_path": "/4cd9YihTHx1j8oRdlwEa1emKiAl.jpg",
+        "id": 81774,
+        "title": "Exploits of a Young Don Juan",
+        "original_title": "Les Exploits d'un jeune Don Juan",
+        "overview": "Roger büyük bir malikanede yaşayan 16 yaşında bir gençtir.. Malikanede pek çok kadın vardır, akrabaları, hizmetciler, tüm bunların içinde Ergenlik döneminin başlangıcında olan Roger'in aklı fikri cinselliktedir.. Bir süre sonra I. Dünya Savaşı patlak verir ve tüm erkekler savaşa gönderilir, malikanede erkek olarak sadece Roger kalmıştır bu da kendisine pek çok fırsat getirecek ve tüm kadınların ilgisini üstüne toplayacaktır.. Roger artık hayallerini kurduğu sıcak anları yaşamaya hazırdır..",
+        "poster_path": "/xvtRgQIRegLjsjaIkKQbh0hk3Qy.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 49.018,
+        "release_date": "1986-11-04",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 250
+      },
+      {
+        "backdrop_path": "/2qdA7BufVgCzw0M11WfLcwBQOYL.jpg",
+        "id": 53459,
+        "title": "F",
+        "original_title": "F",
+        "overview": "A group of teachers must defend themselves from a gang of murderous kids when their school comes under siege after hours.",
+        "poster_path": "/pVIEx8sru5F6NErffwVxs815VYY.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "popularity": 6.746,
+        "release_date": "2010-09-07",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 297
+      },
+      {
+        "backdrop_path": "/zbTaYrQzZaaEf1SZlv3RTZiUvZw.jpg",
+        "id": 86331,
+        "title": "Desire",
+        "original_title": "Q",
+        "overview": "Ülke çapındaki ekonomik krizle kötü duruma giden sosyal bağlam içerisinde, birkaç insanın yaşamı arzuyu temsil eden bir karakter olan Cecile ile tanıştığında alt üst olacaktır.",
+        "poster_path": "/wxvvNXY3n0637cOcdeC61eyVAnC.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "popularity": 35.309,
+        "release_date": "2011-10-06",
+        "video": false,
+        "vote_average": 6.29,
+        "vote_count": 1300
+      },
+      {
+        "backdrop_path": "/lgkPzcOSnTvjeMnuFzozRO5HHw1.jpg",
+        "id": 519182,
+        "title": "Çılgın Hırsız 4",
+        "original_title": "Despicable Me 4",
+        "overview": "Gru ve Lucy ile kızları Margo, Edith ve Agnes'in Gru ailesinin yeni üyesi, babasına eziyet etmeye kararlı Gru Junior'ı kucaklarına almasıyla yeni bir bölüme başlıyor. Gru, yeni bir düşman olan Maxime Le Mal ve onun çekici ama tehlikeli kız arkadaşı Valentina ile karşı karşıya kalır ve ailece kaçmak zorunda kalırlar.",
+        "poster_path": "/t61Yo3P7k0rBO4Oq9whSj0nX5Fc.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10751,
+          35,
+          878
+        ],
+        "popularity": 297.097,
+        "release_date": "2024-06-20",
+        "video": false,
+        "vote_average": 7.058,
+        "vote_count": 2599
+      },
+      {
+        "backdrop_path": "/jjuDhXlAY7yHc50t8gEZWvlkoEn.jpg",
+        "id": 337167,
+        "title": "Özgürlüğün Elli Tonu",
+        "original_title": "Fifty Shades Freed",
+        "overview": "Anastasia ve Christian, yaşadıkları zorlu ayrılıkların ve iniş çıkışların ardından nihayet mutlu sona ulaşmışlardır. Tutkulu aşkları, nikah yüzükleri ve görkemli bir evlilik töreni ile mutlu sona ulaşmıştır. Ancak Anastasia'nın peşine düşen Jack, çifte huzur vermez. Anastasia'nın lüks ve aşkla bezeli mükemmel hayatı bir kez daha sarsıntılara sahne olacaktır.",
+        "poster_path": "/bwDgBwC2Sxn8WNLjGYZbPaT8TzJ.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "popularity": 74.554,
+        "release_date": "2018-01-17",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 8059
+      },
+      {
+        "backdrop_path": "/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
+        "id": 1022789,
+        "title": "Ters Yüz 2",
+        "original_title": "Inside Out 2",
+        "overview": "Disney ve Pixar'ın \"Ters Yüz 2\" filminde, ergenliğe adım atan Riley'nin zihnine döneriz. Merkez'de aniden bir tadilat başlar ve hiç hesapta olmayan yeni Duygular'a yer açılır! Uzun zamandır işleri başarıyla yürüten Neşe, Üzüntü, Öfke, Korku ve Tiksinti, Kaygı geldiğinde neler hissedeceklerini bilemez. Üstelik Kaygı yalnız değildir, beraberinde Utanç, Gıpta ve Bıkkınlık da gelmiştir.",
+        "poster_path": "/xYqeUheNCep7ll9AotOcclGhP0X.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          12,
+          35,
+          10751
+        ],
+        "popularity": 255.684,
+        "release_date": "2024-06-11",
+        "video": false,
+        "vote_average": 7.559,
+        "vote_count": 5612
+      },
+      {
+        "backdrop_path": "/Ar7QuJ7sJEiC0oP3I8fKBKIQD9u.jpg",
+        "id": 98,
+        "title": "Gladyatör",
+        "original_title": "Gladiator",
+        "overview": "Roma İmparatorluğu'na en parlak dönemi yaşatan General Maximus, girdiği bir meydan savaşından daha zaferle çıkar, artık tek hayali bir an önce evine dönerek karısı ve ailesine kavuşmaktır.  Fakat, zamanın Roma İmparatoru Marcus Aurelius, Maximus'a önemli bir görev verir ve iktidara sahip çıkmasını ister. Bunun üzerine imparatorun oğlu olan Commodus, iktidarın elinden alınacağını anlayınca general ve ailesini öldürme emri verir. Maximus ölümden zor kurtulur ve gladyatörler arenasına sürgün edilir. Yıllar sonra Roma'ya geri dönen güçlü gladyatör Maximus'un tek amacı Commodus'u öldürerek karısı ve oğlunun katledilmesinin intikamını almaktır.",
+        "poster_path": "/kRSCWiRPEVhUIleK1bZKMZ5uZ4p.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          18,
+          12
+        ],
+        "popularity": 97.494,
+        "release_date": "2000-05-04",
+        "video": false,
+        "vote_average": 8.218,
+        "vote_count": 19425
+      },
+      {
+        "backdrop_path": "/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
+        "id": 120,
+        "title": "Yüzüklerin Efendisi: Yüzük Kardeşliği",
+        "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+        "overview": "İyiyle kötü arasındaki mücadelenin epik bir anlatımı olan bu filmde, dünyanın kaderini değişterecek olan bir yüzükten kurtulmak için verilen mücadele anlatılıyor. Yıllar önce üretilen ve Orta Dünya topraklarına kandan başka hiçbir şey getirmeyen yüzüklerin sonuncusu, üretiminden yüz yıllar sonra ortaya çıkar. Amcasının kendisine emanet ettiği yüzüğün nelere kadir olduğundan habersiz olan Frodo, büyücü Gandalf'ın anlattıkları sonrasında dehşete kapılır. Bu yüzükten ve savaşlardan kurtulmanın, gücünü toplamaya çalışan Sauron'u engellemenin tek yolu yüzüğü yok etmektir. Yüzüğü yok edilebileceği tek yer olan Mordor'a götürmek için kendini feda eden savaşçılardan oluşan bir ekip oluşturulur. Çok uzun ve çetin geçecek olan yolculuk başlar. Orta Dünya'nın kaderi, bu insanların ellerindedir.",
+        "poster_path": "/37kdeAEyw8YlVLaAhYazBRAni9S.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          14,
+          28
+        ],
+        "popularity": 132.274,
+        "release_date": "2001-12-18",
+        "video": false,
+        "vote_average": 8.4,
+        "vote_count": 25682
+      },
+      {
+        "backdrop_path": "/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
+        "id": 693134,
+        "title": "Dune: Çöl Gezegeni Bölüm İki",
+        "original_title": "Dune: Part Two",
+        "overview": "Paul Atreides, Arrakis gezegeni için mücadeleye devam ediyor ve Fremen halkının liderliğini üstleniyor. Paul, Harkonnen ailesinin saldırısından kurtulduktan sonra, Fremenlerle birlikte yaşamaya başlar. Fremenlerin yardımıyla, Arrakis'in kontrolüne yeniden sahip olmak ve evrenin kaderini değiştirmek için mücadele eder. Paul, Arrakis gezegeninin Fremen halkı tarafından Mesih olarak kabul edilir. Fremen'ler, Paul'ün liderliğinde Arrakis gezegenini özgürleştireceklerine ve galakside eşitlik ve adaleti sağlayacaklarına inanırlar.",
+        "poster_path": "/tihf8Trht9zP3scmUQfvGlAY9FU.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          12
+        ],
+        "popularity": 148.147,
+        "release_date": "2024-02-27",
+        "video": false,
+        "vote_average": 8.1,
+        "vote_count": 6370
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

@@ -1,0 +1,1016 @@
+{
+  "adult": false,
+  "backdrop_path": "/cchlQWYrnMPyl1EbjZWCzeAz8l5.jpg",
+  "created_by": [
+    {
+      "id": 1613574,
+      "credit_id": "6776b1304111599e38130202",
+      "name": "Radek Bajgar",
+      "original_name": "Radek Bajgar",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 544310,
+      "credit_id": "6776b13c4111599e3813020f",
+      "name": "Dušan Klein",
+      "original_name": "Dušan Klein",
+      "gender": 2,
+      "profile_path": "/rPuwE61Re7MT7GqqtEYjnXjvYkE.jpg"
+    },
+    {
+      "id": 2208391,
+      "credit_id": "6776b1453fc76ea58892f4a6",
+      "name": "Petr Erben",
+      "original_name": "Petr Erben",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2005-09-05",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 35,
+      "name": "Komedi"
+    }
+  ],
+  "homepage": "https://tv.nova.cz/porad/ulice",
+  "id": 36361,
+  "in_production": true,
+  "languages": [
+    "cs"
+  ],
+  "last_air_date": "2025-02-26",
+  "last_episode_to_air": {
+    "id": 5954372,
+    "name": "137. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-06",
+    "episode_number": 137,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 20,
+    "show_id": 36361,
+    "still_path": null
+  },
+  "name": "Ulice",
+  "next_episode_to_air": {
+    "id": 5954373,
+    "name": "138. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-07",
+    "episode_number": 138,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 20,
+    "show_id": 36361,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 711,
+      "logo_path": "/twuMX6vryssdv8oY01ZD5eNTKLt.png",
+      "name": "TV Nova",
+      "origin_country": "CZ"
+    },
+    {
+      "id": 5174,
+      "logo_path": "/urFAfEj1atKaaI9fMyvsdaaXqfB.png",
+      "name": "Voyo",
+      "origin_country": "CZ"
+    }
+  ],
+  "number_of_episodes": 4132,
+  "number_of_seasons": 20,
+  "origin_country": [
+    "CZ"
+  ],
+  "original_language": "cs",
+  "original_name": "Ulice",
+  "overview": "",
+  "popularity": 3651.829,
+  "poster_path": "/gFEHva8Csx18hMGJJZ6gi4sFSKR.jpg",
+  "production_companies": [
+    {
+      "id": 119646,
+      "logo_path": null,
+      "name": "CET 21",
+      "origin_country": "CZ"
+    },
+    {
+      "id": 31292,
+      "logo_path": null,
+      "name": "TV Nova",
+      "origin_country": "CZ"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CZ",
+      "name": "Czech Republic"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2005-09-04",
+      "episode_count": 9,
+      "id": 319973,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2005-09-05",
+      "episode_count": 214,
+      "id": 47290,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/kOJKYCiBDFGHKrgMXLnahb9UDoP.jpg",
+      "season_number": 1,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2006-09-01",
+      "episode_count": 215,
+      "id": 47291,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/s5DFhguD3TJs6jiyDNBhH7LRwJo.jpg",
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2007-09-03",
+      "episode_count": 214,
+      "id": 47292,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/1FHJaert1JNUGnXzTbdQmJgLVcj.jpg",
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2008-09-01",
+      "episode_count": 214,
+      "id": 104472,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/6SKUhTI63zO51DNw06BrwjwQJsK.jpg",
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2009-08-31",
+      "episode_count": 215,
+      "id": 104473,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/4yX2EFkf6tP5qCuKccJ0fPFZdyK.jpg",
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2010-08-30",
+      "episode_count": 205,
+      "id": 104475,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/vbZRwWlnPZRnWigYcePwZi71CS9.jpg",
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-09-05",
+      "episode_count": 200,
+      "id": 104474,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/hPeSKc65KlsLdAm3DpTBpkzXXYi.jpg",
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2012-08-27",
+      "episode_count": 210,
+      "id": 104477,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/4lCUIUmtChsHJlkMAQx6NOA1AkE.jpg",
+      "season_number": 8,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2013-09-02",
+      "episode_count": 205,
+      "id": 104476,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/asJTTbki5FLkLjcOg6iM1fEsph3.jpg",
+      "season_number": 9,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2014-08-18",
+      "episode_count": 215,
+      "id": 85412,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/kIqi39xk6S02Ut4IZsFEuhz9ukF.jpg",
+      "season_number": 10,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2015-08-24",
+      "episode_count": 210,
+      "id": 104478,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/vAsy7tRPZYSboStwGkVT3qAOtS.jpg",
+      "season_number": 11,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2016-08-22",
+      "episode_count": 215,
+      "id": 104479,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/xEcPzEMy9D9OyW0PUsnORBA8nq4.jpg",
+      "season_number": 12,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2017-08-21",
+      "episode_count": 215,
+      "id": 104480,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": "/pGdAKjEaMPnmVFA4dL1Jteqie3X.jpg",
+      "season_number": 13,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2018-08-20",
+      "episode_count": 215,
+      "id": 109241,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": "/buACNv707IcT1FraZei2ngfI1rl.jpg",
+      "season_number": 14,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2019-08-19",
+      "episode_count": 160,
+      "id": 246215,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": "/l490DFUKvUTwK92k1RsTNBSKUV3.jpg",
+      "season_number": 15,
+      "vote_average": 5.0
+    },
+    {
+      "air_date": "2020-08-17",
+      "episode_count": 215,
+      "id": 246216,
+      "name": "Sezon 16",
+      "overview": "",
+      "poster_path": "/iLb8zSNaFgn7wjKilgsCYjOXsSp.jpg",
+      "season_number": 16,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2021-08-16",
+      "episode_count": 215,
+      "id": 246217,
+      "name": "Sezon 17",
+      "overview": "",
+      "poster_path": "/ylGGvhGxPqFpFwtrOPafcVqQbfq.jpg",
+      "season_number": 17,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2022-08-15",
+      "episode_count": 215,
+      "id": 304082,
+      "name": "Sezon 18",
+      "overview": "",
+      "poster_path": "/kKRTwNDMVIKm6PIBKHrweSDoTbU.jpg",
+      "season_number": 18,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2023-08-07",
+      "episode_count": 215,
+      "id": 351796,
+      "name": "Sezon 19",
+      "overview": "",
+      "poster_path": "/lOc7Zzt9p1MhEUef7t5MlYmSHp6.jpg",
+      "season_number": 19,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2024-08-19",
+      "episode_count": 150,
+      "id": 405572,
+      "name": "Sezon 20",
+      "overview": "",
+      "poster_path": "/xYfEGrTqAKNRKOARmvZhh6NNgJO.jpg",
+      "season_number": 20,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "Český"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.6,
+  "vote_count": 31,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 935214,
+        "known_for_department": "Acting",
+        "name": "Tereza Brodská",
+        "original_name": "Tereza Brodská",
+        "popularity": 2.26,
+        "profile_path": "/4BXvLe1tdIdepgoLHUZnfnuRoCO.jpg",
+        "character": "Bára Krausová",
+        "credit_id": "6776b175f6fa01a2aa61507c",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143555,
+        "known_for_department": "Acting",
+        "name": "Petr Vacek",
+        "original_name": "Petr Vacek",
+        "popularity": 2.667,
+        "profile_path": "/dQFxnu4tb50eUV1dZDxO3Q0OxDy.jpg",
+        "character": "Tomáš Jordán",
+        "credit_id": "611cb07f2e0697007353bcf9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1253819,
+        "known_for_department": "Acting",
+        "name": "Jakub Štáfek",
+        "original_name": "Jakub Štáfek",
+        "popularity": 1.371,
+        "profile_path": "/1OLKt71UOlFgqgIJWeCDuZCFHq2.jpg",
+        "character": "Matěj Jordán",
+        "credit_id": "611cb0e685c0a2007f1ba6d4",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1253818,
+        "known_for_department": "Acting",
+        "name": "Patricie Solaříková",
+        "original_name": "Patricie Solaříková",
+        "popularity": 0.665,
+        "profile_path": "/d91OswDW6mL0V9JsrQXWQAUA7Bn.jpg",
+        "character": "Tereza Kučerová",
+        "credit_id": "6776b1954111599e3813023c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 213456,
+        "known_for_department": "Acting",
+        "name": "Rudolf Hrušínský",
+        "original_name": "Rudolf Hrušínský",
+        "popularity": 1.159,
+        "profile_path": "/ir8tHQeqjscG5WYD1mqXYtR3vJK.jpg",
+        "character": "Vlastimil Pešek",
+        "credit_id": "611cbc16387651002e75239f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 111220,
+        "known_for_department": "Acting",
+        "name": "Vanda Hybnerová",
+        "original_name": "Vanda Hybnerová",
+        "popularity": 1.838,
+        "profile_path": "/49Z790kIcOb7531x6wMW4L3fjiH.jpg",
+        "character": "Eva Knoblochová",
+        "credit_id": "66112c2dd768fe017b424132",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1360934,
+        "known_for_department": "Acting",
+        "name": "Jiří Štrébl",
+        "original_name": "Jiří Štrébl",
+        "popularity": 1.735,
+        "profile_path": "/pjTJqd7omD38C3Pk584s8ia0aA2.jpg",
+        "character": "Miloš Knobloch",
+        "credit_id": "66112c495b370d0157635bcc",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1527404,
+        "known_for_department": "Acting",
+        "name": "Alena Štréblová",
+        "original_name": "Alena Štréblová",
+        "popularity": 1.448,
+        "profile_path": "/s0a1T7HrQRxXJVoI04xyuhnwIbK.jpg",
+        "character": "Milena Pumrová",
+        "credit_id": "66113839d768fe016241bad1",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2540407,
+        "known_for_department": "Acting",
+        "name": "Pavel Novotný",
+        "original_name": "Pavel Novotný",
+        "popularity": 0.011,
+        "profile_path": "/kA4InwO6Hfsigf9zEQygXhDWAdd.jpg",
+        "character": "Radek Mastný",
+        "credit_id": "66113929d768fe017b424bc5",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1247355,
+        "known_for_department": "Acting",
+        "name": "Matouš Ruml",
+        "original_name": "Matouš Ruml",
+        "popularity": 0.657,
+        "profile_path": "/o1vb5chlQ7SR7ncIVoaOG2goB12.jpg",
+        "character": "David Kučera",
+        "credit_id": "6774cb9edce78664ff926d71",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4637744,
+        "known_for_department": "Acting",
+        "name": "Filip Hornyak",
+        "original_name": "Filip Hornyak",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Alex Nykl",
+        "credit_id": "6776b1d5f6fa01a2aa615090",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3374568,
+        "known_for_department": "Acting",
+        "name": "Chila Ta Thuy",
+        "original_name": "Chila Ta Thuy",
+        "popularity": 0.001,
+        "profile_path": "/nPPwzrWKqCsBiIT6bFK2omipYRu.jpg",
+        "character": "Chili Ta",
+        "credit_id": "6776b1eb4111599e3813026c",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 135681,
+        "known_for_department": "Acting",
+        "name": "Vilma Cibulková",
+        "original_name": "Vilma Cibulková",
+        "popularity": 0.771,
+        "profile_path": "/5j88OXB4F22RQgbUMrOK7TQunjO.jpg",
+        "character": "Ivana Drápalová",
+        "credit_id": "6776b1fbf6fa01a2aa6150a3",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4644508,
+        "known_for_department": "Acting",
+        "name": "Lukáš Masár ml.",
+        "original_name": "Lukáš Masár ml.",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Milošek Knobloch",
+        "credit_id": "6776b25198f2f82fc492e429",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1071355,
+        "known_for_department": "Acting",
+        "name": "Aneta Krejčíková",
+        "original_name": "Aneta Krejčíková",
+        "popularity": 1.85,
+        "profile_path": "/bZJN1O30CXhd6dy5bW82sQZ6xCs.jpg",
+        "character": "Gabriela Hermanová",
+        "credit_id": "6776b2ba0f248e8508130039",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 935215,
+        "known_for_department": "Acting",
+        "name": "Michaela Badinková",
+        "original_name": "Michaela Badinková",
+        "popularity": 2.081,
+        "profile_path": "/iaBQEQOnR2ozIbXOxg6nqwU8sZc.jpg",
+        "character": "Lenka Drápalová-Hejlová",
+        "credit_id": "67c5aad1ece01ceda1e76c65",
+        "order": 16
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": []
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/i8iqYtAy9qcO5RSrA1f6fY1n6SN.jpg",
+        "id": 235484,
+        "name": "Suidooster",
+        "original_name": "Suidooster",
+        "overview": "Suidooster is a South African television soap opera produced by Suidooster Films which revolves around a matriarch, her family, friends and the people of Suidooster, a small shopping and business centre in the fictional Cape Town suburb of Ruiterbosch.",
+        "poster_path": "/naCgSiacvV685kait6fBvhVhdce.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "af",
+        "genre_ids": [
+          10766
+        ],
+        "popularity": 3176.151,
+        "first_air_date": "2015-11-16",
+        "vote_average": 7.381,
+        "vote_count": 21,
+        "origin_country": [
+          "ZA"
+        ]
+      },
+      {
+        "backdrop_path": "/j5CR0gFPjwgmAXkV9HGaF4VMjIW.jpg",
+        "id": 257064,
+        "name": "Volta por Cima",
+        "original_name": "Volta por Cima",
+        "overview": "",
+        "poster_path": "/nyN8R0P1Hqwq7ksJz4O2BIAUd4W.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "pt",
+        "genre_ids": [
+          10766,
+          18,
+          35
+        ],
+        "popularity": 2974.228,
+        "first_air_date": "2024-09-30",
+        "vote_average": 5.5,
+        "vote_count": 17,
+        "origin_country": [
+          "BR"
+        ]
+      },
+      {
+        "backdrop_path": "/93R3gd0iNqnib1JKwbWXksDcMY.jpg",
+        "id": 255150,
+        "name": "Pituca Sin Lucas",
+        "original_name": "Pituca Sin Lucas",
+        "overview": "",
+        "poster_path": "/cjqJqODyUbul2GZL7ti2B5SVv7I.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          35,
+          18,
+          10751
+        ],
+        "popularity": 33.42,
+        "first_air_date": "2024-05-06",
+        "vote_average": 7.0,
+        "vote_count": 7,
+        "origin_country": [
+          "PE"
+        ]
+      },
+      {
+        "backdrop_path": "/1vgdmeW6keP47DQ1tGwfVCdUKqu.jpg",
+        "id": 111551,
+        "name": "Haireta mou ton Platano",
+        "original_name": "Χαιρέτα μου τον Πλάτανο",
+        "overview": "The small Greek village of Platanos (Plane Tree) buries the elderly recluse Vangelas and notifies the deceased's estranged children and grandchildren about his death. Vangela's will leaves 3 million euros to his family, but requires them to move to the village and obey certain terms in order to inherit.",
+        "poster_path": "/vAu6or1W4G1q7wJxQfDmATtnIg.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "el",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 93.917,
+        "first_air_date": "2020-10-12",
+        "vote_average": 6.1,
+        "vote_count": 10,
+        "origin_country": [
+          "GR"
+        ]
+      },
+      {
+        "backdrop_path": "/81FKp9UMwZZ7Xk2ksV6z8qjG6pU.jpg",
+        "id": 85231,
+        "name": "GH dúo",
+        "original_name": "GH dúo",
+        "overview": "",
+        "poster_path": "/sgPv3qMYHKwxz9KQxjyQokmPUHj.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 514.055,
+        "first_air_date": "2019-01-08",
+        "vote_average": 6.5,
+        "vote_count": 4,
+        "origin_country": [
+          "ES"
+        ]
+      },
+      {
+        "backdrop_path": "/4qpD3fuXqL7eGclUVEwTz24eVlL.jpg",
+        "id": 91221,
+        "name": "Gefragt - Gejagt",
+        "original_name": "Gefragt - Gejagt",
+        "overview": "",
+        "poster_path": "/syHMWoToYO2wuz7KrOJdN8SToG7.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 136.044,
+        "first_air_date": "2012-07-08",
+        "vote_average": 5.6,
+        "vote_count": 5,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 242570,
+        "name": "Crystal",
+        "original_name": "Crystal",
+        "overview": "",
+        "poster_path": "/1Ccvyvtmo5gT5j3Jk2sTHvp1ZwY.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ar",
+        "genre_ids": [],
+        "popularity": 2.015,
+        "first_air_date": "2023-12-30",
+        "vote_average": 8.0,
+        "vote_count": 1,
+        "origin_country": [
+          "LB"
+        ]
+      },
+      {
+        "backdrop_path": "/4ErOWmDGyGk0qCK1J8blAoj1a7a.jpg",
+        "id": 252373,
+        "name": "A Promessa",
+        "original_name": "A Promessa",
+        "overview": "",
+        "poster_path": "/uptgxt2apx5wwWItQzqL0HwhjZC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "pt",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 1860.179,
+        "first_air_date": "2024-06-18",
+        "vote_average": 6.0,
+        "vote_count": 15,
+        "origin_country": [
+          "PT"
+        ]
+      },
+      {
+        "backdrop_path": "/rv5gu2gYbOEYoArzH7bqJuMxvBB.jpg",
+        "id": 115646,
+        "name": "Lisa",
+        "original_name": "Lisa",
+        "overview": "",
+        "poster_path": "/w2nOl7KhwcUj11YxEi9Nknj9cqu.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "nl",
+        "genre_ids": [
+          18,
+          10751
+        ],
+        "popularity": 91.489,
+        "first_air_date": "2021-01-25",
+        "vote_average": 6.8,
+        "vote_count": 40,
+        "origin_country": [
+          "BE"
+        ]
+      },
+      {
+        "backdrop_path": "/skiuEBlxEC8qCk6nLR6fJvSM1JT.jpg",
+        "id": 247885,
+        "name": "Papás por conveniencia",
+        "original_name": "Papás por conveniencia",
+        "overview": "Tino is a single father, full of debt, and faces tough challenges in raising his two children. Aidé is a great businesswoman and mother of two teenagers, she seems to have it all, at least on the surface. One day, Tino discovers that he is the father of Aidé's children, and together, they decide to build a new family, even if, at first, it is for their interests. However, they will realize that things are not as easy as they thought. Since their house has become a battlefield, they must overcome several obstacles to find love and achieve happiness.",
+        "poster_path": "/cqi969oMHiTVTrKOqJxFJ4kSSYM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 64.357,
+        "first_air_date": "2024-10-21",
+        "vote_average": 7.8,
+        "vote_count": 54,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
+        "id": 94722,
+        "name": "Tagesschau",
+        "original_name": "Tagesschau",
+        "overview": "German daily news program, the oldest still existing program on German television.",
+        "poster_path": "/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          10763
+        ],
+        "popularity": 1045.787,
+        "first_air_date": "1952-12-26",
+        "vote_average": 6.8,
+        "vote_count": 237,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "backdrop_path": "/enVrO8TRkdT8dmYXTfI4sEjR5Kp.jpg",
+        "id": 222766,
+        "name": "The Day of the Jackal",
+        "original_name": "The Day of the Jackal",
+        "overview": "Rakipsiz ve yakalanması son derece zor bir yalnız suikastçı olan Çakal, en yüksek ücret karşılığında suikastlar gerçekleştirerek hayatını kazanmaktadır. Ancak son cinayetinin ardından, Avrupa’da heyecan dolu bir kedi-fare kovalamacasında Çakal’ın izini sürmeye başlayan ve ardında yıkım bırakan azimli bir İngiliz istihbarat subayı Bianca  ile karşılaşır.",
+        "poster_path": "/tYLecM3WSEjlkKhkGiH5G68Dprm.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          9648
+        ],
+        "popularity": 293.905,
+        "first_air_date": "2024-11-07",
+        "vote_average": 8.279,
+        "vote_count": 516,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
+        "id": 119051,
+        "name": "Wednesday",
+        "original_name": "Wednesday",
+        "overview": "Zeki, alaycı ve azıcık içi geçmiş bir kız olan Wednesday Addams, Nevermore Akademisinde yeni dostlar ve düşmanlar edinirken art arda gerçekleşen cinayetleri araştırır.",
+        "poster_path": "/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          9648,
+          35
+        ],
+        "popularity": 130.303,
+        "first_air_date": "2022-11-23",
+        "vote_average": 8.433,
+        "vote_count": 8902,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/3ILUdTEetxZZ8RkPxf5e0H9pCcP.jpg",
+        "id": 4327,
+        "name": "Mr. Bean",
+        "original_name": "Mr. Bean",
+        "overview": "Sayısız skeç aracılığıyla tuhaf ve komik bir karakter olan Mr. Bean'in başına gelen talihsizlikleri anlatıyor. Derinlemesine basit bir zihne sahip olan bu yetişkin, en basit görevlerin bile kendisi için olağanüstü bir çaba gerektirdiği ve her zaman beklenmedik derecede eğlenceli bir hale dönüştüğü durumlarla karşılaşıyor.",
+        "poster_path": "/pUNQV35kDaKuejnXGNiUeEBurNE.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751,
+          18
+        ],
+        "popularity": 117.001,
+        "first_air_date": "1990-01-01",
+        "vote_average": 7.951,
+        "vote_count": 1371,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+        "id": 93405,
+        "name": "Squid Game",
+        "original_name": "오징어 게임",
+        "overview": "Para sıkıntısı çeken yüzlerce oyuncu, çocuk oyunlarında yarışmaları için aldıkları tuhaf daveti kabul eder. İçeride onları cazip bir ödül ve ölüm riski beklemektedir.",
+        "poster_path": "/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          10759,
+          9648,
+          18
+        ],
+        "popularity": 603.484,
+        "first_air_date": "2021-09-17",
+        "vote_average": 7.862,
+        "vote_count": 15548,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/5C3UcPKVcg3rwGBYPE18wXpZMw8.jpg",
+        "id": 106379,
+        "name": "Fallout",
+        "original_name": "Fallout",
+        "overview": "Kıyametten 200 yıl sonra, lüks nükleer sığınakların edepli sakinleri, kendilerini yüzeyde bekleyen inanılmaz karmaşık, oldukça tuhaf ve çok vahşi dünyaya adım atmak zorunda kalıyor.",
+        "poster_path": "/AnsSKR9LuK0T9bAOcPVA3PUvyWj.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 115.839,
+        "first_air_date": "2024-04-10",
+        "vote_average": 8.274,
+        "vote_count": 1755,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+        "id": 1399,
+        "name": "Game of Thrones",
+        "original_name": "Game of Thrones",
+        "overview": "Krallık dediğin savaşsız olur mu? En güçlü krallığı kurup, huzuru sağlamış olsan bile bu gücü elinde nasıl koruyacaksın? Burada yanlış yapana yer yok, affetmek yok. Kuzey Krallığının hükümdarı Lord Ned Stark, uzun ve zorlu savaşlardan sonra anayurduna dönüp krallığını bütünlük içerisinde tutmayı başarmıştır. Kral Robert Baratheon ile yıllarca omuz omuza çarpışan ve Baratheon'un kral olmasını sağlayan Ned Stark'ın tek istediği kuzey sınırlarını koruyan krallığında ailesiyle ve halkıyla yaşamaktır. \n\nFakat suyun öte yanında kendi topraklarından ve krallığından kovulduğunu iddia eden Viserys Targaryen , kız kardeşi Daenerys'i barbar kavimlerin başı Han Drogo'ya vererek, güç birliği planları yapmaktadır. Tahtını büyük bir iştahla geri isteyen ama kraliyet oyunlarından habersiz olan Viserys'in planları Kral Baratheon'a ulaşır. Savaş alanında büyük cengaver olan ama ülke ve aile yönetiminde aynı başarıyı tutturamayan Baratheon'un tamamen güvenebileceği ve her yanlış hamlesini arkasından toplayacak yeni bir sağ kola ihtiyacı vardır. Kuzeyin Lordu Ned Stark bu görev için seçilen tek aday isimdir. Kış yaklaşıyor...\n\nHanedan entrikaları, kapılı kapılar ardında dönen oyunlar, birilerinin kuyusunu kazmak için düşmanın koynuna girmekten çekinmeyen kadınlar, kardeşler arası çekişmeler, dışlanmalar... Hepsi tek bir hedef için: Taht kavgası..",
+        "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 723.189,
+        "first_air_date": "2011-04-17",
+        "vote_average": 8.5,
+        "vote_count": 24677,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lOr9NKxh4vMweufMOUDJjJhCRHW.jpg",
+        "id": 85271,
+        "name": "WandaVision",
+        "original_name": "WandaVision",
+        "overview": "Yorucu bir hayatı arkalarında bırakmak isteyen süper kahramanlar Wanda ve Vision, güçlerini kullanmak zorunda olmadıkları bir hayatı arzular. Bunun için de sıradan bir yaşam sürebilecekleri idealize edilmiş bir banliyöde yaşamaya başlarlar. Artık geçmişte yaşadıkları zorlukları arkalarında bırakıp sonunda istedikleri hayata kavuştuklarını düşünen Wanda ve Vision, çok geçmeden hiçbir şeyin göründüğü gibi olmadığını keşfeder.",
+        "poster_path": "/sgCHdBJ1w0vJNUrW1Sq90KEXv9j.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          9648,
+          18
+        ],
+        "popularity": 83.448,
+        "first_air_date": "2021-01-15",
+        "vote_average": 8.2,
+        "vote_count": 12130,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/6gN8DYnIEln8v7OhRy61c57w0Xy.jpg",
+        "id": 124364,
+        "name": "FROM",
+        "original_name": "FROM",
+        "overview": "Amerika Birleşik Devletleri'nin ortasındaki kabus gibi bir şehir, içine giren herkesi tuzağa düşürür. Kasaba sakinleri, normallik duygusunu sürdürmek ve bir çıkış yolu aramak için savaşırken, güneş battığında ortaya çıkan korkunç yaratıklar da dahil olmak üzere, çevredeki ormandan gelen tehditlere karşı da hayatta kalmak için çabalar.",
+        "poster_path": "/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          18,
+          10765
+        ],
+        "popularity": 435.649,
+        "first_air_date": "2022-02-20",
+        "vote_average": 8.187,
+        "vote_count": 1758,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/b7wyaeJGU2Q4ql7xZr52vdW5TKp.jpg",
+        "id": 2316,
+        "name": "‎Ofis‎",
+        "original_name": "The Office",
+        "overview": "Çalışanlarının mutluluğunu gözeterek şirket kurallarını esnetmeye çalışan, ara sıra masumane oyunların kurbanı, kaba ve taş kalpli bir şef: Michael Scott.\n\nHepsinin kendince takıntıları olan farklı yaş gruplarından personeliyle ile The Office çalışanlarının hayatlarına şöyle bir göz atıyor; bıkkın aynı zamanda yetenekli satış elemanı Jim, onun sosyopat, yalaka düşmanı Dwight, kibar ve dürüst resepsiyonisti Pam ve isteksiz, kayıtsız stajyeri Ryan.",
+        "poster_path": "/dg9e5fPRRId8PoBE0F6jl5y85Eu.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 310.966,
+        "first_air_date": "2005-03-24",
+        "vote_average": 8.6,
+        "vote_count": 4390,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

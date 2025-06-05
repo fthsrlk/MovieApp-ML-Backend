@@ -1,0 +1,807 @@
+{
+  "adult": false,
+  "backdrop_path": "/u7AZ5CdT2af8buRjmYCPXNyJssd.jpg",
+  "belongs_to_collection": {
+    "id": 1421776,
+    "name": "熊猫计划（系列）",
+    "poster_path": "/rO62kjEpxKoi22euZlM11o2hRJe.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Aksiyon"
+    },
+    {
+      "id": 35,
+      "name": "Komedi"
+    }
+  ],
+  "homepage": "",
+  "id": 1160956,
+  "imdb_id": "tt28630624",
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_title": "熊猫计划",
+  "overview": "Dünya çapında sansasyon yaratan tuhaf bir pandayı konu alıyor. Orta Doğu'dan bir zengin, bu pandayı kendi malikanesinde istemeye karar verir ve pandayı kaçırıp malikanesine getirmeleri için paralı askerler tutar. Tesadüf eseri, pandanın koruyucusu... Jackie Chan olur. Jackie, dövüş sanatlarındaki yeteneklerini kullanarak düşmanları alt etmek ve hayvanı kurtarmak zorundadır.",
+  "popularity": 559.623,
+  "poster_path": "/rO62kjEpxKoi22euZlM11o2hRJe.jpg",
+  "production_companies": [
+    {
+      "id": 30324,
+      "logo_path": "/dgwcWHsusZtDCDJ7rUikk452lBd.png",
+      "name": "Emei Film Studio",
+      "origin_country": "CN"
+    },
+    {
+      "id": 126771,
+      "logo_path": null,
+      "name": "Mandarin Motion Pictures",
+      "origin_country": "HK"
+    },
+    {
+      "id": 96956,
+      "logo_path": null,
+      "name": "Maoyan Entertainment",
+      "origin_country": "CN"
+    },
+    {
+      "id": 155372,
+      "logo_path": null,
+      "name": "Wishart Media",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "release_date": "2024-10-01",
+  "revenue": 42333207,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "熊猫计划",
+  "video": false,
+  "vote_average": 7.061,
+  "vote_count": 148,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18897,
+        "known_for_department": "Acting",
+        "name": "成龍",
+        "original_name": "成龍",
+        "popularity": 69.731,
+        "profile_path": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg",
+        "cast_id": 1,
+        "character": "Jackie",
+        "credit_id": "64ce4ea6d9f4a603b6c872c0",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1945662,
+        "known_for_department": "Acting",
+        "name": "Shi Ce",
+        "original_name": "Shi Ce",
+        "popularity": 4.184,
+        "profile_path": "/yRBXOk6GMuzDCrIK85AjZn48o1y.jpg",
+        "cast_id": 14,
+        "character": "Su Xiaozhu",
+        "credit_id": "65841bd7e8131d4178a4f762",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2093326,
+        "known_for_department": "Acting",
+        "name": "魏翔",
+        "original_name": "魏翔",
+        "popularity": 3.409,
+        "profile_path": "/j1XqYkSGoRHfBOH59nTOnv7DcRn.jpg",
+        "cast_id": 7,
+        "character": "David",
+        "credit_id": "65841b0cfbe36f4b2d7f5acf",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2171593,
+        "known_for_department": "Acting",
+        "name": "Han Yanbo",
+        "original_name": "Han Yanbo",
+        "popularity": 3.385,
+        "profile_path": "/anfEMOmBSFXuZJ5jPCdcPIrObSl.jpg",
+        "cast_id": 13,
+        "character": "Cha Kun",
+        "credit_id": "65841bcb992fe63f4e725c92",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2493847,
+        "known_for_department": "Acting",
+        "name": "Danny Ray",
+        "original_name": "Danny Ray",
+        "popularity": 1.167,
+        "profile_path": "/ruWEqayx8GsA7AerHAG2wL05fUz.jpg",
+        "cast_id": 19,
+        "character": "Harry",
+        "credit_id": "678bea4c35902b0f936de062",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1996700,
+        "known_for_department": "Acting",
+        "name": "许君聪",
+        "original_name": "许君聪",
+        "popularity": 2.334,
+        "profile_path": "/5icza1XYiM1ozUTXE8xIhkpA3zm.jpg",
+        "cast_id": 16,
+        "character": "Lone Wolf",
+        "credit_id": "65841bfa992fe63ef872828f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1552500,
+        "known_for_department": "Art",
+        "name": "Andy Friend",
+        "original_name": "Andy Friend",
+        "popularity": 1.839,
+        "profile_path": "/gvSXc5UDHc9JQwmHKG7Eh9V3AHX.jpg",
+        "cast_id": 17,
+        "character": "Garden Manager",
+        "credit_id": "66979a5bdf5933b81348c758",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3842416,
+        "known_for_department": "Acting",
+        "name": "黄允桐",
+        "original_name": "黄允桐",
+        "popularity": 3.886,
+        "profile_path": "/jtWGjymL1Up2UKk3itlCZCUX4ur.jpg",
+        "cast_id": 15,
+        "character": "Female Chief",
+        "credit_id": "65841be8fbe36f4b2d7f5b23",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2295882,
+        "known_for_department": "Acting",
+        "name": "贾冰",
+        "original_name": "贾冰",
+        "popularity": 6.949,
+        "profile_path": "/pum0e3d2ZVq9XZyNohZSXt46bkH.jpg",
+        "cast_id": 18,
+        "character": "Ice Cream Shop owner",
+        "credit_id": "678be9a95add61273d64f9ff",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1379938,
+        "known_for_department": "Acting",
+        "name": "Temur Mamisashvili",
+        "original_name": "Temur Mamisashvili",
+        "popularity": 4.083,
+        "profile_path": "/9gBUlvH0q2IhW3zqkEk5Vbao4Qf.jpg",
+        "cast_id": 21,
+        "character": "James",
+        "credit_id": "67a15504ed829ebc56e2bc06",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5223218,
+        "known_for_department": "Acting",
+        "name": "Ivan Ponomarenko",
+        "original_name": "Ivan Ponomarenko",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Farih",
+        "credit_id": "67a1553750f5d47625265a0e",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4077880,
+        "known_for_department": "Acting",
+        "name": "Aleksandra Smirnova-Kosheleva",
+        "original_name": "Aleksandra Smirnova-Kosheleva",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "",
+        "credit_id": "67a1555d716bfd74ece2be15",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1996700,
+        "known_for_department": "Acting",
+        "name": "许君聪",
+        "original_name": "许君聪",
+        "popularity": 2.334,
+        "profile_path": "/5icza1XYiM1ozUTXE8xIhkpA3zm.jpg",
+        "cast_id": 24,
+        "character": "",
+        "credit_id": "67a1557b50f5d47625265a21",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3350015,
+        "known_for_department": "Directing",
+        "name": "Wei Xu",
+        "original_name": "Wei Xu",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "65841a9608354744f33edbc1",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2265584,
+        "known_for_department": "Directing",
+        "name": "張欒",
+        "original_name": "張欒",
+        "popularity": 1.963,
+        "profile_path": "/xMeYqIEvRHhmCXoMxoVp8zxa6DI.jpg",
+        "credit_id": "65841a70180dea530a8c2b50",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2265584,
+        "known_for_department": "Directing",
+        "name": "張欒",
+        "original_name": "張欒",
+        "popularity": 1.963,
+        "profile_path": "/xMeYqIEvRHhmCXoMxoVp8zxa6DI.jpg",
+        "credit_id": "65841ac6ca83544103d7a578",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4441748,
+        "known_for_department": "Writing",
+        "name": "Meng Yida",
+        "original_name": "Meng Yida",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "65841ab355bc35584617d7e5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1573046,
+        "known_for_department": "Crew",
+        "name": "Sean Kohnke",
+        "original_name": "Sean Kohnke",
+        "popularity": 2.715,
+        "profile_path": "/jXXg0mipOa8CTeTKmZboGz0eFVJ.jpg",
+        "credit_id": "65841ae855bc355715183856",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3790312,
+        "known_for_department": "Sound",
+        "name": "Huang Yixin",
+        "original_name": "Huang Yixin",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "67a154ac50f5d476252659d1",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 3487,
+        "name": "assistant"
+      },
+      {
+        "id": 2172,
+        "name": "zoo"
+      },
+      {
+        "id": 8531,
+        "name": "panda"
+      },
+      {
+        "id": 164613,
+        "name": "superstar"
+      },
+      {
+        "id": 222529,
+        "name": "rescue operation"
+      },
+      {
+        "id": 325783,
+        "name": "cliché"
+      },
+      {
+        "id": 326483,
+        "name": "international superstar"
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": null,
+        "id": 78648,
+        "title": "1991 – The Unshot Bullet",
+        "original_title": "1991 – Neizstreljeni naboj",
+        "overview": "A film about short-lived Slovenian war of independence.",
+        "poster_path": null,
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "sl",
+        "genre_ids": [
+          18,
+          36,
+          10752
+        ],
+        "popularity": 0.197,
+        "release_date": "2011-06-15",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+      },
+      {
+        "backdrop_path": "/p8rcQU2QSr0Dw78WjYLULqBjkoI.jpg",
+        "id": 262788,
+        "title": "The Games Maker",
+        "original_title": "El inventor de juegos",
+        "overview": "Young Ivan Drago's newfound love of board games catapults him into the fantastical and competitive world of game invention, and pits him against the inventor Morodian, who has long desired to destroy the city of Zyl, founded by Ivan's grandfather. To save his family and defeat Morodian, Ivan must come to know what it is to be a true games maker.",
+        "poster_path": "/5X2IqHXicO3miUlenOdnGhZWnn2.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          12,
+          10751
+        ],
+        "popularity": 5.973,
+        "release_date": "2014-07-03",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 71
+      },
+      {
+        "backdrop_path": "/smKTvKwulM71uFLjlNFQAaMLd4q.jpg",
+        "id": 14145,
+        "title": "Ölüm Kapanı",
+        "original_title": "Dark Floors",
+        "overview": "Otistik küçük kızının hastanede yeterince iyi bakılmadığına inanan babası onu eve götürmeye karar vermiştir. Yapılan hiç bir tedavi artık cevap vermemekte ve durumu kötüye gitmektedir.\r Taburcu olmayı bekleyemeyen baba, kızıyla hastaneden çıkmaya çalışırken aksilikler ve korkunç tuzaklar yakalarını bırakmaz. Asansör bozulur ve hastaneden  bir kaç kişi ile birlikte  kilitli kalırlar. Kapılar açıldığında ise hastanenin terk edildiğini görürler.\r Her çıkışa ulaşmaları  bir başka kabusa dönüşür..  Karanlıktan gelen yaratıkların korkunç saldırıları ile artık başbaşadırlar... Bu garip hastane onları yakalamaya çalışan bir Ölüm Kapanına dönüşür...",
+        "poster_path": "/63jHgFpvNgP15HWlKN0ZG2uXDsY.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "fi",
+        "genre_ids": [
+          14,
+          27
+        ],
+        "popularity": 6.214,
+        "release_date": "2008-02-08",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 132
+      },
+      {
+        "backdrop_path": "/evCl1fscUKmKna7A5pznewRmWyI.jpg",
+        "id": 191324,
+        "title": "The Top Bet",
+        "original_title": "賭霸",
+        "overview": "Sing and Mei are two siblings with special powers which the former uses to gamble. When both are unavailable, a gangster hires Fanny, a con artist, to compete in a gambling competition.",
+        "poster_path": "/3GNxrDJJJXwNvYzJCq6cIvwUHFb.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "cn",
+        "genre_ids": [
+          28,
+          35
+        ],
+        "popularity": 3.158,
+        "release_date": "1991-03-07",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 17
+      },
+      {
+        "backdrop_path": "/e8npsTfpBZa8T0TQqyZSwD9RNu2.jpg",
+        "id": 1214481,
+        "title": "Stockholmlu Aşıklar",
+        "original_title": "Kärlek fårever",
+        "overview": "Stockholmlü bir çift, Gotland adlı muhteşem adada evlenmeyi planlar. Ama ailelerinin dayattığı gelenekler, çiftin en önemli gününü bir felakete dönüştürür.",
+        "poster_path": "/8HmlkLS2bZD09vKwoIOj7TOAwdX.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "sv",
+        "genre_ids": [
+          10749,
+          35,
+          18
+        ],
+        "popularity": 56.381,
+        "release_date": "2025-02-13",
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 21
+      },
+      {
+        "backdrop_path": null,
+        "id": 310486,
+        "title": "An Islamic Conscience: The Aga Khan and the Ismailis",
+        "original_title": "An Islamic Conscience: The Aga Khan and the Ismailis",
+        "overview": "Meet the Aga Khan, the influential leader of the Ismaili Muslim sect. In a series of rare interviews, he shares his views on politics and social justice and discusses his foundation, which invests more than $400 million annually in aid projects. Though little known among non-Muslims, the Aga Khan has played an important role in fighting world poverty and is becoming a key voice of moderation at a time of rising religious conflict.",
+        "poster_path": "/zBcuilJjfktJXEFIPgQps9Pi22G.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 0.062,
+        "release_date": "2007-01-01",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+      },
+      {
+        "backdrop_path": "/5Xv6xEu6TaExiEklKQxUIgp9qV5.jpg",
+        "id": 153918,
+        "title": "The Gift of Love: A Christmas Story",
+        "original_title": "The Gift of Love: A Christmas Story",
+        "overview": "After experiencing several stressful situations within a short time — including the failure of the family business and the loss of her mother — Janet Broderick becomes ill. Falling into a deep sleep, she dreams of returning to her hometown, taking her children with her to meet her deceased loved ones. Perhaps, during a Christmas reunion with her beloved family, she will find the answer to coping with her troubles.",
+        "poster_path": "/hnV117phybCYA7JVqPecs8pYzFB.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10770
+        ],
+        "popularity": 3.47,
+        "release_date": "1983-12-20",
+        "video": false,
+        "vote_average": 6.429,
+        "vote_count": 7
+      },
+      {
+        "backdrop_path": "/5LOXUywFm9TnvoEMCx44cdBG2ny.jpg",
+        "id": 1249608,
+        "title": "Good Luck",
+        "original_title": "好运来",
+        "overview": "",
+        "poster_path": "/7TE7drVKGH08Y6kIUGt6pBLG2wr.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "zh",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 1.481,
+        "release_date": "2024-11-30",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 2
+      },
+      {
+        "backdrop_path": "/lP0G6f00CjOKdRECyGrT0kaMSrL.jpg",
+        "id": 383634,
+        "title": "Carmen 1945",
+        "original_title": "肉体の門",
+        "overview": "Prostitutes in burnt out Tokyo ghetto of post-WWII Japan peddle their flesh and save one-third of their money for a proposed dancehall to be named Paradise. The hookers live in a bombed-out building, but they accept the precarious situation with typical resolve.",
+        "poster_path": "/raNbLci95MJ3L3dMnG7L7bD37lY.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 227.65,
+        "release_date": "1988-04-09",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 34
+      },
+      {
+        "backdrop_path": "/nNF4ZB0UDL4qAUjQfbYZDq3Ck7J.jpg",
+        "id": 710295,
+        "title": "Kurt Adam",
+        "original_title": "Wolf Man",
+        "overview": "Evliliği yıpranmakta olan Blake, eşi Charlotte’u şehirden uzaklaşıp Oregon kırsalındaki çocukluk evine gitmeye ikna eder. Gece yarısı çiftlik evine vardıklarında, görünmeyen bir hayvanın saldırısına uğrarlar ve yaratık evin çevresinde dolaşırken kendilerini evin içine barikat kurarak korumaya çalışırlar. Ancak gece uzadıkça Blake tuhaf bir şekilde davranmaya başlar ve tanınmayacak bir şeye dönüşür.",
+        "poster_path": "/ujY9qtLzsEm5SipQTB3f5XXOGDX.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "popularity": 196.806,
+        "release_date": "2025-01-15",
+        "video": false,
+        "vote_average": 6.459,
+        "vote_count": 478
+      },
+      {
+        "backdrop_path": "/qSOMdbZ6AOdHR999HWwVAh6ALFI.jpg",
+        "id": 1249289,
+        "title": "Alarum",
+        "original_title": "Alarum",
+        "overview": "Uluslararası bir istihbarat ağının hedefinde olan evli iki ajan, hayati öneme sahip bir varlığı ele geçirmek için her şeyi yapacaktır. Joe ve Lara, gizli yaşayan ajanlardır ve bir kış tatil beldesinde saklanırken, eski gardiyanların üyeleri ikilinin Alarum adındaki asi bir ajan ekibine katılmış olabileceğinden şüphelenince sessiz sığınakları paramparça olur.",
+        "poster_path": "/v313aUGmMNj6yNveaiQXysBmjVS.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          80,
+          53
+        ],
+        "popularity": 339.811,
+        "release_date": "2025-01-16",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 218
+      },
+      {
+        "backdrop_path": "/vh5FIqfosYaLWxCmZfSPjgUWWfn.jpg",
+        "id": 1302916,
+        "title": "Heart Eyes",
+        "original_title": "Heart Eyes",
+        "overview": "İki iş arkadaşı, Sevgililer Günü'nde Seattle'da bir katil tarafından bir sevgili sanılır. Katilden kaçmaya zorlanan ikili, hayatta kalmak için birlikte çabalarken, şehrin romantik manzarasında yollarını bulmak zorunda kalırlar.",
+        "poster_path": "/ebqttF1Vjgde6uSFBEw9mta7Hd3.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          35,
+          9648
+        ],
+        "popularity": 129.165,
+        "release_date": "2025-02-06",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 59
+      },
+      {
+        "backdrop_path": "/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
+        "id": 1241982,
+        "title": "Moana 2",
+        "original_title": "Moana 2",
+        "overview": "Moana ve Maui'yi üç yıl sonra alışılmadık denizcilerden oluşan bir ekiple birlikte geniş kapsamlı yeni bir yolculuk için yeniden bir araya getiriyor. Yol gösterici atalarından beklenmedik bir çağrı alan Moana, daha önce karşılaşmadığı bir macera için Okyanusya'nın uzak denizlerine, tehlikeli ve uzun süredir bilinmeyen sularına yolculuk etmek zorunda.",
+        "poster_path": "/3C9jcjZSwRVDk83VgBK7WU5qVQ8.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          12,
+          10751,
+          35
+        ],
+        "popularity": 1059.555,
+        "release_date": "2024-11-21",
+        "video": false,
+        "vote_average": 7.156,
+        "vote_count": 1781
+      },
+      {
+        "backdrop_path": "/v9Du2HC3hlknAvGlWhquRbeifwW.jpg",
+        "id": 539972,
+        "title": "Avcı Kraven",
+        "original_title": "Kraven the Hunter",
+        "overview": "Avcı Kraven, Marvel'ın en ikonik kötü adamlarından birinin nasıl ve neden ortaya çıktığına dair farklı bir hikâye. Örümcek-Adam ile olan nam salmış kan davasından önce geçen filmin başrolünde Aaron Taylor-Johnson yer alıyor.",
+        "poster_path": "/pWI2qJG6PkS9wX601QfihkkZsPi.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          53
+        ],
+        "popularity": 497.919,
+        "release_date": "2024-12-11",
+        "video": false,
+        "vote_average": 6.675,
+        "vote_count": 1362
+      },
+      {
+        "backdrop_path": "/rp49ILheIhBwHWiQUvDfVH1fPfI.jpg",
+        "id": 1138749,
+        "title": "The Island",
+        "original_title": "The Island",
+        "overview": "LAPD memuru Mark, erkek kardeşi öldürüldüğünde, büyüdüğü adaya dönmek için şehirden ayrılır. Cevaplar ve nihayetinde intikam peşinde koşarken, kısa süre sonra kendisini ada cennetini ele geçiren yozlaşmış kodamanla kanlı bir savaşın içinde bulur.",
+        "poster_path": "/ajb1rMiorchfRemYHZCkbV9DBg6.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          80,
+          53
+        ],
+        "popularity": 284.231,
+        "release_date": "2023-07-21",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 68
+      },
+      {
+        "backdrop_path": "/vfkzNcVzTRCq3C2jYIZtIjSdwf7.jpg",
+        "id": 1247019,
+        "title": "Death Whisperer 2",
+        "original_title": "ธี่หยด 2",
+        "overview": "Three years after his sister's death, Yak relentlessly searches for the dark spirit that killed her in hopes of seeking revenge.",
+        "poster_path": "/uDW5eeFUYp1vaU2ymEdVBG6g7iq.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "th",
+        "genre_ids": [
+          27,
+          53,
+          28
+        ],
+        "popularity": 221.125,
+        "release_date": "2024-10-10",
+        "video": false,
+        "vote_average": 7.051,
+        "vote_count": 79
+      },
+      {
+        "backdrop_path": "/s1ge9SG2zfJdMeZ69VMEbxeKuAE.jpg",
+        "id": 1252377,
+        "title": "Tatlı Villa",
+        "original_title": "La Dolce Villa",
+        "overview": "Kızı Toskana'daki harap bir villayı almaya karar verdiğinde, onu vazgeçirmek için İtalya'nın yolunu tutan Eric bunun yerine güzellik, romantizm ve yeni bir amaçla karşılaşır.",
+        "poster_path": "/llfbNVMod5d7aK5hdoRROMrd2MO.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10749,
+          35
+        ],
+        "popularity": 61.504,
+        "release_date": "2025-02-12",
+        "video": false,
+        "vote_average": 6.324,
+        "vote_count": 102
+      },
+      {
+        "backdrop_path": "/sc1abgWNXc29wSBaerrjGBih06l.jpg",
+        "id": 1084199,
+        "title": "Kusursuz Arkadaş",
+        "original_title": "Companion",
+        "overview": "Gizemli bir kıyamet olayından kurtulan az sayıda insandan biri olan bir kadın, ıssız ve fütüristik bir dünyada mahsur kalmış bir halde, diğer hayatta kalanlarla yeniden bağlantı kurmak için tehlikeli bir yolculuğa çıkar. Bu yolculuk sırasında insanlara yardım etmek ve onları korumak için tasarlanmış bir yapay zeka tarafından yönetilen gizemli bir \"Kusursuz Arkadaş\" ona eşlik eder. Ancak bu varlığın davranışları ve motivasyonları öngörülemez bir hal alır. Kadının \"Kusursuz Arkadaş\" ile olan ilişkisi geliştikçe onun gerçek niyetlerini sorgulamaya başlar ve bu durum gergin ve ürpertici karşılaşmalara yol açar.",
+        "poster_path": "/6guIbrI70MtDVVI2sMjanwHtXds.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          878,
+          53
+        ],
+        "popularity": 592.778,
+        "release_date": "2025-01-22",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 663
+      },
+      {
+        "backdrop_path": "/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+        "id": 939243,
+        "title": "Kirpi Sonic 3",
+        "original_title": "Sonic the Hedgehog 3",
+        "overview": "Süpersonik hızlarda koşabilen mavi bir kirpi olan Sonic'in maceralarını konu alan bu seride, dostları Knuckles ve Tails ile birlikte, daha önce karşılaştıkları hiçbir şeye benzemeyen gizemli ve güçlü bir düşman olan Shadow'a karşı mücadele ediyor. Shadow, sahip olduğu benzersiz yeteneklerle Sonic ve arkadaşlarını zorluyor. Bu tehlikeli düşmanı durdurmak ve gezegeni korumak için Sonic ve ekibi, beklenmedik ittifaklar kurmak zorunda kalıyor.",
+        "poster_path": "/xo04W0XBJRRERjATgmDm1QsJUTP.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          878,
+          35,
+          10751
+        ],
+        "popularity": 1013.822,
+        "release_date": "2024-12-19",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 2079
+      },
+      {
+        "backdrop_path": "/ybSA7fUbYHw8VeRiSJ7tgKJnYWZ.jpg",
+        "id": 1410082,
+        "title": "Keskin Nişancı: Son Direniş",
+        "original_title": "Sniper: The Last Stand",
+        "overview": "Ölümcül bir süper silahı piyasaya sürmeyi planlayan bir silah tüccarını durdurmak için görevlendirilen keskin nişancı Brandon Beckett ve Ajan Zero, Costa Verde'de seçkin bir asker grubuna liderlik eder. Acemi bir keskin nişancıyı da ekibe dahil eden Beckett, emir almaktan ziyade emir verme sorumluluğuyla yüzleşirken, azalan zaman ve cephane karşısında ekibiyle birlikte hayatta kalma mücadelesi verir.",
+        "poster_path": "/7O96D7Ea9qMYPozPcnDUy4clk6b.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          53
+        ],
+        "popularity": 280.309,
+        "release_date": "2025-01-21",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 115
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

@@ -1,0 +1,969 @@
+{
+  "adult": false,
+  "backdrop_path": "/qnTBxxv7q4xVwgZBLb0vtILLelh.jpg",
+  "created_by": [
+    {
+      "id": 167662,
+      "credit_id": "525835fa760ee36aaa93a9d4",
+      "name": "Ryan Seacrest",
+      "original_name": "Ryan Seacrest",
+      "gender": 2,
+      "profile_path": "/crjHM1N6RKMOOxwWXf070B4NDy3.jpg"
+    },
+    {
+      "id": 1241259,
+      "credit_id": "525835fa760ee36aaa93a9e6",
+      "name": "Eliot Goldberg",
+      "original_name": "Eliot Goldberg",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "2007-10-14",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Gerçeklik"
+    }
+  ],
+  "homepage": "http://www.eonline.com/shows/kardashians",
+  "id": 14814,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2021-06-20",
+  "last_episode_to_air": {
+    "id": 3019295,
+    "name": "14. Bölüm",
+    "overview": "",
+    "vote_average": 8.8,
+    "vote_count": 15,
+    "air_date": "2021-06-20",
+    "episode_number": 14,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 42,
+    "season_number": 20,
+    "show_id": 14814,
+    "still_path": "/c1A0QN1aOHU6TnAg1XO18JDbpJx.jpg"
+  },
+  "name": "Keeping Up with the Kardashians",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 76,
+      "logo_path": "/ptpx2Ag52sYJG6LiX9zBlnKsQOS.png",
+      "name": "E!",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 282,
+  "number_of_seasons": 20,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Keeping Up with the Kardashians",
+  "overview": "",
+  "popularity": 125.9413,
+  "poster_path": "/nddXOC8wYpIDv7giLzjjqIg8WDA.jpg",
+  "production_companies": [
+    {
+      "id": 60080,
+      "logo_path": null,
+      "name": "Ryan Seacrest Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 59050,
+      "logo_path": "/lIMMjGCUYzxtja8EYHIqz7ox9W4.png",
+      "name": "Bunim/Murray Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2015-12-01",
+      "episode_count": 7,
+      "id": 72381,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/oAMsBm4QqNHBO7i0bkusnkuSDHi.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2007-10-14",
+      "episode_count": 8,
+      "id": 63204,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/x9iXCQE16RrtAFmOplDRReqW7pf.jpg",
+      "season_number": 1,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2008-03-09",
+      "episode_count": 11,
+      "id": 63205,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/x1cHeqDIrZuWQKDk0bQm289GsZl.jpg",
+      "season_number": 2,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2009-03-08",
+      "episode_count": 12,
+      "id": 63197,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/3Yi8RCzDtTlIpZVPFpXx6A6tKVt.jpg",
+      "season_number": 3,
+      "vote_average": 6.0
+    },
+    {
+      "air_date": "2009-11-08",
+      "episode_count": 11,
+      "id": 63198,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/iiFBFLNoN3Rgd1uKSUdqcScj6RD.jpg",
+      "season_number": 4,
+      "vote_average": 5.5
+    },
+    {
+      "air_date": "2010-08-22",
+      "episode_count": 12,
+      "id": 63199,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/g7PKsSEQed4MFSd2LyGiFQfv6fh.jpg",
+      "season_number": 5,
+      "vote_average": 5.8
+    },
+    {
+      "air_date": "2011-06-12",
+      "episode_count": 16,
+      "id": 63200,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/zZnuGjO6N4hrghoeRVniXzhSF2I.jpg",
+      "season_number": 6,
+      "vote_average": 5.3
+    },
+    {
+      "air_date": "2012-05-20",
+      "episode_count": 19,
+      "id": 63201,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/51f5GzizfvOtU0b14eNXTDHSCCb.jpg",
+      "season_number": 7,
+      "vote_average": 6.0
+    },
+    {
+      "air_date": "2013-06-02",
+      "episode_count": 21,
+      "id": 63202,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/hHihyyqz0dfh2dGvRIC2rdVxR0Z.jpg",
+      "season_number": 8,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2014-01-19",
+      "episode_count": 20,
+      "id": 63203,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/ygKSlxlBLVHbDA2ZL35ZEEROcaS.jpg",
+      "season_number": 9,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "2015-03-15",
+      "episode_count": 17,
+      "id": 65321,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/1gqqGFjnqizZoNNniSXbGp2t0Wf.jpg",
+      "season_number": 10,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2015-11-15",
+      "episode_count": 13,
+      "id": 71985,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/qtRw2RzTM4g9dcOp05uKAemFe4u.jpg",
+      "season_number": 11,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2016-05-01",
+      "episode_count": 21,
+      "id": 76691,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/eebR4mSFNoyl2GzrS96pZcBrkpg.jpg",
+      "season_number": 12,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2017-03-12",
+      "episode_count": 14,
+      "id": 86103,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": "/h0Ga9pQdrDrjP9DFND5fpMcpP9D.jpg",
+      "season_number": 13,
+      "vote_average": 8.8
+    },
+    {
+      "air_date": "2017-10-01",
+      "episode_count": 19,
+      "id": 93180,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": "/6pTk1MvdW0Fsl5fnXaJlTwPEfoZ.jpg",
+      "season_number": 14,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2018-08-05",
+      "episode_count": 16,
+      "id": 107414,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": "/dB2Bwb9GyjU1hU1Lg26fNqCE9tK.jpg",
+      "season_number": 15,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2019-03-31",
+      "episode_count": 12,
+      "id": 121450,
+      "name": "Sezon 16",
+      "overview": "",
+      "poster_path": "/bJ1tHPnp61AnNw7GDPSxo7p9ACL.jpg",
+      "season_number": 16,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2019-09-08",
+      "episode_count": 12,
+      "id": 130029,
+      "name": "Sezon 17",
+      "overview": "",
+      "poster_path": "/Af9YQrokS9KFHhQOCJhyhf2jfo4.jpg",
+      "season_number": 17,
+      "vote_average": 8.5
+    },
+    {
+      "air_date": "2020-03-26",
+      "episode_count": 6,
+      "id": 145679,
+      "name": "Sezon 18",
+      "overview": "",
+      "poster_path": "/l7QHRrX1EYgQAzNJdCdoEQHoHJ.jpg",
+      "season_number": 18,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2020-09-17",
+      "episode_count": 8,
+      "id": 162350,
+      "name": "Sezon 19",
+      "overview": "",
+      "poster_path": "/rxxLE58uwVLcN5PFyqcQkrMohJ.jpg",
+      "season_number": 19,
+      "vote_average": 8.7
+    },
+    {
+      "air_date": "2021-03-18",
+      "episode_count": 14,
+      "id": 178837,
+      "name": "Sezon 20",
+      "overview": "",
+      "poster_path": "/mFM3PcHnbnw0Y5dmUERpQltzJdg.jpg",
+      "season_number": 20,
+      "vote_average": 8.6
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 7.4,
+  "vote_count": 901,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1234688,
+        "known_for_department": "Production",
+        "name": "Kris Jenner",
+        "original_name": "Kris Jenner",
+        "popularity": 1.4533,
+        "profile_path": "/2XHSec5q7NxXh5WCSTeVdGTT6mI.jpg",
+        "character": "Self",
+        "credit_id": "544c24e0c3a36872bc000b2e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1220771,
+        "known_for_department": "Acting",
+        "name": "Kourtney Kardashian Barker",
+        "original_name": "Kourtney Kardashian Barker",
+        "popularity": 0.9105,
+        "profile_path": "/8XdM7koK6uY8Tccqtq6zyO9EE9v.jpg",
+        "character": "Self",
+        "credit_id": "544c24bdc3a36872cc000a50",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 212225,
+        "known_for_department": "Acting",
+        "name": "Kim Kardashian",
+        "original_name": "Kim Kardashian",
+        "popularity": 6.4124,
+        "profile_path": "/3TLSq0aHXyxtqaXe9p7yB5Daqsa.jpg",
+        "character": "Self",
+        "credit_id": "544c249f0e0a2608be000b12",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1255872,
+        "known_for_department": "Acting",
+        "name": "Khloé Kardashian",
+        "original_name": "Khloé Kardashian",
+        "popularity": 1.5948,
+        "profile_path": "/9KozpelrLI11rGVnP81ZHqAxGsx.jpg",
+        "character": "Self",
+        "credit_id": "544c24b10e0a2608bb000b82",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1549005,
+        "known_for_department": "Acting",
+        "name": "Kendall Jenner",
+        "original_name": "Kendall Jenner",
+        "popularity": 1.8552,
+        "profile_path": "/ccREiRWn47w1yYLKNzosFYq8ok.jpg",
+        "character": "Self",
+        "credit_id": "57f2f40cc3a368334e0036e1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1695682,
+        "known_for_department": "Acting",
+        "name": "Kylie Jenner",
+        "original_name": "Kylie Jenner",
+        "popularity": 1.6897,
+        "profile_path": "/aoeKap5HGMrB9XYLPL6HEb0RGn6.jpg",
+        "character": "Self",
+        "credit_id": "5803f589c3a368156d004555",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2238281,
+        "known_for_department": "Acting",
+        "name": "Scott Disick",
+        "original_name": "Scott Disick",
+        "popularity": 0.4882,
+        "profile_path": "/qgspSFwSClik2LiCz2soXWsk4BC.jpg",
+        "character": "Self",
+        "credit_id": "5c5eed7ec3a3683cdb8e471d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2428347,
+        "known_for_department": "Acting",
+        "name": "Tristan Thompson",
+        "original_name": "Tristan Thompson",
+        "popularity": 0.3668,
+        "profile_path": "/1IR41HJQJNWRglyLQM5svj62zYo.jpg",
+        "character": "Self",
+        "credit_id": "5d9c92b3439be1001279bd0f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2431731,
+        "known_for_department": "Acting",
+        "name": "Corey Gamble",
+        "original_name": "Corey Gamble",
+        "popularity": 0.3699,
+        "profile_path": "/c9rNnwIyVGN98jcqESBG3YD7CPV.jpg",
+        "character": "Self",
+        "credit_id": "5da339111967570013aafa99",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 167662,
+        "known_for_department": "Acting",
+        "name": "Ryan Seacrest",
+        "original_name": "Ryan Seacrest",
+        "popularity": 2.4101,
+        "profile_path": "/crjHM1N6RKMOOxwWXf070B4NDy3.jpg",
+        "credit_id": "5ece795e528b2e001e643a0a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 587825,
+        "known_for_department": "Production",
+        "name": "Gil Goldschein",
+        "original_name": "Gil Goldschein",
+        "popularity": 0.3206,
+        "profile_path": null,
+        "credit_id": "5ece7992e61e6d001ecb7971",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2053739,
+        "known_for_department": "Production",
+        "name": "Farnaz Farjam",
+        "original_name": "Farnaz Farjam",
+        "popularity": 0.0568,
+        "profile_path": null,
+        "credit_id": "5ece7a5421c4ca0020dc443d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1234688,
+        "known_for_department": "Production",
+        "name": "Kris Jenner",
+        "original_name": "Kris Jenner",
+        "popularity": 1.4533,
+        "profile_path": "/2XHSec5q7NxXh5WCSTeVdGTT6mI.jpg",
+        "credit_id": "5ece7a67e61e6d001ecb7b7c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 102090,
+        "known_for_department": "Production",
+        "name": "Jeff Jenkins",
+        "original_name": "Jeff Jenkins",
+        "popularity": 0.0977,
+        "profile_path": null,
+        "credit_id": "5ece7a3921c4ca0020dc43f1",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "sibling relationship",
+        "id": 380
+      },
+      {
+        "name": "los angeles, california",
+        "id": 12670
+      },
+      {
+        "name": "fashion",
+        "id": 15479
+      },
+      {
+        "name": "family",
+        "id": 18035
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/6I42RBhmK89wdymE1ReNUuHk358.jpg",
+        "id": 154521,
+        "name": "The Kardashians",
+        "original_name": "The Kardashians",
+        "overview": "Dizi, Kardashian ailesinin hayatını mercek altına alıyor. Kris, Kourtney, Kim, Khloe, Kendall ve Kylie’nin hayatı hakkında bilinmeyenlerin gözler önüne serildiği dizide, aile üyelernin birbirleriyle olan ilişkileri, kariyerleri, hayatarında olup bitenler anlatılıyor.",
+        "poster_path": "/zxp0rXiQM8uS2RqQfc6G4aorIyS.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 26.5454,
+        "first_air_date": "2022-04-14",
+        "vote_average": 8.518,
+        "vote_count": 2096,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cowrSDpkCkNcmg5fO7gstaZLR1B.jpg",
+        "id": 14808,
+        "name": "The Real Housewives of New York City",
+        "original_name": "The Real Housewives of New York City",
+        "overview": "Manhattanlı beş ev kadını, toplumun seçkin kesimini temsil ettiklerinden ve başkalarının da bunun farkında olduğundan son derece emindir.",
+        "poster_path": "/8RyKqPXef4YqkT40ZEr1wbP0dmk.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 113.7978,
+        "first_air_date": "2008-03-04",
+        "vote_average": 5.8,
+        "vote_count": 62,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/68xjylXPOclGga7SJ6vhEIHv0ZL.jpg",
+        "id": 130392,
+        "name": "The D'Amelio Show",
+        "original_name": "The D'Amelio Show",
+        "overview": "From relative obscurity and a seemingly normal life, to overnight success and thrust into the Hollywood limelight overnight, the D’Amelios are faced with new challenges and opportunities they could not have imagined.",
+        "poster_path": "/1TMOWefVY5854oxEI0I6yLLMwlR.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 4.3159,
+        "first_air_date": "2021-09-03",
+        "vote_average": 5.0,
+        "vote_count": 681,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/JdMKUtYVUKUqXaMh2ZzlxAphR8.jpg",
+        "id": 1964,
+        "name": "The Jeffersons",
+        "original_name": "The Jeffersons",
+        "overview": "Sitcom following a successful African-American couple, George and Louise “Weezyö Jefferson as they “move on up” from working-class Queens to a ritzy Manhattan apartment. A spin-off of All in the Family.",
+        "poster_path": "/iFjIaWr9qDKMLnnh8tHwO6Tzp6D.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 39.7632,
+        "first_air_date": "1975-01-18",
+        "vote_average": 7.302,
+        "vote_count": 111,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/pRNlkdAqwjPR7h5CDiFqsZGyQwH.jpg",
+        "id": 133537,
+        "name": "Pretty Smart",
+        "original_name": "Pretty Smart",
+        "overview": "A self-proclaimed intellectual, forced to move in with her carefree sister and her sister's lovably eccentric friends.",
+        "poster_path": "/nR1UP7VoF9D7OZLcBWCWuPVqjjM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 1.819,
+        "first_air_date": "2021-10-08",
+        "vote_average": 6.343,
+        "vote_count": 70,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/oXQL2ahBekJt3cfUpiXVUnNAQ11.jpg",
+        "id": 46441,
+        "name": "Tyler Perry's The Haves and the Have Nots",
+        "original_name": "Tyler Perry's The Haves and the Have Nots",
+        "overview": "Follow the complicated dynamic between the rich and powerful Cryer family and the hired help who work in their opulent Savannah, Georgia, mansion.",
+        "poster_path": "/6BkYldJ3QWe9huaRaqvcM3EzdH3.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 98.6996,
+        "first_air_date": "2013-05-28",
+        "vote_average": 7.5,
+        "vote_count": 135,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zHjOrDruZUwiYR2amVNqXNQWM9O.jpg",
+        "id": 51168,
+        "name": "Star-Crossed",
+        "original_name": "Star-Crossed",
+        "overview": "When Emery was 6 years old, an alien spacecraft crash-landed in her small town. Whether they came in peace or with more sinister intentions didn't matter: a fierce battle erupted as humans fought for control over their new rivals, an alien species called the Atrians. In the midst of the conflict, Roman, a 6-year-old Atrian boy, found his way to a shed behind Emery's house, where she temporarily protected him from harm, bringing him food, comfort - and friendship. Ten years later, the Atrians have been acclimated to life on Earth, but they are interned in a heavily-guarded camp known as the Sector to keep them separate from humans. Now, for the first time, a group of Atrian teens will enroll in a suburban human high school, with the goal of testing the feasibility of human/alien integration. Emery and Roman find each other again in a school and a society that distrusts everything about the Atrians. While the world around them rages with anger and prejudice, their bond becomes increasingly strong and increasingly dangerous.",
+        "poster_path": "/xcKlTgoRlVMyIG8t9c1br8RO7zI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 4.2299,
+        "first_air_date": "2014-02-17",
+        "vote_average": 6.892,
+        "vote_count": 134,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/amtOltTVcK9vQtL1iQS6p3LBi05.jpg",
+        "id": 62223,
+        "name": "The Late Late Show with James Corden",
+        "original_name": "The Late Late Show with James Corden",
+        "overview": "Once Craig Ferguson retires, James Corden will be taking over The Late Late Show. The show is a late night talk show that interviews celebrities and has its own bits. And of course, it's all hosted by James Corden.",
+        "poster_path": "/qPmVoG8G9tc1nN8ZwGV2zYcknit.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 382.8432,
+        "first_air_date": "2015-03-23",
+        "vote_average": 5.283,
+        "vote_count": 136,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/quKYtwofrkIClTQLCSUoD0x1JhP.jpg",
+        "id": 89440,
+        "name": "Stumptown",
+        "original_name": "Stumptown",
+        "overview": "Greg Rucka'nın aynı isimli çizgi romanından uyarlanan Stumptown'da, özel dedektif olmaya çalışan eski ordu çalışanı Dex Parios (Cobie Smulders), kardeşine bakmak için doğup büyüdüğü Portland'a geri döner ve başına açtığı belalardan kurtulmaya çalışır.",
+        "poster_path": "/3KphzAbThulphwHGCu22RzFlhqR.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 7.6285,
+        "first_air_date": "2019-09-25",
+        "vote_average": 7.192,
+        "vote_count": 159,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gEs0kv3PNIWSYgqTjswTiCHiUe4.jpg",
+        "id": 38657,
+        "name": "Ridiculousness",
+        "original_name": "Ridiculousness",
+        "overview": "Rob Dyrdek takes the funniest amateur internet videos and builds them into an episode of edgy, funny, and most importantly, timeless television.",
+        "poster_path": "/4rJdcHQrE4stnZTEAP0m4gnlVQi.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767,
+          10764
+        ],
+        "popularity": 24.0533,
+        "first_air_date": "2011-08-29",
+        "vote_average": 6.9,
+        "vote_count": 109,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/8BaPwADDUeg752Dxf0VSUHMQuYc.jpg",
+        "id": 31991,
+        "name": "WWE NXT",
+        "original_name": "WWE NXT",
+        "overview": "Wrestlers will portray heroes or villains as they follow a series of events that build tension and culminate in a wrestling match or series of matches.",
+        "poster_path": "/9nLBX5Bf7PW4FAaWJLXpFFdeTlV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "popularity": 21.6226,
+        "first_air_date": "2010-02-23",
+        "vote_average": 6.7,
+        "vote_count": 116,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/6g5Ic6oiNeIbAZC7QUlzBAs4AKf.jpg",
+        "id": 4638,
+        "name": "TNA iMPACT!",
+        "original_name": "TNA iMPACT!",
+        "overview": "TNA iMPACT offers a unique style of wrestling that features a blend of the traditional with high-flying athleticism and cutting edge action. TNA's roster includes the biggest names in wrestling today, and the hottest new stars in the sport.",
+        "poster_path": "/tjJkpAmmgujBmLuplbyrc2ajfX9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          9648
+        ],
+        "popularity": 27.3428,
+        "first_air_date": "2004-06-04",
+        "vote_average": 7.2,
+        "vote_count": 61,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/syfmYmITnWPJU3hhaP0ckny5hMN.jpg",
+        "id": 18779,
+        "name": "Royal Pains",
+        "original_name": "Royal Pains",
+        "overview": "A young E.R. doctor who, after being wrongly blamed for a patient's death, moves to the Hamptons and becomes the reluctant \"doctor for hire\" to the rich and famous. When the attractive administrator of the local hospital asks him to treat the town's less fortunate, he finds himself walking the line between doing well for himself and doing good for others.",
+        "poster_path": "/4WW26JPHeG5mgrFkgjvv3Qmgcwg.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 25.9759,
+        "first_air_date": "2009-06-04",
+        "vote_average": 6.7,
+        "vote_count": 149,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9kuUPHz99Oojm6GG7mawtIjv4lv.jpg",
+        "id": 331,
+        "name": "America's Next Top Model",
+        "original_name": "America's Next Top Model",
+        "overview": "Aspiring models compete for a chance to break into the business with a panel of judges critiquing their progress throughout the competition.",
+        "poster_path": "/47EIfjYrT80AOfpAIkvSxdpwGOv.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 91.3079,
+        "first_air_date": "2003-05-20",
+        "vote_average": 5.3,
+        "vote_count": 131,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/iz3Yzj9NIozfCOO1C583aLuoc6l.jpg",
+        "id": 64447,
+        "name": "South of Hell",
+        "original_name": "South of Hell",
+        "overview": "A supernatural thriller set in South Carolina, South Of Hell focuses on Maria Abascal (Suvari), a stunning demon-hunter-for-hire whose power stems from within. Like those she hunts, Maria is divided within herself, struggling with her own demon, Abigail, who resides inside of her, feeding on the evil Maria exorcises from others. Maria and Abigail share a soul and a destiny, but as Maria desperately tries to overtake Abigail, she will discover how far Abigail will go to remain a part of her.",
+        "poster_path": "/AvF3WStSLXh7ibT1OpU6XmCxtbN.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          10765,
+          18
+        ],
+        "popularity": 3.3226,
+        "first_air_date": "2015-11-27",
+        "vote_average": 6.409,
+        "vote_count": 55,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ac0B0qGk8exaojvfWFkk3SWuom9.jpg",
+        "id": 57755,
+        "name": "MasterChef Junior",
+        "original_name": "MasterChef Junior",
+        "overview": "American version of the culinary competition series that gives talented kids between the ages of 8 and 13 the chance to showcase their culinary abilities and passion for food through a series of delicious challenges. Celebrated food experts coach and encourage the promising hopefuls to cook like pros and teach them the tricks of the trade along the way.",
+        "poster_path": "/eF6jXEiUcUtwrg3k4aI7qSTVJpR.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 19.3971,
+        "first_air_date": "2013-09-27",
+        "vote_average": 6.8,
+        "vote_count": 45,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9ed2DblxSYr4WEpmtOk6RsQGASv.jpg",
+        "id": 58578,
+        "name": "Total Divas",
+        "original_name": "Total Divas",
+        "overview": "An inside look of the lives of seven WWE Divas from their work within WWE to their personal lives.",
+        "poster_path": "/sBYXdVVehQ5oZfOXvOmDU94MRrN.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 13.5847,
+        "first_air_date": "2013-07-28",
+        "vote_average": 7.419,
+        "vote_count": 37,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wY8HOGa7rDVuEhFmhIrjNioVGip.jpg",
+        "id": 69604,
+        "name": "Revenge Body With Khloe Kardashian",
+        "original_name": "Revenge Body With Khloe Kardashian",
+        "overview": "By gaining confidence and control over their lives, maybe even for the first time, Khloé Kardashian and a team of Hollywood's best trainers and glam squads help two individuals per episode re-create themselves.",
+        "poster_path": "/7sUkBqHKCsj63waPWsqTBE0UlVU.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 6.6965,
+        "first_air_date": "2017-01-12",
+        "vote_average": 6.3,
+        "vote_count": 15,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/yz3bZqwaaLmVri3DPz30aay6XLo.jpg",
+        "id": 73012,
+        "name": "Siesta Key",
+        "original_name": "Siesta Key",
+        "overview": "Docuseries following a group of young adults confronting issues of love, heartbreak, betrayal, class, and looming adulthood as they spend the summer together in their beautiful hometown.",
+        "poster_path": "/h4wTCi6vn1y4NHjquytTGetFvAK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764,
+          18
+        ],
+        "popularity": 10.091,
+        "first_air_date": "2017-07-31",
+        "vote_average": 7.6,
+        "vote_count": 25,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/aSeDUtW44eidROU9canuUWxmD2Z.jpg",
+        "id": 84590,
+        "name": "Ariana Grande: Dangerous Woman Diaries",
+        "original_name": "Ariana Grande: Dangerous Woman Diaries",
+        "overview": "A behind the scenes look at Ariana Grande’s Dangerous Woman Tour and the making of Sweetener and music video from “the light is coming” and “God is a woman”.",
+        "poster_path": "/fW9uxz4sz79NElox8BGDUEB2JPn.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 2.4445,
+        "first_air_date": "2018-11-29",
+        "vote_average": 8.8,
+        "vote_count": 15,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

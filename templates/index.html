@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+
+{% block title %}MovieApp - Yeni Nesil Film Keşfi{% endblock %}
+
+{# Ana sayfa base.html'deki hero'yu kullanacak, page_title burada ayrıca tanımlanmayacak #}
+
+{% block content %} {# Bu blok base.html'deki <main id="main-content-wrapper"> içindedir #}
+<div class="fullpage-container" id="fullpage-container">
+    
+    <section class="fullpage-section hero" id="section-hero" data-title="Ana Sayfa">
+        <div class="hero-sparkle-container"></div>
+        <div class="container">
+            <h1>Keşfedin. İzleyin. Paylaşın.</h1>
+            <p>En sevdiğiniz filmleri ve dizileri keşfedin, izleyin ve değerlendirin. Kişiselleştirilmiş önerilerle yeni içerikler bulun.</p>
+            <form class="search-form" action="{{ url_for('search') }}" method="get">
+                <input type="text" name="q" class="search-input" placeholder="Film veya dizi ara..." required>
+                <button type="submit" class="search-button"><i class="fas fa-search"></i> Ara</button>
+            </form>
+        </div>
+    </section>
+
+    {# Yeni Bölüm: İzleme Listem (İçerik JS ile yüklenecek) #}
+    <section class="fullpage-section" id="section-watchlist-content" data-title="İzleme Listem" data-url="/watchlist">
+        <div class="container placeholder-container">
+            <p class="placeholder-text">İzleme Listem yükleniyor...</p>
+        </div>
+    </section>
+
+    {# Yeni Bölüm: Önerilerim (İçerik JS ile yüklenecek) #}
+    <section class="fullpage-section" id="section-recommendations-content" data-title="Önerilerim" data-url="/recommendations">
+        <div class="container placeholder-container">
+            <p class="placeholder-text">Önerilerim yükleniyor...</p>
+        </div>
+    </section>
+
+</div> {# fullpage-container sonu #}
+
+{# Ana Sayfa Nokta Navigasyonu (Dot Navigation) - Güncellendi #}
+<nav class="dot-nav">
+    <ul>
+        <li><a href="#section-hero" data-index="0" class="active"><span>Ana Sayfa</span></a></li>
+        <li><a href="#section-watchlist-content" data-index="1"><span>İzleme Listem</span></a></li>
+        <li><a href="#section-recommendations-content" data-index="2"><span>Önerilerim</span></a></li>
+    </ul>
+</nav>
+
+{% endblock %}
+
+{% block scripts_extra %}
+{# Dinamik bölüm yükleme mantığı main.js'e taşındığı için burası boş kalabilir veya kaldırılabilir #}
+<script>
+    // console.log("Tam ekran index.html yüklendi! Yeni yapı.");
+</script>
+{% endblock %} 

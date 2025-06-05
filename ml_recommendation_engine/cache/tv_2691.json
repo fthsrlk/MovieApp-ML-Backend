@@ -1,0 +1,851 @@
+{
+  "adult": false,
+  "backdrop_path": "/hwlWGc8LD6eTN1l1A9vd3geWwtC.jpg",
+  "created_by": [
+    {
+      "id": 1218744,
+      "credit_id": "5257414b760ee36aaa0a87e5",
+      "name": "Lee Aronsohn",
+      "original_name": "Lee Aronsohn",
+      "gender": 2,
+      "profile_path": "/fuzM2qiel9RV65aqJFFLYU6wnFq.jpg"
+    },
+    {
+      "id": 160172,
+      "credit_id": "5257414b760ee36aaa0a87eb",
+      "name": "Chuck Lorre",
+      "original_name": "Chuck Lorre",
+      "gender": 2,
+      "profile_path": "/8OTRD3d6N0GKy1Z0LJaWZ3MVxXr.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2003-09-22",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Komedi"
+    }
+  ],
+  "homepage": "http://www.cbs.com/shows/two_and_a_half_men/",
+  "id": 2691,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2015-02-19",
+  "last_episode_to_air": {
+    "id": 1041648,
+    "name": "16. Bölüm",
+    "overview": "",
+    "vote_average": 4.5,
+    "vote_count": 6,
+    "air_date": "2015-02-19",
+    "episode_number": 16,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 21,
+    "season_number": 12,
+    "show_id": 2691,
+    "still_path": "/g1M0GQaxP55RGPGZl76XzU1YJqk.jpg"
+  },
+  "name": "Two and a Half Men",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 262,
+  "number_of_seasons": 12,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Two and a Half Men",
+  "overview": "Malibu sahilinde yaşayan çapkın ve bekar Charlie Harper reklam filmlerine şarkı sözü yazar. Söylediğine bakılırsa, başarılıdır da (iddiasına göre Teenage Mutant Ninja Turtles’ın tema müziği ona aittir). Charlie, yalnız yaşamaktan son derece memnun; ama hemen her gece başka bir kadınla uyumak kaydıyla...\n\nHer şey tam da istediği gibi giderken, günün birinde eşi Judith tarafından kapı önüne konan kuralcı erkek kardeşi Alan ve onun 10 yaşındaki oğlu Jake Charlie’yle yaşamak için ona taşınırlar.\n\nKardeşi Alan ve oğlu Jake ile birlikte yaşama fikri Charlie’ye başta cazip gelmese de sonradan onlara o kadar alışır ki bu aile yaşantısını kaybetmemek için elinden gelen her şeyi yapar.\n\nCharlie ve Alan’ın baskıcı ve her şeye karışan anneleri Evelyn, Charlie’nin “tam bir hayal kırıklığı” olduğunu düşünüyor; Alan’ın ise “onu torun sahibi yaptığı için” hayatını alt üst ettiğini. Charlie’nin yan komşusu Rose ise Charlie’ye takıntılı bir tutkuyla bağlı ve sık sık ziyaretlerine geliyor.",
+  "popularity": 183.051,
+  "poster_path": "/A9QDK4OWpv41W27kCv0LXe30k9S.jpg",
+  "production_companies": [
+    {
+      "id": 1957,
+      "logo_path": "/qIxtba5CbnJfHCA88czLfTNKW9M.png",
+      "name": "Warner Bros. Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 35504,
+      "logo_path": "/e70DaugzSRbTbVEhZV3e1nCofcY.png",
+      "name": "Chuck Lorre Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 25039,
+      "logo_path": null,
+      "name": "The Tannenbaum Company",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 41,
+      "id": 8711,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/oLQNVVlh79AKSYAQbk7k3lcUk1.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2003-09-22",
+      "episode_count": 24,
+      "id": 8702,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/9NmUF41Izd5E4k69g4klkoh4zTb.jpg",
+      "season_number": 1,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "2004-09-19",
+      "episode_count": 24,
+      "id": 8703,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/l03f6HTmnc82LlDCvR2q6pfWO87.jpg",
+      "season_number": 2,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2005-09-19",
+      "episode_count": 24,
+      "id": 8704,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/I5Hhdvc5UIEyhgpRoNPqj99H49.jpg",
+      "season_number": 3,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2006-09-18",
+      "episode_count": 24,
+      "id": 8705,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/kcYIXEat3fR5FoVt4dbzQSnUDa6.jpg",
+      "season_number": 4,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2007-09-24",
+      "episode_count": 19,
+      "id": 8706,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/g52E3BZ6jKydQVxoGM15ePOEFXg.jpg",
+      "season_number": 5,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2008-09-22",
+      "episode_count": 24,
+      "id": 8707,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/kQ2h5wcreCJK7zJMJnAJjjY7rWK.jpg",
+      "season_number": 6,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2009-09-21",
+      "episode_count": 22,
+      "id": 8708,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/psgfTx3DYM8h8KDXGaHyvFmxroo.jpg",
+      "season_number": 7,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "2010-09-20",
+      "episode_count": 16,
+      "id": 8709,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/lV8h3H9IJQU8hqnsjwwg5td2SGA.jpg",
+      "season_number": 8,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2011-09-19",
+      "episode_count": 24,
+      "id": 8710,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/pbhxwxHyU1nNJEpLKuZGjftyhQv.jpg",
+      "season_number": 9,
+      "vote_average": 4.7
+    },
+    {
+      "air_date": "2012-09-27",
+      "episode_count": 23,
+      "id": 8712,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/rkidnuo3bZeQvxbIhcM6PxQbC0N.jpg",
+      "season_number": 10,
+      "vote_average": 5.2
+    },
+    {
+      "air_date": "2013-09-26",
+      "episode_count": 22,
+      "id": 8713,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/qH1E5VDtEHZFtOIYHajTe31JUHm.jpg",
+      "season_number": 11,
+      "vote_average": 5.1
+    },
+    {
+      "air_date": "2014-10-29",
+      "episode_count": 16,
+      "id": 62017,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/t4oM4aGZzeDWHBL2VEToUwpehDj.jpg",
+      "season_number": 12,
+      "vote_average": 5.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.452,
+  "vote_count": 3382,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18976,
+        "known_for_department": "Acting",
+        "name": "Ashton Kutcher",
+        "original_name": "Ashton Kutcher",
+        "popularity": 4.7041,
+        "profile_path": "/4QrIyEezQ9sF8YO7tvQ739GjHVy.jpg",
+        "character": "Walden Schmidt",
+        "credit_id": "5257414a760ee36aaa0a86f1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69718,
+        "known_for_department": "Acting",
+        "name": "Jon Cryer",
+        "original_name": "Jon Cryer",
+        "popularity": 3.4866,
+        "profile_path": "/7PB7dDNHP9l5LlCCw6GP8GjaCAE.jpg",
+        "character": "Alan Harper",
+        "credit_id": "5257414a760ee36aaa0a8421",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1909,
+        "known_for_department": "Acting",
+        "name": "Conchata Ferrell",
+        "original_name": "Conchata Ferrell",
+        "popularity": 2.9314,
+        "profile_path": "/1CuSudlDbvrhFSpXPckzlMfzLiJ.jpg",
+        "character": "Berta",
+        "credit_id": "5257414a760ee36aaa0a8555",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1215345,
+        "known_for_department": "Writing",
+        "name": "Jim Patterson",
+        "original_name": "Jim Patterson",
+        "popularity": 0.1651,
+        "profile_path": null,
+        "credit_id": "56492906c3a36826080093a7",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1536766,
+        "known_for_department": "Writing",
+        "name": "Tim Kelleher",
+        "original_name": "Tim Kelleher",
+        "popularity": 0.836,
+        "profile_path": null,
+        "credit_id": "564925e9c3a3682605008d7f",
+        "department": "Production",
+        "job": "Consulting Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1464530,
+        "known_for_department": "Camera",
+        "name": "Mark Davison",
+        "original_name": "Mark Davison",
+        "popularity": 0.4939,
+        "profile_path": null,
+        "credit_id": "67545f9f678b1834d97ba0cc",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1480289,
+        "known_for_department": "Production",
+        "name": "Joe Bella",
+        "original_name": "Joe Bella",
+        "popularity": 0.1503,
+        "profile_path": null,
+        "credit_id": "564923ff9251413acf0092bf",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 160172,
+        "known_for_department": "Writing",
+        "name": "Chuck Lorre",
+        "original_name": "Chuck Lorre",
+        "popularity": 1.4078,
+        "profile_path": "/8OTRD3d6N0GKy1Z0LJaWZ3MVxXr.jpg",
+        "credit_id": "5257414e760ee36aaa0a8ad5",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "sibling relationship",
+        "id": 380
+      },
+      {
+        "name": "california",
+        "id": 387
+      },
+      {
+        "name": "composer",
+        "id": 1233
+      },
+      {
+        "name": "roommates",
+        "id": 1253
+      },
+      {
+        "name": "evil mother",
+        "id": 7717
+      },
+      {
+        "name": "malibu",
+        "id": 8613
+      },
+      {
+        "name": "advertising",
+        "id": 15086
+      },
+      {
+        "name": "drinking",
+        "id": 15111
+      },
+      {
+        "name": "beach house",
+        "id": 34145
+      },
+      {
+        "name": "casual sex",
+        "id": 172454
+      },
+      {
+        "name": "sitcom",
+        "id": 193171
+      },
+      {
+        "name": "living with sibling",
+        "id": 213119
+      },
+      {
+        "name": "rich brother",
+        "id": 279807
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/sdvd6l9kffMrlaLy7iCqaQNMCL6.jpg",
+        "id": 4238,
+        "name": "The King of Queens",
+        "original_name": "The King of Queens",
+        "overview": "ADRESE TESLİM KOMEDİ, ADRESİNİ ŞAŞIRMIŞ HUYSUZ BİR İHTİYAR VE YALNIZ KALAMAYAN GENÇ BİR ÇİFT  Dağıtım şirketinde şoförlük yapan Doug Heffernan (Kevin James) ile hukuk bürosunda sekreterlik yapan eşi Carrie Heffernan’ın (Leah Remini) aşk, yaşam, aile ve evlilik gibi konular çevresinde dönen maceralarına tanık oluyoruz. The King of Queens, ilhamını gündelik yaşamdan alıyor. Genç evli çift Doug ve Carrie yaşadığımız çağı yansıtan ev içi gerçekler ile boğuşurken ‘kendi halimize gülmemizi’ sağlıyor.  Doug eşini, işini, büyük ekran televizyonunu ve dostları Deacon (Victor Williams), Spence (Patton Oswalt) ve Richie’yi (Larry Romano) çok seviyor. Doug’ın yemeğe olan aşırı düşkünlüğüne, Carrie’nin pahalı elbiselere karşı tutkusuna rağmen birbirlerine olan aşkları, karşılaştıkları her türlü çıkmazı aşmalarını sağlıyor.",
+        "poster_path": "/vXs300Yvjy4Kr0iHgBtajHkYbAt.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 83.5195,
+        "first_air_date": "1998-09-21",
+        "vote_average": 7.069,
+        "vote_count": 640,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zPyVcPi5vFjjHbZsYYbbIG1I0oL.jpg",
+        "id": 2140,
+        "name": "Everybody Loves Raymond",
+        "original_name": "Everybody Loves Raymond",
+        "overview": "Ray Barone, Long Island'da eşi Debra, kızı Ally ve ikiz oğulları Geoffrey ve Michael ile yaşayan başarılı bir spor yazarıdır. Bu iyi haber. Kötü haber? Ray'in burnunu sokan ebeveynleri Frank ve Marie, doğrudan caddenin karşısında oturuyorlar ve televizyon tarihinde benzeri görülmemiş bir ölçüde oğullarının evine sızan \"Su casa es mi casa\" sloganını benimsiyorlar.",
+        "poster_path": "/dcCnVVggEBfNpzHrqzDJqhE6tGP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 63.6951,
+        "first_air_date": "1996-09-13",
+        "vote_average": 6.805,
+        "vote_count": 589,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9YteO4VWteiPmEbWYJRAeBTQZPD.jpg",
+        "id": 1100,
+        "name": "How I Met Your Mother",
+        "original_name": "How I Met Your Mother",
+        "overview": "Ted çocuklarına yıllar önce anneleriyle nasıl tanıştığını anlatırken, Ted'in ruh ikizi için destansı arayışı büyük ölçüde geriye dönüşlerle gösteriliyor.",
+        "poster_path": "/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 119.0829,
+        "first_air_date": "2005-09-19",
+        "vote_average": 8.144,
+        "vote_count": 5206,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sccDflItNho4OiHkzpiDxB2fUFw.jpg",
+        "id": 1418,
+        "name": "The Big Bang Theory",
+        "original_name": "The Big Bang Theory",
+        "overview": "En büyük zevkleri kuantum fiziğine kafa yormak olan üstün zekalı iki arkadaş, güzel bir kızla karşılaşınca ne yaparlar? The Big Bang Theory, işte o karşılaşma anında gerçekleşen büyük patlama ve sonrasını anlatan bir komedi dizisi. Leonard ve Sheldon adlarındaki iki arkadaşın oturdukları apartmanda yan dairelerine yeni bir komşu taşınır. Adı Penny olan bu komşu güzeller güzeli bir sarışındır. Üstelik maceralı bir ilişkiden daha yeni sapasağlam ayakta çıkmıştır. Penny, zekaları gereğinden fazla ilerlemiş, ancak kızlar konusunda oldukça geri kalmış bu yeni iki komşusuna hayat hakkında öğretebileceği bir şeyleri olduğunu düşünmektedir. Yaşanacak olanlar da zaman içinde onun ne kadar haklı olduğunu gösterecektir. ",
+        "poster_path": "/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 84.6161,
+        "first_air_date": "2007-09-24",
+        "vote_average": 7.909,
+        "vote_count": 11703,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
+        "id": 1668,
+        "name": "Friends",
+        "original_name": "Friends",
+        "overview": "1990'ların Manhattan'ında iş hayatının, aşkın ve gündelik yaşamın zorluklarıyla uğraşan 20'li yaşlarda üçü kadın, üçü erkek altı kişilik yakın arkadaş gurubunun komik maceraları.",
+        "poster_path": "/yAVOqZVmYXUqrLg4EiUU88HltYH.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 111.8047,
+        "first_air_date": "1994-09-22",
+        "vote_average": 8.4,
+        "vote_count": 8362,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/edhROlXRob3TopjWJ5898GSvQpI.jpg",
+        "id": 1428,
+        "name": "MythBusters",
+        "original_name": "MythBusters",
+        "overview": "MythBusters, Avustralyalı Beyond Tomorrow Productions tarafından ABD'de Discovery Channel için üretilen bir televizyon programıdır. Program, daha sonra birkaç uluslararası yayıncı ( Avustralya'da SBS, İngiltere'de BBC Two, Türkiye'de Discovery Channel Türkiye) tarafından da yayınlanmıştır. Türkiye'de Efsane Avcıları adı ile yayına verilmiştir. Program, temel bilimsel metodları şehir efsanelerinin, popüler kültürdeki haberlerinin geçerliliğini test etmek için kullanan 30 yıllık özel efektler uzmanları Jamie Hyneman ve Adam Savage tarafından sunulur.\n\nOnlarla beraber Kari Byron,Grant Imahara ve Tory Belleci de yer alır. Ayrıca Türk efsanelerinide Test etmektedirler.",
+        "poster_path": "/lvRnMu00NLGiTPijGZg9CRF3nuY.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 37.8019,
+        "first_air_date": "2003-01-23",
+        "vote_average": 7.8,
+        "vote_count": 563,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/u04AvxFIDgL9JSd9xoVNK3BoBEd.jpg",
+        "id": 39340,
+        "name": "2 Broke Girls",
+        "original_name": "2 Broke Girls",
+        "overview": "Dizide olaylar, zengin ve soylu bir aileden gelen Caroline'in birden bire beş parasız kalması ve Max ile aynı restoranda çalışmaya başlaması sonrasında kurdukları arkadaşlık üzerine kurulmuştur. Karakter olarak Max, kendi yağıyla kavrulan, gündüzleri bebek bakıcılığı, akşamları da garsonluk yaparak geçimini sağlayan, sokak kültürüyle yetişmiş, lafını esirgemeyen, tabiri caizse lafı gediğine oturtan bir kızdır. Max'in aksine Caroline ise girişimciliği ön planda olan, 1'i 2 yapmanın yollarını arayan, daha çok mantığını kullanan bir kızdır ve onunda önerisiyle aldıkları karar sonucu kendi \"çörek dükkânlarını\" açmaya karar verirler. Bunun için yaptıkları hesap sonucunda ortalama 250.000 dolara sahip olmaları gerekmektedir ve nihayetinde, her bölümün sonunda elde ettikleri toplam kazancın bir çetelesi izleyiciye sunulmaktadır.",
+        "poster_path": "/qCa4ANpF1QOioqRUNHgk2B3KFMZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 49.8081,
+        "first_air_date": "2011-09-19",
+        "vote_average": 7.2,
+        "vote_count": 1588,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/yUOFocKDW7MCC5isx4FK8A68QFp.jpg",
+        "id": 4607,
+        "name": "Lost",
+        "original_name": "Lost",
+        "overview": "Oceanic Havayolları’nın Sidney-Los Angeles seferini yapan 815 sefer sayılı uçağı, okyanus üzerinden geçerken, manyetik bir alana kapılarak büyük bir adaya düşer. Fakat önceleri sıradan, tropik bir ada gibi görünen bu kara parçasının, kazazedelerin her birinin hayatını farklı biçimde değiştireceğinden habersizdirler. \n\nAdada sandıklarından daha fazla zaman mahsur kalan Oceanic Havayolları yolcuları her gün yeni bir sürprizle karşılaştıkları bu gizemli adada hayatta kalabilmek ve ne olursa olsun bir yolunu bulup adadan kurtulmak ya da anakaraya haber ulaştırmak için mücadeleye girerler. Öte yandan hem ormanın derinliklerinden gelen 'Diğer ada sakinleri', kara bir duman, silahlı bir Fransız kadın, üniformalı iskeletler, terkedilmiş ambarlar adadan kurtulmak isteyenleri bekleyen cevaplanmamış sorular... \n\nEn İyi Televizyon Dizisi dalında Altın Küre ve Emmy Ödüllü Lost, 6 sezon boyunca televizyon seyircisini ekran başına kitlemeyi başaran, 2000'li yılların kendi fenomenini yaratamış, en çok izlenen dizilerinden biri. Ayrıca oyuncu kadrosuna da kazandırdığı ödüller ve adaylıklarla da televizyon ve sinema dünyasında yeni yıldızlar yaratan LOST fenomeni, hem teknik ekibi, hem yazar ve yapımcı kadrosuyla en çok konuşulan, üzerine en çok komplo teorisi ve senaryo üretilen televizyon yapımı olma özelliğini koruyor...",
+        "poster_path": "/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          10759,
+          18
+        ],
+        "popularity": 94.2348,
+        "first_air_date": "2004-09-22",
+        "vote_average": 7.945,
+        "vote_count": 4526,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/3zRUiH8erHIgNUBTj05JT00HwsS.jpg",
+        "id": 52,
+        "name": "That '70s Show",
+        "original_name": "That '70s Show",
+        "overview": "That 70's Show, 1998-2006 yılları arasında 8 sezon boyunca Amerika Fox televizyonunda yayınlanmış bir komedi sitcom dizisidir. Türkiye'de uzun bir süre TV8 ekranlarında yayınlanmıştır, şu anda da Comedy Smart kanalında yayını sürmektedir.Dizi, 70'li yıllarda hayali kasaba olan Point Place'de yaşayan bir grup genç etrafında geçiyor ve 70'li yılların Amerikan gençlik kültürünü konu alıyor. Dizinin ana karakterlerinden Eric ve tayfasının her bölümde yaptıkları bol dumanlı ve anlamsız bodrum muhabbetleri dizinin en eğlenceli bölümünü oluşturuyor.70'li yılların moda kıyafetleri, şarkıları, sosyal ve politik olayları, diziye konuk oyuncu olarak katılan o dönemin ünlüleri dizinin dikkat çeken önemli unsurlarında biridir. That 70's Show, bir kez Emmy ödülü kazanmıştır ve sekiz kezde aday gösterilmiştir. Dizi, Emmy dışında da bir çok ödül almaya hak kazanmış, bir çok ödüle de aday gösterilmiştir.",
+        "poster_path": "/laEZvTqM80UaplUaDSCCbWhlyEV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751,
+          18
+        ],
+        "popularity": 86.8438,
+        "first_air_date": "1998-08-23",
+        "vote_average": 7.945,
+        "vote_count": 1466,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/z6fUdAWIqSenjIYsPmRltaGHcTq.jpg",
+        "id": 4556,
+        "name": "Scrubs",
+        "original_name": "Scrubs",
+        "overview": "Genç doktorların garip deneyimlerini ekrana taşıyan Scrubs, prestijli Humanitas Prize Ödülü’ne sahip, iki kez de Emmy’ye aday gösterilmiş keyifli bir komedi dizisi. J.D. olarak tanınan John Dorian, dizimizin ana karakteri. J.D:’nin doktorluk macerasını izlerken ‘gerçeküstü’ bir hastane olan Sacred Heart Hospital’ın koridorlarında mizahı da trajediyi de birlikte izleyeceğiz. Chris Turk, genç doktorlarımızdan bir diğeri. J.D.’nin kolejdeki en yakın arkadaşı ve seçkin cerrahi grubunun bir üyesi. Güzel Elliot Reid’in ise tek kusuru gerçek bir asosyal oluşu. Gözleri her zaman bu genç doktorların üzerinde olan Dr. Bob, zaman zaman insanı zorlasa da onlar için endişelenen ve onlara yardımcı olmaya çalışan Dr. Perry Cox ve garip hemşire Carla Espinosa Scrubs’ın diğer karakterleri arasında. J.D.’nin baş düşmanı, hastanenin temizlikçisini de unutmamak lazım.",
+        "poster_path": "/u1z05trCA7AuSuDhi365grwdos1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 42.8261,
+        "first_air_date": "2001-10-02",
+        "vote_average": 8.015,
+        "vote_count": 1930,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ysaA0BInz4071p3LKqAQnWKZCsK.jpg",
+        "id": 2004,
+        "name": "Malcolm in the Middle",
+        "original_name": "Malcolm in the Middle",
+        "overview": "Kaykay yapmak ve en iyi arkadaşı Stevie ile takılmaktan hoşlanan 9 yaşındaki Malcolm, \"yetenekliler\" sınıfına girmeye zorlanınca hayatı alt üst olur ve etrafı toplumdan dışlanan bir grup yetenekliyle çevrelenir.",
+        "poster_path": "/ckLLIsNy3Z0Go1PYHA2PHzVymUA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 99.3378,
+        "first_air_date": "2000-01-09",
+        "vote_average": 8.477,
+        "vote_count": 4498,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/3kz0Hp1sO7JnHFX8BzTokdxTuwY.jpg",
+        "id": 32754,
+        "name": "Terra Nova",
+        "original_name": "Terra Nova",
+        "overview": "2149 yılında Dünya gezegeni üzerindeki yaşam, nüfus patlaması ve kirlilk sonucunda yok olma tehlikesi ile karşı karşıyadır. Bilim adamları geçmişi değiştirerek geleceği kurtarmak amacı ile zamanda yolculuk yaparak tarih öncesi döneme gitmenin yolunu keşfederler. Shannon ailesi (Baba Jim, Eşi Elisabeth, ve çocukları Josh ve Maddy) 150 milyon yıl geriye giderek kendilerini \"Terra Nova\" adlı bölgede bulurlar. İlk insan kolonisi kurulması ve diğer insanlarla karşılaşmaları ile devam eder.",
+        "poster_path": "/y8dFONeUSXhMHiFecqFoaGI7S6y.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          9648,
+          10759
+        ],
+        "popularity": 9.0491,
+        "first_air_date": "2011-09-26",
+        "vote_average": 6.773,
+        "vote_count": 801,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/6FrVFsxsXujg7GJiBy1sw0Fdnji.jpg",
+        "id": 3750,
+        "name": "Nip/Tuck",
+        "original_name": "Nip/Tuck",
+        "overview": "Kokain çeken, seks bağımlısı Dr. Christian Troy bu dünyaya tüm olumsuzluklarıyla tartışmasız dahil olmuşken; ona göre daha mantıklı ve ağırbaşlı olan Dr. Sean McNamara'nın içinde nefes aldığı dünya ile tam olarak örtüştüğü söylenemez.\n\nPara ve güzel kadınlardan oluşan sahte bir cennette geçen zaman, Sean'i eşi ve çocuklarından uzağa sürüklemiştir. Yalnızlaşan ve çevresindeki hiç kimseyle derin ilişkiler kuramayan Sean, kendini sorgulama noktasına gelmiştir\n\nNip/Tuck'ta pırıltılı bir yaşamı izlerken, diğer yanda bu şatafatlı hayatın kaybettirdiklerine de tanık olacağız.\n\n",
+        "poster_path": "/b8wq87RBCman73pxQzWWK93Eicu.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 29.3931,
+        "first_air_date": "2003-07-22",
+        "vote_average": 7.188,
+        "vote_count": 485,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/x4lxFIhhrDI4nWtV8osnYwbGESV.jpg",
+        "id": 1421,
+        "name": "Modern Family",
+        "original_name": "Modern Family",
+        "overview": "İlk ailemizin reisini \"Evli ve Çocuklu\" dizisinde meşhur Al Bundy karakterini oynayan Ed O'Neill, Jay Pritchett karakteriyle canlandırıyor. Jay kendinden çok daha genç bir eşe sahiptir. Gloria adlı genç eşinin bir de Manny adlı oğlu vardır. Jay, Manny'e bir yandan üvey babalık yapmaya çalışırken diğer yandan da genç eşini başkalarına kaptırmamaya çalışmaktadır. İkinci ailemiz ise Phil ve Claire Dunphy çiftidir. Claire, Jay Pritchett'in öz kızı, Phil ise damadıdır. Phil ve Claire çiftinin Haley, Luke ve Alex adın da 3 çocukları vardır. Aile'nin en büyük derdi yaramaz oğulları Luke ve erkek arkadaş sorunları başlayan kızları Haley ve Alex. Üçüncü ailemiz ise gay bir çiftten oluşuyor, Mitchell ve Cameron. Mitchell, Jay Pritchett'in öz oğlu. Bu çiftimizin Vietnam'dan evlat edindikleri Lilly adlı bir bebekleri bulunuyor.",
+        "poster_path": "/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 99.4763,
+        "first_air_date": "2009-09-23",
+        "vote_average": 7.874,
+        "vote_count": 2953,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/y6nEgbjMUpYLnVUwZDzX95wH5Vj.jpg",
+        "id": 4239,
+        "name": "Married... with Children",
+        "original_name": "Married... with Children",
+        "overview": "Al Bundy is an unsuccessful middle aged shoe salesman with a miserable life and an equally dysfunctional family. He hates his job, his wife is lazy, his son is dysfunctional (especially with women), and his daughter is dim-witted and promiscuous.",
+        "poster_path": "/qxdOgESOkBMmfcWUizL01mbdqzl.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 90.874,
+        "first_air_date": "1987-04-05",
+        "vote_average": 7.712,
+        "vote_count": 1074,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7w165QdHmJuTHSQwEyJDBDpuDT7.jpg",
+        "id": 2288,
+        "name": "Prison Break",
+        "original_name": "Prison Break",
+        "overview": "Haksız yere suçlandığını düşündüğü abisini hapishaneden kurtarmak isteyen Michael Scofield, nerdeyse kusursuz bir plan yapar. Lincoln Burrows'a yüklenen suç, kendilerini temize çıkarabilecekleri bir suç değildir. Devletin de işin içine karıştığını öğrendiklerinde kaçmaktan başka çareleri kalmaz. Michael planını uygulamaya sokar ve kaçış başlar.",
+        "poster_path": "/5E1BhkCgjLBlqx557Z5yzcN0i88.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          80,
+          18
+        ],
+        "popularity": 101.1369,
+        "first_air_date": "2005-08-29",
+        "vote_average": 8.078,
+        "vote_count": 5406,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uyB27Tx3KtczuSo4tDfmiXhfuCp.jpg",
+        "id": 1892,
+        "name": "The Fresh Prince of Bel-Air",
+        "original_name": "The Fresh Prince of Bel-Air",
+        "overview": "Will, a street-smart teenager, moves from the tough streets of West Philly to posh Bel-Air to live with his Uncle Philip, Aunt Vivian, his cousins — spoiled Hilary, preppy Carlton and young Ashley — and their sophisticated British butler, Geoffrey. Though Will’s antics and upbringing contrast greatly with the upper-class lifestyle of his extended relatives, he soon finds himself right at home as a loved part of the family.",
+        "poster_path": "/fJXzwxCVr2TEkhhKRKcih9o5DYK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 31.1798,
+        "first_air_date": "1990-09-10",
+        "vote_average": 7.9,
+        "vote_count": 2312,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
+        "id": 1400,
+        "name": "Seinfeld",
+        "original_name": "Seinfeld",
+        "overview": "Seinfeld, dokuz sezon boyunca yayınlanan toplam 169 bölümle televizyon tarihinin en çarpıcı devrimlerinden birini gerçekleştirdi. Yayınlandığı ülkelerde televizyonların en sevilen komedisi olmayı başaran Seinfeld, aynı kentte yaşayan dört arkadaşın gündelik hayatından kesitler sunuyor ve son derece basit fikirlerden ilginç açılımlara uzanıyor.\n\nAna karakter Jerry Seinfeld kadar yan karakterler de dikkat çekici. Hemen her konuda kararsız biri olan Elaine, bitmeyen kompleksleriyle herkesi bıktıran George Costanza ve tuhaf karizması, parlak fikirleriyle Cosmo Kramer. Kumsalda uyuyor gibi hissedebilmek için kumla doldurulmuş yatakta uyumak fikri Cosmo Kramer’in dehasına sadece küçük bir örnek.",
+        "poster_path": "/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 110.4967,
+        "first_air_date": "1989-07-05",
+        "vote_average": 8.259,
+        "vote_count": 2108,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gH5HQbMsSfPc0R41JYTefjB7klZ.jpg",
+        "id": 314,
+        "name": "Star Trek: Enterprise",
+        "original_name": "Star Trek: Enterprise",
+        "overview": "Orijinal Uzay Yolu'ndan yüzyıl önce geçen bu yeni hikayede, Kaptan Archer ve mürettebatı ilk Atılgan gemisiyle uzayı keşfediyor ve yeni türlerle tanışıyor.",
+        "poster_path": "/tsbBTABtNgu0ycsFpnIhiQ5woOM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 62.1192,
+        "first_air_date": "2001-09-26",
+        "vote_average": 7.565,
+        "vote_count": 841,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/nlDBlCtorM7nx130wYnfR5ZmyLX.jpg",
+        "id": 71728,
+        "name": "Young Sheldon",
+        "original_name": "Young Sheldon",
+        "overview": "The Big Bang Theory'nin zeki çocuğu Sheldon'ın 9 yaşındaki haliyle tanışmaya hazır mısınız? Teksas'ta yaşayan dahi çocuk Sheldon Cooper, ne yazık ki gelişmiş matematik yeteneğinin ve sivri zekasının faydasını sosyal hayatında göremez. Sheldon için hayat pek o kadar da kolay olmayacaktır...",
+        "poster_path": "/kidkbZRBGbsEIrX7pODRSKi9ipl.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751,
+          18
+        ],
+        "popularity": 88.1251,
+        "first_air_date": "2017-09-25",
+        "vote_average": 8.048,
+        "vote_count": 2704,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

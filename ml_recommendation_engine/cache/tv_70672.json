@@ -1,0 +1,894 @@
+{
+  "adult": false,
+  "backdrop_path": "/a8a8z4aJr40zYgRMfmSESppX2eO.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "2015-12-05",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Gerçeklik"
+    },
+    {
+      "id": 35,
+      "name": "Komedi"
+    }
+  ],
+  "homepage": "https://tv.jtbc.joins.com/jtbcbros",
+  "id": 70672,
+  "in_production": true,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2025-03-01",
+  "last_episode_to_air": {
+    "id": 6001792,
+    "name": "471. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-01",
+    "episode_number": 471,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 95,
+    "season_number": 1,
+    "show_id": 70672,
+    "still_path": null
+  },
+  "name": "아는 형님",
+  "next_episode_to_air": {
+    "id": 6007818,
+    "name": "472. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-08",
+    "episode_number": 472,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 70672,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 885,
+      "logo_path": "/44I4aVlasm8Blb8WPGXTkMYuZJF.png",
+      "name": "JTBC",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 473,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "아는 형님",
+  "overview": "",
+  "popularity": 1632.298,
+  "poster_path": "/zak7mqMxJGnnWplSdbjDtV7bg2Y.jpg",
+  "production_companies": [
+    {
+      "id": 106106,
+      "logo_path": "/fh6WrCiKqtejW1oerdG0FwiXgFA.png",
+      "name": "SM Culture & Contents",
+      "origin_country": "KR"
+    },
+    {
+      "id": 90935,
+      "logo_path": "/44I4aVlasm8Blb8WPGXTkMYuZJF.png",
+      "name": "JTBC",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2015-12-05",
+      "episode_count": 473,
+      "id": 86084,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/sXJoNC4nTGOCxrre0MrZ0HP3uQI.jpg",
+      "season_number": 1,
+      "vote_average": 8.3
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 7.4,
+  "vote_count": 33,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1421009,
+        "known_for_department": "Acting",
+        "name": "김영철",
+        "original_name": "김영철",
+        "popularity": 2.04,
+        "profile_path": "/f0O90cm6qFi8PvBKYuD2ugRLNlD.jpg",
+        "character": "Self",
+        "credit_id": "58c3d468925141342b002208",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1622151,
+        "known_for_department": "Acting",
+        "name": "민경훈",
+        "original_name": "민경훈",
+        "popularity": 3.493,
+        "profile_path": "/pRaOrGX36dTTnnxrswegaCoSCYI.jpg",
+        "character": "Self",
+        "credit_id": "58c3d4909251413425002534",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1250840,
+        "known_for_department": "Acting",
+        "name": "강호동",
+        "original_name": "강호동",
+        "popularity": 5.098,
+        "profile_path": "/tceyY4cqTxkiar4jFjPnEaZ6QRZ.jpg",
+        "character": "Self",
+        "credit_id": "58c3d403c3a3681ad30021bd",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1250841,
+        "known_for_department": "Acting",
+        "name": "이수근",
+        "original_name": "이수근",
+        "popularity": 4.021,
+        "profile_path": "/zwEmEAS7CAuJLwhLhvSB09La1QM.jpg",
+        "character": "Self",
+        "credit_id": "58c3d4189251413458002516",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1241032,
+        "known_for_department": "Acting",
+        "name": "김희철",
+        "original_name": "김희철",
+        "popularity": 6.435,
+        "profile_path": "/w521FQ30VXdvjEfj0sZcn1sON5b.jpg",
+        "character": "Self",
+        "credit_id": "58c3d439c3a3681ad30021de",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1662829,
+        "known_for_department": "Acting",
+        "name": "서장훈",
+        "original_name": "서장훈",
+        "popularity": 5.312,
+        "profile_path": "/w0sGoIEqQE1cKAgL7vlBxwbNDSd.jpg",
+        "character": "Self",
+        "credit_id": "58c3d457c3a3681a4a002406",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1253793,
+        "known_for_department": "Acting",
+        "name": "이상민",
+        "original_name": "이상민",
+        "popularity": 3.415,
+        "profile_path": "/y9is5HFbPIyZtUpuKlbWyJPMlFn.jpg",
+        "character": "Self",
+        "credit_id": "58c3d4a3925141343e002466",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1875865,
+        "known_for_department": "Writing",
+        "name": "Yoo Ji-hee",
+        "original_name": "Yoo Ji-hee",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "599ea07a925141101700d0fc",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1875864,
+        "known_for_department": "Writing",
+        "name": "Choi Mi-yeon",
+        "original_name": "Choi Mi-yeon",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "599ea071c3a3685a4000d14a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1875867,
+        "known_for_department": "Writing",
+        "name": "Lee Ji-young",
+        "original_name": "Lee Ji-young",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "599ea085925141101700d10c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1875857,
+        "known_for_department": "Directing",
+        "name": "Park Da-eun",
+        "original_name": "Park Da-eun",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "599e9ff3925141103700ced1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1875849,
+        "known_for_department": "Directing",
+        "name": "Choi Chang-soo",
+        "original_name": "Choi Chang-soo",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "599e9f8fc3a3685a4000d02b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1875855,
+        "known_for_department": "Directing",
+        "name": "Hong Sang-hoon",
+        "original_name": "Hong Sang-hoon",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "599e9fd4925141105600d05a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1875869,
+        "known_for_department": "Writing",
+        "name": "Kim Yeo-won",
+        "original_name": "Kim Yeo-won",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "599ea0b3925141103700cfaa",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1875858,
+        "known_for_department": "Directing",
+        "name": "Kim Jung-hun",
+        "original_name": "Kim Jung-hun",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "599ea013925141100800d1b7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1875860,
+        "known_for_department": "Writing",
+        "name": "Hwang Sun-young",
+        "original_name": "Hwang Sun-young",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "599ea048925141100e00d148",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1875868,
+        "known_for_department": "Writing",
+        "name": "Jeon Min-hee",
+        "original_name": "Jeon Min-hee",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "599ea0a8925141105c00cef3",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1875856,
+        "known_for_department": "Directing",
+        "name": "Kim Sun-hyung",
+        "original_name": "Kim Sun-hyung",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "599e9fe6925141103700cec2",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1875870,
+        "known_for_department": "Writing",
+        "name": "Yoo Sung-mi",
+        "original_name": "Yoo Sung-mi",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "599ea0bcc3a36859ed00c7b9",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1875859,
+        "known_for_department": "Directing",
+        "name": "Ha Ho-jin",
+        "original_name": "Ha Ho-jin",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "599ea01fc3a3685a0c00c53d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1875851,
+        "known_for_department": "Directing",
+        "name": "Yoo Ki-hwan",
+        "original_name": "Yoo Ki-hwan",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "599e9fa5c3a3685a5800c108",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1875861,
+        "known_for_department": "Writing",
+        "name": "Jung Yoon-hee",
+        "original_name": "Jung Yoon-hee",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "599ea062925141105600d100",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3142458,
+        "known_for_department": "Production",
+        "name": "여운혁",
+        "original_name": "여운혁",
+        "popularity": 1.772,
+        "profile_path": "/2gqHuPUSU6Dfya1wFawEsmuJEJ6.jpg",
+        "credit_id": "626d1f37c74eba2e0a627196",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "classroom",
+        "id": 1517
+      },
+      {
+        "name": "lighthearted",
+        "id": 288816
+      },
+      {
+        "name": "joyful",
+        "id": 325832
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/sztoil0XfQ0cSHy4PXmYW6uAdfQ.jpg",
+        "id": 65282,
+        "name": "Home Alone",
+        "original_name": "나 혼자 산다",
+        "overview": "It can be a badge of honor to be “single.” “I Live Alone” is a documentary-style South Korean reality series that follows the members of a self-formed club called Rainbow, which is comprised of  celebrities who are single and live alone.",
+        "poster_path": "/1hqGagr94soBq70Lq7tPHvNmmxy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 811.257,
+        "first_air_date": "2013-03-22",
+        "vote_average": 7.0,
+        "vote_count": 17,
+        "origin_country": [
+          "KR",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dgutaqpLcLMoJInkbglyG8cLuji.jpg",
+        "id": 91121,
+        "name": "How Do You Play?",
+        "original_name": "놀면 뭐하니?",
+        "overview": "Yoo Jae-suk reunites the producing team of Infinite Challenge and presents you How Do You Play? The Indefinitely expanding YOONIVERSE, based on Yoo's blood, sweat, and tears, will entertain viewers at home. Let's follow Yoo and his friends' new projects every week.",
+        "poster_path": "/dJd8LFodX9831AeRD3CzWklYcS5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          10764,
+          35
+        ],
+        "popularity": 186.593,
+        "first_air_date": "2019-07-27",
+        "vote_average": 7.5,
+        "vote_count": 18,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 87749,
+        "name": "Heart 4 U",
+        "original_name": "심포유",
+        "overview": "“Heart 4 U” is a reality series that chronicles each EXO member’s life and reveal stories from their everyday life as a series.",
+        "poster_path": "/OfOVqv3FF9KRwIZsgKVq1K6Hdg.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 51.914,
+        "first_air_date": "2019-03-25",
+        "vote_average": 9.7,
+        "vote_count": 3,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 83193,
+        "name": "She is Wow",
+        "original_name": "우와한 녀",
+        "overview": "",
+        "poster_path": "/3IC35yzEkRWG8fCMdH5wBwoRcTy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 26.837,
+        "first_air_date": "2013-04-18",
+        "vote_average": 6.0,
+        "vote_count": 2,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/bktCDZnXAsLAAMJNFrNZ4LKmgRw.jpg",
+        "id": 62461,
+        "name": "Ex-Girlfriend Club",
+        "original_name": "구여친클럽",
+        "overview": "A popular webtoon writer writes about his ex-girlfriends. While his webtoon is being made into a movie, he meets a female film producer.",
+        "poster_path": "/cdAJs1vtNPeeG1aYwlnWgAmhjME.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          35,
+          10749
+        ],
+        "popularity": 18.718,
+        "first_air_date": "2015-05-08",
+        "vote_average": 7.182,
+        "vote_count": 11,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 76667,
+        "name": "Super TV",
+        "original_name": "슈퍼TV",
+        "overview": "A Korean variety show. “There are some who are less crazy, but there’s no one that’s not crazy.”",
+        "poster_path": "/chmS6SkuwzGitf2fjgaLIQwlFUY.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 15.9,
+        "first_air_date": "2018-01-26",
+        "vote_average": 5.0,
+        "vote_count": 2,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg",
+        "id": 33238,
+        "name": "Running Man",
+        "original_name": "런닝맨",
+        "overview": "A reality and competition show where members are joined by celebs to complete a weekly mission to win the race with Seoul as the beautiful backdrop.",
+        "poster_path": "/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          35,
+          10764
+        ],
+        "popularity": 2008.707,
+        "first_air_date": "2010-07-11",
+        "vote_average": 8.2,
+        "vote_count": 187,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/zdGs9Rtb3DP2ohP29lOQhCnAnTz.jpg",
+        "id": 68814,
+        "name": "Strong Woman Do Bong-Soon",
+        "original_name": "힘쎈여자 도봉순",
+        "overview": "Dizi, Do Bong-Soon’u ele alarak kadınların hayatını anlatmaktadır.Park Hyung-Sik dizide kendi inşaat şirketinde CEO olan An Min-Hyuk karakterini canlandırmaktadır.",
+        "poster_path": "/sPdS6oUdXfBNGKROE5RY5s5laqx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          35,
+          10759,
+          18
+        ],
+        "popularity": 47.742,
+        "first_air_date": "2017-02-24",
+        "vote_average": 8.075,
+        "vote_count": 261,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/4Fj8sRNtqcMPR2H2zpXQ1rHrlGz.jpg",
+        "id": 117378,
+        "name": "Mouse",
+        "original_name": "마우스",
+        "overview": "Çılgın bir seri katilin acımasız cinayetleri tüm ulusu korku içinde bırakmış ve kaos hüküm sürmektedir. Adalet arayan çaylak polis memuru Jung Ba Reum, katille yüz yüze gelir. Jung Ba Reum, psikopatla yaşadığı tehlikeli karşılaşmadan sağ kurtulurken, hayatının gözlerinin önünde tamamen değiştiğini fark eder.",
+        "poster_path": "/nU9egcLr002U23IPBqoCWqXkdwf.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          80,
+          9648,
+          10765
+        ],
+        "popularity": 50.772,
+        "first_air_date": "2021-03-03",
+        "vote_average": 8.396,
+        "vote_count": 264,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/ex4kvQb0Ski5KL2fsnKQU2hV3oo.jpg",
+        "id": 1425,
+        "name": "House of Cards",
+        "original_name": "House of Cards",
+        "overview": "90’lı yıllarda, politikacı yazar Michael Dobbs tarafından yazılan aynı adlı kitaptan esinlenen ve BBC’ye mini dizi olarak uyarlanan “House of Cards”, şimdi Amerikalı yapımcılar tarafından bir kez daha, üstelik muhteşem bir kadro eşliğinde televizyona aktarıldı. Son yıllarda “The Curious Case of Benjamin Button” ve “Social Network” filmleriyle ses getiren David Fincher tarafından yapımcılığı ve yönetmenliği üstlenen dizinin başrollerinde, Fincher’ın filmlerinde de rol alan iki ünlü yıldız yer alıyor. “Seven” filminde birlikte çalıştığı Kevin Spacey ve “The Girl with the Dragon Tattoo” filminde rol alan Robin Wright. \n\n“House of Cards” Washington’da hırslı bir politikacının zirveye tırmanışını anlatıyor. Kevin Spacey tarafından canlandırılan Francis Underwood yıllarını Beyaz Saray koridorlarında geçirdikten sonra, artık başkanlık seçimlerine adaylığını koyması gerektiğini düşünüyor. Ne de olsa bunca zaman o koridorlarda gördüğü tüm üst düzey bürokratlar ile ilgili her türlü bilgiye sahip. Kimi hangi dosyayla tehdit edeceğini biliyor. Bu gözü kara politikacının Robin Wright tarafından canlandırılan eşi Claire’in de ondan aşağı kalır yanı yok. Francis Underwood’un başkanlık koltuğuna ilerlemek için adeta iskambil kağıtlarından bir ev gibi itinayla inşa ettiği stratejisini ilgiyle takip edeceksiniz.",
+        "poster_path": "/rXaHpG5E8y68pqfG2RRwmjdebo1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 117.306,
+        "first_air_date": "2013-02-01",
+        "vote_average": 8.0,
+        "vote_count": 2823,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/mRwV4W2BAEpte7xlawJP4fsBpmS.jpg",
+        "id": 13916,
+        "name": "Ölüm Defteri",
+        "original_name": "DEATH NOTE",
+        "overview": "Yagami Light, üniversiteye hazırlanan bir lise son sınıf öğrencisidir. Light, Japonya'nın belki de en yetenekli ve zeki öğrencisi olmasına rağmen, yaşadığı dünya ona tat vermemektedir. Yolsuzluklar ve suçlar yüzünden onun için her şey anlamını yitirmiştir.\n\nLight, bu hüznünü kendi içinde yaşarken ders sırasında bir defterin gökten düştüğünü görür. Okul çıkışı elinde olmadan defterin düştüğü yere yönelir. Defterin üstünde \"Death Note\" yazmaktadır. Defteri yerden alıp incelediğinde ise inanılmaz bir şey ile karşılaşır.\n\n\"Bu deftere adı yazılan insan ölecektir.\"\n\nEvde haberleri izlerken bir adamın bir anaokulundaki öğrencileri ve öğretmenleri rehin aldığını izler. Defterin gerçekliğini test etmek için rehin alan adamın adını deftere yazar ve 40 saniye sonra adam ölür. Defterin gerçekliği karşısında şaşkına dönen Light, kendi mükemmel dünyasını yaratmak için diğer suçlulara yönelecektir. Ancak peki ya insanlar bu durumdan haberdar olup peşine dünyanın en iyi dedektifi L'yi takarsa?",
+        "poster_path": "/tCZFfYTIwrR7n94J6G14Y4hAFU6.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          9648,
+          10765
+        ],
+        "popularity": 99.479,
+        "first_air_date": "2006-10-04",
+        "vote_average": 8.633,
+        "vote_count": 4283,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/9faGSFi5jam6pDWGNd0p8JcJgXQ.jpg",
+        "id": 1396,
+        "name": "Breaking Bad",
+        "original_name": "Breaking Bad",
+        "overview": "Kanserden öleceğini öğrenen bir kimya öğretmeni, ailesinin geleceğini garanti altına almak için metamfetamin üretip satmak üzere eski bir öğrencisiyle kafa kafaya verir.",
+        "poster_path": "/ineLOBPG8AZsluYwnkMpHRyu7L.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 540.297,
+        "first_air_date": "2008-01-20",
+        "vote_average": 8.923,
+        "vote_count": 15146,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/q3jHCb4dMfYF6ojikKuHd6LscxC.jpg",
+        "id": 84958,
+        "name": "Loki",
+        "original_name": "Loki",
+        "overview": "Marvel Studios'tan Loki'de, \"Avengers: Endgame\"de yaşananların sonrası ele alınmaktadır ve bu yeni dizide kurnaz süper kötü Loki (Tom Hiddleston) Fesatlık Tanrısı rolüne devam eder. Dizinin yönetmenliğini Kate Herron, baş yazarlığını ise Michael Waldron üstlenmiştir.",
+        "poster_path": "/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 113.217,
+        "first_air_date": "2021-06-09",
+        "vote_average": 8.173,
+        "vote_count": 11755,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ysaA0BInz4071p3LKqAQnWKZCsK.jpg",
+        "id": 2004,
+        "name": "Malcolm in the Middle",
+        "original_name": "Malcolm in the Middle",
+        "overview": "Kaykay yapmak ve en iyi arkadaşı Stevie ile takılmaktan hoşlanan 9 yaşındaki Malcolm, \"yetenekliler\" sınıfına girmeye zorlanınca hayatı alt üst olur ve etrafı toplumdan dışlanan bir grup yetenekliyle çevrelenir.",
+        "poster_path": "/ckLLIsNy3Z0Go1PYHA2PHzVymUA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          35,
+          18
+        ],
+        "popularity": 295.632,
+        "first_air_date": "2000-01-09",
+        "vote_average": 8.479,
+        "vote_count": 4449,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
+        "id": 1408,
+        "name": "House, M.D.",
+        "original_name": "House",
+        "overview": "Gregory House New Jersey Princeton Plainsboro Hastanesinin tıbbi tanı uzamanı doktordur. Kendini aşırı beğenmesi, insanları önemsememesi ve boşvermişlik gibi özelliklerine rağmen müthiş bir doktordur. Uzmanlık alanı bulaşıcı hastalıklardır. Hiç kimsenin tanı koyamadığı hastalara tanı koyarak onların hayatlarını kurtarmaktadır ancak ekibindekilerin psikolojilerini de sürekli olarak bozmaktadır. Hastanenin yöneticisi Lisa Cuddy onu sürekli gözlem altında tutmaya çalışmaktadır ve ondan asla vazgeçmemektedir çünkü en zor durumlarda hastaları kurtaran hep odur ama Dr. House yüzünden hastane sık sık dava edilmektedir.",
+        "poster_path": "/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          35
+        ],
+        "popularity": 568.775,
+        "first_air_date": "2004-11-16",
+        "vote_average": 8.591,
+        "vote_count": 6804,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7w165QdHmJuTHSQwEyJDBDpuDT7.jpg",
+        "id": 2288,
+        "name": "Prison Break",
+        "original_name": "Prison Break",
+        "overview": "Haksız yere suçlandığını düşündüğü abisini hapishaneden kurtarmak isteyen Michael Scofield, nerdeyse kusursuz bir plan yapar. Lincoln Burrows'a yüklenen suç, kendilerini temize çıkarabilecekleri bir suç değildir. Devletin de işin içine karıştığını öğrendiklerinde kaçmaktan başka çareleri kalmaz. Michael planını uygulamaya sokar ve kaçış başlar.",
+        "poster_path": "/5E1BhkCgjLBlqx557Z5yzcN0i88.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          80,
+          18
+        ],
+        "popularity": 508.496,
+        "first_air_date": "2005-08-29",
+        "vote_average": 8.1,
+        "vote_count": 5325,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sccDflItNho4OiHkzpiDxB2fUFw.jpg",
+        "id": 1418,
+        "name": "The Big Bang Theory",
+        "original_name": "The Big Bang Theory",
+        "overview": "En büyük zevkleri kuantum fiziğine kafa yormak olan üstün zekalı iki arkadaş, güzel bir kızla karşılaşınca ne yaparlar? The Big Bang Theory, işte o karşılaşma anında gerçekleşen büyük patlama ve sonrasını anlatan bir komedi dizisi. Leonard ve Sheldon adlarındaki iki arkadaşın oturdukları apartmanda yan dairelerine yeni bir komşu taşınır. Adı Penny olan bu komşu güzeller güzeli bir sarışındır. Üstelik maceralı bir ilişkiden daha yeni sapasağlam ayakta çıkmıştır. Penny, zekaları gereğinden fazla ilerlemiş, ancak kızlar konusunda oldukça geri kalmış bu yeni iki komşusuna hayat hakkında öğretebileceği bir şeyleri olduğunu düşünmektedir. Yaşanacak olanlar da zaman içinde onun ne kadar haklı olduğunu gösterecektir. ",
+        "poster_path": "/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 222.02,
+        "first_air_date": "2007-09-24",
+        "vote_average": 7.91,
+        "vote_count": 11545,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9zcbqSxdsRMZWHYtyCd1nXPr2xq.jpg",
+        "id": 82856,
+        "name": "The Mandalorian",
+        "original_name": "The Mandalorian",
+        "overview": "İmparatorluk'un çöküşünden sonra yalnız bir Mandalorian, öksüzü Grogu'yla beraber kanunsuz galakside dikkatle yol alır.",
+        "poster_path": "/eU1i6eHXlzMOlEq0ku1Rzq7Y4wA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 131.268,
+        "first_air_date": "2019-11-12",
+        "vote_average": 8.424,
+        "vote_count": 10243,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+        "id": 1399,
+        "name": "Game of Thrones",
+        "original_name": "Game of Thrones",
+        "overview": "Krallık dediğin savaşsız olur mu? En güçlü krallığı kurup, huzuru sağlamış olsan bile bu gücü elinde nasıl koruyacaksın? Burada yanlış yapana yer yok, affetmek yok. Kuzey Krallığının hükümdarı Lord Ned Stark, uzun ve zorlu savaşlardan sonra anayurduna dönüp krallığını bütünlük içerisinde tutmayı başarmıştır. Kral Robert Baratheon ile yıllarca omuz omuza çarpışan ve Baratheon'un kral olmasını sağlayan Ned Stark'ın tek istediği kuzey sınırlarını koruyan krallığında ailesiyle ve halkıyla yaşamaktır. \n\nFakat suyun öte yanında kendi topraklarından ve krallığından kovulduğunu iddia eden Viserys Targaryen , kız kardeşi Daenerys'i barbar kavimlerin başı Han Drogo'ya vererek, güç birliği planları yapmaktadır. Tahtını büyük bir iştahla geri isteyen ama kraliyet oyunlarından habersiz olan Viserys'in planları Kral Baratheon'a ulaşır. Savaş alanında büyük cengaver olan ama ülke ve aile yönetiminde aynı başarıyı tutturamayan Baratheon'un tamamen güvenebileceği ve her yanlış hamlesini arkasından toplayacak yeni bir sağ kola ihtiyacı vardır. Kuzeyin Lordu Ned Stark bu görev için seçilen tek aday isimdir. Kış yaklaşıyor...\n\nHanedan entrikaları, kapılı kapılar ardında dönen oyunlar, birilerinin kuyusunu kazmak için düşmanın koynuna girmekten çekinmeyen kadınlar, kardeşler arası çekişmeler, dışlanmalar... Hepsi tek bir hedef için: Taht kavgası..",
+        "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 723.189,
+        "first_air_date": "2011-04-17",
+        "vote_average": 8.456,
+        "vote_count": 24678,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/pxeqQX4qFQ0cVxPt5SWZENV5BH3.jpg",
+        "id": 456,
+        "name": "The Simpsons",
+        "original_name": "The Simpsons",
+        "overview": "Bu animasyon komedi Springfield'de diziye adını veren aileye odaklanıyor. Baba Homer tipik bir aile babası değil. Nükleer santralde çalışarak ailesine liderlik etmeye çabalıyor ancak çoğu zaman ailesi onu yönetiyor. Sevgi dolu, mavi saçlı aile reisi anne Marge, sorun çıkaran oğlu Bart, çok başarılı kızı Lisa ve bebek Maggie ailenin diğer fertleri.",
+        "poster_path": "/vHqeLzYl3dEAutojCO26g0LIkom.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          16,
+          35
+        ],
+        "popularity": 834.384,
+        "first_air_date": "1989-12-17",
+        "vote_average": 8.015,
+        "vote_count": 10085,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

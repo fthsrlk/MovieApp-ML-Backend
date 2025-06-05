@@ -1,0 +1,947 @@
+{
+  "adult": false,
+  "backdrop_path": "/dnePq1kDs0On398Oc7sVUCZgtft.jpg",
+  "created_by": [
+    {
+      "id": 30024,
+      "credit_id": "52571c9b760ee3776a1b67a6",
+      "name": "Joel Hodgson",
+      "original_name": "Joel Hodgson",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    92,
+    97
+  ],
+  "first_air_date": "1989-11-25",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Komedi"
+    },
+    {
+      "id": 10765,
+      "name": "Bilim Kurgu & Fantazi"
+    }
+  ],
+  "homepage": "http://www.mst3k.com/",
+  "id": 1952,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1999-09-12",
+  "last_episode_to_air": {
+    "id": 132350,
+    "name": "13. Bölüm",
+    "overview": "",
+    "vote_average": 8.2,
+    "vote_count": 6,
+    "air_date": "1999-09-12",
+    "episode_number": 13,
+    "episode_type": "standard",
+    "production_code": "1003",
+    "runtime": 92,
+    "season_number": 10,
+    "show_id": 1952,
+    "still_path": "/kmY2z6DnpJ8ErNTDg0t9qwFQEgd.jpg"
+  },
+  "name": "Mystery Science Theater 3000",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 47,
+      "logo_path": "/6ooPjtXufjsoskdJqj6pxuvHEno.png",
+      "name": "Comedy Central",
+      "origin_country": "US"
+    },
+    {
+      "id": 77,
+      "logo_path": "/iYfrkobwDhTOFJ4AXYPSLIEeaAT.png",
+      "name": "Syfy",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 176,
+  "number_of_seasons": 10,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Mystery Science Theater 3000",
+  "overview": "1988 -1999 tarihleri arasında amerikan televizyonlarında yayınlanmış alternatif bir bilim kurgu dizisidir. Dizinin ana kahramanı Joel, çılgın bilim adamları tarafından kaçırılır ve uzayda bir uydunun içine hapsedilir ve birbirinden kotu filmler seyretmeye zorlanır. Bilim adamlarının amacı olabilecek bütün kotu filmleri Joel'e izlettirip, aralarından en kötüsünü insanlık üzerinde kullanıp dünyayı ele geçirmektir. her bölümde ayrı bir film vardır ve biz filmi sanki sinema salonunda seyredermiş gibi görürüz ekranda. Dizinin eğlenceli yani filmin kendisi değil, öndeki izleyenlerin yorumlarıdır. Her bölüm yaklaşık 2 saat sürmektedir.",
+  "popularity": 67.0155,
+  "poster_path": "/nNeb35RFoeLwxu0CFzZ9NAI5UTA.jpg",
+  "production_companies": [
+    {
+      "id": 67207,
+      "logo_path": null,
+      "name": "HBO Downtown Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 12852,
+      "logo_path": "/a2yqtzhDsTCsgccaed7tVCWjkhD.png",
+      "name": "Shout! Factory",
+      "origin_country": "US"
+    },
+    {
+      "id": 1310,
+      "logo_path": null,
+      "name": "Consolidated Puppets",
+      "origin_country": "US"
+    },
+    {
+      "id": 90036,
+      "logo_path": null,
+      "name": "Alternaversal Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 90037,
+      "logo_path": null,
+      "name": "Satellite of Love",
+      "origin_country": ""
+    },
+    {
+      "id": 32175,
+      "logo_path": "/uDdRj9LplO4odapVo2XB39tW0wA.png",
+      "name": "Abominable Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1538,
+      "logo_path": "/1y7qNFwczl2zZS62Hrlw6dsAwgR.png",
+      "name": "Comedy Central",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 194,
+      "id": 5720,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/iVxSoCwCvSgEbYmPHjY8tzqpP6P.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1989-11-25",
+      "episode_count": 13,
+      "id": 5721,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/miJRxIHJWMWBlB6nffwszkKclUG.jpg",
+      "season_number": 1,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "1990-09-22",
+      "episode_count": 13,
+      "id": 5722,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/qvNA3wamAYFblbyMfRU7iZEW23Q.jpg",
+      "season_number": 2,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "1991-06-01",
+      "episode_count": 24,
+      "id": 5723,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/17eDNVO0qXV9kLDeg97omTJUswX.jpg",
+      "season_number": 3,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "1992-06-06",
+      "episode_count": 24,
+      "id": 5724,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/edxJwBu731kKJcUKAS2jq6xMglh.jpg",
+      "season_number": 4,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "1993-07-24",
+      "episode_count": 24,
+      "id": 5725,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/7pkJO7ubeNlHHPnHNXKKYdGArWj.jpg",
+      "season_number": 5,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "1994-07-16",
+      "episode_count": 24,
+      "id": 5726,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/xfk9u3Gm5VTVV56V9k6RCNQsmO.jpg",
+      "season_number": 6,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "1996-02-03",
+      "episode_count": 6,
+      "id": 5727,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/1Du0qbfDYLfA6sFZhrajQYFDmdV.jpg",
+      "season_number": 7,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "1997-02-01",
+      "episode_count": 22,
+      "id": 5728,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/hfKu4j2ZSwYF1PyGwCK7Fu0D7Vf.jpg",
+      "season_number": 8,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "1998-03-14",
+      "episode_count": 13,
+      "id": 5729,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/13AivoXCCauohLxV4CmdzbBDuLM.jpg",
+      "season_number": 9,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "1999-04-11",
+      "episode_count": 13,
+      "id": 5730,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/442y9UTlDjqvKVJk2mWwjyjxbF6.jpg",
+      "season_number": 10,
+      "vote_average": 7.2
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.708,
+  "vote_count": 207,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30020,
+        "known_for_department": "Writing",
+        "name": "Michael J. Nelson",
+        "original_name": "Michael J. Nelson",
+        "popularity": 1.0106,
+        "profile_path": "/8yCJVVFtkrh6VmAnSBbmM9yqzYc.jpg",
+        "character": "Mike Nelson",
+        "credit_id": "52571c9a760ee3776a1b65da",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30022,
+        "known_for_department": "Writing",
+        "name": "Kevin Murphy",
+        "original_name": "Kevin Murphy",
+        "popularity": 0.9411,
+        "profile_path": "/s1REGBYFGc2Ibo7QlQ95cbjaq2m.jpg",
+        "character": "Tom Servo (voice) / Professor Bobo",
+        "credit_id": "64f252e11f331900e356450e",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68833,
+        "known_for_department": "Writing",
+        "name": "Bill Corbett",
+        "original_name": "Bill Corbett",
+        "popularity": 1.0379,
+        "profile_path": "/wReOO15Rjtl6nBXk8EoG36Xgrwz.jpg",
+        "character": "Crow T. Robot (voice) / Observer",
+        "credit_id": "64f254045f2b8d00c43267d7",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 117650,
+        "known_for_department": "Acting",
+        "name": "Mary Jo Pehl",
+        "original_name": "Mary Jo Pehl",
+        "popularity": 0.5612,
+        "profile_path": "/huWFK2lnHxDcocuk0uMpMrkwOcO.jpg",
+        "character": "Pearl Forrester",
+        "credit_id": "52571c9b760ee3776a1b6712",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1714794,
+        "known_for_department": "Acting",
+        "name": "Patrick Brantseg",
+        "original_name": "Patrick Brantseg",
+        "popularity": 0.4071,
+        "profile_path": null,
+        "character": "Gypsy (voice)",
+        "credit_id": "583a7b72925141148a001c6c",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30022,
+        "known_for_department": "Writing",
+        "name": "Kevin Murphy",
+        "original_name": "Kevin Murphy",
+        "popularity": 0.9411,
+        "profile_path": "/s1REGBYFGc2Ibo7QlQ95cbjaq2m.jpg",
+        "credit_id": "52571ca1760ee3776a1b6ab6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30021,
+        "known_for_department": "Acting",
+        "name": "Jim Mallon",
+        "original_name": "Jim Mallon",
+        "popularity": 0.6632,
+        "profile_path": "/uYkTlmNjdqvOlzpU2YpXyDkb39K.jpg",
+        "credit_id": "52571c9d760ee3776a1b68e0",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1228357,
+        "known_for_department": "Acting",
+        "name": "Paul Chaplin",
+        "original_name": "Paul Chaplin",
+        "popularity": 0.3471,
+        "profile_path": "/b72K2RguL85UWLklOxyzElSIRA1.jpg",
+        "credit_id": "52571c9e760ee3776a1b6980",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30019,
+        "known_for_department": "Acting",
+        "name": "Trace Beaulieu",
+        "original_name": "Trace Beaulieu",
+        "popularity": 0.746,
+        "profile_path": "/2AB4g7ZSEU3Q5C5Bt6xthvOYK87.jpg",
+        "credit_id": "52571c9e760ee3776a1b69cc",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 117650,
+        "known_for_department": "Acting",
+        "name": "Mary Jo Pehl",
+        "original_name": "Mary Jo Pehl",
+        "popularity": 0.5612,
+        "profile_path": "/huWFK2lnHxDcocuk0uMpMrkwOcO.jpg",
+        "credit_id": "52571c9d760ee3776a1b6848",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1228360,
+        "known_for_department": "Acting",
+        "name": "Mike Dodge",
+        "original_name": "Mike Dodge",
+        "popularity": 0.1315,
+        "profile_path": null,
+        "credit_id": "52571ca1760ee3776a1b6a68",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117649,
+        "known_for_department": "Acting",
+        "name": "Frank Conniff",
+        "original_name": "Frank Conniff",
+        "popularity": 0.6452,
+        "profile_path": "/dWiyYrczRjH78n6ppe9YiSU1u52.jpg",
+        "credit_id": "52571c9d760ee3776a1b6932",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1228359,
+        "known_for_department": "Writing",
+        "name": "Colleen Henjum",
+        "original_name": "Colleen Henjum",
+        "popularity": 0.0438,
+        "profile_path": null,
+        "credit_id": "52571ca0760ee3776a1b6a1a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1228354,
+        "known_for_department": "Writing",
+        "name": "David Sussman",
+        "original_name": "David Sussman",
+        "popularity": 0.088,
+        "profile_path": null,
+        "credit_id": "52571c9d760ee3776a1b67fc",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30022,
+        "known_for_department": "Writing",
+        "name": "Kevin Murphy",
+        "original_name": "Kevin Murphy",
+        "popularity": 0.9411,
+        "profile_path": "/s1REGBYFGc2Ibo7QlQ95cbjaq2m.jpg",
+        "credit_id": "52571c9d760ee3776a1b6894",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30024,
+        "known_for_department": "Creator",
+        "name": "Joel Hodgson",
+        "original_name": "Joel Hodgson",
+        "popularity": 1.2328,
+        "profile_path": null,
+        "credit_id": "52571ca1760ee3776a1b6b02",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30020,
+        "known_for_department": "Writing",
+        "name": "Michael J. Nelson",
+        "original_name": "Michael J. Nelson",
+        "popularity": 1.0106,
+        "profile_path": "/8yCJVVFtkrh6VmAnSBbmM9yqzYc.jpg",
+        "credit_id": "52571c9b760ee3776a1b67ae",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "film in film",
+        "id": 9732
+      },
+      {
+        "name": "space",
+        "id": 9882
+      },
+      {
+        "name": "mad scientist",
+        "id": 10125
+      },
+      {
+        "name": "puppetry",
+        "id": 11691
+      },
+      {
+        "name": "robot",
+        "id": 14544
+      },
+      {
+        "name": "space station",
+        "id": 156039
+      },
+      {
+        "name": "mst3k",
+        "id": 240358
+      },
+      {
+        "name": "stranded in orbit",
+        "id": 288019
+      },
+      {
+        "name": "sci-fi parody",
+        "id": 320517
+      },
+      {
+        "name": "movie riffing",
+        "id": 321643
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/wixjwQv8aPfIwbc7euj0fPPsMjT.jpg",
+        "id": 3216,
+        "name": "Baretta",
+        "original_name": "Baretta",
+        "overview": "Baretta is an American detective television series which ran on ABC from 1975 to 1978. The show was a milder version of a successful 1973–74 ABC series, Toma, starring Tony Musante as chameleon-like, real-life New Jersey police officer David Toma. While popular, Toma received intense criticism at the time for its realistic and frequent depiction of police and criminal violence. When Musante left the series after a single season, the concept was retooled as Baretta, with Robert Blake in the title role.",
+        "poster_path": "/xayGSRT2GbcFTwNIqt6l355v29F.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 18.1745,
+        "first_air_date": "1975-01-17",
+        "vote_average": 6.3,
+        "vote_count": 36,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 7615,
+        "name": "At the Movies",
+        "original_name": "At the Movies",
+        "overview": "At the Movies is a movie review television program that aired from 1982 to 1990. It was produced by Tribune Entertainment and created by Gene Siskel and Roger Ebert, who had left Sneak Previews the previous year.\n\nSiskel and Ebert left in 1986 in a dispute with Tribune Entertainment; they went on to create Siskel & Ebert with Buena Vista Television. They were replaced by film critics Rex Reed and Bill Harris, a gossip correspondent for Entertainment Tonight. Under Reed and Harris, the show expanded beyond movie reviews, adding show business news. Harris left in 1988 and was replaced by former ET host Dixie Whatley.",
+        "poster_path": null,
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 7.6358,
+        "first_air_date": "1982-09-26",
+        "vote_average": 6.3,
+        "vote_count": 10,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/3iy5vqzTqDdk3NfNXVJkVs02doc.jpg",
+        "id": 2538,
+        "name": "Hyperdrive",
+        "original_name": "Hyperdrive",
+        "overview": "Set in 2151 and 2152, it follows the crew of HMS Camden Lock as they stumble through their heroic mission to protect British interests in a changing galaxy.",
+        "poster_path": "/zUpHbyVK0O32KDqd2U0egJHfWif.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10765
+        ],
+        "popularity": 3.116,
+        "first_air_date": "2006-01-11",
+        "vote_average": 6.5,
+        "vote_count": 28,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/tt4pKehhEabOytAHwHngqrkm0Li.jpg",
+        "id": 14389,
+        "name": "Time Jam: Valerian & Laureline",
+        "original_name": "Valérian et Laureline",
+        "overview": "Valerian & Laureline must investigate a mysterious time portal in a galaxy filled with the dangerous alien species called the Vlagos after the Earth vanishes.",
+        "poster_path": "/fyTNepPaUIylNd80arvJGVBN8Gi.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          16,
+          10765
+        ],
+        "popularity": 5.5481,
+        "first_air_date": "2007-10-20",
+        "vote_average": 6.0,
+        "vote_count": 8,
+        "origin_country": [
+          "FR"
+        ]
+      },
+      {
+        "backdrop_path": "/6T8F0UbhX7AAyY4gfASR9mr9SYD.jpg",
+        "id": 75907,
+        "name": "Mystery Science Theater 3000",
+        "original_name": "Mystery Science Theater 3000",
+        "overview": "The cult hit returns! Captured by mad scientists, new host Jonah survives a blitz of cheesy B movies by riffing on them with his funny robot pals.",
+        "poster_path": "/lGkGqvxzrH3TK1ElA1C7uNxicDZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10765
+        ],
+        "popularity": 7.2194,
+        "first_air_date": "2017-04-14",
+        "vote_average": 7.75,
+        "vote_count": 36,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/8g7PQGzG7d8DWiQooSFu8tma9D8.jpg",
+        "id": 3269,
+        "name": "Whose Line Is It Anyway?",
+        "original_name": "Whose Line Is It Anyway?",
+        "overview": "An un-scripted comedy show in which four guest performers improvise their way through a series of games, many of which rely on audience suggestions.",
+        "poster_path": "/bSUa3Jg437IJjjC2I785mQvMeQM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 62.4358,
+        "first_air_date": "1988-09-23",
+        "vote_average": 7.6,
+        "vote_count": 62,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/kcXwFixs6WDZFEA42xN5mw9cXAa.jpg",
+        "id": 30946,
+        "name": "Hoarders",
+        "original_name": "Hoarders",
+        "overview": "Each episode of Hoarders is a fascinating look inside the lives of two different people whose inability to part with their belongings is so out of control that they are on the verge of a personal crisis.",
+        "poster_path": "/trN8Om68vjxPXKEWMIEoiQHkJio.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          10764,
+          18
+        ],
+        "popularity": 11.9127,
+        "first_air_date": "2009-08-17",
+        "vote_average": 6.435,
+        "vote_count": 54,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/surKr5Im4TKL1CWy1mPmC2nr12T.jpg",
+        "id": 32374,
+        "name": "Wonders of the Solar System",
+        "original_name": "Wonders of the Solar System",
+        "overview": "In this spellbinding series, Professor Brian Cox visits the most extreme locations on Earth to explain how the laws of physics carved natural wonders across the solar system.",
+        "poster_path": "/cPLJuBk7hlSpnte7AnhAZxo5Iu4.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 2.7004,
+        "first_air_date": "2010-03-07",
+        "vote_average": 8.1,
+        "vote_count": 70,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/icyYBLRv1jPP60qVKqhBGH5yyXn.jpg",
+        "id": 92611,
+        "name": "RuPaul's Drag Race UK",
+        "original_name": "RuPaul's Drag Race UK",
+        "overview": "RuPaul has made the trip across the pond in search of a queen with the most charisma, uniqueness, nerve and talent in all the land.",
+        "poster_path": "/rGKdb9afwZSPSAZ2jN2SMf9tthQ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 34.1802,
+        "first_air_date": "2019-10-03",
+        "vote_average": 7.2,
+        "vote_count": 55,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/40GC5powBaJz9JfEsqPFFc79RzF.jpg",
+        "id": 292,
+        "name": "Moral Orel",
+        "original_name": "Moral Orel",
+        "overview": "Orel is an 11-year-old boy who loves church. His unbridled enthusiasm for piousness and his misinterpretation of religious morals often lead to disastrous results, including self-mutilation and crack addiction. No matter how much trouble he gets into, his reverence always keeps him cheery.",
+        "poster_path": "/1OSdgNEIYzCDYDmvJcGGBXgsAnR.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          18
+        ],
+        "popularity": 6.8712,
+        "first_air_date": "2005-12-12",
+        "vote_average": 8.0,
+        "vote_count": 86,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/u98PeujOJCXCowph9mxRzo9Nw1s.jpg",
+        "id": 4546,
+        "name": "Curb Your Enthusiasm",
+        "original_name": "Curb Your Enthusiasm",
+        "overview": "Curb Your Enthusiasm, her şeye sahip olan bir adamın başına gelen olayları konu ediyor. Larry David, bir insanın mutlu olabileceği her şeye sahip. Sevgi dolu bir eş, iyi arkadaşlar, başarılı bir kariyer ve harika bir ev. Peki onun hayatında yanlış giden ne olabilir ki?",
+        "poster_path": "/mZqWmSq1M61Jlre3furVDSXvdrN.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 103.7923,
+        "first_air_date": "2000-10-15",
+        "vote_average": 8.016,
+        "vote_count": 805,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/npCaBQi941PRhHlUEWPws4qi10U.jpg",
+        "id": 86799,
+        "name": "Salgın",
+        "original_name": "The Hot Zone",
+        "overview": "1989'da Ebola virüsü, Washington DC'nin banliyölerindeki bir araştırma laboratuvarında şempanzelerde görüldü ve bilinen bir tedavisi yok. Bir ABD Ordusu bilim adamı, salgını yayılmadan durdurmak için hayatını tehlikeye atar.",
+        "poster_path": "/6CSPieuzXvp4gcSSPZzuUwBXjaP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 7.8887,
+        "first_air_date": "2019-05-27",
+        "vote_average": 7.106,
+        "vote_count": 123,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7w4OCRKq00tMAJlwVwW8vyFSodx.jpg",
+        "id": 2552,
+        "name": "Mork & Mindy",
+        "original_name": "Mork & Mindy",
+        "overview": "A wacky alien comes to Earth to study its residents and the life of the human woman he boards with is never the same.",
+        "poster_path": "/mzWJikslTFFeRloUNQmbAWbdU28.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 12.4534,
+        "first_air_date": "1978-09-14",
+        "vote_average": 7.1,
+        "vote_count": 145,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/fQ8DrfzJbox8NECI0Ef13NqR0Zw.jpg",
+        "id": 5107,
+        "name": "Reaper",
+        "original_name": "Reaper",
+        "overview": "Sam Oliver, şeytan için çalışan bir azraildir. Annesi ve babası zamanın da, kendi hayatlarını kurtarmak için Sam'in ruhunu 21 yaşından itibaren şeytana satmıştır. Ruhu şeytana ait olan Sam'in görevi, cehennemden kaçan ruhları yakalayıp tekrar şeytana teslim etmektir.",
+        "poster_path": "/sR0BOGjhMce5eRsSGh3CgGpAUL8.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          35
+        ],
+        "popularity": 11.7948,
+        "first_air_date": "2007-09-25",
+        "vote_average": 7.013,
+        "vote_count": 199,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dOfVmmvq2yprPrRfwV2mFEpPhps.jpg",
+        "id": 68018,
+        "name": "The Blacklist: Redemption",
+        "original_name": "The Blacklist: Redemption",
+        "overview": "Covert operative Tom Keen joins forces with Susan \"Scottie\" Hargrave, the brilliant and cunning chief of a covert mercenary organization that solves problems that are too dangerous for the government.",
+        "poster_path": "/AlEiTVHLF9lWj7Xj4gTQYt0pAhU.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 5.0074,
+        "first_air_date": "2017-02-23",
+        "vote_average": 6.642,
+        "vote_count": 141,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dieT9MczvZXpCLrIAjs3vKYWKa7.jpg",
+        "id": 894,
+        "name": "The Prisoner",
+        "original_name": "The Prisoner",
+        "overview": "After resigning, a secret agent is abducted and taken to what looks like an idyllic village, but is really a bizarre Kafkaesque prison. His warders demand information. He gives them nothing, but only tries to escape.",
+        "poster_path": "/1FtqAlj6jsBk25PKwL2NrgzdFSo.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765,
+          9648
+        ],
+        "popularity": 8.969,
+        "first_air_date": "1967-09-29",
+        "vote_average": 7.7,
+        "vote_count": 192,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/a6Tv4itpZsHELnmV5Miyw9EfSK7.jpg",
+        "id": 33153,
+        "name": "Fanny and Alexander",
+        "original_name": "Fanny och Alexander",
+        "overview": "Through the eyes of ten-year-old Alexander, we witness the delights and conflicts of the Ekdahl family, a sprawling bourgeois clan in turn-of-the-twentieth-century Sweden.",
+        "poster_path": "/z7zQFnWwuNBXMOixCeHordsic6i.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "sv",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 3.4576,
+        "first_air_date": "1984-12-26",
+        "vote_average": 8.252,
+        "vote_count": 131,
+        "origin_country": [
+          "SE"
+        ]
+      },
+      {
+        "backdrop_path": "/bmqbuK2fB5skmVwZeLTqun68waa.jpg",
+        "id": 61018,
+        "name": "Whose Line Is It Anyway?",
+        "original_name": "Whose Line Is It Anyway?",
+        "overview": "The show where everything's made up and the points don't matter. Not a talk show, not a sitcom, not a game show, Whose Line Is It Anyway? is a completely unique concept to network television. Four talented actors perform completely unrehearsed skits and games in front of a studio audience. Host Drew Carey sets the scene, with contributions from the audience, but the actors rely completely on their quick wit and improvisational skills. It's genuinely improvised, so anything can happen - and often does.",
+        "poster_path": "/iAIiJFlGCnmNO1fLtXxsM0IKo8H.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10764
+        ],
+        "popularity": 56.2633,
+        "first_air_date": "1998-08-05",
+        "vote_average": 7.8,
+        "vote_count": 333,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2Hi1sT1Wx1p26sOFJ0l3yxP7w3d.jpg",
+        "id": 83127,
+        "name": "The Politician",
+        "original_name": "The Politician",
+        "overview": "Payton has known since childhood that he's going to be president. First he'll have to navigate the most treacherous political landscape: high school.",
+        "poster_path": "/5Bm3rMQAoXSFKAVYMxPYQRyM07U.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 4.1753,
+        "first_air_date": "2019-09-27",
+        "vote_average": 7.053,
+        "vote_count": 209,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

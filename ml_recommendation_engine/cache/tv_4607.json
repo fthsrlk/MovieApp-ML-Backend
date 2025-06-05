@@ -1,0 +1,1369 @@
+{
+  "adult": false,
+  "backdrop_path": "/yUOFocKDW7MCC5isx4FK8A68QFp.jpg",
+  "created_by": [
+    {
+      "id": 15344,
+      "credit_id": "525775af760ee36aaa51895a",
+      "name": "J.J. Abrams",
+      "original_name": "J.J. Abrams",
+      "gender": 2,
+      "profile_path": "/uiEVOx3QclxnN76t8PU6v5IcUUP.jpg"
+    },
+    {
+      "id": 28974,
+      "credit_id": "525775af760ee36aaa518960",
+      "name": "Damon Lindelof",
+      "original_name": "Damon Lindelof",
+      "gender": 2,
+      "profile_path": "/9V75oRAKiI0chdg1wGh1wPqaXsG.jpg"
+    },
+    {
+      "id": 1237491,
+      "credit_id": "525775af760ee36aaa518954",
+      "name": "Jeffrey Lieber",
+      "original_name": "Jeffrey Lieber",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2004-09-22",
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Gizem"
+    },
+    {
+      "id": 10759,
+      "name": "Aksiyon & Macera"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    }
+  ],
+  "homepage": "http://abc.go.com/shows/lost",
+  "id": 4607,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2010-05-23",
+  "last_episode_to_air": {
+    "id": 334042,
+    "name": "The End",
+    "overview": "Hayatta kalanların hikâyeleri hem adada hem de ada dışında tamamlanır. Locke adayla bağını test eder. Buruk bir kavuşma kaderin son bir cilvesini beraberinde getirir.",
+    "vote_average": 8.1,
+    "vote_count": 45,
+    "air_date": "2010-05-23",
+    "episode_number": 17,
+    "episode_type": "finale",
+    "production_code": "617",
+    "runtime": 105,
+    "season_number": 6,
+    "show_id": 4607,
+    "still_path": "/eNuO8GqCuRb0fAeQDAh2w5AaXTo.jpg"
+  },
+  "name": "Lost",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 118,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Lost",
+  "overview": "Oceanic Havayolları’nın Sidney-Los Angeles seferini yapan 815 sefer sayılı uçağı, okyanus üzerinden geçerken, manyetik bir alana kapılarak büyük bir adaya düşer. Fakat önceleri sıradan, tropik bir ada gibi görünen bu kara parçasının, kazazedelerin her birinin hayatını farklı biçimde değiştireceğinden habersizdirler. \n\nAdada sandıklarından daha fazla zaman mahsur kalan Oceanic Havayolları yolcuları her gün yeni bir sürprizle karşılaştıkları bu gizemli adada hayatta kalabilmek ve ne olursa olsun bir yolunu bulup adadan kurtulmak ya da anakaraya haber ulaştırmak için mücadeleye girerler. Öte yandan hem ormanın derinliklerinden gelen 'Diğer ada sakinleri', kara bir duman, silahlı bir Fransız kadın, üniformalı iskeletler, terkedilmiş ambarlar adadan kurtulmak isteyenleri bekleyen cevaplanmamış sorular... \n\nEn İyi Televizyon Dizisi dalında Altın Küre ve Emmy Ödüllü Lost, 6 sezon boyunca televizyon seyircisini ekran başına kitlemeyi başaran, 2000'li yılların kendi fenomenini yaratamış, en çok izlenen dizilerinden biri. Ayrıca oyuncu kadrosuna da kazandırdığı ödüller ve adaylıklarla da televizyon ve sinema dünyasında yeni yıldızlar yaratan LOST fenomeni, hem teknik ekibi, hem yazar ve yapımcı kadrosuyla en çok konuşulan, üzerine en çok komplo teorisi ve senaryo üretilen televizyon yapımı olma özelliğini koruyor...",
+  "popularity": 94.2348,
+  "poster_path": "/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
+  "production_companies": [
+    {
+      "id": 19366,
+      "logo_path": "/vOH8dyQhLK01pg5fYkgiS31jlFm.png",
+      "name": "ABC Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 11461,
+      "logo_path": "/p9FoEt5shEKRWRKVIlvFaEmRnun.png",
+      "name": "Bad Robot",
+      "origin_country": "US"
+    },
+    {
+      "id": 1558,
+      "logo_path": "/wwaKUcOENHix2jxLfFBfNkCtOEQ.png",
+      "name": "Touchstone Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2005-04-27",
+      "episode_count": 131,
+      "id": 14047,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/u1hvfXTqebq6Na5zhzHiJYZT0YK.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2004-09-22",
+      "episode_count": 24,
+      "id": 14041,
+      "name": "Sezon 1",
+      "overview": "Ücra bir tropik adaya düşen uçaktan sağ kurtulanlar, hayatta kalmak için gizli tehlikeler ve gizemli, karanlık güçlerle başa çıkmak zorundadır.",
+      "poster_path": "/ejLEJwmh3ptBpdYlKw0xgjjYXmP.jpg",
+      "season_number": 1,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2005-09-21",
+      "episode_count": 24,
+      "id": 14042,
+      "name": "Sezon 2",
+      "overview": "815 numaralı uçuştan sağ kurtulanlar, adanın akılalmaz gizemleriyle uğraşmaya devam ediyor.",
+      "poster_path": "/jvYAdIQ9f1HwlutyFW8ZXWbcmFe.jpg",
+      "season_number": 2,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2006-10-04",
+      "episode_count": 23,
+      "id": 14043,
+      "name": "Sezon 3",
+      "overview": "815 numaralı uçuştan sağ kurtulanlar, adanın akılalmaz gizemleriyle uğraşmaya devam ediyor.",
+      "poster_path": "/lNQPUCru6oHmgGNSVwpjaJp6u4V.jpg",
+      "season_number": 3,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2008-01-31",
+      "episode_count": 13,
+      "id": 14044,
+      "name": "Sezon 4",
+      "overview": "815 numaralı uçuştan sağ kurtulanlar, adanın akılalmaz gizemleriyle uğraşmaya devam ediyor.",
+      "poster_path": "/poGAFZaSrl1Gf57neIEsbmFt2zb.jpg",
+      "season_number": 4,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2009-01-21",
+      "episode_count": 17,
+      "id": 14045,
+      "name": "Sezon 5",
+      "overview": "815 numaralı uçuştan sağ kurtulanlar, adanın akılalmaz gizemleriyle uğraşmaya devam ediyor.",
+      "poster_path": "/jOW77AyrfDoCBFFjBleVQjOhoTK.jpg",
+      "season_number": 5,
+      "vote_average": 8.4
+    },
+    {
+      "air_date": "2010-02-02",
+      "episode_count": 17,
+      "id": 14046,
+      "name": "Sezon 6",
+      "overview": "815 numaralı uçuştan sağ kurtulanlar, adanın akılalmaz gizemleriyle uğraşmaya devam ediyor.",
+      "poster_path": "/29tcXCeFa3CWmavGw4D7UlERjF2.jpg",
+      "season_number": 6,
+      "vote_average": 8.3
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Tesadüf yoktur, her şeyin bir anlamı vardır.",
+  "type": "Scripted",
+  "vote_average": 7.9,
+  "vote_count": 4526,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28657,
+        "known_for_department": "Acting",
+        "name": "Matthew Fox",
+        "original_name": "Matthew Fox",
+        "popularity": 3.2424,
+        "profile_path": "/dkOr9OVCPydew2HU4tGXKrWISen.jpg",
+        "character": "Jack Shephard",
+        "credit_id": "525775ad760ee36aaa5185b3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19034,
+        "known_for_department": "Acting",
+        "name": "Evangeline Lilly",
+        "original_name": "Evangeline Lilly",
+        "popularity": 4.5798,
+        "profile_path": "/pJHX2jd7ytre3NQbF9nlyWUqxH3.jpg",
+        "character": "Kate Austen",
+        "credit_id": "525775ad760ee36aaa518649",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12646,
+        "known_for_department": "Acting",
+        "name": "Terry O'Quinn",
+        "original_name": "Terry O'Quinn",
+        "popularity": 3.0153,
+        "profile_path": "/eFxWWspLp1BOa5ngjhCoUhiI2yb.jpg",
+        "character": "John Locke",
+        "credit_id": "525775ad760ee36aaa51867b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 142636,
+        "known_for_department": "Acting",
+        "name": "Josh Holloway",
+        "original_name": "Josh Holloway",
+        "popularity": 2.8961,
+        "profile_path": "/hpdrXG69P6tClGFRbHiL9Dzi0QI.jpg",
+        "character": "James Sawyer",
+        "credit_id": "525775ad760ee36aaa5185e5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2136,
+        "known_for_department": "Acting",
+        "name": "Michael Emerson",
+        "original_name": "Michael Emerson",
+        "popularity": 2.3301,
+        "profile_path": "/Ao4RxVstziaPiQ5wXkm7P8CDNDS.jpg",
+        "character": "Benjamin Linus",
+        "credit_id": "525775ad760ee36aaa5186db",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1215525,
+        "known_for_department": "Acting",
+        "name": "Jorge Garcia",
+        "original_name": "Jorge Garcia",
+        "popularity": 2.9196,
+        "profile_path": "/fcAzP3fCI2sOV8APKe0KFmG66uB.jpg",
+        "character": "Hurley Reyes",
+        "credit_id": "52e17e7119c295738504dd2a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5471,
+        "known_for_department": "Acting",
+        "name": "Naveen Andrews",
+        "original_name": "Naveen Andrews",
+        "popularity": 2.4095,
+        "profile_path": "/tVAQ4dP9rRosjHZBLNVlfAGVE66.jpg",
+        "character": "Sayid Jarrah",
+        "credit_id": "525775ad760ee36aaa518581",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20495,
+        "known_for_department": "Acting",
+        "name": "Jeff Fahey",
+        "original_name": "Jeff Fahey",
+        "popularity": 2.2784,
+        "profile_path": "/zRu1ZmM7ekKwKbmXn3U0VjD8Wyd.jpg",
+        "character": "Frank Lapidus",
+        "credit_id": "5257759a760ee36aaa5168a8",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31166,
+        "known_for_department": "Acting",
+        "name": "Henry Ian Cusick",
+        "original_name": "Henry Ian Cusick",
+        "popularity": 2.1924,
+        "profile_path": "/kgPbmYVVP0q0I5bSPdyNyjBOJik.jpg",
+        "character": "Desmond Hume",
+        "credit_id": "525775ad760ee36aaa518763",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21316,
+        "known_for_department": "Acting",
+        "name": "Nestor Carbonell",
+        "original_name": "Nestor Carbonell",
+        "popularity": 2.3564,
+        "profile_path": "/4Xn03t2qDEMR2ecM7BtLwpvs3J0.jpg",
+        "character": "Richard Alpert",
+        "credit_id": "52577594760ee36aaa515ede",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 28662,
+        "known_for_department": "Acting",
+        "name": "김윤진",
+        "original_name": "김윤진",
+        "popularity": 1.565,
+        "profile_path": "/lu1cdgeSURI8DpU5fNIKbFDlZcK.jpg",
+        "character": "Sun-Hwa Kwon",
+        "credit_id": "52a41c2d760ee3479000c74b",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18307,
+        "known_for_department": "Acting",
+        "name": "Daniel Dae Kim",
+        "original_name": "Daniel Dae Kim",
+        "popularity": 2.8576,
+        "profile_path": "/aXbTKgL4u6oVumQ459B9VkGTn4A.jpg",
+        "character": "Jin-Soo Kwon",
+        "credit_id": "525775ad760ee36aaa518617",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 28660,
+        "known_for_department": "Acting",
+        "name": "Emilie de Ravin",
+        "original_name": "Emilie de Ravin",
+        "popularity": 2.158,
+        "profile_path": "/ib4Citc09awyV9k86eDSl5pr86N.jpg",
+        "character": "Claire Littleton",
+        "credit_id": "525775ad760ee36aaa5186ad",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2131,
+        "known_for_department": "Acting",
+        "name": "Ken Leung",
+        "original_name": "Ken Leung",
+        "popularity": 3.1407,
+        "profile_path": "/hpatUP6u74gkpDRmn9voNY9V43O.jpg",
+        "character": "Miles Straume",
+        "credit_id": "52a41dd6760ee37d9c000f7d",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20803,
+        "known_for_department": "Acting",
+        "name": "Zuleikha Robinson",
+        "original_name": "Zuleikha Robinson",
+        "popularity": 1.8729,
+        "profile_path": "/838l1DBT6LqxI9Lw5qXrDpIqEzW.jpg",
+        "character": "Ilana Verdansky",
+        "credit_id": "5f8078002667780039b7b1ce",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1237509,
+        "known_for_department": "Production",
+        "name": "Jean Higgins",
+        "original_name": "Jean Higgins",
+        "popularity": 0.5017,
+        "profile_path": null,
+        "credit_id": "525775b3760ee36aaa518c8a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 149520,
+        "known_for_department": "Writing",
+        "name": "David Fury",
+        "original_name": "David Fury",
+        "popularity": 0.9323,
+        "profile_path": "/4V371yAWCJ1s2cVCamX5eYjMNVc.jpg",
+        "credit_id": "525775b6760ee36aaa518e3a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1225826,
+        "known_for_department": "Writing",
+        "name": "Steven Maeda",
+        "original_name": "Steven Maeda",
+        "popularity": 0.5612,
+        "profile_path": "/a00n6nPpeC5bv6tG9fHv099W2d3.jpg",
+        "credit_id": "525775bd760ee36aaa519141",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15344,
+        "known_for_department": "Directing",
+        "name": "J.J. Abrams",
+        "original_name": "J.J. Abrams",
+        "popularity": 3.7907,
+        "profile_path": "/uiEVOx3QclxnN76t8PU6v5IcUUP.jpg",
+        "credit_id": "525775b1760ee36aaa518b7f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1214366,
+        "known_for_department": "Writing",
+        "name": "Edward Kitsis",
+        "original_name": "Edward Kitsis",
+        "popularity": 1.0821,
+        "profile_path": "/5Re9mReATq4ZMRuxkona0YzQ1Dt.jpg",
+        "credit_id": "525775b1760ee36aaa518c4f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1212204,
+        "known_for_department": "Writing",
+        "name": "Javier Grillo-Marxuach",
+        "original_name": "Javier Grillo-Marxuach",
+        "popularity": 0.7789,
+        "profile_path": null,
+        "credit_id": "525775b6760ee36aaa518ec8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1237513,
+        "known_for_department": "Directing",
+        "name": "Richard Peter Schroer",
+        "original_name": "Richard Peter Schroer",
+        "popularity": 0.526,
+        "profile_path": null,
+        "credit_id": "525775b9760ee36aaa51907c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 161839,
+        "known_for_department": "Writing",
+        "name": "Carlton Cuse",
+        "original_name": "Carlton Cuse",
+        "popularity": 1.8164,
+        "profile_path": "/40GhFizBF2jwU3tUi5FsxJPzDjt.jpg",
+        "credit_id": "525775b4760ee36aaa518d2f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1237512,
+        "known_for_department": "Production",
+        "name": "Sarah Caplan",
+        "original_name": "Sarah Caplan",
+        "popularity": 0.5091,
+        "profile_path": null,
+        "credit_id": "525775b7760ee36aaa518efd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1237515,
+        "known_for_department": "Production",
+        "name": "Noreen O'Toole",
+        "original_name": "Noreen O'Toole",
+        "popularity": 0.1877,
+        "profile_path": null,
+        "credit_id": "525775bc760ee36aaa5190e2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1215998,
+        "known_for_department": "Writing",
+        "name": "Greggory Nations",
+        "original_name": "Greggory Nations",
+        "popularity": 0.1939,
+        "profile_path": null,
+        "credit_id": "525775b8760ee36aaa519017",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17310,
+        "known_for_department": "Production",
+        "name": "Jeph Loeb",
+        "original_name": "Jeph Loeb",
+        "popularity": 1.4329,
+        "profile_path": "/zbU9aOrxMtXVSUAHlY5d6cQW2EE.jpg",
+        "credit_id": "525775c1760ee36aaa51922e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 166461,
+        "known_for_department": "Directing",
+        "name": "Stephen Williams",
+        "original_name": "Stephen Williams",
+        "popularity": 1.2589,
+        "profile_path": "/cXQOyjxLEaUct5AiXYOiDWjl7F1.jpg",
+        "credit_id": "525775b1760ee36aaa518bb3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1237511,
+        "known_for_department": "Production",
+        "name": "Ra’uf Glasgow",
+        "original_name": "Ra’uf Glasgow",
+        "popularity": 0.2596,
+        "profile_path": null,
+        "credit_id": "525775b6760ee36aaa518dd6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65701,
+        "known_for_department": "Writing",
+        "name": "Paul Zbyszewski",
+        "original_name": "Paul Zbyszewski",
+        "popularity": 0.1878,
+        "profile_path": "/64WZ9dYU0YjdCcLbYTnzCFTI1PF.jpg",
+        "credit_id": "525775b8760ee36aaa518f5b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1237506,
+        "known_for_department": "Writing",
+        "name": "Melinda Hsu Taylor",
+        "original_name": "Melinda Hsu Taylor",
+        "popularity": 0.4323,
+        "profile_path": "/tMrc6Y905Lb457c11uvpdJ3z95t.jpg",
+        "credit_id": "525775b8760ee36aaa518f89",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28977,
+        "known_for_department": "Production",
+        "name": "Bryan Burk",
+        "original_name": "Bryan Burk",
+        "popularity": 1.078,
+        "profile_path": "/j3EyXbR7gRYzcp5iDxFvHlPc09S.jpg",
+        "credit_id": "525775b1760ee36aaa518beb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1223984,
+        "known_for_department": "Writing",
+        "name": "Leonard Dick",
+        "original_name": "Leonard Dick",
+        "popularity": 1.0018,
+        "profile_path": null,
+        "credit_id": "525775b8760ee36aaa518f2d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1237518,
+        "known_for_department": "Production",
+        "name": "Tamara Isaac",
+        "original_name": "Tamara Isaac",
+        "popularity": 0.0977,
+        "profile_path": null,
+        "credit_id": "525775c0760ee36aaa5191d3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34218,
+        "known_for_department": "Writing",
+        "name": "Jesse Alexander",
+        "original_name": "Jesse Alexander",
+        "popularity": 0.7379,
+        "profile_path": null,
+        "credit_id": "525775b6760ee36aaa518e98",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1237516,
+        "known_for_department": "Production",
+        "name": "Jim Triplett",
+        "original_name": "Jim Triplett",
+        "popularity": 0.3889,
+        "profile_path": null,
+        "credit_id": "525775bd760ee36aaa519113",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 47506,
+        "known_for_department": "Writing",
+        "name": "Drew Goddard",
+        "original_name": "Drew Goddard",
+        "popularity": 1.8987,
+        "profile_path": "/rcxxyIGDgPkXVgAQb9LLXfR89pv.jpg",
+        "credit_id": "525775b1760ee36aaa518c19",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 168309,
+        "known_for_department": "Writing",
+        "name": "Jeff Pinkner",
+        "original_name": "Jeff Pinkner",
+        "popularity": 1.6735,
+        "profile_path": "/kNGnNjc4r5pPLuReF4BFQ4TpxJ3.jpg",
+        "credit_id": "525775b6760ee36aaa518e6c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1222821,
+        "known_for_department": "Writing",
+        "name": "Craig Wright",
+        "original_name": "Craig Wright",
+        "popularity": 0.4767,
+        "profile_path": null,
+        "credit_id": "525775c1760ee36aaa5192b8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1237517,
+        "known_for_department": "Production",
+        "name": "Kaleen Yamase",
+        "original_name": "Kaleen Yamase",
+        "popularity": 0.0533,
+        "profile_path": null,
+        "credit_id": "525775be760ee36aaa519174",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28976,
+        "known_for_department": "Directing",
+        "name": "Jack Bender",
+        "original_name": "Jack Bender",
+        "popularity": 1.7609,
+        "profile_path": "/8BKWjdfFdjdqPxvJ880Y76qzSCT.jpg",
+        "credit_id": "525775b4760ee36aaa518cf7",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1214367,
+        "known_for_department": "Writing",
+        "name": "Adam Horowitz",
+        "original_name": "Adam Horowitz",
+        "popularity": 0.9391,
+        "profile_path": "/rw5D1tDe3CO9Wfuu5BD6eaMnkEA.jpg",
+        "credit_id": "525775b6760ee36aaa518e0c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28974,
+        "known_for_department": "Writing",
+        "name": "Damon Lindelof",
+        "original_name": "Damon Lindelof",
+        "popularity": 2.0474,
+        "profile_path": "/9V75oRAKiI0chdg1wGh1wPqaXsG.jpg",
+        "credit_id": "525775b4760ee36aaa518d9b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1215681,
+        "known_for_department": "Writing",
+        "name": "Alison Schapker",
+        "original_name": "Alison Schapker",
+        "popularity": 0.3444,
+        "profile_path": null,
+        "credit_id": "525775b8760ee36aaa518fe9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 209343,
+        "known_for_department": "Writing",
+        "name": "Brian K. Vaughan",
+        "original_name": "Brian K. Vaughan",
+        "popularity": 0.2373,
+        "profile_path": "/ukeEOCvv4XzImkJ5kfGD764TkkN.jpg",
+        "credit_id": "525775b8760ee36aaa519047",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1237510,
+        "known_for_department": "Production",
+        "name": "Pat Churchill",
+        "original_name": "Pat Churchill",
+        "popularity": 0.1017,
+        "profile_path": null,
+        "credit_id": "525775b4760ee36aaa518cbf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 167784,
+        "known_for_department": "Writing",
+        "name": "Elizabeth Sarnoff",
+        "original_name": "Elizabeth Sarnoff",
+        "popularity": 0.7511,
+        "profile_path": "/3lZYyjfJfnVTNf78sPnACZzD3pq.jpg",
+        "credit_id": "525775b4760ee36aaa518d63",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1215682,
+        "known_for_department": "Writing",
+        "name": "Monica Owusu-Breen",
+        "original_name": "Monica Owusu-Breen",
+        "popularity": 0.2724,
+        "profile_path": null,
+        "credit_id": "525775b8760ee36aaa518fb9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1237519,
+        "known_for_department": "Production",
+        "name": "Amanda Lencioni",
+        "original_name": "Amanda Lencioni",
+        "popularity": 0.0829,
+        "profile_path": null,
+        "credit_id": "525775c1760ee36aaa519202",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 217156,
+        "known_for_department": "Production",
+        "name": "Samantha Thomas",
+        "original_name": "Samantha Thomas",
+        "popularity": 0.9229,
+        "profile_path": null,
+        "credit_id": "525775bb760ee36aaa5190b1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1226111,
+        "known_for_department": "Writing",
+        "name": "Jennifer Johnson",
+        "original_name": "Jennifer Johnson",
+        "popularity": 0.304,
+        "profile_path": null,
+        "credit_id": "525775be760ee36aaa5191a2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1218102,
+        "known_for_department": "Writing",
+        "name": "Lynne E. Litt",
+        "original_name": "Lynne E. Litt",
+        "popularity": 0.4496,
+        "profile_path": null,
+        "credit_id": "525775c1760ee36aaa51925c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1222839,
+        "known_for_department": "Writing",
+        "name": "Christian Taylor",
+        "original_name": "Christian Taylor",
+        "popularity": 0.6715,
+        "profile_path": "/g2QHJ08uE9e5UwLRqzlAUfA1wLp.jpg",
+        "credit_id": "55a98b37c3a3682ffc003ffb",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "island",
+        "id": 2041
+      },
+      {
+        "name": "airplane crash",
+        "id": 12617
+      },
+      {
+        "name": "uncharted",
+        "id": 231490
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/7w165QdHmJuTHSQwEyJDBDpuDT7.jpg",
+        "id": 2288,
+        "name": "Prison Break",
+        "original_name": "Prison Break",
+        "overview": "Haksız yere suçlandığını düşündüğü abisini hapishaneden kurtarmak isteyen Michael Scofield, nerdeyse kusursuz bir plan yapar. Lincoln Burrows'a yüklenen suç, kendilerini temize çıkarabilecekleri bir suç değildir. Devletin de işin içine karıştığını öğrendiklerinde kaçmaktan başka çareleri kalmaz. Michael planını uygulamaya sokar ve kaçış başlar.",
+        "poster_path": "/5E1BhkCgjLBlqx557Z5yzcN0i88.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          80,
+          18
+        ],
+        "popularity": 101.1369,
+        "first_air_date": "2005-08-29",
+        "vote_average": 8.078,
+        "vote_count": 5407,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/be6mDIMv7cg8duWkcYVnTB8rphO.jpg",
+        "id": 1973,
+        "name": "24",
+        "original_name": "24",
+        "overview": "24, bütün sezonun bir günde geçtiği, 24 bölümün her birinin bir saati kapsadığı ve gerçek zamanlı olarak anlatıldığı özgün bir dizidir.  Keifer Sutherland'in canlandırdığı CTU (Terörle Mücadele Birimi) Ajanı Jack Bauer, cumhurbaşkanlığı suikast girişimleri, siber saldırılar ve termonükleer patlamalar gibi terörist planlarının yanı sıra hükümet ve şirket yolsuzluklarının da önüne geçer.",
+        "poster_path": "/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          80
+        ],
+        "popularity": 81.451,
+        "first_air_date": "2001-11-06",
+        "vote_average": 7.786,
+        "vote_count": 1597,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zoetbPF7jYY0jjY5js3x6r1QjSW.jpg",
+        "id": 1639,
+        "name": "Heroes",
+        "original_name": "Heroes",
+        "overview": "Olağanüstü yeteneklere sahip sıradan insanların destansı hikayesi; Heroes.. Uçabilen, düşünce okuyabilen, geleceği resmedebilen, yok edilemez olan, zamanı büken ve görünmez olan bu insanların ortak kaderi, dünyayı kurtaracak olmalarıdır. \n\nAma önce hepsi kendilerindeki bu yeteneği keşfetmeli, sindirmeli, kontrol altında kullanabilmelidirler. Bunu başardıklarında her biri yapabileceklerinin sınırı olmadığını görecek ve her yeni adım bir başka maceraya atılacaktır..",
+        "poster_path": "/lf0TcOkheYUZKpeh7c8lqJHNk5O.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 44.8924,
+        "first_air_date": "2006-09-25",
+        "vote_average": 7.456,
+        "vote_count": 2336,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sEjNaoENrqIZONKNn1iLFB0Us9k.jpg",
+        "id": 1972,
+        "name": "Battlestar Galactica",
+        "original_name": "Battlestar Galactica",
+        "overview": "İnsanlar, 12 Koloni gezegeninde gelişmiş bir uygarlık kurmuştur. Ancak insanlık, kendi yarattıkları sibernetik varlıklar olan Cylonlar tarafından büyük bir saldırıya uğrar. Cylonlar, kolonilere ani bir nükleer saldırı düzenleyerek insan ırkının neredeyse tamamını yok eder. Hayatta kalan az sayıdaki insan, eski bir savaş gemisi olan Battlestar Galactica ve bir grup sivil uzay gemisiyle kaçmayı başarır. Amiral William Adama ve Başkan Laura Roslin önderliğinde, hayatta kalanlar efsanevi bir gezegen olan Dünya'yı aramaya koyulurlar. Ancak Cylonlar peşlerini bırakmaz ve hayatta kalanlar arasında da iç çatışmalar, ihanet ve güç mücadeleleri baş gösterir.",
+        "poster_path": "/99PJSbcO2LeM10uOGWeFihNp77j.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 56.9897,
+        "first_air_date": "2004-10-18",
+        "vote_average": 8.209,
+        "vote_count": 1603,
+        "origin_country": [
+          "US",
+          "GB",
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
+        "id": 1668,
+        "name": "Friends",
+        "original_name": "Friends",
+        "overview": "1990'ların Manhattan'ında iş hayatının, aşkın ve gündelik yaşamın zorluklarıyla uğraşan 20'li yaşlarda üçü kadın, üçü erkek altı kişilik yakın arkadaş gurubunun komik maceraları.",
+        "poster_path": "/yAVOqZVmYXUqrLg4EiUU88HltYH.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 111.8047,
+        "first_air_date": "1994-09-22",
+        "vote_average": 8.434,
+        "vote_count": 8363,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9YteO4VWteiPmEbWYJRAeBTQZPD.jpg",
+        "id": 1100,
+        "name": "How I Met Your Mother",
+        "original_name": "How I Met Your Mother",
+        "overview": "Ted çocuklarına yıllar önce anneleriyle nasıl tanıştığını anlatırken, Ted'in ruh ikizi için destansı arayışı büyük ölçüde geriye dönüşlerle gösteriliyor.",
+        "poster_path": "/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 119.0829,
+        "first_air_date": "2005-09-19",
+        "vote_average": 8.144,
+        "vote_count": 5207,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/hmLTIRtVyTHShJl2Wb8LHmvUgJm.jpg",
+        "id": 19885,
+        "name": "Sherlock",
+        "original_name": "Sherlock",
+        "overview": "Arthur Conan Doyle'un ünlü eserinden uyarlanan yapımda, kahramanlarımız Sherlock Holmes ve Dr. John Watson günümüz Londra'sında sıradışı cinayetleri çözmeye çalışıyorlar. Huysuz Sherlock ile insancıl John, maceradan maceraya atılırken, izleyici kendisini aksiyondan komediye uzanan bir koşuşturmacanın içinde buluyor. ",
+        "poster_path": "/cIfGAkpvWD2zxHrXzhv3uptYbyV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 30.9861,
+        "first_air_date": "2010-07-25",
+        "vote_average": 8.513,
+        "vote_count": 5740,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/w00lfexrsOeR25dO4hsWhbcUnmD.jpg",
+        "id": 4087,
+        "name": "Gizli Dosyalar",
+        "original_name": "The X-Files",
+        "overview": "Dizi, Fox Mulder ve Dana Scully adlı iki FBI ajanının maceralarını konu almaktadır. Dizide, ajan Fox Mulder ve Dana Scully FBI'ın Gizli Dosyalar departmanına atanmış iki ajandır. Bu departman çözülemeyen, tuhaf ve paranormal olaylarla ilişkisi bulunan dosyalardan sorumludur. Ajan Fox Mulder, paranormal olaylara ve uzaylı komplosuna \"inanan\" bir bakış açısı sergilerken Ajan Dana Scully ise bilimi rehber alan kuşkucu bir tavırla hareket eder.",
+        "poster_path": "/rcBx0p8h51LHceyhquYMxbspJQu.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          10765,
+          80
+        ],
+        "popularity": 120.7687,
+        "first_air_date": "1993-09-10",
+        "vote_average": 8.4,
+        "vote_count": 3227,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/aSGSxGMTP893DPMCvMl9AdnEICE.jpg",
+        "id": 1405,
+        "name": "Dexter",
+        "original_name": "Dexter",
+        "overview": "O, 'ince ruhlu' bir katil. O, Miami'de yaşanan cinayetleri araştıran bir 'kan' inceleme uzmanı. O, dünyaya adalet sağlamak için öldürüyor. Onun adı Dexter ve düzenin adaletini kişisel bakışa göre sağlamak hayatta kalma amacı.\n\nHem işinin ehli bir seri katil hem de sosyal kişilikli bir adam portresi çizen Dexter Morgan, 2006 yılından itibaren kendi ahlak anlayışına göre kötüleri yer yüzünden silmeye devam etti. Yayınlandığı yıldan itibaren onlarca televizyon ödülüne aday gösterilen, Emmy ve Altın Küre ödüllü Dexter, televizyon tarihinin de en sıra dışı karakterlerinden birini ekranlara taşıdı.",
+        "poster_path": "/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 118.5404,
+        "first_air_date": "2006-10-01",
+        "vote_average": 8.214,
+        "vote_count": 4644,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/oHnig7tDh7Lox4GZ95dFmCbU6US.jpg",
+        "id": 1705,
+        "name": "Fringe",
+        "original_name": "Fringe",
+        "overview": "FBI dünya çapında açıklanamayan olayları aydınlatmak için Boston, Massachusett merkezli Fringe adında bir ekip kurar. FBI’da özel ajan olarak görev alan Olivia Dunham, metafizik üzerine araştırmalarda bulunan bilim adamı Walter Bishop ve bilim adamının oğlu Peter Bishop’ın esrarengiz olayları araştırmak için görevlendirilir.",
+        "poster_path": "/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          9648
+        ],
+        "popularity": 52.2583,
+        "first_air_date": "2008-09-09",
+        "vote_average": 8.1,
+        "vote_count": 2556,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qCXY93t7QnKp6aWT1WKaQo0Qt5r.jpg",
+        "id": 4589,
+        "name": "Arrested Development",
+        "original_name": "Arrested Development",
+        "overview": "Dizi, çökmekte olan bir aile şirketinin bireyleri arasındaki zayıflayan bağları konu ediyor. Ekonomik durumun mecburi değişimiyle zorda kalan karakterler, sosyetik adetler ve burjuva ahlakıyla ayakta kalmaya çabalıyor.",
+        "poster_path": "/p4r4RD7RsNcJVoz0H6z3dBoTBtW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 36.3253,
+        "first_air_date": "2003-11-02",
+        "vote_average": 7.937,
+        "vote_count": 1465,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/pX0YNhgplZW4zCcA4jDVrr2wBiM.jpg",
+        "id": 19092,
+        "name": "FlashForward",
+        "original_name": "FlashForward",
+        "overview": "Anlaşılmayan bir sarsıntı aynı anda tüm dünya nüfusunun bilincini 137 saniyeliğine kaybetmesine yol açar ve bu esnada herkes geleceğinden bir kesit görür. Sonrasında ise tüm dünya kendini bir kaosun ortasında bulur.\n\nLos Angeles FBI ajanı Mark Benford, gelecekteki kesitinde gördüklerinden yola çıkarak 29 Nisan 2010'un parçalarını bir araya getirmeye çalışır ama olayların sebebini anlamak ve olacakları engellemek konusunda çaresizdir; yaşanacaklar onu mutlu edecek türden değildir.",
+        "poster_path": "/7iu2HJ8ZSNbBgFLi42JNcuPjBax.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 17.0413,
+        "first_air_date": "2009-09-24",
+        "vote_average": 7.032,
+        "vote_count": 485,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
+        "id": 1408,
+        "name": "House, M.D.",
+        "original_name": "House",
+        "overview": "Gregory House New Jersey Princeton Plainsboro Hastanesinin tıbbi tanı uzamanı doktordur. Kendini aşırı beğenmesi, insanları önemsememesi ve boşvermişlik gibi özelliklerine rağmen müthiş bir doktordur. Uzmanlık alanı bulaşıcı hastalıklardır. Hiç kimsenin tanı koyamadığı hastalara tanı koyarak onların hayatlarını kurtarmaktadır ancak ekibindekilerin psikolojilerini de sürekli olarak bozmaktadır. Hastanenin yöneticisi Lisa Cuddy onu sürekli gözlem altında tutmaya çalışmaktadır ve ondan asla vazgeçmemektedir çünkü en zor durumlarda hastaları kurtaran hep odur ama Dr. House yüzünden hastane sık sık dava edilmektedir.",
+        "poster_path": "/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          35
+        ],
+        "popularity": 134.857,
+        "first_air_date": "2004-11-16",
+        "vote_average": 8.592,
+        "vote_count": 6918,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uJUe985oIuRiD3hmHQYskIMc2WU.jpg",
+        "id": 62560,
+        "name": "Mr. Robot",
+        "original_name": "Mr. Robot",
+        "overview": "Gündüz yazılım güvenliği şirketinde çalışan geceleri ise sanal evrenin kahramanı olan Elliot'ın heyecan dolu dünyasına giriş yapmaya hazır olun! Merak uyandıran senaryosuyla başarılı bir psikolojik gerilim olan dizide, başroldeki Rami Malek'e Mr.Robot rolünde ünlü aktör Christian Slater eşlik ediyor.",
+        "poster_path": "/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 34.5089,
+        "first_air_date": "2015-06-24",
+        "vote_average": 8.247,
+        "vote_count": 4826,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7yKtaRij2giAj0s09F6gmB8XIje.jpg",
+        "id": 63639,
+        "name": "The Expanse",
+        "original_name": "The Expanse",
+        "overview": "Günümüzden 200 yıl sonrası. Deneyimli dedektif Miller, oldukça zengin bir ailenin kayıp kızını bulmak için bir uzay gemisi kaptanıyla işbirliği yapar. Olayı araştırdıkça kahramanlarımız, insanlık tarihinin en büyük komplolarından biri ile karşı karşıya olduklarını fark ederler.",
+        "poster_path": "/8djpxDeWpINnGhjpFXQjnBe6zbx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          10765
+        ],
+        "popularity": 61.0678,
+        "first_air_date": "2015-12-14",
+        "vote_average": 8.1,
+        "vote_count": 2534,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cAgRehPSCjCVrP25zfeffbuptYY.jpg",
+        "id": 62858,
+        "name": "Colony",
+        "original_name": "Colony",
+        "overview": "Los Angeles'ın dışarıdan gelen güçlerce işgal edilip duvarla çevrilmesinin ardından eski bir FBI ajanı ve eşi, kayıp oğullarını bulmak için her şeyi riske atar.",
+        "poster_path": "/qfS0mp22XfTig2EK3jWKiyx7kNy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 14.6103,
+        "first_air_date": "2016-01-14",
+        "vote_average": 6.849,
+        "vote_count": 604,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zi40ANCqdvVqCN3q43g1hjdVCsp.jpg",
+        "id": 1407,
+        "name": "Homeland",
+        "original_name": "Homeland",
+        "overview": "Irak'ta öldürüldüğü tahmin edilen bir Amerikan askeri, kaybolduktan 8 yıl sonra geri döner. Ancak eve dönüş sevinci sona erdikten sonra, onun gerçekten bir Amerikan kahramanı olup olmadığı ya da bir terör saldırısı planlayan uyuyan bir hücrenin parçası olup olmadığı konusunda şüpheler ortaya çıkar.",
+        "poster_path": "/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10768,
+          80
+        ],
+        "popularity": 46.8217,
+        "first_air_date": "2011-10-02",
+        "vote_average": 7.558,
+        "vote_count": 2308,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9faGSFi5jam6pDWGNd0p8JcJgXQ.jpg",
+        "id": 1396,
+        "name": "Breaking Bad",
+        "original_name": "Breaking Bad",
+        "overview": "Kanserden öleceğini öğrenen bir kimya öğretmeni, ailesinin geleceğini garanti altına almak için metamfetamin üretip satmak üzere eski bir öğrencisiyle kafa kafaya verir.",
+        "poster_path": "/ineLOBPG8AZsluYwnkMpHRyu7L.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 116.064,
+        "first_air_date": "2008-01-20",
+        "vote_average": 8.925,
+        "vote_count": 15512,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/j5w04XEuFv85N3RIovXBJIHxjSb.jpg",
+        "id": 1920,
+        "name": "Twin Peaks",
+        "original_name": "Twin Peaks",
+        "overview": "1990-91 yıllarında ABC kanalında yayınlanan dizi toplam iki sezon otuz bölüm sürmüştür. Körfez savaşı nedeni ile yayını durdurulmuştur. TV'ye yeniden adaptasyonu sağlanan dizinin senaryosu yine ikili tarafından kaleme alınmış, üretimi ise sahibi oldukları Lynch / Frost Productions şirketi tarafından yapılmaktadır. David Lynch ayrıca yönetmen koltuğunda oturmaktadır.\n\nOrjinal seri, Laura Palmer (Sheryl Lee) isimli bir genç kızın öldürülmesi ile başlar ve sonrasında gelişen olaylar üzerine şekillenir. FBI özel ajanı Dale Cooper (Kyle MacLachlan) cinayeti çözmek ve katili yakalamak için bu küçük kasabaya gönderilir. Başlangıçta masum görünen kasaba insanlarının derinlerine inildikçe karanlık yönleri ortaya çıkar ve farklı bir yaşam sürdükleri görülür.",
+        "poster_path": "/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 50.8509,
+        "first_air_date": "1990-04-08",
+        "vote_average": 8.3,
+        "vote_count": 2228,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zP5SftyPx2VCdly369kTVVNIcT3.jpg",
+        "id": 1404,
+        "name": "Chuck",
+        "original_name": "Chuck",
+        "overview": "Daha Fazla Bilgisayar Satın Al meraklısı Chuck Bartowski, farkında olmadan hükümet bilgilerinin ve ölümcül dövüş becerilerinin bulunduğu bir veritabanını kafasına indirdiğinde, CIA'nın en hayati sırrı haline gelir. Bu, Chuck'ı tam teşekküllü bir casus olma yoluna sokar.",
+        "poster_path": "/vEZvGVVMjk1TRs59nfypTI5lAXj.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          35,
+          18
+        ],
+        "popularity": 33.5777,
+        "first_air_date": "2007-09-24",
+        "vote_average": 7.73,
+        "vote_count": 1060,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}
