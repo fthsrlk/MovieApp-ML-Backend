@@ -249,7 +249,8 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 
 **Fatih Şarlak**
 - GitHub: [@fthsrlk](https://github.com/fthsrlk)
-- Email: [email@example.com]
+- Email: [fatihhars70@gmail.com]
+- Linked in: [https://www.linkedin.com/in/fatih-%C5%9Farlak-63b369275/]
 
 ## 🙏 Teşekkürler
 
