@@ -1,0 +1,782 @@
+{
+  "adult": false,
+  "backdrop_path": "/baUdHUODpdBE6yhiGIl7bK2PNfL.jpg",
+  "created_by": [
+    {
+      "id": 1221229,
+      "credit_id": "52577001760ee36aaa46c7be",
+      "name": "Ken Warwick",
+      "original_name": "Ken Warwick",
+      "gender": 2,
+      "profile_path": "/fRzX8GIQOOjcViA3vt8SaBeN96f.jpg"
+    }
+  ],
+  "episode_run_time": [
+    85
+  ],
+  "first_air_date": "2006-06-21",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Gerçeklik"
+    }
+  ],
+  "homepage": "http://www.nbc.com/americas-got-talent/",
+  "id": 4551,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2024-09-24",
+  "last_episode_to_air": {
+    "id": 5589446,
+    "name": "21. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2024-09-24",
+    "episode_number": 21,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 86,
+    "season_number": 19,
+    "show_id": 4551,
+    "still_path": "/AqYKAGpJIpzQerEVdjjtimbc3tu.jpg"
+  },
+  "name": "America's Got Talent",
+  "next_episode_to_air": {
+    "id": 5960686,
+    "name": "1. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-05-27",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 20,
+    "show_id": 4551,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 469,
+  "number_of_seasons": 20,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "America's Got Talent",
+  "overview": "",
+  "popularity": 155.2894,
+  "poster_path": "/1YLiZqge79k4M0sIbiWi1ByNags.jpg",
+  "production_companies": [
+    {
+      "id": 67127,
+      "logo_path": null,
+      "name": "Syco Television",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2015-06-24",
+      "episode_count": 5,
+      "id": 13761,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2006-06-21",
+      "episode_count": 16,
+      "id": 13762,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/kRatrkV5daUC3UM5UXLGqQOz7dN.jpg",
+      "season_number": 1,
+      "vote_average": 2.8
+    },
+    {
+      "air_date": "2007-06-05",
+      "episode_count": 12,
+      "id": 13763,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/gwMUArCpzoTPBGeaKKvORN9U95H.jpg",
+      "season_number": 2,
+      "vote_average": 3.5
+    },
+    {
+      "air_date": "2008-06-17",
+      "episode_count": 20,
+      "id": 13764,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/jVNwBUKFzaRCkhCCkxYSjwSsKn3.jpg",
+      "season_number": 3,
+      "vote_average": 4.0
+    },
+    {
+      "air_date": "2009-06-23",
+      "episode_count": 26,
+      "id": 13765,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/jZo7WYJ4M7ouYJox08p5ZXowqjm.jpg",
+      "season_number": 4,
+      "vote_average": 4.5
+    },
+    {
+      "air_date": "2010-06-01",
+      "episode_count": 32,
+      "id": 13766,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/4hd69morQx34rdYylYOZsUXnkI6.jpg",
+      "season_number": 5,
+      "vote_average": 5.0
+    },
+    {
+      "air_date": "2011-05-31",
+      "episode_count": 32,
+      "id": 13767,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/yq80J95CcWrLLXFvYTA9DCznW0R.jpg",
+      "season_number": 6,
+      "vote_average": 5.1
+    },
+    {
+      "air_date": "2012-05-14",
+      "episode_count": 32,
+      "id": 13768,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/k0YegUyNkqczQYTioeoHkaE2nX1.jpg",
+      "season_number": 7,
+      "vote_average": 5.2
+    },
+    {
+      "air_date": "2013-06-04",
+      "episode_count": 27,
+      "id": 13769,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/zAdOLar5V5SZ68JMMUbrlWNl9GV.jpg",
+      "season_number": 8,
+      "vote_average": 5.7
+    },
+    {
+      "air_date": "2014-05-27",
+      "episode_count": 25,
+      "id": 61276,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/yKXwWCHlPaB9tgr0GIKHLuQmr0o.jpg",
+      "season_number": 9,
+      "vote_average": 5.2
+    },
+    {
+      "air_date": "2015-05-26",
+      "episode_count": 26,
+      "id": 67127,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/4U0FIfeUHnNiKTfwOFyvPvYz04i.jpg",
+      "season_number": 10,
+      "vote_average": 5.2
+    },
+    {
+      "air_date": "2016-05-31",
+      "episode_count": 23,
+      "id": 77408,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/c65ynGEyMrUbiKVN6zdquYLTUpp.jpg",
+      "season_number": 11,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "2017-05-30",
+      "episode_count": 24,
+      "id": 88689,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/so8bxKkBbTh9jAYAOrvKD4tYjOw.jpg",
+      "season_number": 12,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "2018-05-29",
+      "episode_count": 31,
+      "id": 104012,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": "/asNdHCBD7NqaKnIAs9q2RddIOB4.jpg",
+      "season_number": 13,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2019-05-28",
+      "episode_count": 30,
+      "id": 119939,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": "/melTR5RuVa1mFHAYWixDklNelT8.jpg",
+      "season_number": 14,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "2020-05-26",
+      "episode_count": 25,
+      "id": 144150,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": "/pmL3KI6ROdc9fkjHabqWlBnSUGf.jpg",
+      "season_number": 15,
+      "vote_average": 5.9
+    },
+    {
+      "air_date": "2021-06-01",
+      "episode_count": 20,
+      "id": 193850,
+      "name": "Sezon 16",
+      "overview": "",
+      "poster_path": "/gsX0bEwZED36LIrw9nIbcaVvUxt.jpg",
+      "season_number": 16,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2022-05-31",
+      "episode_count": 22,
+      "id": 285991,
+      "name": "Sezon 17",
+      "overview": "",
+      "poster_path": "/6MKbJL8DYzgNgWmKgwHAaXolwXo.jpg",
+      "season_number": 17,
+      "vote_average": 8.5
+    },
+    {
+      "air_date": "2023-05-30",
+      "episode_count": 24,
+      "id": 332047,
+      "name": "Sezon 18",
+      "overview": "",
+      "poster_path": "/xyd4aV6LZ8dcj1etoMLroUxzFDf.jpg",
+      "season_number": 18,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2024-05-28",
+      "episode_count": 21,
+      "id": 384327,
+      "name": "Sezon 19",
+      "overview": "",
+      "poster_path": "/vLzzBtQzqfuYupsxDQXiGte0BBl.jpg",
+      "season_number": 19,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2025-05-27",
+      "episode_count": 1,
+      "id": 441044,
+      "name": "Sezon 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 5.7,
+  "vote_count": 258,
+  "credits": {
+    "cast": [],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "competition",
+        "id": 271
+      },
+      {
+        "name": "talent show",
+        "id": 8290
+      },
+      {
+        "name": "reality competition",
+        "id": 250845
+      },
+      {
+        "name": "competitive",
+        "id": 257328
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": null,
+        "id": 32412,
+        "name": "Minute to Win It",
+        "original_name": "Minute to Win It",
+        "overview": "Contestants take part in a series of 60-second challenges that use objects that are commonly available around the house.",
+        "poster_path": null,
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751
+        ],
+        "popularity": 7.208,
+        "first_air_date": "2010-03-14",
+        "vote_average": 5.6,
+        "vote_count": 9,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sBhM4huBFPWi8XQDJhKjP2D2SG1.jpg",
+        "id": 4535,
+        "name": "American Chopper",
+        "original_name": "American Chopper",
+        "overview": "Paul Teutul, Sr. and his son Paul Teutul, Jr. manufacture custom chopper-style motorcycles.",
+        "poster_path": "/y4HP3SGLHeYi2TBhnXcoRRyhhJA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 26.3412,
+        "first_air_date": "2003-03-31",
+        "vote_average": 6.5,
+        "vote_count": 54,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zPaCuvPr2OreS29xpUtWAoK2gQ4.jpg",
+        "id": 31783,
+        "name": "Worst Cooks in America",
+        "original_name": "Worst Cooks in America",
+        "overview": "12 to 16 contestants with poor cooking skills are taken through an eight-week culinary boot camp, to earn a cash prize of $25,000. The recruits are trained on the various basic cooking techniques including: baking, knife skills, temperature, seasoning and preparation. The final challenge is to cook a restaurant quality three-course meal for three food critics.",
+        "poster_path": "/vE3uKy2AGHQAyDLJ3nR08zpkRJ0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764,
+          35
+        ],
+        "popularity": 53.8794,
+        "first_air_date": "2010-01-03",
+        "vote_average": 6.3,
+        "vote_count": 27,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/m0SBoWz9lScPJFKKS8cI3UZxBEK.jpg",
+        "id": 85041,
+        "name": "Murder in the Heartland",
+        "original_name": "Murder in the Heartland",
+        "overview": "Weaving harrowing narratives of quiet Middle American towns torn apart by provocative murders. Each town's tale is given life by the combined perspectives of its residents, who are more than just storytellers. They are also key witnesses to each of the crimes, and they hold critical clues to puzzles that not only have forever changed their lives but how they have come to view their once-idyllic hometowns.",
+        "poster_path": "/qf3XpDhhWL2Ka5e2Pipcwh0FIJT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          99
+        ],
+        "popularity": 2.2054,
+        "first_air_date": "2017-11-29",
+        "vote_average": 8.4,
+        "vote_count": 16,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 64958,
+        "name": "MasterChef Canada",
+        "original_name": "MasterChef Canada",
+        "overview": "The ultimate culinary competition offers home cooks a once-in-a-lifetime opportunity to demonstrate their skill and passion, as they compete for $100,000 and the title of Canada’s next MasterChef.",
+        "poster_path": "/qWEFvkZya75NYhJ9ilPldflh9q0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 5.7576,
+        "first_air_date": "2014-01-20",
+        "vote_average": 6.2,
+        "vote_count": 16,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/2d24Akr30AUKoyVabM44xKkoqfw.jpg",
+        "id": 196083,
+        "name": "Galiçya İşgal Altında",
+        "original_name": "Galiçya İşgal Altında",
+        "overview": "Kast direktörü Kaside Sağlar birçok ülkenin konsorsiyumuyla yapılacak dev prodüksiyonlu “Galiçya İşgal Altında!” isimli bir savaş filminin kastını almayı başarır. Ancak çok güzel bir kariyer hamlesi olduğunu düşündüğü bu projenin ona neler yaşatacağından henüz haberi yoktur.  “Galiçya İşgal Altında!” sektörün içinde kol gezen aç gözlülük, hırs, cehalet ve egomanyaklıkla tetiklenen dolaplara ve entrikalara ışık tutan satirik, komedi türünde bir mini dizidir.",
+        "poster_path": "/qo0AZxQgbQoVFAW9VX0Oft3xaq8.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "tr",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 1.4596,
+        "first_air_date": "2020-01-19",
+        "vote_average": 4.0,
+        "vote_count": 1,
+        "origin_country": [
+          "TR"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 69144,
+        "name": "MythBusters: The Search",
+        "original_name": "MythBusters: The Search",
+        "overview": "The search for an all-new generation of myth-busting science superstars with mind-blowing build skills and nerves of steel. Using social media and spectacular stunts, a cast of fearless hopefuls are judged on their skills as they compete in never-before-seen myth-busting challenges.",
+        "poster_path": "/usYmB5a78tdiohfbuaWp84VwzRx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 0.582,
+        "first_air_date": "2017-01-07",
+        "vote_average": 4.8,
+        "vote_count": 11,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/iIptOz1LjQoS9dqxaUHWVg25K6w.jpg",
+        "id": 579,
+        "name": "The Biggest Loser",
+        "original_name": "The Biggest Loser",
+        "overview": "The Biggest Loser features obese people competing to win a cash prize by losing the highest percentage of weight relative to their initial weight.",
+        "poster_path": "/x0K6dW4POXMrZyGd3zeS39qHdQP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 46.6393,
+        "first_air_date": "2004-10-19",
+        "vote_average": 5.463,
+        "vote_count": 27,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/poe1Y9GCze5baw80YRsEOGpz1iG.jpg",
+        "id": 108107,
+        "name": "SaliTalk",
+        "original_name": "سالی‌تاک",
+        "overview": "In this program, Salomeh humorously deals with the events that took place inside Iran during the last week.",
+        "poster_path": "/yfYqFGObOw3Q2iaQLeqoUUvFS9Y.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "fa",
+        "genre_ids": [],
+        "popularity": 0.5533,
+        "first_air_date": "2010-10-28",
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/h21Yj9DEJkLgbmifqvyI5BJbSmr.jpg",
+        "id": 107304,
+        "name": "GAME ON: A Comedy Crossover Event",
+        "original_name": "GAME ON: A Comedy Crossover Event",
+        "overview": "Dört farklı komedi dizisinden tanıdık yüzlere, sürpriz konuklara ve neşeli rekabet hikâyelerine yer veren bu özel programda farklı dünyalar bir araya geliyor.",
+        "poster_path": "/r9DHpKaqxT8kLGtUP6KPiwQZMYy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 1.9132,
+        "first_air_date": "2020-08-10",
+        "vote_average": 6.9,
+        "vote_count": 7,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/6GHSdoKKr8rua9FcGULbSABcrUv.jpg",
+        "id": 82108,
+        "name": "Celebrity Family Feud",
+        "original_name": "Celebrity Family Feud",
+        "overview": "Celebrity Family Feud pits celebrities and their families against each other in a contest to name the most popular responses to survey-type questions posed to 100 people.",
+        "poster_path": "/s9rThMHuQGN0iTNO3Ya6DcV98ku.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 29.8776,
+        "first_air_date": "2015-06-21",
+        "vote_average": 7.919,
+        "vote_count": 37,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/edH0CCAwswUNj8h6CyHJpX5JdIE.jpg",
+        "id": 4448,
+        "name": "America's Funniest Home Videos",
+        "original_name": "America's Funniest Home Videos",
+        "overview": "America's Funniest Home Videos is the longest-running primetime entertainment show in ABC history. Each week AFV shines the spotlight on hilarious videos. Fans tune in to witness failures and fiascos and to submit their own mishaps for their chance at stardom.",
+        "poster_path": "/7jedS7U08F1wF3MJTTEVu0vZrS2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767,
+          10764
+        ],
+        "popularity": 140.5636,
+        "first_air_date": "1989-11-26",
+        "vote_average": 6.625,
+        "vote_count": 48,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/w3ihDcCxjbVXPLUY1v4Dwb0OJzj.jpg",
+        "id": 971,
+        "name": "WKRP in Cincinnati",
+        "original_name": "WKRP in Cincinnati",
+        "overview": "When a Cincinnati radio station switches from sedate music to top-40 rock 'n' roll, its staff of oddball characters is forced to switch gears quickly. New programming director Andy Travis brings in a new DJ named Venus Flytrap to work with the station's burned-out veteran, Dr. Johnny Fever. Neurotic newsman Les Nessman, eager beaver Bailey Quarters, sleazy salesman Herb Tarlek, blonde bombshell Jennifer Marlowe, who serves as the station's ultra-capable receptionist, and station manager Arthur Carlson, whose domineering mother owns WKRP, round out the eccentric bunch.",
+        "poster_path": "/dP3eGvgzztqbSr73UDNLh0o35hS.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 27.1026,
+        "first_air_date": "1978-09-18",
+        "vote_average": 7.5,
+        "vote_count": 82,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/3qDzdlXbwhPWMopcyyw0o82wyVx.jpg",
+        "id": 50042,
+        "name": "Below Deck",
+        "original_name": "Below Deck",
+        "overview": "Lüks bir yatın genç mürettebatı, denizde bir yaşama yelken açar ve güvertede yaşanan aşklar, talepkâr konuklar ve keyifli yolculuklarını tehdit eden zorluklarla uğraşır.",
+        "poster_path": "/xMkYEWMGB7F7YfzJ24DPXoDj8vo.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 19.2771,
+        "first_air_date": "2013-07-01",
+        "vote_average": 7.4,
+        "vote_count": 53,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wVuVvxpp1ljzlhBrFW22xktyaFL.jpg",
+        "id": 34971,
+        "name": "Depo Savaşları",
+        "original_name": "Storage Wars",
+        "overview": "When rent is not paid on a storage locker for three months in California, the contents can be sold by an auctioneer as a single lot of items in the form of a cash-only auction. The show follows professional buyers who purchase the contents based only on a five-minute inspection of what they can see from the door when it is open. The goal is to turn a profit on the merchandise.",
+        "poster_path": "/aI4HWTpEnps1lDyxy5vScazpxDy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 55.2044,
+        "first_air_date": "2010-12-01",
+        "vote_average": 5.674,
+        "vote_count": 118,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/j8D19dwykTdo8ckpaf2RiPrbOzR.jpg",
+        "id": 1021,
+        "name": "Casualty",
+        "original_name": "Casualty",
+        "overview": "İngiliz ait tıbbi dram televizyon dizisi Casualty  (Kaza) , 6 Eylül 1986 tarihinde yayınlanmaya başladi.",
+        "poster_path": "/xori6j1eOdXwD5z213t2o8NMcvu.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 26.0876,
+        "first_air_date": "1986-09-06",
+        "vote_average": 6.0,
+        "vote_count": 81,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/6gdTUejzzULZFcPWVdITyHmN88X.jpg",
+        "id": 101359,
+        "name": "Skinwalker Çiftliğinin Sırrı",
+        "original_name": "The Secret of Skinwalker Ranch",
+        "overview": "Çoğu insan dünya dışı yaşam için yıldızlara bakarken, bir grup araştırmacı tam tersini yapıyor: Yeraltına bakıyorlar. 200 yıldan uzun bir süredir, Utah'ın Skinwalker Çiftliği yüzlerce paranormal olay ve UFO aktivitesine tanık oldu.\n\nBazıları ABD hükümeti tarafından gizlice finanse edilen onlarca yıllık çalışmalara rağmen, hiç kimse arazide arama yapmaya cesaret edemedi. Bugün, efsanevi çiftlik, daha önce hiç yapılmamış olanı yapmaya hazırlanan bir ekibe tam erişim imkânı sağlıyor.",
+        "poster_path": "/j8PpovebgIhrt89AQVvkogcX34v.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764,
+          99
+        ],
+        "popularity": 11.002,
+        "first_air_date": "2020-03-31",
+        "vote_average": 7.9,
+        "vote_count": 50,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gVAwcl83Ys1dtcFCiLuCLAx6xge.jpg",
+        "id": 2625,
+        "name": "Diagnosis: Murder",
+        "original_name": "Diagnosis: Murder",
+        "overview": "Dr. Mark Sloan is a good-natured, offbeat physician who is called upon to solve murders.",
+        "poster_path": "/5yhozeY2KgYXQQE9kfbiIyypYiI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10751,
+          9648
+        ],
+        "popularity": 45.144,
+        "first_air_date": "1993-10-29",
+        "vote_average": 7.071,
+        "vote_count": 113,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/amtOltTVcK9vQtL1iQS6p3LBi05.jpg",
+        "id": 62223,
+        "name": "The Late Late Show with James Corden",
+        "original_name": "The Late Late Show with James Corden",
+        "overview": "Once Craig Ferguson retires, James Corden will be taking over The Late Late Show. The show is a late night talk show that interviews celebrities and has its own bits. And of course, it's all hosted by James Corden.",
+        "poster_path": "/qPmVoG8G9tc1nN8ZwGV2zYcknit.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 382.8432,
+        "first_air_date": "2015-03-23",
+        "vote_average": 5.283,
+        "vote_count": 136,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5pN8ouV9pWL5M7pSbz22IEXtNO8.jpg",
+        "id": 60603,
+        "name": "The Curse of Oak Island",
+        "original_name": "The Curse of Oak Island",
+        "overview": "Follow brothers Marty and Rick Lagina through their effort to find the speculated - and as of yet undiscovered - buried treasure believed to have been concealed through extraordinary means on Oak Island.",
+        "poster_path": "/gtkxUUmHDF31iDUOlxQqUXmiU71.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          10759,
+          10764,
+          99
+        ],
+        "popularity": 101.2924,
+        "first_air_date": "2014-01-05",
+        "vote_average": 7.4,
+        "vote_count": 142,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

@@ -1,0 +1,855 @@
+{
+  "adult": false,
+  "backdrop_path": "/rBF8wVQN8hTWHspVZBlI3h7HZJ.jpg",
+  "created_by": [
+    {
+      "id": 1245733,
+      "credit_id": "57bf827dc3a3684d3400183e",
+      "name": "Justin Roiland",
+      "original_name": "Justin Roiland",
+      "gender": 2,
+      "profile_path": "/wYApP38aXe6ZcEtlBAfNRxJTQQi.jpg"
+    },
+    {
+      "id": 57194,
+      "credit_id": "57bf826fc3a3684d25001b3c",
+      "name": "Dan Harmon",
+      "original_name": "Dan Harmon",
+      "gender": 2,
+      "profile_path": "/gDwFosoyPTd0pmnKParzGj3kaMg.jpg"
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2013-12-02",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animasyon"
+    },
+    {
+      "id": 35,
+      "name": "Komedi"
+    },
+    {
+      "id": 10765,
+      "name": "Bilim Kurgu & Fantazi"
+    },
+    {
+      "id": 10759,
+      "name": "Aksiyon & Macera"
+    }
+  ],
+  "homepage": "http://www.adultswim.com/videos/rick-and-morty",
+  "id": 60625,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2023-12-17",
+  "last_episode_to_air": {
+    "id": 4694210,
+    "name": "Artık Korkma Mort",
+    "overview": "Hayatlarından sıkılan Rick ve Morty ürkütücü heyecanlar ararlar.",
+    "vote_average": 8.5,
+    "vote_count": 33,
+    "air_date": "2023-12-17",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 24,
+    "season_number": 7,
+    "show_id": 60625,
+    "still_path": "/4kKiVFbRxAPxcPDi7rPrUJjyMf6.jpg"
+  },
+  "name": "Rick and Morty",
+  "next_episode_to_air": {
+    "id": 6085790,
+    "name": "1. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-05-25",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 8,
+    "show_id": 60625,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 80,
+      "logo_path": "/tHZPHOLc6iF27G34cAZGPsMtMSy.png",
+      "name": "Adult Swim",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 81,
+  "number_of_seasons": 8,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Rick and Morty",
+  "overview": "Parlak zekalı fakat alkolik bilim adamı Rick, başka dünyalara ve alternatif boyutlara çılgın kaçamaklar yaparken huysuz torunu Morty'i de zorla yanında götürür.",
+  "popularity": 124.0352,
+  "poster_path": "/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
+  "production_companies": [
+    {
+      "id": 6760,
+      "logo_path": "/h3syDHowNmk61FzlW2GPY0vJCFh.png",
+      "name": "Williams Street",
+      "origin_country": "US"
+    },
+    {
+      "id": 8300,
+      "logo_path": null,
+      "name": "Harmonious Claptrap",
+      "origin_country": "US"
+    },
+    {
+      "id": 47394,
+      "logo_path": null,
+      "name": "Justin Roiland's Solo Vanity Card Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 32542,
+      "logo_path": null,
+      "name": "Starburns Industries",
+      "origin_country": "US"
+    },
+    {
+      "id": 131124,
+      "logo_path": null,
+      "name": "Green Portal Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-10-24",
+      "episode_count": 36,
+      "id": 106178,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/3my0MrOKCSYMw8VfLiiM9k00bdF.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2013-12-02",
+      "episode_count": 11,
+      "id": 60059,
+      "name": "Sezon 1",
+      "overview": "1. sezonda, Rick ve Morty uzaydaki bir tefeci dükkanını ziyaret eder, çeşitli alternatif ve sanal gerçekliklere şahit olur ve antikacı dükkanında şeytanla karşılaşırlar.",
+      "poster_path": "/5WexCcWEkcm7yVpOClOLICroGNO.jpg",
+      "season_number": 1,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2015-07-26",
+      "episode_count": 10,
+      "id": 66738,
+      "name": "Sezon 2",
+      "overview": "Ricky ve Morty zamanı başlatmaya karar verdikten sonra uzaylı parazitlerle, alternatif Jerryler'le ve muhtemelen var olmayan, çürüyen bir boyutla uğraşmak zorundadırlar.",
+      "poster_path": "/zkhGdE29umuKwa6u6mm7e4cXvYY.jpg",
+      "season_number": 2,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2017-04-01",
+      "episode_count": 10,
+      "id": 86926,
+      "name": "Sezon 3",
+      "overview": "3. sezonda Rick ve Morty Atlantis'e seyahat eder ve dinlenmeye biraz zaman ayırır. Dahası, Rick kendini turşuya dönüştürür ve başkanla karşı karşıya gelir.",
+      "poster_path": "/7kP0ykqRPyY5anbCOMlR1PtLj8Y.jpg",
+      "season_number": 3,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2019-11-10",
+      "episode_count": 10,
+      "id": 128112,
+      "name": "Sezon 4",
+      "overview": "Tuhaf dâhi Rick ve torunu Morty, zamanı ve uzayı büken boyutlar arası yolculuklarına devam ederken hem her şey anlamını yitirir hem de hiçbir şey anlamsız değildir.",
+      "poster_path": "/87abbwoOfm5MMCWoFewN8pNGZxW.jpg",
+      "season_number": 4,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2021-06-20",
+      "episode_count": 10,
+      "id": 188470,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/8KdHdOAP8mM4TmykkXnpr6qkyUU.jpg",
+      "season_number": 5,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2022-09-04",
+      "episode_count": 10,
+      "id": 302503,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/cvhNj9eoRBe5SxjCbQTkh05UP5K.jpg",
+      "season_number": 6,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2023-10-15",
+      "episode_count": 10,
+      "id": 354041,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/gdIrmf2DdY5mgN6ycVP0XlzKzbE.jpg",
+      "season_number": 7,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2025-05-25",
+      "episode_count": 10,
+      "id": 424080,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
+      "season_number": 8,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Bilim mantıklı, aile mantıklı değil.",
+  "type": "Scripted",
+  "vote_average": 8.7,
+  "vote_count": 10134,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51382,
+        "known_for_department": "Acting",
+        "name": "Chris Parnell",
+        "original_name": "Chris Parnell",
+        "popularity": 3.3799,
+        "profile_path": "/9Ga03Y9TVIqTZJ4I9rfL740ibgJ.jpg",
+        "character": "Jerry Smith (voice)",
+        "credit_id": "5347f684c3a368672d001411",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 176823,
+        "known_for_department": "Acting",
+        "name": "Spencer Grammer",
+        "original_name": "Spencer Grammer",
+        "popularity": 1.6494,
+        "profile_path": "/1L8Y45RJo2YxUXl6ldIowQay1V7.jpg",
+        "character": "Summer Smith (voice)",
+        "credit_id": "5347f72ec3a368670b00140b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 49001,
+        "known_for_department": "Acting",
+        "name": "Sarah Chalke",
+        "original_name": "Sarah Chalke",
+        "popularity": 3.0358,
+        "profile_path": "/ycwiu89cpjqCtSNC5FjbJggjj5R.jpg",
+        "character": "Beth Smith (voice)",
+        "credit_id": "5347f693c3a3686723001484",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4322756,
+        "known_for_department": "Acting",
+        "name": "Ian Cardoni",
+        "original_name": "Ian Cardoni",
+        "popularity": 0.2069,
+        "profile_path": "/iEC17Hj50xsH99GTRai14yWP0wp.jpg",
+        "character": "Rick Sanchez (voice)",
+        "credit_id": "652cb2fbea84c7010c1c7c56",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4129855,
+        "known_for_department": "Acting",
+        "name": "Harry Belden",
+        "original_name": "Harry Belden",
+        "popularity": 0.399,
+        "profile_path": "/lkEyIjVsOKOzJgMZE2o8DCrOkbF.jpg",
+        "character": "Morty Smith (voice)",
+        "credit_id": "652cb349024ec800aecc4992",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57194,
+        "known_for_department": "Writing",
+        "name": "Dan Harmon",
+        "original_name": "Dan Harmon",
+        "popularity": 2.1121,
+        "profile_path": "/gDwFosoyPTd0pmnKParzGj3kaMg.jpg",
+        "credit_id": "5347f5bfc3a368671c00144a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1216675,
+        "known_for_department": "Production",
+        "name": "J. Michael Mendel",
+        "original_name": "J. Michael Mendel",
+        "popularity": 0.2941,
+        "profile_path": null,
+        "credit_id": "5bccb090c3a368286600e0c8",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "time travel",
+        "id": 4379
+      },
+      {
+        "name": "grandfather",
+        "id": 4412
+      },
+      {
+        "name": "alcoholism",
+        "id": 7464
+      },
+      {
+        "name": "alien",
+        "id": 9951
+      },
+      {
+        "name": "dysfunctional family",
+        "id": 10041
+      },
+      {
+        "name": "mad scientist",
+        "id": 10125
+      },
+      {
+        "name": "scientist",
+        "id": 14760
+      },
+      {
+        "name": "adult animation",
+        "id": 161919
+      },
+      {
+        "name": "father figure",
+        "id": 170652
+      },
+      {
+        "name": "machinist",
+        "id": 173959
+      },
+      {
+        "name": "multiple dimensions",
+        "id": 194215
+      },
+      {
+        "name": "spaceship",
+        "id": 252937
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/AmIHaw6CQWOfBCQYom15Jzsu7OB.jpg",
+        "id": 61222,
+        "name": "BoJack Horseman",
+        "original_name": "BoJack Horseman",
+        "overview": "O, hem bir at hem de 90'ların favori komedi dizi yıldızı. Bu da 20 yıl sonraki hali. Huysuzun teki olsa da pırlanta gibi. Ama hakiki pırlantadan çok, ucuz bir taklidi.",
+        "poster_path": "/6JFWzlChcGgLiIUo2COgNlWGFKy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          18
+        ],
+        "popularity": 48.7703,
+        "first_air_date": "2014-08-22",
+        "vote_average": 8.546,
+        "vote_count": 2544,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2MaumbgBlW1NoPo3ZJO38A6v7OS.jpg",
+        "id": 66732,
+        "name": "Stranger Things",
+        "original_name": "Stranger Things",
+        "overview": "Ufak bir kasabada küçük bir çocuk kaybolunca, gizli deneyler, korkutucu doğaüstü güçler ve tuhaf bir küçük kızın da parçası olduğu bir gizem ortaya çıkar.",
+        "poster_path": "/hjVNQA2a12OxkpDEOQTBMbKVZ1K.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765,
+          9648
+        ],
+        "popularity": 62.6575,
+        "first_air_date": "2016-07-15",
+        "vote_average": 8.596,
+        "vote_count": 18275,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9faGSFi5jam6pDWGNd0p8JcJgXQ.jpg",
+        "id": 1396,
+        "name": "Breaking Bad",
+        "original_name": "Breaking Bad",
+        "overview": "Kanserden öleceğini öğrenen bir kimya öğretmeni, ailesinin geleceğini garanti altına almak için metamfetamin üretip satmak üzere eski bir öğrencisiyle kafa kafaya verir.",
+        "poster_path": "/ineLOBPG8AZsluYwnkMpHRyu7L.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 116.064,
+        "first_air_date": "2008-01-20",
+        "vote_average": 8.925,
+        "vote_count": 15512,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/41neXsH222hV2zrsTyw8h7javon.jpg",
+        "id": 2190,
+        "name": "South Park",
+        "original_name": "South Park",
+        "overview": "South Park, Amerikan \"Comedy Central\" programında 1997 yılından beri yayınlanan bir komedi animasyon serisidir. Ülkemizde de Türkçe altyazılı olarak Cnbc-e ve e2 kanalları tarafından yayınlanır.\n\nSouth Park'ın ortaya çıkış hikayesi şöyledir; Colorado Üniversitesi film bölümü öğrencileri Matt Stone ve Trey Parker, \"Jesus vs. Frosty\" adlı bir kısa animasyon film yapar. Şans eseri bu animasyon Fox Network yöneticileri tarafından izlenir ve Matt ve Trey'e ünlülere yılbaşı kartı olarak göndermek için bir kısa bir film yapmalarını teklif eder. Teklif üzerine Matt ve Trey \"The Spirit of Christmas\" adlı yeni bir animasyon film yapar. Bu yeni animasyonda internette çok hızlı bir şekilde yayılır ve çok beğenilir. The Spirit of Christmas, Matt ve Trey'e Comedy Central kapılarını açar ve 13 Ağustos 1997 tarihinde South Park'ın ilk bölümü olan \"Cartman Gets an Anal Probe\" bölümü yayınlanır.\n\nDizi hikayesi, South Park kasabasında yaşayan dört çocuk olan Eric Cartman, Stan Marsh, Kyle Broflovski, Kenny McCormick ve kasaba halkı arasında geçmektedir. Konular çoğunlukla sosyal ve politik taşlamaların bulunduğu, bolca küfür ve cinsel içerikli espri barındırdığından dolayı dizi öncesi bu dizi izlemeyin diye bir uyarı çıkar ki buda dizinin diğer bir ince esprisidir. South Park, Amerika ve Dünya gündeminde ki olaylarada esprili bir şekilde yaklaşarak izleyicilerin beğenisini kazanmıştır.",
+        "poster_path": "/xJnbMTrJ2fl1AXAKx34U4BPvOhs.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 125.196,
+        "first_air_date": "1997-08-13",
+        "vote_average": 8.37,
+        "vote_count": 4525,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ubFM3JrH3p6BtCHWAlOuboC1obg.jpg",
+        "id": 615,
+        "name": "Futurama",
+        "original_name": "Futurama",
+        "overview": "Fry pizza dağıtıcısıdır. 2000 yılına girilen yılbaşı gecesi kazara teslimat yaptığı laboratuvarda bir makineye girer. 31 Aralık 2999 gecesi yeniden uyanır. Tek gözlü Leela ve robot Bender ile tanışır. Ortak noktaları yapmak zorunda oldukları işten nefret etmeleri ve bundan kaçmalarıdır. Fry ve arkadaşları, Fry'ın hayattaki tek akrabası olan yaşlı yeğeni Farnsworth'a ulaşırlar ve macera başlar.",
+        "poster_path": "/sdJcX2cXirwQurLLlrDLYov7hcD.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10765
+        ],
+        "popularity": 53.1863,
+        "first_air_date": "1999-03-28",
+        "vote_average": 8.376,
+        "vote_count": 3416,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/bhF63Jd90gRYyTHd4y5GCGA2vX6.jpg",
+        "id": 31132,
+        "name": "Sürekli Dizi",
+        "original_name": "Regular Show",
+        "overview": "Mordecai ve Rigby sorunlarını ve sıkıcı işlerinin sıradan görevlerini sıra dışı yerlere taşıyan çok yakın iki arkadaştır.",
+        "poster_path": "/88dAGv0ywrLJKCynkH226dBwe0i.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 103.8938,
+        "first_air_date": "2010-09-06",
+        "vote_average": 8.633,
+        "vote_count": 2086,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
+        "id": 42009,
+        "name": "Black Mirror",
+        "original_name": "Black Mirror",
+        "overview": "İnsanlığın en kötü özelliklerini, en büyük buluşlarını ve çok daha fazlasını gözler önüne seren bu akılalmaz antoloji dizisinde çarpık öykülerin ardı arkası kesilmiyor.",
+        "poster_path": "/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          9648
+        ],
+        "popularity": 96.581,
+        "first_air_date": "2011-12-04",
+        "vote_average": 8.29,
+        "vote_count": 5471,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/lhg7eA6CTOCL10QNVdKiyxkgPsL.jpg",
+        "id": 40075,
+        "name": "Gravity Falls",
+        "original_name": "Gravity Falls",
+        "overview": "İkiz kardeşler Dipper ve Mabel Pines'ın aileleri yazın Dipper ve Mabel'ı \"Harika Amca Stan\"in yanına Gravity Falls, Oregon'a gönderirler. Stan, \"Gizemli Kulübe\"de yaşamaktadır ve çalışmaktadır; ama Dipper ve Mabel gerçekten çok garip şeyler olduğunu bilirler ve anlaşılmadık kasabada kendi yollarını bulmak için birbirlerine güvenmek zorundadırlar. Dipper'ın ormanda bulduğu günlükle işler daha da tuhaflaşır.",
+        "poster_path": "/6kWUl4Rfvomz9VBsjzDsuQ3ZvrG.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          9648,
+          10765,
+          10762,
+          10759,
+          10751
+        ],
+        "popularity": 44.2633,
+        "first_air_date": "2012-06-15",
+        "vote_average": 8.593,
+        "vote_count": 3136,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2OeS0YPFpqCmi7SA5W6aOPIChc3.jpg",
+        "id": 1433,
+        "name": "American Dad!",
+        "original_name": "American Dad!",
+        "overview": "Dizi, CIA Ajanı Stan Smith ve pek sıradan olmayan ailesinin maceralarını anlatmaktadır. Bu aile; baba Stan, eskiden alkolik ve uyuşturucu bağımlısı olan anne Francine, hippi kızları Hayley, popüler olmaya çalışani ergenliğe yeni girmekte olan inek Steve, CIA'den kaçan uzaylı Roger ve Alman bir kayakla atlamacının beynini taşıyan balık Klaus'tan oluşmaktadır.",
+        "poster_path": "/j84ZtVRoxKWTsQUya77um4l8Dqs.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 89.8568,
+        "first_air_date": "2005-02-06",
+        "vote_average": 6.975,
+        "vote_count": 2199,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/hmLTIRtVyTHShJl2Wb8LHmvUgJm.jpg",
+        "id": 19885,
+        "name": "Sherlock",
+        "original_name": "Sherlock",
+        "overview": "Arthur Conan Doyle'un ünlü eserinden uyarlanan yapımda, kahramanlarımız Sherlock Holmes ve Dr. John Watson günümüz Londra'sında sıradışı cinayetleri çözmeye çalışıyorlar. Huysuz Sherlock ile insancıl John, maceradan maceraya atılırken, izleyici kendisini aksiyondan komediye uzanan bir koşuşturmacanın içinde buluyor. ",
+        "poster_path": "/cIfGAkpvWD2zxHrXzhv3uptYbyV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 30.9861,
+        "first_air_date": "2010-07-25",
+        "vote_average": 8.513,
+        "vote_count": 5738,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/lgGZ2ysbRyAOi2VgIZpp6k8qILj.jpg",
+        "id": 1434,
+        "name": "Family Guy",
+        "original_name": "Family Guy",
+        "overview": "2000 yılından bu yana komedi ve animasyon dallarında Emmy adaylıklarının ve ödüllerinin gediklisi olan çizgi dizi Family Guy,sıra dışı Griffin ailesinin absürd hayatlarını ekranlara taşıyor. Zaman zaman The Simpsons efsanesine benzetilen çizgisi ile yıllardır geniş bir hayran kitlesi yaratan dizi, başı dertten kurtulmayan baba Peter Griffin, fedakar ama hafif bela paratoneri olan anne Louis ve onların üç çocuğu, ne yapsa yaramayan “loser” Meg, fil çocuk Chris, dünyayı ele geçirmeyi kafaya koyan bebek Stewieve tabii ki ailenin yegane üyesi entelektüel köpek Brian’ın çılgın maceralarını konu alıyor.\n\nSeth MacFarlane imzasını taşıyan dizi, ki kendisi aynı zamanda baba Peter Griffin’e sesiyle hayat veriyor, Amerikan toplumuna yaptığı güncel göndermeleri, zeki esprileri, konuk ünlüleri ve müzikleriyle son on yılın en sevilen animasyon komedileri arasında yer alıyor.",
+        "poster_path": "/ad75MS8xP2EmkYXy4101ljmpIfn.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 145.196,
+        "first_air_date": "1999-01-31",
+        "vote_average": 7.4,
+        "vote_count": 4555,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qZcyHTTE3DlKaBiIF6tK4acSlNE.jpg",
+        "id": 61593,
+        "name": "Mr. Pickles",
+        "original_name": "Mr. Pickles",
+        "overview": "The Goodman family lives with their lovable pet dog, Mr. Pickles, a deviant border collie with a secret satanic streak.",
+        "poster_path": "/bSWmZnvXIOoqZ7eLderyInsouiF.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          16
+        ],
+        "popularity": 7.0766,
+        "first_air_date": "2014-09-21",
+        "vote_average": 8.166,
+        "vote_count": 803,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/A6tMQAo6t6eRFCPhsrShmxZLqFB.jpg",
+        "id": 31911,
+        "name": "Fullmetal Alchemist: Brotherhood",
+        "original_name": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+        "overview": "Elric kardeşler Edward ve Alphonse ölen annelerini diriltmek için alchemy’e başvururlar. Ama insan ruhunu ile değiş-tokuş yapılacak eş değerde bir şey bulunmamaktadır. Deney sırasında büyük kardeş Edward bacağını, küçük kardeş Alphonse ise bedenini kaybeder. Edward elindeki son çareyi kullanıp Al’ın ruhunu bir zırha bağlamayı başarır ama bu esnada da kolunu kaybeder. İki kardeş annelerinin dirilmesinin imkansız olduğunu büyük kayıplardan sonra anlar. Automail sayesinde mekanik uzuvlarına kavuşan Ed, kardeşine olanların kendi suçu olduğuna inanır. Al'ın bedenini geri almak ve alchemy’i daha da iyi öğrenmek için Elric kardeşler evlerini yakıp yolcuğa çıkarlar.",
+        "poster_path": "/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          10759,
+          16,
+          10765,
+          35
+        ],
+        "popularity": 22.333,
+        "first_air_date": "2009-04-05",
+        "vote_average": 8.7,
+        "vote_count": 2175,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/nDOIsgCYZqEMvomSR6t9QUIPZJS.jpg",
+        "id": 60622,
+        "name": "Fargo",
+        "original_name": "Fargo",
+        "overview": "Fargo, Noah Hawley tarafından yazılmış ABD yapımı kara mizah, suç filmi türü bir dizidir. Dizi aynı ismi taşıyan 1996 yapımı Coen kardeşler tarafından yönetilmiş ve birçok ödül kazanan Fargo'dan esinlenilmiştir.",
+        "poster_path": "/6U9CPeD8obHzweikFhiLhpc7YBT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 63.952,
+        "first_air_date": "2014-04-15",
+        "vote_average": 8.3,
+        "vote_count": 2859,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/pe4B3OYBb7qYCdkAz7nKWordbls.jpg",
+        "id": 15260,
+        "name": "Adventure Time",
+        "original_name": "Adventure Time",
+        "overview": "Bir köpek ailesi tarafından yetiştirilen 12 yaşındaki Finn ile aynı ailenin büyüttüğü 28 yaşındaki Jake adlı köpeğin fantastik maceraları.",
+        "poster_path": "/qk3eQ8jW4opJ48gFWYUXWaMT4l.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10765
+        ],
+        "popularity": 73.3189,
+        "first_air_date": "2010-04-05",
+        "vote_average": 8.498,
+        "vote_count": 2855,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/kU98MbVVgi72wzceyrEbClZmMFe.jpg",
+        "id": 246,
+        "name": "Avatar: Son Havabükücü",
+        "original_name": "Avatar: The Last Airbender",
+        "overview": "Katara ve Sokka kardeşler, uzun kış uykusundan uyandırdıkları genç Aang'ın kötü kalpli Ateş Ulusu'nu yenebilecek hava bükücü güçlere sahip bir Avatar olduğunu öğrenir.",
+        "poster_path": "/v2vn1coUMPKw0GI1KGC5J4IXtqp.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "popularity": 27.5354,
+        "first_air_date": "2005-02-21",
+        "vote_average": 8.7,
+        "vote_count": 4335,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/or7wKwv1IT6LEOktt395O5qi7e.jpg",
+        "id": 60574,
+        "name": "Peaky Blinders",
+        "original_name": "Peaky Blinders",
+        "overview": "Birinci Dünya Savaşı’ndan yeni çıkmış İngiltere’yi, yasadışı faaliyet gösteren çeşitli çeteler sarmıştır. Bunlardan biri de soygunculuk ve at yarışıyla para kazanan Peaky Blinders’dır. Polislere rüşvet yedirerek paçayı kurtaran çete, bir soygunda yanlışlık yapınca başlarına bela olacak yeni bir müfettişin şehre gelmesine vesile olurlar.",
+        "poster_path": "/5aHpODCpUa0kGTPXtiYC0moIPhT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 78.428,
+        "first_air_date": "2013-09-12",
+        "vote_average": 8.532,
+        "vote_count": 10339,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+        "id": 1399,
+        "name": "Game of Thrones",
+        "original_name": "Game of Thrones",
+        "overview": "Krallık dediğin savaşsız olur mu? En güçlü krallığı kurup huzuru sağlamış olsanız bile bu gücü elinizde nasıl tutardınız? Burada yanlış yapana yer yok, affetmek yok. Hanedan entrikaları, kapılı kapılar ardında dönen oyunlar, birilerinin kuyusunu kazmak için düşmanın koynuna girmekten çekinmeyen kadınlar, kardeşler arası çekişmeler, dışlanmalar. Hepsi tek bir amaç için: taht kavgası.",
+        "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 202.8327,
+        "first_air_date": "2011-04-17",
+        "vote_average": 8.457,
+        "vote_count": 24960,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7cqKGQMnNabzOpi7qaIgZvQ7NGV.jpg",
+        "id": 76479,
+        "name": "The Boys",
+        "original_name": "The Boys",
+        "overview": "The Boys, süper kahramanların güçlerini ve şöhretlerini kötüye kullandığı bir evrende geçiyor. Kendilerini kanunu korumaya adayan ve “The Boys” olarak adlandırılan bir grup insan, yozlaşmış süper kahramanları ortadan kaldırmak için zorlu bir yolculuğa çıkar.",
+        "poster_path": "/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759
+        ],
+        "popularity": 74.0135,
+        "first_air_date": "2019-07-25",
+        "vote_average": 8.459,
+        "vote_count": 10972,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/20eIP9o5ebArmu2HxJutaBjhLf4.jpg",
+        "id": 87108,
+        "name": "Chernobyl",
+        "original_name": "Chernobyl",
+        "overview": "1986 senesinde Sovyet nükleer santralinde meydana gelen patlama sonrası santral işçileri ve itfaiyeciler faciayı kontrol altına almaya çalışır.",
+        "poster_path": "/vDwYRtmfBgM9zq4o0xbeUuVo3DL.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 23.4571,
+        "first_air_date": "2019-05-06",
+        "vote_average": 8.683,
+        "vote_count": 6809,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

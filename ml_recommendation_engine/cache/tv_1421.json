@@ -1,0 +1,984 @@
+{
+  "adult": false,
+  "backdrop_path": "/x4lxFIhhrDI4nWtV8osnYwbGESV.jpg",
+  "created_by": [
+    {
+      "id": 1215785,
+      "credit_id": "5256da1c19c2956ff60b0d63",
+      "name": "Steven Levitan",
+      "original_name": "Steven Levitan",
+      "gender": 2,
+      "profile_path": "/xPT11b4ABpd9idTMBpoaaCH801J.jpg"
+    },
+    {
+      "id": 1205496,
+      "credit_id": "5256da1c19c2956ff60b0d69",
+      "name": "Christopher Lloyd",
+      "original_name": "Christopher Lloyd",
+      "gender": 2,
+      "profile_path": "/jqdMLOeJvxp9cvJ3jZDtsoCK9fq.jpg"
+    }
+  ],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "2009-09-23",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Komedi"
+    }
+  ],
+  "homepage": "http://abc.go.com/shows/modern-family",
+  "id": 1421,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2020-04-08",
+  "last_episode_to_air": {
+    "id": 2200642,
+    "name": "18. Bölüm",
+    "overview": "",
+    "vote_average": 7.8,
+    "vote_count": 14,
+    "air_date": "2020-04-08",
+    "episode_number": 18,
+    "episode_type": "finale",
+    "production_code": "BARG18",
+    "runtime": 25,
+    "season_number": 11,
+    "show_id": 1421,
+    "still_path": "/7ceJ4Qj0tev5zFHjFsout23p8dN.jpg"
+  },
+  "name": "Modern Family",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 250,
+  "number_of_seasons": 11,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Modern Family",
+  "overview": "İlk ailemizin reisini \"Evli ve Çocuklu\" dizisinde meşhur Al Bundy karakterini oynayan Ed O'Neill, Jay Pritchett karakteriyle canlandırıyor. Jay kendinden çok daha genç bir eşe sahiptir. Gloria adlı genç eşinin bir de Manny adlı oğlu vardır. Jay, Manny'e bir yandan üvey babalık yapmaya çalışırken diğer yandan da genç eşini başkalarına kaptırmamaya çalışmaktadır. İkinci ailemiz ise Phil ve Claire Dunphy çiftidir. Claire, Jay Pritchett'in öz kızı, Phil ise damadıdır. Phil ve Claire çiftinin Haley, Luke ve Alex adın da 3 çocukları vardır. Aile'nin en büyük derdi yaramaz oğulları Luke ve erkek arkadaş sorunları başlayan kızları Haley ve Alex. Üçüncü ailemiz ise gay bir çiftten oluşuyor, Mitchell ve Cameron. Mitchell, Jay Pritchett'in öz oğlu. Bu çiftimizin Vietnam'dan evlat edindikleri Lilly adlı bir bebekleri bulunuyor.",
+  "popularity": 99.4763,
+  "poster_path": "/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
+  "production_companies": [
+    {
+      "id": 75003,
+      "logo_path": null,
+      "name": "Levitan Lloyd Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 1556,
+      "logo_path": "/31h94rG9hzjprXoYNy3L1ErUya2.png",
+      "name": "20th Century Fox Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 122932,
+      "logo_path": null,
+      "name": "Steven Levitan Prods",
+      "origin_country": "US"
+    },
+    {
+      "id": 56390,
+      "logo_path": null,
+      "name": "Picador Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 63,
+      "id": 147409,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/k6qEnQ8xyQnFvTcULDlrzETQRgs.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2009-09-23",
+      "episode_count": 24,
+      "id": 3751,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/i1KhQoI391KaEA5fKArrzoTvNDk.jpg",
+      "season_number": 1,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2010-09-22",
+      "episode_count": 24,
+      "id": 3752,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/yvBc8av9K1g5QRtBDnP5xY69jb4.jpg",
+      "season_number": 2,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2011-09-21",
+      "episode_count": 24,
+      "id": 3753,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/a4EJOG8VOV02veUIYtu4lX6FVdr.jpg",
+      "season_number": 3,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2012-09-26",
+      "episode_count": 24,
+      "id": 3755,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/pGXlhxw31fPJ6PwvzZdIRgaSHc2.jpg",
+      "season_number": 4,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2013-09-25",
+      "episode_count": 24,
+      "id": 3756,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/sJ9PqGDvGIOwJfSle62yGGieZC1.jpg",
+      "season_number": 5,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2014-09-24",
+      "episode_count": 24,
+      "id": 62023,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/5cUUBx6iUrWFvJ8BmP2d4SATy1G.jpg",
+      "season_number": 6,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2015-09-23",
+      "episode_count": 22,
+      "id": 68804,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/825aF6sf43gIyPsX0oeNNhqMzuH.jpg",
+      "season_number": 7,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2016-09-21",
+      "episode_count": 22,
+      "id": 78515,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/coOmsK9sWpScfLDlRXQ2xUJdzZ8.jpg",
+      "season_number": 8,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "2017-09-27",
+      "episode_count": 22,
+      "id": 91749,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/innrJlIzs0mktUCcQaGvMYMu4pk.jpg",
+      "season_number": 9,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2018-09-26",
+      "episode_count": 22,
+      "id": 108448,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/4aksppat5nq4IO08crJwcL2bbrv.jpg",
+      "season_number": 10,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2019-09-25",
+      "episode_count": 18,
+      "id": 127046,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/sMIhyJw2s1PRS8S7UtVnQrHAlNB.jpg",
+      "season_number": 11,
+      "vote_average": 7.3
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.874,
+  "vote_count": 2953,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18977,
+        "known_for_department": "Acting",
+        "name": "Ed O'Neill",
+        "original_name": "Ed O'Neill",
+        "popularity": 2.5486,
+        "profile_path": "/4RrxSno3UEtGWuMm4yJoaFzckpL.jpg",
+        "character": "Jay Pritchett",
+        "credit_id": "5256da1419c2956ff60b0a7b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 63522,
+        "known_for_department": "Acting",
+        "name": "Sofía Vergara",
+        "original_name": "Sofía Vergara",
+        "popularity": 6.006,
+        "profile_path": "/l79eVtn6bSOaiq7R0UGu60foMrK.jpg",
+        "character": "Gloria Delgado-Pritchett",
+        "credit_id": "5256da1419c2956ff60b0ac7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 31171,
+        "known_for_department": "Acting",
+        "name": "Julie Bowen",
+        "original_name": "Julie Bowen",
+        "popularity": 2.9637,
+        "profile_path": "/5ewqnbPAY0EzZObGHIKU4VsCanD.jpg",
+        "character": "Claire Dunphy",
+        "credit_id": "5256da1519c2956ff60b0b81",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15232,
+        "known_for_department": "Acting",
+        "name": "Ty Burrell",
+        "original_name": "Ty Burrell",
+        "popularity": 2.154,
+        "profile_path": "/zXrrbvW2ZKHYHbhujDj8aBlO4yx.jpg",
+        "character": "Phil Dunphy",
+        "credit_id": "5256da1419c2956ff60b0b13",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 204815,
+        "known_for_department": "Acting",
+        "name": "Jesse Tyler Ferguson",
+        "original_name": "Jesse Tyler Ferguson",
+        "popularity": 1.679,
+        "profile_path": "/zeWJZZrCtzUZqyOxOQB4xzuSup1.jpg",
+        "character": "Mitchell Pritchett",
+        "credit_id": "5256da1519c2956ff60b0b39",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 156962,
+        "known_for_department": "Acting",
+        "name": "Eric Stonestreet",
+        "original_name": "Eric Stonestreet",
+        "popularity": 2.0675,
+        "profile_path": "/lz0m88IjLZ8OcEHU2jhPvubcr7k.jpg",
+        "character": "Cameron Tucker",
+        "credit_id": "5256da1719c2956ff60b0c13",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 91351,
+        "known_for_department": "Acting",
+        "name": "Sarah Hyland",
+        "original_name": "Sarah Hyland",
+        "popularity": 3.0334,
+        "profile_path": "/sjwIiQWLMyBQOLhARj1Ww3imDcL.jpg",
+        "character": "Haley Dunphy",
+        "credit_id": "5256da1519c2956ff60b0bbf",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 42160,
+        "known_for_department": "Acting",
+        "name": "Ariel Winter",
+        "original_name": "Ariel Winter",
+        "popularity": 3.5555,
+        "profile_path": "/1h0XaXnieP5CdTAeRGuALBJmD4R.jpg",
+        "character": "Alex Dunphy",
+        "credit_id": "5256da1719c2956ff60b0c5b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147710,
+        "known_for_department": "Acting",
+        "name": "Nolan Gould",
+        "original_name": "Nolan Gould",
+        "popularity": 1.6826,
+        "profile_path": "/rnGYwEUairpCPmGIJcIwD86K9rI.jpg",
+        "character": "Luke Dunphy",
+        "credit_id": "5256da1819c2956ff60b0c83",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 206737,
+        "known_for_department": "Acting",
+        "name": "Rico Rodriguez",
+        "original_name": "Rico Rodriguez",
+        "popularity": 1.5353,
+        "profile_path": "/wgx5nThAUqRUVTPgOGsWcwQeaYy.jpg",
+        "character": "Manny Delgado",
+        "credit_id": "5256da1619c2956ff60b0be7",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1224228,
+        "known_for_department": "Acting",
+        "name": "Aubrey Anderson-Emmons",
+        "original_name": "Aubrey Anderson-Emmons",
+        "popularity": 0.6106,
+        "profile_path": "/rgTjphNXZoHtR8LjGgmT9AvXvcX.jpg",
+        "character": "Lily Tucker-Pritchett",
+        "credit_id": "5256da1c19c2956ff60b0d07",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1676910,
+        "known_for_department": "Acting",
+        "name": "Jeremy Maguire",
+        "original_name": "Jeremy Maguire",
+        "popularity": 0.5164,
+        "profile_path": "/9ivrqXhtohfeEJXC6g415s3eeRm.jpg",
+        "character": "Joe Pritchett",
+        "credit_id": "57d31b28c3a3681ff7000de9",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 967692,
+        "known_for_department": "Acting",
+        "name": "Reid Ewing",
+        "original_name": "Reid Ewing",
+        "popularity": 1.1338,
+        "profile_path": "/vvehuMULozr81NCCDEql1pWIrvS.jpg",
+        "character": "Dylan Marshall",
+        "credit_id": "5256da1c19c2956ff60b0d35",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1215780,
+        "known_for_department": "Writing",
+        "name": "Jeffrey Richman",
+        "original_name": "Jeffrey Richman",
+        "popularity": 0.787,
+        "profile_path": "/gUJpSfoxvXlF8VRpUlTardxBA0J.jpg",
+        "credit_id": "5256da2519c2956ff60b10e5",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1224216,
+        "known_for_department": "Writing",
+        "name": "Abraham Higginbotham",
+        "original_name": "Abraham Higginbotham",
+        "popularity": 0.5217,
+        "profile_path": "/9RtTQjuzrSD4bGUfqHm9LGyepP7.jpg",
+        "credit_id": "5256da2519c2956ff60b1115",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 590342,
+        "known_for_department": "Production",
+        "name": "Jeffrey Morton",
+        "original_name": "Jeffrey Morton",
+        "popularity": 0.2665,
+        "profile_path": null,
+        "credit_id": "57016af69251416070000579",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1224206,
+        "known_for_department": "Writing",
+        "name": "Danny Zuker",
+        "original_name": "Danny Zuker",
+        "popularity": 0.4131,
+        "profile_path": "/15DVC0szoo5yweZISpuK459N33g.jpg",
+        "credit_id": "5256da2319c2956ff60b0f91",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1224210,
+        "known_for_department": "Writing",
+        "name": "Paul Corrigan",
+        "original_name": "Paul Corrigan",
+        "popularity": 0.8116,
+        "profile_path": "/1CrWnw3EX1ShQlBRxbFKqSdXvZy.jpg",
+        "credit_id": "5256da2319c2956ff60b1025",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1224209,
+        "known_for_department": "Writing",
+        "name": "Brad Walsh",
+        "original_name": "Brad Walsh",
+        "popularity": 0.6202,
+        "profile_path": "/hnlf6I4UfTRY8mviyhE1fAoGPcQ.jpg",
+        "credit_id": "5256da2319c2956ff60b1055",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1215785,
+        "known_for_department": "Writing",
+        "name": "Steven Levitan",
+        "original_name": "Steven Levitan",
+        "popularity": 0.5156,
+        "profile_path": "/xPT11b4ABpd9idTMBpoaaCH801J.jpg",
+        "credit_id": "5256da2219c2956ff60b0f31",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1205496,
+        "known_for_department": "Writing",
+        "name": "Christopher Lloyd",
+        "original_name": "Christopher Lloyd",
+        "popularity": 0.453,
+        "profile_path": "/jqdMLOeJvxp9cvJ3jZDtsoCK9fq.jpg",
+        "credit_id": "5256da2319c2956ff60b0f61",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "family relationships",
+        "id": 10235
+      },
+      {
+        "name": "breaking the fourth wall",
+        "id": 11687
+      },
+      {
+        "name": "family",
+        "id": 18035
+      },
+      {
+        "name": "sitcom",
+        "id": 193171
+      },
+      {
+        "name": "blended family",
+        "id": 212795
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/vOFctaslez1TrMTkdiqgo9YUf4e.jpg",
+        "id": 1420,
+        "name": "New Girl",
+        "original_name": "New Girl",
+        "overview": "Bir anda şarkı söylemeye başlaması ile ünlü sıradışı öğretmen Jess erkek arkadaşını başka bir kadınla yakalar ve kendine kalacak yer aramaya başlar... Daha önce hiç tanımadığı üç erkeğin kaldığı bir tavan arasında yaşamaya başlar. Nick genellikle yalnız kalmak isteyen hukuk fakültesinden terk bir bezgindir. Schmidt kendisini kadınlara bir armağan olarak gören bir işadamıdır. Winston ise ne yapacağını kendisi de bilmeyen fakat neye katılsa onu kazanma saplantılı eski bir atlettir. Bu tuhaf grup sizce bu yeni kıza alışabilecek midir?",
+        "poster_path": "/8oCqMlKKomCArVtyOjRzMN6g40Z.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 37.0501,
+        "first_air_date": "2011-09-20",
+        "vote_average": 7.356,
+        "vote_count": 1488,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qCXY93t7QnKp6aWT1WKaQo0Qt5r.jpg",
+        "id": 4589,
+        "name": "Arrested Development",
+        "original_name": "Arrested Development",
+        "overview": "Dizi, çökmekte olan bir aile şirketinin bireyleri arasındaki zayıflayan bağları konu ediyor. Ekonomik durumun mecburi değişimiyle zorda kalan karakterler, sosyetik adetler ve burjuva ahlakıyla ayakta kalmaya çabalıyor.",
+        "poster_path": "/p4r4RD7RsNcJVoz0H6z3dBoTBtW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 36.3253,
+        "first_air_date": "2003-11-02",
+        "vote_average": 7.9,
+        "vote_count": 1466,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9YteO4VWteiPmEbWYJRAeBTQZPD.jpg",
+        "id": 1100,
+        "name": "How I Met Your Mother",
+        "original_name": "How I Met Your Mother",
+        "overview": "Ted çocuklarına yıllar önce anneleriyle nasıl tanıştığını anlatırken, Ted'in ruh ikizi için destansı arayışı büyük ölçüde geriye dönüşlerle gösteriliyor.",
+        "poster_path": "/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 119.0829,
+        "first_air_date": "2005-09-19",
+        "vote_average": 8.144,
+        "vote_count": 5206,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9AeiA1XtP5sel2tAf9LaGeUjhDb.jpg",
+        "id": 48891,
+        "name": "Brooklyn Nine-Nine",
+        "original_name": "Brooklyn Nine-Nine",
+        "overview": "Jake, işinde iyi, yetenekli ve ekibi içinde yakalama oranı en iyi polistir. Ama öteki yandan ciddiyetten yoksun ve sıkı çalışması gerekmemiş biri olarak oldukça da rahat biridir. Ekibe yeni gelen patron, emrindekilerin “rozetin hakkını vermesi” gerektiğini düşünen biri olarak işe koyulur ve Jake’ten başlar. Bu da komik pek çok olayın yaşanmasına sebebiyet verir. Brooklyn 99, New York’lu bir grup dedektifin ekip içi ve suçlularla yaşadığı komik olaylar üstüne kurulu olacak.",
+        "poster_path": "/hgRMSOt7a1b8qyQR68vUixJPang.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          80
+        ],
+        "popularity": 85.9626,
+        "first_air_date": "2013-09-17",
+        "vote_average": 8.21,
+        "vote_count": 3555,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/mLyW3UTgi2lsMdtueYODcfAB9Ku.jpg",
+        "id": 2316,
+        "name": "‎Ofis‎",
+        "original_name": "The Office",
+        "overview": "Çalışanlarının mutluluğunu gözeterek şirket kurallarını esnetmeye çalışan, ara sıra masumane oyunların kurbanı, kaba ve taş kalpli bir şef: Michael Scott.\n\nHepsinin kendince takıntıları olan farklı yaş gruplarından personeliyle ile The Office çalışanlarının hayatlarına şöyle bir göz atıyor; bıkkın aynı zamanda yetenekli satış elemanı Jim, onun sosyopat, yalaka düşmanı Dwight, kibar ve dürüst resepsiyonisti Pam ve isteksiz, kayıtsız stajyeri Ryan.",
+        "poster_path": "/dg9e5fPRRId8PoBE0F6jl5y85Eu.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 114.6413,
+        "first_air_date": "2005-03-24",
+        "vote_average": 8.581,
+        "vote_count": 4494,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/afyjB6cwJnTbo0OmnrGTl1V1pNt.jpg",
+        "id": 32962,
+        "name": "Louie",
+        "original_name": "Louie",
+        "overview": "Louis C.K. kendisinin kurgulanmış bir versiyonu olarak yıldızlar; New York'ta iki kızını büyüten komedyen ve yeni boşanmış bir baba.",
+        "poster_path": "/ubWj0BLRV1UDP8ELnTr2is2Wl0Y.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 17.6008,
+        "first_air_date": "2010-06-29",
+        "vote_average": 7.774,
+        "vote_count": 521,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/fUOau1xdpQdJmVWs32IDZlKYYvr.jpg",
+        "id": 125935,
+        "name": "Abbott Elementary",
+        "original_name": "Abbott Elementary",
+        "overview": "Sırf öğretmeyi sevdikleri için ülkenin en kötü devlet okullarından birinde bir araya gelen bir grup öğretmenin hikâyesi.",
+        "poster_path": "/7bZwZ1of6HCUarYoJDIivzk9h2G.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 18.4779,
+        "first_air_date": "2021-12-07",
+        "vote_average": 7.473,
+        "vote_count": 206,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sccDflItNho4OiHkzpiDxB2fUFw.jpg",
+        "id": 1418,
+        "name": "The Big Bang Theory",
+        "original_name": "The Big Bang Theory",
+        "overview": "En büyük zevkleri kuantum fiziğine kafa yormak olan üstün zekalı iki arkadaş, güzel bir kızla karşılaşınca ne yaparlar? The Big Bang Theory, işte o karşılaşma anında gerçekleşen büyük patlama ve sonrasını anlatan bir komedi dizisi. Leonard ve Sheldon adlarındaki iki arkadaşın oturdukları apartmanda yan dairelerine yeni bir komşu taşınır. Adı Penny olan bu komşu güzeller güzeli bir sarışındır. Üstelik maceralı bir ilişkiden daha yeni sapasağlam ayakta çıkmıştır. Penny, zekaları gereğinden fazla ilerlemiş, ancak kızlar konusunda oldukça geri kalmış bu yeni iki komşusuna hayat hakkında öğretebileceği bir şeyleri olduğunu düşünmektedir. Yaşanacak olanlar da zaman içinde onun ne kadar haklı olduğunu gösterecektir. ",
+        "poster_path": "/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 84.6161,
+        "first_air_date": "2007-09-24",
+        "vote_average": 7.909,
+        "vote_count": 11703,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ftNmVV8LuNVmtB8mzoUTucozVKE.jpg",
+        "id": 61662,
+        "name": "Schitt's Creek",
+        "original_name": "Schitt's Creek",
+        "overview": "Schitt's Creek, bir anda tüm varlıklarını kaybeden zengin bir ailenin hayatına odaklanıyor. Rose ailesi, ülkenin en popüler video kiralama şirketinin sahibidir. Lüks içinde yaşayan aile, hayatta istedikleri her şeye sahiptir. Ancak şirketin ortağı vergileri ödemeyip ortadan kaybolduğunda, ailenin hayatı altüst olur. Devlet, Rose ailesinin sahip olduğu her şeye el koyduğunda, aile kendilerini bir anda sokakta bulur. Ellerinde tek kalan şey ise Schitt's Creek adındaki bir kasabadır. Hayatlarına burada sıfırdan başlamak zorunda kalan aile, yeniden eski hayatkarına kavuşabilmek için kasabayı cazibeli bir hale getirmeye çalışır.",
+        "poster_path": "/bqSgt3OZDvHnOfoZEr7l0jVrSqB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 65.4256,
+        "first_air_date": "2015-01-13",
+        "vote_average": 7.734,
+        "vote_count": 566,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
+        "id": 1400,
+        "name": "Seinfeld",
+        "original_name": "Seinfeld",
+        "overview": "Seinfeld, dokuz sezon boyunca yayınlanan toplam 169 bölümle televizyon tarihinin en çarpıcı devrimlerinden birini gerçekleştirdi. Yayınlandığı ülkelerde televizyonların en sevilen komedisi olmayı başaran Seinfeld, aynı kentte yaşayan dört arkadaşın gündelik hayatından kesitler sunuyor ve son derece basit fikirlerden ilginç açılımlara uzanıyor.\n\nAna karakter Jerry Seinfeld kadar yan karakterler de dikkat çekici. Hemen her konuda kararsız biri olan Elaine, bitmeyen kompleksleriyle herkesi bıktıran George Costanza ve tuhaf karizması, parlak fikirleriyle Cosmo Kramer. Kumsalda uyuyor gibi hissedebilmek için kumla doldurulmuş yatakta uyumak fikri Cosmo Kramer’in dehasına sadece küçük bir örnek.",
+        "poster_path": "/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 110.4967,
+        "first_air_date": "1989-07-05",
+        "vote_average": 8.259,
+        "vote_count": 2108,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/eSgGtHV6Qk3QhV1fr2B66ykMIph.jpg",
+        "id": 2490,
+        "name": "The IT Crowd",
+        "original_name": "The IT Crowd",
+        "overview": "Şirketin bodrum katında bir odada çalışmak zorunda kalan iki bilgisayar delisi bilgi işlem elemanı ve onların başına müdür olarak atanan, bilgisayar bilgisi e-mail okumaktan fazla olmayan bir bayanın komik hikayesi.",
+        "poster_path": "/qZXkBoOUYzvKI4UCMzDQ5kqWHjh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 28.7609,
+        "first_air_date": "2006-02-03",
+        "vote_average": 8.151,
+        "vote_count": 1431,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/lgGZ2ysbRyAOi2VgIZpp6k8qILj.jpg",
+        "id": 1434,
+        "name": "Family Guy",
+        "original_name": "Family Guy",
+        "overview": "2000 yılından bu yana komedi ve animasyon dallarında Emmy adaylıklarının ve ödüllerinin gediklisi olan çizgi dizi Family Guy,sıra dışı Griffin ailesinin absürd hayatlarını ekranlara taşıyor. Zaman zaman The Simpsons efsanesine benzetilen çizgisi ile yıllardır geniş bir hayran kitlesi yaratan dizi, başı dertten kurtulmayan baba Peter Griffin, fedakar ama hafif bela paratoneri olan anne Louis ve onların üç çocuğu, ne yapsa yaramayan “loser” Meg, fil çocuk Chris, dünyayı ele geçirmeyi kafaya koyan bebek Stewieve tabii ki ailenin yegane üyesi entelektüel köpek Brian’ın çılgın maceralarını konu alıyor.\n\nSeth MacFarlane imzasını taşıyan dizi, ki kendisi aynı zamanda baba Peter Griffin’e sesiyle hayat veriyor, Amerikan toplumuna yaptığı güncel göndermeleri, zeki esprileri, konuk ünlüleri ve müzikleriyle son on yılın en sevilen animasyon komedileri arasında yer alıyor.",
+        "poster_path": "/ad75MS8xP2EmkYXy4101ljmpIfn.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 145.196,
+        "first_air_date": "1999-01-31",
+        "vote_average": 7.386,
+        "vote_count": 4556,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/u04AvxFIDgL9JSd9xoVNK3BoBEd.jpg",
+        "id": 39340,
+        "name": "2 Broke Girls",
+        "original_name": "2 Broke Girls",
+        "overview": "Dizide olaylar, zengin ve soylu bir aileden gelen Caroline'in birden bire beş parasız kalması ve Max ile aynı restoranda çalışmaya başlaması sonrasında kurdukları arkadaşlık üzerine kurulmuştur. Karakter olarak Max, kendi yağıyla kavrulan, gündüzleri bebek bakıcılığı, akşamları da garsonluk yaparak geçimini sağlayan, sokak kültürüyle yetişmiş, lafını esirgemeyen, tabiri caizse lafı gediğine oturtan bir kızdır. Max'in aksine Caroline ise girişimciliği ön planda olan, 1'i 2 yapmanın yollarını arayan, daha çok mantığını kullanan bir kızdır ve onunda önerisiyle aldıkları karar sonucu kendi \"çörek dükkânlarını\" açmaya karar verirler. Bunun için yaptıkları hesap sonucunda ortalama 250.000 dolara sahip olmaları gerekmektedir ve nihayetinde, her bölümün sonunda elde ettikleri toplam kazancın bir çetelesi izleyiciye sunulmaktadır.",
+        "poster_path": "/qCa4ANpF1QOioqRUNHgk2B3KFMZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 49.8081,
+        "first_air_date": "2011-09-19",
+        "vote_average": 7.2,
+        "vote_count": 1588,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/bFVx0ydejF6NE8SEAVz95ns0o6A.jpg",
+        "id": 34307,
+        "name": "Shameless",
+        "original_name": "Shameless",
+        "overview": "Bir aile düşünün; her bir ferdi bir başka pis işe bulaşmış olsun. Alkolik bir baba, yaşları 2'den 20'ye uzanan 6 çocuk ve terk edip giden bir anne. Shameless bu karanlık tablodan sıkı bir dram yerine trajikomik bir hikaye çıkarmayı başarıyor. En büyük kardeş Fiona'nın ayakta tutmaya çalıştığı ailesi, her geçen gün biraz daha uçuruma sürüklenirken işler bir türlü düzelmek bilmiyor.",
+        "poster_path": "/9akij7PqZ1g6zl42DQQTtL9CTSb.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 102.662,
+        "first_air_date": "2011-01-09",
+        "vote_average": 8.161,
+        "vote_count": 2891,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/hwlWGc8LD6eTN1l1A9vd3geWwtC.jpg",
+        "id": 2691,
+        "name": "Two and a Half Men",
+        "original_name": "Two and a Half Men",
+        "overview": "Malibu sahilinde yaşayan çapkın ve bekar Charlie Harper reklam filmlerine şarkı sözü yazar. Söylediğine bakılırsa, başarılıdır da (iddiasına göre Teenage Mutant Ninja Turtles’ın tema müziği ona aittir). Charlie, yalnız yaşamaktan son derece memnun; ama hemen her gece başka bir kadınla uyumak kaydıyla...\n\nHer şey tam da istediği gibi giderken, günün birinde eşi Judith tarafından kapı önüne konan kuralcı erkek kardeşi Alan ve onun 10 yaşındaki oğlu Jake Charlie’yle yaşamak için ona taşınırlar.\n\nKardeşi Alan ve oğlu Jake ile birlikte yaşama fikri Charlie’ye başta cazip gelmese de sonradan onlara o kadar alışır ki bu aile yaşantısını kaybetmemek için elinden gelen her şeyi yapar.\n\nCharlie ve Alan’ın baskıcı ve her şeye karışan anneleri Evelyn, Charlie’nin “tam bir hayal kırıklığı” olduğunu düşünüyor; Alan’ın ise “onu torun sahibi yaptığı için” hayatını alt üst ettiğini. Charlie’nin yan komşusu Rose ise Charlie’ye takıntılı bir tutkuyla bağlı ve sık sık ziyaretlerine geliyor.",
+        "poster_path": "/A9QDK4OWpv41W27kCv0LXe30k9S.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 183.051,
+        "first_air_date": "2003-09-22",
+        "vote_average": 7.452,
+        "vote_count": 3382,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/rBF8wVQN8hTWHspVZBlI3h7HZJ.jpg",
+        "id": 60625,
+        "name": "Rick and Morty",
+        "original_name": "Rick and Morty",
+        "overview": "Parlak zekalı fakat alkolik bilim adamı Rick, başka dünyalara ve alternatif boyutlara çılgın kaçamaklar yaparken huysuz torunu Morty'i de zorla yanında götürür.",
+        "poster_path": "/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10759
+        ],
+        "popularity": 124.0352,
+        "first_air_date": "2013-12-02",
+        "vote_average": 8.7,
+        "vote_count": 10134,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/pnyulr7wX1vEfyzScMRDAdxCwMc.jpg",
+        "id": 2211,
+        "name": "'Allo 'Allo!",
+        "original_name": "'Allo 'Allo!",
+        "overview": "The misadventures of hapless cafe owner René Artois and his escapades with the Resistance in occupied France.",
+        "poster_path": "/m42lb4UxkpaFil4bw0bqqjlWCY4.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10768
+        ],
+        "popularity": 24.6946,
+        "first_air_date": "1984-09-07",
+        "vote_average": 7.771,
+        "vote_count": 231,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/4043WFrLsGnZa3RL4Po9buc1EtF.jpg",
+        "id": 39272,
+        "name": "Once Upon a Time",
+        "original_name": "Once Upon a Time",
+        "overview": "Hepsi sonsuza kadar mutlu mesut yaşadılar… Ya da herkesin bu cümleye inanması sağlandı. Şimdi 28 yaşında olan Emma Swan kendisine nasıl bakacağını biliyor çünkü bebekken terk edildiğinden beri o bunu zaten yapıyor ama onunda yıllar önce terk ettiği oğlu onu tekrar buluyor ve işte her şey burada değişmeye başlıyor. Henry şimdi 10 yaşında ve Emma’nın yardımına muhtaç. Çünkü Henry aslında Emma’nın alternatif bir dünyadan geldiğine ve Pamuk Prenses ve yakışıklı Prens’in kızı olduğunu inanıyor. Sahip olduğu masallar kitabına göre, onu Korkunç Cadı’nın lanetinden korumak için başka bir diyara göndermeleri gerekiyordu bu sayede cadı masallar ülkesinde kapana kısılmış, zamanda donmuş olacaktı ama tabi ki Emma bu hikâyenin bir kelimesine bile inanmamaktadır. Emma bu küçük çocuğu alıp yaşadığı yer olan Storybrooke’a götürür fakat Henry’nin durumuna endişelendiğini için bir süre orda kalmaya karar verir. Orda geçirdiği zamanda Storybrooke’ta çok daha değişik şeyler döndüğünden şüphelenecektir. Orası sihrin unutulduğu ama gücünün de çok yakında hissedildiği, tüm masal karakterlerinin yaşadığı ama bir zamanlar kim olduklarını hatırlamadıkları bir yerdir. Tüm dünyaların geleceğe dair verecekleri bu epik savaşta Emma’nın kaderini kabullenmesi ve çalgınlar gibi savaşması gerekmektedir.",
+        "poster_path": "/u95scYysMZvBoekSLmMNJjeqXcY.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 76.3427,
+        "first_air_date": "2011-10-23",
+        "vote_average": 7.378,
+        "vote_count": 2319,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cRXJ2WyuIRF3tVCt5LXXZ9CzNVm.jpg",
+        "id": 61725,
+        "name": "The Odd Couple",
+        "original_name": "The Odd Couple",
+        "overview": "Oscar's life seems almost perfect...sure he's divorced and his apartment is a mess, but he's the host of a well-known sports show, and is enjoying his bachelor lifestyle in New York City. That is until his college friend, Felix, shows up at Oscar's apartment having just been dumped by his wife. Oscar does his best to console his old buddy and get him back on the dating horse, but his attempts uncover just how unresolved his own feelings are about his ex.",
+        "poster_path": "/24HI3P1UtxJy019gYQSNd1FbXdN.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 10.4354,
+        "first_air_date": "2015-02-19",
+        "vote_average": 5.854,
+        "vote_count": 89,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/bPJ6t9O4pFlpZ5OvauM5EGBOd0L.jpg",
+        "id": 44856,
+        "name": "Wentworth",
+        "original_name": "Wentworth",
+        "overview": "Wentworth Islah Merkezi'ndeki mahkumların ve hapishane personelinin, hapishane sistemindeki yaşamlarının iniş ve çıkışlarında gezinirken yaşamlarına yüzleşen bakış.",
+        "poster_path": "/vRwuz20zSbZLdQttyFueMtTGNdh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 26.8859,
+        "first_air_date": "2013-05-01",
+        "vote_average": 8.072,
+        "vote_count": 272,
+        "origin_country": [
+          "AU"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

@@ -1,0 +1,777 @@
+{
+  "adult": false,
+  "backdrop_path": "/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
+  "created_by": [
+    {
+      "id": 211845,
+      "credit_id": "52595fb5760ee346619587b5",
+      "name": "Charlie Brooker",
+      "original_name": "Charlie Brooker",
+      "gender": 2,
+      "profile_path": "/dmdLd5I4cnpCZzoITm26NOwu6Rn.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2011-12-04",
+  "genres": [
+    {
+      "id": 10765,
+      "name": "Bilim Kurgu & Fantazi"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 9648,
+      "name": "Gizem"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/70264888",
+  "id": 42009,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-04-10",
+  "last_episode_to_air": {
+    "id": 6085099,
+    "name": "USS Callister: Infinity",
+    "overview": "Nanette Cole ve USS Callister mürettebatı, sonsuz bir sanal evrende mahsur kalır ve 30 milyon oyuncuya karşı hayatta kalma mücadelesi verir.",
+    "vote_average": 7.7,
+    "vote_count": 33,
+    "air_date": "2025-04-10",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 91,
+    "season_number": 7,
+    "show_id": 42009,
+    "still_path": "/6JxoU4B1VMYf2tt8VPpNl8juKwm.jpg"
+  },
+  "name": "Black Mirror",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 26,
+      "logo_path": "/hbifXPpM55B1fL5wPo7t72vzN78.png",
+      "name": "Channel 4",
+      "origin_country": "GB"
+    },
+    {
+      "id": 213,
+      "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+      "name": "Netflix",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 32,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Black Mirror",
+  "overview": "İnsanlığın en kötü özelliklerini, en büyük buluşlarını ve çok daha fazlasını gözler önüne seren bu akılalmaz antoloji dizisinde çarpık öykülerin ardı arkası kesilmiyor.",
+  "popularity": 96.581,
+  "poster_path": "/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
+  "production_companies": [
+    {
+      "id": 76757,
+      "logo_path": null,
+      "name": "House of Tomorrow",
+      "origin_country": "GB"
+    },
+    {
+      "id": 18663,
+      "logo_path": "/khiCshsZBdtUUYOr4VLoCtuqCEq.png",
+      "name": "Zeppotron",
+      "origin_country": "GB"
+    },
+    {
+      "id": 133905,
+      "logo_path": "/tEEIQIYHQgPyOBgvoAlqPXfpEPX.png",
+      "name": "Broke and Bones",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-12-16",
+      "episode_count": 1,
+      "id": 76596,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/zvfw0f35QmfHCPq5qvdHquFjrQC.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-12-04",
+      "episode_count": 3,
+      "id": 51964,
+      "name": "1. Sezon",
+      "overview": "Bu bilimkurgu antolojisi dizisi, insanların var olabilmek için puan topladığı, hafıza implantları taktırdığı ve çok daha fazlasının gerçek olduğu bir dünyada geçiyor.",
+      "poster_path": "/ztdy1f1cAjwsO0GpVKzNuqZ0PMv.jpg",
+      "season_number": 1,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2013-02-11",
+      "episode_count": 3,
+      "id": 51965,
+      "name": "2. Sezon",
+      "overview": "Bu antoloji dizisinin 2. sezonunda bir sosyal medya bağımlısının, canlı bir hayat şovunun parçası olan bir kadının ve diğerlerinin karanlık hikayeleri anlatılmaktadır.",
+      "poster_path": "/y71DeJiAv0dV8H8hiFnuIuyc0Gx.jpg",
+      "season_number": 2,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2016-10-21",
+      "episode_count": 6,
+      "id": 63871,
+      "name": "3. Sezon",
+      "overview": "Bu teknolojik öykülerde, aşıklar gerçeküstü bir cennette buluşur, tuhaf mesajlar genç bir adama acı çektirir ve bir sosyal uygulama büyük bir gücü eline geçirir.",
+      "poster_path": "/3mKYrlZpFbpFu7CaVxoleO68MFG.jpg",
+      "season_number": 3,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2017-12-29",
+      "episode_count": 6,
+      "id": 96276,
+      "name": "4. Sezon",
+      "overview": "Teknolojinin karanlık yüzünü anlatan bu masallarda bir fantezi kontrolden çıkıyor, her şeyi gören cihazlar karanlık sırları açıklıyor ve bir kadın bir avcıdan kaçıyor.",
+      "poster_path": "/zvLZvFU6RhdIPEH4afbUa4rmYtW.jpg",
+      "season_number": 4,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2019-06-05",
+      "episode_count": 3,
+      "id": 124320,
+      "name": "5. Sezon",
+      "overview": "Bir video oyunu bir dostluğun değişmesine neden olur. Bir sosyal medya şirketinde rehine krizi yaşanır. Bir genç, favori pop yıldızının yapay zekâ versiyonuyla bağ kurar.",
+      "poster_path": "/5xjf5aLeooPYWqH66vB80jMJT9u.jpg",
+      "season_number": 5,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2023-06-15",
+      "episode_count": 5,
+      "id": 331809,
+      "name": "6. Sezon",
+      "overview": "Çığır açan antoloji dizisinin şimdiye kadarki en öngörülemez sezonunda farklı dönemlerden, bambaşka dehşet verici konuları ele alan, sürprizlerle dolu çarpık öyküler anlatılıyor.",
+      "poster_path": "/kwATNh8JC1IJclnVwk8x7wZb2b4.jpg",
+      "season_number": 6,
+      "vote_average": 6.4
+    },
+    {
+      "air_date": "2025-04-10",
+      "episode_count": 6,
+      "id": 383778,
+      "name": "7. Sezon",
+      "overview": "İnsanlığın en kötü özelliklerini, en büyük buluşlarını ve çok daha fazlasını gözler önüne seren bu akılalmaz antoloji dizisinde çarpık öykülerin ardı arkası kesilmiyor.",
+      "poster_path": "/aRN9LmPQHe8c1B2eR7MB3tiWFWk.jpg",
+      "season_number": 7,
+      "vote_average": 7.3
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.29,
+  "vote_count": 5471,
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1246625,
+        "known_for_department": "Production",
+        "name": "Richard Webb",
+        "original_name": "Richard Webb",
+        "popularity": 0.0898,
+        "profile_path": null,
+        "credit_id": "67f8ed37d4c444a1cc99b67f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2395058,
+        "known_for_department": "Writing",
+        "name": "Bisha K. Ali",
+        "original_name": "Bisha K. Ali",
+        "popularity": 0.3942,
+        "profile_path": "/yvW1A3ABdtVaNW2DNCtMDSk4mgg.jpg",
+        "credit_id": "648ca36042bf01011e726e2e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 984411,
+        "known_for_department": "Production",
+        "name": "Jessica Rhoades",
+        "original_name": "Jessica Rhoades",
+        "popularity": 1.0123,
+        "profile_path": null,
+        "credit_id": "648ca383559d2200c575c917",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1240944,
+        "known_for_department": "Production",
+        "name": "Annabel Jones",
+        "original_name": "Annabel Jones",
+        "popularity": 0.4173,
+        "profile_path": "/wGSqktoewxX3b28tDCKRpHtluVo.jpg",
+        "credit_id": "588687f19251411158004636",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 211845,
+        "known_for_department": "Writing",
+        "name": "Charlie Brooker",
+        "original_name": "Charlie Brooker",
+        "popularity": 2.0225,
+        "profile_path": "/dmdLd5I4cnpCZzoITm26NOwu6Rn.jpg",
+        "credit_id": "58868808925141136200428d",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "england",
+        "id": 392
+      },
+      {
+        "name": "technology",
+        "id": 1576
+      },
+      {
+        "name": "dystopia",
+        "id": 4565
+      },
+      {
+        "name": "satire",
+        "id": 8201
+      },
+      {
+        "name": "anthology",
+        "id": 9706
+      },
+      {
+        "name": "dark comedy",
+        "id": 10123
+      },
+      {
+        "name": "social satire",
+        "id": 11514
+      },
+      {
+        "name": "alternative reality",
+        "id": 175629
+      },
+      {
+        "name": "humanity",
+        "id": 202647
+      },
+      {
+        "name": "cyber thriller",
+        "id": 218132
+      },
+      {
+        "name": "near future",
+        "id": 244256
+      },
+      {
+        "name": "social sci-fi",
+        "id": 298516
+      },
+      {
+        "name": "horror",
+        "id": 315058
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/zoAxfThy7ntyCutBeNgdaKhRoSX.jpg",
+        "id": 1425,
+        "name": "House of Cards",
+        "original_name": "House of Cards",
+        "overview": "90’lı yıllarda, politikacı yazar Michael Dobbs tarafından yazılan aynı adlı kitaptan esinlenen ve BBC’ye mini dizi olarak uyarlanan “House of Cards”, şimdi Amerikalı yapımcılar tarafından bir kez daha, üstelik muhteşem bir kadro eşliğinde televizyona aktarıldı. Son yıllarda “The Curious Case of Benjamin Button” ve “Social Network” filmleriyle ses getiren David Fincher tarafından yapımcılığı ve yönetmenliği üstlenen dizinin başrollerinde, Fincher’ın filmlerinde de rol alan iki ünlü yıldız yer alıyor. “Seven” filminde birlikte çalıştığı Kevin Spacey ve “The Girl with the Dragon Tattoo” filminde rol alan Robin Wright. \n\n“House of Cards” Washington’da hırslı bir politikacının zirveye tırmanışını anlatıyor. Kevin Spacey tarafından canlandırılan Francis Underwood yıllarını Beyaz Saray koridorlarında geçirdikten sonra, artık başkanlık seçimlerine adaylığını koyması gerektiğini düşünüyor. Ne de olsa bunca zaman o koridorlarda gördüğü tüm üst düzey bürokratlar ile ilgili her türlü bilgiye sahip. Kimi hangi dosyayla tehdit edeceğini biliyor. Bu gözü kara politikacının Robin Wright tarafından canlandırılan eşi Claire’in de ondan aşağı kalır yanı yok. Francis Underwood’un başkanlık koltuğuna ilerlemek için adeta iskambil kağıtlarından bir ev gibi itinayla inşa ettiği stratejisini ilgiyle takip edeceksiniz.",
+        "poster_path": "/rXaHpG5E8y68pqfG2RRwmjdebo1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 40.9392,
+        "first_air_date": "2013-02-01",
+        "vote_average": 8.006,
+        "vote_count": 2871,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/nDOIsgCYZqEMvomSR6t9QUIPZJS.jpg",
+        "id": 60622,
+        "name": "Fargo",
+        "original_name": "Fargo",
+        "overview": "Fargo, Noah Hawley tarafından yazılmış ABD yapımı kara mizah, suç filmi türü bir dizidir. Dizi aynı ismi taşıyan 1996 yapımı Coen kardeşler tarafından yönetilmiş ve birçok ödül kazanan Fargo'dan esinlenilmiştir.",
+        "poster_path": "/6U9CPeD8obHzweikFhiLhpc7YBT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 63.952,
+        "first_air_date": "2014-04-15",
+        "vote_average": 8.3,
+        "vote_count": 2859,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/hmLTIRtVyTHShJl2Wb8LHmvUgJm.jpg",
+        "id": 19885,
+        "name": "Sherlock",
+        "original_name": "Sherlock",
+        "overview": "Arthur Conan Doyle'un ünlü eserinden uyarlanan yapımda, kahramanlarımız Sherlock Holmes ve Dr. John Watson günümüz Londra'sında sıradışı cinayetleri çözmeye çalışıyorlar. Huysuz Sherlock ile insancıl John, maceradan maceraya atılırken, izleyici kendisini aksiyondan komediye uzanan bir koşuşturmacanın içinde buluyor. ",
+        "poster_path": "/cIfGAkpvWD2zxHrXzhv3uptYbyV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 30.9861,
+        "first_air_date": "2010-07-25",
+        "vote_average": 8.513,
+        "vote_count": 5740,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/gDvxT2z6TNxervG97WfpePRZ3aR.jpg",
+        "id": 42509,
+        "name": "Steins;Gate",
+        "original_name": "Steins;Gate",
+        "overview": "Steins Gate, özelleştirilmiş bir mikrodalga cihazıyla kendi geçmişlerine mesaj gönderebilen bir grup arkadaş hakkındadır. Pek çok farklı deney yapmaktadırlar. SERN isimli organizasyon ise kendi zaman yolculuğu araştırmalarını yapmaktadır. Karakterler bir yol bulup yakalanmamak zorundadır.",
+        "poster_path": "/5DZix6ggRiFEbsGqUeTAI1z2wtX.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10765,
+          9648,
+          35
+        ],
+        "popularity": 13.4881,
+        "first_air_date": "2011-04-06",
+        "vote_average": 8.432,
+        "vote_count": 818,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/b9cCIwtT0gD42wEMMZwMdY8zfgS.jpg",
+        "id": 70453,
+        "name": "Sharp Objects",
+        "original_name": "Sharp Objects",
+        "overview": "Kendisine zarar verdiği için yıllarca akıl hastanesinde kalan Camille (Amy Adams), bir adli muhabirdir ve iki küçük kızın cinayetini araştırmak için memleketi Wind Gap, Missouri’ye geri döner. Görevi dolayısıyla aralarında zarar verici bir ilişki bulunan, her şeyin kusursuz olmasını isteyen, küçük kasaba sosyetesinin üyesi annesi Adora’nın (Patricia Clarkson) yanına dönmek zorunda kalan Camille, hafızasından silip atmaya çalıştığı çocukluk trajedileriyle ve şımarık üvey kardeşi Amma (Eliza Scanlen) ile yeniden yüzleşecektir.",
+        "poster_path": "/1SGovj2qDdkJexvhFiXllj9EYfu.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 10.9652,
+        "first_air_date": "2018-07-08",
+        "vote_average": 7.732,
+        "vote_count": 906,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/a906PH7CDmSOdS7kmnAgdWk5mhv.jpg",
+        "id": 67744,
+        "name": "MINDHUNTER",
+        "original_name": "MINDHUNTER",
+        "overview": "FBI'ın Elit Seri Suçlar Biriminden bir ajan, kötü şöhretli seri katilleri ve tecavüzcüleri araştırırken profil çıkarma teknikleri geliştirir.",
+        "poster_path": "/fbKE87mojpIETWepSbD5Qt741fp.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 14.5485,
+        "first_air_date": "2017-10-13",
+        "vote_average": 8.078,
+        "vote_count": 2604,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uhVBmZBgjd9rjDU9JfjrJt3Tees.jpg",
+        "id": 10283,
+        "name": "Archer",
+        "original_name": "Archer",
+        "overview": "Uluslararası bir casus ajansı olan ISIS’te global sorunlar iyi eğitimli çalışanların birbirlerinin kafasını karıştırmak, birbirlerini ezmek ve ihanet etmek için kullandıkları fırsatlardır. Tüm bunların merkezinde ise usta casus Sterling Archer vardır. Archer baskın annesi ve aynı zamanda patronu Malory ile birlikte çalışmaktadır. Archer bir yandan da eski kız arkadaşı Ajan Lana Kane ve onun yeni erkek arkadaşı ISIS müfettişi Cyril Figgis ile uğraşmak zorundadır.",
+        "poster_path": "/vhnrkTGYPqcB63ALcSJm0WoaKHT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10759,
+          16
+        ],
+        "popularity": 40.8242,
+        "first_air_date": "2009-09-17",
+        "vote_average": 7.945,
+        "vote_count": 1292,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/nBrkOZyI75artyizuBFeya48KbO.jpg",
+        "id": 86831,
+        "name": "Love, Death & Robots",
+        "original_name": "Love, Death & Robots",
+        "overview": "Tim Miller ve David Fincher işbirliğinde hayata geçirilen; bilim kurgu, korku ve komedi gibi türleri bir araya getiren antoloji dizisi Love Death + Robots, birbirinden farklı kısa öykülerden oluşuyor; savaş, ırkçılık ve insan doğası gibi konulara eğiliyor. Hikayelerin her biri geleneksek 2D ya da photo-real 3D CGI gibi farklı animasyon türleriyle ekrana taşındı ve dünyanın farklı yerlerindeki ekipler tarafından hayata geçirildi.",
+        "poster_path": "/yukmN2nkaqUcZ5Un6aprkC9Vh7P.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10765
+        ],
+        "popularity": 36.6171,
+        "first_air_date": "2019-03-15",
+        "vote_average": 8.2,
+        "vote_count": 3486,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/yGNnjoIGOdQy3douq60tULY8teK.jpg",
+        "id": 63247,
+        "name": "Westworld",
+        "original_name": "Westworld",
+        "overview": "İki konuk ileri teknolojinin kullanıldığı bir eğlence parkında Vahşi Batı macerasına çıkar. Parktaki insanlar robottur ve park Roma, Vahşi Batı ve Ortaçağ dönemlerine benzetilerek sahici bir hayat yaratmak amacıyla tasarlanmıştır. Merkezi bilgisayar sistemi bozulunca robotlar zincirlerini koparır ve parkın iki konuğu robot bir silahşör tarafından takip edildiklerini fark eder.West World ya da Batı Dünyası, yapay bilincin ortaya çıkması ve suçun geleceğiyle ilgili karanlık bir yolculuğu anlatmaktadır.",
+        "poster_path": "/8MfgyFHf7XEboZJPZXCIDqqiz6e.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          37
+        ],
+        "popularity": 51.6489,
+        "first_air_date": "2016-10-02",
+        "vote_average": 8.0,
+        "vote_count": 5699,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/w00lfexrsOeR25dO4hsWhbcUnmD.jpg",
+        "id": 4087,
+        "name": "Gizli Dosyalar",
+        "original_name": "The X-Files",
+        "overview": "Dizi, Fox Mulder ve Dana Scully adlı iki FBI ajanının maceralarını konu almaktadır. Dizide, ajan Fox Mulder ve Dana Scully FBI'ın Gizli Dosyalar departmanına atanmış iki ajandır. Bu departman çözülemeyen, tuhaf ve paranormal olaylarla ilişkisi bulunan dosyalardan sorumludur. Ajan Fox Mulder, paranormal olaylara ve uzaylı komplosuna \"inanan\" bir bakış açısı sergilerken Ajan Dana Scully ise bilimi rehber alan kuşkucu bir tavırla hareket eder.",
+        "poster_path": "/rcBx0p8h51LHceyhquYMxbspJQu.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          10765,
+          80
+        ],
+        "popularity": 120.7687,
+        "first_air_date": "1993-09-10",
+        "vote_average": 8.4,
+        "vote_count": 3227,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lNpkvX2s8LGB0mjGODMT4o6Up7j.jpg",
+        "id": 1398,
+        "name": "The Sopranos",
+        "original_name": "The Sopranos",
+        "overview": "New Jersey'deki bir Amerikan-İtalyan mafya ailesinin babası olan Tony Soprano'nun ve Soprano Ailesi'nin diğer fertlerinin hayatlarından kesitler sunan dizi, toplamda 86 bölüm yayınlanmış, kazandığı ödüller ve aldığı olumlu eleştirilerle adını \"gelmiş geçmiş en iyi diziler\" arasına yazdırmıştır.",
+        "poster_path": "/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 75.5158,
+        "first_air_date": "1999-01-10",
+        "vote_average": 8.654,
+        "vote_count": 2956,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cmHkLlircXTxI7nv93It7gVCH8N.jpg",
+        "id": 849,
+        "name": "Monty Python's Flying Circus",
+        "original_name": "Monty Python's Flying Circus",
+        "overview": "A British sketch comedy series with the shows being composed of surreality, risqué or innuendo-laden humour, sight gags and observational sketches without punchlines.",
+        "poster_path": "/p91aop04lAeAklz32RXAMEWftQh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 36.4803,
+        "first_air_date": "1969-10-05",
+        "vote_average": 8.249,
+        "vote_count": 642,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/2MaumbgBlW1NoPo3ZJO38A6v7OS.jpg",
+        "id": 66732,
+        "name": "Stranger Things",
+        "original_name": "Stranger Things",
+        "overview": "Ufak bir kasabada küçük bir çocuk kaybolunca, gizli deneyler, korkutucu doğaüstü güçler ve tuhaf bir küçük kızın da parçası olduğu bir gizem ortaya çıkar.",
+        "poster_path": "/hjVNQA2a12OxkpDEOQTBMbKVZ1K.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765,
+          9648
+        ],
+        "popularity": 62.6575,
+        "first_air_date": "2016-07-15",
+        "vote_average": 8.596,
+        "vote_count": 18275,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4pfXAnWxOfEJsUgDPW0zqzs5UWv.jpg",
+        "id": 60573,
+        "name": "Silikon Vadisi",
+        "original_name": "Silicon Valley",
+        "overview": "En nitelikli insanların başarıyı yönetme yeteneğinin en düşük olduğu modern Silikon Vadisi'nde geçen yüksek teknolojili bir hikaye.",
+        "poster_path": "/4ptpmWBVD9HY9hMh8Cbs6SMiy7p.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 26.6964,
+        "first_air_date": "2014-04-06",
+        "vote_average": 8.119,
+        "vote_count": 1713,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1DYpBOVdb7Mzc9DgMCdIBTN1JEC.jpg",
+        "id": 68595,
+        "name": "Yeryüzü II",
+        "original_name": "Planet Earth II",
+        "overview": "David Attenborough ile vahşi yaşam belgeseli dizisi, gezegenin en nadir yaratıklarından bazılarına, insanlara ve hayvanlara ev sahipliği yapan şehirlerin güzelliğini barındıran, uzaklardaki adaları inceleyerek devam ediyor.",
+        "poster_path": "/pzAQTqwRHnVcpOzqdG3XnzGiGPQ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          10751
+        ],
+        "popularity": 9.7791,
+        "first_air_date": "2016-11-06",
+        "vote_average": 8.59,
+        "vote_count": 821,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/A6I3M4MIA2Pi2gS6vGdg2eVlVXT.jpg",
+        "id": 68421,
+        "name": "Altered Carbon",
+        "original_name": "Altered Carbon",
+        "overview": "Buzda geçen 250 yıldan sonra yeni bir vücutta dirilen bir mahkûm, özgürlüğünü geri kazanmak için akılalmaz bir cinayeti çözmek zorundadır.",
+        "poster_path": "/66rKwpSexUZ3yTv5lBS1bjU4Ykk.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 13.4037,
+        "first_air_date": "2018-02-02",
+        "vote_average": 7.665,
+        "vote_count": 2018,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1lOGkpGa9SjZ2uP1PxfxDkSXRNs.jpg",
+        "id": 2382,
+        "name": "Freaks and Geeks",
+        "original_name": "Freaks and Geeks",
+        "overview": "Liseli bir matematik olimpiyatçısı kız, aykırı gençlerden oluşan bir arkadaş grubu ile takılmaya başlar. Küçük erkek kardeşi ise lisenin ilk yılında hayatta kalmaya çalışıyordur.",
+        "poster_path": "/tPqV63zcW6ZV0Hd48DMGb5UzQIG.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 22.4851,
+        "first_air_date": "1999-09-25",
+        "vote_average": 8.161,
+        "vote_count": 788,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/mBHcWrRAtkRo9YgcHm1cUdLuyQ8.jpg",
+        "id": 47665,
+        "name": "Black Sails",
+        "original_name": "Black Sails",
+        "overview": "Black Sails, Jon Steinberg ve Robert Levine tarafından, Starz için yaratılan bir televizyon dizisidir. 26 Temmuz 2013 tarihinde, Starz on bölümlük ikinci sezon onayı vermiştir. Louis Stevenson’ın romanı Treasure Island'ın 20 yıl öncesini konu alan Black Sails, Korsanlığın altın çağında Kaptan Flint ve tayfasına yeni kattığı John Silver'ın başlarına açtığı belaları anlatıyor. Los Angeles Times'dan Robert Lloyd dizi için \"Black Sails bir korsan hazinesi. Starz'ın yeni dizisi, korsanların günlük yaşamını gerçekçi bir biçimde resmediyor\" ifadelerini kullandı. Dizi, Güney Afrika'daki Cape Town Film Stüdyolarında çekiliyor. Sadece bir gemiye eklenen detaylar için Üç yüz işçi saatlerce çalışmıştır. ",
+        "poster_path": "/mZcSwrDdw6cdOVgXm496DgwrQcQ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759
+        ],
+        "popularity": 22.3934,
+        "first_air_date": "2014-01-25",
+        "vote_average": 7.593,
+        "vote_count": 1341,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/siA2d4PNn4JVFZAwfIYx4pnKCaK.jpg",
+        "id": 46648,
+        "name": "True Detective",
+        "original_name": "True Detective",
+        "overview": "Louisiana Cinayet Masası'nda görev yapan dedektif Rust Cohle ve Martin Hart bir seri katilin peşine düşerler. Beraber çalışan ikilinin, takip derinleştikçe kendi hayatlarının da içinden çıkılmaz bir duruma gelmesi kaçınılmaz olacaktır. 17 yıl boyunca bir seri katili yakalamak için iz süren dedektifler, yıllar sonra davanın tekrar ele alınması ile beraber kendilerini sorgu masasında bulurlar.",
+        "poster_path": "/cuV2O5ZyDLHSOWzg3nLVljp1ubw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 43.1416,
+        "first_air_date": "2014-01-12",
+        "vote_average": 8.286,
+        "vote_count": 3637,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uJUe985oIuRiD3hmHQYskIMc2WU.jpg",
+        "id": 62560,
+        "name": "Mr. Robot",
+        "original_name": "Mr. Robot",
+        "overview": "Gündüz yazılım güvenliği şirketinde çalışan geceleri ise sanal evrenin kahramanı olan Elliot'ın heyecan dolu dünyasına giriş yapmaya hazır olun! Merak uyandıran senaryosuyla başarılı bir psikolojik gerilim olan dizide, başroldeki Rami Malek'e Mr.Robot rolünde ünlü aktör Christian Slater eşlik ediyor.",
+        "poster_path": "/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 34.5089,
+        "first_air_date": "2015-06-24",
+        "vote_average": 8.2,
+        "vote_count": 4826,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

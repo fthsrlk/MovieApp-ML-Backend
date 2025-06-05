@@ -1,0 +1,808 @@
+{
+  "adult": false,
+  "backdrop_path": "/7OrV2aAH5Yp7hA9zCCvUloLvZtl.jpg",
+  "created_by": [
+    {
+      "id": 1242988,
+      "credit_id": "67cc13d09ef0acdb8b5b9f89",
+      "name": "Keith Chapman",
+      "original_name": "Keith Chapman",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2013-08-12",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animasyon"
+    },
+    {
+      "id": 10762,
+      "name": "Çocuklar"
+    }
+  ],
+  "homepage": "http://pawpatrol.com",
+  "id": 57532,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-02-26",
+  "last_episode_to_air": {
+    "id": 5994160,
+    "name": "35. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-02-26",
+    "episode_number": 35,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 11,
+    "show_id": 57532,
+    "still_path": "/7d2a9AsbgwIo9rxhiyi70YSMePM.jpg"
+  },
+  "name": "PAW Patrol",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 13,
+      "logo_path": "/aYkLXz4dxHgOrFNH7Jv7Cpy56Ms.png",
+      "name": "Nickelodeon",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 506,
+  "number_of_seasons": 11,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "PAW Patrol",
+  "overview": "Ana karakter, yaşının ötesinde yaramaz, huzursuz ve zeki 10 yaşındaki bir çocuk olan Zeke Ryder'dır. Hobileri, nasıl başa çıkacağını bildiği teknoloji ve elektroniktir. Çocuğun çok ilginç ve olaylı bir hayatı var, çünkü o ve altı yavrudan oluşan ekibi her gün kurtarma görevlerine katılmak zorunda. \"Paw Patrol\", küçük bir yavru kediyi memnuniyetle kurtarır, tereddüt etmeden heyelana yakalanmış bir trenin kurtarılmasına koşar. Yavruları olan bir çocuk herhangi bir görevle başa çıkabilir. Dört ayaklı arkadaşların her birinin kendine has yetenekleri ve karakteri var, çokça iyilik yapıyorlar, gerçekten cesur kurtarıcılar.",
+  "popularity": 119.6743,
+  "poster_path": "/9S65uEjDqepU7d71CNmxIBHHdo.jpg",
+  "production_companies": [
+    {
+      "id": 71738,
+      "logo_path": "/9SiK63A0hOmn3FiLCEqydtE1ZQW.png",
+      "name": "Spin Master",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-10-16",
+      "episode_count": 279,
+      "id": 124907,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/2sxtwoSueB2iEDxWge9Bv4sMB6h.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2013-08-12",
+      "episode_count": 47,
+      "id": 58658,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/mMDDjW5hzsn2DTw72P9Y6oNih30.jpg",
+      "season_number": 1,
+      "vote_average": 4.1
+    },
+    {
+      "air_date": "2014-08-13",
+      "episode_count": 47,
+      "id": 63522,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/bj9szM1pGp5kPSgA8a8OoEvQBaQ.jpg",
+      "season_number": 2,
+      "vote_average": 0.8
+    },
+    {
+      "air_date": "2015-11-20",
+      "episode_count": 50,
+      "id": 73659,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/hJdgH6LdWQCnP3n9BdHMatO9tba.jpg",
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2017-02-06",
+      "episode_count": 45,
+      "id": 85417,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/4kBKQtn30vmsdb0iA9xXepjtrht.jpg",
+      "season_number": 4,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2018-02-06",
+      "episode_count": 50,
+      "id": 98973,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/vMT518UBRIkjPrGP1rREq9D8Sa1.jpg",
+      "season_number": 5,
+      "vote_average": 9.8
+    },
+    {
+      "air_date": "2019-02-22",
+      "episode_count": 47,
+      "id": 119278,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/dUeurPra2umCg3XZ1bxcCpfSQ9C.jpg",
+      "season_number": 6,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2020-03-27",
+      "episode_count": 47,
+      "id": 160289,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/Quo3NzCFk1W9saxhqh1opUqMQB.jpg",
+      "season_number": 7,
+      "vote_average": 9.0
+    },
+    {
+      "air_date": "2021-05-28",
+      "episode_count": 47,
+      "id": 194621,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/d69Nqaw08RXt3DeaC74v0uz2uSO.jpg",
+      "season_number": 8,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2022-09-09",
+      "episode_count": 42,
+      "id": 298059,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/aPBC5Df2Os7v6JJQpJuppvuXBBw.jpg",
+      "season_number": 9,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2023-07-10",
+      "episode_count": 49,
+      "id": 348420,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/pwlIg0qvL1zoFIrSfxJ2N45MlqU.jpg",
+      "season_number": 10,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2024-09-18",
+      "episode_count": 35,
+      "id": 398170,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.0,
+  "vote_count": 771,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1564602,
+        "known_for_department": "Acting",
+        "name": "Owen Mason",
+        "original_name": "Owen Mason",
+        "popularity": 0.3655,
+        "profile_path": "/umn0bD9qPdILE5hKlwL6nDRkU1q.jpg",
+        "character": "Ryder (voice)",
+        "credit_id": "5b5e667b0e0a262e9003bc8f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2095419,
+        "known_for_department": "Acting",
+        "name": "Tristan Samuel",
+        "original_name": "Tristan Samuel",
+        "popularity": 0.2788,
+        "profile_path": "/jvSe0e3z7Jx9phAAvN2MKocRO6h.jpg",
+        "character": "Chase (voice)",
+        "credit_id": "5b5e6810c3a368422c031ed3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2095429,
+        "known_for_department": "Acting",
+        "name": "Kallan Holley",
+        "original_name": "Kallan Holley",
+        "popularity": 0.405,
+        "profile_path": "/l1POWrTgqn2Q6WrYtiy2SqAlnCD.jpg",
+        "character": "Skye (voice)",
+        "credit_id": "5b5e6a40925141521a039400",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2095425,
+        "known_for_department": "Acting",
+        "name": "Stuart Ralston",
+        "original_name": "Stuart Ralston",
+        "popularity": 0.2966,
+        "profile_path": "/vK5eQf6sS4UO1VXUN1Km4azdCmi.jpg",
+        "character": "Rocky (voice)",
+        "credit_id": "5b5e69470e0a262e9f037aa2",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2095427,
+        "known_for_department": "Acting",
+        "name": "Alex Thorne",
+        "original_name": "Alex Thorne",
+        "popularity": 0.4469,
+        "profile_path": "/vIw4PhvWeKvq4Y3HYwTgdZqHemm.jpg",
+        "character": "Zuma (voice)",
+        "credit_id": "5b5e69d00e0a262e92038faf",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1564603,
+        "known_for_department": "Acting",
+        "name": "Devan Cohen",
+        "original_name": "Devan Cohen",
+        "popularity": 0.3231,
+        "profile_path": "/zD6WjkN9Stk5H5UFyqCGjKfdWkB.jpg",
+        "character": "Rubble (voice)",
+        "credit_id": "5b5e68bdc3a368422f03d0ed",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1227611,
+        "known_for_department": "Acting",
+        "name": "Ron Pardo",
+        "original_name": "Ron Pardo",
+        "popularity": 1.2746,
+        "profile_path": "/hE4QOBmPqstfmBVXmlcJmsljUMw.jpg",
+        "character": "Cap'n Turbot / Mayor Humdinger / Farmer Al (voice)",
+        "credit_id": "613921d67a1bd6002cfc1cd9",
+        "order": 14
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "rescue mission",
+        "id": 11107
+      },
+      {
+        "name": "dog",
+        "id": 15162
+      },
+      {
+        "name": "rescue team",
+        "id": 18031
+      },
+      {
+        "name": "cartoon dog",
+        "id": 178898
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/e3F1DhLs90kk1hWZhoTUanrxjMu.jpg",
+        "id": 2355,
+        "name": "Lilo & Stitch: The Series",
+        "original_name": "Lilo & Stitch: The Series",
+        "overview": "This animated series chronicles the further adventures of renegade scientist Dr. Jumba Jookiba's beloved Experiment 626, who is now living happily as Lilo's alien buddy Stitch. Jumba’s remaining experiments have landed all over Hawaii in the form of dehydrated pods. Lilo and Stitch’s mission is to catch Stitch’s \"cousins\" before they fall into the clutches of the evil Dr. Jacques von Hamsterviel!",
+        "poster_path": "/hmNpwSKZzStqO4bfOFeYNTn2B7.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10751,
+          35,
+          10759,
+          10765,
+          10762
+        ],
+        "popularity": 32.4192,
+        "first_air_date": "2003-09-20",
+        "vote_average": 7.4,
+        "vote_count": 589,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/pTzgocsWDXy3Td72k3FMZXmTCuc.jpg",
+        "id": 60888,
+        "name": "Young & Hungry",
+        "original_name": "Young & Hungry",
+        "overview": "Genç ve zengin işadamı Josh Kaminski, Gabi’yi özel aşçısı olarak evinde işe alır. Josh ve Gabi’nin tahmin ettiklerinden daha fazla ortak noktaları var gibidir.",
+        "poster_path": "/iu5hmJaeTM0yrfM9azHFSjN0EIu.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          35
+        ],
+        "popularity": 10.7134,
+        "first_air_date": "2014-06-25",
+        "vote_average": 6.838,
+        "vote_count": 142,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dIc8YQrs3fRbB7b9pGzgTqDMnpJ.jpg",
+        "id": 37471,
+        "name": "Nura: Rise of the Yokai Clan",
+        "original_name": "ぬらりひょんの孫",
+        "overview": "Rikuo Nura, is 3 parts human and a quarter Demon, lives in a house of spirits with his grandfather, The current clan head of the Nura youkai. Rikou is set to be the next clan head, despit the fact he dilikes his demon side. He soon come to terms with his demon blood and decides to take his position as young master of the Nura house. However there are those who will certainly not allow it to be easy.",
+        "poster_path": "/qHY5y8pQiIIJfXeko7t9JTqA32p.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10765,
+          10759
+        ],
+        "popularity": 9.2411,
+        "first_air_date": "2010-07-05",
+        "vote_average": 7.6,
+        "vote_count": 86,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/uAfsRtKnCdtHTF49yyvfyCyL5Uu.jpg",
+        "id": 2855,
+        "name": "Relic Hunter",
+        "original_name": "Relic Hunter",
+        "overview": "Sydney Fox is a professor and globe-trotting \"relic hunter\" who looks for ancient artifacts to return to museums and/or the descendants of the original owner. She is aided by her linguistic assistant Nigel and occasionally by her somewhat air-headed secretary Claudia. She often ends up battling rival hunters seeking out artifacts for the money.",
+        "poster_path": "/t04oqIsBlRnxKOWhBL6SlEQowZ5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          9648,
+          10759,
+          18
+        ],
+        "popularity": 11.4,
+        "first_air_date": "1999-09-25",
+        "vote_average": 6.7,
+        "vote_count": 157,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/5hXkZ1CQlH24OB5Nr32boR4RgmT.jpg",
+        "id": 46262,
+        "name": "Doktor Dotti",
+        "original_name": "Doc McStuffins",
+        "overview": "Peluş hayvan arkadaşlarının da yardımıyla, Doktor Dotti oyun evinde bir klinik işletmektedir.",
+        "poster_path": "/oh2EH7gH1RZQaHOPSt6C0tpO4Dk.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762,
+          10751
+        ],
+        "popularity": 39.7017,
+        "first_air_date": "2012-03-23",
+        "vote_average": 6.087,
+        "vote_count": 63,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qrCjSATTBnXC1nQbZ98Nq35E8q4.jpg",
+        "id": 51557,
+        "name": "Burn! Top Striker",
+        "original_name": "燃えろ!トップストライカー",
+        "overview": "",
+        "poster_path": "/wxVW9hP7NvFa9qIGDWcYL7Ew2DU.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759
+        ],
+        "popularity": 1.2417,
+        "first_air_date": "1991-10-10",
+        "vote_average": 7.4,
+        "vote_count": 55,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/zH4PXZsKbC2bW0KOdjVJE6Jifmm.jpg",
+        "id": 72743,
+        "name": "Burden of Truth",
+        "original_name": "Burden of Truth",
+        "overview": "A big city lawyer returns to her hometown to take the case of a group of girls suffering from a mysterious illness.",
+        "poster_path": "/2YLg5PQ27kgRp6uncqUhKHoXXUC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 12.64,
+        "first_air_date": "2018-01-10",
+        "vote_average": 7.4,
+        "vote_count": 100,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/rI332PN8I3q8rZ6SzJ0CGAtqCzm.jpg",
+        "id": 74606,
+        "name": "Jorel's Brother",
+        "original_name": "Irmão do Jorel",
+        "overview": "This Brazilian TV show tells the story of young Jorel's Brother daily life, including dealing with his family, school and friends.",
+        "poster_path": "/uCIUYkw6zqEyaRFUMOeD5ZzeOq9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "pt",
+        "genre_ids": [
+          16,
+          35,
+          10762,
+          18
+        ],
+        "popularity": 20.641,
+        "first_air_date": "2014-09-22",
+        "vote_average": 8.81,
+        "vote_count": 50,
+        "origin_country": [
+          "BR"
+        ]
+      },
+      {
+        "backdrop_path": "/ijLRv7VZzLhYiEt7UiBQowlVscr.jpg",
+        "id": 46345,
+        "name": "Tokyo Mew Mew",
+        "original_name": "東京ミュウミュウ",
+        "overview": "On her first date with the cutest boy in school, Ichigo is zapped by a  mysterious ray that scrambles her DNA with that of the endangered Iriomote wildcat. The next day, Ichigo discovers that she has developed the agility (and occasionally the ears and tail) of a cat, as well as the power to transform into a pink-haired superheroine, Mew Ichigo. She and four other girls, each endowed with the genes of a different \"Red Data\" animal, have been selected for the top-secret Mew Project, which aims to protect the Earth from an alien menace known as Deep Blue.",
+        "poster_path": "/vEBuze5ULPfMYfMX8BYuVa2moRs.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10762,
+          10765,
+          10759,
+          35,
+          10751
+        ],
+        "popularity": 8.7546,
+        "first_air_date": "2002-04-06",
+        "vote_average": 7.6,
+        "vote_count": 102,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/fwMwwjN8N6b5APrfKou9ZW1alAM.jpg",
+        "id": 15641,
+        "name": "The Mighty B!",
+        "original_name": "The Mighty B!",
+        "overview": "The Mighty B! is an American animated television series co-created by Amy Poehler, Cynthia True and Erik Wiese for Nickelodeon. The series centers on Bessie Higgenbottom, an ambitious Honeybee girl scout who believes she will become The Mighty B if she collects every Honeybee badge. Bessie lives in San Francisco with her single mother Hilary, brother Ben and dog Happy. Poehler provides the voice of Bessie, who is loosely based on a character Poehler played on the improvisational comedy troupes Second City and Upright Citizens Brigade.",
+        "poster_path": "/si9HifHah69ZnAONP1xE4OAlaIp.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10762,
+          10751
+        ],
+        "popularity": 11.1902,
+        "first_air_date": "2008-04-26",
+        "vote_average": 6.3,
+        "vote_count": 38,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/8osZ4yzRcdR8LXt4JpIi13WA6YN.jpg",
+        "id": 87940,
+        "name": "Hudson & Rex",
+        "original_name": "Hudson & Rex",
+        "overview": "Detective Charlie Hudson teams up with what he calls his \"highly trained law enforcement animal\" German Shepherd dog named Rex who he prefers to team up with because he doesn't talk his ear off.",
+        "poster_path": "/up0MUqFzDBNxjhdWrbNG6Ak2kSi.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 40.171,
+        "first_air_date": "2019-02-25",
+        "vote_average": 8.4,
+        "vote_count": 102,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/rHLs2Q9JWMFbEORqwKbFv278XL7.jpg",
+        "id": 133152,
+        "name": "Get Rolling with Otis",
+        "original_name": "Get Rolling with Otis",
+        "overview": "Welcome to Long Hill Dairy Farm, home to Otis the tractor and all his friends. Otis may be little, but he has a big heart. Whenever he sees a friend in need, he hits the brakes to see what’s wrong and rolls into action to help.",
+        "poster_path": "/fNJHsDr3qB0gJxaGpl6vnfzG2ey.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762
+        ],
+        "popularity": 3.7544,
+        "first_air_date": "2021-10-08",
+        "vote_average": 6.6,
+        "vote_count": 44,
+        "origin_country": [
+          "IE"
+        ]
+      },
+      {
+        "backdrop_path": "/yOYsxTl6XW15BXLojRA68OlOMfF.jpg",
+        "id": 36089,
+        "name": "The Legend of the Legendary Heroes",
+        "original_name": "伝説の勇者の伝説",
+        "overview": "\"Alpha Stigma\" are known to be eyes that can analyze all types of magic. However, they are more infamously known as cursed eyes that can only bring destruction and death to others.\n\nRyner Lute, a talented mage and also an Alpha Stigma bearer, was once a student of the Roland Empire's Magician Academy, an elite school dedicated to training magicians for military purposes. However, after many of his classmates died in a war, he makes an oath to make the nation a more orderly and peaceful place, with fellow survivor and best friend, Sion Astal.\n\nNow that Sion is the the king of Roland, he orders Ryner to search for useful relics that will aid the nation. Together with Ferris Eris, a beautiful and highly skilled swordswoman, Ryner goes on a journey to search for relics of legendary heroes from the past, and also uncover the secrets behind his cursed eyes.",
+        "poster_path": "/eYoWjQceJGSndCgOpuEqJmAAQxb.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10765,
+          10759
+        ],
+        "popularity": 4.8679,
+        "first_air_date": "2010-06-26",
+        "vote_average": 8.185,
+        "vote_count": 54,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/lXU4HMoNmrgPEO2meDmlv5kY8OG.jpg",
+        "id": 74323,
+        "name": "Vampirina",
+        "original_name": "Vampirina",
+        "overview": "Genç bir vampir kız, ailesi doğaüstü misafirler için ürkütücü bir otel işletirken yeni bir şehirde insan arkadaşlar edinerek hayatını sürdürmeye çalışır.",
+        "poster_path": "/18Mmri8vmBKbGbiymFPlSHlg71o.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762,
+          35
+        ],
+        "popularity": 18.748,
+        "first_air_date": "2017-10-01",
+        "vote_average": 6.219,
+        "vote_count": 32,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/30bSx8hWIn9u1Ch9UbB5riA1MBf.jpg",
+        "id": 107422,
+        "name": "Alien TV",
+        "original_name": "Alien TV",
+        "overview": "Alien reporters Ixbee, Pixbee and Squee travel to a lovely but odd planet called Earth, where they attempt to make sense of humans and their hobbies.",
+        "poster_path": "/qqSDgXn18t1j3OUPem92vfUd7CU.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10751,
+          10762
+        ],
+        "popularity": 2.102,
+        "first_air_date": "2020-08-21",
+        "vote_average": 6.6,
+        "vote_count": 91,
+        "origin_country": [
+          "AU"
+        ]
+      },
+      {
+        "backdrop_path": "/5KrC0kondGLZ6cgZNrOazPYSXGb.jpg",
+        "id": 64198,
+        "name": "Blaze and the Monster Machines",
+        "original_name": "Blaze and the Monster Machines",
+        "overview": "AJ is an 8-year-old techie who drives monster-truck Blaze, the top racer in Axle City. The two go on adventures that have them taking on problems involving science and math. Many predicaments they face are caused by Blaze's rival, Crusher, a tractor-trailer that will do anything to beat other vehicles to the finish line. The animated series is billed as the first TV show for preschoolers to comprehensively cover areas of science, technology, engineering and math. Each episode introduces different STEM concepts, including buoyancy and trajectory.",
+        "poster_path": "/5DzjYIdgoePjMlmS7RCyUYWhpIK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10762,
+          16,
+          10751,
+          35
+        ],
+        "popularity": 52.5641,
+        "first_air_date": "2014-10-13",
+        "vote_average": 6.679,
+        "vote_count": 39,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dEPV4QKCdo8pqLN4g4h8pn6Jga7.jpg",
+        "id": 5200,
+        "name": "İtfaiyeci Sam",
+        "original_name": "Sam Tân",
+        "overview": "Anaokulu çağındaki çocuklara yangın güvenliğine dair değerli dersler veren Pontypandyli İtfaiyeci Sam ve çizgi kahramanlardan oluşan ekibi her türlü acil duruma hazır.",
+        "poster_path": "/sXsqaIOjemMuHxGu3XukIyVM7jN.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "cy",
+        "genre_ids": [
+          10762,
+          16,
+          35,
+          10751
+        ],
+        "popularity": 48.9311,
+        "first_air_date": "1987-11-17",
+        "vote_average": 6.2,
+        "vote_count": 35,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/eLIhwHOLBDeHoJFFHX4MddAJqdD.jpg",
+        "id": 2016,
+        "name": "Mama's Family",
+        "original_name": "Mama's Family",
+        "overview": "Thelma Harper and her spinster sister Fran open their home to Thelma's recently divorced son Vinton and his teenage son and daughter. It's quite an adjustment for everyone, especially the cranky, argumentative Thelma.",
+        "poster_path": "/qal1KQkksYDuDnxUBETEpdoVvoX.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 44.0772,
+        "first_air_date": "1983-01-22",
+        "vote_average": 7.6,
+        "vote_count": 46,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/tchhr4PIgdILmgUqbfm2fbi9b26.jpg",
+        "id": 233194,
+        "name": "Only for Love",
+        "original_name": "以爱为营",
+        "overview": "Zheng Shu Yi, a reporter who excels at her job and is determined to land a front-page story, has tried very hard to earn an exclusive interview with top financial executive Shi Yan. Their love story then blossoms due to a mistake. Zheng Shu Yi has written numerous reports through her in-depth research of various industries while Shi Yan is constantly looking for socially responsible start-ups to invest in as he hopes to give back to society as much as he can. Shi Yan finds that Zheng Shu Yi's opinions conveyed through her reports coincide with his own, so he agrees to let her write a series of reports on their company. The two eventually open up new opportunities in their career and also find love.",
+        "poster_path": "/aSDZcX0FIJJRMNiL7n9J39LyK46.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "zh",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 11.6299,
+        "first_air_date": "2023-11-03",
+        "vote_average": 8.17,
+        "vote_count": 44,
+        "origin_country": [
+          "CN"
+        ]
+      },
+      {
+        "backdrop_path": "/bXnKc8abo2NwlZxyiVlkPvNxu3e.jpg",
+        "id": 72089,
+        "name": "Bingo ve Rolly'nin Maceraları",
+        "original_name": "Puppy Dog Pals",
+        "overview": "Eğlenmeyi seven iki Pug yavrusu, Bingo ve Rolly, macerayı çok seven iki kardeşler! İster sahipleri Bob'a ister ihtiyacı olan bir hayvan dostlarına yardım etmek olsun, müthiş görevleri yavruları mahallenin ve hatta dünyanın dört bir yanına götürür! Nereye giderlerse gitsinler, Bingo ve Rolly, en iyi arkadaşınız ve kardeşiniz yanınızdayken hayatın çok daha heyecan verici (ve çok daha şapşalca!) olduğunu çok iyi bilir.",
+        "poster_path": "/A803pXiJXQ1FgYXYHwIS9f23SNF.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762,
+          10751,
+          35,
+          18
+        ],
+        "popularity": 44.7645,
+        "first_air_date": "2017-04-14",
+        "vote_average": 5.917,
+        "vote_count": 18,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

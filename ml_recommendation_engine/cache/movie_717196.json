@@ -1,0 +1,1020 @@
+{
+  "adult": false,
+  "backdrop_path": "/igIevSzaaOjsLh8zXCKY3UuDQsJ.jpg",
+  "belongs_to_collection": {
+    "id": 141615,
+    "name": "Niko Serisi",
+    "poster_path": "/z4pHMEQlUBqwuYEjlkozzsZ8EyC.jpg",
+    "backdrop_path": "/avpEehAg8xVy0PqswqLRbXPc7WI.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animasyon"
+    },
+    {
+      "id": 10751,
+      "name": "Aile"
+    },
+    {
+      "id": 14,
+      "name": "Fantastik"
+    }
+  ],
+  "homepage": "",
+  "id": 717196,
+  "imdb_id": "tt14813816",
+  "origin_country": [
+    "DK",
+    "FI",
+    "IE",
+    "DE"
+  ],
+  "original_language": "fi",
+  "original_title": "Niko ja Myrskyporojen arvoitus",
+  "overview": "",
+  "popularity": 173.769,
+  "poster_path": "/4NUrmQjuNc1gXJfMFvGozHxUGgG.jpg",
+  "production_companies": [
+    {
+      "id": 135965,
+      "logo_path": null,
+      "name": "Animaker",
+      "origin_country": "FI"
+    },
+    {
+      "id": 50162,
+      "logo_path": null,
+      "name": "Moetion Films",
+      "origin_country": "IE"
+    },
+    {
+      "id": 3922,
+      "logo_path": "/uXDOnG25HLnban0UfpRVjxASMWW.png",
+      "name": "A. Film Production",
+      "origin_country": "DK"
+    },
+    {
+      "id": 38773,
+      "logo_path": null,
+      "name": "Ulysses",
+      "origin_country": "DE"
+    },
+    {
+      "id": 11851,
+      "logo_path": "/vSYOpJKsujv4m2jSSeFUILOc5F1.png",
+      "name": "Anima Vitae",
+      "origin_country": "FI"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "FI",
+      "name": "Finland"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    }
+  ],
+  "release_date": "2024-10-07",
+  "revenue": 12907944,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Niko ja Myrskyporojen arvoitus",
+  "video": false,
+  "vote_average": 7.563,
+  "vote_count": 17,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4677369,
+        "known_for_department": "Acting",
+        "name": "Matthew Whelan",
+        "original_name": "Matthew Whelan",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Niko (voice)",
+        "credit_id": "6745cb2cb6b682fa8f0bd680",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4815721,
+        "known_for_department": "Acting",
+        "name": "Emma Jenkins",
+        "original_name": "Emma Jenkins",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Stella (voice)",
+        "credit_id": "6745cb39dcbb15c89a8b5cd6",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96674,
+        "known_for_department": "Acting",
+        "name": "Paul Tylak",
+        "original_name": "Paul Tylak",
+        "popularity": 3.899,
+        "profile_path": "/fa60rnV49DACuStH9QlZhIi7Q4p.jpg",
+        "cast_id": 13,
+        "character": "Prancer / Cupid / Siigur / Leo Lemming / Lasse Lemming / Lemmings (voice)",
+        "credit_id": "6745cb40b6b682fa8f0bd68c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1654994,
+        "known_for_department": "Acting",
+        "name": "Roger Gregg",
+        "original_name": "Roger Gregg",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Einar / Dasher (voice)",
+        "credit_id": "6752208437f185620208823c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2045981,
+        "known_for_department": "Acting",
+        "name": "Dermot Magennis",
+        "original_name": "Dermot Magennis",
+        "popularity": 1.527,
+        "profile_path": "/cG8UF5xDdROiZfSMADEOqs1L9ne.jpg",
+        "cast_id": 17,
+        "character": "Julius & Ilmar (voice)",
+        "credit_id": "675220e172d1a8a59c299752",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1571373,
+        "known_for_department": "Acting",
+        "name": "Aileen Mythen",
+        "original_name": "Aileen Mythen",
+        "popularity": 1.082,
+        "profile_path": "/hfH9ottdHqfaltDqpA07hiThiqb.jpg",
+        "cast_id": 18,
+        "character": "Wilma / Olga / Lemmings (voice)",
+        "credit_id": "675220fc8af6d3feb3affe5d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5101199,
+        "known_for_department": "Acting",
+        "name": "Lucy Smith",
+        "original_name": "Lucy Smith",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Lilli (voice)",
+        "credit_id": "6752213737f185620208825c",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5101201,
+        "known_for_department": "Acting",
+        "name": "Harry Weld-Moore",
+        "original_name": "Harry Weld-Moore",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Jonni (voice)",
+        "credit_id": "6752215037f1856202088267",
+        "order": 7
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 3805115,
+        "known_for_department": "Acting",
+        "name": "Justin Daniels Anene",
+        "original_name": "Justin Daniels Anene",
+        "popularity": 0.631,
+        "profile_path": "/4ZZwc5AUS6jtoK0Sun118pLwLBK.jpg",
+        "cast_id": 21,
+        "character": "Morten (voice)",
+        "credit_id": "675221a6802bad16091a9c2b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 61168,
+        "known_for_department": "Acting",
+        "name": "Brenda McDonald",
+        "original_name": "Brenda McDonald",
+        "popularity": 6.15,
+        "profile_path": "/39yKTAbHI2NZuwaneV5vF1nuMsF.jpg",
+        "cast_id": 22,
+        "character": "Blitzen / Donner / Nillá (voice)",
+        "credit_id": "6752223f802bad16091a9c7b",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 54000,
+        "known_for_department": "Acting",
+        "name": "Mary Murray",
+        "original_name": "Mary Murray",
+        "popularity": 1.428,
+        "profile_path": "/1ZRP9IfehCSx5OeBQQDcVPvKYD0.jpg",
+        "cast_id": 23,
+        "character": "Ilda / Lala Lemming (voice)",
+        "credit_id": "6752229784ca928d00c9f6d8",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2447473,
+        "known_for_department": "Acting",
+        "name": "Susan Slott",
+        "original_name": "Susan Slott",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Oona (voice)",
+        "credit_id": "675222c5fa107dc4ed404188",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 934057,
+        "known_for_department": "Acting",
+        "name": "Luke Griffin",
+        "original_name": "Luke Griffin",
+        "popularity": 0.995,
+        "profile_path": "/bu0UOvSBkK73NkmFxsZm6dpw5GV.jpg",
+        "cast_id": 29,
+        "character": "Comet / Dancer / Gusto / Vixen (voice)",
+        "credit_id": "6797e7fca6e41283f12b46f2",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1233381,
+        "known_for_department": "Acting",
+        "name": "Michael Sheehan",
+        "original_name": "Michael Sheehan",
+        "popularity": 0.578,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Lenni (voice)",
+        "credit_id": "6797e852a6e41283f12b472a",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2440673,
+        "known_for_department": "Acting",
+        "name": "Cameron Simpson",
+        "original_name": "Cameron Simpson",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Young Prancer (voice)",
+        "credit_id": "6797e8663f7fcf67d08f723a",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2699566,
+        "known_for_department": "Acting",
+        "name": "Evan O'Connor",
+        "original_name": "Evan O'Connor",
+        "popularity": 1.924,
+        "profile_path": "/hcixxV1YbiSOqxXBD7J8hvrD1HA.jpg",
+        "cast_id": 32,
+        "character": "Young Ilmar (voice)",
+        "credit_id": "6797e87c013209f8918f6b1b",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1571367,
+        "known_for_department": "Acting",
+        "name": "Michelle Read",
+        "original_name": "Michelle Read",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Leif / Lilly Lemming (voice)",
+        "credit_id": "6797e8b716f0d960df23bda2",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 97441,
+        "known_for_department": "Acting",
+        "name": "Olivia Caffrey",
+        "original_name": "Olivia Caffrey",
+        "popularity": 2.106,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Lalli Lemming (voice)",
+        "credit_id": "6797e8c709c252e3ab23e608",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1201882,
+        "known_for_department": "Acting",
+        "name": "Doireann Ní Chorragáin",
+        "original_name": "Doireann Ní Chorragáin",
+        "popularity": 0.79,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Lemming (voice)",
+        "credit_id": "6797e8dc3f7fcf67d08f7262",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5207487,
+        "known_for_department": "Acting",
+        "name": "Maggie Cadwell",
+        "original_name": "Maggie Cadwell",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Lemming (voice)",
+        "credit_id": "6797e9079ca029099c2b2183",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1866484,
+        "known_for_department": "Acting",
+        "name": "Garry Mountaine",
+        "original_name": "Garry Mountaine",
+        "popularity": 0.3,
+        "profile_path": "/p8QoJaKd65Ujn0rkMNa6zc0zxz8.jpg",
+        "cast_id": 37,
+        "character": "Santa Clause",
+        "credit_id": "6797e9239ca029099c2b218f",
+        "order": 20
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1428981,
+        "known_for_department": "Production",
+        "name": "Emely Christians",
+        "original_name": "Emely Christians",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "65c9e368b6cff10185a81f24",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 73101,
+        "known_for_department": "Production",
+        "name": "Anders Mastrup",
+        "original_name": "Anders Mastrup",
+        "popularity": 0.589,
+        "profile_path": null,
+        "credit_id": "65c9e37354a0980163025f97",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1428983,
+        "known_for_department": "Production",
+        "name": "Moe Honan",
+        "original_name": "Moe Honan",
+        "popularity": 0.008,
+        "profile_path": null,
+        "credit_id": "65c9e38754a098014900faf4",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1124549,
+        "known_for_department": "Production",
+        "name": "Antti Haikala",
+        "original_name": "Antti Haikala",
+        "popularity": 0.057,
+        "profile_path": null,
+        "credit_id": "5eecf0fb0f1e580037b851d7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 592702,
+        "known_for_department": "Production",
+        "name": "Hannu Tuomainen",
+        "original_name": "Hannu Tuomainen",
+        "popularity": 2.337,
+        "profile_path": null,
+        "credit_id": "5eecf109b0460500350d5d1d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 592701,
+        "known_for_department": "Directing",
+        "name": "Kari Juusonen",
+        "original_name": "Kari Juusonen",
+        "popularity": 0.644,
+        "profile_path": "/8KemNRvNpANsBHsBgr7On2kMT2r.jpg",
+        "credit_id": "5eecf11d0f1e580035b733b0",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 592701,
+        "known_for_department": "Directing",
+        "name": "Kari Juusonen",
+        "original_name": "Kari Juusonen",
+        "popularity": 0.644,
+        "profile_path": "/8KemNRvNpANsBHsBgr7On2kMT2r.jpg",
+        "credit_id": "5eecf134c5ada50031d74f45",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 592702,
+        "known_for_department": "Production",
+        "name": "Hannu Tuomainen",
+        "original_name": "Hannu Tuomainen",
+        "popularity": 2.337,
+        "profile_path": null,
+        "credit_id": "5eecf14559e8a90035c6fac3",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67549,
+        "known_for_department": "Writing",
+        "name": "Marteinn Thorisson",
+        "original_name": "Marteinn Thorisson",
+        "popularity": 0.707,
+        "profile_path": null,
+        "credit_id": "5eecf14b5f2db100351990a9",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1108625,
+        "known_for_department": "Sound",
+        "name": "Craig Stuart Garfinkle",
+        "original_name": "Craig Stuart Garfinkle",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "67521fd937f18562020881c8",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 123248,
+        "known_for_department": "Directing",
+        "name": "Jørgen Lerdam",
+        "original_name": "Jørgen Lerdam",
+        "popularity": 2.214,
+        "profile_path": null,
+        "credit_id": "6797e75f013209f8918f6ae4",
+        "department": "Directing",
+        "job": "Co-Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2202671,
+        "known_for_department": "Art",
+        "name": "Mikko Pitkänen",
+        "original_name": "Mikko Pitkänen",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "6797e783192115901e8f5273",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1841818,
+        "known_for_department": "Editing",
+        "name": "Benjamin Mercer",
+        "original_name": "Benjamin Mercer",
+        "popularity": 0.314,
+        "profile_path": "/3LkEUBFnEcj33Qk2rLpKgTwTE3Y.jpg",
+        "credit_id": "6797e790a6e41283f12b46e3",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2362227,
+        "known_for_department": "Sound",
+        "name": "Eímear Noone",
+        "original_name": "Eímear Noone",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "6797e7a4192115901e8f5287",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 9663,
+        "name": "sequel"
+      },
+      {
+        "id": 10385,
+        "name": "reindeer"
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/aUdyvwegfuZiEYKs2c05cPCRxEZ.jpg",
+        "id": 1209130,
+        "title": "Hagen",
+        "original_title": "Hagen - Im Tal der Nibelungen",
+        "overview": "Hagen von Tronje, the Burgundian master-at-arms, holds his troubled kingdom together while hiding his dark past. The arrival of the unpredictable dragon slayer Siegfried threatens to upend the old order. As King Gunter seeks Siegfried's help to win the fierce Valkyrie Brunhild, Hagen faces a tragic choice between loyalty to the king and his own identity.",
+        "poster_path": "/eQ1nTnV6neOhBeDJj87IUHDLwb0.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          14,
+          12,
+          28
+        ],
+        "popularity": 77.475,
+        "release_date": "2024-10-17",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 20
+      },
+      {
+        "backdrop_path": "/44KKqVMuaE0FuEgpJt54y8XSof7.jpg",
+        "id": 1311587,
+        "title": "Pepe",
+        "original_title": "Pepe",
+        "overview": "Pepe Willberg has travelled a winding road to this day, to the hearts of Finns and unlikely stardom. What has it all been like for a man who, in the beginning, sang only on condition that the lights in the hall were turned off? Written and directed by Severi Koivusalo, PEPE is a musical documentary about a talented musician with a unique voice, who struggles to balance his popularity with his passion for music, whose iconic songs have been playing in the background of Finnish life  through seven different decades.",
+        "poster_path": "/3cWDrtTznP4zgBbkmAaIpRcePr4.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "fi",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "popularity": 0.472,
+        "release_date": "2024-10-04",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 2
+      },
+      {
+        "backdrop_path": "/t98L9uphqBSNn2Mkvdm3xSFCQyi.jpg",
+        "id": 933260,
+        "title": "Cevher",
+        "original_title": "The Substance",
+        "overview": "Bir aerobik programının yıldızı olan Elisabeth Sparkle, ilerleyen yaşı yüzünden 50. doğumgününde kovulunca yıkılır. Gizemli bir laboratuvar ona, damarlarına zerk edildiğinde \"kendisinin daha iyi bir versiyonunu\" ortaya çıkaracak mucizevi bir maddeyi kullanması önerisiyle yaklaşır. David Cronenberg, John Carpenter, David Lynch ve Michael Haneke’den esinlenen yönetmen Coralie Fargeat’ın büyük ses getiren ilk filmi İntikam’ın (2017) ardından çektiği bu çağdaş zaman eleştirisi alabildiğine stilize, zihinlerde kesinlikle iz bırakacak, zaman zaman kanlı, dehşet verici ve bazen de komik. Her yanıyla olağanüstü Demi Moore, kendi imajını da acımasızca yansıtan Elisabeth’i canlandırırken alabildiğine cesur.",
+        "poster_path": "/rNrBHeqnDA8aHIz9eYkBskcKhq7.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          878
+        ],
+        "popularity": 428.651,
+        "release_date": "2024-09-07",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 4087
+      },
+      {
+        "backdrop_path": "/bHeUgZKqduubnNl8GshjrpHS9lF.jpg",
+        "id": 558449,
+        "title": "Gladyatör II",
+        "original_title": "Gladiator II",
+        "overview": "Gladyatör Maximus Decimus Meridius’un ölümünden 15 yıl sonrasıdır. Kana susamış kalabalıklar yarı deli ikiz imparatorları zalimliğin yeni zirvelerine iterken Kolezyum’daki savaşlar çok daha ölümcül ve görkemli hâle gelmiştir. Roma İmparatorluğu sınırlarını genişleterek, yoluna çıkan her kültürü yağmalayarak ve hayatta kalanları ringde yaşamları için savaşmaya zorlayarak yeryüzündeki yürüyüşünü sürdürmektedir.",
+        "poster_path": "/dARTCpnHY0R0B28j5q5ynq7erua.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          18
+        ],
+        "popularity": 490.786,
+        "release_date": "2024-11-13",
+        "video": false,
+        "vote_average": 6.767,
+        "vote_count": 2952
+      },
+      {
+        "backdrop_path": "/4CcUgdiGe83MeqJW1NyJVmZqRrF.jpg",
+        "id": 937287,
+        "title": "Rekabet",
+        "original_title": "Challengers",
+        "overview": "Yaşadığı sakatlığın sonrasında tenisi bırakmak zorunda kalan Tashi, kendisini bir aşk üçgeninin içerisinde bulur.",
+        "poster_path": "/1zCTZq18bBQkGtytzzgpViR8TN6.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10749,
+          18
+        ],
+        "popularity": 45.492,
+        "release_date": "2024-04-18",
+        "video": false,
+        "vote_average": 6.954,
+        "vote_count": 2062
+      },
+      {
+        "backdrop_path": "/mkxGpqh4yOYqtENv01IrDcesFRf.jpg",
+        "id": 993710,
+        "title": "Back in Action",
+        "original_title": "Back in Action",
+        "overview": "On beş yıl önce aile kurmak için CIA ajanlığını bırakıp ortadan kaybolan Matt ve Emily, kimlikleri ifşa olunca kendilerini yeniden casusluk dünyasında bulur.",
+        "poster_path": "/3L3l6LsiLGHkTG4RFB2aBA6BttB.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          35
+        ],
+        "popularity": 283.054,
+        "release_date": "2025-01-15",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 1061
+      },
+      {
+        "backdrop_path": "/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg",
+        "id": 438631,
+        "title": "Dune: Çöl Gezegeni",
+        "original_title": "Dune",
+        "overview": "Dune, kendi ailesi ve halkının geleceğini garanti altına almak için evrendeki en tehlikeli gezegene seyahat etmek zorunda olan, kavrayışının ötesinde büyük bir kaderin içine doğmuş, parlak ve yetenekli genç Paul Atreides'in hikayesini anlatıyor. Kötücül güçler, gezegenin var olan en değerli kaynağı için -insanlığın en büyük potansiyelini ortaya çıkarabilecek bir maden- çatışmaya tutuşmuşken, yalnızca korkularını yenebilenler hayatta kalacaktır.",
+        "poster_path": "/roeYIqWHyVHcjWDk6SOaepNEk0y.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          12
+        ],
+        "popularity": 96.79,
+        "release_date": "2021-09-15",
+        "video": false,
+        "vote_average": 7.784,
+        "vote_count": 13258
+      },
+      {
+        "backdrop_path": "/lLh39Th5plbrQgbQ4zyIULsd0Pp.jpg",
+        "id": 823464,
+        "title": "Godzilla ve Kong: Yeni İmparatorluk",
+        "original_title": "Godzilla x Kong: The New Empire",
+        "overview": "Kudretli Kong ve korkunç Godzilla bir araya gelerek, insan dünyasında gizlenen ve hem kendi türlerinin hem de insanlığın varoluşunu tehdit eden devasa ölümcül bir tehdide karşı birlikte savaşmak zorundadır.",
+        "poster_path": "/6Hwzl9hP58DQcgju1MbqhADLo4Z.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          878
+        ],
+        "popularity": 107.315,
+        "release_date": "2024-03-27",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 4080
+      },
+      {
+        "backdrop_path": "/tsDoiLwZyAbYewoIUDJKk1SJzTF.jpg",
+        "id": 993784,
+        "title": "Lisa Frankenstein",
+        "original_title": "Lisa Frankenstein",
+        "overview": "1989'da yanlış anlaşılan bir genç, lisede aşık olduğu bir kıza aşık olur — bu kız da yakışıklı bir cesettir! Bir dizi eğlenceli ve korkunç durum onu ​​hayata döndürdükten sonra, ikisi aşkı, mutluluğu ve yol boyunca kaybolan birkaç vücut parçasını bulmak için ölümcül bir yolculuğa çıkar.",
+        "poster_path": "/jAW7ZdIm4HLKB3g15uMOWYNdU8r.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          27,
+          10749
+        ],
+        "popularity": 16.822,
+        "release_date": "2024-02-07",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 412
+      },
+      {
+        "backdrop_path": "/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
+        "id": 693134,
+        "title": "Dune: Çöl Gezegeni Bölüm İki",
+        "original_title": "Dune: Part Two",
+        "overview": "Paul Atreides, Arrakis gezegeni için mücadeleye devam ediyor ve Fremen halkının liderliğini üstleniyor. Paul, Harkonnen ailesinin saldırısından kurtulduktan sonra, Fremenlerle birlikte yaşamaya başlar. Fremenlerin yardımıyla, Arrakis'in kontrolüne yeniden sahip olmak ve evrenin kaderini değiştirmek için mücadele eder. Paul, Arrakis gezegeninin Fremen halkı tarafından Mesih olarak kabul edilir. Fremen'ler, Paul'ün liderliğinde Arrakis gezegenini özgürleştireceklerine ve galakside eşitlik ve adaleti sağlayacaklarına inanırlar.",
+        "poster_path": "/tihf8Trht9zP3scmUQfvGlAY9FU.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          12
+        ],
+        "popularity": 148.147,
+        "release_date": "2024-02-27",
+        "video": false,
+        "vote_average": 8.1,
+        "vote_count": 6370
+      },
+      {
+        "backdrop_path": "/9Qq8InnodUYs8zdam8Zj967i6RO.jpg",
+        "id": 1106739,
+        "title": "Juror #2",
+        "original_title": "Juror #2",
+        "overview": "Kendini bir cinayet davasında jüri üyesi bulan bir adam, işlenen cinayetten aslında kendisinin sorumlu olduğunu hemen fark eder ve şimdi bir ikilemle karşı karşıya kalır; suçu kabul edip hapse girmek veya jüriyi manipüle ederek masum bir adamı parmaklıklar ardına koyup özgür kalmak.",
+        "poster_path": "/ugQkpGajKFQ8eyOEhGheR0HfWQ.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 51.244,
+        "release_date": "2024-10-30",
+        "video": false,
+        "vote_average": 6.82,
+        "vote_count": 1503
+      },
+      {
+        "backdrop_path": "/mYff2cdlBBU1DhyY6e3TcfCUF06.jpg",
+        "id": 1111873,
+        "title": "Tutsak Abigail",
+        "original_title": "Abigail",
+        "overview": "Bir grup suçlu, yeraltı dünyasının en güçlü isimlerinden birinin 12 yaşındaki balerin kızını kaçırır. 50 milyon dolarlık fidye isteyen suçluların, parayı almak için yapmaları gereken tek şey kıza sadece 1 gece göz kulak olmaktır. Tenha bir malikaneye giden suçlular, burada normal olmayan bir kız ile kilitli kaldıklarını fark ederler.",
+        "poster_path": "/zT8lFDAHxlNCCxxmn72daL2ENbk.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "popularity": 71.427,
+        "release_date": "2024-04-16",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 1431
+      },
+      {
+        "backdrop_path": "/8yPSYhooj8nyBbmV3GVdLDwuE7e.jpg",
+        "id": 1079091,
+        "title": "Bizimle Başladı Bizimle Bitti",
+        "original_title": "It Ends with Us",
+        "overview": "Travmatik bir çocukluğun üstesinden gelerek Boston'da yeni bir hayata başlayan ve kendi işini kurma hayalinin peşinden koşan Lily Bloom'un hikayesini konu alan filmde, Bloom büyüleyici beyin cerrahı Ryle Kincaid ile şans eseri karşılaşır. Kısa sürede aralarında yoğun bir bağ oluşur ve derin bir aşk başlar. Ancak bir süre sonra ilişkilerinde sorunlar ortaya çıkar.",
+        "poster_path": "/hRoSBSUZSpYcv80kOLRMDTq27iC.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "popularity": 73.853,
+        "release_date": "2024-08-07",
+        "video": false,
+        "vote_average": 7.067,
+        "vote_count": 1483
+      },
+      {
+        "backdrop_path": "/eSZZiDs6Y6dIt5BFNi1Sg3vvSVS.jpg",
+        "id": 1396,
+        "title": "Ayna",
+        "original_title": "Зеркало",
+        "overview": "Türkçesi ayna olarak çevirilen Andrei Tarkovsky'nin en kişisel filmi. Zaman kavramının tamamen yitirildiği şiirsel bir dille, ölmekte olan bir adamın ikinci dünya savaşı sırasında çocukluğu, ergenlik dönemi ve annesiyle babasının boşanması sırasında yaşadığı travmanın Rusya'nın tarihi ve toplumunun evrimi fonunda verildiği bir başyapıt. 2. Dünya Savaşı'nın karanlık günlerini anlatan film, yönetmenin kendi çocukluğundan da izler taşıdığı gibi, Rus tarihine dair ilginç göndermeler de yapıyor.  Filmde çocukluğun masumiyetinin savaşın dehşetine kurban gidişi anlatılıyor.",
+        "poster_path": "/mw9azNlZKmZyPlEc57RzHk1ggaB.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "ru",
+        "genre_ids": [
+          18,
+          36
+        ],
+        "popularity": 24.359,
+        "release_date": "1975-03-07",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 969
+      },
+      {
+        "backdrop_path": "/igtm12Wy9EUlxFeyb4v8bRyuYSY.jpg",
+        "id": 1337309,
+        "title": "Bangkok Breaking: Cennet ve Cehennem",
+        "original_title": "Bangkok Breaking: ฝ่านรกเมืองเทวดา",
+        "overview": "Bir acil kurtarma görevlisi, Bangkok'un ölümcül yeraltı dünyasına bulaşınca hayatta kalma savaşı verir.",
+        "poster_path": "/7p2ef8Ry6JXB1B9zOVqS0ZZiu2U.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "th",
+        "genre_ids": [
+          28,
+          80,
+          18,
+          53
+        ],
+        "popularity": 42.51,
+        "release_date": "2024-09-26",
+        "video": false,
+        "vote_average": 6.592,
+        "vote_count": 60
+      },
+      {
+        "backdrop_path": "/9s9o9RT9Yj6nDuRJjnJm78WFoFl.jpg",
+        "id": 1051896,
+        "title": "Arcadian",
+        "original_title": "Arcadian",
+        "overview": "Yakın bir gelecekte, Dünya'daki normal yaşam yok edilmiştir. Paul ve iki oğlu Thomas ve Joseph, gündüzleri sükûnet, geceleri azap içinde bir hayat yaşamaktadırlar. Her gece, güneş battıktan sonra, gizemli ve şiddetli bir kötülüğün amansız saldırılarıyla karşı karşıya kalırlar. Thomas'ın gün batımından önce eve dönmediği bir günde, Paul onu bulmak için güvenli çiftliklerini terk etmek zorunda kalır. Aileyi, hayatta kalmak için umutsuz bir plan yapmaya zorlayan kabus gibi bir savaş başlar.",
+        "poster_path": "/h4T8Xeydkw53h9uIbulYsss25UF.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          27,
+          53,
+          878
+        ],
+        "popularity": 122.348,
+        "release_date": "2024-04-12",
+        "video": false,
+        "vote_average": 6.121,
+        "vote_count": 615
+      },
+      {
+        "backdrop_path": "/jsp420JTZ7EK5LhpwzunE1Pu43d.jpg",
+        "id": 1072876,
+        "title": "Self Reliance",
+        "original_title": "Self Reliance",
+        "overview": "Yaşadığı sıkıcı hayattan bunalan Tommy, kendisini öldürmeye çalışan avcıları zekasıyla alt etmesi gereken bir oyun oynayarak 1 milyon dolar kazanması için bir davet alır. Tehlikeli ve kesinlikle ölümcül bir kumar gibi görünse de Tommy, oyunda bir boşluk olduğunun farkına varır; avcılar ona sadece yalnızken saldırabilirler. Bu durum onu hayatta kalmasına yardımcı olacak beklenmedik bir ekip kurmaya yöneltir.",
+        "poster_path": "/hlSWmmuuLeV1p3YcIkU59khEHLY.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          53
+        ],
+        "popularity": 11.391,
+        "release_date": "2024-01-03",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 219
+      },
+      {
+        "backdrop_path": "/uL2J46FQMT895t4jMYJT1Pft7nj.jpg",
+        "id": 1313738,
+        "title": "Old Man Junior",
+        "original_title": "Old Man Junior",
+        "overview": "Morbius Jr, now an OId Man, is nearing the end of life, when he finds the last hope for all Morbkind. However, as he fights to protect the future of Morbheads, he finds himself facing off against an unlikely of enemy... HIMSELF.",
+        "poster_path": "/hZKm5M7J1JUE2dpHeLgf736rzDT.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [],
+        "popularity": 4.27,
+        "release_date": "2024-07-06",
+        "video": true,
+        "vote_average": 6.9,
+        "vote_count": 63
+      },
+      {
+        "backdrop_path": "/58D6ZAvOKxlHjyX9S8qNKSBE9Y.jpg",
+        "id": 718821,
+        "title": "Kasırgalar",
+        "original_title": "Twisters",
+        "overview": "Fırtına mevsimi yoğunlaştıkça, daha önce hiç görülmemiş korkunç olaylar ortaya çıkar ve Kate, Tyler ve rakip ekipleri, hayatlarının mücadelesini verirken kendilerini Oklahoma'nın merkezinde birleşen çok sayıda fırtınanın tam ortasında bulurlar.",
+        "poster_path": "/hvcTRPDns2VLk12MwKUa1IuCVCe.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          53
+        ],
+        "popularity": 69.25,
+        "release_date": "2024-07-10",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 2262
+      },
+      {
+        "backdrop_path": "/jMH6VkqkUdBPPIiTmOv2VpmrH2L.jpg",
+        "id": 1159799,
+        "title": "Penguen Arkadaşım",
+        "original_title": "My Penguin Friend",
+        "overview": "Mütevazı balıkçı João (Jean Reno)yaşadığı trajedinin ardından dünyadan elini eteğini çekmiştir fakat petrol sızıntısından sırılsıklam olmuş, okyanusta bir başına sürüklenen bir penguen bulduğunda ilk iç güdüsü ona yardım etmek olur. Karısının (Adriana Barraza)dehşete düşmesine rağmen bu deniz canlısını yalnızca kurtarmakla kalmaz, uçamayan bu kuşu kanatları altına alır. Penguene DinDim adını veren João, aralarında ne kadar kopmaz bir bağ geliştiğinin farkında olmasa da yıllardır ilk kez neşe duymaya başlar. DinDim aniden okyanusun uçsuz bucaksız vahşi sularında kaybolunca João arkadaşını bir daha görmenin imkânsız olduğunu düşünür. Ama binlerce kilometre ötede DinDim talihsizliklere yakalanmıştır ve GPS benzeri eşsiz güçlerini kullanarak artık evi olarak gördüğü yere giden yolu bulmakta kararlıdır",
+        "poster_path": "/uR13PQs18drDT0vOrMepgces1BL.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          12,
+          18
+        ],
+        "popularity": 18.364,
+        "release_date": "2024-08-07",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 88
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

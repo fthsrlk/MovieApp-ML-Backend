@@ -1,0 +1,1258 @@
+{
+  "adult": false,
+  "backdrop_path": "/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+  "created_by": [
+    {
+      "id": 9813,
+      "credit_id": "5256c8c219c2956ff604858a",
+      "name": "David Benioff",
+      "original_name": "David Benioff",
+      "gender": 2,
+      "profile_path": "/bOlW8pymCeQLfwPIvc2D1MRcUoF.jpg"
+    },
+    {
+      "id": 228068,
+      "credit_id": "552e611e9251413fea000901",
+      "name": "D. B. Weiss",
+      "original_name": "D. B. Weiss",
+      "gender": 2,
+      "profile_path": "/2RMejaT793U9KRk2IEbFfteQntE.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2011-04-17",
+  "genres": [
+    {
+      "id": 10765,
+      "name": "Bilim Kurgu & Fantazi"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 10759,
+      "name": "Aksiyon & Macera"
+    }
+  ],
+  "homepage": "https://www.hbo.com/game-of-thrones",
+  "id": 1399,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2019-05-19",
+  "last_episode_to_air": {
+    "id": 1551830,
+    "name": "Demir Taht",
+    "overview": "(DİZİ FİNALİ) Daenerys, harabeye dönmüş King's Landing'de zaferini ilan eder. Yedi krallığın kaderi belli olur...",
+    "vote_average": 4.6,
+    "vote_count": 346,
+    "air_date": "2019-05-19",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "806",
+    "runtime": 80,
+    "season_number": 8,
+    "show_id": 1399,
+    "still_path": "/zBi2O5EJfgTS6Ae0HdAYLm9o2nf.jpg"
+  },
+  "name": "Game of Thrones",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 49,
+      "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+      "name": "HBO",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 73,
+  "number_of_seasons": 8,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Game of Thrones",
+  "overview": "Krallık dediğin savaşsız olur mu? En güçlü krallığı kurup huzuru sağlamış olsanız bile bu gücü elinizde nasıl tutardınız? Burada yanlış yapana yer yok, affetmek yok. Hanedan entrikaları, kapılı kapılar ardında dönen oyunlar, birilerinin kuyusunu kazmak için düşmanın koynuna girmekten çekinmeyen kadınlar, kardeşler arası çekişmeler, dışlanmalar. Hepsi tek bir amaç için: taht kavgası.",
+  "popularity": 202.8327,
+  "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+  "production_companies": [
+    {
+      "id": 76043,
+      "logo_path": "/9RO2vbQ67otPrBLXCaC8UMp3Qat.png",
+      "name": "Revolution Sun Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 12525,
+      "logo_path": null,
+      "name": "Television 360",
+      "origin_country": ""
+    },
+    {
+      "id": 5820,
+      "logo_path": null,
+      "name": "Generator Entertainment",
+      "origin_country": "GB"
+    },
+    {
+      "id": 12526,
+      "logo_path": null,
+      "name": "Bighead Littlehead",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2010-12-05",
+      "episode_count": 283,
+      "id": 3627,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/aos6lC1JGYt6ZRL85lgstNsfSeY.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-04-17",
+      "episode_count": 10,
+      "id": 3624,
+      "name": "1. sezon",
+      "overview": "Kral Robert Baratheon, Lord Eddard Stark'tan başdanışmanı olmasını ister. Sürgündeki Viserys Targaryen ise tahtı Robert'tan geri almanın yollarını aramaktadır.",
+      "poster_path": "/wgfKiqzuMrFIkU1M68DDDY8kGC1.jpg",
+      "season_number": 1,
+      "vote_average": 8.4
+    },
+    {
+      "air_date": "2012-04-01",
+      "episode_count": 10,
+      "id": 3625,
+      "name": "2. sezon",
+      "overview": "Stannis Baratheon,tahtın gerçek varisi olduğunu iddia etmektedir.Ve Sur'a giden Jon Snow'un yolu,çok geçmeden Yabanıllar ile kesişecektir.",
+      "poster_path": "/9xfNkPwDOqyeUvfNhs1XlWA0esP.jpg",
+      "season_number": 2,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2013-03-31",
+      "episode_count": 10,
+      "id": 3626,
+      "name": "3. sezon",
+      "overview": "Bu sırada Sur'un ötesindeki Ak Gezenler hareketlenirken; Doğu kıtasındaki Daenerys Targaryen'ın ejderhaları da,kendi şanı gibi büyümektedir.",
+      "poster_path": "/5MkZjRnCKiIGn3bkXrXfndEzqOU.jpg",
+      "season_number": 3,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2014-04-06",
+      "episode_count": 10,
+      "id": 3628,
+      "name": "4. sezon",
+      "overview": "Kralın Toprakları'nda düğün hazırlıkları başlamıştır. Daenerys Targaryen ise doğu kıtasında güçlenmeye devam etmektedir.",
+      "poster_path": "/jXIMScXE4J4EVHUba1JgxZnWbo4.jpg",
+      "season_number": 4,
+      "vote_average": 8.5
+    },
+    {
+      "air_date": "2015-04-12",
+      "episode_count": 10,
+      "id": 62090,
+      "name": "5. sezon",
+      "overview": "Meereen'de hüküm süren Daenerys Targaryen,ejderhalarını kontrol etmekte zorlanmaya başlamıştır.Ramsay Bolton'un Kışyarı'ndaki zalim hakimiyeti devam etmektedir...",
+      "poster_path": "/7Q1Hy1AHxAzA2lsmzEMBvuWTX0x.jpg",
+      "season_number": 5,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2016-04-24",
+      "episode_count": 10,
+      "id": 71881,
+      "name": "6. sezon",
+      "overview": "Ejderhası tarafından Dothraki topraklarının güney sınırına terk edilen Daenerys,Meereen'e dönmenin yollarını aramaktadır...",
+      "poster_path": "/p1udLh0gfqyZFmXBGa393gk8go5.jpg",
+      "season_number": 6,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2017-07-16",
+      "episode_count": 7,
+      "id": 81266,
+      "name": "7.Sezon",
+      "overview": "Demir taht üstüne kurulan oyunlar tüm hızıyla devam ederken Westeros ve Essos halklarını bekleyen çok daha ölümcül bir tehlike artık kapıdadır...",
+      "poster_path": "/oX51n32QyHeFP5kErksemJsJljL.jpg",
+      "season_number": 7,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2019-04-13",
+      "episode_count": 6,
+      "id": 107971,
+      "name": "8.Sezon",
+      "overview": "Büyük Savaş geldi, Duvar yıkıldı ve Ölülerin Gece Kralı ordusu Westeros'a yürüdü. Sonu burada, ama Demir Taht'ı kim alacak?",
+      "poster_path": "/259Q5FuaD3TNB7DGauTaJVRC8XV.jpg",
+      "season_number": 8,
+      "vote_average": 6.3
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.457,
+  "vote_count": 24960,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22970,
+        "known_for_department": "Acting",
+        "name": "Peter Dinklage",
+        "original_name": "Peter Dinklage",
+        "popularity": 4.8276,
+        "profile_path": "/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg",
+        "character": "Tyrion 'The Halfman' Lannister",
+        "credit_id": "5256c8b219c2956ff6047cd8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239019,
+        "known_for_department": "Acting",
+        "name": "Kit Harington",
+        "original_name": "Kit Harington",
+        "popularity": 3.5614,
+        "profile_path": "/iCFQAQqb0SgvxEdVYhJtZLhM9kp.jpg",
+        "character": "Jon Snow",
+        "credit_id": "5256c8af19c2956ff6047af6",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12795,
+        "known_for_department": "Acting",
+        "name": "Nikolaj Coster-Waldau",
+        "original_name": "Nikolaj Coster-Waldau",
+        "popularity": 4.1864,
+        "profile_path": "/6w2SgB20qzs2R5MQIAckINLhfoP.jpg",
+        "character": "Sir Jaime 'Kingslayer' Lannister",
+        "credit_id": "5256c8ad19c2956ff604793e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17286,
+        "known_for_department": "Acting",
+        "name": "Lena Headey",
+        "original_name": "Lena Headey",
+        "popularity": 5.293,
+        "profile_path": "/5SL4Y4alOYF9EahObfsb6GaDHg4.jpg",
+        "character": "Cersei Lannister",
+        "credit_id": "5256c8ad19c2956ff60479ce",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1223786,
+        "known_for_department": "Acting",
+        "name": "Emilia Clarke",
+        "original_name": "Emilia Clarke",
+        "popularity": 8.8852,
+        "profile_path": "/wb8VfDPGpyqcFltnRcJR1Wj3h4Z.jpg",
+        "character": "Daenerys Targaryen",
+        "credit_id": "5256c8af19c2956ff60479f6",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15498,
+        "known_for_department": "Acting",
+        "name": "Liam Cunningham",
+        "original_name": "Liam Cunningham",
+        "popularity": 2.792,
+        "profile_path": "/ljmFT9zYqh4k2bmEcNU6rxoE7fW.jpg",
+        "character": "Davos Seaworth",
+        "credit_id": "5256c8b519c2956ff604803e",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1181313,
+        "known_for_department": "Acting",
+        "name": "Maisie Williams",
+        "original_name": "Maisie Williams",
+        "popularity": 5.2047,
+        "profile_path": "/5RjD4dDpRDAhalFtvcUj7zdLWYB.jpg",
+        "character": "Arya Stark",
+        "credit_id": "5256c8b419c2956ff6047f0c",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239020,
+        "known_for_department": "Acting",
+        "name": "Isaac Hempstead Wright",
+        "original_name": "Isaac Hempstead Wright",
+        "popularity": 1.763,
+        "profile_path": "/g6ZreLmGrrOzaUCGVFRNPAWfcso.jpg",
+        "character": "Brandon 'Bran' Stark",
+        "credit_id": "5256c8b119c2956ff6047c22",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1001657,
+        "known_for_department": "Acting",
+        "name": "Sophie Turner",
+        "original_name": "Sophie Turner",
+        "popularity": 5.4143,
+        "profile_path": "/8ur4aHFakVCinWk0cvrGO8qAUhv.jpg",
+        "character": "Sansa Stark",
+        "credit_id": "5256c8b419c2956ff6047f34",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1010135,
+        "known_for_department": "Acting",
+        "name": "John Bradley",
+        "original_name": "John Bradley",
+        "popularity": 2.2939,
+        "profile_path": "/eLcisM9qqCLWnf0iImHuSn08FOi.jpg",
+        "character": "Samwell 'Sam' Tarly",
+        "credit_id": "56009f37c3a36856180002b5",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3075,
+        "known_for_department": "Acting",
+        "name": "Rory McCann",
+        "original_name": "Rory McCann",
+        "popularity": 2.0577,
+        "profile_path": "/gGpgbNQVthuzXEZaGRGVqWhk2o5.jpg",
+        "character": "Sandor 'The Hound' Clegane",
+        "credit_id": "5256c8b119c2956ff6047c84",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 570296,
+        "known_for_department": "Acting",
+        "name": "Joe Dempsie",
+        "original_name": "Joe Dempsie",
+        "popularity": 1.6946,
+        "profile_path": "/lnR0AMIwxQR6zUCOhp99GnMaRet.jpg",
+        "character": "Gendry",
+        "credit_id": "5256c8b619c2956ff604829c",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1011904,
+        "known_for_department": "Acting",
+        "name": "Gwendoline Christie",
+        "original_name": "Gwendoline Christie",
+        "popularity": 2.6019,
+        "profile_path": "/kmlv5i02n3zKryBr2W3kSeWVKTD.jpg",
+        "character": "Brienne of Tarth",
+        "credit_id": "5256c8bd19c2956ff604841c",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 964792,
+        "known_for_department": "Acting",
+        "name": "Jacob Anderson",
+        "original_name": "Jacob Anderson",
+        "popularity": 2.3814,
+        "profile_path": "/cWO1DdhFXWs5r8baNOPaVaJ56x6.jpg",
+        "character": "Grey Worm",
+        "credit_id": "570161b39251416070000434",
+        "order": 26
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1390362,
+        "known_for_department": "Visual Effects",
+        "name": "Martin Hill",
+        "original_name": "Martin Hill",
+        "popularity": 0.6279,
+        "profile_path": "/ngqjwVqZDghcjjsqDE34a4ZGHNH.jpg",
+        "credit_id": "677c99ff817d356a1a724d81",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2423283,
+        "known_for_department": "Crew",
+        "name": "Yusuf Chaudhri",
+        "original_name": "Yusuf Chaudhri",
+        "popularity": 2.0157,
+        "profile_path": "/gND1CqtsigbvZTtxj1Y0gyiMrNx.jpg",
+        "credit_id": "677567695b8f422b6012c576",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1379051,
+        "known_for_department": "Visual Effects",
+        "name": "Ben Shepherd",
+        "original_name": "Ben Shepherd",
+        "popularity": 1.2613,
+        "profile_path": "/gxPt7fOkA6yrGXPgmXSfG1bO5iH.jpg",
+        "credit_id": "65b3df2bd236e60163c02fca",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1419605,
+        "known_for_department": "Visual Effects",
+        "name": "Brooke Lyndon-Stanford",
+        "original_name": "Brooke Lyndon-Stanford",
+        "popularity": 0.9874,
+        "profile_path": null,
+        "credit_id": "61f013a26d4c9700d5a4acd0",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2818817,
+        "known_for_department": "Visual Effects",
+        "name": "Paul Zeke",
+        "original_name": "Paul Zeke",
+        "popularity": 0.6236,
+        "profile_path": null,
+        "credit_id": "5f8b2abccf1afd0035db6d60",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2553002,
+        "known_for_department": "Visual Effects",
+        "name": "Ronan Binding",
+        "original_name": "Ronan Binding",
+        "popularity": 1.8398,
+        "profile_path": null,
+        "credit_id": "5e5a651d55c92600134ef139",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1406855,
+        "known_for_department": "Production",
+        "name": "Duncan Muggoch",
+        "original_name": "Duncan Muggoch",
+        "popularity": 0.33,
+        "profile_path": "/ukGjJ62Ejd4cFziald03G34Fsrp.jpg",
+        "credit_id": "5ceab029c3a3682e93217a85",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 114404,
+        "known_for_department": "Directing",
+        "name": "Miguel Sapochnik",
+        "original_name": "Miguel Sapochnik",
+        "popularity": 1.164,
+        "profile_path": "/jlZGTjiifvvFDoEtlwrKz7QxuJS.jpg",
+        "credit_id": "5ceab0820e0a261a50cb87a9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33316,
+        "known_for_department": "Directing",
+        "name": "David Nutter",
+        "original_name": "David Nutter",
+        "popularity": 1.4871,
+        "profile_path": "/obyikiv6rf8hgwUKJKRJdMT3YEK.jpg",
+        "credit_id": "5ceab0ab92514175e8bb5caf",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23457,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Barrie Gower",
+        "original_name": "Barrie Gower",
+        "popularity": 1.4907,
+        "profile_path": "/w4aurjKq2sIGPHZSpjLDp6BIHV2.jpg",
+        "credit_id": "6696bcac57abc0213ea80b57",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2818813,
+        "known_for_department": "Visual Effects",
+        "name": "Shaila Tobin",
+        "original_name": "Shaila Tobin",
+        "popularity": 0.5598,
+        "profile_path": null,
+        "credit_id": "5f8b27d8cdf2e60036afbc2a",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1460616,
+        "known_for_department": "Visual Effects",
+        "name": "Devin Stoutley",
+        "original_name": "Devin Stoutley",
+        "popularity": 0.3423,
+        "profile_path": null,
+        "credit_id": "5f8b2684cf1afd0036db6fbd",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1223784,
+        "known_for_department": "Writing",
+        "name": "Bryan Cogman",
+        "original_name": "Bryan Cogman",
+        "popularity": 0.4043,
+        "profile_path": "/qOEG9Fc3cxuubfrZm2e5kNwbKS2.jpg",
+        "credit_id": "5c8be4c29251410cf7c54b74",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1878409,
+        "known_for_department": "Production",
+        "name": "Lisa McAtackney",
+        "original_name": "Lisa McAtackney",
+        "popularity": 0.1791,
+        "profile_path": null,
+        "credit_id": "59a43a0a925141775b05ba2e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53758,
+        "known_for_department": "Production",
+        "name": "Guymon Casady",
+        "original_name": "Guymon Casady",
+        "popularity": 0.7964,
+        "profile_path": null,
+        "credit_id": "59a43870c3a36821f1017856",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1388878,
+        "known_for_department": "Crew",
+        "name": "Rowley Irlam",
+        "original_name": "Rowley Irlam",
+        "popularity": 2.1081,
+        "profile_path": "/Ai0TlD5HbmfFtSlcg38qOp25dJY.jpg",
+        "credit_id": "66f85581e7d24ebb2ba2276e",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6411,
+        "known_for_department": "Art",
+        "name": "Deborah Riley",
+        "original_name": "Deborah Riley",
+        "popularity": 0.6164,
+        "profile_path": "/cjhADpqdrnwB1PdDUKaBnWrIj2Q.jpg",
+        "credit_id": "54eee9e5c3a3686d5800584e",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56746,
+        "known_for_department": "Writing",
+        "name": "Greg Spence",
+        "original_name": "Greg Spence",
+        "popularity": 0.5243,
+        "profile_path": null,
+        "credit_id": "5256c8c819c2956ff6048836",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1223799,
+        "known_for_department": "Directing",
+        "name": "Christopher Newman",
+        "original_name": "Christopher Newman",
+        "popularity": 1.0785,
+        "profile_path": "/ih2QUcObX8Xaq9GailAUSf5B1hg.jpg",
+        "credit_id": "59a43acf925141775b05baa5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54268,
+        "known_for_department": "Production",
+        "name": "Vince Gerardis",
+        "original_name": "Vince Gerardis",
+        "popularity": 0.6565,
+        "profile_path": null,
+        "credit_id": "59a4396bc3a368478f059163",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1019426,
+        "known_for_department": "Production",
+        "name": "Robert Sterne",
+        "original_name": "Robert Sterne",
+        "popularity": 0.9379,
+        "profile_path": "/mV9p5hU0N2MlcuKWnsuXbnbITdv.jpg",
+        "credit_id": "54ef391cc3a3686b9a003bd0",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 16363,
+        "known_for_department": "Production",
+        "name": "Nina Gold",
+        "original_name": "Nina Gold",
+        "popularity": 1.9885,
+        "profile_path": "/emeKuabMDN3C8x8ibby7FNtjRgu.jpg",
+        "credit_id": "54ef3928925141796e00614d",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1223796,
+        "known_for_department": "Production",
+        "name": "Frank Doelger",
+        "original_name": "Frank Doelger",
+        "popularity": 0.6571,
+        "profile_path": null,
+        "credit_id": "5256c8c619c2956ff6048782",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237053,
+        "known_for_department": "Writing",
+        "name": "George R. R. Martin",
+        "original_name": "George R. R. Martin",
+        "popularity": 1.4939,
+        "profile_path": "/1A7W0L9dZz0rCN1oj6h8YUvusdN.jpg",
+        "credit_id": "54eef1fc925141796e005aee",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 50953,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Michele Clapton",
+        "original_name": "Michele Clapton",
+        "popularity": 0.839,
+        "profile_path": null,
+        "credit_id": "54eeec309251417968005b14",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10851,
+        "known_for_department": "Sound",
+        "name": "Ramin Djawadi",
+        "original_name": "Ramin Djawadi",
+        "popularity": 1.1066,
+        "profile_path": "/6O0Rew78fRUAa80KC2clejmJF26.jpg",
+        "credit_id": "54eeea3bc3a3680b80006048",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237053,
+        "known_for_department": "Writing",
+        "name": "George R. R. Martin",
+        "original_name": "George R. R. Martin",
+        "popularity": 1.4939,
+        "profile_path": "/1A7W0L9dZz0rCN1oj6h8YUvusdN.jpg",
+        "credit_id": "54eef3e19251417965005c64",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1223797,
+        "known_for_department": "Production",
+        "name": "Carolyn Strauss",
+        "original_name": "Carolyn Strauss",
+        "popularity": 0.4857,
+        "profile_path": "/o88ISZv7ILrPMHutX1XVr7trmkF.jpg",
+        "credit_id": "5256c8c619c2956ff6048758",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "based on novel or book",
+        "id": 818
+      },
+      {
+        "name": "kingdom",
+        "id": 4152
+      },
+      {
+        "name": "dragon",
+        "id": 12554
+      },
+      {
+        "name": "king",
+        "id": 13084
+      },
+      {
+        "name": "intrigue",
+        "id": 34038
+      },
+      {
+        "name": "fantasy world",
+        "id": 170362
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/9faGSFi5jam6pDWGNd0p8JcJgXQ.jpg",
+        "id": 1396,
+        "name": "Breaking Bad",
+        "original_name": "Breaking Bad",
+        "overview": "Kanserden öleceğini öğrenen bir kimya öğretmeni, ailesinin geleceğini garanti altına almak için metamfetamin üretip satmak üzere eski bir öğrencisiyle kafa kafaya verir.",
+        "poster_path": "/ineLOBPG8AZsluYwnkMpHRyu7L.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 116.064,
+        "first_air_date": "2008-01-20",
+        "vote_average": 8.925,
+        "vote_count": 15512,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lHe8iwM4Cdm6RSEiara4PN8ZcBd.jpg",
+        "id": 44217,
+        "name": "Vikingler",
+        "original_name": "Vikings",
+        "overview": "Viking kahramanı Ragnar Lothbrok’un, ileriyi göremeyen, yetersiz bir lidere meydan okuyarak Norse sınırlarını nasıl genişlettiğini seyrettiğimiz gerçekçi bir dram.",
+        "poster_path": "/qkCh6cFSHikSIFTWUQyJ2qJzqsy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10768
+        ],
+        "popularity": 93.0572,
+        "first_air_date": "2013-03-03",
+        "vote_average": 8.1,
+        "vote_count": 7160,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/nBrkOZyI75artyizuBFeya48KbO.jpg",
+        "id": 86831,
+        "name": "Love, Death & Robots",
+        "original_name": "Love, Death & Robots",
+        "overview": "Tim Miller ve David Fincher işbirliğinde hayata geçirilen; bilim kurgu, korku ve komedi gibi türleri bir araya getiren antoloji dizisi Love Death + Robots, birbirinden farklı kısa öykülerden oluşuyor; savaş, ırkçılık ve insan doğası gibi konulara eğiliyor. Hikayelerin her biri geleneksek 2D ya da photo-real 3D CGI gibi farklı animasyon türleriyle ekrana taşındı ve dünyanın farklı yerlerindeki ekipler tarafından hayata geçirildi.",
+        "poster_path": "/yukmN2nkaqUcZ5Un6aprkC9Vh7P.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10765
+        ],
+        "popularity": 36.6171,
+        "first_air_date": "2019-03-15",
+        "vote_average": 8.2,
+        "vote_count": 3486,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/rAOjnEFTuNysY7bot8zonhImGMh.jpg",
+        "id": 1402,
+        "name": "The Walking Dead",
+        "original_name": "The Walking Dead",
+        "overview": "Kasabanın polis şefi Rick Grimes bir gün vurularak hastaneye kaldırılır; fakat o komadayken geçen sürede bildiği yaşam altüst olmuştur. Artık dünya, insan etiyle beslenen zombilerin insafına kalacak. Tabii birazcık insani duyguları kaldıysa. Atlanta'da kaostan sonra sessizce hayatta kalmaya çalışan küçük bir grup insanınsa birbirlerinden başka tutunacak kimseleri yok.",
+        "poster_path": "/s3OIDrCErUjthsnPPreY7XktQXB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10765
+        ],
+        "popularity": 109.4463,
+        "first_air_date": "2010-10-31",
+        "vote_average": 8.097,
+        "vote_count": 16946,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
+        "id": 94997,
+        "name": "House of the Dragon",
+        "original_name": "House of the Dragon",
+        "overview": "George R.R. Martin'in \"Fire & Blood\" adlı eserinden uyarlanan ve Game of Thrones'taki olaylardan 200 yıl öncesini konu alan dizi, Targaryen Hanesi'nin gücünün zirvesinde olduğu dönemde bir iç veraset savaşını anlatıyor.",
+        "poster_path": "/oxmdHR5Ka28HAJuMmS2hk5K6QQY.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 65.2673,
+        "first_air_date": "2022-08-21",
+        "vote_average": 8.342,
+        "vote_count": 5299,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sccDflItNho4OiHkzpiDxB2fUFw.jpg",
+        "id": 1418,
+        "name": "The Big Bang Theory",
+        "original_name": "The Big Bang Theory",
+        "overview": "En büyük zevkleri kuantum fiziğine kafa yormak olan üstün zekalı iki arkadaş, güzel bir kızla karşılaşınca ne yaparlar? The Big Bang Theory, işte o karşılaşma anında gerçekleşen büyük patlama ve sonrasını anlatan bir komedi dizisi. Leonard ve Sheldon adlarındaki iki arkadaşın oturdukları apartmanda yan dairelerine yeni bir komşu taşınır. Adı Penny olan bu komşu güzeller güzeli bir sarışındır. Üstelik maceralı bir ilişkiden daha yeni sapasağlam ayakta çıkmıştır. Penny, zekaları gereğinden fazla ilerlemiş, ancak kızlar konusunda oldukça geri kalmış bu yeni iki komşusuna hayat hakkında öğretebileceği bir şeyleri olduğunu düşünmektedir. Yaşanacak olanlar da zaman içinde onun ne kadar haklı olduğunu gösterecektir. ",
+        "poster_path": "/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 84.6161,
+        "first_air_date": "2007-09-24",
+        "vote_average": 7.909,
+        "vote_count": 11703,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/hmLTIRtVyTHShJl2Wb8LHmvUgJm.jpg",
+        "id": 19885,
+        "name": "Sherlock",
+        "original_name": "Sherlock",
+        "overview": "Arthur Conan Doyle'un ünlü eserinden uyarlanan yapımda, kahramanlarımız Sherlock Holmes ve Dr. John Watson günümüz Londra'sında sıradışı cinayetleri çözmeye çalışıyorlar. Huysuz Sherlock ile insancıl John, maceradan maceraya atılırken, izleyici kendisini aksiyondan komediye uzanan bir koşuşturmacanın içinde buluyor. ",
+        "poster_path": "/cIfGAkpvWD2zxHrXzhv3uptYbyV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 30.9861,
+        "first_air_date": "2010-07-25",
+        "vote_average": 8.5,
+        "vote_count": 5739,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/yGNnjoIGOdQy3douq60tULY8teK.jpg",
+        "id": 63247,
+        "name": "Westworld",
+        "original_name": "Westworld",
+        "overview": "İki konuk ileri teknolojinin kullanıldığı bir eğlence parkında Vahşi Batı macerasına çıkar. Parktaki insanlar robottur ve park Roma, Vahşi Batı ve Ortaçağ dönemlerine benzetilerek sahici bir hayat yaratmak amacıyla tasarlanmıştır. Merkezi bilgisayar sistemi bozulunca robotlar zincirlerini koparır ve parkın iki konuğu robot bir silahşör tarafından takip edildiklerini fark eder.West World ya da Batı Dünyası, yapay bilincin ortaya çıkması ve suçun geleceğiyle ilgili karanlık bir yolculuğu anlatmaktadır.",
+        "poster_path": "/8MfgyFHf7XEboZJPZXCIDqqiz6e.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          37
+        ],
+        "popularity": 51.6489,
+        "first_air_date": "2016-10-02",
+        "vote_average": 8.0,
+        "vote_count": 5699,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
+        "id": 1668,
+        "name": "Friends",
+        "original_name": "Friends",
+        "overview": "1990'ların Manhattan'ında iş hayatının, aşkın ve gündelik yaşamın zorluklarıyla uğraşan 20'li yaşlarda üçü kadın, üçü erkek altı kişilik yakın arkadaş gurubunun komik maceraları.",
+        "poster_path": "/yAVOqZVmYXUqrLg4EiUU88HltYH.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 111.8047,
+        "first_air_date": "1994-09-22",
+        "vote_average": 8.4,
+        "vote_count": 8362,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/20eIP9o5ebArmu2HxJutaBjhLf4.jpg",
+        "id": 87108,
+        "name": "Chernobyl",
+        "original_name": "Chernobyl",
+        "overview": "1986 senesinde Sovyet nükleer santralinde meydana gelen patlama sonrası santral işçileri ve itfaiyeciler faciayı kontrol altına almaya çalışır.",
+        "poster_path": "/vDwYRtmfBgM9zq4o0xbeUuVo3DL.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 23.4571,
+        "first_air_date": "2019-05-06",
+        "vote_average": 8.683,
+        "vote_count": 6809,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dQOphbONxlpPsKo30araFr0CYMO.jpg",
+        "id": 71912,
+        "name": "The Witcher",
+        "original_name": "The Witcher",
+        "overview": "Yalnız bir canavar avcısı olan Rivialı Geralt, insanların yaratıklardan bile daha kötü olabildiği bir dünyada kendine yer edinmeye çalışmaktadır. Ancak kader onu güçlü bir büyücü ve tehlikeli bir sırra sahip genç bir prensesle karşılaştırır. Üçlü, artık her geçen gün daha da vahşi hale gelen bu kıtada birlikte yürümeyi öğrenmelidir.",
+        "poster_path": "/cZ0d3rtvXPVvuiX22sP79K3Hmjz.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 32.6648,
+        "first_air_date": "2019-12-20",
+        "vote_average": 8.0,
+        "vote_count": 6114,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg",
+        "id": 48866,
+        "name": "The 100",
+        "original_name": "The 100",
+        "overview": "Nükleer bir kıyametin Dünya'yı yok edişinden bir asır sonra uzay istasyonundan 100 genç, gezegende yaşanıp yaşanamayacağını öğrenmek için dünyaya gönderilir.",
+        "poster_path": "/wcaDIAG1QdXQLRaj4vC1EFdBT2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 66.2463,
+        "first_air_date": "2014-03-19",
+        "vote_average": 7.894,
+        "vote_count": 8256,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9zcbqSxdsRMZWHYtyCd1nXPr2xq.jpg",
+        "id": 82856,
+        "name": "The Mandalorian",
+        "original_name": "The Mandalorian",
+        "overview": "İmparatorluk'un çöküşünden sonra yalnız bir Mandalorian, öksüzü Grogu'yla beraber kanunsuz galakside dikkatle yol alır.",
+        "poster_path": "/eU1i6eHXlzMOlEq0ku1Rzq7Y4wA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 36.2649,
+        "first_air_date": "2019-11-12",
+        "vote_average": 8.425,
+        "vote_count": 10330,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/yUOFocKDW7MCC5isx4FK8A68QFp.jpg",
+        "id": 4607,
+        "name": "Lost",
+        "original_name": "Lost",
+        "overview": "Oceanic Havayolları’nın Sidney-Los Angeles seferini yapan 815 sefer sayılı uçağı, okyanus üzerinden geçerken, manyetik bir alana kapılarak büyük bir adaya düşer. Fakat önceleri sıradan, tropik bir ada gibi görünen bu kara parçasının, kazazedelerin her birinin hayatını farklı biçimde değiştireceğinden habersizdirler. \n\nAdada sandıklarından daha fazla zaman mahsur kalan Oceanic Havayolları yolcuları her gün yeni bir sürprizle karşılaştıkları bu gizemli adada hayatta kalabilmek ve ne olursa olsun bir yolunu bulup adadan kurtulmak ya da anakaraya haber ulaştırmak için mücadeleye girerler. Öte yandan hem ormanın derinliklerinden gelen 'Diğer ada sakinleri', kara bir duman, silahlı bir Fransız kadın, üniformalı iskeletler, terkedilmiş ambarlar adadan kurtulmak isteyenleri bekleyen cevaplanmamış sorular... \n\nEn İyi Televizyon Dizisi dalında Altın Küre ve Emmy Ödüllü Lost, 6 sezon boyunca televizyon seyircisini ekran başına kitlemeyi başaran, 2000'li yılların kendi fenomenini yaratamış, en çok izlenen dizilerinden biri. Ayrıca oyuncu kadrosuna da kazandırdığı ödüller ve adaylıklarla da televizyon ve sinema dünyasında yeni yıldızlar yaratan LOST fenomeni, hem teknik ekibi, hem yazar ve yapımcı kadrosuyla en çok konuşulan, üzerine en çok komplo teorisi ve senaryo üretilen televizyon yapımı olma özelliğini koruyor...",
+        "poster_path": "/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          10759,
+          18
+        ],
+        "popularity": 94.2348,
+        "first_air_date": "2004-09-22",
+        "vote_average": 7.945,
+        "vote_count": 4526,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
+        "id": 60735,
+        "name": "The Flash",
+        "original_name": "The Flash",
+        "overview": "Geçmişinde büyük bir trajedi yaşamış Barry Allen, Central City Polis Birimi’nde çalışan ve suçluların arkalarında bıraktıkları ipuçlarını toplayan bir adli laboratuvar asistanıdır. Talihsiz bir yıldırım kazası yaşamasının ardından süper hız gücüne sahip olan Barry, Flash kimliğine bürünür ve kötü adamları adalete teslim etmeyi kendine görev edinir!",
+        "poster_path": "/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 254.3106,
+        "first_air_date": "2014-10-07",
+        "vote_average": 7.773,
+        "vote_count": 11281,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lirPqYLTtd6XZqGn4cS1wiesTq0.jpg",
+        "id": 1622,
+        "name": "Supernatural",
+        "original_name": "Supernatural",
+        "overview": "Evlerinin yandığı şüpheli bir yangında, annelerinin ölümünden sonra, Sam ve Dean Winchester yaşları büyüdükçe babaları ile yollarda bir hayat yaşamaya başlarlar. Yıllar geçer ve bir av sırasında kaybolan babalarını bulmak için kardeşler bir araya gelirler.\n\nAncak, babaları normal bir avcı değildir: o hayaletler, vampirler, ve ruhlar gibi doğaüstü yaratıkları avlar ve aynı şeyi oğullarına da çok küçük yaşlardan itibaren öğretmiştir. Yol boyunca, Sam ve Dean, masum insanları yaratıklar ve hayaletlerden kurtarmak için büyük bir mücadeleye girerler ve babalarının nerede olduğuna dair ipuçlarını toplarlar.",
+        "poster_path": "/KoYWXbnYuS3b0GyQPkbuexlVK9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          10765
+        ],
+        "popularity": 171.0522,
+        "first_air_date": "2005-09-13",
+        "vote_average": 8.3,
+        "vote_count": 7800,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2MaumbgBlW1NoPo3ZJO38A6v7OS.jpg",
+        "id": 66732,
+        "name": "Stranger Things",
+        "original_name": "Stranger Things",
+        "overview": "Ufak bir kasabada küçük bir çocuk kaybolunca, gizli deneyler, korkutucu doğaüstü güçler ve tuhaf bir küçük kızın da parçası olduğu bir gizem ortaya çıkar.",
+        "poster_path": "/hjVNQA2a12OxkpDEOQTBMbKVZ1K.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765,
+          9648
+        ],
+        "popularity": 62.6575,
+        "first_air_date": "2016-07-15",
+        "vote_average": 8.596,
+        "vote_count": 18275,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/siA2d4PNn4JVFZAwfIYx4pnKCaK.jpg",
+        "id": 46648,
+        "name": "True Detective",
+        "original_name": "True Detective",
+        "overview": "Louisiana Cinayet Masası'nda görev yapan dedektif Rust Cohle ve Martin Hart bir seri katilin peşine düşerler. Beraber çalışan ikilinin, takip derinleştikçe kendi hayatlarının da içinden çıkılmaz bir duruma gelmesi kaçınılmaz olacaktır. 17 yıl boyunca bir seri katili yakalamak için iz süren dedektifler, yıllar sonra davanın tekrar ele alınması ile beraber kendilerini sorgu masasında bulurlar.",
+        "poster_path": "/cuV2O5ZyDLHSOWzg3nLVljp1ubw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 43.1416,
+        "first_air_date": "2014-01-12",
+        "vote_average": 8.286,
+        "vote_count": 3637,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
+        "id": 42009,
+        "name": "Black Mirror",
+        "original_name": "Black Mirror",
+        "overview": "İnsanlığın en kötü özelliklerini, en büyük buluşlarını ve çok daha fazlasını gözler önüne seren bu akılalmaz antoloji dizisinde çarpık öykülerin ardı arkası kesilmiyor.",
+        "poster_path": "/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          9648
+        ],
+        "popularity": 96.581,
+        "first_air_date": "2011-12-04",
+        "vote_average": 8.29,
+        "vote_count": 5471,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/or7wKwv1IT6LEOktt395O5qi7e.jpg",
+        "id": 60574,
+        "name": "Peaky Blinders",
+        "original_name": "Peaky Blinders",
+        "overview": "Birinci Dünya Savaşı’ndan yeni çıkmış İngiltere’yi, yasadışı faaliyet gösteren çeşitli çeteler sarmıştır. Bunlardan biri de soygunculuk ve at yarışıyla para kazanan Peaky Blinders’dır. Polislere rüşvet yedirerek paçayı kurtaran çete, bir soygunda yanlışlık yapınca başlarına bela olacak yeni bir müfettişin şehre gelmesine vesile olurlar.",
+        "poster_path": "/5aHpODCpUa0kGTPXtiYC0moIPhT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 78.428,
+        "first_air_date": "2013-09-12",
+        "vote_average": 8.532,
+        "vote_count": 10339,
+        "origin_country": [
+          "GB"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

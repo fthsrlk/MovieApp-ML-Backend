@@ -1,0 +1,845 @@
+{
+  "adult": false,
+  "backdrop_path": "/u98PeujOJCXCowph9mxRzo9Nw1s.jpg",
+  "created_by": [
+    {
+      "id": 16376,
+      "credit_id": "52576f19760ee36aaa452ef8",
+      "name": "Larry David",
+      "original_name": "Larry David",
+      "gender": 2,
+      "profile_path": "/iuqDxOO6DBGFJAmqCAITmYbGuEt.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2000-10-15",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Komedi"
+    }
+  ],
+  "homepage": "http://www.hbo.com/curb-your-enthusiasm/",
+  "id": 4546,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2024-04-07",
+  "last_episode_to_air": {
+    "id": 4998036,
+    "name": "10. Bölüm",
+    "overview": "",
+    "vote_average": 8.7,
+    "vote_count": 7,
+    "air_date": "2024-04-07",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 53,
+    "season_number": 12,
+    "show_id": 4546,
+    "still_path": "/bsckMmhv2YFDXRgNSIfYepp4uC.jpg"
+  },
+  "name": "Curb Your Enthusiasm",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 49,
+      "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+      "name": "HBO",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 120,
+  "number_of_seasons": 12,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Curb Your Enthusiasm",
+  "overview": "Curb Your Enthusiasm, her şeye sahip olan bir adamın başına gelen olayları konu ediyor. Larry David, bir insanın mutlu olabileceği her şeye sahip. Sevgi dolu bir eş, iyi arkadaşlar, başarılı bir kariyer ve harika bir ev. Peki onun hayatında yanlış giden ne olabilir ki?",
+  "popularity": 103.7923,
+  "poster_path": "/mZqWmSq1M61Jlre3furVDSXvdrN.jpg",
+  "production_companies": [
+    {
+      "id": 3268,
+      "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+      "name": "HBO",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1999-12-01",
+      "episode_count": 41,
+      "id": 13721,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/mu2tj7IbHMjF79tXWMAbv7CSlVN.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2000-10-15",
+      "episode_count": 10,
+      "id": 13716,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/an2PP01XrCAzSXB8aQaUlUiC69h.jpg",
+      "season_number": 1,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2001-09-23",
+      "episode_count": 10,
+      "id": 13715,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/w5QYqd6ucj22yolBUdrhV45NCnn.jpg",
+      "season_number": 2,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2002-09-15",
+      "episode_count": 10,
+      "id": 13719,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/bLBDcwar0FB940gzNU5XhiEc2zr.jpg",
+      "season_number": 3,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2004-01-04",
+      "episode_count": 10,
+      "id": 13717,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/phSfnHPqve22EYCKCVcCEO5NdAW.jpg",
+      "season_number": 4,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2005-09-25",
+      "episode_count": 10,
+      "id": 13714,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/rVrZ2pad3U0sEFTAnZqjzup9R5G.jpg",
+      "season_number": 5,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2007-09-09",
+      "episode_count": 10,
+      "id": 13718,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/mKcg3P2bLnxE2suusIbMVa4V2DM.jpg",
+      "season_number": 6,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2009-09-20",
+      "episode_count": 10,
+      "id": 13720,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/wNH2skHzKwt6PQRF2YBAOiQBiwV.jpg",
+      "season_number": 7,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2011-07-10",
+      "episode_count": 10,
+      "id": 13722,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/lY8OrMJH5W9OVN4o61UAm2SpLXO.jpg",
+      "season_number": 8,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2017-10-01",
+      "episode_count": 10,
+      "id": 90336,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/6Q9LWDFanSxtrr8uBh1aX660Jhf.jpg",
+      "season_number": 9,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2020-01-19",
+      "episode_count": 10,
+      "id": 137894,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/zvR2DpElEbBp05y8O3J0XtLd4X5.jpg",
+      "season_number": 10,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2021-10-24",
+      "episode_count": 10,
+      "id": 213521,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/9qJ44sZsdgPXhg4T1y07bsnOgOm.jpg",
+      "season_number": 11,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2024-02-04",
+      "episode_count": 10,
+      "id": 369008,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/woJHGcDNh1AG66cVBMz5EJSMvNY.jpg",
+      "season_number": 12,
+      "vote_average": 7.6
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.016,
+  "vote_count": 805,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16376,
+        "known_for_department": "Writing",
+        "name": "Larry David",
+        "original_name": "Larry David",
+        "popularity": 2.3803,
+        "profile_path": "/iuqDxOO6DBGFJAmqCAITmYbGuEt.jpg",
+        "character": "Larry David",
+        "credit_id": "52576f19760ee36aaa452d96",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60074,
+        "known_for_department": "Acting",
+        "name": "Jeff Garlin",
+        "original_name": "Jeff Garlin",
+        "popularity": 2.7252,
+        "profile_path": "/8shJOwynglerVVxhOKbvDYTThBd.jpg",
+        "character": "Jeff Greene",
+        "credit_id": "52576f19760ee36aaa452dd4",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 56910,
+        "known_for_department": "Acting",
+        "name": "Susie Essman",
+        "original_name": "Susie Essman",
+        "popularity": 1.8047,
+        "profile_path": "/xeVB4LdahB3dvia0WqThHKoqwtH.jpg",
+        "character": "Susie Greene",
+        "credit_id": "52576f19760ee36aaa452e12",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 57854,
+        "known_for_department": "Acting",
+        "name": "Cheryl Hines",
+        "original_name": "Cheryl Hines",
+        "popularity": 3.3579,
+        "profile_path": "/jUW4xdla64Vtq1o2Ob8Oc7MjT9C.jpg",
+        "character": "Cheryl David",
+        "credit_id": "52576f19760ee36aaa452e9a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65920,
+        "known_for_department": "Acting",
+        "name": "JB Smoove",
+        "original_name": "JB Smoove",
+        "popularity": 2.4748,
+        "profile_path": "/691r7OL0R9TaR7SaqR6AnKVLUUu.jpg",
+        "character": "Leon",
+        "credit_id": "5e7a74b2b0cd200013b1db2d",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35974,
+        "known_for_department": "Production",
+        "name": "Gavin Polone",
+        "original_name": "Gavin Polone",
+        "popularity": 0.8907,
+        "profile_path": "/eNxVSUj9ZNCLjHpxb4GIPTFz1zk.jpg",
+        "credit_id": "65b165fcbb26020193d21ae7",
+        "department": "Production",
+        "job": "Production Executive"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16376,
+        "known_for_department": "Writing",
+        "name": "Larry David",
+        "original_name": "Larry David",
+        "popularity": 2.3803,
+        "profile_path": "/iuqDxOO6DBGFJAmqCAITmYbGuEt.jpg",
+        "credit_id": "65b165a7dd926a01944d5ef5",
+        "department": "Crew",
+        "job": "Creator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16376,
+        "known_for_department": "Writing",
+        "name": "Larry David",
+        "original_name": "Larry David",
+        "popularity": 2.3803,
+        "profile_path": "/iuqDxOO6DBGFJAmqCAITmYbGuEt.jpg",
+        "credit_id": "65b165ce3c43440193664f20",
+        "department": "Production",
+        "job": "Production Executive"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60074,
+        "known_for_department": "Acting",
+        "name": "Jeff Garlin",
+        "original_name": "Jeff Garlin",
+        "popularity": 2.7252,
+        "profile_path": "/8shJOwynglerVVxhOKbvDYTThBd.jpg",
+        "credit_id": "65b165e6b76cbb01522b8608",
+        "department": "Production",
+        "job": "Production Executive"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "writing",
+        "id": 1731
+      },
+      {
+        "name": "observational comedy",
+        "id": 9841
+      },
+      {
+        "name": "los angeles, california",
+        "id": 12670
+      },
+      {
+        "name": "writer",
+        "id": 13028
+      },
+      {
+        "name": "improvisation",
+        "id": 14529
+      },
+      {
+        "name": "eccentric man",
+        "id": 226028
+      },
+      {
+        "name": "antisocial behavior",
+        "id": 227240
+      },
+      {
+        "name": "social norms",
+        "id": 234187
+      },
+      {
+        "name": "arguing couple",
+        "id": 270086
+      },
+      {
+        "name": "witty",
+        "id": 319397
+      },
+      {
+        "name": "amused",
+        "id": 325765
+      },
+      {
+        "name": "melodramatic",
+        "id": 325835
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/m8ksGiX010NWJt79iTPEuAzvHbt.jpg",
+        "id": 5195,
+        "name": "DumbLand",
+        "original_name": "DumbLand",
+        "overview": "David Lynch’in bizzat kendi imza attığı The Angriest Dog in the World başlıklı karikatürden uyarladığı beşer dakikalık animasyonlardan oluşan bu dizi, minimalist bir olay örgüsüyle, kızgın bir Neandertal ile ailesini ve komşularını anlatıyor.",
+        "poster_path": "/4Ue7tiq1DxOiO2fMhhYBVEYFxzH.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 2.2124,
+        "first_air_date": "2001-12-21",
+        "vote_average": 6.297,
+        "vote_count": 64,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/adRpPvoZwWXazuBx6hx5U1V6JNi.jpg",
+        "id": 1915,
+        "name": "The Larry Sanders Show",
+        "original_name": "The Larry Sanders Show",
+        "overview": "Comic Garry Shandling draws upon his own talk show experiences to create the character of Larry Sanders, a paranoid, insecure host of a late night talk show. Larry, along with his obsequious TV sidekick Hank Kingsley and his fiercely protective producer Artie, allows Garry Shandling and his talented writers to look behind the scenes and to show us a convincing slice of behind the camera life.",
+        "poster_path": "/qMRVylcs6y2naOp7s6RIawELTAL.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 21.1481,
+        "first_air_date": "1992-08-15",
+        "vote_average": 7.7,
+        "vote_count": 81,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/3gSgdd1GKY97ljs8Xer05CXJr9F.jpg",
+        "id": 2510,
+        "name": "Saxondale",
+        "original_name": "Saxondale",
+        "overview": "Steve Coogan plays Tommy Saxondale: an ex-roadie with anger management issues and a pest-control business. Tommy is a little arrogant, a little egotistical and feels the world owes him more respect than it typically shows him. He has an assistant named Raymond who lives in a spare room in Tommy's house, a live-in girlfriend named Magz who owns a T-shirt business, and a receptionist named Vicky who has a tendency to drive him up the wall.",
+        "poster_path": "/tKTCNu6uwL4HlB3hddGL8teZ6q.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 4.1223,
+        "first_air_date": "2006-06-19",
+        "vote_average": 7.4,
+        "vote_count": 28,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/aiZEtOKUfUY0zEeLupeLhnJlW7u.jpg",
+        "id": 5273,
+        "name": "Alfred Hitchcock Sunar",
+        "original_name": "Alfred Hitchcock Presents",
+        "overview": "Farklı geçmişlerden cinayetler, intiharlar, hırsızlıklar ve algılanan veya algılanamayan belirli motivasyonların neden olduğu diğer suç türlerine ilişkin suç, korku, drama ve komedi unsurlarını kapsayan ilgisiz kısa öyküler dizisi.",
+        "poster_path": "/lH6gQRnRtYtFcuxpdpkyl4LlMrX.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          18,
+          80
+        ],
+        "popularity": 15.4321,
+        "first_air_date": "1955-10-02",
+        "vote_average": 7.7,
+        "vote_count": 232,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/i0bVPXHdvLQzE1Ld8dDwbCj1kOW.jpg",
+        "id": 64439,
+        "name": "Making a Murderer",
+        "original_name": "Making a Murderer",
+        "overview": "Filmed over 10 years, this real-life thriller follows a DNA exoneree who, while exposing police corruption, becomes a suspect in a grisly new crime.",
+        "poster_path": "/sy2nV3rCcJQaRK5M0NWvvTU7CBx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          80
+        ],
+        "popularity": 6.0496,
+        "first_air_date": "2015-12-18",
+        "vote_average": 7.83,
+        "vote_count": 497,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
+        "id": 1400,
+        "name": "Seinfeld",
+        "original_name": "Seinfeld",
+        "overview": "Seinfeld, dokuz sezon boyunca yayınlanan toplam 169 bölümle televizyon tarihinin en çarpıcı devrimlerinden birini gerçekleştirdi. Yayınlandığı ülkelerde televizyonların en sevilen komedisi olmayı başaran Seinfeld, aynı kentte yaşayan dört arkadaşın gündelik hayatından kesitler sunuyor ve son derece basit fikirlerden ilginç açılımlara uzanıyor.\n\nAna karakter Jerry Seinfeld kadar yan karakterler de dikkat çekici. Hemen her konuda kararsız biri olan Elaine, bitmeyen kompleksleriyle herkesi bıktıran George Costanza ve tuhaf karizması, parlak fikirleriyle Cosmo Kramer. Kumsalda uyuyor gibi hissedebilmek için kumla doldurulmuş yatakta uyumak fikri Cosmo Kramer’in dehasına sadece küçük bir örnek.",
+        "poster_path": "/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 110.4967,
+        "first_air_date": "1989-07-05",
+        "vote_average": 8.259,
+        "vote_count": 2108,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/rERIB8dpX3irFCqejNasiJz82ae.jpg",
+        "id": 2513,
+        "name": "Dr. Katz, Professional Therapist",
+        "original_name": "Dr. Katz, Professional Therapist",
+        "overview": "From living with his deadbeat son, Ben, to his day-to-day dealings with his stunningly sarcastic secretary, Laura, join therapist Jonathan Katz as he picks the brains of your favorite stand-up comedians.",
+        "poster_path": "/wHqJxW6vCi8g3ZZJnFEDGcMsaor.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 16.6114,
+        "first_air_date": "1995-05-28",
+        "vote_average": 7.726,
+        "vote_count": 53,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/29R7IcPgdsw3j1zSBAb4zkJNySs.jpg",
+        "id": 63,
+        "name": "Brass Eye",
+        "original_name": "Brass Eye",
+        "overview": "Investigative reporter Chris Morris puts modern Britain under the spotlight, and smacks the issues of the day till they bleed. He tackles weighty issues including animals, drugs, sex and skewered celebrities and politicians alike - and in a later episode in 2001, paedophiles.",
+        "poster_path": "/nCWMA285aPbdQ8x9ZcqSolOzUoo.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 5.6667,
+        "first_air_date": "1997-01-29",
+        "vote_average": 7.5,
+        "vote_count": 94,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/26Xu6NIWdhQA2OgZ6HKa7D69HNB.jpg",
+        "id": 4576,
+        "name": "Just Shoot Me!",
+        "original_name": "Just Shoot Me!",
+        "overview": "See the inner workings of a high-style magazine owned by Jack Gallo, who has hired his quick-tempered but talented daughter, Maya, to write for the publication. Challenging her at every turn is Nina, a vain and superficial former model. Then there's photographer Elliot, a man who is very popular with his portrait subjects as well as other women. completing the core staff is her father's assistant, Dennis, a glorified secretary who is generally disrespectful to one and all.",
+        "poster_path": "/xP2JuabiJvvmVvGsHjDj4IL8gcO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 37.8414,
+        "first_air_date": "1997-03-04",
+        "vote_average": 6.6,
+        "vote_count": 162,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4quKhVONt0E1GIEdYkrdqJcqQph.jpg",
+        "id": 13868,
+        "name": "To Play the King",
+        "original_name": "To Play the King",
+        "overview": "Francis Urquhart's survival at the top is threatened by the new king's populist agenda.",
+        "poster_path": "/uyTPnSlh7NKic8MgYn2GzD7s0La.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35,
+          10768
+        ],
+        "popularity": 2.2101,
+        "first_air_date": "1993-11-21",
+        "vote_average": 8.0,
+        "vote_count": 54,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/e1WQUxuwgfwEEKPQ49wqxKf5fqA.jpg",
+        "id": 334,
+        "name": "Sealab 2021",
+        "original_name": "Sealab 2021",
+        "overview": "The year is 2021. Deep below the ocean's surface, looms a vast, magnificently high-tech compound: Sealab. A multi-national scientific station with an annual budget in the trillions, manned by a motley collection of malcontents and screw-ups who were unfit for work in the private sector. They really don't get any research done, but instead spend their time bickering among themselves or just plain goofing off. The crew have manipulated their luckless leader, Captain Murphy, into submission, and are content to ride the government clock, raking in fat, hazardous-duty paychecks.",
+        "poster_path": "/eA4JJfHZ6DdfPd3BCu5qWm99Fl5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 5.0668,
+        "first_air_date": "2000-12-21",
+        "vote_average": 7.5,
+        "vote_count": 86,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sw88XQ9O4BozRo5VCAIkseVRjiq.jpg",
+        "id": 39754,
+        "name": "Between Two Ferns with Zach Galifianakis",
+        "original_name": "Between Two Ferns with Zach Galifianakis",
+        "overview": "Host Zach Galifianakis conducts celebrity interviews sitting with his guests between two potted ferns.",
+        "poster_path": "/puvJM8LPlp5YttZByZ259A87XQT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 3.9612,
+        "first_air_date": "2008-01-04",
+        "vote_average": 7.5,
+        "vote_count": 113,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5dQh0KIUMOEp6zSgGevqpSusfka.jpg",
+        "id": 61689,
+        "name": "The Red Tent",
+        "original_name": "The Red Tent",
+        "overview": "Her name is Dinah. In the Bible her life is only hinted at during a brief and violent detour within the more familiar chapters about her father, Jacob, and his dozen sons in the Book of Genesis. Told through Dinah's eloquent voice, this sweeping miniseries reveals the traditions and turmoil of ancient womanhood. Dinah's tale begins with the story of her mothers: Leah, Rachel, Zilpah, and Bilhah, the four wives of Jacob. They love Dinah and give her gifts that are to sustain her through a hard-working youth, a calling to midwifery, and a new home in a foreign land. Dinah tells us of the world of the red tent, the place where women were sequestered during their cycles of birthing, menses, and illness; of her initiations into the religious and sexual practices of her tribe; of Jacob's courtship with his four wives; of the mystery and wonder of caravans, farmers, shepherds, and slaves; of love and death in the city of Shechem; of her half-brother Joseph's rise in Egypt, and of course her marriage to Shechem and it's bloody consequences.",
+        "poster_path": "/hSttE4mnZdmANv6snbK2RYncbbs.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "popularity": 2.5792,
+        "first_air_date": "2014-12-07",
+        "vote_average": 6.9,
+        "vote_count": 47,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dO4lLOgNzlGylCOuZ0moy5xpQtX.jpg",
+        "id": 2508,
+        "name": "Mind Your Language",
+        "original_name": "Mind Your Language",
+        "overview": "Jeremy Brown, a language teacher, tries to make a living by teaching English to immigrants. With pupils from India, France, China, and many other countries, his lessons do not always go as planned.",
+        "poster_path": "/58RfYeIwDnJFbahMEy2yCDWyRAY.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 7.466,
+        "first_air_date": "1977-12-30",
+        "vote_average": 8.2,
+        "vote_count": 60,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/eeNX1xshEAZ663DZgiHdh4xSNhF.jpg",
+        "id": 436,
+        "name": "Still Game",
+        "original_name": "Still Game",
+        "overview": "Cult Scottish comedy about the lives of two OAP's (Old Age Pensioners) Jack and Victor and their views on how it used to be in the old days and how bad it is now in the fictional town of Craiglang.",
+        "poster_path": "/b5O5zTFlaiwXb8FrqqTA0sihJPO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 11.7653,
+        "first_air_date": "2002-09-06",
+        "vote_average": 8.3,
+        "vote_count": 55,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/itisXkOIsntQacvuO5BF05xHJ60.jpg",
+        "id": 318,
+        "name": "American Gothic",
+        "original_name": "American Gothic",
+        "overview": "Everything is not what it seems in Trinity, South Carolina. Sheriff Lucas Buck develops a sinister interest in Caleb. Caleb's cousin Gail tries to protect him, but that's complicated since she has feelings for Sheriff Buck. And Caleb's dead sister, Merlyn, returns as an angel, warning him that Buck is an incarnation of evil - and may not be human.",
+        "poster_path": "/qajOMTtQ958JEpmokPXTruwA9qp.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          80
+        ],
+        "popularity": 6.0136,
+        "first_air_date": "1995-09-22",
+        "vote_average": 7.34,
+        "vote_count": 53,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5WIsLsYbhZA9xe8vQmHXDQFrVTH.jpg",
+        "id": 3474,
+        "name": "Danger Mouse",
+        "original_name": "Danger Mouse",
+        "overview": "Danger Mouse, the world's greatest secret agent, and his side-kick Penfold work to foil the evil schemes of Baron Greenback.",
+        "poster_path": "/1MLDMC8tsf92h8H920TGemN0PUo.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762,
+          35,
+          10751
+        ],
+        "popularity": 15.5217,
+        "first_air_date": "1981-09-28",
+        "vote_average": 7.086,
+        "vote_count": 64,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/dTsSD3ww6PNfkiX4Fo7wdSJKaSc.jpg",
+        "id": 223768,
+        "name": "Pretty Baby: Brooke Shields",
+        "original_name": "Pretty Baby: Brooke Shields",
+        "overview": "Actor, model, and global superstar Brooke Shields’ journey from a sexualized young girl to a woman who embraces her identity and voice.",
+        "poster_path": "/sgEzuz9UPdJz9Eu5fl6LMA1J2Gm.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 4.4102,
+        "first_air_date": "2023-04-03",
+        "vote_average": 7.259,
+        "vote_count": 27,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/nHyANWKfXlWyCRcJFjH5ixPlOGL.jpg",
+        "id": 81317,
+        "name": "Forever (2018)",
+        "original_name": "Forever",
+        "overview": "Evli bir çift olan Oscar ve June, Riverside CA’da rahat bir hayat yaşamaktadırlar. 12 yıl boyunca aynı konuşmalar, aynı yemekler, aynı tatilleri geçirdiler. Fakat June’un kayak gezisi isteğinden sonra Oscar ile kendilerini tamamen yabancı bölgede bulurlar.",
+        "poster_path": "/dNKmZ96oGAAIHGB9KppVtLKOsdo.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 3.9278,
+        "first_air_date": "2018-09-14",
+        "vote_average": 6.426,
+        "vote_count": 61,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/6qQxz0PkwPqVP0M3f5ucrLleHq8.jpg",
+        "id": 51388,
+        "name": "About a Boy",
+        "original_name": "About a Boy",
+        "overview": "Will Freeman lives a charmed existence as the ultimate man-child. After writing a hit song, he was granted a life of free time, free love and freedom from financial woes. He's single, unemployed and loving it. So imagine his surprise when Fiona, a needy single mom and her oddly charming 11-year-old son, Marcus, move in next door and disrupt his perfect world. When Marcus begins dropping by his home unannounced, Will's not so sure about being a kid's new best friend, until, of course, Will discovers that women find single dads irresistible. That changes everything and a deal is struck: Marcus will pretend to be Will's son and, in return, Marcus is allowed to chill at Will's house. Before he realizes it, Will starts to enjoy the visits and even finds himself looking out for the kid. In fact, this newfound friendship may very well teach him a thing or two that he never imagined possible - about himself and caring for others.",
+        "poster_path": "/fTMbfMqUZ1OCqh9CQq5H5Pi13CH.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 9.5973,
+        "first_air_date": "2014-02-22",
+        "vote_average": 6.2,
+        "vote_count": 84,
+        "origin_country": [
+          "GB",
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

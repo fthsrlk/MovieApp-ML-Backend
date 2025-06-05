@@ -1,0 +1,1773 @@
+{
+  "adult": false,
+  "backdrop_path": "/pOd5ZQxZEORCg39ISnqpUI0XIhg.jpg",
+  "belongs_to_collection": null,
+  "budget": 11930000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 35,
+      "name": "Komedi"
+    },
+    {
+      "id": 37,
+      "name": "Vahşi Batı"
+    }
+  ],
+  "homepage": "",
+  "id": 298382,
+  "imdb_id": "tt2910904",
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_title": "The Dressmaker",
+  "overview": "Tilly Dunnage güzel, yetenekli ve sıra dışı bir kadındır. Vicdanında taşıdığı büyük bir yükle, annesi Molly’yi bulmak için doğduğu kasabaya döner. Tilly artık kasabada bir yabancı sayılmakta ve katil olarak suçlanmaktadır. Geçmişin yaraları ile döndüğü bu yerde Tilly’yi kasabalıya yaklaştıran şey Tilly'nin eşsiz terzilik yetenekleri olur. Acılar yerini kahkahalara bırakırken Tilly modacı kimliğiyle kasabanın kadınlarını adeta baştan yaratır. Bu arada geçmişini haksız bir şekilde karalayanlardan tatlı tatlı intikamını almaya başlayan Tilly kasabanın yakışıklısı Teddy’ye kalbini kaptırınca bu aşkın ona tahmin edemeyeceği şeyleri yaptıracağını görecektir.",
+  "popularity": 30.7512,
+  "poster_path": "/3OLbjzdmE4pVPh4UeU47LNHdKJO.jpg",
+  "production_companies": [
+    {
+      "id": 78549,
+      "logo_path": "/qGwTskx4tmi5oyR8ilfyfAERBwA.png",
+      "name": "White Hot Productions",
+      "origin_country": "AU"
+    },
+    {
+      "id": 7584,
+      "logo_path": "/eGkfvvyf4fJTvBUR1xt1669IPA3.png",
+      "name": "Screen Australia",
+      "origin_country": "AU"
+    },
+    {
+      "id": 36733,
+      "logo_path": null,
+      "name": "Film Art Media",
+      "origin_country": "AU"
+    },
+    {
+      "id": 86902,
+      "logo_path": "/uTXXIOJMikSZteOB6V284SDQer4.png",
+      "name": "Embankment Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 290,
+      "logo_path": "/jrgCuaQsY9ouP5ILZf4Dq4ZOkIX.png",
+      "name": "Ingenious Media",
+      "origin_country": "GB"
+    },
+    {
+      "id": 33,
+      "logo_path": "/3wwjVpkZtnog6lSKzWDjvw2Yi00.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2015-10-29",
+  "revenue": 25003426,
+  "runtime": 118,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "İntikam modaya döndü.",
+  "title": "Düşlerin Terzisi",
+  "video": false,
+  "vote_average": 7.003,
+  "vote_count": 1678,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 204,
+        "known_for_department": "Acting",
+        "name": "Kate Winslet",
+        "original_name": "Kate Winslet",
+        "popularity": 10.017,
+        "profile_path": "/cPRq7uH3PIFcHilP15BrMKunink.jpg",
+        "cast_id": 3,
+        "character": "Myrtle \"Tilly\" Dunnage",
+        "credit_id": "544528480e0a26632d007b60",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96066,
+        "known_for_department": "Acting",
+        "name": "Liam Hemsworth",
+        "original_name": "Liam Hemsworth",
+        "popularity": 3.6448,
+        "profile_path": "/7UIm9RoBnlqS1uLlbElAY8urdWD.jpg",
+        "cast_id": 4,
+        "character": "Teddy McSwiney",
+        "credit_id": "544528500e0a266336007d1f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6692,
+        "known_for_department": "Acting",
+        "name": "Caroline Goodall",
+        "original_name": "Caroline Goodall",
+        "popularity": 2.9176,
+        "profile_path": "/4cagGtMqACvkuw6Llq8Li8UJ1AR.jpg",
+        "cast_id": 5,
+        "character": "Elsbeth Beaumont",
+        "credit_id": "54452858c3a3683e0b007a15",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 351,
+        "known_for_department": "Acting",
+        "name": "Judy Davis",
+        "original_name": "Judy Davis",
+        "popularity": 2.3687,
+        "profile_path": "/yAwsKkca91QJdsf1suUm637mwUx.jpg",
+        "cast_id": 6,
+        "character": "Molly Dunnage",
+        "credit_id": "544528600e0a266333007e5e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1375948,
+        "known_for_department": "Acting",
+        "name": "Hayley Magnus",
+        "original_name": "Hayley Magnus",
+        "popularity": 1.277,
+        "profile_path": "/ocCMNvj3xiPLiZUp5c5pj6R0kFM.jpg",
+        "cast_id": 7,
+        "character": "Prudence",
+        "credit_id": "5445286ac3a3683e01007acb",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1331,
+        "known_for_department": "Acting",
+        "name": "Hugo Weaving",
+        "original_name": "Hugo Weaving",
+        "popularity": 3.2569,
+        "profile_path": "/t4ScpYIHlXVD41scEyiGdQDYflX.jpg",
+        "cast_id": 8,
+        "character": "Sergeant Farrat",
+        "credit_id": "55f99a38c3a368678e002cad",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 235416,
+        "known_for_department": "Acting",
+        "name": "Sarah Snook",
+        "original_name": "Sarah Snook",
+        "popularity": 2.8797,
+        "profile_path": "/tklkrYSxifGOOZBmsxSv2D1XvIR.jpg",
+        "cast_id": 9,
+        "character": "Gertrude \"Trudy\" Pratt",
+        "credit_id": "55f99a43c3a3686782002e1d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17258,
+        "known_for_department": "Acting",
+        "name": "Kerry Fox",
+        "original_name": "Kerry Fox",
+        "popularity": 2.1015,
+        "profile_path": "/qTN8PjqgOdICj6egcAhJ7qXfEk1.jpg",
+        "cast_id": 10,
+        "character": "Beulah Harridiene",
+        "credit_id": "55f99a4fc3a368678e002cb5",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74245,
+        "known_for_department": "Acting",
+        "name": "Shane Jacobson",
+        "original_name": "Shane Jacobson",
+        "popularity": 1.617,
+        "profile_path": "/9AatyV42M7x6JufAOpHKqOTGts3.jpg",
+        "cast_id": 11,
+        "character": "Alvin Pratt",
+        "credit_id": "55f99a5bc3a368677f002f07",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 95266,
+        "known_for_department": "Acting",
+        "name": "Rebecca Gibney",
+        "original_name": "Rebecca Gibney",
+        "popularity": 1.8533,
+        "profile_path": "/Q0CasoMOqBVVKdm4SNOJ0YUnf9.jpg",
+        "cast_id": 12,
+        "character": "Muriel Pratt",
+        "credit_id": "55f99a69c3a368677d002c68",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1112872,
+        "known_for_department": "Acting",
+        "name": "James Mackay",
+        "original_name": "James Mackay",
+        "popularity": 0.9007,
+        "profile_path": "/eLsIbX4q5G0aP1P5VEmdczLq4Vi.jpg",
+        "cast_id": 13,
+        "character": "William Beaumont",
+        "credit_id": "55f99a7dc3a368677f002f0c",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78572,
+        "known_for_department": "Acting",
+        "name": "Gyton Grantley",
+        "original_name": "Gyton Grantley",
+        "popularity": 1.0677,
+        "profile_path": "/6ZppKfsH7mrkaciQZXBjNkEIPbz.jpg",
+        "cast_id": 14,
+        "character": "Barney McSwiney",
+        "credit_id": "55f99a8cc3a3686791002ee2",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150536,
+        "known_for_department": "Acting",
+        "name": "Barry Otto",
+        "original_name": "Barry Otto",
+        "popularity": 1.5785,
+        "profile_path": "/mj26EPgD1Yi5VA9N1T5Jpln57Ju.jpg",
+        "cast_id": 15,
+        "character": "Percival Almanac",
+        "credit_id": "55f99a96c3a368677b002d86",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 79713,
+        "known_for_department": "Acting",
+        "name": "Sacha Horler",
+        "original_name": "Sacha Horler",
+        "popularity": 1.373,
+        "profile_path": "/c9iKG0vquzmZWNzUBeGVARvhBcZ.jpg",
+        "cast_id": 16,
+        "character": "Una Pleasance",
+        "credit_id": "55f99aa8925141080c002bee",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 77561,
+        "known_for_department": "Acting",
+        "name": "Julia Blake",
+        "original_name": "Julia Blake",
+        "popularity": 1.4693,
+        "profile_path": "/7XMvNqHZyKFVr6BX8ysLBIuuPcQ.jpg",
+        "cast_id": 17,
+        "character": "Irma Almanac",
+        "credit_id": "55f99ab9925141080c002bf0",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1695074,
+        "known_for_department": "Acting",
+        "name": "Roy Barker",
+        "original_name": "Roy Barker",
+        "popularity": 0.2247,
+        "profile_path": "/q69VTSGJwFFrSavR1M0QbT50x0Z.jpg",
+        "cast_id": 54,
+        "character": "Doctor",
+        "credit_id": "5802b5ddc3a36875970006ed",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1478134,
+        "known_for_department": "Acting",
+        "name": "Rory Potter",
+        "original_name": "Rory Potter",
+        "popularity": 0.2721,
+        "profile_path": "/yOnrKxarI8k0JmfLPkG6BOGjGTp.jpg",
+        "cast_id": 57,
+        "character": "Stewart Pettyman",
+        "credit_id": "5ea5e09f6d1bb20024a4cd3a",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1185655,
+        "known_for_department": "Acting",
+        "name": "Alison Whyte",
+        "original_name": "Alison Whyte",
+        "popularity": 0.9777,
+        "profile_path": "/pTuH8WTTHXNLfWOa5NHQ4uAPPDS.jpg",
+        "cast_id": 61,
+        "character": "Marigold Pettyman",
+        "credit_id": "6346089dcf62cd007b4c303e",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1186664,
+        "known_for_department": "Acting",
+        "name": "Amanda Woodhams",
+        "original_name": "Amanda Woodhams",
+        "popularity": 0.2038,
+        "profile_path": "/ezrbuq90EQP6fv0T9gwUa5Laqqe.jpg",
+        "cast_id": 62,
+        "character": "Nancy Pickett",
+        "credit_id": "634608b7f621b20090e0c287",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2921560,
+        "known_for_department": "Acting",
+        "name": "Madeleine Hogan",
+        "original_name": "Madeleine Hogan",
+        "popularity": 0.204,
+        "profile_path": "/yAZTpKhYCBMSP186JYvcUCN6PLu.jpg",
+        "cast_id": 63,
+        "character": "Elizabeth McSwiney",
+        "credit_id": "634608cff3b49a007c9541b9",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1878511,
+        "known_for_department": "Acting",
+        "name": "Caroline Lee",
+        "original_name": "Caroline Lee",
+        "popularity": 0.3871,
+        "profile_path": "/dEzy2gTSYON0QSrAhaB5Zcev3pa.jpg",
+        "cast_id": 65,
+        "character": "Fashionable Relative",
+        "credit_id": "6346090a00fb6b00812e9ed7",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 131775,
+        "known_for_department": "Acting",
+        "name": "Geneviève Picot",
+        "original_name": "Geneviève Picot",
+        "popularity": 0.72,
+        "profile_path": "/vQ4552dpKxaH3LAxKHJTfFVlg6K.jpg",
+        "cast_id": 66,
+        "character": "Mrs. Tobin",
+        "credit_id": "634609216a300b007d219e0b",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1936704,
+        "known_for_department": "Acting",
+        "name": "Margot Knight",
+        "original_name": "Margot Knight",
+        "popularity": 0.6594,
+        "profile_path": "/jTVzHWeBLYlxVJO3QKDULXNOGzf.jpg",
+        "cast_id": 67,
+        "character": "Mrs. Wood",
+        "credit_id": "6346093a2dffd80082124f04",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2300917,
+        "known_for_department": "Acting",
+        "name": "Francesca Waters",
+        "original_name": "Francesca Waters",
+        "popularity": 0.6786,
+        "profile_path": "/z0zXS5qNuts4sJmf1KFNhmDWMIZ.jpg",
+        "cast_id": 68,
+        "character": "Mrs. Enright",
+        "credit_id": "6346095407e281007a055326",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1707874,
+        "known_for_department": "Acting",
+        "name": "Gregory Quinn",
+        "original_name": "Gregory Quinn",
+        "popularity": 0.4622,
+        "profile_path": "/ye8KKd8Oanm6kFVVckxuc5Ujq7D.jpg",
+        "cast_id": 78,
+        "character": "Detective",
+        "credit_id": "63460a5b00fb6b0079f470ea",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 187058,
+        "known_for_department": "Acting",
+        "name": "Fletcher Humphrys",
+        "original_name": "Fletcher Humphrys",
+        "popularity": 1.036,
+        "profile_path": "/t9WnbExiY5wy25BQElbPXG755rt.jpg",
+        "cast_id": 79,
+        "character": "Ticket Collector",
+        "credit_id": "63460a752dffd8007fe77240",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1208321,
+        "known_for_department": "Acting",
+        "name": "Richard Anastasios",
+        "original_name": "Richard Anastasios",
+        "popularity": 0.8068,
+        "profile_path": "/xw3KoiJrhbDXfQCjAvJIGzz8jXp.jpg",
+        "cast_id": 80,
+        "character": "Winyerp Footballer",
+        "credit_id": "63460a9ccdf2e6009104407a",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 107477,
+        "known_for_department": "Acting",
+        "name": "Mark Leonard Winter",
+        "original_name": "Mark Leonard Winter",
+        "popularity": 1.1622,
+        "profile_path": "/lTUrzZcAOOJzolIlTzgqT5FLNdh.jpg",
+        "cast_id": 76,
+        "character": "Reginald Blood",
+        "credit_id": "63460a296a300b007d219f0f",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2789454,
+        "known_for_department": "Crew",
+        "name": "Mike Snow",
+        "original_name": "Mike Snow",
+        "popularity": 1.0991,
+        "profile_path": "/cvInpzuBhQ33X6lvZbEQgG43LYu.jpg",
+        "cast_id": 81,
+        "character": "Dungatar Footballer",
+        "credit_id": "63460ab2b3e627008281c739",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59121,
+        "known_for_department": "Acting",
+        "name": "Shane Bourne",
+        "original_name": "Shane Bourne",
+        "popularity": 0.6273,
+        "profile_path": "/zEDwzHmCf2IGoasZOQSVMFwMdsx.jpg",
+        "cast_id": 83,
+        "character": "Evan Pettyman",
+        "credit_id": "642a280666540800774a632b",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2134072,
+        "known_for_department": "Production",
+        "name": "Katia Nizic",
+        "original_name": "Katia Nizic",
+        "popularity": 0.3765,
+        "profile_path": null,
+        "cast_id": 72,
+        "character": "Theatre Patron",
+        "credit_id": "634609ad699fb7007c05f95c",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3736705,
+        "known_for_department": "Acting",
+        "name": "Sandra Talty",
+        "original_name": "Sandra Talty",
+        "popularity": 0.2887,
+        "profile_path": null,
+        "cast_id": 74,
+        "character": "Drummer",
+        "credit_id": "634609e91b7c590079199608",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3068644,
+        "known_for_department": "Acting",
+        "name": "Stan Leman",
+        "original_name": "Stan Leman",
+        "popularity": 0.2937,
+        "profile_path": null,
+        "cast_id": 77,
+        "character": "Ed McSwiney",
+        "credit_id": "63460a40b7a1540090c440b4",
+        "order": 32
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3328531,
+        "known_for_department": "Acting",
+        "name": "Charlotte Friels",
+        "original_name": "Charlotte Friels",
+        "popularity": 0.3232,
+        "profile_path": null,
+        "cast_id": 75,
+        "character": "Football Fan",
+        "credit_id": "63460a0600fb6b007ea1b666",
+        "order": 33
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1416532,
+        "known_for_department": "Acting",
+        "name": "Olivia Sprague",
+        "original_name": "Olivia Sprague",
+        "popularity": 0.2369,
+        "profile_path": null,
+        "cast_id": 71,
+        "character": "Young Gertrude",
+        "credit_id": "63460993f3b49a0079d57fa2",
+        "order": 34
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1478136,
+        "known_for_department": "Acting",
+        "name": "Adrian Pickering",
+        "original_name": "Adrian Pickering",
+        "popularity": 0.6054,
+        "profile_path": null,
+        "cast_id": 82,
+        "character": "Dungatar Footballer",
+        "credit_id": "63460acb699fb70081dc4a07",
+        "order": 35
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1498210,
+        "known_for_department": "Acting",
+        "name": "Grace Rosebirch",
+        "original_name": "Grace Rosebirch",
+        "popularity": 0.2021,
+        "profile_path": null,
+        "cast_id": 70,
+        "character": "Young Nancy",
+        "credit_id": "6346097e07e2810082f15c05",
+        "order": 36
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3736704,
+        "known_for_department": "Acting",
+        "name": "Lanie Lane",
+        "original_name": "Lanie Lane",
+        "popularity": 0.1173,
+        "profile_path": null,
+        "cast_id": 73,
+        "character": "Singer",
+        "credit_id": "634609d671ffdf007fb131f1",
+        "order": 37
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1606097,
+        "known_for_department": "Acting",
+        "name": "Lucy Moir",
+        "original_name": "Lucy Moir",
+        "popularity": 0.226,
+        "profile_path": null,
+        "cast_id": 69,
+        "character": "Young Molly",
+        "credit_id": "6346096a2dffd80082124f3a",
+        "order": 38
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2154992,
+        "known_for_department": "Camera",
+        "name": "Sage Barreda",
+        "original_name": "Sage Barreda",
+        "popularity": 0.1383,
+        "profile_path": null,
+        "cast_id": 64,
+        "character": "Margaret McSwiney",
+        "credit_id": "634608ef71ffdf007fb13100",
+        "order": 39
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3047,
+        "known_for_department": "Directing",
+        "name": "Jocelyn Moorhouse",
+        "original_name": "Jocelyn Moorhouse",
+        "popularity": 1.4452,
+        "profile_path": "/wnpwdXnwolCP6de6hRKOcOTrFm.jpg",
+        "credit_id": "5445281fc3a3683e0e007a5d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3047,
+        "known_for_department": "Directing",
+        "name": "Jocelyn Moorhouse",
+        "original_name": "Jocelyn Moorhouse",
+        "popularity": 1.4452,
+        "profile_path": "/wnpwdXnwolCP6de6hRKOcOTrFm.jpg",
+        "credit_id": "544528290e0a26632d007b5c",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1371426,
+        "known_for_department": "Production",
+        "name": "Sue Maslin",
+        "original_name": "Sue Maslin",
+        "popularity": 0.398,
+        "profile_path": null,
+        "credit_id": "544528350e0a26633a007ce6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1418813,
+        "known_for_department": "Crew",
+        "name": "Chris Anderson",
+        "original_name": "Chris Anderson",
+        "popularity": 1.0536,
+        "profile_path": "/lF4iol2GuUs1iHF1ziGLHl0gV4O.jpg",
+        "credit_id": "63460814d55c3d007a1ab966",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1531200,
+        "known_for_department": "Crew",
+        "name": "Philli Anderson",
+        "original_name": "Philli Anderson",
+        "popularity": 0.526,
+        "profile_path": "/jhl7aS3WpvsHR7Bs8SbaoM5bliN.jpg",
+        "credit_id": "6346082b2dffd80082124e0c",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3045,
+        "known_for_department": "Directing",
+        "name": "P.J. Hogan",
+        "original_name": "P.J. Hogan",
+        "popularity": 1.4607,
+        "profile_path": "/a9nTCDzLrnrEgD81WiRvZ4zN1VX.jpg",
+        "credit_id": "61d930adc68b69006b40d4ff",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1095,
+        "known_for_department": "Camera",
+        "name": "Donald McAlpine",
+        "original_name": "Donald McAlpine",
+        "popularity": 1.1693,
+        "profile_path": "/eZg5UnYR62y6iiyLPt6XC0vsWdV.jpg",
+        "credit_id": "56c1ed50c3a36817e40078ec",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3050,
+        "known_for_department": "Editing",
+        "name": "Jill Bilcock",
+        "original_name": "Jill Bilcock",
+        "popularity": 0.8694,
+        "profile_path": "/5Z4Eai3INfr83Xa6PvUTWZbJ3u1.jpg",
+        "credit_id": "56c1ed6692514158e30008c3",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 12203,
+        "known_for_department": "Production",
+        "name": "Christine King",
+        "original_name": "Christine King",
+        "popularity": 0.9345,
+        "profile_path": null,
+        "credit_id": "56c1ed78c3a36817ef00f517",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1578012,
+        "known_for_department": "Production",
+        "name": "Cinzia Coassin",
+        "original_name": "Cinzia Coassin",
+        "popularity": 0.2933,
+        "profile_path": null,
+        "credit_id": "56c1ed90c3a36817f400fa90",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1578013,
+        "known_for_department": "Production",
+        "name": "Amanda Mitchell",
+        "original_name": "Amanda Mitchell",
+        "popularity": 0.503,
+        "profile_path": null,
+        "credit_id": "56c1edb09251410a62002d38",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5547,
+        "known_for_department": "Art",
+        "name": "Roger Ford",
+        "original_name": "Roger Ford",
+        "popularity": 0.5506,
+        "profile_path": null,
+        "credit_id": "56c1edd9c3a36817ef00f523",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 26144,
+        "known_for_department": "Art",
+        "name": "Lucinda Thomson",
+        "original_name": "Lucinda Thomson",
+        "popularity": 0.5309,
+        "profile_path": null,
+        "credit_id": "56c1edf1c3a36817ef00f52d",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 61485,
+        "known_for_department": "Art",
+        "name": "Lisa Thompson",
+        "original_name": "Lisa Thompson",
+        "popularity": 0.6208,
+        "profile_path": null,
+        "credit_id": "56c1ee0c9251410ae6002f77",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1383084,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Marion Boyce",
+        "original_name": "Marion Boyce",
+        "popularity": 0.5539,
+        "profile_path": null,
+        "credit_id": "56c1ee22c3a36817e400790e",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 928371,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Margot Wilson",
+        "original_name": "Margot Wilson",
+        "popularity": 0.6773,
+        "profile_path": null,
+        "credit_id": "56c1ee3a9251410ae6002f80",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1475736,
+        "known_for_department": "Crew",
+        "name": "Sophie Durham",
+        "original_name": "Sophie Durham",
+        "popularity": 0.1475,
+        "profile_path": null,
+        "credit_id": "56c1ee6d92514167b2002370",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1578014,
+        "known_for_department": "Art",
+        "name": "Das Patterson",
+        "original_name": "Das Patterson",
+        "popularity": 0.1858,
+        "profile_path": null,
+        "credit_id": "56c1ee8992514167b2002379",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1425376,
+        "known_for_department": "Art",
+        "name": "Nicholas Dare",
+        "original_name": "Nicholas Dare",
+        "popularity": 0.5087,
+        "profile_path": null,
+        "credit_id": "56c1ee9d9251410a62002d63",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1578015,
+        "known_for_department": "Editing",
+        "name": "Caitlin Spiller",
+        "original_name": "Caitlin Spiller",
+        "popularity": 0.3396,
+        "profile_path": null,
+        "credit_id": "56c1eee69251410ae6002f9e",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1401730,
+        "known_for_department": "Visual Effects",
+        "name": "Prue Fletcher",
+        "original_name": "Prue Fletcher",
+        "popularity": 0.591,
+        "profile_path": null,
+        "credit_id": "56c1eefdc3a36817ef00f559",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1402931,
+        "known_for_department": "Visual Effects",
+        "name": "David Booth",
+        "original_name": "David Booth",
+        "popularity": 0.7195,
+        "profile_path": null,
+        "credit_id": "56c1ef2bc3a36817f900ecd4",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1321694,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Kerry Thompson",
+        "original_name": "Kerry Thompson",
+        "popularity": 1.3722,
+        "profile_path": null,
+        "credit_id": "56c1ef51c3a36817f900ecdd",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1205937,
+        "known_for_department": "Sound",
+        "name": "Jason Fernandez",
+        "original_name": "Jason Fernandez",
+        "popularity": 0.3828,
+        "profile_path": null,
+        "credit_id": "56c1ef779251415ece00141c",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1578016,
+        "known_for_department": "Sound",
+        "name": "Bernard Galbally",
+        "original_name": "Bernard Galbally",
+        "popularity": 0.4164,
+        "profile_path": null,
+        "credit_id": "56c1ef899251415ece001420",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1578017,
+        "known_for_department": "Directing",
+        "name": "Susie Struth",
+        "original_name": "Susie Struth",
+        "popularity": 0.4615,
+        "profile_path": null,
+        "credit_id": "56c1efa1c3a36817e400795a",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559385,
+        "known_for_department": "Crew",
+        "name": "Scott Warwick",
+        "original_name": "Scott Warwick",
+        "popularity": 0.7632,
+        "profile_path": null,
+        "credit_id": "56c1efc592514158e3000931",
+        "department": "Crew",
+        "job": "Armorer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1578018,
+        "known_for_department": "Camera",
+        "name": "David Williamson",
+        "original_name": "David Williamson",
+        "popularity": 0.6027,
+        "profile_path": null,
+        "credit_id": "56c1f15b92514105da002e57",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 75159,
+        "known_for_department": "Lighting",
+        "name": "Karl Engeler",
+        "original_name": "Karl Engeler",
+        "popularity": 0.7613,
+        "profile_path": null,
+        "credit_id": "56c1f208c3a36817e40079e3",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1578019,
+        "known_for_department": "Camera",
+        "name": "Ross Giardina",
+        "original_name": "Ross Giardina",
+        "popularity": 0.2862,
+        "profile_path": null,
+        "credit_id": "56c1f21dc3a36817ef00f60e",
+        "department": "Crew",
+        "job": "Second Unit Cinematographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1578020,
+        "known_for_department": "Sound",
+        "name": "Liesl Pieterse",
+        "original_name": "Liesl Pieterse",
+        "popularity": 0.4486,
+        "profile_path": null,
+        "credit_id": "56c1f26ac3a36817f900ed8f",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1051722,
+        "known_for_department": "Sound",
+        "name": "Chris Goodes",
+        "original_name": "Chris Goodes",
+        "popularity": 0.8077,
+        "profile_path": null,
+        "credit_id": "56c1f2959251410d670022cd",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 75151,
+        "known_for_department": "Sound",
+        "name": "Glenn Newnham",
+        "original_name": "Glenn Newnham",
+        "popularity": 1.0117,
+        "profile_path": null,
+        "credit_id": "56c1f2b39251410a62002e2b",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1578021,
+        "known_for_department": "Sound",
+        "name": "Andrew Ramage",
+        "original_name": "Andrew Ramage",
+        "popularity": 0.6522,
+        "profile_path": null,
+        "credit_id": "56c1f2ca92514167b200246a",
+        "department": "Crew",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1344411,
+        "known_for_department": "Art",
+        "name": "Jane Murphy",
+        "original_name": "Jane Murphy",
+        "popularity": 0.577,
+        "profile_path": null,
+        "credit_id": "56c1f2fc9251410d670022e2",
+        "department": "Crew",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 15353,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Warren Hanneman",
+        "original_name": "Warren Hanneman",
+        "popularity": 0.5021,
+        "profile_path": null,
+        "credit_id": "56c1f317c3a36817f400fba7",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559386,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Helen Magelaki",
+        "original_name": "Helen Magelaki",
+        "popularity": 0.4301,
+        "profile_path": null,
+        "credit_id": "56c1f32cc3a36817f900edb7",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1578022,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Shane Thomas",
+        "original_name": "Shane Thomas",
+        "popularity": 0.7238,
+        "profile_path": null,
+        "credit_id": "56c1f34892514167b2002482",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1332186,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ivana Primorac",
+        "original_name": "Ivana Primorac",
+        "popularity": 0.9884,
+        "profile_path": null,
+        "credit_id": "56c1f35e9251410f150002be",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1578023,
+        "known_for_department": "Editing",
+        "name": "Catherine Armstrong",
+        "original_name": "Catherine Armstrong",
+        "popularity": 0.4835,
+        "profile_path": null,
+        "credit_id": "56c1f38092514105da002ec9",
+        "department": "Editing",
+        "job": "Digital Intermediate"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1578015,
+        "known_for_department": "Editing",
+        "name": "Caitlin Spiller",
+        "original_name": "Caitlin Spiller",
+        "popularity": 0.3396,
+        "profile_path": null,
+        "credit_id": "56c1f39ec3a36817f400fbc5",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37757,
+        "known_for_department": "Sound",
+        "name": "David Hirschfelder",
+        "original_name": "David Hirschfelder",
+        "popularity": 0.9806,
+        "profile_path": null,
+        "credit_id": "66552e2bc8b17704e024b110",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3045,
+        "known_for_department": "Directing",
+        "name": "P.J. Hogan",
+        "original_name": "P.J. Hogan",
+        "popularity": 1.4607,
+        "profile_path": "/a9nTCDzLrnrEgD81WiRvZ4zN1VX.jpg",
+        "credit_id": "5e77d06ca055ef00122ef2cf",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2575502,
+        "known_for_department": "Writing",
+        "name": "Rosalie Ham",
+        "original_name": "Rosalie Ham",
+        "popularity": 0.8632,
+        "profile_path": null,
+        "credit_id": "5e77d0a8b974420013d408be",
+        "department": "Writing",
+        "job": "Novel"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 5657,
+        "name": "australia"
+      },
+      {
+        "id": 1415,
+        "name": "small town"
+      },
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 1660,
+        "name": "suppressed past"
+      },
+      {
+        "id": 10123,
+        "name": "dark comedy"
+      },
+      {
+        "id": 6733,
+        "name": "bullying"
+      },
+      {
+        "id": 4849,
+        "name": "exile"
+      },
+      {
+        "id": 6199,
+        "name": "dressmaker"
+      },
+      {
+        "id": 9748,
+        "name": "revenge"
+      },
+      {
+        "id": 14540,
+        "name": "accidental death"
+      },
+      {
+        "id": 15235,
+        "name": "house fire"
+      },
+      {
+        "id": 155808,
+        "name": "hometown"
+      },
+      {
+        "id": 157504,
+        "name": "brother sister "
+      },
+      {
+        "id": 160406,
+        "name": "dressing"
+      },
+      {
+        "id": 165765,
+        "name": "costume designer"
+      },
+      {
+        "id": 172789,
+        "name": "cross dresser"
+      },
+      {
+        "id": 177040,
+        "name": "fashion design"
+      },
+      {
+        "id": 187056,
+        "name": "woman director"
+      },
+      {
+        "id": 190906,
+        "name": "suppressed memory"
+      },
+      {
+        "id": 193760,
+        "name": "australian outback"
+      },
+      {
+        "id": 198010,
+        "name": "evening gown"
+      },
+      {
+        "id": 205849,
+        "name": "odd crowd"
+      },
+      {
+        "id": 207898,
+        "name": "accused of murder"
+      },
+      {
+        "id": 208611,
+        "name": "1950s"
+      },
+      {
+        "id": 208634,
+        "name": "town gossip"
+      },
+      {
+        "id": 237517,
+        "name": "revenge tragedy"
+      },
+      {
+        "id": 283118,
+        "name": "return to hometown"
+      },
+      {
+        "id": 315029,
+        "name": "grain silo"
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "tr",
+        "iso_3166_1": "TR",
+        "name": "Düşlerin Terzisi (The Dressmaker) - Türkçe Altyazılı Fragman",
+        "key": "WvA_3qflg5I",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Trailer",
+        "official": true,
+        "published_at": "2015-07-23T09:36:35.000Z",
+        "id": "6327310224f2ce0086099d11"
+      }
+    ]
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/4ANK5uSBMQxEdHSYqSqs4YMY0Ed.jpg",
+        "id": 283227,
+        "title": "Küçük Karmaşa",
+        "original_title": "A Little Chaos",
+        "overview": "Yıllardan 1682. Güçlü iradeli ve yetenekli bir peyzaj mimarı Sabine De Barra, mesleğini Fransa’nın kırsal kesiminde icra etmektedir. Bir gün beklenmedik bir davet gelir. Sabine, Kral 14.Louis’nin sarayında çalışmak için görüşme gerçekleştirir. Kral’ın tasarımcısı Andre Le Notre, Sabine’in karakteristik gözlerinden ve ileri görüşlülüğünden rahatsız olur, ancak yinede Sabine’in Versay Sarayı’ndaki ana bahçelerden birini dizayn etmesi için seçer. Geçen süre zarfında La Notre, Sabine’nin yönteminin içindeki küçük karmaşayı tanımaya başlar.",
+        "poster_path": "/wD7Haa4rebh0OKCTOuGgjPm1vFK.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "popularity": 1.2996,
+        "release_date": "2015-03-26",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 668
+      },
+      {
+        "backdrop_path": "/vRfo7aDU9k10G1FUSixOCPbcBmr.jpg",
+        "id": 25199,
+        "title": "Azgın Dişiler",
+        "original_title": "Teen Witch",
+        "overview": "Okulun sıradan kızlarından Louise, cadılık yeteneklerini olduğunu keşfeder ve bunları istediği erkeği etkilemek ve okulda popüler olmak için kullanmaya başlar.",
+        "poster_path": "/51A71crqobviJRX2Ktl7JVROwdv.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          14,
+          10749
+        ],
+        "popularity": 1.5609,
+        "release_date": "1989-04-28",
+        "video": false,
+        "vote_average": 6.058,
+        "vote_count": 171
+      },
+      {
+        "backdrop_path": "/rd83HOVFtLnanMfRRdX8dlFyLxS.jpg",
+        "id": 10399,
+        "title": "Mansfield Park",
+        "original_title": "Mansfield Park",
+        "overview": "Mutlu ama sefil bir hayat süren Fanny'nin ailesi onu daha iyi durumda olan ve Mansfield Konağında yaşayan teyzesinin yanına gönderiyor. Ailede sadece Edmund ile iyi geçinen Fanny zamanla ona aşık oluyor. Bir hafta sonu eve konukların gelmesi, Edmund'un başka biriyle nişanlanması, Fanny'nin hayatını değiştiriyor.",
+        "poster_path": "/bRH3fDkBNAcgkCgQvA1YeZrWcN7.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10749,
+          18
+        ],
+        "popularity": 1.113,
+        "release_date": "1999-11-12",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 308
+      },
+      {
+        "backdrop_path": "/uhnA40snHwYSUkGA0rgGLmmGgE2.jpg",
+        "id": 231576,
+        "title": "Keşke Burada Olsam",
+        "original_title": "Wish I Was Here",
+        "overview": "30'lu yaşlardaki Aidan Bloom, para kazanabilmek için çabalayan bir aktör ve iki çocuklu bir aile babası olsa da halen daha gerçek kimliğini bulabilmenin peşindedir. Üst üste oyunculuk seçmelerine katılır ancak bir türlü aradığı rolü bulamaz. Öte yandan aile hayatında da sorumluluklarını yerine getirdiği pek söylenemez. Aidan'ın tek ihtiyacı yaşamak için gerçek bir amaca sahip olabilmek iken çocuklarının eğitimini dahi eşi Sarah'nın babası üstlenmektedir. Ancak yaşlı ve hasta adam eğitim masraflarını ödeyemeyecek duruma gelince çift için ciddi bir maddi sıkıntı dönemi başlar. Aidan son çare olarak çocuklarını evde eğitmeye karar verir. Bu eğitimi çocuklarının gerçek hayatı tanıması ve öğrenmesi için bir yol olarak görse de zaman içerisinde keşfettiği ve tanıdığı şey bizzat kendisi olur.",
+        "poster_path": "/67VYBGxNxtWtNF3wCE1yI8ZfAW0.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 0.8105,
+        "release_date": "2014-07-18",
+        "video": false,
+        "vote_average": 6.553,
+        "vote_count": 740
+      },
+      {
+        "backdrop_path": "/4EMd9DU86rbd9XCjOjLHp5Khtn8.jpg",
+        "id": 255343,
+        "title": "Escobar: Kayıp Cennet",
+        "original_title": "Escobar: Paradise Lost",
+        "overview": "Genç sörf eğitmeni Nick ve ağabeyi, daha iyi bir hayat kurma hayalleriyle Kanada'dan ayrılıp kokain cenneti Kolombiya'ya yerleşirler. Nick kısa bir süre içerisinde, vardıkları küçük kasabada yaşayan Maria adında bir genç kadınla tanışır ve aralarında hızlı bir çekim yaşanır. Nick bir süre sonra, yolsullara yardım için çalışan Maria'nın sıra dışı bir aileye sahip olduğunu öğrenir. Bölgenin en büyük kokain tüccarlarından olan Pablo Escobar'ın yeğeni olan Maria, Nick'i de çalkantalı bir yaşamın içine doğru çekecektir. Maria'ya tutkun olan Nick, hayatında bir şeylerin ters gittiğini çok geç fark edecektir.",
+        "poster_path": "/13YGYsUQQb28dSK5X1FnIOCZH2w.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          53,
+          10749
+        ],
+        "popularity": 3.6299,
+        "release_date": "2014-10-11",
+        "video": false,
+        "vote_average": 6.276,
+        "vote_count": 779
+      },
+      {
+        "backdrop_path": "/3Xke59YKgu8HuxqipSa0so2jmWy.jpg",
+        "id": 268523,
+        "title": "Nice and Easy",
+        "original_title": "Libre et assoupi",
+        "overview": "Sebastian has one ambition in life: to do nothing. His horizon is his couch. His life he does not want to live but contemplate. But today, if you do nothing - You are nothing. So driven by his two roommates, that chain internships and odd jobs, decided to Anna and not quite decided Bruno, Sebastien will have to - A little.",
+        "poster_path": "/t3w7bVAlihvm0uYbhWNptAJKgVc.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 1.2198,
+        "release_date": "2014-05-07",
+        "video": false,
+        "vote_average": 6.551,
+        "vote_count": 195
+      },
+      {
+        "backdrop_path": "/ywLZ2SMqyE6pLWLfA2LI5pV4Fdx.jpg",
+        "id": 327528,
+        "title": "Born to Be Blue",
+        "original_title": "Born to Be Blue",
+        "overview": "Film; 1960'lı yılların sonunda caz müziğinin efsanesi Chet Baker'ın geri dönüşünü anlatıyor.",
+        "poster_path": "/iEdh2CkSyDXBTAPlNS6uLF9yTTH.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10402
+        ],
+        "popularity": 1.1404,
+        "release_date": "2015-09-13",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 209
+      },
+      {
+        "backdrop_path": "/pON7e50BuoMYRKRlksWpxQQd6Gt.jpg",
+        "id": 41171,
+        "title": "Noel",
+        "original_title": "Noel",
+        "overview": "Christmas Eve in New York, and the lonely divorced publisher, Rose Collins, needs a miracle to improve the health of her mother, interned in a hospital with Alzheimers. She feels sorry for another patient and meets his visitor. Meanwhile, Nina Vasquez breaks her engagement with her beloved fiancé Mike due to his suffocating jealousy, but misses him. Mike is stalked by a stranger, bartender Artie Venzuela. The poor Jules arranges to spend Christmas Eve in the hospital, where he spent the best Christmas of his life when he was a teenager. The lives of some of these characters cross with others along the night.",
+        "poster_path": "/pPYlVwLF8mRFxCiXFxHeFN0d4ON.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "popularity": 1.567,
+        "release_date": "2004-11-12",
+        "video": false,
+        "vote_average": 5.807,
+        "vote_count": 301
+      },
+      {
+        "backdrop_path": "/oO6CypKj5GUSeLWpo98elOEVhPd.jpg",
+        "id": 299715,
+        "title": "All About Them",
+        "original_title": "À trois, on y va",
+        "overview": "Charlotte, Mélodie'yle Micha'yi aldatıyor. Bir şeyden şüphelenme, ama ihmal edilen Micha, sırayla Charlotte'a hile yapıyor. Ama ayrıca Mélodie ile. Mélodie için işler sıradan. Her ikisine de yalan söylüyor. Her yalanlarına özeldir. Ve her ikisine de aynı anda aşıyor.",
+        "poster_path": "/4hFczO5WuLSAZYZlbXAJIwVJZ5n.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          35,
+          10749
+        ],
+        "popularity": 0.2752,
+        "release_date": "2015-03-25",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 138
+      },
+      {
+        "backdrop_path": "/aTF5cnkhrVjkLRFfkuoKafulwI9.jpg",
+        "id": 11703,
+        "title": "Örümcek Kadının Öpücüğü",
+        "original_title": "Kiss of the Spider Woman",
+        "overview": "Luis Molina ve Valentin Arregui, Güney Amerika'daki bir hapishanede hücre arkadaşıdırlar. Trans bir birey olan Luis, ahlaksız davranışlardan suçlu bulunmuş, Valentin ise siyasi bir mahkûmdur. Luis gerçeklikten kaçmak için romantik filmler icat ederken, Valentin içinde bulunduğu durumu aklından çıkarmamaya çalışır. Birlikte geçirdikleri zaman boyunca iki adam birbirlerini anlamaya ve saygı duymaya başlarlar.",
+        "poster_path": "/5wXHJjPOSBPsI6JAt3AU2N26kit.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 1.0785,
+        "release_date": "1985-07-26",
+        "video": false,
+        "vote_average": 7.057,
+        "vote_count": 305
+      },
+      {
+        "backdrop_path": "/5n8Rx3RX7YKAMwJdPtrTBzq9CQo.jpg",
+        "id": 398177,
+        "title": "Daha Yeni Başladık",
+        "original_title": "Just Getting Started",
+        "overview": "Geçmişinde tanık koruma programında mafya avukatı olan Duke Diver, kendini yeni işine adamıştır. Tam bir eğlence ve huzur mekanı olan Villa Capri’nin müdürlüğünü yapan Duke, hayatını bir parti gibi yaşar. Bir yandan eğlenirken bir yandan da çalışan Duke, Villa Capri’nin müşterilerinin, özellikle de kadınların gözdesi durumundadır. Fakat Leo’nun gelişi tüm dengeleri altüst eder. Leo’nun herkesin ilgi odağı haline gelmesi Duke’u fazlasıyla rahatsız eder ve ikisi arasında çetin bir rekabet başlar. Fakat bir mafyanın tehdit oluşturması Duke ve Leo’nun arasındaki rekabeti bir kenara bırakıp birlikte çalışmasına neden olur.",
+        "poster_path": "/z0ta3sQfOYjlV9BG6Q4X3kjMhU4.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          35
+        ],
+        "popularity": 1.3545,
+        "release_date": "2017-12-01",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 242
+      },
+      {
+        "backdrop_path": "/wFmwCrAjvsI4AUpCj0DHAuF0JuO.jpg",
+        "id": 412520,
+        "title": "Sex Doll",
+        "original_title": "Sex Doll",
+        "overview": "Londra'nın karanlık yeraltı dünyasında, yüksek fiyatlı bir eksort olan Virginie'nin Rupert ile yaşadığı \"modern\" aşkın gerilimli ve erotik hikayesi.",
+        "poster_path": "/grWS1nNexgCQacAIF6Um5PS5N5y.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          18,
+          53,
+          9648
+        ],
+        "popularity": 2.6676,
+        "release_date": "2016-12-07",
+        "video": false,
+        "vote_average": 5.806,
+        "vote_count": 147
+      },
+      {
+        "backdrop_path": "/o2nqs7C2azKRMgM14gCX8BqIXEi.jpg",
+        "id": 41556,
+        "title": "Romantikler",
+        "original_title": "The Romantics",
+        "overview": "Niederhoffer'in kendi romanından uyarlayacağı film deniz kenarında yapılacak olan bir düğünün arifesinde geçecek ve birkaç yakın arkadaş evlenen dostlarına destek verecek. Gelini P-a-q-uin'in canlandıracağı filmde Holmes filmde gelinin baş nedimesi rolünde olacak ve iki güzel kadın arasında damadı etkilemek konusunda bir rekabet başlayacak.",
+        "poster_path": "/cgyXubpBzHuXTGu8gnBQ1gUrcNY.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "popularity": 0.8181,
+        "release_date": "2010-09-10",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 243
+      },
+      {
+        "backdrop_path": "/aXrw7OZmS2dNEa1Vcj1RYirAASa.jpg",
+        "id": 408272,
+        "title": "Saç Saça Baş Başa",
+        "original_title": "Catfight",
+        "overview": "Orta doğulu savaştan çıkmış zengin iş adamının sevgilisi Veronica Salt ve sadist bir ressam olan Ashley Chambers, üniversitede yakındırlar, ancak o zamandan beri birbirlerini görmemişlerdir. Kendilerini ışıltılı bir doğum günü partisinde bulduklarında kavganın fitili ateşlenmiş olur.",
+        "poster_path": "/j3kLVDNJlU6IIMmtMmFjtSBat7y.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 0.7631,
+        "release_date": "2016-09-09",
+        "video": false,
+        "vote_average": 5.528,
+        "vote_count": 198
+      },
+      {
+        "backdrop_path": "/wARvpudyLBXoWNW3ftG1IvbiDe9.jpg",
+        "id": 319076,
+        "title": "Dinle Beni Marlon",
+        "original_title": "Listen to Me Marlon",
+        "overview": "Daha önce hiç kimsenin ulaşamadığı arşiv görüntüleri ile bugüne kadar izlediğiniz en geniş Marlon Brando belgeselinin keyfini çıkarın. Baştan sona kariyer yaşamı ve bir aktör olarak yaşadığı sıradışı hayatı, sahnelerden beyazperdeye daha önce hiçbir yerde görmediğiniz ve keşfetmek için can atacağınız eşsiz bir yapım. Konuşmacı içermeyen, sadece Marlon Brando'nun kendi ağzından seslendirdiği, yaratıcılığından ve rehberliğinden yola çıktığı sıra dışı bir yolculuk.",
+        "poster_path": "/hL0s3sb5BtSD320pV1CLyrSSRJI.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 0.3999,
+        "release_date": "2015-07-29",
+        "video": false,
+        "vote_average": 7.481,
+        "vote_count": 158
+      },
+      {
+        "backdrop_path": "/41jcP1qLW6dxr2FYaaW5jSERVPR.jpg",
+        "id": 12912,
+        "title": "Kaos Teorisi",
+        "original_title": "Chaos Theory",
+        "overview": "Frank Allen (Ryan Reynolds) planlı programlı yaşayan biridir. Her gün yeni listeler oluşturarak hayatını listeleri doğrultusunda yaşar. Bir yılbaşı günü arkadaşları Susan (Emily Mortimer), Buddy (Stuart Townsend) ve diğerleriyle birlikte kutlama için dışarı çıkarlar. O gün Susan evlenmek istediğini söyler. Yeni yıl için listesinde bu vardır. Evleneceği adamı arkadaşları arasından seçeceğini söyler. Zaten herkes ona hayrandır. Onun aklındaysa dünden razı olan Frank vardır.",
+        "poster_path": "/swrN9S5TvGeuidTVNt5Ag5zEhC1.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18,
+          10749
+        ],
+        "popularity": 1.3608,
+        "release_date": "2008-04-11",
+        "video": false,
+        "vote_average": 6.338,
+        "vote_count": 397
+      },
+      {
+        "backdrop_path": "/mYAq1dYOHIunD7RZBVAWw7RLIqP.jpg",
+        "id": 369245,
+        "title": "The Complexity of Happiness",
+        "original_title": "La felicità è un sistema complesso",
+        "overview": "Enrico is a corporate man whose job is to manipulate inexperienced scions into selling their flailing companies. His latest assignment proves more difficult than anticipated—since his target are two young siblings whose parents just died in a car accident.",
+        "poster_path": "/5xbCQ6ibmA8Nbx5QAq4kOdbl6gl.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "it",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 0.2733,
+        "release_date": "2015-11-26",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 96
+      },
+      {
+        "backdrop_path": "/iIsUxdkwTBbB157nZJ2voE8bImc.jpg",
+        "id": 330115,
+        "title": "Ride",
+        "original_title": "Ride",
+        "overview": "Overbearing mom, Jackie, travels cross-country to be with her son, Angelo, after he drops out of college to become a surfer. She meets a surf instructor who convinces her to try to accept her son's wishes and allow him to follow his dreams.",
+        "poster_path": "/vozQNEvIKWkQIIiaMPvTOArxGkH.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35,
+          10749
+        ],
+        "popularity": 1.2638,
+        "release_date": "2014-11-08",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 140
+      },
+      {
+        "backdrop_path": "/3GTSbc85Xangv8JkBSsQZMXGyhh.jpg",
+        "id": 595149,
+        "title": "Benim Ölümüm",
+        "original_title": "Death of Me",
+        "overview": "Film, gittikleri tatilde kendilerini korkunç durumların içinde bulan bir çiftin hikayesini konu ediyor. Taylan'da bir adada egzotik bir tatil yapan Neil ve Christine, akşamdan kalma bir şekilde uyandıklarında, önceki gece neler yaşandığına dair bir fikirleri yoktur. Kendilerini tuhaf bir durum içinde bulan çift, buldukları videoda bir ayine katıldıklarını ve açıklanamayacak bir şekilde Neil'in Christine'i öldürdüğünü izler. Gördüklerinden sonra dehşete düşen çift, adadan uzaklaşmak için harekete geçer. Ancak feribotun kalkmasına 24 saat vardır ve çift bu sırada önceki akşam yaşananları yeniden inşa etmeye çalışır.",
+        "poster_path": "/xsJPt5SEtmbsi4KrrSa3rABrz1n.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          9648
+        ],
+        "popularity": 1.1214,
+        "release_date": "2020-10-02",
+        "video": false,
+        "vote_average": 4.965,
+        "vote_count": 254
+      },
+      {
+        "backdrop_path": null,
+        "id": 707013,
+        "title": "El violinista del diablo",
+        "original_title": "El violinista del diablo",
+        "overview": "",
+        "poster_path": "/p4a377K9TsyNqPjoSfvCceHBfqx.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          10402,
+          18
+        ],
+        "popularity": 0.0712,
+        "release_date": "2013-10-31",
+        "video": true,
+        "vote_average": 8.577,
+        "vote_count": 78
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

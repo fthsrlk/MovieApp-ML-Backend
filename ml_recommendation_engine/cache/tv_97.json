@@ -1,0 +1,833 @@
+{
+  "adult": false,
+  "backdrop_path": "/vAHR5oY1jZLpyKFhnQf7Qj66mMp.jpg",
+  "created_by": [
+    {
+      "id": 83349,
+      "credit_id": "525338e619c2957940058d64",
+      "name": "Drew Carey",
+      "original_name": "Drew Carey",
+      "gender": 2,
+      "profile_path": "/k2q4mpMhH0AlZVGvQwau2xSqjS3.jpg"
+    },
+    {
+      "id": 157853,
+      "credit_id": "525338e619c2957940058d5e",
+      "name": "Bruce Helford",
+      "original_name": "Bruce Helford",
+      "gender": 2,
+      "profile_path": "/x0aZv9wfD7gZqsXSyxT4KgG24Y.jpg"
+    }
+  ],
+  "episode_run_time": [
+    22,
+    30
+  ],
+  "first_air_date": "1995-09-13",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Komedi"
+    }
+  ],
+  "homepage": "",
+  "id": 97,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2004-09-08",
+  "last_episode_to_air": {
+    "id": 4591,
+    "name": "26. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2004-09-08",
+    "episode_number": 26,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 9,
+    "show_id": 97,
+    "still_path": null
+  },
+  "name": "The Drew Carey Show",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 233,
+  "number_of_seasons": 9,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Drew Carey Show",
+  "overview": "",
+  "popularity": 82.4946,
+  "poster_path": "/cWboJ8Cfi5NgHoENAB0gYtgZHkR.jpg",
+  "production_companies": [
+    {
+      "id": 1957,
+      "logo_path": "/qIxtba5CbnJfHCA88czLfTNKW9M.png",
+      "name": "Warner Bros. Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 42358,
+      "logo_path": null,
+      "name": "Mohawk Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 2,
+      "id": 293,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1995-09-13",
+      "episode_count": 22,
+      "id": 284,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/6nsrAJXFV2y81qD3VcckzuwqVRP.jpg",
+      "season_number": 1,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "1996-09-18",
+      "episode_count": 24,
+      "id": 285,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/nfjlcAagQYpLHzDgc78vdlcsoMU.jpg",
+      "season_number": 2,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "1997-09-23",
+      "episode_count": 28,
+      "id": 286,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/7cGjgkqqkYntBIcrLpwGa4xrELY.jpg",
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1998-09-23",
+      "episode_count": 27,
+      "id": 288,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/piziZGUGbagX5xcgRCeIsJGDH9h.jpg",
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1999-09-22",
+      "episode_count": 26,
+      "id": 287,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/uZylgyhOakxWAekElAsNmWDoCjd.jpg",
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2000-10-04",
+      "episode_count": 27,
+      "id": 289,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/jaRNFnNx067KBMjvh6yMtm74wZh.jpg",
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2001-09-26",
+      "episode_count": 27,
+      "id": 292,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/ryXRJKW5FaEatEDMIOG7odRrBow.jpg",
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2002-09-09",
+      "episode_count": 26,
+      "id": 291,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/cwsnA91QfxfBkJkJbJpD3FaSqFf.jpg",
+      "season_number": 8,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2004-06-02",
+      "episode_count": 26,
+      "id": 290,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/d1PsGI4fdtFPpsKO8u3QEvekZBP.jpg",
+      "season_number": 9,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.55,
+  "vote_count": 159,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83349,
+        "known_for_department": "Acting",
+        "name": "Drew Carey",
+        "original_name": "Drew Carey",
+        "popularity": 2.3239,
+        "profile_path": "/k2q4mpMhH0AlZVGvQwau2xSqjS3.jpg",
+        "character": "Drew Carey",
+        "credit_id": "525338e419c2957940058af6",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 162606,
+        "known_for_department": "Acting",
+        "name": "Ryan Stiles",
+        "original_name": "Ryan Stiles",
+        "popularity": 1.4841,
+        "profile_path": "/u8mLAujNFBoce7RzFFhwaX0DaJZ.jpg",
+        "character": "Lewis Kiniski",
+        "credit_id": "525338e419c2957940058b3c",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5727,
+        "known_for_department": "Acting",
+        "name": "Diedrich Bader",
+        "original_name": "Diedrich Bader",
+        "popularity": 4.0207,
+        "profile_path": "/z7CctykPTuXDfAs7pkAA7vW4b3T.jpg",
+        "character": "Oswald Lee Harvey",
+        "credit_id": "525338e419c2957940058ab0",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 36216,
+        "known_for_department": "Acting",
+        "name": "Cynthia Watros",
+        "original_name": "Cynthia Watros",
+        "popularity": 2.0932,
+        "profile_path": "/iVWPrP0j4SQlfSjnB03P6Ud5OrS.jpg",
+        "character": "Kellie Newmark",
+        "credit_id": "525338e419c2957940058c58",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 162605,
+        "known_for_department": "Acting",
+        "name": "Kathy Kinney",
+        "original_name": "Kathy Kinney",
+        "popularity": 1.5413,
+        "profile_path": "/3UDuBZVbTjial2JrmLhJnNItLl4.jpg",
+        "character": "Mimi Bobeck Carey",
+        "credit_id": "5f28627a9f37b000352873bb",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83349,
+        "known_for_department": "Acting",
+        "name": "Drew Carey",
+        "original_name": "Drew Carey",
+        "popularity": 2.3239,
+        "profile_path": "/k2q4mpMhH0AlZVGvQwau2xSqjS3.jpg",
+        "credit_id": "525338e619c2957940058e90",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1212009,
+        "known_for_department": "Writing",
+        "name": "Russ Woody",
+        "original_name": "Russ Woody",
+        "popularity": 0.8507,
+        "profile_path": null,
+        "credit_id": "525338e719c2957940058ed6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 136487,
+        "known_for_department": "Acting",
+        "name": "David Letterman",
+        "original_name": "David Letterman",
+        "popularity": 1.9697,
+        "profile_path": "/nk1rMabb84e52G2oax6yO9FBiAd.jpg",
+        "credit_id": "525338e619c2957940058e4a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1213086,
+        "known_for_department": "Writing",
+        "name": "Clay Graham",
+        "original_name": "Clay Graham",
+        "popularity": 0.7008,
+        "profile_path": null,
+        "credit_id": "525338e619c2957940058db4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1213124,
+        "known_for_department": "Writing",
+        "name": "Richard Day",
+        "original_name": "Richard Day",
+        "popularity": 1.0445,
+        "profile_path": null,
+        "credit_id": "525338e619c2957940058d6e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1213093,
+        "known_for_department": "Writing",
+        "name": "Bruce Rasmussen",
+        "original_name": "Bruce Rasmussen",
+        "popularity": 0.9136,
+        "profile_path": "/a5avkeMI18MZG32u7sDT5jF1cEe.jpg",
+        "credit_id": "525338e619c2957940058dfa",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "department store",
+        "id": 2081
+      },
+      {
+        "name": "loser",
+        "id": 3090
+      },
+      {
+        "name": "sitcom",
+        "id": 193171
+      },
+      {
+        "name": "workplace comedy",
+        "id": 210605
+      },
+      {
+        "name": "cleveland, ohio",
+        "id": 327617
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/9cusPHYQfwgI0fNbAhCjdngwBsb.jpg",
+        "id": 3968,
+        "name": "NewsRadio",
+        "original_name": "NewsRadio",
+        "overview": "The office politics and interpersonal relationships among the staff of WNYX NewsRadio, New York's #2 news radio station.",
+        "poster_path": "/nP698ZfQ9OqCXnxhEPapa8QOgdX.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 22.5443,
+        "first_air_date": "1995-03-21",
+        "vote_average": 7.327,
+        "vote_count": 113,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7O1f7OWj61quryRpuGIGj4Y7jq7.jpg",
+        "id": 3320,
+        "name": "Biker Mice from Mars",
+        "original_name": "Biker Mice from Mars",
+        "overview": "Three anthropomorphic mice motorcyclists named Throttle, Modo, and Vinnie escape a war on their home planet Mars before arriving to defend the Earth from the evil that destroyed their homeland and to one day return to Mars.",
+        "poster_path": "/gBnbkQ7t6Ctri0A4nKDYWqIVF3f.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10762,
+          16,
+          10759,
+          35,
+          10765
+        ],
+        "popularity": 22.2374,
+        "first_air_date": "1993-09-18",
+        "vote_average": 6.3,
+        "vote_count": 63,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/hQWWSbiUz4HKQxRQJtPXpO8ixJB.jpg",
+        "id": 3346,
+        "name": "Petticoat Junction",
+        "original_name": "Petticoat Junction",
+        "overview": "The Bradley family are proud owners of the Shady Rest Hotel. Kate and her three young daughters do the job of running the hotel.",
+        "poster_path": "/2kTGzz870hmdmQ074CYTdKFRqSm.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 51.9895,
+        "first_air_date": "1963-09-24",
+        "vote_average": 5.8,
+        "vote_count": 37,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/rR3a4uZvMe6HMtYjSkLmgq8ZSiy.jpg",
+        "id": 14432,
+        "name": "American Gladiators",
+        "original_name": "American Gladiators",
+        "overview": "American Gladiators is an American competition TV show that aired on NBC and Citytv in Canada. Hosted by Hulk Hogan and Laila Ali, the show matches amateur athletes against each other and the show's own \"gladiators\" in contests of strength, agility, and endurance. It is a remake of the original series of the same name which ran from 1989–1996, with elements of the UK version of the 1990s. The show is refereed by Al Kaplon, a former American League umpire, who can also be seen as the referee in Dodgeball: A True Underdog Story. Play-by-play narration is handled by Van Earl Wright.\n\nSeason 1 was taped at Sony Pictures Studios in Culver City, California. Beginning with Season 2, the show moved to the Los Angeles Sports Arena. It is produced by Reveille Productions and MGM Television.\n\nAmerican Gladiators premiered on Sunday, January 6, 2008; an average of 12 million people watched the two-hour premiere. All other Season 1 episodes aired Mondays at 8:00 ET/PT, except for the finale, which aired Sunday February 17, 2008 at 7:00 ET/PT. Season 2 premiered May 12, 2008, on NBC, with a two-hour episode. The two-hour Season 2 finale aired on August 4, 2008 at 8:00 ET/PT. While the final two-hour episode of Season 1 was devoted entirely to the finals, the Season 2 finale consisted of the third semifinal round followed by the finals.",
+        "poster_path": "/dEd83E5Mx9UxD5lSIwzrw6HYewN.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 1.3578,
+        "first_air_date": "2008-01-06",
+        "vote_average": 4.3,
+        "vote_count": 10,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/b7M5S8NHt1GPBZEP6AMSAtut5Mk.jpg",
+        "id": 31352,
+        "name": "The Haunted",
+        "original_name": "The Haunted",
+        "overview": "The Haunted is an American paranormal television series that premiered on November 22, 2009 on Animal Planet. Produced by Picture Shack Entertainment, the program features ghost stories and paranormal investigations involving animals. It also incorporates actual footage and photographs from the famiilies and paranormal research teams involved.",
+        "poster_path": "/yl9KiwQYS9SgrguqsK5L3XxQiYu.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 1.8587,
+        "first_air_date": "2009-11-22",
+        "vote_average": 6.8,
+        "vote_count": 2,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1c91q77XyQtYtD3rHNf7WwawxeA.jpg",
+        "id": 6460,
+        "name": "The Busy World of Richard Scarry",
+        "original_name": "The Busy World of Richard Scarry",
+        "overview": "Busytown is an enchanting place that's abuzz with energy and life. Young audiences are invited to sing and laugh along as Huckle Cat, Lowly Worm, and other beloved characters from acclaimed author Richard Scarry make their way through the day exploring their happy and lively world.",
+        "poster_path": "/eusoONNTGM8Bi5By7zLNDvWJdG3.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762
+        ],
+        "popularity": 29.3448,
+        "first_air_date": "1994-03-09",
+        "vote_average": 7.938,
+        "vote_count": 24,
+        "origin_country": [
+          "US",
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/4VPsgDQGhHJjKKRI9uaKhWwGNOp.jpg",
+        "id": 3725,
+        "name": "Life on Mars",
+        "original_name": "Life on Mars",
+        "overview": "After a car crash, police detective Sam Tyler mysteriously finds himself transported back to 1973 and still working as a detective.",
+        "poster_path": "/opP6O99cWRZ9tfdPaLsWefbcPRs.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          18,
+          10765
+        ],
+        "popularity": 13.3367,
+        "first_air_date": "2008-10-09",
+        "vote_average": 6.5,
+        "vote_count": 91,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/26Xu6NIWdhQA2OgZ6HKa7D69HNB.jpg",
+        "id": 4576,
+        "name": "Just Shoot Me!",
+        "original_name": "Just Shoot Me!",
+        "overview": "See the inner workings of a high-style magazine owned by Jack Gallo, who has hired his quick-tempered but talented daughter, Maya, to write for the publication. Challenging her at every turn is Nina, a vain and superficial former model. Then there's photographer Elliot, a man who is very popular with his portrait subjects as well as other women. completing the core staff is her father's assistant, Dennis, a glorified secretary who is generally disrespectful to one and all.",
+        "poster_path": "/xP2JuabiJvvmVvGsHjDj4IL8gcO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 37.8414,
+        "first_air_date": "1997-03-04",
+        "vote_average": 6.6,
+        "vote_count": 162,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/m0bV3qBiJBBlpFaaKjwHo13MVjm.jpg",
+        "id": 14981,
+        "name": "The Late Late Show with Craig Ferguson",
+        "original_name": "The Late Late Show with Craig Ferguson",
+        "overview": "The Late Late Show with Craig Ferguson is an American late-night talk show hosted by Scottish American comedian Craig Ferguson, who is the third regular host of the Late Late Show franchise. It follows Late Show with David Letterman in the CBS late-night lineup, airing weekdays in the US at 12:37 a.m. It is taped in front of a live studio audience from Monday to Friday at CBS Television City in Los Angeles, California, directly above the Bob Barker Studio. It is produced by David Letterman's production company Worldwide Pants Incorporated and CBS Television Studios.\n\nSince becoming host on January 3, 2005, after Craig Kilborn and Tom Snyder, Ferguson has achieved the highest ratings since the show's inception in 1995. While the majority of the episodes focus on comedy, Ferguson has also addressed difficult subject matter, such as the deaths of his parents, and undertaken serious interviews, such as one with Desmond Tutu, which earned the show a 2009 Peabody Award.",
+        "poster_path": "/gGC7zSDgG0FY0MbM1pjfhTCWQBI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 513.9352,
+        "first_air_date": "2005-01-03",
+        "vote_average": 6.8,
+        "vote_count": 101,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/JdMKUtYVUKUqXaMh2ZzlxAphR8.jpg",
+        "id": 1964,
+        "name": "The Jeffersons",
+        "original_name": "The Jeffersons",
+        "overview": "Sitcom following a successful African-American couple, George and Louise “Weezyö Jefferson as they “move on up” from working-class Queens to a ritzy Manhattan apartment. A spin-off of All in the Family.",
+        "poster_path": "/iFjIaWr9qDKMLnnh8tHwO6Tzp6D.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 39.7632,
+        "first_air_date": "1975-01-18",
+        "vote_average": 7.302,
+        "vote_count": 111,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wdQ9nON4M93VDwkwcPAkuVLS2yM.jpg",
+        "id": 4477,
+        "name": "Becker",
+        "original_name": "Becker",
+        "overview": "Becker is a dedicated, outspoken and talented doctor with a gruff exterior. While he tends to offend those who try to get close to him, he is extremely dedicated to his medical practice in the Bronx, N.Y., where he always goes the extra mile to help those in need. But Dr. John Becker looks at the world around him and sees a society gone mad, full of incongruities and just plain wrong thinking. And he has no qualms about saying anything that comes to mind – anything.",
+        "poster_path": "/hno1hP545G5xS1l4mLBXaY7NIqn.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 34.6808,
+        "first_air_date": "1998-11-02",
+        "vote_average": 7.184,
+        "vote_count": 128,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/iByBNlHQL1Z8Jn4hk9Pbw8U5V1d.jpg",
+        "id": 3308,
+        "name": "George Lopez",
+        "original_name": "George Lopez",
+        "overview": "George raises daughter Carmen and dyslexic son Max with his wife Angie, after surviving a miserable, dysfunctional childhood at the hands of his neglectful alcoholic mother Benny.",
+        "poster_path": "/jV28WAGIqAKf4uoRK4IqJz4KMY0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 5.1758,
+        "first_air_date": "2002-03-27",
+        "vote_average": 7.621,
+        "vote_count": 91,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/fvL8uPX0j3PF8FXHqGpJTfq0Qzu.jpg",
+        "id": 84910,
+        "name": "The Masked Singer",
+        "original_name": "The Masked Singer",
+        "overview": "Celebrities compete in a singing competition with one major twist: each singer is shrouded from head to toe in an elaborate costume, complete with full face mask to conceal his or her identity. One singer will be eliminated each week, ultimately revealing his or her true identity.",
+        "poster_path": "/sT0TpxenCsghbRZ7NiEJg2ubzZx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 49.5501,
+        "first_air_date": "2019-01-02",
+        "vote_average": 7.671,
+        "vote_count": 114,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2DxTaDzhtPbF53blqeJTyMVtRkf.jpg",
+        "id": 6647,
+        "name": "Cesur ve Güzel",
+        "original_name": "The Bold and the Beautiful",
+        "overview": "İlk bölümü 1987 yılında ekrana gelen ve 20 yıldır devam eden dizi ; Amerika, Kanada , İtalya, Almanya ve Fransa dahil olmak üzere tam 79 ülkede yayınlandı. Halen 40 ülkede yayınlanan ve yüz milyonlarca izleyicisi olan dizi, televizyon dünyasının en popüler dizisi unvanına sahip.",
+        "poster_path": "/1LsYmbJHKp1bp1JxX7HkcOr9ddv.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 62.5435,
+        "first_air_date": "1987-03-23",
+        "vote_average": 5.5,
+        "vote_count": 137,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/pEjsb26MKpLzvGcg9OtLptXpNyH.jpg",
+        "id": 2126,
+        "name": "The Brady Bunch",
+        "original_name": "The Brady Bunch",
+        "overview": "When widower Mike Brady marries a lovely lady widow Carol Ann, their two families become one. These are the misadventures of this new couple, their six children, a dog named Tiger, and quirky housekeeper Alice.",
+        "poster_path": "/63MN0GwbAW4Oq2VxbpZODYomMsi.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 26.5692,
+        "first_air_date": "1969-09-26",
+        "vote_average": 6.7,
+        "vote_count": 147,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4Y2XnGhGnir8nx9pf7WGAAcho7K.jpg",
+        "id": 1921,
+        "name": "Gilligan's Island",
+        "original_name": "Gilligan's Island",
+        "overview": "The slapstick adventures of hapless Gilligan, long-suffering Skipper and their gang of mismatched castaways, all stranded on an uncharted desert isle after their tiny ship hit stormy weather.",
+        "poster_path": "/7PjIzzCh43hNU77C8oKLdL7XXge.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 35.1745,
+        "first_air_date": "1964-09-26",
+        "vote_average": 7.431,
+        "vote_count": 238,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wWXFRPABf2D0eFjYNXNM0JhmTZF.jpg",
+        "id": 1759,
+        "name": "The Cosby Show",
+        "original_name": "The Cosby Show",
+        "overview": "The Cosby Show is an American television situation comedy starring Bill Cosby, which aired for eight seasons on NBC from September 20, 1984 until April 30, 1992. The show focuses on the Huxtable family, an upper middle-class African-American family living in Brooklyn, New York.",
+        "poster_path": "/dc6sR5FWN4uX8fZENq2UTsrSg3x.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 49.1711,
+        "first_air_date": "1984-09-20",
+        "vote_average": 7.025,
+        "vote_count": 426,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/71PGVaGN2Aiy0nWsmdUWP88ne32.jpg",
+        "id": 49009,
+        "name": "The Goldbergs",
+        "original_name": "The Goldbergs",
+        "overview": "Anne babalığa dair bloglardan önce, 80’ler diye bildiğimiz daha kolay bir zaman vardı. 11 yaşındaki Adam (Sean Giambrone) için bunlar onun merak yıllarıydı. O bu yıllarını videoya kaydetmişti. Goldberg’ler diğer aileler gibi sevimli bir ailedir, tek farkları biraz daha yüksek sesli bağırışları olur. Anne Beverly (Wendi McClendon-Covey) klasik bir annedir; fazla koruyucu yapısıyla bu aileyi sıfır sınırlarla ve yüzde yüz otoriteyle yönetir. Baba Murray (Jeff Garlin) aksi ve sinirli bir babadır ama babalığı bağırmadan yapmaya çalışır. Abla Erica (Hayley Orrantia) 17 yaşındadır ve kimsenin bulaşmaması gereken bir yapısı vardır. Barry (Troy Gentile) 16 yaşındadır ve hep A alan bir çocuktur. Adam (Sam Giambrone) en küçükleridir ve kendisinden daha büyük bir kadına aşık geleceğin yönetmenidir. Tüm ailenin saygı duyduğu kişi ise büyük baba Al “Pops” Solomon’dur (George Segal).",
+        "poster_path": "/pZyaKyry0V1muunoTt6pZ6cLduR.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          35
+        ],
+        "popularity": 44.9786,
+        "first_air_date": "2013-09-24",
+        "vote_average": 7.503,
+        "vote_count": 338,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zJeWBM8AiA2wS8OnBMkt1l9Yy5d.jpg",
+        "id": 734,
+        "name": "Magnum, P.I.",
+        "original_name": "Magnum, P.I.",
+        "overview": "Hawai'de büyük, lüks bir evde yaşayan özel bir dedektifin hikayesini anlatır. Magnum'un (Tom Selleck) kaldığı yer i̇ngiliz asilzadesi Robin Masters'a ait olup, dedektif bu kişi için çalışmaktadır. Ferrari de dizinin simgelerinden biridir.",
+        "poster_path": "/wKJRQYmOTzLKy6rTVkyk8NIUC6I.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          80,
+          18,
+          9648
+        ],
+        "popularity": 69.5778,
+        "first_air_date": "1980-12-11",
+        "vote_average": 7.3,
+        "vote_count": 401,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ebDi6FNKlDJqAzzaTtBxoX68Lbz.jpg",
+        "id": 4515,
+        "name": "Lois & Clark: The New Adventures of Superman",
+        "original_name": "Lois & Clark: The New Adventures of Superman",
+        "overview": "A much more lavish version of the popular Superman television series which had first aired forty years earlier, Lois & Clark focused more on the Man of Steel's early adult years in Metropolis. With the unknowing help of Lois Lane, Clark Kent created Superman there in Metropolis after finding work at the world-famous Daily Planet newspaper, where he meets fellow reporter Lois Lane.",
+        "poster_path": "/1LbPs6i1h4BKjVUwK5S9GjPCydi.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10765,
+          35
+        ],
+        "popularity": 67.5837,
+        "first_air_date": "1993-09-12",
+        "vote_average": 6.968,
+        "vote_count": 455,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

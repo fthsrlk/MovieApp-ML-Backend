@@ -1,0 +1,934 @@
+{
+  "adult": false,
+  "backdrop_path": "/uqTCaYBoSLT9MAdyQ9tU6QyCZ3A.jpg",
+  "created_by": [
+    {
+      "id": 78597,
+      "credit_id": "525741f4760ee36aaa0b8dcb",
+      "name": "Rob McElhenney",
+      "original_name": "Rob McElhenney",
+      "gender": 2,
+      "profile_path": "/gcep3ItyxaZ3ljH1IS6Lfkm8IAs.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2005-08-04",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Komedi"
+    }
+  ],
+  "homepage": "http://www.fxnetworks.com/shows/its-always-sunny-in-philadelphia",
+  "id": 2710,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2023-07-19",
+  "last_episode_to_air": {
+    "id": 4449752,
+    "name": "8. Bölüm",
+    "overview": "",
+    "vote_average": 9.2,
+    "vote_count": 10,
+    "air_date": "2023-07-19",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 24,
+    "season_number": 16,
+    "show_id": 2710,
+    "still_path": "/ekm5eJzyWEIkJPpha7pHhISIHaQ.jpg"
+  },
+  "name": "It's Always Sunny in Philadelphia",
+  "next_episode_to_air": {
+    "id": 6138528,
+    "name": "1. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-07-09",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 17,
+    "show_id": 2710,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 88,
+      "logo_path": "/aexGjtcs42DgRtZh7zOxayiry4J.png",
+      "name": "FX",
+      "origin_country": "US"
+    },
+    {
+      "id": 1035,
+      "logo_path": "/hDLXRZMBOCbpVYpkBbIlLvMXgdX.png",
+      "name": "FXX",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 172,
+  "number_of_seasons": 17,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "It's Always Sunny in Philadelphia",
+  "overview": "It's Always Sunny in Philadelphia 4 Ağustos, 2005'te FX kanalında yayına başlamış bir komedi dizisidir. Dizi aynı zamanda oyuncuları olan Rob McElhenney, Glenn Howerton ve Charlie Day tarafından yaratılıp geliştirilmiştir. Dizi, kişisel çıkarlarından başka hiçbir şey düşünmeyen ve Güney Philadelphia'da \"Paddy's\" adında oldukça başarısız bir İrlanda barı işleten bir arkadaş grubunun başından geçen maceraları anlatmaktadır.",
+  "popularity": 126.0728,
+  "poster_path": "/pRWO6ufqSNkWvPXDDQhBwPNSv4K.jpg",
+  "production_companies": [
+    {
+      "id": 787,
+      "logo_path": "/cCefBs1t7jxtiz3eCxBp9yxrxGx.png",
+      "name": "3 Arts Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 15992,
+      "logo_path": null,
+      "name": "Bluebush Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 15990,
+      "logo_path": "/5cT4zwHA66uNAr2p3CcBDLddXu2.png",
+      "name": "FX Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 109413,
+      "logo_path": null,
+      "name": "RCG Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2007-09-04",
+      "episode_count": 67,
+      "id": 8795,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/ipLeaw8NiD4vmsNDDlUCbTDPiKY.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2005-08-04",
+      "episode_count": 7,
+      "id": 8789,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/7bLLyYMDdV1GAOlSMlytsVYxyQS.jpg",
+      "season_number": 1,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2006-06-29",
+      "episode_count": 10,
+      "id": 8790,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/dLFL9VgDs5eYkEhmesaqBXsiJfr.jpg",
+      "season_number": 2,
+      "vote_average": 8.4
+    },
+    {
+      "air_date": "2007-09-13",
+      "episode_count": 15,
+      "id": 8791,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/jgJhGR3mmIcdkUFzdD1quutMnNX.jpg",
+      "season_number": 3,
+      "vote_average": 8.5
+    },
+    {
+      "air_date": "2008-09-18",
+      "episode_count": 13,
+      "id": 8792,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/el6bQvREj2UUD3k1JmGSg051yyH.jpg",
+      "season_number": 4,
+      "vote_average": 8.5
+    },
+    {
+      "air_date": "2009-09-17",
+      "episode_count": 12,
+      "id": 8793,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/i6KhjzVrNa24E2df522lVpNGbgn.jpg",
+      "season_number": 5,
+      "vote_average": 8.5
+    },
+    {
+      "air_date": "2010-09-16",
+      "episode_count": 13,
+      "id": 8794,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/jrCaUZvEJ78bW2E7YuGRnKClsVV.jpg",
+      "season_number": 6,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2011-09-15",
+      "episode_count": 13,
+      "id": 8796,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/yXFJPwI8sPaMx75w1NN0sWkkmar.jpg",
+      "season_number": 7,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2012-10-11",
+      "episode_count": 10,
+      "id": 8797,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/kkrGymvvIsRpcZTU9RSMh3i86UJ.jpg",
+      "season_number": 8,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2013-09-04",
+      "episode_count": 10,
+      "id": 8798,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/vEKFPIP8t43ee5RuZm8qg7al2Ue.jpg",
+      "season_number": 9,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2015-01-14",
+      "episode_count": 10,
+      "id": 64539,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/imYE3FDi3Bjadfa22bfLNuxBsXa.jpg",
+      "season_number": 10,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2016-01-06",
+      "episode_count": 10,
+      "id": 71998,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/dyds2dhPlD833zKWA9TmwfnasLP.jpg",
+      "season_number": 11,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2017-01-04",
+      "episode_count": 10,
+      "id": 83258,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/yOnOaGdbDYfgOa4NE06vUdmapAX.jpg",
+      "season_number": 12,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2018-09-05",
+      "episode_count": 10,
+      "id": 106029,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": "/AjyldoY2aGpe7jfBB3BxAqU5qai.jpg",
+      "season_number": 13,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2019-09-25",
+      "episode_count": 10,
+      "id": 126649,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": "/xX3vAWdCb828T48HM9OvvD0p4PC.jpg",
+      "season_number": 14,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2021-12-01",
+      "episode_count": 8,
+      "id": 171758,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": "/wcx6UpgShkHEACLzxZGGvR2GBNB.jpg",
+      "season_number": 15,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2023-06-07",
+      "episode_count": 8,
+      "id": 338815,
+      "name": "Sezon 16",
+      "overview": "",
+      "poster_path": "/3Lp3bRcYHXWpP48DJSYi0b5dq0W.jpg",
+      "season_number": 16,
+      "vote_average": 8.6
+    },
+    {
+      "air_date": "2025-07-09",
+      "episode_count": 3,
+      "id": 451998,
+      "name": "Sezon 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.3,
+  "vote_count": 1153,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 95101,
+        "known_for_department": "Acting",
+        "name": "Charlie Day",
+        "original_name": "Charlie Day",
+        "popularity": 3.5072,
+        "profile_path": "/c0HNhjChGybnHa4eoLyqO4dDu1j.jpg",
+        "character": "Charlie Kelly",
+        "credit_id": "525741f1760ee36aaa0b8bb7",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77870,
+        "known_for_department": "Acting",
+        "name": "Glenn Howerton",
+        "original_name": "Glenn Howerton",
+        "popularity": 1.8336,
+        "profile_path": "/9nvdlnsDWJc2A5fCjvnufBcPlTj.jpg",
+        "character": "Dennis Reynolds",
+        "credit_id": "525741f1760ee36aaa0b8b81",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78597,
+        "known_for_department": "Acting",
+        "name": "Rob McElhenney",
+        "original_name": "Rob McElhenney",
+        "popularity": 2.2408,
+        "profile_path": "/gcep3ItyxaZ3ljH1IS6Lfkm8IAs.jpg",
+        "character": "Ronald 'Mac' McDonald",
+        "credit_id": "525741f1760ee36aaa0b8c59",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 95102,
+        "known_for_department": "Acting",
+        "name": "Kaitlin Olson",
+        "original_name": "Kaitlin Olson",
+        "popularity": 2.9179,
+        "profile_path": "/z84SKRCVl9zPhP9AINVS8Bx8dRO.jpg",
+        "character": "Deandra 'Dee' Reynolds",
+        "credit_id": "525741f1760ee36aaa0b8bed",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 518,
+        "known_for_department": "Acting",
+        "name": "Danny DeVito",
+        "original_name": "Danny DeVito",
+        "popularity": 4.6303,
+        "profile_path": "/6kO4IN7ndoIGw2JhyhAQN3SFmdx.jpg",
+        "character": "Frank Reynolds",
+        "credit_id": "525741f1760ee36aaa0b8c23",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77870,
+        "known_for_department": "Acting",
+        "name": "Glenn Howerton",
+        "original_name": "Glenn Howerton",
+        "popularity": 1.8336,
+        "profile_path": "/9nvdlnsDWJc2A5fCjvnufBcPlTj.jpg",
+        "credit_id": "5f630e2bdd926a00373c58d0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 95101,
+        "known_for_department": "Acting",
+        "name": "Charlie Day",
+        "original_name": "Charlie Day",
+        "popularity": 3.5072,
+        "profile_path": "/c0HNhjChGybnHa4eoLyqO4dDu1j.jpg",
+        "credit_id": "5f630e1b069f0e0035a42ad5",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24177,
+        "known_for_department": "Production",
+        "name": "Michael Rotenberg",
+        "original_name": "Michael Rotenberg",
+        "popularity": 0.9759,
+        "profile_path": null,
+        "credit_id": "5f630f8187f3f2003a7f2e1c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78597,
+        "known_for_department": "Acting",
+        "name": "Rob McElhenney",
+        "original_name": "Rob McElhenney",
+        "popularity": 2.2408,
+        "profile_path": "/gcep3ItyxaZ3ljH1IS6Lfkm8IAs.jpg",
+        "credit_id": "5f630f12069f0e0037a1b17d",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "philadelphia, pennsylvania",
+        "id": 276
+      },
+      {
+        "name": "sibling relationship",
+        "id": 380
+      },
+      {
+        "name": "parent child relationship",
+        "id": 970
+      },
+      {
+        "name": "male friendship",
+        "id": 3230
+      },
+      {
+        "name": "slacker",
+        "id": 8631
+      },
+      {
+        "name": "crude humor",
+        "id": 9964
+      },
+      {
+        "name": "dysfunctional family",
+        "id": 10041
+      },
+      {
+        "name": "politically incorrect",
+        "id": 11475
+      },
+      {
+        "name": "sitcom",
+        "id": 193171
+      },
+      {
+        "name": "bar",
+        "id": 277050
+      },
+      {
+        "name": "pub",
+        "id": 285576
+      },
+      {
+        "name": "amused",
+        "id": 325765
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/afyjB6cwJnTbo0OmnrGTl1V1pNt.jpg",
+        "id": 32962,
+        "name": "Louie",
+        "original_name": "Louie",
+        "overview": "Louis C.K. kendisinin kurgulanmış bir versiyonu olarak yıldızlar; New York'ta iki kızını büyüten komedyen ve yeni boşanmış bir baba.",
+        "poster_path": "/ubWj0BLRV1UDP8ELnTr2is2Wl0Y.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 17.6008,
+        "first_air_date": "2010-06-29",
+        "vote_average": 7.774,
+        "vote_count": 521,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/AmmgWFPclweF5fdjdy9ITksMAVC.jpg",
+        "id": 17287,
+        "name": "Party Down",
+        "original_name": "Party Down",
+        "overview": "A group of struggling actors and dysfunctional dreamers wait for their big break while they are stuck serving hors d'oeurves for a Hollywood catering company 'Party Down.'",
+        "poster_path": "/hbsoFctJ1dDPp3KUIuUgd2E1U4r.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 9.1873,
+        "first_air_date": "2009-03-20",
+        "vote_average": 7.437,
+        "vote_count": 207,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/v7FPlZuuwJZ6YwJggf3Jx5pZNAz.jpg",
+        "id": 8592,
+        "name": "Parks and Recreation",
+        "original_name": "Parks and Recreation",
+        "overview": "Amy Poehler, Pawnee, Indiana’nın Park ve Bahçeler Departmanı’ndaki orta kademe bir bürokrat olan Leslie Knope’u canlandırıyor. Kasabasını güzelleştirmeye -ve kariyerinde ilerlemeye- çalışan Leslie savunma halindeki bürokratlarla, huysuz komşularla ve hukuk davalarını silah olarak kullanan tek-sorun siyasetçileriyle, karmaşık il kodlarıyla ve çok sevdiği demokratik süreçlerle baş etmeye çalışıyor.",
+        "poster_path": "/lOvrFaNf1qewF1M00scWcDRnJu9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 70.487,
+        "first_air_date": "2009-04-09",
+        "vote_average": 8.019,
+        "vote_count": 1581,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/91cTQeEKxpV6ysdPO3VWn66pehc.jpg",
+        "id": 7166,
+        "name": "The Mighty Boosh",
+        "original_name": "The Mighty Boosh",
+        "overview": "A British comic fantasy containing humour and pop-culture references.  Episodes often featured elaborate musical numbers in different genres, such as electro, heavy metal, funk, and rap. The show has been known for popularising a style called \"crimping\"; short acappella songs which are present throughout all three series.",
+        "poster_path": "/dKlYEo7mc1XLN2PutYlRuTLUXlC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10765
+        ],
+        "popularity": 20.2364,
+        "first_air_date": "2004-05-18",
+        "vote_average": 7.643,
+        "vote_count": 147,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/illJVUIkAiKLXUCJPeOkJvlJn3P.jpg",
+        "id": 32062,
+        "name": "İnsan Gezegeni",
+        "original_name": "Human Planet",
+        "overview": "Yeryüzü, hayat gibi doğal tarih belgesellerinden yola çıkan İnsan, doğal dünya ile insanın inanılmaz uyumunu kimi zaman da birbirlerine meydan okuyuşlarını gözler önüne seriyor.\n\nDünya Gezegeni ve Yaşam'ın izinden giden bu destansı sekiz bölümlük gişe rekorları kıran film, insanlık ve doğa arasındaki şaşırtıcı, karmaşık, derin ve bazen zorlu ilişkinin nefes kesici bir kutlamasıdır. İnsanlar, gezegendeki en başarılı türler olan nihai hayvanlardır. Donmuş Kuzey Kutbu'ndan buharlı yağmur ormanlarına, geniş okyanuslardaki küçük adalardan kavrulmuş çöllere kadar, insanlar uyum sağlamanın ve hayatta kalmanın olağanüstü yollarını buldular. Bunu muazzam cesaretimizi ve yaratıcılığımızı kullanarak başardık. Her bölüm belirli bir yaşam alanına odaklanıyor ve insanlarının aşırı zorluklar karşısında nasıl şaşırtıcı çözümler ürettiklerini ortaya koyuyor.",
+        "poster_path": "/bjhP5yIeyWMRMxJdLjBuiIf255X.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 3.9846,
+        "first_air_date": "2011-01-13",
+        "vote_average": 8.263,
+        "vote_count": 192,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/qCXY93t7QnKp6aWT1WKaQo0Qt5r.jpg",
+        "id": 4589,
+        "name": "Arrested Development",
+        "original_name": "Arrested Development",
+        "overview": "Dizi, çökmekte olan bir aile şirketinin bireyleri arasındaki zayıflayan bağları konu ediyor. Ekonomik durumun mecburi değişimiyle zorda kalan karakterler, sosyetik adetler ve burjuva ahlakıyla ayakta kalmaya çabalıyor.",
+        "poster_path": "/p4r4RD7RsNcJVoz0H6z3dBoTBtW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 36.3253,
+        "first_air_date": "2003-11-02",
+        "vote_average": 7.9,
+        "vote_count": 1466,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sdTsv2BlQTCAYSLXvMf3dP7lVBL.jpg",
+        "id": 56590,
+        "name": "The Eric Andre Show",
+        "original_name": "The Eric Andre Show",
+        "overview": "A comedic talk show from an alternate reality featuring unstable hosts, a variety of celebrities—both real and fake—and unusual studio action.",
+        "poster_path": "/mXmZJy8AtOF5s5SMW3WfAVxYG7V.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 18.3692,
+        "first_air_date": "2012-05-20",
+        "vote_average": 7.896,
+        "vote_count": 144,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/u6EhNH7o8s6HNmxkBV5X4KuaPQ.jpg",
+        "id": 713,
+        "name": "Chappelle's Show",
+        "original_name": "Chappelle's Show",
+        "overview": "Dave Chappelle's singular point of view is unleashed through a combination of laidback stand-up and street-smart sketches.",
+        "poster_path": "/aHpTmNU2wLHokoVpzcnh2VQBJOI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 9.525,
+        "first_air_date": "2003-01-22",
+        "vote_average": 8.079,
+        "vote_count": 386,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/eSgGtHV6Qk3QhV1fr2B66ykMIph.jpg",
+        "id": 2490,
+        "name": "The IT Crowd",
+        "original_name": "The IT Crowd",
+        "overview": "Şirketin bodrum katında bir odada çalışmak zorunda kalan iki bilgisayar delisi bilgi işlem elemanı ve onların başına müdür olarak atanan, bilgisayar bilgisi e-mail okumaktan fazla olmayan bir bayanın komik hikayesi.",
+        "poster_path": "/qZXkBoOUYzvKI4UCMzDQ5kqWHjh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 28.7609,
+        "first_air_date": "2006-02-03",
+        "vote_average": 8.151,
+        "vote_count": 1431,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/45OgNixOUoHd4IrX8c8AW4P85b9.jpg",
+        "id": 1554,
+        "name": "QI",
+        "original_name": "QI",
+        "overview": "Comedy quiz show full of quirky facts, in which contestants are rewarded more if their answers are 'quite interesting'.",
+        "poster_path": "/35SFXXXE05T23n7ztSHwa4cqzSy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 62.1649,
+        "first_air_date": "2003-09-11",
+        "vote_average": 7.926,
+        "vote_count": 256,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/u98PeujOJCXCowph9mxRzo9Nw1s.jpg",
+        "id": 4546,
+        "name": "Curb Your Enthusiasm",
+        "original_name": "Curb Your Enthusiasm",
+        "overview": "Curb Your Enthusiasm, her şeye sahip olan bir adamın başına gelen olayları konu ediyor. Larry David, bir insanın mutlu olabileceği her şeye sahip. Sevgi dolu bir eş, iyi arkadaşlar, başarılı bir kariyer ve harika bir ev. Peki onun hayatında yanlış giden ne olabilir ki?",
+        "poster_path": "/mZqWmSq1M61Jlre3furVDSXvdrN.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 103.7923,
+        "first_air_date": "2000-10-15",
+        "vote_average": 8.016,
+        "vote_count": 805,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uhVBmZBgjd9rjDU9JfjrJt3Tees.jpg",
+        "id": 10283,
+        "name": "Archer",
+        "original_name": "Archer",
+        "overview": "Uluslararası bir casus ajansı olan ISIS’te global sorunlar iyi eğitimli çalışanların birbirlerinin kafasını karıştırmak, birbirlerini ezmek ve ihanet etmek için kullandıkları fırsatlardır. Tüm bunların merkezinde ise usta casus Sterling Archer vardır. Archer baskın annesi ve aynı zamanda patronu Malory ile birlikte çalışmaktadır. Archer bir yandan da eski kız arkadaşı Ajan Lana Kane ve onun yeni erkek arkadaşı ISIS müfettişi Cyril Figgis ile uğraşmak zorundadır.",
+        "poster_path": "/vhnrkTGYPqcB63ALcSJm0WoaKHT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10759,
+          16
+        ],
+        "popularity": 40.8242,
+        "first_air_date": "2009-09-17",
+        "vote_average": 7.945,
+        "vote_count": 1291,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9RxvsJMGHduDQe3RUFrvhXidOaa.jpg",
+        "id": 3796,
+        "name": "Trailer Park Boys",
+        "original_name": "Trailer Park Boys",
+        "overview": "Nova Scotia'daki karavan parkında üçkağıtlar çeviren ve uzun süredir arkadaş olan üç seri adi suçlunun kafaları iyiyken yaşadığı talihsizlikleri takip edin.",
+        "poster_path": "/nIcIwVTYcZnW1BDzexGfFO7KmX1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 57.8436,
+        "first_air_date": "2001-04-22",
+        "vote_average": 7.724,
+        "vote_count": 274,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/2MaumbgBlW1NoPo3ZJO38A6v7OS.jpg",
+        "id": 66732,
+        "name": "Stranger Things",
+        "original_name": "Stranger Things",
+        "overview": "Ufak bir kasabada küçük bir çocuk kaybolunca, gizli deneyler, korkutucu doğaüstü güçler ve tuhaf bir küçük kızın da parçası olduğu bir gizem ortaya çıkar.",
+        "poster_path": "/hjVNQA2a12OxkpDEOQTBMbKVZ1K.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765,
+          9648
+        ],
+        "popularity": 62.6575,
+        "first_air_date": "2016-07-15",
+        "vote_average": 8.596,
+        "vote_count": 18275,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/OylSdzVezjwGLYM0w73mUPNHM4.jpg",
+        "id": 18347,
+        "name": "Community",
+        "original_name": "Community",
+        "overview": "Jeff Winger, hukuk diplomasının sahte olduğu ortaya çıkınca üniversiteye döner ve dışlanmış kişilerden oluşan bir çalışma grubu kurar.",
+        "poster_path": "/3KUjDt8XY7w2Ku70UE0SECmv1zP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 35.3863,
+        "first_air_date": "2009-09-17",
+        "vote_average": 7.995,
+        "vote_count": 1833,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/u058fdiTbwnAWB4GMIhOl2Xgvtg.jpg",
+        "id": 4303,
+        "name": "Superman: The Animated Series",
+        "original_name": "Superman: The Animated Series",
+        "overview": "Superman, an incredibly powerful alien from the planet Krypton, defends Metropolis from supercriminals. Superman hides his identity behind the glasses of Clark Kent; a mild-mannered reporter for the newspaper the Daily Planet. At the Daily Planet Superman works with fellow reporter Lois Lane and photographer Jimmy Olsen.",
+        "poster_path": "/p7FauEh0yeZtIPWnD3pBvG6j8sd.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          10765,
+          10762
+        ],
+        "popularity": 24.8377,
+        "first_air_date": "1996-09-06",
+        "vote_average": 7.601,
+        "vote_count": 332,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/aZRGh7ccNAdqQWhHypvlT9UuXjZ.jpg",
+        "id": 1063,
+        "name": "Samurai Champloo",
+        "original_name": "サムライチャンプルー",
+        "overview": "Break-dancing but fierce warrior Mugen has to deal with the cold-blooded and conceited Jin, a samurai who believes he is above all. These sworn enemies are brought together by Fuu for a special task.",
+        "poster_path": "/lYpHeSm7BcUxAbBx1ucuEH7oGAe.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          10759,
+          16,
+          35,
+          18
+        ],
+        "popularity": 7.7076,
+        "first_air_date": "2004-05-20",
+        "vote_average": 8.302,
+        "vote_count": 682,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/4mwCGK8ppHNU34fNkr80Hs7w3HU.jpg",
+        "id": 67116,
+        "name": "Cehennem Silahı",
+        "original_name": "Lethal Weapon",
+        "overview": "Fox kanalının yeni dizilerinden olan ve  Mel Gibson ve Danny Glover’in başrolünü paylaştığı popüler film “Cehennem Silahı” isimli filmden uyarlanacak olan dizi uyarlaması ve geliştirmesi Matt Miller tarafından yapılacak. Lethal Weapon dizisinin oyuncuları ise; Clayne Crawford (Rectify, Rogue, 24), Damon Wayans (The Underground, My Wife and Kids), Keesha Sharp (American Crime Story), Jordana Brewster (American Crime Story, Dallas), Kevin Rahm (Bates Motel, Mad Men, Desperate Housewives), Chandler Kinney ve Johnathan Fernandez.\n\nLethal Weapon dizisinin konusu ise; küçük bir kalp krizi geçiren Detektif Murtaugh’un hayatındaki tüm stresi kaldırmaya çalışmasını anlatacak. Ama bu yolda suçlular kadar ortağı Riggs de ona yardımcı olmayacaktır.",
+        "poster_path": "/oJkAusD2NDl7S7YXJC7aclcr1de.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          80,
+          18,
+          35
+        ],
+        "popularity": 20.3389,
+        "first_air_date": "2016-09-21",
+        "vote_average": 7.3,
+        "vote_count": 757,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ak8ahTjiYg5sLB8FqDH7XhdYC7l.jpg",
+        "id": 38922,
+        "name": "Boss",
+        "original_name": "Boss",
+        "overview": "Boss is an American political drama television serial created by Farhad Safinia. The series stars Kelsey Grammer as Tom Kane, the mayor of Chicago, who has recently been diagnosed with dementia with Lewy bodies, a degenerative neurological disorder.",
+        "poster_path": "/1alxC6GZwf0Q0g1XPvVt2j9JeWQ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10768,
+          80
+        ],
+        "popularity": 4.8288,
+        "first_air_date": "2011-10-21",
+        "vote_average": 7.2,
+        "vote_count": 123,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sWXkoW0PNahpZSYWIbzcxdeBsxJ.jpg",
+        "id": 65454,
+        "name": "Horace and Pete",
+        "original_name": "Horace and Pete",
+        "overview": "Brooklyn, Horace ve Pete'de bir dalış barının sahipleri, bar müdavimleri ile birlikte barda içki içerken veya çalışırken deneyimlerini ve yaşamlarını birbirleriyle paylaşırlar.",
+        "poster_path": "/vMLW6dhKcAzTweIuxl1iL0Ogbda.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 5.069,
+        "first_air_date": "2016-01-30",
+        "vote_average": 7.733,
+        "vote_count": 133,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

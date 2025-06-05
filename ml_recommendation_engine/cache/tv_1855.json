@@ -1,0 +1,1172 @@
+{
+  "adult": false,
+  "backdrop_path": "/7YFranrnnIcCrgsLYQsoq8aE3Ir.jpg",
+  "created_by": [
+    {
+      "id": 1213783,
+      "credit_id": "5257177419c295711409ca48",
+      "name": "Rick Berman",
+      "original_name": "Rick Berman",
+      "gender": 2,
+      "profile_path": "/mEznRUFYLmpD6jPPeZKLWkHtPdn.jpg"
+    },
+    {
+      "id": 1745,
+      "credit_id": "5257177419c295711409ca4e",
+      "name": "Gene Roddenberry",
+      "original_name": "Gene Roddenberry",
+      "gender": 2,
+      "profile_path": "/qY3gWqAMDrrvNVUrwZ8lSa4IKtS.jpg"
+    },
+    {
+      "id": 1219348,
+      "credit_id": "5257177419c295711409ca42",
+      "name": "Jeri Taylor",
+      "original_name": "Jeri Taylor",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 2514,
+      "credit_id": "5dbd6a069638640014e14d24",
+      "name": "Michael Piller",
+      "original_name": "Michael Piller",
+      "gender": 2,
+      "profile_path": "/9XTKhVuJbvUBdQnwOOlilRuYBhZ.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45,
+    60
+  ],
+  "first_air_date": "1995-01-16",
+  "genres": [
+    {
+      "id": 10765,
+      "name": "Bilim Kurgu & Fantazi"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 10759,
+      "name": "Aksiyon & Macera"
+    }
+  ],
+  "homepage": "https://www.startrek.com/shows/star-trek-voyager",
+  "id": 1855,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2001-05-23",
+  "last_episode_to_air": {
+    "id": 4466954,
+    "name": "25. Bölüm",
+    "overview": "",
+    "vote_average": 8.1,
+    "vote_count": 14,
+    "air_date": "2001-05-23",
+    "episode_number": 25,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 86,
+    "season_number": 7,
+    "show_id": 1855,
+    "still_path": "/yRtdEnOY9u49kgDCz4pvMlTPeot.jpg"
+  },
+  "name": "Star Trek: Voyager",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 40,
+      "logo_path": "/333LtWX9Z7H9uRrNcCl1JcTvdpR.png",
+      "name": "UPN",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 169,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Star Trek: Voyager",
+  "overview": "USS Voyager'ın, 70.000 ışık yılı uzaklıktaki Delta çeyreğinde kayboluşunun hikayesi. 70 yıllık bir eve dönüş yolculuğu ile karşı karşıya olan mürettebat, zorlukların üstesinden gelmek ve kendi aralarındaki çatışmaları yenmek zorundadır. |",
+  "popularity": 100.7965,
+  "poster_path": "/gNS5tRSG3UlXodCxznKKOKweqxh.jpg",
+  "production_companies": [
+    {
+      "id": 9223,
+      "logo_path": "/40qzTBM38vokoWhLKurficZ5syV.png",
+      "name": "Paramount Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1995-01-09",
+      "episode_count": 90,
+      "id": 5314,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/86HvbmgLzdRZQw9MrAkENwjBgXz.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1995-01-16",
+      "episode_count": 15,
+      "id": 5307,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/7XtNLDCcKQe6N11X1cyrJRYl4JE.jpg",
+      "season_number": 1,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "1995-08-28",
+      "episode_count": 26,
+      "id": 5308,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/lun9USO2YwAByRFxEzo2eygtfhx.jpg",
+      "season_number": 2,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "1996-09-04",
+      "episode_count": 26,
+      "id": 5309,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/aEWmLsXPQKKTzFkHZhuxrxYhfkH.jpg",
+      "season_number": 3,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "1997-09-03",
+      "episode_count": 26,
+      "id": 5310,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/4ALy9tEwhGoELY13qXKTkeTxVtH.jpg",
+      "season_number": 4,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "1998-10-14",
+      "episode_count": 25,
+      "id": 5311,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/lOcILt6umTmgbeDu9Xc3eV0F7u0.jpg",
+      "season_number": 5,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "1999-09-22",
+      "episode_count": 26,
+      "id": 5312,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/mjIzh9Nok3ZmEdAHPr8EcYlj8fF.jpg",
+      "season_number": 6,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2000-10-04",
+      "episode_count": 25,
+      "id": 342231,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/xqb0xsBbdx9WxXBN70pxd8qgxNT.jpg",
+      "season_number": 7,
+      "vote_average": 7.5
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.799,
+  "vote_count": 984,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35317,
+        "known_for_department": "Acting",
+        "name": "Kate Mulgrew",
+        "original_name": "Kate Mulgrew",
+        "popularity": 2.6488,
+        "profile_path": "/cikUr2PEluEamVsLgrnWWLx9ZsI.jpg",
+        "character": "Kathryn Janeway",
+        "credit_id": "5257177319c295711409c842",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50880,
+        "known_for_department": "Acting",
+        "name": "Robert Beltran",
+        "original_name": "Robert Beltran",
+        "popularity": 2.3713,
+        "profile_path": "/weqZyarkZ1A6Plf04Db9gLFKlFZ.jpg",
+        "character": "Chakotay",
+        "credit_id": "5257177319c295711409c870",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 34396,
+        "known_for_department": "Directing",
+        "name": "Roxann Dawson",
+        "original_name": "Roxann Dawson",
+        "popularity": 2.1449,
+        "profile_path": "/46TogVXwdXoDqOnbcMulTXHaFzx.jpg",
+        "character": "B'Elanna Torres",
+        "credit_id": "5257177419c295711409c89e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74065,
+        "known_for_department": "Directing",
+        "name": "Robert Duncan McNeill",
+        "original_name": "Robert Duncan McNeill",
+        "popularity": 1.577,
+        "profile_path": "/3z4QJjOvUp2eO3fIjKngPdtWGfQ.jpg",
+        "character": "Tom Paris",
+        "credit_id": "5257177419c295711409c8cc",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29445,
+        "known_for_department": "Acting",
+        "name": "Ethan Phillips",
+        "original_name": "Ethan Phillips",
+        "popularity": 2.2461,
+        "profile_path": "/npr6XzOaGJauOBV1ydaqmX6T5hl.jpg",
+        "character": "Neelix",
+        "credit_id": "5257177419c295711409c8fa",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16180,
+        "known_for_department": "Acting",
+        "name": "Robert Picardo",
+        "original_name": "Robert Picardo",
+        "popularity": 2.8143,
+        "profile_path": "/9TOY0mhWRMlU5Ur8QHMoDecWs2n.jpg",
+        "character": "The Doctor",
+        "credit_id": "5257177419c295711409c928",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55538,
+        "known_for_department": "Acting",
+        "name": "Tim Russ",
+        "original_name": "Tim Russ",
+        "popularity": 2.1988,
+        "profile_path": "/pwCVxvFbkUnBr46pPFJLabNMHww.jpg",
+        "character": "Tuvok",
+        "credit_id": "5257177419c295711409c956",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1213613,
+        "known_for_department": "Acting",
+        "name": "Jeri Ryan",
+        "original_name": "Jeri Ryan",
+        "popularity": 4.5955,
+        "profile_path": "/xZaw90cLeprJPsoJowKueY3ywz2.jpg",
+        "character": "Seven of Nine",
+        "credit_id": "5257177419c295711409c9e6",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74064,
+        "known_for_department": "Acting",
+        "name": "Garrett Wang",
+        "original_name": "Garrett Wang",
+        "popularity": 1.3208,
+        "profile_path": "/lpFe0QwwqpuqTdJkVDg1mu1hINw.jpg",
+        "character": "Harry Kim",
+        "credit_id": "5257177419c295711409c98a",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1220834,
+        "known_for_department": "Writing",
+        "name": "Michael Taylor",
+        "original_name": "Michael Taylor",
+        "popularity": 0.9697,
+        "profile_path": "/9osm40VgcRpJgnzXz4S0uLR4mws.jpg",
+        "credit_id": "67bf64aaab2d8b81ccc8bd0e",
+        "department": "Writing",
+        "job": "Executive Story Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1219348,
+        "known_for_department": "Writing",
+        "name": "Jeri Taylor",
+        "original_name": "Jeri Taylor",
+        "popularity": 1.2121,
+        "profile_path": null,
+        "credit_id": "624a19859ba86a004ee0750c",
+        "department": "Crew",
+        "job": "Creative Consultant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2514,
+        "known_for_department": "Writing",
+        "name": "Michael Piller",
+        "original_name": "Michael Piller",
+        "popularity": 1.3664,
+        "profile_path": "/9XTKhVuJbvUBdQnwOOlilRuYBhZ.jpg",
+        "credit_id": "624a196705822400aa0bb8d8",
+        "department": "Crew",
+        "job": "Creative Consultant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1760,
+        "known_for_department": "Sound",
+        "name": "Jerry Goldsmith",
+        "original_name": "Jerry Goldsmith",
+        "popularity": 2.2777,
+        "profile_path": "/uf7jSAculrBbEwdWWAPu6Rs9bXz.jpg",
+        "credit_id": "624a19e3ec0c58006306cbeb",
+        "department": "Sound",
+        "job": "Main Title Theme Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2397,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Robert Blackman",
+        "original_name": "Robert Blackman",
+        "popularity": 0.757,
+        "profile_path": null,
+        "credit_id": "624a18a4e8a3e10062c4a93a",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1213783,
+        "known_for_department": "Production",
+        "name": "Rick Berman",
+        "original_name": "Rick Berman",
+        "popularity": 1.6302,
+        "profile_path": "/mEznRUFYLmpD6jPPeZKLWkHtPdn.jpg",
+        "credit_id": "624a172ea9117f004f832188",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1213783,
+        "known_for_department": "Production",
+        "name": "Rick Berman",
+        "original_name": "Rick Berman",
+        "popularity": 1.6302,
+        "profile_path": "/mEznRUFYLmpD6jPPeZKLWkHtPdn.jpg",
+        "credit_id": "624a192730813100a572f1d4",
+        "department": "Crew",
+        "job": "Creator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2514,
+        "known_for_department": "Writing",
+        "name": "Michael Piller",
+        "original_name": "Michael Piller",
+        "popularity": 1.3664,
+        "profile_path": "/9XTKhVuJbvUBdQnwOOlilRuYBhZ.jpg",
+        "credit_id": "624a191c29733800a9e20a58",
+        "department": "Crew",
+        "job": "Creator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1219348,
+        "known_for_department": "Writing",
+        "name": "Jeri Taylor",
+        "original_name": "Jeri Taylor",
+        "popularity": 1.2121,
+        "profile_path": null,
+        "credit_id": "624a1912d9f4a6004f56db6d",
+        "department": "Crew",
+        "job": "Creator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2536085,
+        "known_for_department": "Art",
+        "name": "Richard D. James",
+        "original_name": "Richard D. James",
+        "popularity": 0.2416,
+        "profile_path": null,
+        "credit_id": "624a1873ec0c58004e8cbf16",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2400,
+        "known_for_department": "Production",
+        "name": "Ron Surma",
+        "original_name": "Ron Surma",
+        "popularity": 0.8584,
+        "profile_path": null,
+        "credit_id": "5d7605fd5294e7000ff4fd51",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143922,
+        "known_for_department": "Sound",
+        "name": "Jerry Trent",
+        "original_name": "Jerry Trent",
+        "popularity": 1.0964,
+        "profile_path": null,
+        "credit_id": "5d7607d012970c00129b67f4",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1299143,
+        "known_for_department": "Sound",
+        "name": "Bill Wistrom",
+        "original_name": "Bill Wistrom",
+        "popularity": 0.6141,
+        "profile_path": null,
+        "credit_id": "5d7607352ea6b90012c0dbfd",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2407190,
+        "known_for_department": "Art",
+        "name": "Alan Sims",
+        "original_name": "Alan Sims",
+        "popularity": 0.1731,
+        "profile_path": null,
+        "credit_id": "5d7606cf5294e70011f504c9",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2005397,
+        "known_for_department": "Lighting",
+        "name": "Robert Eyslee",
+        "original_name": "Robert Eyslee",
+        "popularity": 0.2909,
+        "profile_path": null,
+        "credit_id": "5d76081d2ea6b90010c0d851",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2399,
+        "known_for_department": "Production",
+        "name": "Junie Lowry-Johnson",
+        "original_name": "Junie Lowry-Johnson",
+        "popularity": 1.1582,
+        "profile_path": "/1WIEz9uYLpsv28tcvnH97OgcYoF.jpg",
+        "credit_id": "5d7605ec5294e7000ff4fd41",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1859963,
+        "known_for_department": "Art",
+        "name": "Adolfo Castanon",
+        "original_name": "Adolfo Castanon",
+        "popularity": 0.1681,
+        "profile_path": null,
+        "credit_id": "5d76068a12970c000f9b69e2",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1226247,
+        "known_for_department": "Writing",
+        "name": "Kenneth Biller",
+        "original_name": "Kenneth Biller",
+        "popularity": 0.7407,
+        "profile_path": null,
+        "credit_id": "5257177519c295711409cb12",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2386,
+        "known_for_department": "Production",
+        "name": "Brannon Braga",
+        "original_name": "Brannon Braga",
+        "popularity": 1.5292,
+        "profile_path": "/e2lvaxWUG5dcbl36BEi4po6M0YB.jpg",
+        "credit_id": "5257177519c295711409ca9e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1219417,
+        "known_for_department": "Production",
+        "name": "Wendy Neuss",
+        "original_name": "Wendy Neuss",
+        "popularity": 0.6382,
+        "profile_path": null,
+        "credit_id": "5257177519c295711409cbc2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1215421,
+        "known_for_department": "Production",
+        "name": "Merri D. Howard",
+        "original_name": "Merri D. Howard",
+        "popularity": 0.6014,
+        "profile_path": null,
+        "credit_id": "5257177519c295711409cb98",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "time warp",
+        "id": 1521
+      },
+      {
+        "name": "spacecraft",
+        "id": 1612
+      },
+      {
+        "name": "hologram",
+        "id": 3249
+      },
+      {
+        "name": "space travel",
+        "id": 3801
+      },
+      {
+        "name": "galaxy",
+        "id": 4270
+      },
+      {
+        "name": "space",
+        "id": 9882
+      },
+      {
+        "name": "alien",
+        "id": 9951
+      },
+      {
+        "name": "alien planet",
+        "id": 10158
+      },
+      {
+        "name": "mission",
+        "id": 10364
+      },
+      {
+        "name": "alien contact",
+        "id": 160515
+      },
+      {
+        "name": "space opera",
+        "id": 161176
+      },
+      {
+        "name": "speculative",
+        "id": 190531
+      },
+      {
+        "name": "trapped in space",
+        "id": 191586
+      },
+      {
+        "name": "meditative",
+        "id": 197056
+      },
+      {
+        "name": "distant  planet",
+        "id": 210591
+      },
+      {
+        "name": "philosophical",
+        "id": 212737
+      },
+      {
+        "name": "spaceship",
+        "id": 252937
+      },
+      {
+        "name": "introspective",
+        "id": 269808
+      },
+      {
+        "name": "serious",
+        "id": 276605
+      },
+      {
+        "name": "hilarious",
+        "id": 320420
+      },
+      {
+        "name": "adventure",
+        "id": 322942
+      },
+      {
+        "name": "bold",
+        "id": 325778
+      },
+      {
+        "name": "compassionate",
+        "id": 325786
+      },
+      {
+        "name": "complicated",
+        "id": 325787
+      },
+      {
+        "name": "empathetic",
+        "id": 325806
+      },
+      {
+        "name": "optimistic",
+        "id": 325840
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/gH5HQbMsSfPc0R41JYTefjB7klZ.jpg",
+        "id": 314,
+        "name": "Star Trek: Enterprise",
+        "original_name": "Star Trek: Enterprise",
+        "overview": "Orijinal Uzay Yolu'ndan yüzyıl önce geçen bu yeni hikayede, Kaptan Archer ve mürettebatı ilk Atılgan gemisiyle uzayı keşfediyor ve yeni türlerle tanışıyor.",
+        "poster_path": "/tsbBTABtNgu0ycsFpnIhiQ5woOM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 62.1192,
+        "first_air_date": "2001-09-26",
+        "vote_average": 7.565,
+        "vote_count": 841,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vEGkRAhz2rTYK9kGOjcTRqRD13o.jpg",
+        "id": 580,
+        "name": "Star Trek: Deep Space Nine",
+        "original_name": "Star Trek: Deep Space Nine",
+        "overview": "At Deep Space Nine, a space station located next to a wormhole in the vicinity of the liberated planet of Bajor, Commander Sisko and crew welcome alien visitors, root out evildoers and solve all types of unexpected problems that come their way.",
+        "poster_path": "/vE6138ykaEXQkCSEHyuBIgfGlUZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 121.1683,
+        "first_air_date": "1993-01-03",
+        "vote_average": 7.9,
+        "vote_count": 844,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5uxpTGMvH0taHAkMYxOQHYJcsws.jpg",
+        "id": 655,
+        "name": "Uzay Yolu: Yeni Nesil",
+        "original_name": "Star Trek: The Next Generation",
+        "overview": "Uzay Yolu: Yeni Nesil yaklaşık olarak asıl diziden bir yüzyıl sonra geçmekte, gene Atılgan adında fakat daha yeni ve gelişmiş yeni bir yıldız gemisi içermekte ve Kaptan Jean Luc Picard'ın emri altındaki yeni bir mürettabatın maceralarını anlatmaktadır. İnsanların galakside diğer bilinçli canlılarla birleşerek Birleşik Gezegenler Federasyonu'nu kurdukları, kurgusal bir 3. Dünya Savaşı sonrası bir geleceği tasvir eder. Evrende yalnız olmadıklarını anlayınca insanlık kendilerine özgü birçok zayıflık ve kötü alışkanlıklarını geride bırakır. Kahramanlar genelde fedakardır ama zaman zaman sonuç almak için başka yollara baş vurabilirler.",
+        "poster_path": "/vkLzXddgUKH5VcpnYiRzpJFrZhz.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18,
+          9648
+        ],
+        "popularity": 121.9856,
+        "first_air_date": "1987-09-28",
+        "vote_average": 8.4,
+        "vote_count": 1569,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ywK4VrR7vL56mDGXDLMtFypwqA8.jpg",
+        "id": 253,
+        "name": "Star Trek",
+        "original_name": "Star Trek",
+        "overview": "Star Trek: The Original Series ilk kez ABD'de 8 Eylül 1966 Cuma günü NBC televizyonunda yayınlandı. Dizi William Shatner tarafından oynanan Kaptan Kirk'ün kumandasındaki Atılgan Yıldız Gemisi'nin mürettabatını ve onların \"daha önce hiç kimsenin gitmediği yerlere cesurca gitmek\" olan 5 yıllık görevi'nin hikâyelerini anlatmaktadır. Sadece 3 sezon sonunda dizi yayından kaldırıldı ve son bölüm 3 Haziran 1969'da gösterildi. Tekrarların gösterimini takriben bir kültürel fenomen haline geldi. İlk başta sadece Uzay Yolu olarak bilinmesine rağmen daha sonraki yıllarda Star Trek: Original Series ya da Klasik Trek (Classic Trek) olarak anıldı.",
+        "poster_path": "/zgK03lfPjkAsuh8LnNsofWgB7WM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 43.6383,
+        "first_air_date": "1966-09-08",
+        "vote_average": 8.011,
+        "vote_count": 1332,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/twOty8QayfsRgHsRgdUFMzgAwdp.jpg",
+        "id": 3137,
+        "name": "Babylon 5: Başlangıç",
+        "original_name": "Babylon 5",
+        "overview": "İnsanoğlunun Üçüncü Çağı'nın başlangıcıydı. Dünya-Minbari Savaşı'ndan 10 yıl sonra. Babylon Projesi, gerçeğe dönüştürülmüş bir rüya idi. Amacı: İnsanların ve uzaylıların birlikte geçinebilecekleri bir yer yaratarak yeni bir savaşı önlemek. Diplomatlar, dolandırıcılar, girişimciler ve maceracılar için evden çok uzakta bir uğrak limanı. 2,5 milyon ton dönen metal içine sarılmış insanlar ve uzaylılar, gecenin içinde yapayalnız. Tehlikeli bir yer olabilir. Ama barış için son ve en iyi umudumuz. Bu, son Babylon istasyonunun öyküsüdür. Bu yerin adı: Babylon 5...",
+        "poster_path": "/fIu4IKZMyhJA35QiCFhViYo4sml.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765,
+          10759
+        ],
+        "popularity": 44.1903,
+        "first_air_date": "1994-01-26",
+        "vote_average": 8.034,
+        "vote_count": 537,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/bSlYHSM9m2OuzPX73xU2KWWY1yk.jpg",
+        "id": 67198,
+        "name": "Star Trek: Discovery",
+        "original_name": "Star Trek: Discovery",
+        "overview": "Günümüzün daha modern sürümü olan dizi, Uzay Yolu dizisinin olaylarından 10 yıl öncesini konu edinir. Uzun metrajlı filmlerin zaman çizelgesinden ayrı olarak yeni dünyalar ve medeniyetler keşfeden USS Discovery mürettebatını izler. Discovery, Star Trek tarihinde daha önce bahsedilen ancak keşfedilmemiş bir olayın etrafında dönüyor.",
+        "poster_path": "/xwpOHgym48Ftz7fbJq5te5xoiwu.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 61.4653,
+        "first_air_date": "2017-09-24",
+        "vote_average": 7.059,
+        "vote_count": 1849,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/kG7GwGBHpCI6lA6SaEydKHHOxkU.jpg",
+        "id": 85948,
+        "name": "Star Trek: Lower Decks",
+        "original_name": "Star Trek: Lower Decks",
+        "overview": "2380'de Yıldız Filosu'nun en önemsiz gemilerinden biri olan U.S.S. Cerritos'de görev yapan destek ekibinin hayatları.  Teğmenler Mariner, Boimler, Rutherford ve Tendi, genellikle gemi çok sayıda bilim kurgu anormalliği tarafından sallanırken görevlerine ve sosyal yaşamlarına ayak uydurmak zorundadır.",
+        "poster_path": "/i7Em3r7KCyNfkOwMkyqN8UMvK8S.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          16,
+          35
+        ],
+        "popularity": 45.0081,
+        "first_air_date": "2020-08-06",
+        "vote_average": 7.631,
+        "vote_count": 369,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/fhmpYAxnF17CRWRcAWSeDRPWJi5.jpg",
+        "id": 15819,
+        "name": "Warehouse 13",
+        "original_name": "Warehouse 13",
+        "overview": "Warehouse 13, SyFy televizyonunda 2009 yılında yayınlanmaya başlanmış bir bilimkurgu, drama dizisidir.\n\nWarehouse 13 dizisi, iki gizli servis ajanının Amerika Birleşik Devletleri Başkanı'nı terörist bir saldırıdan kurtardıktan sonra Warehouse 13 (Depo 13) adlı gizli bir departmana transfer edilmeleriyle başlıyor. Güney Dakota'nın ıssız ve gizli bir bölgesinde bulunan bu depoda, devlet tarafından ele geçirilen bir takım garip ve gizemli nesneler incelenmektedir. Bu iki ajanın görevide devlet tarafından istenen bu esrarengiz nesneleri depoya getirmek ve gizemini çözmektir.\n\nAjanlardan Pete, kural tanımaz ve meraklı bir yapıya sahipken ortağı Myka, Pete'in tam aksine kuralcı ve dikkatlidir. Bu iki zıt karakter, bir şekilde birbirlerini tamamlayarak görevlerini sürdürüyorlar.",
+        "poster_path": "/vK6KMBDUzZdwQcxPkfPO1iUSN0r.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          35,
+          10759,
+          18
+        ],
+        "popularity": 16.7783,
+        "first_air_date": "2009-07-07",
+        "vote_average": 7.661,
+        "vote_count": 691,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/b8fW3cOXCHKWNQw2g37A45RpICk.jpg",
+        "id": 918,
+        "name": "M*A*S*H",
+        "original_name": "M*A*S*H",
+        "overview": "The 4077th Mobile Army Surgical Hospital is stuck in the middle of the Korean war. With little help from the circumstances they find themselves in, they are forced to make their own fun. Fond of practical jokes and revenge, the doctors, nurses, administrators, and soldiers often find ways of making wartime life bearable.",
+        "poster_path": "/6rhuM3oMoEWKxAdrm7IyM8oq8cC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10768,
+          18,
+          35
+        ],
+        "popularity": 98.4946,
+        "first_air_date": "1972-09-17",
+        "vote_average": 7.915,
+        "vote_count": 680,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sA75aetDQryaJej3I8Vw44E3dxG.jpg",
+        "id": 59312,
+        "name": "The Bletchley Circle",
+        "original_name": "The Bletchley Circle",
+        "overview": "The Bletchley Circle follows the journey of four ordinary women with extraordinary skills that helped to end World War II. Set in 1952, Susan, Millie, Lucy and Jean have returned to their normal lives, modestly setting aside the part they played in producing crucial intelligence, which helped the Allies to victory and shortened the war. When Susan discovers a hidden code behind an unsolved murder she is met by skepticism from the police. She quickly realises she can only begin to crack the murders and bring the culprit to justice with her former friends. The Bletchley Circle paints a vivid portrait of post-war Britain in this fictional tale of unsung heroes.",
+        "poster_path": "/xwHNf6rxtMxYdDd3g0yJ2ft33b0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          80
+        ],
+        "popularity": 3.272,
+        "first_air_date": "2012-09-06",
+        "vote_average": 7.545,
+        "vote_count": 133,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/AkhbsjGma7KnwN8Z63yqGMrunv6.jpg",
+        "id": 63180,
+        "name": "TVF Pitchers",
+        "original_name": "TVF Pitchers",
+        "overview": "A story of trials and tribulations of four young entrepreneurs who quit their day jobs in order to pursue their start up venture.",
+        "poster_path": "/w0A288hXCytNIi9Kh7VkKE8MQ1W.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "hi",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 2.0302,
+        "first_air_date": "2015-06-10",
+        "vote_average": 7.6,
+        "vote_count": 90,
+        "origin_country": [
+          "IN"
+        ]
+      },
+      {
+        "backdrop_path": "/1RxLviMSjFWQ6QQk2sK2ybwcjpq.jpg",
+        "id": 5905,
+        "name": "Truvalı Helen",
+        "original_name": "Helen of Troy",
+        "overview": "Tüm zamanların en destansı maceralarından biri olan Truvalı Helen, izleyeceğiniz bu klasik hikaye ile güçlenerek bir kez daha hayat buluyor. Homeros'dan esinlenilen ve tamamı egzotik yerlerde çekilen, uluslarası tanınan oyuncuların yer aldığı, son teknoloji ürünü efektlerin kullanıldığı film, dünyanın en güzel kadınının aşkını kazanmak uğruna yapılan efsanevi savaşı anlatıyor",
+        "poster_path": "/jhs5B2aD00TmvWkUkd9ImcYwurw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759
+        ],
+        "popularity": 3.3772,
+        "first_air_date": "2003-04-20",
+        "vote_average": 6.243,
+        "vote_count": 76,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/tEm6hydl6wJ13gfrasriMug96SS.jpg",
+        "id": 4266,
+        "name": "Party of Five",
+        "original_name": "Party of Five",
+        "overview": "Five brothers and sisters are determined to stay together following the tragic loss of their parents.",
+        "poster_path": "/5LZgFeMynMeeKX8Bn9s1RWe9n9S.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 41.6631,
+        "first_air_date": "1994-09-12",
+        "vote_average": 7.03,
+        "vote_count": 117,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/3q4C0QTGU6NoqcW5SV64a21Nn2o.jpg",
+        "id": 15571,
+        "name": "Holocaust",
+        "original_name": "Holocaust",
+        "overview": "Berlin, Germany, 1935. The day Karl Weiss, a Jewish painter, and Inga Helms, a Christian woman, marry, is the one in which both of them and the entire Weiss family are caught up in the maelstrom of the Nazi regime, the storms of World War II and the horrors of the criminal Final Solution, the Holocaust, the Shoah; while Erik Dorf, an ambitious lawyer, undertakes his fall into hell at the hands of the sinister Reinhard Heydrich.",
+        "poster_path": "/gK1gnzIOwZWuTqp4HGEPmjTMijg.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10768
+        ],
+        "popularity": 3.9088,
+        "first_air_date": "1978-04-16",
+        "vote_average": 7.4,
+        "vote_count": 66,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/fF8RGyPBBgeeLvXi5O7JXhTosAW.jpg",
+        "id": 94587,
+        "name": "Merry Happy Whatever",
+        "original_name": "Merry Happy Whatever",
+        "overview": "A strong-willed dad navigates the stress of the holiday season when his daughter brings her new boyfriend home for Christmas.",
+        "poster_path": "/u13IRqOMXLZ4G7xrwosgUV8KJAj.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 2.2577,
+        "first_air_date": "2019-11-28",
+        "vote_average": 6.416,
+        "vote_count": 89,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/tKtxE1KzqKDg3HIXNnlr7VpuWzd.jpg",
+        "id": 4086,
+        "name": "Diners, Drive-Ins and Dives",
+        "original_name": "Diners, Drive-Ins and Dives",
+        "overview": "Host Guy Fieri takes a cross-country road trip to visit some of America's classic \"greasy spoon\" restaurants — diners, drive-ins and dives — that have been doing it right for decades.",
+        "poster_path": "/zeTYGOpVDI68gw47A5EmNhGDP7c.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          10764
+        ],
+        "popularity": 303.5835,
+        "first_air_date": "2007-04-23",
+        "vote_average": 6.7,
+        "vote_count": 63,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/rvHD7yqgkO2FXzM7IsQ1t54e6h5.jpg",
+        "id": 30688,
+        "name": "Master Eder and his Pumuckl",
+        "original_name": "Meister Eder und sein Pumuckl",
+        "overview": "Pumuckl is a Kobold from a German radio play series for children. He is a descendant of the Klabautermänner. He is invisible to people around him except for the master carpenter Eder with whom Pumuckl lives.\n\nPumuckl was invented by Ellis Kaut for a radio play series of the Bavarian Radio in 1961. Later on it was turned into a very successful TV series. Three movies and a musical also deal with the adventures of the little kobold.\n\nPumuckl is one of the most popular characters in children's entertainment in Germany and several generations have now grown up with the cheeky but funny little Kobold.",
+        "poster_path": "/utrSWOMSeKuwdI0B3YA2wpsUp4B.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          10762,
+          10751,
+          16,
+          35
+        ],
+        "popularity": 17.6096,
+        "first_air_date": "1982-09-24",
+        "vote_average": 7.3,
+        "vote_count": 35,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "backdrop_path": "/5LMGwo1ZBMqaMHYuYLrq2m3ipqy.jpg",
+        "id": 228079,
+        "name": "The Marlow Murder Club",
+        "original_name": "The Marlow Murder Club",
+        "overview": "Retired archaeologist Judith Potts lives alone in a faded mansion in the peaceful town of Marlow, filling her time by setting crosswords for the local paper. During one of her regular wild swims in the Thames, Judith hears a gunshot coming from a neighbour's garden and believes a brutal murder has taken place.",
+        "poster_path": "/1ViwT4iIsQpxvrVgIoAidOp5J33.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          18
+        ],
+        "popularity": 7.5818,
+        "first_air_date": "2024-03-06",
+        "vote_average": 6.9,
+        "vote_count": 18,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/7urszXOp3Bkt4hMrj9W0wiXuBAb.jpg",
+        "id": 35690,
+        "name": "Fais pas ci, fais pas ça",
+        "original_name": "Fais pas ci, fais pas ça",
+        "overview": "The daily life of two neighboring families, the Bouley and the Lepic, with literally opposite educational methods. Despite their social and cultural differences, they are friends and do not hesitate to face worries...",
+        "poster_path": "/kbhDlWULVibcsiNLYDBVXnpINfW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 15.9465,
+        "first_air_date": "2007-09-08",
+        "vote_average": 7.5,
+        "vote_count": 26,
+        "origin_country": [
+          "FR"
+        ]
+      },
+      {
+        "backdrop_path": "/d9OoIg7Ekz8Uwab9ByEAsiuI7DH.jpg",
+        "id": 12784,
+        "name": "Outnumbered",
+        "original_name": "Outnumbered",
+        "overview": "Partly-improvised sitcom looking at the trials and tribulations of bringing up three young children - a regal five-year-old girl with a talent for interrogation, a seven-year-old boy who could fib for Britain and an 11-year-old who is gearing up for his scary first day at secondary school.",
+        "poster_path": "/h8uJc3UALqeAEXzckKykoke0VoU.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 4.3051,
+        "first_air_date": "2007-08-28",
+        "vote_average": 7.8,
+        "vote_count": 68,
+        "origin_country": [
+          "GB"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

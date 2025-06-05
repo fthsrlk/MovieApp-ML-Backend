@@ -1,0 +1,797 @@
+{
+  "adult": false,
+  "backdrop_path": "/3jMCaxKK4r5A5gu196dCCrk5d6X.jpg",
+  "created_by": [
+    {
+      "id": 14,
+      "credit_id": "5253878e19c295794021ec96",
+      "name": "Ellen DeGeneres",
+      "original_name": "Ellen DeGeneres",
+      "gender": 1,
+      "profile_path": "/z8IEEid4z63CBlJtxrTKEfsW7NA.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2003-09-08",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Komedi"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://www.ellen.warnerbros.com/",
+  "id": 562,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2022-05-26",
+  "last_episode_to_air": {
+    "id": 4245513,
+    "name": "176. Bölüm",
+    "overview": "",
+    "vote_average": 8.0,
+    "vote_count": 1,
+    "air_date": "2022-05-26",
+    "episode_number": 176,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 19,
+    "show_id": 562,
+    "still_path": null
+  },
+  "name": "The Ellen DeGeneres Show",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 184,
+      "logo_path": null,
+      "name": "Syndication",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 2077,
+  "number_of_seasons": 19,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Ellen DeGeneres Show",
+  "overview": "",
+  "popularity": 125.6035,
+  "poster_path": "/PhUYIGUUk1RzWq2Aw3TqH65McE.jpg",
+  "production_companies": [
+    {
+      "id": 43632,
+      "logo_path": "/f75STKHmzvi7bYmWSVFF0HVi67F.png",
+      "name": "A Very Good Production",
+      "origin_country": "US"
+    },
+    {
+      "id": 28674,
+      "logo_path": "/9mAzySYj0j2D3vXbYPatqmvXykw.png",
+      "name": "Telepictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1957,
+      "logo_path": "/qIxtba5CbnJfHCA88czLfTNKW9M.png",
+      "name": "Warner Bros. Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2003-09-08",
+      "episode_count": 76,
+      "id": 1721,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/254PUbBYbXx19up3UQuyR43kkQq.jpg",
+      "season_number": 1,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2004-09-06",
+      "episode_count": 180,
+      "id": 1718,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/76n3aGOcnT4FHeLbexWPlOmSxvx.jpg",
+      "season_number": 2,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2005-09-05",
+      "episode_count": 170,
+      "id": 1722,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/7oUBMvuHQ8S10R6C4sDa673OZmc.jpg",
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2006-09-04",
+      "episode_count": 124,
+      "id": 1719,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/yNOKAxNV7fiIlzWzbZyBeiOLjuh.jpg",
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2007-09-04",
+      "episode_count": 83,
+      "id": 1720,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/egiNoJnGiiep7U8RUqruGTG2OYt.jpg",
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2008-09-08",
+      "episode_count": 86,
+      "id": 1723,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/e3qpwZr4eTqq6V38gtKE1rvruBN.jpg",
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2009-09-06",
+      "episode_count": 139,
+      "id": 1726,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/d5sBRYfZmkTZ6chTQ4Q8BlDI9SI.jpg",
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2010-09-13",
+      "episode_count": 171,
+      "id": 1724,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/jqTZBBjDKQPntuFVfOz3amddj0T.jpg",
+      "season_number": 8,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-09-12",
+      "episode_count": 171,
+      "id": 1725,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/kuLnfAFhrjtIY3eOonyVFDZaj2O.jpg",
+      "season_number": 9,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2012-09-10",
+      "episode_count": 189,
+      "id": 1727,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/zrEdn55a6GfN21E0E9n9GZKZ39e.jpg",
+      "season_number": 10,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2013-09-09",
+      "episode_count": 175,
+      "id": 1730,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/9Zfeli3IYcQQEfWsSeYpWozKmaP.jpg",
+      "season_number": 11,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2014-09-08",
+      "episode_count": 6,
+      "id": 140206,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/7cIxIDdeL64uEk5dji6EY8Ku4lw.jpg",
+      "season_number": 12,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2015-09-08",
+      "episode_count": 101,
+      "id": 70423,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": "/hahL12KFL5ltuSAFA39QlbiPEN1.jpg",
+      "season_number": 13,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2016-09-01",
+      "episode_count": 42,
+      "id": 79951,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": "/y4RHO9tgJZskh5NioHRaTK7ihwM.jpg",
+      "season_number": 14,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2017-09-05",
+      "episode_count": 22,
+      "id": 103725,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": "/yXU9fZYbxsfsGlYEMOETqXbno0m.jpg",
+      "season_number": 15,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2018-09-04",
+      "episode_count": 7,
+      "id": 140636,
+      "name": "Sezon 16",
+      "overview": "",
+      "poster_path": "/qtCVMEbXhhlPHKiknXIZ8zP6SKK.jpg",
+      "season_number": 16,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2019-09-09",
+      "episode_count": 36,
+      "id": 132415,
+      "name": "Sezon 17",
+      "overview": "",
+      "poster_path": "/vyLJBrWf4UAh55MsDWVFN40u3Lu.jpg",
+      "season_number": 17,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2020-09-21",
+      "episode_count": 174,
+      "id": 164238,
+      "name": "Sezon 18",
+      "overview": "",
+      "poster_path": "/rDz0t9DK88X4lhuPr88tNFd7rG2.jpg",
+      "season_number": 18,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2021-09-13",
+      "episode_count": 126,
+      "id": 210803,
+      "name": "Sezon 19",
+      "overview": "",
+      "poster_path": "/lf43nsECPFdBD2QEfEqKI32pc8i.jpg",
+      "season_number": 19,
+      "vote_average": 8.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 5.714,
+  "vote_count": 159,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 14,
+        "known_for_department": "Acting",
+        "name": "Ellen DeGeneres",
+        "original_name": "Ellen DeGeneres",
+        "popularity": 2.3601,
+        "profile_path": "/z8IEEid4z63CBlJtxrTKEfsW7NA.jpg",
+        "character": "Self - Host",
+        "credit_id": "5253878c19c295794021ebf0",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110743,
+        "known_for_department": "Acting",
+        "name": "Stephen 'tWitch' Boss",
+        "original_name": "Stephen 'tWitch' Boss",
+        "popularity": 1.3503,
+        "profile_path": "/2DjfxXDVK9ccXfZbvH0QNhXTQka.jpg",
+        "character": "Self - DJ / Host",
+        "credit_id": "66087f158a0e9b01304c0efa",
+        "order": 1
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "talk show",
+        "id": 3741
+      },
+      {
+        "name": "comforting",
+        "id": 325784
+      },
+      {
+        "name": "joyful",
+        "id": 325832
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/hTABXaEK1VyZRwqwWJlrh2ulD7X.jpg",
+        "id": 76048,
+        "name": "Ellen's Game of Games",
+        "original_name": "Ellen's Game of Games",
+        "overview": "An hour of supersized versions of the most popular and hilariously fun games from The Ellen DeGeneres Show. Contestants, pulled right from the audience, will have to maneuver massive obstacles, answer questions under immense pressure and face a gigantic plunge into the unknown.",
+        "poster_path": "/hlO6hYXPZgdvDZPWwCC2q64D6PD.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764,
+          35,
+          10751
+        ],
+        "popularity": 9.2104,
+        "first_air_date": "2017-12-18",
+        "vote_average": 7.1,
+        "vote_count": 16,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/b7bdBCRw4siIhqEVKqbtOb3VlTS.jpg",
+        "id": 16730,
+        "name": "American Music Awards",
+        "original_name": "American Music Awards",
+        "overview": "An annual American music awards show. Unlike the Grammys, which are awarded on the basis of votes by members of the Recording Academy, the AMAs are determined by a poll of the public and music buyers.",
+        "poster_path": "/lMfGSoq6otbyu7orszqAH4s9TQU.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 29.4312,
+        "first_air_date": "1974-02-19",
+        "vote_average": 8.2,
+        "vote_count": 12,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uganUhifpqzzAunI0PETnutlmR.jpg",
+        "id": 8621,
+        "name": "Late Night with Jimmy Fallon",
+        "original_name": "Late Night with Jimmy Fallon",
+        "overview": "Late Night with Jimmy Fallon is an American late-night talk show airing weeknights at 12:35 am Eastern/11:35 pm Central on NBC in the United States. The hour-long show premiered on March 2, 2009, and is hosted by actor, comedian and performer Jimmy Fallon, an alumnus of Saturday Night Live. Hip hop/neo soul band The Roots serve as the show's house band, and Steve Higgins is the show's announcer.\n\nThe third incarnation of the Late Night franchise originated by David Letterman, the program originates from NBC Studio 6B in the GE Building at 30 Rockefeller Center in New York City. The show typically opens with a brief monologue from Fallon, followed by a comedy \"desk piece,\" as well as prerecorded segments and audience competitions. The next segment is devoted to a celebrity interview, with guests ranging from actors and musicians to media personalities and political figures. The show then closes with either a musical or comedy performance. The show frequently employs digital media into its comedy, which has become crucial to its success. Fallon has been appointed to become the next host of The Tonight Show, where he will succeed the current host Jay Leno at the conclusion of the 2014 Winter Olympics, with fellow SNL alum Seth Meyers slated to replace Fallon.",
+        "poster_path": "/l8WzbOr7vg3WDlB3hoy32wZDxwj.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 67.3717,
+        "first_air_date": "2009-03-02",
+        "vote_average": 5.979,
+        "vote_count": 94,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2JnYs1mNl63cfwPPqlnwZwsF74r.jpg",
+        "id": 10184,
+        "name": "Snapped",
+        "original_name": "Snapped",
+        "overview": "The fascinating cases of every day, seemingly average moms, wives and girlfriends accused of murder. Did they really do it? And if so, why?",
+        "poster_path": "/46YGiC5kJhX6ArAwOR8ONwCTgck.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          99
+        ],
+        "popularity": 31.3794,
+        "first_air_date": "2004-08-06",
+        "vote_average": 7.8,
+        "vote_count": 35,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ynNboPI2oG6zlJjpgw3HRxLcvfC.jpg",
+        "id": 4652,
+        "name": "Dr. Phil",
+        "original_name": "Dr. Phil",
+        "overview": "Using the power of television, Dr. Phil McGraw presents compelling stories about real people with a variety of emotional and behavioral problems, stripping away the shame and embarrassment that too often keep people from seeking help. Its a show that is suppose to help people with their problems and to find a solution on live TV .",
+        "poster_path": "/9cCiE13USeQsYhtny0Dz98I1VAQ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 5.1495,
+        "first_air_date": "2002-09-16",
+        "vote_average": 4.71,
+        "vote_count": 62,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wPNBOUMxSWKysHxQW4Q1hC99L4k.jpg",
+        "id": 66488,
+        "name": "Chelsea",
+        "original_name": "Chelsea",
+        "overview": "It's not her first talk show, but it is a first of its kind. Ideas, people and places that fascinate her, all in her unique style.",
+        "poster_path": "/lDbyyKRDk5FmDY98eCc97gUEZod.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767,
+          35
+        ],
+        "popularity": 14.4104,
+        "first_air_date": "2016-05-11",
+        "vote_average": 5.2,
+        "vote_count": 71,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/6wX6105dCfRqTrwvoQgA8bGxUCo.jpg",
+        "id": 1220,
+        "name": "The Graham Norton Show",
+        "original_name": "The Graham Norton Show",
+        "overview": "Each week celebrity guests join Irish comedian Graham Norton to discuss what's being going on around the world that week. The guests poke fun and share their opinions on the main news stories. Graham is often joined by a band or artist to play the show out.",
+        "poster_path": "/vrbqaBXB8AALynQzpWz6JdCPEJS.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 125.4237,
+        "first_air_date": "2007-02-22",
+        "vote_average": 7.176,
+        "vote_count": 262,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/uXhIpe03EaFffpRa7IoPPSnFptS.jpg",
+        "id": 1489,
+        "name": "Jimmy Kimmel Live!",
+        "original_name": "Jimmy Kimmel Live!",
+        "overview": "Jimmy Kimmel Live! is an American late-night talk show, created and hosted by Jimmy Kimmel and broadcast on ABC.",
+        "poster_path": "/bGB6bEbG4qL22C1SFupkdAxYC9i.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767,
+          35
+        ],
+        "popularity": 151.0523,
+        "first_air_date": "2003-01-26",
+        "vote_average": 5.5,
+        "vote_count": 166,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sEkUddzvrgRd70o28aRiZdwdq2p.jpg",
+        "id": 4464,
+        "name": "Homicide: Life on the Street",
+        "original_name": "Homicide: Life on the Street",
+        "overview": "An American police procedural chronicling the work of a fictional version of the Baltimore Police Department's Homicide Unit.",
+        "poster_path": "/nb5310xlFjx5r9TnpKoaOTQsAlP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          18,
+          80
+        ],
+        "popularity": 60.6351,
+        "first_air_date": "1993-01-31",
+        "vote_average": 8.1,
+        "vote_count": 131,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/n9JOYF83rMMeYdGWeqcm8bVF8XA.jpg",
+        "id": 42878,
+        "name": "Anger Management",
+        "original_name": "Anger Management",
+        "overview": "Charlie is a non-traditional therapist specializing in anger management. He has a successful private practice and he performs pro bono counseling for an inmate group at a state prison. Prior to his career as a therapist, he was a major league baseball player whose career was put on the shelf for good by his own struggle with anger issues.",
+        "poster_path": "/vfWOzdgf9eB7IjZ9VqgXiWbxJ65.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 37.4026,
+        "first_air_date": "2012-06-28",
+        "vote_average": 6.193,
+        "vote_count": 236,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2Ib8kvWa9gGhJrAfGlhIvbmtbWn.jpg",
+        "id": 32415,
+        "name": "Conan",
+        "original_name": "Conan",
+        "overview": "A late night television talk show hosted by  Conan O'Brien.",
+        "poster_path": "/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767,
+          35,
+          10763
+        ],
+        "popularity": 162.6432,
+        "first_air_date": "2010-11-08",
+        "vote_average": 7.056,
+        "vote_count": 233,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/onwny8s0VTTN7te9TJnItgvyWHy.jpg",
+        "id": 3902,
+        "name": "Shaun the Sheep",
+        "original_name": "Shaun the Sheep",
+        "overview": "Shaun the Sheep thinks and acts like a person in a barnyard, which usually gets him into trouble. The farmer's sheepdog, Bitzer, tries to keep Shaun and his friends out of trouble. The farmer is oblivious to the humanlike features of his flock, who are like one big, happy family.",
+        "poster_path": "/z2gPfTQd3I0JLWOAEdKYMQRLoun.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10762
+        ],
+        "popularity": 39.8578,
+        "first_air_date": "2007-03-05",
+        "vote_average": 7.68,
+        "vote_count": 244,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/5evkOLJ3HlYrwpy6Q5DlubiHzCJ.jpg",
+        "id": 58937,
+        "name": "Sex Uzmanları",
+        "original_name": "Masters of Sex",
+        "overview": "Dizi, insan cinselliğinin öncülerinden Masters ve Johnson'ın sıra dışı yaşamlarına, çalışmalarına ve araştırmalarının ateşlediği devrime ışık tutuyor.",
+        "poster_path": "/bC42ksckQpjfck2BZ5McaEDN4pk.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 19.1646,
+        "first_air_date": "2013-09-29",
+        "vote_average": 7.066,
+        "vote_count": 379,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/bIerlT4nsDmjzOAe8k1zfIIWouW.jpg",
+        "id": 97861,
+        "name": "Dünya'da Gece",
+        "original_name": "Night on Earth",
+        "overview": "Bu doğa dizisinin kullandığı yeni teknoloji, avlanan aslanlardan uçan yarasalara varan farklı canlıların gizli yaşamını ortaya çıkarmak için gecenin perdesini aralıyor. (7 yaş ve üzeri için uygundur)",
+        "poster_path": "/yy2KxXHS3yEp9AP1T7LYjZEITsb.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 3.0109,
+        "first_air_date": "2020-01-29",
+        "vote_average": 7.3,
+        "vote_count": 213,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/6jGVOu5NvnmSKh28ByWAJrTOEH2.jpg",
+        "id": 59941,
+        "name": "The Tonight Show Starring Jimmy Fallon",
+        "original_name": "The Tonight Show Starring Jimmy Fallon",
+        "overview": "Emmy ve Grammy ödüllü Jimmy Fallon, yüksek enerjisi ve esprileriyle bir televizyon efsanesi olan \"The Tonight Show\"a damgasını vuruyor. Oyuncudan müzisyene, komedyenden politikacıya çok sayıda renkli ismin katıldığı şovda ünlülerle yapılan skeçler ve müzikal parodiler de eğlencenin dozunu artırıyor.",
+        "poster_path": "/g4amxJvtpnY79J77xeamnAEUO8r.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 332.7949,
+        "first_air_date": "2014-02-17",
+        "vote_average": 5.8,
+        "vote_count": 336,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/o6ixncGLOtRPz78vEIy9p1cOn9J.jpg",
+        "id": 688,
+        "name": "The West Wing",
+        "original_name": "The West Wing",
+        "overview": "The West Wing provides a glimpse into presidential politics in the nation's capital as it tells the stories of the members of a fictional presidential administration. These interesting characters have humor and dedication that touches the heart while the politics that they discuss touch on everyday life.",
+        "poster_path": "/yqDWr5NAE7m1IWrygYwLyEB6pN0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 87.9785,
+        "first_air_date": "1999-09-22",
+        "vote_average": 8.255,
+        "vote_count": 511,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/blSthAPRbEOJBowdxppeQqNPRh9.jpg",
+        "id": 207332,
+        "name": "Sakamoto Days",
+        "original_name": "SAKAMOTO DAYS",
+        "overview": "Bir zamanların en iyi tetikçisi olan Taro Sakamoto aşkı uğruna emekli olmuştur. Ancak geçmişi yakasına yapışınca biricik ailesini korumak için savaşmak zorunda kalır.",
+        "poster_path": "/wRpCqsJFyKNuh5FMegNPrhzp2NF.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          35,
+          10759
+        ],
+        "popularity": 18.6917,
+        "first_air_date": "2025-01-11",
+        "vote_average": 8.126,
+        "vote_count": 163,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/b8fW3cOXCHKWNQw2g37A45RpICk.jpg",
+        "id": 918,
+        "name": "M*A*S*H",
+        "original_name": "M*A*S*H",
+        "overview": "The 4077th Mobile Army Surgical Hospital is stuck in the middle of the Korean war. With little help from the circumstances they find themselves in, they are forced to make their own fun. Fond of practical jokes and revenge, the doctors, nurses, administrators, and soldiers often find ways of making wartime life bearable.",
+        "poster_path": "/6rhuM3oMoEWKxAdrm7IyM8oq8cC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10768,
+          18,
+          35
+        ],
+        "popularity": 98.4946,
+        "first_air_date": "1972-09-17",
+        "vote_average": 7.915,
+        "vote_count": 680,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/v6mHYpO4NG2O3F1S4YFf08iV01f.jpg",
+        "id": 6357,
+        "name": "Alacakaranlık Kuşağı",
+        "original_name": "The Twilight Zone",
+        "overview": "\"İnsanoğlunun bildiğinin ötesinde beşinci bir boyut vardır. Uzay kadar geniş ve sonsuzluk kadar zamansız bir boyut. Işık ile gölge, bilim ile hurafe arasındaki orta yoldur ve insanın korku çukuru ile bilgisinin zirvesi arasında yer alır. Bu, hayal gücünün boyutudur. Alacakaranlık Kuşağı dediğimiz bir alandır.\"\n\nHer bölümde farklı oyuncularla, farklı konuların işlendiği, bilim kurgu, korku ve gerilim öğelerini barındıran beş sezonluk dizi, bu türdeki dizilerin öncülüğünü yapmaktadır.",
+        "poster_path": "/rgXN8DsraVEjCD9tOWuR8wnpcaB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          9648,
+          18
+        ],
+        "popularity": 70.0529,
+        "first_air_date": "1959-10-02",
+        "vote_average": 8.442,
+        "vote_count": 932,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/flychdbFnPuxl4SjMeODR8RmuKr.jpg",
+        "id": 38693,
+        "name": "Ninjago: Spinjitzu'nun Ustaları",
+        "original_name": "Ninjago: Masters of Spinjitzu",
+        "overview": "Kai, Jay, Cole ve Zane, yer altı da bulunan Ninjago ülkesini korumak için temel güçlerinde ve Spinjitzu silahlarında ustalaşmalıdır.",
+        "poster_path": "/fqb9X4th2p2voefRLqdv1xoZQmC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          10765,
+          35
+        ],
+        "popularity": 168.1796,
+        "first_air_date": "2012-01-11",
+        "vote_average": 7.895,
+        "vote_count": 727,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

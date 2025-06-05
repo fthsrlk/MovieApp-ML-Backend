@@ -1,0 +1,846 @@
+{
+  "adult": false,
+  "backdrop_path": "/mlX6SG7lJ0BiLui5x5Nu4agetBA.jpg",
+  "created_by": [
+    {
+      "id": 2051887,
+      "credit_id": "6336b2d1f8e98200903e4be7",
+      "name": "Eva Leysen",
+      "original_name": "Eva Leysen",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2199718,
+      "credit_id": "6336b2a20f2fbd0079d63cbb",
+      "name": "Raymond Grimbergen",
+      "original_name": "Raymond Grimbergen",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 3721695,
+      "credit_id": "6336b2bef3b49a007b817f0f",
+      "name": "Nicolien Kool",
+      "original_name": "Nicolien Kool",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    10
+  ],
+  "first_air_date": "2014-05-26",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Pembe Dizi"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    }
+  ],
+  "homepage": "http://zapp.nl/BrugklasTV",
+  "id": 82708,
+  "in_production": true,
+  "languages": [
+    "nl"
+  ],
+  "last_air_date": "2025-02-26",
+  "last_episode_to_air": {
+    "id": 5546250,
+    "name": "94. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-06",
+    "episode_number": 94,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 13,
+    "show_id": 82708,
+    "still_path": null
+  },
+  "name": "Brugklas",
+  "next_episode_to_air": {
+    "id": 5546251,
+    "name": "95. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-07",
+    "episode_number": 95,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 13,
+    "show_id": 82708,
+    "still_path": null
+  },
+  "networks": [],
+  "number_of_episodes": 1122,
+  "number_of_seasons": 13,
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "nl",
+  "original_name": "Brugklas",
+  "overview": "",
+  "popularity": 2300.619,
+  "poster_path": "/6Gr6rggaHHeUKgxEXONRyC66oRG.jpg",
+  "production_companies": [
+    {
+      "id": 109520,
+      "logo_path": "/wK0YR28dUxiQxPjuy8GXHmGPZoS.png",
+      "name": "Tuvalu Media",
+      "origin_country": "NL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-09-21",
+      "episode_count": 9,
+      "id": 206763,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2014-05-26",
+      "episode_count": 46,
+      "id": 110107,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/wwz9YOWHN37MPu03ne5rMc6nZIT.jpg",
+      "season_number": 1,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2014-10-13",
+      "episode_count": 25,
+      "id": 110109,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/oiT1zCUHgrRbOQKPyOWCpPvLZnM.jpg",
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2015-05-25",
+      "episode_count": 71,
+      "id": 110111,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2016-01-04",
+      "episode_count": 80,
+      "id": 110112,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2017-01-09",
+      "episode_count": 80,
+      "id": 110113,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2017-09-04",
+      "episode_count": 80,
+      "id": 110114,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2018-09-03",
+      "episode_count": 80,
+      "id": 110115,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2019-09-02",
+      "episode_count": 110,
+      "id": 175732,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2020-08-31",
+      "episode_count": 110,
+      "id": 175735,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2021-08-30",
+      "episode_count": 110,
+      "id": 206097,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2022-08-29",
+      "episode_count": 110,
+      "id": 305929,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2023-09-04",
+      "episode_count": 110,
+      "id": 351847,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2024-09-02",
+      "episode_count": 110,
+      "id": 404227,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.8,
+  "vote_count": 13,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4219828,
+        "known_for_department": "Acting",
+        "name": "Jaimee Tang",
+        "original_name": "Jaimee Tang",
+        "popularity": 0.001,
+        "profile_path": "/xtOsDQ38KyW07MLjxCG1ugio4vW.jpg",
+        "character": "Yuna",
+        "credit_id": "64ddde1f5ab81a00ad1ff9b2",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3894666,
+        "known_for_department": "Acting",
+        "name": "David Hofland",
+        "original_name": "David Hofland",
+        "popularity": 0.769,
+        "profile_path": "/fLgGT44ohKSUjVvgFuPp4FaQmzr.jpg",
+        "character": "Ryan",
+        "credit_id": "64ddde3259e8a90139d6dc71",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4219829,
+        "known_for_department": "Acting",
+        "name": "Shad Abdullah",
+        "original_name": "Shad Abdullah",
+        "popularity": 0.99,
+        "profile_path": "/1FGaqLatdrffTJ3j8KezKjicHKI.jpg",
+        "character": "Amir",
+        "credit_id": "64ddde545ab81a00c5b62546",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4658831,
+        "known_for_department": "Acting",
+        "name": "Stella Muller",
+        "original_name": "Stella Muller",
+        "popularity": 0.001,
+        "profile_path": "/gWZu5yP2OFzZUy89EacoQDDh9CO.jpg",
+        "character": "Jade",
+        "credit_id": "66c909949c1ffe84fab308e9",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4901226,
+        "known_for_department": "Acting",
+        "name": "Joey Hooiveld",
+        "original_name": "Joey Hooiveld",
+        "popularity": 0.001,
+        "profile_path": "/eKh7K0DI2qPdfEohHEgh4yQKcmk.jpg",
+        "character": "Ramses",
+        "credit_id": "66c90a892da6330b93e4d588",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4902684,
+        "known_for_department": "Acting",
+        "name": "Jaidah Dawson",
+        "original_name": "Jaidah Dawson",
+        "popularity": 0.001,
+        "profile_path": "/7IXwSjbTUubuayYSFgsruB8l9DD.jpg",
+        "character": "Violet",
+        "credit_id": "66ca496ba47a33ec13203fdd",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5067833,
+        "known_for_department": "Acting",
+        "name": "Kieran Adjei",
+        "original_name": "Kieran Adjei",
+        "popularity": 0.001,
+        "profile_path": "/eSjLH8CkUyQqf9hO3QuABFGlsFs.jpg",
+        "character": "Mika",
+        "credit_id": "673bd83b3bec23b264098498",
+        "order": 43
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "high school",
+        "id": 6270
+      },
+      {
+        "name": "mockumentary",
+        "id": 11800
+      },
+      {
+        "name": "young adult",
+        "id": 206298
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/lN13BPAEnc5iXmoxxBQHOZ1ScfZ.jpg",
+        "id": 86031,
+        "name": "Dr. Stone",
+        "original_name": "Dr.STONE",
+        "overview": "Kaçınılmaz bir günde, tüm insanlık kör edici bir ışık parlamasıyla donakalmıştı. Birkaç bin yıl sonra, Liseli Taiju uyanır ve kendini heykellerin dünyasında kaybolmuş şekilde bulur. Ama, yanlız değildir! Onun Bilime aşık arkadaşı Senku kalkmış ve bir kaç aydır çalışıyordu ve bilimin gücüyle medeniyeti yeniden inşa etmek için aklında bir fikri vardı.",
+        "poster_path": "/xbZQ3fDl0y5mt0ARwfeyrgQ4JTw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759,
+          35,
+          10765
+        ],
+        "popularity": 48.297,
+        "first_air_date": "2019-07-05",
+        "vote_average": 8.5,
+        "vote_count": 1486,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/p3Jmm6d1ShUrJEuU3DYD2K19c66.jpg",
+        "id": 92830,
+        "name": "Obi-Wan Kenobi",
+        "original_name": "Obi-Wan Kenobi",
+        "overview": "Star Wars: Revenge of the Sith'te yaşananlardan on yıl sonrasını konu ediyor. Dizi Jedi ustası Obi-Wan Kenobi’nin en yakın dostu ve öğrencisi Skywalker’ı karanlık tarafa vermesinden sonra yaşadıklarına odaklanıyor.",
+        "poster_path": "/qJRB789ceLryrLvOKrZqLKr2CGf.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 56.533,
+        "first_air_date": "2022-05-26",
+        "vote_average": 7.061,
+        "vote_count": 1876,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4WIglfr4lDFVjCEcXzCeu6cJsOh.jpg",
+        "id": 93741,
+        "name": "Jurassic World Kretase Kampı",
+        "original_name": "Jurassic World Camp Cretaceous",
+        "overview": "Isla Nublar'daki son teknolojilerle donatılmış macera kampına davet edilen altı genç, dinozorların kaçmasının ardından hayatta kalmak için iş birliği yapmak zorundadır.",
+        "poster_path": "/nkCbCmlwjwT6QL44DqG7qE9ch8H.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762,
+          10759,
+          10751
+        ],
+        "popularity": 146.947,
+        "first_air_date": "2020-09-18",
+        "vote_average": 8.0,
+        "vote_count": 1847,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/96RT2A47UdzWlUfvIERFyBsLhL2.jpg",
+        "id": 209867,
+        "name": "Frieren: Beyond Journey's End",
+        "original_name": "葬送のフリーレン",
+        "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude. Generations pass, and the elven mage Frieren comes face to face with humanity’s mortality. She takes on a new apprentice and promises to fulfill old friends’ dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
+        "poster_path": "/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759,
+          10765,
+          18
+        ],
+        "popularity": 140.7,
+        "first_air_date": "2023-09-29",
+        "vote_average": 8.8,
+        "vote_count": 391,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/l0XvAI856XdyDYEfr1njztjH7u0.jpg",
+        "id": 40075,
+        "name": "Gravity Falls",
+        "original_name": "Gravity Falls",
+        "overview": "İkiz kardeşler Dipper ve Mabel Pines'ın aileleri yazın Dipper ve Mabel'ı \"Harika Amca Stan\"in yanına Gravity Falls, Oregon'a gönderirler. Stan, \"Gizemli Kulübe\"de yaşamaktadır ve çalışmaktadır; ama Dipper ve Mabel gerçekten çok garip şeyler olduğunu bilirler ve anlaşılmadık kasabada kendi yollarını bulmak için birbirlerine güvenmek zorundadırlar. Dipper'ın ormanda bulduğu günlükle işler daha da tuhaflaşır.",
+        "poster_path": "/6kWUl4Rfvomz9VBsjzDsuQ3ZvrG.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          9648,
+          10765,
+          10762,
+          10759,
+          10751
+        ],
+        "popularity": 171.622,
+        "first_air_date": "2012-06-15",
+        "vote_average": 8.6,
+        "vote_count": 3079,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ffvaWDSYLcIQRCLFLG1a3lC0xPX.jpg",
+        "id": 82739,
+        "name": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+        "original_name": "青春ブタ野郎はバニーガール先輩の夢を見ない",
+        "overview": "Puberte Sendromu; söylentilere göre yalnızca ergenlik çağındakilerde görülebilen gizemli bir sendrom. Örneğin; Sakuta Azusagawa'nın önünde aniden \"tavşan kostümlü kız\" belirir. Bu kızın gerçek kimliği Mai Sakurajima adında, bugünlerde pek bir durgun, gençler arasında şöhret sahibi bir lise son sınıf öğrencisidir. Nedeni bilinmez, baştan çıkarıcı cazibesini onun dışında kimse göremez. Zihinde canlanan bu ilginç olayın arkasındaki gerçeği ortaya çıkartırken; Sakuta, Mai'ye karşı olan hislerini fark etmeye başlar. Gökyüzünün ve dalgaların parladığı bu şehirde, Sakuta farklı kadınlar ile de karşılaşır. Sakuta bahsi geçen sendromdaki tuhaf kadınlarla karşılaşmasının ardındaki gerçeği ortaya çıkartabilecek mi?",
+        "poster_path": "/cU4jHfo1Q9AEPnFqFqtuSA74gdi.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          35,
+          9648,
+          18
+        ],
+        "popularity": 72.848,
+        "first_air_date": "2018-10-04",
+        "vote_average": 8.6,
+        "vote_count": 1224,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/lBoHzOgft2QfpjkVVvZCqeM4ttT.jpg",
+        "id": 90228,
+        "name": "Dune: Prophecy",
+        "original_name": "Dune: Prophecy",
+        "overview": "Sıradışı yeteneklere sahip Bene Gesserit kadınları, zihinleri ve vücutlarını tamamen kendi kontrollerinde yönetebilmek için eğitim alarak insanlığı kendi planlarına göre yönlendirebilecektir. Yetenekleri sayesinde imparatorluğun politikalarına karşı koymayı başaran bu zeki birlik nihayetinde kendilerini, Dune adını verdikleri karmaşık bir gezegen olan Arrakis'te bulurlar.",
+        "poster_path": "/5B8Cxz8ZZXp3w2WmmdKTXpkS24e.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 161.398,
+        "first_air_date": "2024-11-17",
+        "vote_average": 7.559,
+        "vote_count": 339,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/t9i4Icf1LsGIgkpnokQaC4hzxLa.jpg",
+        "id": 202411,
+        "name": "Monarch: Legacy of Monsters",
+        "original_name": "Monarch: Legacy of Monsters",
+        "overview": "Godzilla'nın San Francisco saldırısından sağ kurtulan Cate, şoke edici bir sırla bir kez daha sarsılır. Korkunç tehlikelerin ortasında, ailesi ve Monarch olarak bilinen gizemli örgüt hakkındaki gerçeği öğrenmek için dünyayı dolaşan bir maceraya atılır.",
+        "poster_path": "/uwrQHMnXD2DA1rvaMZk4pavZ3CY.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 69.184,
+        "first_air_date": "2023-11-16",
+        "vote_average": 7.8,
+        "vote_count": 861,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5DUMPBSnHOZsbBv81GFXZXvDpo6.jpg",
+        "id": 114410,
+        "name": "Chainsaw Man",
+        "original_name": "チェンソーマン",
+        "overview": "Denji'nin babası ölünce büyük bir borç üstüne kalır ve bunu ödeyebilmesinin hiçbir yolu yoktur. Ancak kurtardığı Pochita isimli iblis köpek sayesinde iblis avcılığı yaparak borcunu azar azar kapatır. Pochita'nın testere güçleri iblislere karşı işe yarıyordur. Denji öldüğünde Pochita kendini feda edip onu diriltir. Fakat Denji artık eskisi gibi insan değildir. O artık Testere Adam!",
+        "poster_path": "/npdB6eFzizki0WaZ1OvKcJrWe97.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "popularity": 82.233,
+        "first_air_date": "2022-10-12",
+        "vote_average": 8.559,
+        "vote_count": 1755,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/uQUHCqxHsG9blvtCoL7vluMG9Jp.jpg",
+        "id": 118357,
+        "name": "1883",
+        "original_name": "1883",
+        "overview": "Dutton ailesinin ataları daha iyi bir gelecek arayışıyla Batı’ya doğru zorlu bir yolculuğa çıkarlar. Bu mücadele dolu yolculuğun sonunda büyük bir hanedanlığın tohumları atılır.",
+        "poster_path": "/bjlaecwNRR0Nh4cZMqXbMYQUyny.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          37
+        ],
+        "popularity": 85.446,
+        "first_air_date": "2021-12-19",
+        "vote_average": 8.3,
+        "vote_count": 666,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1gajPADcRyzmYvfAefbJwhCy4bk.jpg",
+        "id": 72710,
+        "name": "Continental: John Wick Dünyasından",
+        "original_name": "The Continental: From the World of John Wick",
+        "overview": "Continental, John Wick evrenindeki ikonik suikastçı otelinin şiddet dolu kökenlerini ortaya çıkaran bir olaylar dizisidir. 1970'lerin New York'unda geçen dizide Winston Scott, kardeşinin Continental'a yaptığı saldırının tetiklediği büyük bir komployla mücadele etmek için bir ekip kuruyor. Bu kanlı aksiyon draması aile sevgisi, kader ve intikamın çarpışmasını konu alıyor.",
+        "poster_path": "/zU7ofzO3lVNOr7nHEGGRyA8MtON.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          10759
+        ],
+        "popularity": 54.171,
+        "first_air_date": "2023-09-22",
+        "vote_average": 7.4,
+        "vote_count": 529,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uuqVT15I6P4ow7NS0stu7aM2X5w.jpg",
+        "id": 84669,
+        "name": "5-toubun no Hanayome",
+        "original_name": "五等分の花嫁",
+        "overview": "Fuutarou Uesugi, bir gün zengin transfer öğrencisi Itsuki Nakano ile tanışan fakir, asosyal bir öğrencidir. Uesugi, zengin kız öğrenciye özel ders verecektir ve bu sırada diğer dört kız ile de tanışmaya başlar.",
+        "poster_path": "/mrahUSmFjae8UHtlOcZ58ytmAGu.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          18,
+          35
+        ],
+        "popularity": 54.504,
+        "first_air_date": "2019-01-11",
+        "vote_average": 8.469,
+        "vote_count": 703,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/2MaumbgBlW1NoPo3ZJO38A6v7OS.jpg",
+        "id": 66732,
+        "name": "Stranger Things",
+        "original_name": "Stranger Things",
+        "overview": "Ufak bir kasabada küçük bir çocuk kaybolunca, gizli deneyler, korkutucu doğaüstü güçler ve tuhaf bir küçük kızın da parçası olduğu bir gizem ortaya çıkar.",
+        "poster_path": "/hjVNQA2a12OxkpDEOQTBMbKVZ1K.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765,
+          9648
+        ],
+        "popularity": 293.245,
+        "first_air_date": "2016-07-15",
+        "vote_average": 8.6,
+        "vote_count": 18087,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/r0Zg70jpcDAD7IMDhVqajSnG9vb.jpg",
+        "id": 113962,
+        "name": "Lioness",
+        "original_name": "Lioness",
+        "overview": "Gerçek hayatta da var olan bir CIA programına dayanan hikayede, bir terör örgütünü içeriden çökertmeye yardım etmek için CIA'nın Lioness Engagement Team adlı ekibe katılmak üzere işe alınan kaba ama tutkulu genç bir denizci olan Cruz Manuelos anlatılıyor. Zoe Saldana, kadın gizli ajanlarını sahadaki tehlikeli görevlere hazırlamak için eğitmek, yönetmek ve onlara liderlik etmekle görevli Lioness programının istasyon şefi Joe rolünde izleyici karşısına çıkıyor.",
+        "poster_path": "/ajaXSmdAlYYhnvx1EIsvpfN949y.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10768
+        ],
+        "popularity": 192.135,
+        "first_air_date": "2023-07-23",
+        "vote_average": 8.1,
+        "vote_count": 928,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/eqLwFXX0R7U0crdgQcj0Rxjb9uc.jpg",
+        "id": 120911,
+        "name": "İnfaz Listesi",
+        "original_name": "The Terminal List",
+        "overview": "Binbaşı James Reece, tüm müfrezesinin öldürülmesinin ardındaki gizemli güçleri araştırıp intikam almaya başlar. Ordunun komuta yapısından bağımsız hareket eden Reece, sorumlu kişileri yakalamak için yaklaşık yirmi yıllık muharebe deneyimini kullanır.",
+        "poster_path": "/4hEfdQKDuv5oGmdYhbrhZ4k1XI0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "popularity": 46.693,
+        "first_air_date": "2022-06-30",
+        "vote_average": 8.0,
+        "vote_count": 904,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ciPDoPMqd3icCBHsIlhIb3UyOd2.jpg",
+        "id": 111819,
+        "name": "TSUKIMICHI -Moonlit Fantasy-",
+        "original_name": "月が導く異世界道中",
+        "overview": "Makoto Misumi is just an ordinary high school student living a regular life, but all of a sudden gets summoned to the other world to become a \"hero.\" The goddess of the other world, however, insults him for being different and strips his \"hero\" title, before casting him off to the wilderness at the edge of the world. As he wanders the wilderness, Makoto encounters dragons, spiders, orcs, dwarves, and all sorts of non-human tribes. Because Makoto comes from a different world, he is able to unleash unimaginable magical powers and combat skills. But just how will he handle his encounters with various species and survive in his new environment. In this fantasy, Makoto tries to transform the other world into a better place despite the humans and gods having turned their backs on him.",
+        "poster_path": "/7XQ2dMEARAdUZQscnIJFPI54q3r.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10765,
+          10759,
+          35
+        ],
+        "popularity": 59.26,
+        "first_air_date": "2021-07-07",
+        "vote_average": 8.4,
+        "vote_count": 359,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/n1KezePqzeY5449V9HppWek2tpO.jpg",
+        "id": 103913,
+        "name": "Tehran",
+        "original_name": "טהרן",
+        "overview": "Tamar, İran’ın nükleer reaktörünün yok edilmesine yardım etmek için sahte bir kimlikle Tahran’a sızan bir bilgisayar korsanı ve Mossad ajanıdır ama görev başarısız olunca Tamar, sevdiği herkesi tehlikeye atan bir operasyon planlamak zorunda kalır.",
+        "poster_path": "/nocK5MvUn8gYk3nULn7XFuhgBDp.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "he",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 42.277,
+        "first_air_date": "2020-06-22",
+        "vote_average": 7.492,
+        "vote_count": 260,
+        "origin_country": [
+          "IL"
+        ]
+      },
+      {
+        "backdrop_path": "/3MmRal3Uw3O0TVMvhfM63Z3mPz3.jpg",
+        "id": 126027,
+        "name": "Ghosts",
+        "original_name": "Ghosts",
+        "overview": "Güzel bir kır evinin kendilerine miras kalmasıyla hayallerinin gerçekleştiğine inanan güzel çift Samantha ve Jay'i büyük bir sürpriz bekliyor! Daha önce ölen bir grup insanla aynı evde yaşamaya başlayan çiftin maceraları konu edinmektedir.",
+        "poster_path": "/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 177.536,
+        "first_air_date": "2021-10-07",
+        "vote_average": 7.9,
+        "vote_count": 222,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vp52Er9JebGn49GG37jFTwx15Lw.jpg",
+        "id": 203085,
+        "name": "Star Wars: Tales of the Jedi",
+        "original_name": "Star Wars: Tales of the Jedi",
+        "overview": "Erken dönem Jediları etrafında kurulan kısa hikayeler içeren 6 bölümlük bir macera. Birbirinden tamamen farklı iki Jedi'ın - Ahsoka Tano ve Kont Dooku'nun hayatlarına yolculuk edin. Her biri, kaderlerini belirleyecek seçimler yaparken sınavlarla karşılaşacaklar.",
+        "poster_path": "/k3nWQb0E8mLSR8acSkJP78VRVMv.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10765,
+          10759
+        ],
+        "popularity": 32.722,
+        "first_air_date": "2022-10-26",
+        "vote_average": 8.0,
+        "vote_count": 364,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dhLi5XTGrj9R2aQa9XXfZnDhT1N.jpg",
+        "id": 679,
+        "name": "Xiaolin Showdown",
+        "original_name": "Xiaolin Showdown",
+        "overview": "Xiaolin Showdown is an American animated television series that aired on Kids WB and was created by Christy Hui. Set in a world where martial arts battles and Eastern magic are commonplace, the series follows four young warriors in training that battle the forces of evil. They do this by protecting Shen Gong Wu from villains that would use them to conquer the world.\n\nOriginally airing on the Kids' WB block of programming on WB Network in 2003, the series ran for 3 seasons and 52 episodes. Typical episodes revolve around a specific Shen Gong Wu being revealed which results in both sides racing to find it. Episodes usually reach a head when one good and one evil character must challenge each other to a magical duel called a Xiaolin Showdown for possession of the artifact.\n\nA sequel series titled Xiaolin Chronicles was previewed on August 26, 2013 on Disney XD. It began its long-term run on September 14 the same year.",
+        "poster_path": "/mxxwz1kYyb5DBttl2VvmHgdDoRe.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          35,
+          10762
+        ],
+        "popularity": 36.424,
+        "first_air_date": "2003-11-01",
+        "vote_average": 8.1,
+        "vote_count": 197,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

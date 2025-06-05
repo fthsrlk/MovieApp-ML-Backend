@@ -1,0 +1,998 @@
+{
+  "adult": false,
+  "backdrop_path": "/5uxpTGMvH0taHAkMYxOQHYJcsws.jpg",
+  "created_by": [
+    {
+      "id": 1745,
+      "credit_id": "52538dc119c295794026909e",
+      "name": "Gene Roddenberry",
+      "original_name": "Gene Roddenberry",
+      "gender": 2,
+      "profile_path": "/qY3gWqAMDrrvNVUrwZ8lSa4IKtS.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "1987-09-28",
+  "genres": [
+    {
+      "id": 10765,
+      "name": "Bilim Kurgu & Fantazi"
+    },
+    {
+      "id": 10759,
+      "name": "Aksiyon & Macera"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 9648,
+      "name": "Gizem"
+    }
+  ],
+  "homepage": "https://www.startrek.com/shows/star-trek-the-next-generation",
+  "id": 655,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1994-05-23",
+  "last_episode_to_air": {
+    "id": 37208,
+    "name": "25. Bölüm",
+    "overview": "",
+    "vote_average": 8.2,
+    "vote_count": 41,
+    "air_date": "1994-05-23",
+    "episode_number": 25,
+    "episode_type": "finale",
+    "production_code": "40277-747",
+    "runtime": 92,
+    "season_number": 7,
+    "show_id": 655,
+    "still_path": "/jtIgLmDaLpJ8WDMfjdUNEjPojrU.jpg"
+  },
+  "name": "Uzay Yolu: Yeni Nesil",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 184,
+      "logo_path": null,
+      "name": "Syndication",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 176,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Star Trek: The Next Generation",
+  "overview": "Uzay Yolu: Yeni Nesil yaklaşık olarak asıl diziden bir yüzyıl sonra geçmekte, gene Atılgan adında fakat daha yeni ve gelişmiş yeni bir yıldız gemisi içermekte ve Kaptan Jean Luc Picard'ın emri altındaki yeni bir mürettabatın maceralarını anlatmaktadır. İnsanların galakside diğer bilinçli canlılarla birleşerek Birleşik Gezegenler Federasyonu'nu kurdukları, kurgusal bir 3. Dünya Savaşı sonrası bir geleceği tasvir eder. Evrende yalnız olmadıklarını anlayınca insanlık kendilerine özgü birçok zayıflık ve kötü alışkanlıklarını geride bırakır. Kahramanlar genelde fedakardır ama zaman zaman sonuç almak için başka yollara baş vurabilirler.",
+  "popularity": 121.9856,
+  "poster_path": "/vkLzXddgUKH5VcpnYiRzpJFrZhz.jpg",
+  "production_companies": [
+    {
+      "id": 9223,
+      "logo_path": "/40qzTBM38vokoWhLKurficZ5syV.png",
+      "name": "Paramount Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 57121,
+      "logo_path": null,
+      "name": "Norway Corporation",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2012-07-24",
+      "episode_count": 141,
+      "id": 1996,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/eg2cYEp74IyWM6gDC6y7g3dDbu.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1987-09-28",
+      "episode_count": 25,
+      "id": 1989,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/cqfhZiCBqryQjo7s0cqZJOssE7d.jpg",
+      "season_number": 1,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "1988-11-21",
+      "episode_count": 22,
+      "id": 1990,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/i5WIVkgnZk1qyE42xujMOkb1q15.jpg",
+      "season_number": 2,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "1989-09-25",
+      "episode_count": 26,
+      "id": 1995,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/gu8FUHyVp65zxm3DS0Z1HhB6BFK.jpg",
+      "season_number": 3,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "1990-09-24",
+      "episode_count": 26,
+      "id": 1991,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/hYdHSFEUSw3KnwcDNzOBscSQ1FL.jpg",
+      "season_number": 4,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "1991-09-23",
+      "episode_count": 26,
+      "id": 1992,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/brHkkwUWSamamS7G23wBY7VLYcw.jpg",
+      "season_number": 5,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "1992-09-21",
+      "episode_count": 26,
+      "id": 1993,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/vcgEVWhgta827MPzzGzOpBgoyKr.jpg",
+      "season_number": 6,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "1993-09-20",
+      "episode_count": 25,
+      "id": 1994,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/fuM3U5EjyRtSmw1yKDaqrPSn3lW.jpg",
+      "season_number": 7,
+      "vote_average": 6.6
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.4,
+  "vote_count": 1569,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2387,
+        "known_for_department": "Acting",
+        "name": "Patrick Stewart",
+        "original_name": "Patrick Stewart",
+        "popularity": 4.0808,
+        "profile_path": "/3yExCGqCMfSOVVHdEYTJhXaTtFZ.jpg",
+        "character": "Jean-Luc Picard",
+        "credit_id": "52538dc019c2957940268e14",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2388,
+        "known_for_department": "Acting",
+        "name": "Jonathan Frakes",
+        "original_name": "Jonathan Frakes",
+        "popularity": 2.7299,
+        "profile_path": "/b6ljJL0sn9VGoivLF3AH5sX1lcK.jpg",
+        "character": "William T. Riker",
+        "credit_id": "52538dc019c2957940268e42",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1213786,
+        "known_for_department": "Acting",
+        "name": "Brent Spiner",
+        "original_name": "Brent Spiner",
+        "popularity": 2.5674,
+        "profile_path": "/wHaOTfxOEKOPssDYaSSB5zenml4.jpg",
+        "character": "Data",
+        "credit_id": "52538dc019c2957940268e7a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2390,
+        "known_for_department": "Acting",
+        "name": "LeVar Burton",
+        "original_name": "LeVar Burton",
+        "popularity": 1.8897,
+        "profile_path": "/tC74tISKpFGmJkrw24MMLix5nNa.jpg",
+        "character": "Geordi La Forge",
+        "credit_id": "52538dc119c2957940268f32",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2391,
+        "known_for_department": "Acting",
+        "name": "Michael Dorn",
+        "original_name": "Michael Dorn",
+        "popularity": 2.8667,
+        "profile_path": "/6mVjb0YsidC0gW9P8mXMkQirfcK.jpg",
+        "character": "Worf",
+        "credit_id": "55ec8e8cc3a3682c5d012071",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2393,
+        "known_for_department": "Acting",
+        "name": "Marina Sirtis",
+        "original_name": "Marina Sirtis",
+        "popularity": 8.1686,
+        "profile_path": "/xMrHyXrv21suNglAHD24GDY7Uhx.jpg",
+        "character": "Deanna Troi",
+        "credit_id": "52538dc119c2957940268ed6",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2392,
+        "known_for_department": "Acting",
+        "name": "Gates McFadden",
+        "original_name": "Gates McFadden",
+        "popularity": 1.7088,
+        "profile_path": "/wlI6dlvncTFZMJWmz8hRIYyci3J.jpg",
+        "character": "Beverly Crusher",
+        "credit_id": "52538dc119c2957940268f04",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2386,
+        "known_for_department": "Production",
+        "name": "Brannon Braga",
+        "original_name": "Brannon Braga",
+        "popularity": 1.5292,
+        "profile_path": "/e2lvaxWUG5dcbl36BEi4po6M0YB.jpg",
+        "credit_id": "52538dc419c2957940269392",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1215421,
+        "known_for_department": "Production",
+        "name": "Merri D. Howard",
+        "original_name": "Merri D. Howard",
+        "popularity": 0.6014,
+        "profile_path": null,
+        "credit_id": "52538dc419c295794026932e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1214884,
+        "known_for_department": "Production",
+        "name": "Robert H. Justman",
+        "original_name": "Robert H. Justman",
+        "popularity": 0.9453,
+        "profile_path": null,
+        "credit_id": "52538dc119c29579402690ea",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1219417,
+        "known_for_department": "Production",
+        "name": "Wendy Neuss",
+        "original_name": "Wendy Neuss",
+        "popularity": 0.6382,
+        "profile_path": null,
+        "credit_id": "52538dc319c29579402692b0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1213783,
+        "known_for_department": "Production",
+        "name": "Rick Berman",
+        "original_name": "Rick Berman",
+        "popularity": 1.6302,
+        "profile_path": "/mEznRUFYLmpD6jPPeZKLWkHtPdn.jpg",
+        "credit_id": "52538dc219c2957940269152",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2383,
+        "known_for_department": "Production",
+        "name": "Peter Lauritson",
+        "original_name": "Peter Lauritson",
+        "popularity": 0.6769,
+        "profile_path": null,
+        "credit_id": "52538dc219c29579402691d8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219351,
+        "known_for_department": "Writing",
+        "name": "Joe Menosky",
+        "original_name": "Joe Menosky",
+        "popularity": 0.8678,
+        "profile_path": null,
+        "credit_id": "52538dc319c29579402692ea",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2385,
+        "known_for_department": "Writing",
+        "name": "Ronald D. Moore",
+        "original_name": "Ronald D. Moore",
+        "popularity": 1.7436,
+        "profile_path": "/6A086Blwpv0nuckrzPgvETlkfo1.jpg",
+        "credit_id": "52538dc219c2957940269202",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1745,
+        "known_for_department": "Writing",
+        "name": "Gene Roddenberry",
+        "original_name": "Gene Roddenberry",
+        "popularity": 1.6354,
+        "profile_path": "/qY3gWqAMDrrvNVUrwZ8lSa4IKtS.jpg",
+        "credit_id": "52538dc119c29579402690a8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1215367,
+        "known_for_department": "Directing",
+        "name": "David Livingston",
+        "original_name": "David Livingston",
+        "popularity": 0.5225,
+        "profile_path": null,
+        "credit_id": "52538dc219c2957940269284",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1219348,
+        "known_for_department": "Writing",
+        "name": "Jeri Taylor",
+        "original_name": "Jeri Taylor",
+        "popularity": 1.2121,
+        "profile_path": null,
+        "credit_id": "52538dc219c2957940269116",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1214886,
+        "known_for_department": "Writing",
+        "name": "D.C. Fontana",
+        "original_name": "D.C. Fontana",
+        "popularity": 1.1438,
+        "profile_path": null,
+        "credit_id": "52538dc219c295794026918c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219336,
+        "known_for_department": "Writing",
+        "name": "Robert Lewin",
+        "original_name": "Robert Lewin",
+        "popularity": 0.8775,
+        "profile_path": null,
+        "credit_id": "52538dc419c2957940269358",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2514,
+        "known_for_department": "Writing",
+        "name": "Michael Piller",
+        "original_name": "Michael Piller",
+        "popularity": 1.3664,
+        "profile_path": "/9XTKhVuJbvUBdQnwOOlilRuYBhZ.jpg",
+        "credit_id": "5daccd2f174a870019a8d85f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1761,
+        "known_for_department": "Sound",
+        "name": "Alexander Courage",
+        "original_name": "Alexander Courage",
+        "popularity": 1.5382,
+        "profile_path": "/nVTrM70knWjQcOvATsu2Uric9sl.jpg",
+        "credit_id": "675ea28e96cfddbf19ccabb4",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "android",
+        "id": 803
+      },
+      {
+        "name": "spacecraft",
+        "id": 1612
+      },
+      {
+        "name": "space travel",
+        "id": 3801
+      },
+      {
+        "name": "space",
+        "id": 9882
+      },
+      {
+        "name": "alien",
+        "id": 9951
+      },
+      {
+        "name": "alien planet",
+        "id": 10158
+      },
+      {
+        "name": "trek",
+        "id": 157156
+      },
+      {
+        "name": "space opera",
+        "id": 161176
+      },
+      {
+        "name": "adventurer",
+        "id": 175428
+      },
+      {
+        "name": "factual",
+        "id": 294348
+      },
+      {
+        "name": "enchant",
+        "id": 325807
+      },
+      {
+        "name": "tng",
+        "id": 343004
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/vEGkRAhz2rTYK9kGOjcTRqRD13o.jpg",
+        "id": 580,
+        "name": "Star Trek: Deep Space Nine",
+        "original_name": "Star Trek: Deep Space Nine",
+        "overview": "At Deep Space Nine, a space station located next to a wormhole in the vicinity of the liberated planet of Bajor, Commander Sisko and crew welcome alien visitors, root out evildoers and solve all types of unexpected problems that come their way.",
+        "poster_path": "/vE6138ykaEXQkCSEHyuBIgfGlUZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 121.1683,
+        "first_air_date": "1993-01-03",
+        "vote_average": 7.9,
+        "vote_count": 844,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7YFranrnnIcCrgsLYQsoq8aE3Ir.jpg",
+        "id": 1855,
+        "name": "Star Trek: Voyager",
+        "original_name": "Star Trek: Voyager",
+        "overview": "USS Voyager'ın, 70.000 ışık yılı uzaklıktaki Delta çeyreğinde kayboluşunun hikayesi. 70 yıllık bir eve dönüş yolculuğu ile karşı karşıya olan mürettebat, zorlukların üstesinden gelmek ve kendi aralarındaki çatışmaları yenmek zorundadır. |",
+        "poster_path": "/gNS5tRSG3UlXodCxznKKOKweqxh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 100.7965,
+        "first_air_date": "1995-01-16",
+        "vote_average": 7.799,
+        "vote_count": 984,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ywK4VrR7vL56mDGXDLMtFypwqA8.jpg",
+        "id": 253,
+        "name": "Star Trek",
+        "original_name": "Star Trek",
+        "overview": "Star Trek: The Original Series ilk kez ABD'de 8 Eylül 1966 Cuma günü NBC televizyonunda yayınlandı. Dizi William Shatner tarafından oynanan Kaptan Kirk'ün kumandasındaki Atılgan Yıldız Gemisi'nin mürettabatını ve onların \"daha önce hiç kimsenin gitmediği yerlere cesurca gitmek\" olan 5 yıllık görevi'nin hikâyelerini anlatmaktadır. Sadece 3 sezon sonunda dizi yayından kaldırıldı ve son bölüm 3 Haziran 1969'da gösterildi. Tekrarların gösterimini takriben bir kültürel fenomen haline geldi. İlk başta sadece Uzay Yolu olarak bilinmesine rağmen daha sonraki yıllarda Star Trek: Original Series ya da Klasik Trek (Classic Trek) olarak anıldı.",
+        "poster_path": "/zgK03lfPjkAsuh8LnNsofWgB7WM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 43.6383,
+        "first_air_date": "1966-09-08",
+        "vote_average": 8.011,
+        "vote_count": 1332,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gH5HQbMsSfPc0R41JYTefjB7klZ.jpg",
+        "id": 314,
+        "name": "Star Trek: Enterprise",
+        "original_name": "Star Trek: Enterprise",
+        "overview": "Orijinal Uzay Yolu'ndan yüzyıl önce geçen bu yeni hikayede, Kaptan Archer ve mürettebatı ilk Atılgan gemisiyle uzayı keşfediyor ve yeni türlerle tanışıyor.",
+        "poster_path": "/tsbBTABtNgu0ycsFpnIhiQ5woOM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 62.1192,
+        "first_air_date": "2001-09-26",
+        "vote_average": 7.565,
+        "vote_count": 841,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sEjNaoENrqIZONKNn1iLFB0Us9k.jpg",
+        "id": 1972,
+        "name": "Battlestar Galactica",
+        "original_name": "Battlestar Galactica",
+        "overview": "İnsanlar, 12 Koloni gezegeninde gelişmiş bir uygarlık kurmuştur. Ancak insanlık, kendi yarattıkları sibernetik varlıklar olan Cylonlar tarafından büyük bir saldırıya uğrar. Cylonlar, kolonilere ani bir nükleer saldırı düzenleyerek insan ırkının neredeyse tamamını yok eder. Hayatta kalan az sayıdaki insan, eski bir savaş gemisi olan Battlestar Galactica ve bir grup sivil uzay gemisiyle kaçmayı başarır. Amiral William Adama ve Başkan Laura Roslin önderliğinde, hayatta kalanlar efsanevi bir gezegen olan Dünya'yı aramaya koyulurlar. Ancak Cylonlar peşlerini bırakmaz ve hayatta kalanlar arasında da iç çatışmalar, ihanet ve güç mücadeleleri baş gösterir.",
+        "poster_path": "/99PJSbcO2LeM10uOGWeFihNp77j.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 56.9897,
+        "first_air_date": "2004-10-18",
+        "vote_average": 8.209,
+        "vote_count": 1603,
+        "origin_country": [
+          "US",
+          "GB",
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
+        "id": 1400,
+        "name": "Seinfeld",
+        "original_name": "Seinfeld",
+        "overview": "Seinfeld, dokuz sezon boyunca yayınlanan toplam 169 bölümle televizyon tarihinin en çarpıcı devrimlerinden birini gerçekleştirdi. Yayınlandığı ülkelerde televizyonların en sevilen komedisi olmayı başaran Seinfeld, aynı kentte yaşayan dört arkadaşın gündelik hayatından kesitler sunuyor ve son derece basit fikirlerden ilginç açılımlara uzanıyor.\n\nAna karakter Jerry Seinfeld kadar yan karakterler de dikkat çekici. Hemen her konuda kararsız biri olan Elaine, bitmeyen kompleksleriyle herkesi bıktıran George Costanza ve tuhaf karizması, parlak fikirleriyle Cosmo Kramer. Kumsalda uyuyor gibi hissedebilmek için kumla doldurulmuş yatakta uyumak fikri Cosmo Kramer’in dehasına sadece küçük bir örnek.",
+        "poster_path": "/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 110.4967,
+        "first_air_date": "1989-07-05",
+        "vote_average": 8.258,
+        "vote_count": 2109,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/kG7GwGBHpCI6lA6SaEydKHHOxkU.jpg",
+        "id": 85948,
+        "name": "Star Trek: Lower Decks",
+        "original_name": "Star Trek: Lower Decks",
+        "overview": "2380'de Yıldız Filosu'nun en önemsiz gemilerinden biri olan U.S.S. Cerritos'de görev yapan destek ekibinin hayatları.  Teğmenler Mariner, Boimler, Rutherford ve Tendi, genellikle gemi çok sayıda bilim kurgu anormalliği tarafından sallanırken görevlerine ve sosyal yaşamlarına ayak uydurmak zorundadır.",
+        "poster_path": "/i7Em3r7KCyNfkOwMkyqN8UMvK8S.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          16,
+          35
+        ],
+        "popularity": 45.0081,
+        "first_air_date": "2020-08-06",
+        "vote_average": 7.631,
+        "vote_count": 369,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/jV4FYuqYgdMfM8n9xqYmpBl1eZu.jpg",
+        "id": 1215,
+        "name": "Californication",
+        "original_name": "Californication",
+        "overview": "Filmin baş karakteri Hank Moody yetenekli bir yazardır. Lakin uzun zamandır bir şey üretemiyordur. Aynı zamanda kızı Becca Moody için iyi bir baba olmaya çalışmasına ve kızının annesi Karen ile tekrar birlikte yaşamak istemesine rağmen karmaşık özel hayatından dolayı bunu bir türlü istikrarlı bir şekilde gerçekleştiremez. Hank hayatında karışıklığa Kaliforniya'da yaşamanın neden olduğunu bazen belirtir. Kızı ve kızının annesi Karen ile eskiden mutlu yaşadıkları eyalete geri dönmek istemektedir. Dizi büyük ölçüde Hank Moody karakteri üzerinde döner. Dizi bölümleri aynı zamanda yan karakterler olan Hank'in menejeri Charlie Runkle ve onun karısı Marcy Runkle'ın hikayeleri üzerine döner. Bu 5 karakterin dışındaki karakterler ise sezonluk veya bölümlük olarak diziye katılır. Charlie ve Marcy Runkle'ın evliliği ve ilişkileri sorunludur. Charlie ve Hank sevdikleriyle ilişkilerini düzeltmek istemelerine rağmen özel hayatlarında yaptıkları hatalar sevdikleri ile büyük sorunlar oluşturmaktadır. Hank karşı cins için mıknatıs gibi bir kişidir. Charlie ise bir süre sonra kadınlar konusunda Hank gibi birisi olmak istediğine karar verir.",
+        "poster_path": "/jPqOY8cq9KXQN4bD7zJGHCNvcb4.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 27.1873,
+        "first_air_date": "2007-08-13",
+        "vote_average": 7.644,
+        "vote_count": 1169,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zJkLznQNzeLfKuD238Czo6jk65X.jpg",
+        "id": 71365,
+        "name": "Savaş Yıldızı Galactica",
+        "original_name": "Battlestar Galactica",
+        "overview": "Hayatta kalan son insan ırkı, ait oldukları gerçek dünyayı aramaya devam ediyorlar. Evlerini yok eden bu yarıştan kaçan Battlestar Galactica insanları, hayatta kalmayı başarabilmek için zorlayıcı ve şok edici durumlarla mücadele etmeye devam ederlerken, Cylonlar Yeni Caprica’nın kontrolünü kaybedince Dünya’yı arama amaçlarından sapıyorlar.",
+        "poster_path": "/imTQ4nBdA68TVpLaWhhQJnb7NQh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10765
+        ],
+        "popularity": 7.8573,
+        "first_air_date": "2003-12-08",
+        "vote_average": 8.201,
+        "vote_count": 875,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/jB3CQHS4zBzD00yZG936WmsH6P4.jpg",
+        "id": 790,
+        "name": "Herkül Puaro",
+        "original_name": "Agatha Christie's Poirot",
+        "overview": "Agatha Christie'nin 1920'de yazdığı ilk kitabı The Mysterious Affair at Styles (Styles'taki Esrarengiz Vak'a/Ölüm Sessiz Geldi)'tan 1976'da yayımlanan son romanı Curtain (Ve Perde İndi)'ye kadar ona birçok romanda bulunan küçük, titiz, zeki, simetri hastası Belçikalı dedektifin maceralarını konu alan dizi. Kısa hikaye ve romanları televizyon filmi tanında BBC, ITV, ABC Family yapımı olarak birçok ülkenin televizyonunda yayınlandı. Poirot kimi zaman sekreteri Miss Lemon, kimi zaman en yakın arkadaşı Yüzbaşı Hastings, çoğunlukla arkadaşı Başmüfettiş Japp'le karıştıkları cinayet vakalarını \"küçük gri hücreleri\"yle çözer. | Tam Bolumleri Olsun ve Lutfen Hepsi Turkce Seslendirmeli Olsun  Bir RicaTesekur ederim",
+        "poster_path": "/6f4IVfbn8knb7RjdZlGLuW5guDc.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 58.2614,
+        "first_air_date": "1989-01-08",
+        "vote_average": 8.146,
+        "vote_count": 495,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/mV1OPLgFSqF02VPBNtkXLjF9t4s.jpg",
+        "id": 85723,
+        "name": "Raised by Wolves",
+        "original_name": "Raised by Wolves",
+        "overview": "Raised By Wolves, gizemli bir gezegende yaşayan ve insanların çocuklarını yetiştirmekle görevlendirilen iki androidin maceralarını konu ediyor. Gittikçe genişleyen insan kolonisi, dini farklılıklardan doğan büyük bir tehditle karşılaşır. Bu süreçte androidleri oldukça zorlu bir görev beklemektedir.",
+        "poster_path": "/mTvSVKMn2Npf6zvYNbGMJnYLtvp.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 22.4722,
+        "first_air_date": "2020-09-03",
+        "vote_average": 7.538,
+        "vote_count": 1574,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/pimxsUheCUlw3KULQkfQe2j3Z5h.jpg",
+        "id": 15358,
+        "name": "Die ProSieben Märchenstunde",
+        "original_name": "Die ProSieben Märchenstunde",
+        "overview": "Die ProSieben Märchenstunde is a television movie series that has been produced since 2006. It features characters that are exclusively portrayed by German and Austrian comedians and actors. The series is shot in Prague.\n\nThe screenplays have - amongst others - been written by Tommy Krappweis, Erik Haffner and Norman Cöster who came up with the stories of Bernd das Brot. Additionally, they are directing and have cameo appearances. Many actors use their respective dialect.\n\nDie ProSieben Märchenstunde was nominated for the German Comedy Award in the category Best Comedy in 2006. It is also broadcast on Austrian television channel ORF, which is co-producing the series, airing the programme as Die ORF Märchenstunde.",
+        "poster_path": "/14ruX7wvBsaZOFqpbWPzX8XvW8u.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          10751,
+          35
+        ],
+        "popularity": 5.2739,
+        "first_air_date": "2006-03-20",
+        "vote_average": 7.7,
+        "vote_count": 3,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "backdrop_path": "/lodNd9ITHf32q8ybHArHqoWOcXf.jpg",
+        "id": 85949,
+        "name": "Star Trek: Picard",
+        "original_name": "Star Trek: Picard",
+        "overview": "Jean-Luc Picard, Yıldız Filosu'ndan emekli olduktan 14 yıl sonra Chateau Picard'da sakin bir hayat yaşar. Ancak onun huzurlu yaşamı, Dahj adındaki esrarengiz gizemli bir kadın tarafından arandığında yarım kalır. Picard, yardımına ihtiyaç duyan Dahj'ın sorununu araştırmaya başladığında Dahj'ın, kendi geçmişiyle bağlantısı olabileceğini anlar ve kendi geçmişiyle yüzleşmek zorunda kalır.",
+        "poster_path": "/bONYUEn7iMFCebhDuqNG7hqqwoO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 35.0123,
+        "first_air_date": "2020-01-23",
+        "vote_average": 7.296,
+        "vote_count": 1760,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/yQNtCRbofKQAPKRKy101tV0BEKI.jpg",
+        "id": 8624,
+        "name": "Eastbound & Down",
+        "original_name": "Eastbound & Down",
+        "overview": "Years after he turned his back on his hometown, a burned-out major league ballplayer returns to teach phys ed at his old middle school.",
+        "poster_path": "/grAnpm6mv6aipoGeS0yS6RuTZSG.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 15.0987,
+        "first_air_date": "2009-02-15",
+        "vote_average": 7.407,
+        "vote_count": 311,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2emkZBBiZG7pE7RBuIWtbKZ2a33.jpg",
+        "id": 873,
+        "name": "Columbo",
+        "original_name": "Columbo",
+        "overview": "Komiser Kolombo'da sherlokyan teğmen-dedektif rolünde Peter Falk var. Kirli pardesüsü, eski arabası, sempatik tavrıyla cinayet davalarını çözüyor. Katile yapışıyor, kızdırıcı sorularla köşeye sıkıştırıyor, ipuçlarını zekice buluyor, birleştiriyor. 70'lerin favori dizisiydi.   2 Golden Globes ödülü. 20 farklı ödül ve 45 adaylık.",
+        "poster_path": "/2JCD8vab3fircOU8cM2HJCxfv4I.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 71.0035,
+        "first_air_date": "1971-09-15",
+        "vote_average": 8.085,
+        "vote_count": 732,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/hEJE1WsZZqjJsq0Ltpom5qZzWEE.jpg",
+        "id": 92621,
+        "name": "Brassic",
+        "original_name": "Brassic",
+        "overview": "A group of working-class friends finding unconventional ways to win at life in suburban northern England. These lads have dealt, scammed, bribed and conned their way through adolescence, but now, their dealing and stealing is catching up with them and a whole load of trouble is heading their way.",
+        "poster_path": "/tnIq3yiLMZJpaJyRs8FNV7WJs6V.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18,
+          80
+        ],
+        "popularity": 16.9164,
+        "first_air_date": "2019-08-22",
+        "vote_average": 8.49,
+        "vote_count": 206,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/b8fW3cOXCHKWNQw2g37A45RpICk.jpg",
+        "id": 918,
+        "name": "M*A*S*H",
+        "original_name": "M*A*S*H",
+        "overview": "The 4077th Mobile Army Surgical Hospital is stuck in the middle of the Korean war. With little help from the circumstances they find themselves in, they are forced to make their own fun. Fond of practical jokes and revenge, the doctors, nurses, administrators, and soldiers often find ways of making wartime life bearable.",
+        "poster_path": "/6rhuM3oMoEWKxAdrm7IyM8oq8cC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10768,
+          18,
+          35
+        ],
+        "popularity": 98.4946,
+        "first_air_date": "1972-09-17",
+        "vote_average": 7.915,
+        "vote_count": 680,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/te4VJNMipsFQofCkiytuyswGDlV.jpg",
+        "id": 1437,
+        "name": "Firefly",
+        "original_name": "Firefly",
+        "overview": "2500'lü yıllarda Dünya nüfusunun iyice artması ve kaynakların tükenmesi sonucu insanların başka gezegenlere göçmesi başlıyor. Merkez gezegenlere yerleşenler, medeniyeti devam etttiriyor ve Alliance'ı kuruyor. Diğerleri ise çevre gezegenlere ve aylara yerleşerek bağımsızlıklarını ilan ediyor. Alliance bu bağımsızları kendine katmak için savaş başlatıyor. Savaş sonrası Kaptan Malcolm Reynolds, Firefly model bir uzay gemisi kaçırıp kaçakçılık işine giriyor.",
+        "poster_path": "/vZcKsy4sGAvWMVqLluwYuoi11Kj.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          10765
+        ],
+        "popularity": 17.7271,
+        "first_air_date": "2002-09-20",
+        "vote_average": 8.3,
+        "vote_count": 2162,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/oHnig7tDh7Lox4GZ95dFmCbU6US.jpg",
+        "id": 1705,
+        "name": "Fringe",
+        "original_name": "Fringe",
+        "overview": "FBI dünya çapında açıklanamayan olayları aydınlatmak için Boston, Massachusett merkezli Fringe adında bir ekip kurar. FBI’da özel ajan olarak görev alan Olivia Dunham, metafizik üzerine araştırmalarda bulunan bilim adamı Walter Bishop ve bilim adamının oğlu Peter Bishop’ın esrarengiz olayları araştırmak için görevlendirilir.",
+        "poster_path": "/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          9648
+        ],
+        "popularity": 52.2583,
+        "first_air_date": "2008-09-09",
+        "vote_average": 8.1,
+        "vote_count": 2556,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5QEzscZSI9CXCb7NAU9GsFM1n7X.jpg",
+        "id": 87050,
+        "name": "Hollywood",
+        "original_name": "Hollywood",
+        "overview": "2. Dünya Savaşı sonrası Hollywoodu'nda bir grup hırslı oyuncu ve yönetmen adayı, eğlence dünyası hayallerinin gerçeğe dönüşmesi için neredeyse her şeyi yapacak. (18+ yaş üzeri için uygundur.)",
+        "poster_path": "/8AvVBcuCpESqdQicuX7s4WOGo1V.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 5.0255,
+        "first_air_date": "2020-05-01",
+        "vote_average": 7.313,
+        "vote_count": 313,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

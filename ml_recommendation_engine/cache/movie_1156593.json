@@ -1,0 +1,978 @@
+{
+  "adult": false,
+  "backdrop_path": "/k24eZq5I3jyz4htPkZCRpnUmBzE.jpg",
+  "belongs_to_collection": {
+    "id": 1156666,
+    "name": "Culpables - Colección",
+    "poster_path": "/cAimhhErEnKdvaZoU6Wtbf38sTS.jpg",
+    "backdrop_path": "/7N9p8D39MXJDfm14zlBwW7mBh7g.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romantik"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    }
+  ],
+  "homepage": "",
+  "id": 1156593,
+  "imdb_id": "tt28510079",
+  "origin_country": [
+    "ES",
+    "US"
+  ],
+  "original_language": "es",
+  "original_title": "Culpa tuya",
+  "overview": "Dünya çapında çok izlenen Culpa Mía'nın devam filmi olan bu filmde Noah ile Nick arasındaki aşk, ebeveynlerinin onları ayırmak için gösterdiği tüm çabalara rağmen sarsılmadan devam etmektedir. Ama Nick'in işi ve Noah'nın üniversiteye başlaması, ilişkilerinin ve Leister ailesinin temellerini sarsacak yeni ilişkilere kapı aralar. Bu kadar insanın yıkmaya çalıştığı bir ilişki ayakta kalabilir mi?",
+  "popularity": 195.103,
+  "poster_path": "/eCfad55pTjg9IQ6LkzNGXoWg1rz.jpg",
+  "production_companies": [
+    {
+      "id": 32485,
+      "logo_path": "/fVXreZkiJTOq1cCi6htSQlPSy7R.png",
+      "name": "Pokeepsie Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 210099,
+      "logo_path": "/d6HwljzlOzxJ4tXlrpRkNZaZMWL.png",
+      "name": "Amazon MGM Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-12-26",
+  "revenue": 0,
+  "runtime": 118,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Culpa Tuya",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 1120,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2527414,
+        "known_for_department": "Acting",
+        "name": "Nicole Wallace",
+        "original_name": "Nicole Wallace",
+        "popularity": 65.945,
+        "profile_path": "/xlvq6OYCN6yQef4fpJQtwVyQxqr.jpg",
+        "cast_id": 1,
+        "character": "Noah Morgan",
+        "credit_id": "64c12ecefdc1460139f9e120",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2786960,
+        "known_for_department": "Acting",
+        "name": "Gabriel Guevara",
+        "original_name": "Gabriel Guevara",
+        "popularity": 89.47,
+        "profile_path": "/pviRYKEEmoPUfLYwP1VHJ6LQcRg.jpg",
+        "cast_id": 2,
+        "character": "Nick Leister",
+        "credit_id": "64c12ed6df86a80125827557",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 970027,
+        "known_for_department": "Acting",
+        "name": "Marta Hazas",
+        "original_name": "Marta Hazas",
+        "popularity": 9.423,
+        "profile_path": "/1dbeTFRCbWBt70dIGjYHKVLnpaG.jpg",
+        "cast_id": 13,
+        "character": "Rafaela",
+        "credit_id": "65e0ed9851f99a018557897f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1251336,
+        "known_for_department": "Acting",
+        "name": "Iván Sánchez",
+        "original_name": "Iván Sánchez",
+        "popularity": 5.708,
+        "profile_path": "/woVz8D7t1VUKjFJnsTAdc8tyz5C.jpg",
+        "cast_id": 12,
+        "character": "William Leister",
+        "credit_id": "65e0ed456a300b017d1dc9fc",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4105602,
+        "known_for_department": "Acting",
+        "name": "Eva Ruiz",
+        "original_name": "Eva Ruiz",
+        "popularity": 5.305,
+        "profile_path": "/bcu0nmQvhxwTzh4csc4kuxJsQee.jpg",
+        "cast_id": 14,
+        "character": "Jenna",
+        "credit_id": "65e0edda41a561016382560b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2126335,
+        "known_for_department": "Acting",
+        "name": "Víctor Varona",
+        "original_name": "Víctor Varona",
+        "popularity": 6.413,
+        "profile_path": "/lcwFAjHjhJXkxf59TXGSjGGOlLj.jpg",
+        "cast_id": 15,
+        "character": "Lion",
+        "credit_id": "65e0ef982d531a0162bf8423",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3513082,
+        "known_for_department": "Acting",
+        "name": "Gabriela Andrada",
+        "original_name": "Gabriela Andrada",
+        "popularity": 9.818,
+        "profile_path": "/h8cAdDqbDK2ayGIuxQQdNCzyCsb.jpg",
+        "cast_id": 16,
+        "character": "Sofía",
+        "credit_id": "65e0f001724de10187de9bf1",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3904252,
+        "known_for_department": "Acting",
+        "name": "Alex Bejar",
+        "original_name": "Alex Bejar",
+        "popularity": 4.445,
+        "profile_path": "/kPeFa6xX57IyhAfoT8dtgfPMgmX.jpg",
+        "cast_id": 17,
+        "character": "Briar",
+        "credit_id": "65e0f09541a5610186825d32",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 261,
+        "known_for_department": "Acting",
+        "name": "Goya Toledo",
+        "original_name": "Goya Toledo",
+        "popularity": 8.707,
+        "profile_path": "/dihdQxVr2sFA1XznPK4orzC2m7i.jpg",
+        "cast_id": 20,
+        "character": "Anabel",
+        "credit_id": "65e0f37c9dee58017c7cdb1f",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2785763,
+        "known_for_department": "Acting",
+        "name": "Javier Morgade",
+        "original_name": "Javier Morgade",
+        "popularity": 4.25,
+        "profile_path": "/hcDV10bTZlm1rTi0NRhoGIpdicw.jpg",
+        "cast_id": 18,
+        "character": "Michael",
+        "credit_id": "65e0f0b46a300b017d1dcbde",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1206196,
+        "known_for_department": "Acting",
+        "name": "Jaime Ordóñez",
+        "original_name": "Jaime Ordóñez",
+        "popularity": 4.673,
+        "profile_path": "/oORmDftKZFr27jNaZ1XKcVY3eR8.jpg",
+        "cast_id": 25,
+        "character": "Esteban",
+        "credit_id": "6780526ced679e53f87b1482",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4105608,
+        "known_for_department": "Acting",
+        "name": "Noah Casas",
+        "original_name": "Noah Casas",
+        "popularity": 2.294,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Maggie",
+        "credit_id": "6780528fc5d2e96e267b25bf",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 549833,
+        "known_for_department": "Acting",
+        "name": "Sergi Mateu",
+        "original_name": "Sergi Mateu",
+        "popularity": 1.393,
+        "profile_path": "/vyHK0gKYY0USW0vycjORVGvRZ5J.jpg",
+        "cast_id": 27,
+        "character": "Andrew Leister",
+        "credit_id": "678052a6218fd57acf4e9b34",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3117422,
+        "known_for_department": "Acting",
+        "name": "Felipe Londoño",
+        "original_name": "Felipe Londoño",
+        "popularity": 4.39,
+        "profile_path": "/gUKu2bla3ZKtwuzfymMbyzUsobC.jpg",
+        "cast_id": 19,
+        "character": "Luca",
+        "credit_id": "65e0f35ea39d0b018608bda5",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1377932,
+        "known_for_department": "Acting",
+        "name": "Paloma Catalán",
+        "original_name": "Paloma Catalán",
+        "popularity": 2.067,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Petra",
+        "credit_id": "678052dc7732209e17bb4468",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56468,
+        "known_for_department": "Acting",
+        "name": "Mariano Venancio",
+        "original_name": "Mariano Venancio",
+        "popularity": 2.552,
+        "profile_path": "/aZT4jP35s7hwOspb4nW1wqKZpmE.jpg",
+        "cast_id": 29,
+        "character": "Martin",
+        "credit_id": "678052ed12667968854eb5c1",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3212974,
+        "known_for_department": "Acting",
+        "name": "Fran Berenguer",
+        "original_name": "Fran Berenguer",
+        "popularity": 9.086,
+        "profile_path": "/uYi3MOwqtNdfZt82DdvzKCZku50.jpg",
+        "cast_id": 30,
+        "character": "Ronnie",
+        "credit_id": "678052f97732209e17bb448f",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84772,
+        "known_for_department": "Acting",
+        "name": "Pedro Gutiérrez",
+        "original_name": "Pedro Gutiérrez",
+        "popularity": 0.231,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Padre de Jenna",
+        "credit_id": "6780530fee84fa4def7af858",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1639595,
+        "known_for_department": "Acting",
+        "name": "Ángel Hidalgo",
+        "original_name": "Ángel Hidalgo",
+        "popularity": 0.318,
+        "profile_path": "/A1pJtaxvGzBzOMQ6KFZzdbDtbNB.jpg",
+        "cast_id": 32,
+        "character": "Ministro Zabala",
+        "credit_id": "6780532212667968854eb5e3",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 144302,
+        "known_for_department": "Acting",
+        "name": "Claudia Bassols",
+        "original_name": "Claudia Bassols",
+        "popularity": 1.254,
+        "profile_path": "/mb99KGWOF1G6hWV7xa0GLrKQBf1.jpg",
+        "cast_id": 33,
+        "character": "Senora Zabala",
+        "credit_id": "6780533944d649ffae7b5cf7",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4106544,
+        "known_for_department": "Acting",
+        "name": "Míchel Serrano",
+        "original_name": "Míchel Serrano",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Bobby",
+        "credit_id": "678053513881c79419bb5415",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3095563,
+        "known_for_department": "Acting",
+        "name": "Julia Möller",
+        "original_name": "Julia Möller",
+        "popularity": 0.229,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Madre Briar",
+        "credit_id": "67805362c5d2e96e267b25f7",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2349741,
+        "known_for_department": "Acting",
+        "name": "Ángel Saavedra",
+        "original_name": "Ángel Saavedra",
+        "popularity": 0.001,
+        "profile_path": "/iSbik8t2EF3NUYwbvAcWdoW9qx8.jpg",
+        "cast_id": 36,
+        "character": "Presentador",
+        "credit_id": "6780537c12667968854eb627",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5169635,
+        "known_for_department": "Acting",
+        "name": "Maddie Mae",
+        "original_name": "Maddie Mae",
+        "popularity": 0.008,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Cantante restaurante",
+        "credit_id": "678053a03881c79419bb5493",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4105605,
+        "known_for_department": "Acting",
+        "name": "Adriana Ubani",
+        "original_name": "Adriana Ubani",
+        "popularity": 3.857,
+        "profile_path": "/7TlpwffkqeTu1mQNZW3OG0IdTFm.jpg",
+        "cast_id": 38,
+        "character": "Anna",
+        "credit_id": "678053ae12667968854eb65e",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78996,
+        "known_for_department": "Directing",
+        "name": "Antonio Hernández",
+        "original_name": "Antonio Hernández",
+        "popularity": 0.697,
+        "profile_path": "/uGM5bPOSnjOrdqpb6sIDeQfNq7Z.jpg",
+        "cast_id": 39,
+        "character": "Mikel",
+        "credit_id": "6780542544d649ffae7b5d58",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1983424,
+        "known_for_department": "Acting",
+        "name": "Fran Morcillo",
+        "original_name": "Fran Morcillo",
+        "popularity": 1.522,
+        "profile_path": "/ovPzGuRvMQhB4OrC6lfxlEGLewD.jpg",
+        "cast_id": 21,
+        "character": "Simón",
+        "credit_id": "65e0f3b107e2810163dc6d82",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2508286,
+        "known_for_department": "Acting",
+        "name": "José Manuel Palacios",
+        "original_name": "José Manuel Palacios",
+        "popularity": 0.06,
+        "profile_path": "/1oXz8Hht5pBluq700BmHBQwWbVQ.jpg",
+        "cast_id": 22,
+        "character": "Dioni",
+        "credit_id": "65e0f420724de10187de9dbf",
+        "order": 27
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4106905,
+        "known_for_department": "Writing",
+        "name": "Mercedes Ron",
+        "original_name": "Mercedes Ron",
+        "popularity": 2.07,
+        "profile_path": null,
+        "credit_id": "64c54c10cadb6b01440d5d47",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57865,
+        "known_for_department": "Directing",
+        "name": "Álex de la Iglesia",
+        "original_name": "Álex de la Iglesia",
+        "popularity": 5.305,
+        "profile_path": "/nfFGSO2Yn5kJTxaTep3lHfyQG6O.jpg",
+        "credit_id": "64c12f562f1be000ae4ba431",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 512958,
+        "known_for_department": "Acting",
+        "name": "Carolina Bang",
+        "original_name": "Carolina Bang",
+        "popularity": 6.38,
+        "profile_path": "/zwY5dMMeRAxUGU2Q50u7mWk3DA0.jpg",
+        "credit_id": "64c12f63097c49011d82bc77",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1739102,
+        "known_for_department": "Directing",
+        "name": "Domingo González",
+        "original_name": "Domingo González",
+        "popularity": 2.558,
+        "profile_path": "/bTf1OPwNZSIbVHl7SII6Yv429G4.jpg",
+        "credit_id": "64c17c3d871b34011e697f24",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1739102,
+        "known_for_department": "Directing",
+        "name": "Domingo González",
+        "original_name": "Domingo González",
+        "popularity": 2.558,
+        "profile_path": "/bTf1OPwNZSIbVHl7SII6Yv429G4.jpg",
+        "credit_id": "674ddb345c9ffdbae7692b9a",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1495797,
+        "known_for_department": "Writing",
+        "name": "Sofía Cuenca",
+        "original_name": "Sofía Cuenca",
+        "popularity": 1.193,
+        "profile_path": "/d5JbOSgQFcLd0GlBSotuNXK9Yia.jpg",
+        "credit_id": "674ddb3f7473778bbd9afc75",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 1252,
+        "name": "suicide attempt"
+      },
+      {
+        "id": 9663,
+        "name": "sequel"
+      },
+      {
+        "id": 159315,
+        "name": "mental health"
+      },
+      {
+        "id": 304976,
+        "name": "romantic drama"
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": null,
+        "id": 1252309,
+        "title": "Ask Me What You Want",
+        "original_title": "Pídeme lo que quieras",
+        "overview": "After his father's death, Eric Zimmerman travels to Spain to oversee his company's branches. In Madrid, he falls for Judith and engage in an intense, erotic relationship full of exploration. However, Eric fears his secret may end their affair.",
+        "poster_path": "/76qnVxU2rPdVvipBN3DPQH6fVYB.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          10749,
+          18
+        ],
+        "popularity": 160.178,
+        "release_date": "2024-11-29",
+        "video": false,
+        "vote_average": 6.165,
+        "vote_count": 88
+      },
+      {
+        "backdrop_path": "/rOmUuQEZfPXglwFs5ELLLUDKodL.jpg",
+        "id": 845781,
+        "title": "Kod Adı: Kırmızı",
+        "original_title": "Red One",
+        "overview": "Kuzey Kutbu'nun Güvenlik Şefi (Dwayne Johnson), Noel'i kurtarmak için dünyanın en kötü şöhretli ödül avcısıyla (Chris Evans) dünyayı dolaşacakları aksiyon dolu bir görevde bir araya gelmek zorunda kalır.",
+        "poster_path": "/ymEu97tJ8h2sUAhaw8CU3MGTi9v.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          14,
+          35
+        ],
+        "popularity": 238.025,
+        "release_date": "2024-10-31",
+        "video": false,
+        "vote_average": 7.07,
+        "vote_count": 2361
+      },
+      {
+        "backdrop_path": "/pqulyfkug9A7TmmRn5zrbRA8TAY.jpg",
+        "id": 1255788,
+        "title": "The Gardener",
+        "original_title": "Le Jardinier",
+        "overview": "Every year the Prime Minister has a list of all kinds of troublemakers eliminated in the name of the famous Reason of State. Serge Shuster, Special Adviser to the President of the Republic, finds himself on this list, better known as the Matignon List.  Condemned to certain death and at the heart of an implacable plot and a state secret that also put his family in danger, Serge, his wife and children have only one hope left - their gardener, Léo, who hates it when « slugs » invade his garden... Especially those that want to kill innocent families.",
+        "poster_path": "/5T9WR7vIOnHm6xhVt5zBuPbBgt1.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          28,
+          35
+        ],
+        "popularity": 211.368,
+        "release_date": "2025-01-30",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 87
+      },
+      {
+        "backdrop_path": "/lntyt4OVDbcxA1l7LtwITbrD3FI.jpg",
+        "id": 1010581,
+        "title": "Culpa Mia",
+        "original_title": "Culpa mía",
+        "overview": "Noah yaşadığı şehri, sevgilisini ve arkadaşlarını geride bırakıp annesinin yeni kocasının malikânesine taşınmak zorunda kalır. Orada tanıştığı yeni üvey kardeşi Nick'le karakterleri uyuşmasa da aralarındaki çekim ile asi ve sancılı mizaçları ikilinin dünyasını altüst eder ve birbirlerine sırılsıklam âşık olmalarına neden olur.",
+        "poster_path": "/hzdRkHz8fSYwZSzkoUvS9jM5RPH.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          10749,
+          18
+        ],
+        "popularity": 229.493,
+        "release_date": "2023-06-08",
+        "video": false,
+        "vote_average": 7.829,
+        "vote_count": 3588
+      },
+      {
+        "backdrop_path": "/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+        "id": 939243,
+        "title": "Kirpi Sonic 3",
+        "original_title": "Sonic the Hedgehog 3",
+        "overview": "Süpersonik hızlarda koşabilen mavi bir kirpi olan Sonic'in maceralarını konu alan bu seride, dostları Knuckles ve Tails ile birlikte, daha önce karşılaştıkları hiçbir şeye benzemeyen gizemli ve güçlü bir düşman olan Shadow'a karşı mücadele ediyor. Shadow, sahip olduğu benzersiz yeteneklerle Sonic ve arkadaşlarını zorluyor. Bu tehlikeli düşmanı durdurmak ve gezegeni korumak için Sonic ve ekibi, beklenmedik ittifaklar kurmak zorunda kalıyor.",
+        "poster_path": "/xo04W0XBJRRERjATgmDm1QsJUTP.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          878,
+          35,
+          10751
+        ],
+        "popularity": 1013.822,
+        "release_date": "2024-12-19",
+        "video": false,
+        "vote_average": 7.741,
+        "vote_count": 2083
+      },
+      {
+        "backdrop_path": "/rfG5iZD7vMq3tgbpG3oOjoZIcLU.jpg",
+        "id": 219173,
+        "title": "It's Your Fault",
+        "original_title": "Por tu culpa",
+        "overview": "Are we what others see, or are we what we allow others to see? Most likely it is the view of others which delimits our own identity, as a young divorced mother named Julieta convinces herself. This evening is like any other: her two young sons are roughhousing in their cramped apartment. They whoop and shout while their mother makes desperately futile attempts at the computer to concentrate on writing a report for work. Feeling intense pressure, Julieta tries to quiet the conflict but finds it difficult without a partner to help. The tense situation changes unexpectedly when her two-year-old falls and hurts himself. In this story of a mother suspected of hurting her own child, the movie investigates themes of motherhood, guilt, duty, the role of men and women, fathers and mothers",
+        "poster_path": "/adq0PXI1k8EVJD6l6XaC4z5iLNe.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 0.634,
+        "release_date": "2010-06-02",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 7
+      },
+      {
+        "backdrop_path": "/uJK0jjJ8QDOQw5lcNBwu059ht4D.jpg",
+        "id": 1294203,
+        "title": "Culpa Mía: Londra",
+        "original_title": "My Fault: London",
+        "overview": "18 yaşındaki Noah, bir süre önce varlıklı İngiliz iş adamı William'a âşık olan annesiyle birlikte Amerika'dan Londra'ya taşınır. Noah, William'ın serseri oğlu Nick'le tanışır ve çok geçmeden onunla arasında kaçınılmaz bir çekim olduğunu fark eder. Noah yazı yeni hayatına uyum sağlamaya çalışarak geçirirken trajik geçmişi ilk kez âşık olduğu günlerde peşini bırakmayacaktır.",
+        "poster_path": "/9tjSCAmJKWVq0olFjkYiwyy1hqA.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10749,
+          18
+        ],
+        "popularity": 324.688,
+        "release_date": "2025-02-12",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 292
+      },
+      {
+        "backdrop_path": "/cmT2WYpFBRk4UjQ0P984BoF8Eba.jpg",
+        "id": 957119,
+        "title": "Sidelined: The QB and Me",
+        "original_title": "Sidelined: The QB and Me",
+        "overview": "Dallas, güçlü iradeli ancak yük altında bir dansçıdır ve ülkenin en iyi dans okuluna, merhum annesinin de mezun olduğu okula, girmeye kararlıdır. Ancak bu hayal, alaycı ama içten içe yas tutan futbol yıldızı Drayton’ın benzersiz hikayesiyle hayatına ani bir şekilde dahil olmasıyla beklenmedik bir şekilde rayından çıkar. İkisi birlikte hayallerine ulaşmayı başarabilecek mi, yoksa hayalleri bir kenara mı itilecek?",
+        "poster_path": "/j5s5cNCayCqGJuRvDihgQhjgoEP.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10749
+        ],
+        "popularity": 123.349,
+        "release_date": "2025-02-06",
+        "video": false,
+        "vote_average": 5.792,
+        "vote_count": 36
+      },
+      {
+        "backdrop_path": "/bHeUgZKqduubnNl8GshjrpHS9lF.jpg",
+        "id": 558449,
+        "title": "Gladyatör II",
+        "original_title": "Gladiator II",
+        "overview": "Gladyatör Maximus Decimus Meridius’un ölümünden 15 yıl sonrasıdır. Kana susamış kalabalıklar yarı deli ikiz imparatorları zalimliğin yeni zirvelerine iterken Kolezyum’daki savaşlar çok daha ölümcül ve görkemli hâle gelmiştir. Roma İmparatorluğu sınırlarını genişleterek, yoluna çıkan her kültürü yağmalayarak ve hayatta kalanları ringde yaşamları için savaşmaya zorlayarak yeryüzündeki yürüyüşünü sürdürmektedir.",
+        "poster_path": "/dARTCpnHY0R0B28j5q5ynq7erua.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          18
+        ],
+        "popularity": 490.786,
+        "release_date": "2024-11-13",
+        "video": false,
+        "vote_average": 6.767,
+        "vote_count": 2952
+      },
+      {
+        "backdrop_path": "/2qaFnZxMkj5nKz1MWinaVNfg7T7.jpg",
+        "id": 1209450,
+        "title": "National Family",
+        "original_title": "Familia Nacional",
+        "overview": "Don Poli, the patriarch of a family embedded in politics, faces the change of party in his state - after a hundred years in power - losing all his privileges. Humiliated and angry, he threatens to disinherit his family and leave to rebuild his life. This forces his children (Kippy, Ramses and Belén) to take extreme measures to ensure their future, causing everything that could go wrong to turn out worse.",
+        "poster_path": "/oSAzrJ0AjFZLUCcHT8YAnuD7egp.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          35,
+          28
+        ],
+        "popularity": 4.455,
+        "release_date": "2023-12-28",
+        "video": false,
+        "vote_average": 6.618,
+        "vote_count": 72
+      },
+      {
+        "backdrop_path": null,
+        "id": 1156594,
+        "title": "Culpa nuestra",
+        "original_title": "Culpa nuestra",
+        "overview": "The relationship between Nick and Noah is going through its best moment. It seems that nothing will be the same for the pair of lovers. A series of events will occur so that both of them can finally understand if they are truly made for each other. Or, if on the contrary, what best suits them is to go their separate ways, even if it is difficult to forget such a strong love or erase the memories tattooed on the heart. Love isn't always enough, and forgiveness is sometimes not enough to fix things. Will they be able to put the past behind them and start over?",
+        "poster_path": null,
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "popularity": 13.267,
+        "release_date": "",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "backdrop_path": "/fTjGOjz6Vwqg0qrPXGxMKffLwMH.jpg",
+        "id": 779816,
+        "title": "White Bird: A Wonder Story",
+        "original_title": "White Bird",
+        "overview": "White Bird: A Wonder Story, İkinci Dünya Savaşı sırasında Nazi işgali altındaki Fransa'da bir çocuk ve ailesi tarafından saklanan genç bir Yahudi kızın hikayesini konu ediyor. 11 yaşındaki Julian Albans, yüz deformitesi ile doğmuş bir sınıf arkadaşını küçümseyen zalim bir çocuktur. Bu durum üzerine büyükannesi Sara ona bir hikaye anlatır: 1940'larda Fransa'da yaşayan Yahudi bir kız, Nazi Almanya'sının anavatanını işgal etmesini izlemek zorunda kalmıştır. Yahudi nufüs toplanıyor ve zalim yöneticiler çocukları hedef alıyordur. Küçük kız, sınıf arkadaşı Julien ve ailesi tarafından kurtarılarak, saklanır. Julien'in çocuk felci nedeniyle yüzünün bozulmasıyla, Yahudi kız dahil sınıf arkadaşları onunla dalga geçer. Ancak Yahudi kız saklandığı sürede Julien ile daha çok vakit geçirdiğinde önyargılarından kurtulmayı öğrenir.",
+        "poster_path": "/s2igE99PVBEMsry3qEGEH3rM83K.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 22.071,
+        "release_date": "2023-10-25",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 151
+      },
+      {
+        "backdrop_path": "/b3mdmjYTEL70j7nuXATUAD9qgu4.jpg",
+        "id": 823219,
+        "title": "Flow: Bir Kedinin Yolculuğu",
+        "original_title": "Straume",
+        "overview": "Kedi, yalnız bir hayvandır. Evi büyük bir sel tarafından yerle bir edilince, çeşitli hayvan türlerinin yaşadığı bir teknede sığınak bulur ve farklılıklarına rağmen onlarla işbirliği yapmak zorunda kalır.",
+        "poster_path": "/yyJuEsfrksJTZnf5Ah2WU7l8k30.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "lv",
+        "genre_ids": [
+          16,
+          14,
+          12
+        ],
+        "popularity": 804.742,
+        "release_date": "2024-08-29",
+        "video": false,
+        "vote_average": 8.3,
+        "vote_count": 1354
+      },
+      {
+        "backdrop_path": "/1w8kutrRucTd3wlYyu5QlUDMiG1.jpg",
+        "id": 762509,
+        "title": "Mufasa: Aslan Kral",
+        "original_title": "Mufasa: The Lion King",
+        "overview": "Mufasa, efsanesini Simba ve Nala'nın kızı aslan yavrusu Kiara'ya aktarması için Rafiki'den yardım istiyor. Geçmişe dönüşlerle anlatılan hikaye, Mufasa'yı kaybolmuş ve yalnız bir yetim yavru olarak tanıtıyor, ta ki kraliyet soyunun varisi Taka adında sempatik bir aslanla tanışana kadar. Şans eseri buluşma, kaderlerini arayan olağanüstü bir grup uyumsuzun yola koyulmasına neden oluyor. Bu grubun arasındaki bağ, tehditkar ve ölümcül bir düşmandan kaçmak için birlikte çalışmaları sonucu sınanıyor.",
+        "poster_path": "/9kNoxoZqpriNLh9OSECyBZc3DZW.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          10751,
+          16
+        ],
+        "popularity": 1086.525,
+        "release_date": "2024-12-18",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 1552
+      },
+      {
+        "backdrop_path": "/ie8OSgIHEl6yQiGJ90dsyBWOpQA.jpg",
+        "id": 839033,
+        "title": "Yüzüklerin Efendisi: Rohirrim'in Savaşı",
+        "original_title": "The Lord of the Rings: The War of the Rohirrim",
+        "overview": "Film, en ünlü Rohan krallarından Miğfer Tokmakel döneminde Dunlandlılar ile yaşanan savaşı ve daha sonra Yüzüklerin Efendisi: İki Kule'de Orta Dünya'nın kaderini etkileyen Borukent Savaşı'nın geçtiği Miğfer Dibi'nin kralın ismiyle anılmasına sebep olan olayları anlatıyor.",
+        "poster_path": "/5htr97RScFopnkxyW1eBtsMsFXb.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          14,
+          12,
+          28
+        ],
+        "popularity": 213.47,
+        "release_date": "2024-12-05",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 470
+      },
+      {
+        "backdrop_path": "/8r4Fk4GZMPZGRBjxFJsZjJICj0O.jpg",
+        "id": 1222248,
+        "title": "No. 24",
+        "original_title": "Nr. 24",
+        "overview": "İkinci Dünya Savaşı'nın eşiğinde, Norveçli genç bir adamın Nazilere direnme azmi hem kendisinin hem de ülkesinin geleceğine yeni bir yön verir.",
+        "poster_path": "/rzsmKSFEsEWBLbJ968abffnfYZ7.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "no",
+        "genre_ids": [
+          10752,
+          36,
+          18
+        ],
+        "popularity": 55.881,
+        "release_date": "2024-10-30",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 252
+      },
+      {
+        "backdrop_path": "/vZG7PrX9HmdgL5qfZRjhJsFYEIA.jpg",
+        "id": 912649,
+        "title": "Venom: Son Dans",
+        "original_title": "Venom: The Last Dance",
+        "overview": "Venom: Son Dans (2024), Eddie Brock ve Venom’un hikâyesinin son bölümünü işleyen bir bilim kurgu, aksiyon ve macera filmidir. Bu filmde, Eddie ve simbiyotu Venom, artık bir arada yaşamaya alışmışlardır. Ancak, kendilerini hem dünyalarından hem de başka düşmanlardan kaçmak zorunda kalan birer kaçak olarak bulurlar. Bu durum, Eddie ve Venom’un hayatta kalmak için güçlü bir ortaklık kurmasını gerektirir.",
+        "poster_path": "/xIjGt7bSU7hgWtYwccfufiM1wWZ.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          878,
+          12
+        ],
+        "popularity": 505.652,
+        "release_date": "2024-10-22",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 2967
+      },
+      {
+        "backdrop_path": "/jyj5u40r8fIwzGWpUoYEICNsoTi.jpg",
+        "id": 1032425,
+        "title": "Dünyanın Sonuna Doğru",
+        "original_title": "The Dead Don't Hurt",
+        "overview": "1860'lı yıllarda, son derece bağımsız olan Fransız-Kanadalı Vivienne Le Coudy, Danimarkalı göçmen Holger Olsen ile birlikte, Nevada'nın tozlu Elk Flats kasabasında bir hayat kurma yolculuğuna çıkar. Holger, büyüyen İç Savaşta Birlik için savaşmaya gitmeye karar verdiğinde, Vivienne kendine yetmek zorundadır; bu, yolsuz bir belediye başkanının kontrolündeki bir kasabada kolay değildir.",
+        "poster_path": "/ijshbgJ8nAq3wN2ZR3vDUDztTGF.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          37,
+          18,
+          10749
+        ],
+        "popularity": 25.112,
+        "release_date": "2024-05-01",
+        "video": false,
+        "vote_average": 6.408,
+        "vote_count": 146
+      },
+      {
+        "backdrop_path": "/6OnoMgGFuZ921eV8v8yEyXoag19.jpg",
+        "id": 1211957,
+        "title": "The Painter",
+        "original_title": "The Painter",
+        "overview": "An ex-CIA operative is thrown back into a dangerous world when a mysterious woman from his past resurfaces. Now exposed and targeted by a relentless killer and a rogue black ops program, he must rely on skills he thought he left behind in a high-stakes game of survival.",
+        "poster_path": "/UZ0ydgbXtnrq8xZCI5lHVXVcH9.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          53
+        ],
+        "popularity": 24.138,
+        "release_date": "2024-01-05",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 123
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

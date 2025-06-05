@@ -1,0 +1,1053 @@
+{
+  "adult": false,
+  "backdrop_path": "/c1CBVe8UzltKScrjnM3aBFd8SA1.jpg",
+  "created_by": [
+    {
+      "id": 2084816,
+      "credit_id": "5b4ae6b00e0a26454001d9d6",
+      "name": "Matt Burnett",
+      "original_name": "Matt Burnett",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2084817,
+      "credit_id": "5b4ae6bf9251417d2001c99c",
+      "name": "Ben Levin",
+      "original_name": "Ben Levin",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    11
+  ],
+  "first_air_date": "2018-03-30",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animasyon"
+    },
+    {
+      "id": 10759,
+      "name": "Aksiyon & Macera"
+    },
+    {
+      "id": 10751,
+      "name": "Aile"
+    },
+    {
+      "id": 10762,
+      "name": "Çocuklar"
+    },
+    {
+      "id": 35,
+      "name": "Komedi"
+    }
+  ],
+  "homepage": "https://www.max.com/show/c706d141-342d-4fe5-8d60-638e42a908fa",
+  "id": 79061,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-01-25",
+  "last_episode_to_air": {
+    "id": 5460572,
+    "name": "10. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-01-25",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 12,
+    "season_number": 6,
+    "show_id": 79061,
+    "still_path": "/icwsqzoCpRX4keEZEpV3H2LJr3Z.jpg"
+  },
+  "name": "Craig'in Krallığı",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 56,
+      "logo_path": "/c5OC6oVCg6QP4eqzW6XIq17CQjI.png",
+      "name": "Cartoon Network",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 172,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Craig of the Creek",
+  "overview": "Craig’in Krallığı, Craig ve 2 yakın arkadaşı Kelsey ve J’nin bilinmeyene doğru yaşadıkları macerayı anlatıyor. Bu macerada onları bir sürü eğlence ve keşfedilmemiş yeni yerler bekliyor.",
+  "popularity": 70.8408,
+  "poster_path": "/u4LaONJSBi0khRe2L8nqBk81dlc.jpg",
+  "production_companies": [
+    {
+      "id": 7899,
+      "logo_path": "/uYMD8NPD7Eph0cFd1WJZJrot1Fb.png",
+      "name": "Cartoon Network Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-12-01",
+      "episode_count": 11,
+      "id": 126819,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/maS9G4gt9wtBXtfB15j0e7WsfuH.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2018-03-30",
+      "episode_count": 40,
+      "id": 102939,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/wYrlne5yMK1hFUDh1BwzynaJcgV.jpg",
+      "season_number": 1,
+      "vote_average": 4.5
+    },
+    {
+      "air_date": "2019-03-18",
+      "episode_count": 38,
+      "id": 126816,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/adX7J124q1Qxxo47Re6pUYpuAfW.jpg",
+      "season_number": 2,
+      "vote_average": 5.5
+    },
+    {
+      "air_date": "2020-06-21",
+      "episode_count": 36,
+      "id": 154450,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/15825p4oVPchVuDFBj9BIU5lqj8.jpg",
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2021-10-25",
+      "episode_count": 40,
+      "id": 208767,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/u4LaONJSBi0khRe2L8nqBk81dlc.jpg",
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2023-07-09",
+      "episode_count": 8,
+      "id": 346275,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/p08qlQaH9mIvfdz3TycWUEWJAPQ.jpg",
+      "season_number": 5,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2024-05-31",
+      "episode_count": 10,
+      "id": 395492,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/qF5N4KFyzs4LE82CpJOfB3fuDAw.jpg",
+      "season_number": 6,
+      "vote_average": 1.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.15,
+  "vote_count": 246,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2084819,
+        "known_for_department": "Acting",
+        "name": "Philip Solomon",
+        "original_name": "Philip Solomon",
+        "popularity": 0.6462,
+        "profile_path": "/oYTDn0qoKvo9rtHANY9X1N26E52.jpg",
+        "character": "Craig Williams (voice)",
+        "credit_id": "5b4ae7d79251417d1e01c45f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1465278,
+        "known_for_department": "Acting",
+        "name": "H Michael Croner",
+        "original_name": "H Michael Croner",
+        "popularity": 1.5602,
+        "profile_path": "/9QyfK6baeazngIuItoU4AmdGcPB.jpg",
+        "character": "John 'J.P' Paul (voice)",
+        "credit_id": "5b4ae84ac3a36823de021408",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1011210,
+        "known_for_department": "Acting",
+        "name": "Noël Wells",
+        "original_name": "Noël Wells",
+        "popularity": 1.507,
+        "profile_path": "/uH5VVl1glyuMJJBXCqg2CLwWhVR.jpg",
+        "character": "Kelsey / Mortimor (voice)",
+        "credit_id": "5b4ae8289251417d2001cb79",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1718385,
+        "known_for_department": "Production",
+        "name": "Karie Gina Pham",
+        "original_name": "Karie Gina Pham",
+        "popularity": 0.1002,
+        "profile_path": null,
+        "credit_id": "62fc62b874d6c0007ec71b47",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1245737,
+        "known_for_department": "Production",
+        "name": "Kelly Crews",
+        "original_name": "Kelly Crews",
+        "popularity": 0.4149,
+        "profile_path": null,
+        "credit_id": "62fc590c12aabc007c39d83d",
+        "department": "Production",
+        "job": "Supervising Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1656573,
+        "known_for_department": "Writing",
+        "name": "Erik Fountain",
+        "original_name": "Erik Fountain",
+        "popularity": 0.1713,
+        "profile_path": null,
+        "credit_id": "62fc615dce997a007ff479cb",
+        "department": "Visual Effects",
+        "job": "Opening/Ending Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1984223,
+        "known_for_department": "Sound",
+        "name": "Timothy J. Borquez",
+        "original_name": "Timothy J. Borquez",
+        "popularity": 0.6891,
+        "profile_path": "/gpSjyKLrvKAU65fiHPn2sQ12WIx.jpg",
+        "credit_id": "62fc6527ce997a007a4eb366",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2167647,
+        "known_for_department": "Production",
+        "name": "Stacy Renfroe",
+        "original_name": "Stacy Renfroe",
+        "popularity": 0.3969,
+        "profile_path": null,
+        "credit_id": "62fc62e385b105008207ea20",
+        "department": "Sound",
+        "job": "Recording Supervision"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 81590,
+        "known_for_department": "Visual Effects",
+        "name": "Eddy Houchins",
+        "original_name": "Eddy Houchins",
+        "popularity": 0.8943,
+        "profile_path": null,
+        "credit_id": "62fc5aae209f180084ed12f9",
+        "department": "Visual Effects",
+        "job": "Supervising Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1383821,
+        "known_for_department": "Editing",
+        "name": "Mark T. Collins",
+        "original_name": "Mark T. Collins",
+        "popularity": 0.2205,
+        "profile_path": null,
+        "credit_id": "62fc63bc6af8f800797ecb9a",
+        "department": "Editing",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1984224,
+        "known_for_department": "Sound",
+        "name": "Tony Orozco",
+        "original_name": "Tony Orozco",
+        "popularity": 0.3763,
+        "profile_path": null,
+        "credit_id": "62fc64f6435abd009156f50c",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3367356,
+        "known_for_department": "Sound",
+        "name": "Jeff Rosenstock",
+        "original_name": "Jeff Rosenstock",
+        "popularity": 0.2548,
+        "profile_path": null,
+        "credit_id": "62fc64cc7cffda007e4d8bd6",
+        "department": "Sound",
+        "job": "Main Title Theme Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2861104,
+        "known_for_department": "Sound",
+        "name": "Ben Levin",
+        "original_name": "Ben Levin",
+        "popularity": 0.111,
+        "profile_path": null,
+        "credit_id": "62fc6216e55937007c3d62bc",
+        "department": "Sound",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 81657,
+        "known_for_department": "Crew",
+        "name": "Antonio Gonella",
+        "original_name": "Antonio Gonella",
+        "popularity": 0.3437,
+        "profile_path": null,
+        "credit_id": "62fc6477ce997a0082124c04",
+        "department": "Production",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3367356,
+        "known_for_department": "Sound",
+        "name": "Jeff Rosenstock",
+        "original_name": "Jeff Rosenstock",
+        "popularity": 0.2548,
+        "profile_path": null,
+        "credit_id": "62fc649ee55937007c3d634f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1996895,
+        "known_for_department": "Production",
+        "name": "Susy Campos",
+        "original_name": "Susy Campos",
+        "popularity": 0.092,
+        "profile_path": null,
+        "credit_id": "62fc594939549a007b4a55a0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3367351,
+        "known_for_department": "Art",
+        "name": "Cory Fuller",
+        "original_name": "Cory Fuller",
+        "popularity": 0.2706,
+        "profile_path": null,
+        "credit_id": "62fc603112aabc0084d0e259",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2045538,
+        "known_for_department": "Art",
+        "name": "Martin Ansolabehere",
+        "original_name": "Martin Ansolabehere",
+        "popularity": 0.4136,
+        "profile_path": null,
+        "credit_id": "62fc5872ca7ec6008384f3e4",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2611547,
+        "known_for_department": "Production",
+        "name": "Brent Tanner",
+        "original_name": "Brent Tanner",
+        "popularity": 0.1872,
+        "profile_path": null,
+        "credit_id": "62fc68ee85b105007aa6f820",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1245737,
+        "known_for_department": "Production",
+        "name": "Kelly Crews",
+        "original_name": "Kelly Crews",
+        "popularity": 0.4149,
+        "profile_path": null,
+        "credit_id": "62fc68cb12aabc0095a686cf",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 81656,
+        "known_for_department": "Crew",
+        "name": "Alicia Parkinson",
+        "original_name": "Alicia Parkinson",
+        "popularity": 0.4621,
+        "profile_path": null,
+        "credit_id": "62fc6627ca7ec6007e8ada57",
+        "department": "Production",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2084817,
+        "known_for_department": "Creator",
+        "name": "Ben Levin",
+        "original_name": "Ben Levin",
+        "popularity": 1.0524,
+        "profile_path": null,
+        "credit_id": "62fc688775110d00842e97db",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2960337,
+        "known_for_department": "Production",
+        "name": "Ed Adams",
+        "original_name": "Ed Adams",
+        "popularity": 1.1296,
+        "profile_path": null,
+        "credit_id": "62fc6913ca7ec6007e8adae5",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1984223,
+        "known_for_department": "Sound",
+        "name": "Timothy J. Borquez",
+        "original_name": "Timothy J. Borquez",
+        "popularity": 0.6891,
+        "profile_path": "/gpSjyKLrvKAU65fiHPn2sQ12WIx.jpg",
+        "credit_id": "62fc65fd209f180084ed1560",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1984224,
+        "known_for_department": "Sound",
+        "name": "Tony Orozco",
+        "original_name": "Tony Orozco",
+        "popularity": 0.3763,
+        "profile_path": null,
+        "credit_id": "62fc65d239549a0099dc251a",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2478516,
+        "known_for_department": "Production",
+        "name": "Cecilia Rheins",
+        "original_name": "Cecilia Rheins",
+        "popularity": 0.197,
+        "profile_path": null,
+        "credit_id": "62fc6649435abd009156f543",
+        "department": "Production",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2084816,
+        "known_for_department": "Creator",
+        "name": "Matt Burnett",
+        "original_name": "Matt Burnett",
+        "popularity": 0.889,
+        "profile_path": null,
+        "credit_id": "62fc68607cffda0092ddaad2",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "maryland",
+        "id": 5729
+      },
+      {
+        "name": "childhood",
+        "id": 157955
+      },
+      {
+        "name": "african american child",
+        "id": 166993
+      },
+      {
+        "name": "creek",
+        "id": 170345
+      },
+      {
+        "name": "mischievous children",
+        "id": 206834
+      },
+      {
+        "name": "child protagonist",
+        "id": 234125
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/cyH8Ni1OSMtBbloEmI9eE69Xi7j.jpg",
+        "id": 47035,
+        "name": "Uncle Grandpa",
+        "original_name": "Uncle Grandpa",
+        "overview": "The adventures of Uncle Grandpa who is out to help every child and adult in the world through the power of imagination. With his mystical R.V. and eternal optimism, Uncle Grandpa is always ready to greet the day - and everyone he meets - with his signature, \"Good Mornin'.\"",
+        "poster_path": "/zLVOgigPMsd2hkwmcY5AqNhqgcn.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          16,
+          10765,
+          10751
+        ],
+        "popularity": 30.1629,
+        "first_air_date": "2013-09-02",
+        "vote_average": 4.421,
+        "vote_count": 101,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/d37TQ68rmmBm195mF2WOGYfEDYz.jpg",
+        "id": 61520,
+        "name": "Sanjay and Craig",
+        "original_name": "Sanjay and Craig",
+        "overview": "Sanjay and Craig is an American animated television series produced by Nickelodeon. The show is about a 12-year-old boy named Sanjay Patel who owns a talking pet snake named Craig.",
+        "poster_path": "/uFBWQcMe79V5xKWML8HX6dYRwG8.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10762
+        ],
+        "popularity": 26.5098,
+        "first_air_date": "2013-05-25",
+        "vote_average": 5.226,
+        "vote_count": 42,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cPM88Bhgluy9hh7t7R3OuxPo1tm.jpg",
+        "id": 222024,
+        "name": "Erin & Aaron",
+        "original_name": "Erin & Aaron",
+        "overview": "A newly blended family and two polar opposite stepsiblings named Erin and Aaron who come together through music.",
+        "poster_path": "/aQ73bNBqci7qUJNVjlVFXsglFFx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751,
+          18
+        ],
+        "popularity": 2.5755,
+        "first_air_date": "2023-04-20",
+        "vote_average": 7.429,
+        "vote_count": 14,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/b0qbBjZyly5hUS0A3715DGFlR1F.jpg",
+        "id": 103672,
+        "name": "Tig n' Seek",
+        "original_name": "Tig n' Seek",
+        "overview": "Follow 8-year-old Tiggy and his gadget-building cat, Gweeseek, as they search for the lost items of Wee Gee City. With Tiggy’s cheerful attitude and Gweeseek’s exceptional inventing capabilities, the duo humorously navigate day-to-day dilemmas at the Department of Lost and Found.",
+        "poster_path": "/pbDxzZX0jJhRgivKwYCA82Q7Klp.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10762,
+          16
+        ],
+        "popularity": 0.7431,
+        "first_air_date": "2020-07-23",
+        "vote_average": 6.7,
+        "vote_count": 32,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1BYZhnQMhUZ7XJ6SQfNoRgNw20e.jpg",
+        "id": 88786,
+        "name": "Victor and Valentino",
+        "original_name": "Victor and Valentino",
+        "overview": "Two half-brothers spend a summer with their grandma in Monte Macabre, a small and mysterious town, where the myths and legends of Latin American folklore come to life.",
+        "poster_path": "/4EmKaihMUGP8hyEvvTApQj19e1c.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          35,
+          9648
+        ],
+        "popularity": 30.1625,
+        "first_air_date": "2019-03-30",
+        "vote_average": 6.0,
+        "vote_count": 16,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gtuTSma6svlRBgSbWrQqPsF623v.jpg",
+        "id": 53677,
+        "name": "Merhamet",
+        "original_name": "Merhamet",
+        "overview": "Hande Altaylı'nın çok satan romanı Kahperengi'den uyarlanan dizi Anadolu'nun küçük bir kasabasında doğup, büyüyen Narin'in hikayesini anlatıyor.\n\nNarin, azmi ve zekası sayesinde eğitimini büyük güçlüklerle olsa da tamamlamış ve zorlu geçmişini ardında bırakarak İstanbul'a, yeni bir hayat kurmaya gelmiştir. Narin'in çocukluktan büyük bir aşkla sevdiği Fırat, yıllar sonra Narin'in karşısına hiç beklemediği birisinin nişanlısı olarak çıktığında, Narin'in daha yeni açtığı temiz sayfası bir anda geçmişin izleri ile dolar. Diğer taraftan geçmişin bir hayaleti daha, Narin'in karşısına dikilmek için gün saymaktadır.",
+        "poster_path": "/pO3fZhGpYlLiO1KUfg3meaBtzzZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "tr",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 7.2593,
+        "first_air_date": "2013-02-13",
+        "vote_average": 7.4,
+        "vote_count": 42,
+        "origin_country": [
+          "TR"
+        ]
+      },
+      {
+        "backdrop_path": "/mCt3coepPkF6QlDQSO9tqI46yIV.jpg",
+        "id": 68665,
+        "name": "Big Hero 6 The Series",
+        "original_name": "Big Hero 6 The Series",
+        "overview": "14 yaşındaki bir teknoloji dehası ve robotu, şehirlerinde efsanevi bir süper kahraman ekibi olarak yüksek teknolojili kötülerle savaşmak için arkadaşlarıyla güçlerini birleştirir.",
+        "poster_path": "/ldG4xXImCPyv5U5gbRmlB8On842.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          35,
+          10751
+        ],
+        "popularity": 36.1408,
+        "first_air_date": "2017-11-20",
+        "vote_average": 7.616,
+        "vote_count": 86,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/smryg5G3vkCImoQsPYrBSByOkOt.jpg",
+        "id": 84154,
+        "name": "3 Altında: Arcadia Hikâyeleri",
+        "original_name": "3Below: Tales of Arcadia",
+        "overview": "Dünya'ya mecburi iniş yapan iki kaçak, soylu ve genç uzaylı; galaksiler arası ödül avcılarından kaçarken, insanlar arasında yaşamaya uyum sağlamaya çalışıyor.",
+        "poster_path": "/eWoplw8QJhSGDnhyYCrs9OugdTj.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10751,
+          35,
+          10765
+        ],
+        "popularity": 11.2139,
+        "first_air_date": "2018-12-21",
+        "vote_average": 7.4,
+        "vote_count": 123,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/necvxW2TSnzG1RPxPAGMMuiFpck.jpg",
+        "id": 91246,
+        "name": "Mao Mao: Heroes of Pure Heart",
+        "original_name": "Mao Mao: Heroes of Pure Heart",
+        "overview": "Mao Mao, Badgerclops and Adorabat are fearless warriors who protect the people of Pure Heart Valley from monsters, villains and all kinds of bad stuff. Led by King Snugglemagne, the Sweety Pies of Pure Heart are cute, cuddly and pretty much helpless. Luckily, they have valiant heroes like Mao Mao, Adorabat and Badgerclops to watch over them. He’ll battle baddies like the Sky Pirates: Orangusnake, Ramaraffe, Boss Hosstrich and Rat-A-Rang, while learning to become a legend in his own time.",
+        "poster_path": "/iEieLEh3gzKd0RtMlH52jFOCCGo.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          35,
+          10751,
+          10765
+        ],
+        "popularity": 20.0392,
+        "first_air_date": "2019-05-20",
+        "vote_average": 7.4,
+        "vote_count": 65,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/y3Qu5HIv1YzSQbF1YuEXmtAG1PW.jpg",
+        "id": 44593,
+        "name": "Pac-Man and the Ghostly Adventures",
+        "original_name": "Pac-Man and the Ghostly Adventures",
+        "overview": "The fate of PacWorld lies with Pac and his loyal crew as they protect the Power Berries from falling into the sinister hands of Betrayus and his evil army of baddies.",
+        "poster_path": "/tdSMY8A4yNGPh5F7fJ9AglV1paX.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10751,
+          10762,
+          35,
+          10759,
+          9648
+        ],
+        "popularity": 31.0788,
+        "first_air_date": "2013-06-15",
+        "vote_average": 7.282,
+        "vote_count": 131,
+        "origin_country": [
+          "CA",
+          "US",
+          "FR",
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/nAboNRbDqCHapI0Gn7eHMmtWH5h.jpg",
+        "id": 124920,
+        "name": "Rugrats",
+        "original_name": "Rugrats",
+        "overview": "A reinvention of the beloved 90s cartoon, Rugrats follows a group of adventurous babies as they discover the big world around them. Lead by Tommy Pickles, this toddler crew explores the world from their pint-sized and wildly imaginative perspective.",
+        "poster_path": "/bk5bqkQVYC32lozZO6Z0ZLw32jv.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10762
+        ],
+        "popularity": 14.2363,
+        "first_air_date": "2021-05-27",
+        "vote_average": 6.923,
+        "vote_count": 130,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cT0o6RFi36TkMFG1wWyTyGb2jrR.jpg",
+        "id": 112163,
+        "name": "High-Rise Invasion",
+        "original_name": "天空侵犯",
+        "overview": "High-school girl Yuri suddenly finds herself on the rooftop of a high-rise building. She's trapped in a bizarre world surrounded by skyscrapers, where a masked man cracked open a man's head with an axe before her eyes. Finding a way to survive this bizarre world, find her beloved brother, and escape becomes her top priority, but she is beset by danger not just from the mysterious Masks, which possess both inhuman strength and cruelty, but other survivors turned cruel or desparate by the insanity of the high-rise world.",
+        "poster_path": "/5uXaWe0LXTpBQVBBXL1ynae1DED.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          9648,
+          10759
+        ],
+        "popularity": 4.1781,
+        "first_air_date": "2021-02-25",
+        "vote_average": 8.3,
+        "vote_count": 707,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/9LBlf6HR9ctyONjU0c1By7sy9CP.jpg",
+        "id": 70779,
+        "name": "LEGO Friends: Arkadaşlığın Gücü",
+        "original_name": "LEGO Friends: The Power of Friendship",
+        "overview": "Beş yakın arkadaş, doğdukları şehirde birlikte maceralar yaşar. Tuhaf soytarılıklar, sevgiler ve atılan yanlış adımlar arkadaşlarla birlikte daha güzeldir!",
+        "poster_path": "/mPXjhIwh4bWm5eOxTfPZOkGPC35.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762,
+          10751
+        ],
+        "popularity": 1.911,
+        "first_air_date": "2016-03-04",
+        "vote_average": 7.6,
+        "vote_count": 118,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qpf1mr6RU74iTP4RBh2c6AoRwWk.jpg",
+        "id": 68417,
+        "name": "AIKa R-16 Virgin Mission",
+        "original_name": "AIKa R-16:VIRGIN MISSION",
+        "overview": "Aika is an intelligent and athletic high school girl. Competently she successfully passes the salvager's license test, obtaining a C-class license. Yet, she is young and hot-headed, so much so that Gozo still treats her like a child. Due to this personality, no one is willing to hire her for salvaging jobs.\n\nEager to get started with salvaging, though, she decides to post an ad in her school to attract potential clients. She manages to get the attention of Eri, a daughter of a rich family and head of the school's treasure hunting club. She asks Aika to salvage something from the sea floor and Aika accepts the assignment.\n\nHowever, upon seeing the state-of-the-art submarine loaded onto Eri's private cruiser and discovering their destination, Aika realizes the dangerous nature of this mission, culminating in a clash with a group of armed high school girls on the southern islands.",
+        "poster_path": "/cUdRWc50BpSfhyN57NpA90vPmMO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16
+        ],
+        "popularity": 2.8409,
+        "first_air_date": "2007-04-25",
+        "vote_average": 7.845,
+        "vote_count": 116,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/1qCGrhbbBLZpPY1NhyDjGymwq0X.jpg",
+        "id": 99588,
+        "name": "Kamp Koral: SpongeBob's Under Years",
+        "original_name": "Kamp Koral: SpongeBob's Under Years",
+        "overview": "SpongeBob and friends spend the summer catching jellyfish, building camp-fires, and swimming in Lake Yuckymuck at Camp Coral, located in the Kelp Forest.",
+        "poster_path": "/peZYB3aFOBoZbpFhOZogrTHVlqX.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10751
+        ],
+        "popularity": 23.4865,
+        "first_air_date": "2021-03-04",
+        "vote_average": 7.2,
+        "vote_count": 516,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vcMM8SIxcm4cOpK03qmb8gEVXjq.jpg",
+        "id": 81532,
+        "name": "Living with Yourself",
+        "original_name": "Living with Yourself",
+        "overview": "Hayattan bezmiş Miles, bir alışveriş merkezindeki spa'da tuhaf bir işlemden geçer ve uyandığında kendisinin daha iyi bir versiyonuyla yer değiştirmiş olduğunu fark eder. (Dizi içeriği 18 yaş ve üzeri için uygundur.)",
+        "poster_path": "/19KRY0l2qlFAJroGpRUtzSZ2Ezf.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 3.5306,
+        "first_air_date": "2019-10-18",
+        "vote_average": 6.72,
+        "vote_count": 313,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2Eq2CYTV8cAJeddla6vFgIlxIH6.jpg",
+        "id": 63510,
+        "name": "Attack on Titan: Junior High",
+        "original_name": "進撃！巨人中学校",
+        "overview": "Your favorite characters from Attack on Titan are back in…junior high school? Adapted from the hit spinoff manga series—Attack on Titan: Junior High (written by Saki Nakagawa), this parody reimagines Eren, Mikasa, Armin, and other characters from the original manga as students and teachers at Titan Junior High School.",
+        "poster_path": "/el6yFiXQxiPLZLCJsukAI9UTI6J.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759,
+          35,
+          10765
+        ],
+        "popularity": 7.5855,
+        "first_air_date": "2015-10-04",
+        "vote_average": 7.826,
+        "vote_count": 195,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/1pLAl7M0n0nliV3mMwHPxF5Tf4e.jpg",
+        "id": 78462,
+        "name": "Devils' Line",
+        "original_name": "デビルズライン",
+        "overview": "Tsukasa, a college student, is rescued from an attack by a devil, one of many vampires that can blend in among the human population. Anzai, her savior, is a half-devil who exploits his supernatural gifts as a member of a shadowy police task force that specializes in devil-related crime in Tokyo. As Anzai continues to keep guard over Tsukasa, the two quickly forge a tentative bond—one that Anzai fears will test his iron-clad rule of never drinking human blood...",
+        "poster_path": "/2tz6rfssj7rGmveOaPshPLd20VS.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          18,
+          10759,
+          80,
+          9648,
+          10765
+        ],
+        "popularity": 4.3699,
+        "first_air_date": "2018-04-07",
+        "vote_average": 7.936,
+        "vote_count": 196,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/xMFRoCMrpEeS5cl7gXpJqC4PhIN.jpg",
+        "id": 91425,
+        "name": "Infinity Train",
+        "original_name": "Infinity Train",
+        "overview": "13 yaşındaki Tulip, Kendini sonsuz sayısı olan bir gizemli trenin içinde bulur. Eve dönüş yolunu bulmak zorundadır.",
+        "poster_path": "/wEhc48kGjoWw8qcHu2Lar7NFrgG.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10765,
+          10759
+        ],
+        "popularity": 13.3949,
+        "first_air_date": "2019-08-05",
+        "vote_average": 8.438,
+        "vote_count": 272,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/8dNNxQMx4hOLwihNoAyDkreboiP.jpg",
+        "id": 105556,
+        "name": "DON'T TOY WITH ME, MISS NAGATORO",
+        "original_name": "イジらないで、長瀞さん",
+        "overview": "\"A girl in a lower grade just made me cry!\" One day, Senpai visits the library after school and becomes the target of a super sadistic junior! The name of the girl who teases, torments, and tantalizes Senpai is \"Nagatoro!\" She's annoying yet adorable. It's painful, but you still want to be by her side. This is a story about an extremely sadistic and temperamental girl and you'll feel something awaken inside of you.",
+        "poster_path": "/ogXmggjfiDHBOBwA3JyuEzCr814.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          35,
+          18
+        ],
+        "popularity": 10.5975,
+        "first_air_date": "2021-04-11",
+        "vote_average": 8.3,
+        "vote_count": 768,
+        "origin_country": [
+          "JP"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

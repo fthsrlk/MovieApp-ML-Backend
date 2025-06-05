@@ -1,0 +1,812 @@
+{
+  "adult": false,
+  "backdrop_path": "/sdvd6l9kffMrlaLy7iCqaQNMCL6.jpg",
+  "created_by": [
+    {
+      "id": 167889,
+      "credit_id": "52575ff7760ee36aaa2e7827",
+      "name": "Michael J. Weithorn",
+      "original_name": "Michael J. Weithorn",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1236113,
+      "credit_id": "52575ff9760ee36aaa2e7830",
+      "name": "David Litt",
+      "original_name": "David Litt",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "1998-09-21",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Komedi"
+    }
+  ],
+  "homepage": "",
+  "id": 4238,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2007-05-14",
+  "last_episode_to_air": {
+    "id": 289565,
+    "name": "13. Bölüm",
+    "overview": "",
+    "vote_average": 5.7,
+    "vote_count": 3,
+    "air_date": "2007-05-14",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 9,
+    "show_id": 4238,
+    "still_path": "/haqoX8KOaqIR4Uh0aopYv41TBVf.jpg"
+  },
+  "name": "The King of Queens",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 207,
+  "number_of_seasons": 9,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The King of Queens",
+  "overview": "ADRESE TESLİM KOMEDİ, ADRESİNİ ŞAŞIRMIŞ HUYSUZ BİR İHTİYAR VE YALNIZ KALAMAYAN GENÇ BİR ÇİFT  Dağıtım şirketinde şoförlük yapan Doug Heffernan (Kevin James) ile hukuk bürosunda sekreterlik yapan eşi Carrie Heffernan’ın (Leah Remini) aşk, yaşam, aile ve evlilik gibi konular çevresinde dönen maceralarına tanık oluyoruz. The King of Queens, ilhamını gündelik yaşamdan alıyor. Genç evli çift Doug ve Carrie yaşadığımız çağı yansıtan ev içi gerçekler ile boğuşurken ‘kendi halimize gülmemizi’ sağlıyor.  Doug eşini, işini, büyük ekran televizyonunu ve dostları Deacon (Victor Williams), Spence (Patton Oswalt) ve Richie’yi (Larry Romano) çok seviyor. Doug’ın yemeğe olan aşırı düşkünlüğüne, Carrie’nin pahalı elbiselere karşı tutkusuna rağmen birbirlerine olan aşkları, karşılaştıkları her türlü çıkmazı aşmalarını sağlıyor.",
+  "popularity": 83.5195,
+  "poster_path": "/vXs300Yvjy4Kr0iHgBtajHkYbAt.jpg",
+  "production_companies": [
+    {
+      "id": 10471,
+      "logo_path": "/tHIwIKoXdLKA8Nt3XeRInh71OvD.png",
+      "name": "Columbia TriStar Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 11073,
+      "logo_path": "/aCbASRcI1MI7DXjPbSW9Fcv9uGR.png",
+      "name": "Sony Pictures Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 2161,
+      "logo_path": "/kaHPCUD2nQ1DGWDAH3zbYVCkTae.png",
+      "name": "CBS Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 1081,
+      "logo_path": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+      "name": "CBS Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 10,
+      "id": 12439,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/eMAD4PxQ5taZIHH3qvgOpDSzih8.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1998-09-21",
+      "episode_count": 25,
+      "id": 12430,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/97JtnahmsQUa0DkhWogscRLLcxC.jpg",
+      "season_number": 1,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "1999-09-20",
+      "episode_count": 25,
+      "id": 12431,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/vTACMWMdPGZgZJg9ifO1TimvXcu.jpg",
+      "season_number": 2,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2000-10-02",
+      "episode_count": 25,
+      "id": 12432,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/aplMNZY9nl3B6nEHSIaNKlnx886.jpg",
+      "season_number": 3,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2001-09-24",
+      "episode_count": 25,
+      "id": 12433,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/tZNoCxugCos15goBZ2W9BrTkeod.jpg",
+      "season_number": 4,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2002-09-23",
+      "episode_count": 25,
+      "id": 12434,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/hR3ClnauXZOnZqWMwtvvo0igEva.jpg",
+      "season_number": 5,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2003-10-01",
+      "episode_count": 24,
+      "id": 12435,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/t7XLbMYvKgVdUiZmTA4u8fhUetJ.jpg",
+      "season_number": 6,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2004-10-27",
+      "episode_count": 22,
+      "id": 12436,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/8wpC0FTBrRGc73D8h0aXm4damTl.jpg",
+      "season_number": 7,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2005-09-19",
+      "episode_count": 23,
+      "id": 12437,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/aMuODMd9xeCBmTbqRDVym25fzOh.jpg",
+      "season_number": 8,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2006-12-06",
+      "episode_count": 13,
+      "id": 12438,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/fqiUzwImwn2BoxFVI0or3H6KGqM.jpg",
+      "season_number": 9,
+      "vote_average": 6.6
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.069,
+  "vote_count": 640,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32895,
+        "known_for_department": "Acting",
+        "name": "Kevin James",
+        "original_name": "Kevin James",
+        "popularity": 3.4168,
+        "profile_path": "/3WPW5duZyQcjveefxwLULgIyhM0.jpg",
+        "character": "Doug Heffernan",
+        "credit_id": "52575ff6760ee36aaa2e75df",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15050,
+        "known_for_department": "Acting",
+        "name": "Leah Remini",
+        "original_name": "Leah Remini",
+        "popularity": 2.8232,
+        "profile_path": "/19QpURecs6wDY9G46AmT7JnTchS.jpg",
+        "character": "Carrie Heffernan",
+        "credit_id": "52575ff6760ee36aaa2e7615",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26042,
+        "known_for_department": "Acting",
+        "name": "Jerry Stiller",
+        "original_name": "Jerry Stiller",
+        "popularity": 2.8502,
+        "profile_path": "/flr27QXFPaMLOJNnfs1QfIViwOh.jpg",
+        "character": "Arthur Spooner",
+        "credit_id": "52575ff6760ee36aaa2e7681",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26039,
+        "known_for_department": "Acting",
+        "name": "Victor Williams",
+        "original_name": "Victor Williams",
+        "popularity": 1.4354,
+        "profile_path": "/9mfByCnBR3JUoBJnHI6CNrHGpk1.jpg",
+        "character": "Deacon Palmer",
+        "credit_id": "52575ff6760ee36aaa2e764b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10872,
+        "known_for_department": "Acting",
+        "name": "Patton Oswalt",
+        "original_name": "Patton Oswalt",
+        "popularity": 3.5158,
+        "profile_path": "/skGzommLR2zE6uk1YQRFK71dOJ8.jpg",
+        "character": "Spence Olchin",
+        "credit_id": "52575ff7760ee36aaa2e76b7",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 179508,
+        "known_for_department": "Acting",
+        "name": "Gary Valentine",
+        "original_name": "Gary Valentine",
+        "popularity": 1.3495,
+        "profile_path": "/7mN9QMY3T9hw2CUzWV7XOjQmFqA.jpg",
+        "character": "Danny Heffernan",
+        "credit_id": "548479939251416a6000001e",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 167889,
+        "known_for_department": "Writing",
+        "name": "Michael J. Weithorn",
+        "original_name": "Michael J. Weithorn",
+        "popularity": 1.1724,
+        "profile_path": null,
+        "credit_id": "52575ffe760ee36aaa2e7b80",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1795369,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sandra Araya Jensen",
+        "original_name": "Sandra Araya Jensen",
+        "popularity": 0.1753,
+        "profile_path": null,
+        "credit_id": "5ed1b5db21c4ca0020e1da60",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2324816,
+        "known_for_department": "Camera",
+        "name": "Anthony Francesco",
+        "original_name": "Anthony Francesco",
+        "popularity": 0.2231,
+        "profile_path": null,
+        "credit_id": "5ed1b5b496386400236f12f4",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "new york city",
+        "id": 242
+      },
+      {
+        "name": "marriage",
+        "id": 6038
+      },
+      {
+        "name": "working class",
+        "id": 11935
+      },
+      {
+        "name": "in-laws",
+        "id": 40917
+      },
+      {
+        "name": "sitcom",
+        "id": 193171
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/zPyVcPi5vFjjHbZsYYbbIG1I0oL.jpg",
+        "id": 2140,
+        "name": "Everybody Loves Raymond",
+        "original_name": "Everybody Loves Raymond",
+        "overview": "Ray Barone, Long Island'da eşi Debra, kızı Ally ve ikiz oğulları Geoffrey ve Michael ile yaşayan başarılı bir spor yazarıdır. Bu iyi haber. Kötü haber? Ray'in burnunu sokan ebeveynleri Frank ve Marie, doğrudan caddenin karşısında oturuyorlar ve televizyon tarihinde benzeri görülmemiş bir ölçüde oğullarının evine sızan \"Su casa es mi casa\" sloganını benimsiyorlar.",
+        "poster_path": "/dcCnVVggEBfNpzHrqzDJqhE6tGP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 63.6951,
+        "first_air_date": "1996-09-13",
+        "vote_average": 6.805,
+        "vote_count": 589,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vAHR5oY1jZLpyKFhnQf7Qj66mMp.jpg",
+        "id": 97,
+        "name": "The Drew Carey Show",
+        "original_name": "The Drew Carey Show",
+        "overview": "Drew is an assistant director of personnel in a Cleveland department store and he has been stuck there for ten years. Other than fighting with co-worker Mimi, his hobbies include drinking beer and not being able to get dates. To make a few extra bucks he has a micro-brewery going in his garage with his buddies.",
+        "poster_path": "/cWboJ8Cfi5NgHoENAB0gYtgZHkR.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 82.4946,
+        "first_air_date": "1995-09-13",
+        "vote_average": 6.55,
+        "vote_count": 159,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/3zRUiH8erHIgNUBTj05JT00HwsS.jpg",
+        "id": 52,
+        "name": "That '70s Show",
+        "original_name": "That '70s Show",
+        "overview": "That 70's Show, 1998-2006 yılları arasında 8 sezon boyunca Amerika Fox televizyonunda yayınlanmış bir komedi sitcom dizisidir. Türkiye'de uzun bir süre TV8 ekranlarında yayınlanmıştır, şu anda da Comedy Smart kanalında yayını sürmektedir.Dizi, 70'li yıllarda hayali kasaba olan Point Place'de yaşayan bir grup genç etrafında geçiyor ve 70'li yılların Amerikan gençlik kültürünü konu alıyor. Dizinin ana karakterlerinden Eric ve tayfasının her bölümde yaptıkları bol dumanlı ve anlamsız bodrum muhabbetleri dizinin en eğlenceli bölümünü oluşturuyor.70'li yılların moda kıyafetleri, şarkıları, sosyal ve politik olayları, diziye konuk oyuncu olarak katılan o dönemin ünlüleri dizinin dikkat çeken önemli unsurlarında biridir. That 70's Show, bir kez Emmy ödülü kazanmıştır ve sekiz kezde aday gösterilmiştir. Dizi, Emmy dışında da bir çok ödül almaya hak kazanmış, bir çok ödüle de aday gösterilmiştir.",
+        "poster_path": "/laEZvTqM80UaplUaDSCCbWhlyEV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751,
+          18
+        ],
+        "popularity": 86.8438,
+        "first_air_date": "1998-08-23",
+        "vote_average": 7.945,
+        "vote_count": 1466,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1hu8Gx4xd9mnrrd53STKIFLEXgK.jpg",
+        "id": 67132,
+        "name": "Kevin Can Wait",
+        "original_name": "Kevin Can Wait",
+        "overview": "A newly retired police officer looks forward to spending more quality time with his wife and three kids only to discover he faces much tougher challenges at home than he ever did on the streets.",
+        "poster_path": "/rpuNe29T0ZnBhw7nHpDDgimfObe.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 13.6171,
+        "first_air_date": "2016-09-19",
+        "vote_average": 5.658,
+        "vote_count": 149,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/hwCKVqEAoPQK91I3ewx64N1zLhS.jpg",
+        "id": 2706,
+        "name": "Roseanne",
+        "original_name": "Roseanne",
+        "overview": "A working-class family struggles to get by on a limited income in the fictional town of Lanford, Illinois.",
+        "poster_path": "/4UARHgxTm7xwhcEHiVDwF0Gv4j0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 8.7412,
+        "first_air_date": "1988-10-18",
+        "vote_average": 6.8,
+        "vote_count": 347,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/w0s1EmnmgkBYMSqZIrYgbiRt3j6.jpg",
+        "id": 1558,
+        "name": "Home Improvement",
+        "original_name": "Home Improvement",
+        "overview": "The daily trials and tribulations of handyman Tim Taylor, a TV show host raising three boys with help from his loyal co-host, domineering wife, and unseen neighbor.",
+        "poster_path": "/sa3J2ZXeg7TiziuXGyfz99HdYDS.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 36.6837,
+        "first_air_date": "1991-09-17",
+        "vote_average": 7.399,
+        "vote_count": 643,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/y6nEgbjMUpYLnVUwZDzX95wH5Vj.jpg",
+        "id": 4239,
+        "name": "Married... with Children",
+        "original_name": "Married... with Children",
+        "overview": "Al Bundy is an unsuccessful middle aged shoe salesman with a miserable life and an equally dysfunctional family. He hates his job, his wife is lazy, his son is dysfunctional (especially with women), and his daughter is dim-witted and promiscuous.",
+        "poster_path": "/qxdOgESOkBMmfcWUizL01mbdqzl.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 90.874,
+        "first_air_date": "1987-04-05",
+        "vote_average": 7.712,
+        "vote_count": 1074,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/nA19z9LnWYebUt3iqoYvkwRKIUI.jpg",
+        "id": 1930,
+        "name": "The Beverly Hillbillies",
+        "original_name": "The Beverly Hillbillies",
+        "overview": "Jed Clampett's swamp is loaded with oil. When a wildcatter discovers the huge pool, Jed sells his land to the O.K. Oil Company and at the urging of cousin Pearl, moves his family to a 35-room mansion in Beverly Hills, California.",
+        "poster_path": "/sEZs4szkwBXIK3DOm37MnQN9fIe.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 118.4094,
+        "first_air_date": "1962-09-26",
+        "vote_average": 6.8,
+        "vote_count": 121,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qaj9U89GH6KW9T8f0ylnBwSjsBf.jpg",
+        "id": 71732,
+        "name": "Geleceğe Doğru",
+        "original_name": "Year Million",
+        "overview": "Bir zamanlar bilim kurgu olarak bilinen şeyler, şu anda gerçek olma yolunda doğru ilerliyor. 6 bölümlük belgesel serisinde National Geographic insanoğlunun bir milyon yıl sonra nasıl olabileceğini öngörmeye çalışıyor. Günümüzün en başarılı bilim insanları, gelecek bilimcileri, uzmanlar ve bilim kurgu yazarları, izleyicileri insanoğlunu geliştirecek ve hatta yapısını değiştirecek en yeni teknolojilerin, fikirlerin ve yeniliklerin içine sokuyor. Geleceğe doğru tipik bir Amerikan ailesinin gözünden insanlığın kaderinin ve geleceğinin nasıl olduğunu izleyiciye aktarıyor. Ailenin kızının android olduğu belgeselde insanlık sırrının en ücra köşelerine giderek yapılan seçimler, gelinen nokta ve insanoğlunun uzun yıllar sonra dönüşeceği yapıyı sorguluyor. Bu belgeselde insan makine ile birleşiyor, zekâ sınır tanımıyor ve en önemlisi insanoğlu gezegenler arası yaşam formuna kavuşuyor.",
+        "poster_path": "/h14mBJcKV5OULIN8lrxa5Hf6dMB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          99,
+          10765
+        ],
+        "popularity": 1.1232,
+        "first_air_date": "2017-05-15",
+        "vote_average": 8.6,
+        "vote_count": 16,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lcaJ3LeyLG8kwYCQeh5SH6g3NA1.jpg",
+        "id": 11145,
+        "name": "Intervention",
+        "original_name": "Intervention",
+        "overview": "People whose uncontrollable addiction to drugs, alcohol or compulsive behavior has brought them to the brink of destruction and has devastated their family and friends are presented with a life-changing opportunity of intervention and rehab. Each addict must confront their darkest demons in order to begin their journey to recovery in the hopes that they can turn their lives around before it’s too late.",
+        "poster_path": "/voryX0sQ7NjWmkuYy13IZBqwT2d.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          10764
+        ],
+        "popularity": 12.1191,
+        "first_air_date": "2005-03-06",
+        "vote_average": 6.987,
+        "vote_count": 39,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/kdFJW01rAJV4qN7ArkJ4l3Ll9T3.jpg",
+        "id": 32709,
+        "name": "Mike & Molly",
+        "original_name": "Mike & Molly",
+        "overview": "A comedy about a working class Chicago couple who find love at an Overeaters Anonymous meeting.",
+        "poster_path": "/5TeRoql7yzyeFWMEA0aiEmd21HJ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 27.4147,
+        "first_air_date": "2010-09-20",
+        "vote_average": 6.699,
+        "vote_count": 246,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sIE9fqOtxCImHPdNiP4CWHheLd1.jpg",
+        "id": 276021,
+        "name": "Piedone - A Cop in Naples",
+        "original_name": "Piedone - Uno sbirro a Napoli",
+        "overview": "Back in the police force after being suspended, Vicenzo Palmieri, infamous for his rough charm, adopts creative ways to bring criminals to justice.",
+        "poster_path": "/7uVwAwcyIh5NpeRjHROEkPb6yBJ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "it",
+        "genre_ids": [
+          35,
+          10759,
+          80
+        ],
+        "popularity": 0.9891,
+        "first_air_date": "2024-12-02",
+        "vote_average": 6.538,
+        "vote_count": 13,
+        "origin_country": [
+          "IT"
+        ]
+      },
+      {
+        "backdrop_path": "/k1V2SmjkSO0eryZPEZtKmcHG0yS.jpg",
+        "id": 4599,
+        "name": "Yes, Dear",
+        "original_name": "Yes, Dear",
+        "overview": "A comedy about two young couples and their outrageously contrasting views on parenting. Greg and Kim Warner struggle on a daily basis to become perfect at the job. Kim is a neurotic, stay-at-home mother, and although her husband, Greg, is a success in his career, his more difficult job is keeping his wife calm as they raise their two young children. While Kim is determined to be the perfect mother and perfect wife and to raise the perfect children, her sister, Christine Hughes, a very down-to-earth mother of two, continually reminds her that life will never be perfect. Christine's husband, Jimmy, often feels compelled to share with his brother-in-law his philosophy about being a husband and a parent while still remaining a man.",
+        "poster_path": "/bEcwkwonvM9OSnfYFtOmhRFHuoZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 23.6534,
+        "first_air_date": "2000-10-02",
+        "vote_average": 6.7,
+        "vote_count": 38,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1uzziwsvfinDpPbRyKrdPhwm51m.jpg",
+        "id": 1473,
+        "name": "Earth 2",
+        "original_name": "Earth 2",
+        "overview": "Two centuries in the future, when pollution has forced humans to abandon Earth in favor of cramped space stations, scientist Devon Adair hijacks a spacecraft and sets out with a band of followers in search of another planet that will offer a brighter, more normal future to children like her son, Ulysses. Joining Devon and Ulysses are mechanic John Danziger and his daughter, True; team physician Julia Heller, who has her own secret agenda; Alonzo Solace, a pilot; Yale, a cyborg; and Morgan, a craven government agent, and his wife, Bess. The voyagers find their planet, but their ship crash-lands on the wrong side of the globe, forcing them to attempt an arduous and dangerous trek to their ultimate destination, New Pacifica.",
+        "poster_path": "/xJLHPptrbYimwuk8e7Q54LqVT0y.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 3.9778,
+        "first_air_date": "1994-11-06",
+        "vote_average": 6.714,
+        "vote_count": 77,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/iXPZWF2r8Jm06T1HD2frOsAakVv.jpg",
+        "id": 2813,
+        "name": "Mannix",
+        "original_name": "Mannix",
+        "overview": "Mannix is an American television detective series that ran from 1967 through 1975 on CBS. Created by Richard Levinson and William Link and developed by executive producer Bruce Geller, the title character, Joe Mannix, is a private investigator. He is played by Mike Connors. Mannix was the last series produced by Desilu Productions.",
+        "poster_path": "/sEqRn4uIFoxuDKMOL9Ufxq2OHd0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          80,
+          9648,
+          18
+        ],
+        "popularity": 24.8402,
+        "first_air_date": "1967-09-16",
+        "vote_average": 6.7,
+        "vote_count": 52,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/jWzt073Faqd5kv3cHm7zGBuyTX3.jpg",
+        "id": 65220,
+        "name": "I Am Jazz",
+        "original_name": "I Am Jazz",
+        "overview": "Meet Jazz Jennings! Jazz is a transgender teenage girl who has been living as a girl since she was in kindergarten. Parents Jeanette and Greg have spent the years finding doctors to treat their daughter, while fighting the discrimination and misconceptions associated with what it means to be transgender. But, now that Jazz is 14, she is on the brink of the biggest challenge of her life: high school.",
+        "poster_path": "/lQCUTs0ThUXT0DNht3IqfGF2bYV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 8.3061,
+        "first_air_date": "2015-07-15",
+        "vote_average": 6.2,
+        "vote_count": 26,
+        "origin_country": [
+          "NL",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/f1w0WaBPDVXL1U6rH5TwHll7C8Z.jpg",
+        "id": 42370,
+        "name": "Unsupervised",
+        "original_name": "Unsupervised",
+        "overview": "Two 15-year-old best friends, Gary and Joel, they try to navigate through teenage life while also trying to do the right thing without the help of any parental supervision.",
+        "poster_path": "/i8m1BIJCoDi0WUAncm9PkYJbTqY.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 3.9261,
+        "first_air_date": "2012-01-19",
+        "vote_average": 7.0,
+        "vote_count": 24,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7yIR3wI9pQLzMw2K9FSjwFF3hMm.jpg",
+        "id": 49038,
+        "name": "Hotel Impossible",
+        "original_name": "Hotel Impossible",
+        "overview": "Hotel Impossible is a reality television program from Travel Channel in which struggling hotels receive an extensive makeover by veteran hotel operator Anthony Melchiorri and his team. The show premiered on April 9, 2012.",
+        "poster_path": "/z2a3CEGHuIF4QTEQ9FYijD7uGPM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 12.5228,
+        "first_air_date": "2012-04-09",
+        "vote_average": 7.6,
+        "vote_count": 12,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zZmfMU9IxFZXFbDe8PBYIkH5V3h.jpg",
+        "id": 273801,
+        "name": "It's Florida, Man.",
+        "original_name": "It's Florida, Man.",
+        "overview": "This irreverent late-night comedy series brings to life unbelievable, ripped-from-the-headlines tales of the Sunshine State. Featuring interviews with everyday Floridians and playful recreations starring a rotating cast of actors and comedians, this hilarious and outrageous series sheds light on the viral, wacky, and weird.",
+        "poster_path": "/yrGQwoY9XUglAlCDzsIlr3ws4pM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 1.6297,
+        "first_air_date": "2024-10-18",
+        "vote_average": 5.4,
+        "vote_count": 9,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 91612,
+        "name": "Rudy Maxa's World",
+        "original_name": "Rudy Maxa's World",
+        "overview": "Follows Rudy along the canals of St. Petersburg, Russia, to the Taj Mahal in India, into the jungles of Thailand's Golden Triangle and inside the tango halls of Buenos Aires.",
+        "poster_path": "/wdLP8wszhtdN3vszJ7rOn0GMcPB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 1.2765,
+        "first_air_date": "2008-05-02",
+        "vote_average": 6.0,
+        "vote_count": 1,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

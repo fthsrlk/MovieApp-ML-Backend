@@ -1,0 +1,821 @@
+{
+  "adult": false,
+  "backdrop_path": "/butPVWgcbtAjL9Z7jU7Xj1KA8KD.jpg",
+  "created_by": [
+    {
+      "id": 54772,
+      "credit_id": "551da459c3a3683a18000dbe",
+      "name": "Andy Cohen",
+      "original_name": "Andy Cohen",
+      "gender": 2,
+      "profile_path": "/eZrNjW7RQgkhwfcBw0qGTLPVgf4.jpg"
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2009-07-16",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 35,
+      "name": "Komedi"
+    }
+  ],
+  "homepage": "http://www.bravotv.com/watch-what-happens-live",
+  "id": 22980,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-02-26",
+  "last_episode_to_air": {
+    "id": 6012603,
+    "name": "38. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-06",
+    "episode_number": 38,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 21,
+    "season_number": 22,
+    "show_id": 22980,
+    "still_path": "/dUgoVrH20bhFYVvZU7IOmrcEdQu.jpg"
+  },
+  "name": "Watch What Happens Live with Andy Cohen",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 74,
+      "logo_path": "/wX5HsfS47u6UUCSpYXqaQ1x2qdu.png",
+      "name": "Bravo",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 2807,
+  "number_of_seasons": 22,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Watch What Happens Live with Andy Cohen",
+  "overview": "",
+  "popularity": 3751.723,
+  "poster_path": "/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
+  "production_companies": [
+    {
+      "id": 23601,
+      "logo_path": "/jZYnbLWzOGhRDrvLWOOpoQZnuAB.png",
+      "name": "Embassy Row",
+      "origin_country": "US"
+    },
+    {
+      "id": 11073,
+      "logo_path": "/aCbASRcI1MI7DXjPbSW9Fcv9uGR.png",
+      "name": "Sony Pictures Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2012-08-26",
+      "episode_count": 6,
+      "id": 32935,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2009-07-16",
+      "episode_count": 22,
+      "id": 32928,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 9.0
+    },
+    {
+      "air_date": "2010-01-14",
+      "episode_count": 29,
+      "id": 32929,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2010-09-09",
+      "episode_count": 40,
+      "id": 32930,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 32931,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-09-25",
+      "episode_count": 5,
+      "id": 32932,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2012-01-08",
+      "episode_count": 91,
+      "id": 32933,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2012-06-17",
+      "episode_count": 35,
+      "id": 32934,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2012-09-09",
+      "episode_count": 64,
+      "id": 32936,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2013-01-06",
+      "episode_count": 91,
+      "id": 32937,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2013-06-16",
+      "episode_count": 111,
+      "id": 32938,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2014-01-05",
+      "episode_count": 210,
+      "id": 386675,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2015-01-04",
+      "episode_count": 206,
+      "id": 384135,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2016-01-03",
+      "episode_count": 208,
+      "id": 77111,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2017-01-03",
+      "episode_count": 208,
+      "id": 83411,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2018-01-07",
+      "episode_count": 209,
+      "id": 97793,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 6.0
+    },
+    {
+      "air_date": "2019-01-06",
+      "episode_count": 208,
+      "id": 115656,
+      "name": "Sezon 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2020-01-05",
+      "episode_count": 208,
+      "id": 140166,
+      "name": "Sezon 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2021-01-03",
+      "episode_count": 208,
+      "id": 177920,
+      "name": "Sezon 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2022-01-05",
+      "episode_count": 209,
+      "id": 238733,
+      "name": "Sezon 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2023-01-02",
+      "episode_count": 203,
+      "id": 322933,
+      "name": "Sezon 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2024-01-07",
+      "episode_count": 208,
+      "id": 370457,
+      "name": "Sezon 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2025-01-06",
+      "episode_count": 38,
+      "id": 436163,
+      "name": "Sezon 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 4.8,
+  "vote_count": 60,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54772,
+        "known_for_department": "Acting",
+        "name": "Andy Cohen",
+        "original_name": "Andy Cohen",
+        "popularity": 4.866,
+        "profile_path": "/eZrNjW7RQgkhwfcBw0qGTLPVgf4.jpg",
+        "character": "Self - Host",
+        "credit_id": "58f431579251413d7201b5c6",
+        "order": 0
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "talk show",
+        "id": 3741
+      },
+      {
+        "name": "live",
+        "id": 10610
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/zh6GUDUBFmvfmPLL3mGvgwxYTQ1.jpg",
+        "id": 69008,
+        "name": "White Rabbit Project",
+        "original_name": "White Rabbit Project",
+        "overview": "Kari Byron, Tory Belleci and Grant Imahara rank history's greatest inventions, heists and more.",
+        "poster_path": "/yzh2QSPKzTi30Q7TYTT14QxlOB5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 5.919,
+        "first_air_date": "2016-12-09",
+        "vote_average": 6.2,
+        "vote_count": 43,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/h0y3OzHzG4yNvn8u3Za6ByH8lrQ.jpg",
+        "id": 45789,
+        "name": "Sturm der Liebe",
+        "original_name": "Sturm der Liebe",
+        "overview": "These are the stories of relationships taking place in the fictional five-star hotel Fürstenhof, located in Feldkirchen-Westerham near Rosenheim with the plot revolving around members of the family room area, the hotel owners, and employees.",
+        "poster_path": "/jfFNydakwvbeACEwSd2Gh8UWtba.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 2574.453,
+        "first_air_date": "2005-09-26",
+        "vote_average": 5.8,
+        "vote_count": 32,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "backdrop_path": "/y1NtXk3YzmXOIqEBtwjojONPjqT.jpg",
+        "id": 69320,
+        "name": "Trial & Error",
+        "original_name": "Trial & Error",
+        "overview": "A bright-eyed New York lawyer takes his first big case defending an eccentric poetry professor accused of murdering his wife.",
+        "poster_path": "/8o9taPRFH6TXCFDhjO3zKHiN034.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 28.48,
+        "first_air_date": "2017-03-14",
+        "vote_average": 7.3,
+        "vote_count": 46,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/8mLrIrvGpvE8V5uvu786w2D15P3.jpg",
+        "id": 26815,
+        "name": "Hello Anne: Before Green Gables",
+        "original_name": "こんにちは アン ~Before Green Gables",
+        "overview": "Anne Shirley goes through quite a lot of adventures before she ends up in Green Gables. She is living with a family and helps out by looking after the kids, helping in the chores around the home... Meanwhile she discovers more about who she is, that her name is \"Anne\" and not \"Ann\"... And she just is her adorable but a bit crazy self.",
+        "poster_path": "/lv5Wvw316Nh2PJr2tvbuoIcBnWv.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          18,
+          10751,
+          10762
+        ],
+        "popularity": 45.992,
+        "first_air_date": "2009-04-05",
+        "vote_average": 8.5,
+        "vote_count": 10,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/UvCVGs3Q4UXZbk4Vm0laflsrxO.jpg",
+        "id": 77629,
+        "name": "The Wife's Secret",
+        "original_name": "妻子的秘密",
+        "overview": "Zhang Baihe and Li Minglang, heirs to powerful conglomerates, are set to be engaged. However, a tragic event changes the course of their lives, and as they navigate their new circumstances, they must contend with challenges to their relationship and external pressures.",
+        "poster_path": "/toENFElW8EuyrBpIZq9Za4x1aiS.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "zh",
+        "genre_ids": [
+          18,
+          10751
+        ],
+        "popularity": 70.542,
+        "first_air_date": "2014-03-17",
+        "vote_average": 5.1,
+        "vote_count": 4,
+        "origin_country": [
+          "CN"
+        ]
+      },
+      {
+        "backdrop_path": "/yGkKI766rRvPiJLwEJ9MMRE4Trg.jpg",
+        "id": 247441,
+        "name": "Ahit: Musa'nın Hikâyesi",
+        "original_name": "Testament: The Story of Moses",
+        "overview": "Bu aydınlatıcı belgesel drama dizisi, Musa'nın prenslikten peygamberliğe ve ötesine uzanan ilginç hayatını anlatırken ilahiyatçıların ve tarihçilerin görüşlerine başvuruyor.",
+        "poster_path": "/al1hPkvUW0J30LDLBeC9WFhpmHp.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          18
+        ],
+        "popularity": 45.106,
+        "first_air_date": "2024-03-27",
+        "vote_average": 7.5,
+        "vote_count": 50,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/iEg2LHsFV3vC6LywkBAL3c1n9PP.jpg",
+        "id": 61818,
+        "name": "Late Night with Seth Meyers",
+        "original_name": "Late Night with Seth Meyers",
+        "overview": "Seth Meyers, who is \"Saturday Night Live’s\" longest serving anchor on the show’s wildly popular \"Weekend Update,\" takes over as host of NBC’s \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+        "poster_path": "/jm95V8XjfvqmEhw0MN09wbg9Mi3.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767,
+          35
+        ],
+        "popularity": 4670.664,
+        "first_air_date": "2014-02-25",
+        "vote_average": 5.4,
+        "vote_count": 98,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9giQxevgoCWfSfXALGmuaXmqEq0.jpg",
+        "id": 2224,
+        "name": "The Daily Show",
+        "original_name": "The Daily Show",
+        "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+        "poster_path": "/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10763,
+          35
+        ],
+        "popularity": 3342.248,
+        "first_air_date": "1996-07-22",
+        "vote_average": 6.4,
+        "vote_count": 553,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qnTBxxv7q4xVwgZBLb0vtILLelh.jpg",
+        "id": 14814,
+        "name": "Keeping Up with the Kardashians",
+        "original_name": "Keeping Up with the Kardashians",
+        "overview": "A peek inside the exploits and privileged private lives of the blended Kardashian-Jenner family, including sisters Kim, Kourtney and Khloé.",
+        "poster_path": "/nddXOC8wYpIDv7giLzjjqIg8WDA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 221.046,
+        "first_air_date": "2007-10-14",
+        "vote_average": 7.4,
+        "vote_count": 897,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/kU98MbVVgi72wzceyrEbClZmMFe.jpg",
+        "id": 246,
+        "name": "Avatar: Son Havabükücü",
+        "original_name": "Avatar: The Last Airbender",
+        "overview": "Katara ve Sokka kardeşler, uzun kış uykusundan uyandırdıkları genç Aang'ın kötü kalpli Ateş Ulusu'nu yenebilecek hava bükücü güçlere sahip bir Avatar olduğunu öğrenir.",
+        "poster_path": "/v2vn1coUMPKw0GI1KGC5J4IXtqp.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "popularity": 113.152,
+        "first_air_date": "2005-02-21",
+        "vote_average": 8.738,
+        "vote_count": 4255,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wbiPjTWpZMIB8ffBq7HvzAph4Ft.jpg",
+        "id": 63174,
+        "name": "Lucifer",
+        "original_name": "Lucifer",
+        "overview": "“Cehennem Lordu” Lucifer Morningstar, Los Angeles Polis Departmanı için suçluları yakalamaktadır. Ancak büyük bir sırrı vardır: Bu çekici adam, aslında yeryüzüne düşmüş bir melektir!",
+        "poster_path": "/cLz75DTxXPPR814YHZ0XhiQuEI2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          10765
+        ],
+        "popularity": 406.998,
+        "first_air_date": "2016-01-25",
+        "vote_average": 8.454,
+        "vote_count": 14893,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9faGSFi5jam6pDWGNd0p8JcJgXQ.jpg",
+        "id": 1396,
+        "name": "Breaking Bad",
+        "original_name": "Breaking Bad",
+        "overview": "Kanserden öleceğini öğrenen bir kimya öğretmeni, ailesinin geleceğini garanti altına almak için metamfetamin üretip satmak üzere eski bir öğrencisiyle kafa kafaya verir.",
+        "poster_path": "/ineLOBPG8AZsluYwnkMpHRyu7L.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 540.297,
+        "first_air_date": "2008-01-20",
+        "vote_average": 8.923,
+        "vote_count": 15144,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sccDflItNho4OiHkzpiDxB2fUFw.jpg",
+        "id": 1418,
+        "name": "The Big Bang Theory",
+        "original_name": "The Big Bang Theory",
+        "overview": "En büyük zevkleri kuantum fiziğine kafa yormak olan üstün zekalı iki arkadaş, güzel bir kızla karşılaşınca ne yaparlar? The Big Bang Theory, işte o karşılaşma anında gerçekleşen büyük patlama ve sonrasını anlatan bir komedi dizisi. Leonard ve Sheldon adlarındaki iki arkadaşın oturdukları apartmanda yan dairelerine yeni bir komşu taşınır. Adı Penny olan bu komşu güzeller güzeli bir sarışındır. Üstelik maceralı bir ilişkiden daha yeni sapasağlam ayakta çıkmıştır. Penny, zekaları gereğinden fazla ilerlemiş, ancak kızlar konusunda oldukça geri kalmış bu yeni iki komşusuna hayat hakkında öğretebileceği bir şeyleri olduğunu düşünmektedir. Yaşanacak olanlar da zaman içinde onun ne kadar haklı olduğunu gösterecektir. ",
+        "poster_path": "/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 222.02,
+        "first_air_date": "2007-09-24",
+        "vote_average": 7.91,
+        "vote_count": 11545,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
+        "id": 1408,
+        "name": "House, M.D.",
+        "original_name": "House",
+        "overview": "Gregory House New Jersey Princeton Plainsboro Hastanesinin tıbbi tanı uzamanı doktordur. Kendini aşırı beğenmesi, insanları önemsememesi ve boşvermişlik gibi özelliklerine rağmen müthiş bir doktordur. Uzmanlık alanı bulaşıcı hastalıklardır. Hiç kimsenin tanı koyamadığı hastalara tanı koyarak onların hayatlarını kurtarmaktadır ancak ekibindekilerin psikolojilerini de sürekli olarak bozmaktadır. Hastanenin yöneticisi Lisa Cuddy onu sürekli gözlem altında tutmaya çalışmaktadır ve ondan asla vazgeçmemektedir çünkü en zor durumlarda hastaları kurtaran hep odur ama Dr. House yüzünden hastane sık sık dava edilmektedir.",
+        "poster_path": "/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          35
+        ],
+        "popularity": 568.775,
+        "first_air_date": "2004-11-16",
+        "vote_average": 8.591,
+        "vote_count": 6804,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7w165QdHmJuTHSQwEyJDBDpuDT7.jpg",
+        "id": 2288,
+        "name": "Prison Break",
+        "original_name": "Prison Break",
+        "overview": "Haksız yere suçlandığını düşündüğü abisini hapishaneden kurtarmak isteyen Michael Scofield, nerdeyse kusursuz bir plan yapar. Lincoln Burrows'a yüklenen suç, kendilerini temize çıkarabilecekleri bir suç değildir. Devletin de işin içine karıştığını öğrendiklerinde kaçmaktan başka çareleri kalmaz. Michael planını uygulamaya sokar ve kaçış başlar.",
+        "poster_path": "/5E1BhkCgjLBlqx557Z5yzcN0i88.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          80,
+          18
+        ],
+        "popularity": 508.496,
+        "first_air_date": "2005-08-29",
+        "vote_average": 8.1,
+        "vote_count": 5325,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ysaA0BInz4071p3LKqAQnWKZCsK.jpg",
+        "id": 2004,
+        "name": "Malcolm in the Middle",
+        "original_name": "Malcolm in the Middle",
+        "overview": "Kaykay yapmak ve en iyi arkadaşı Stevie ile takılmaktan hoşlanan 9 yaşındaki Malcolm, \"yetenekliler\" sınıfına girmeye zorlanınca hayatı alt üst olur ve etrafı toplumdan dışlanan bir grup yetenekliyle çevrelenir.",
+        "poster_path": "/ckLLIsNy3Z0Go1PYHA2PHzVymUA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          35,
+          18
+        ],
+        "popularity": 295.632,
+        "first_air_date": "2000-01-09",
+        "vote_average": 8.479,
+        "vote_count": 4449,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+        "id": 1399,
+        "name": "Game of Thrones",
+        "original_name": "Game of Thrones",
+        "overview": "Krallık dediğin savaşsız olur mu? En güçlü krallığı kurup, huzuru sağlamış olsan bile bu gücü elinde nasıl koruyacaksın? Burada yanlış yapana yer yok, affetmek yok. Kuzey Krallığının hükümdarı Lord Ned Stark, uzun ve zorlu savaşlardan sonra anayurduna dönüp krallığını bütünlük içerisinde tutmayı başarmıştır. Kral Robert Baratheon ile yıllarca omuz omuza çarpışan ve Baratheon'un kral olmasını sağlayan Ned Stark'ın tek istediği kuzey sınırlarını koruyan krallığında ailesiyle ve halkıyla yaşamaktır. \n\nFakat suyun öte yanında kendi topraklarından ve krallığından kovulduğunu iddia eden Viserys Targaryen , kız kardeşi Daenerys'i barbar kavimlerin başı Han Drogo'ya vererek, güç birliği planları yapmaktadır. Tahtını büyük bir iştahla geri isteyen ama kraliyet oyunlarından habersiz olan Viserys'in planları Kral Baratheon'a ulaşır. Savaş alanında büyük cengaver olan ama ülke ve aile yönetiminde aynı başarıyı tutturamayan Baratheon'un tamamen güvenebileceği ve her yanlış hamlesini arkasından toplayacak yeni bir sağ kola ihtiyacı vardır. Kuzeyin Lordu Ned Stark bu görev için seçilen tek aday isimdir. Kış yaklaşıyor...\n\nHanedan entrikaları, kapılı kapılar ardında dönen oyunlar, birilerinin kuyusunu kazmak için düşmanın koynuna girmekten çekinmeyen kadınlar, kardeşler arası çekişmeler, dışlanmalar... Hepsi tek bir hedef için: Taht kavgası..",
+        "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 723.189,
+        "first_air_date": "2011-04-17",
+        "vote_average": 8.5,
+        "vote_count": 24677,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/q3jHCb4dMfYF6ojikKuHd6LscxC.jpg",
+        "id": 84958,
+        "name": "Loki",
+        "original_name": "Loki",
+        "overview": "Marvel Studios'tan Loki'de, \"Avengers: Endgame\"de yaşananların sonrası ele alınmaktadır ve bu yeni dizide kurnaz süper kötü Loki (Tom Hiddleston) Fesatlık Tanrısı rolüne devam eder. Dizinin yönetmenliğini Kate Herron, baş yazarlığını ise Michael Waldron üstlenmiştir.",
+        "poster_path": "/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 113.217,
+        "first_air_date": "2021-06-09",
+        "vote_average": 8.173,
+        "vote_count": 11755,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ueZFcwAUvkjyAB9beaiqJyg0M8H.jpg",
+        "id": 1981,
+        "name": "Charmed",
+        "original_name": "Charmed",
+        "overview": "Prue, Piper ve Phoebe kardeşlerin tavan arasında buldukları \"Gölgeler Kitabı\" adlı kitap kaderlerini değiştirir. Phoebe, kitaptaki büyülü sözleri okuyunca üç kız kardeşin atalarından miras kalan cadılık güçleri açığa çıkar.  Her birinin farklı doğaüstü yetenekleri vardır. Halliwell kardeşler şeytani varlıklara karşı savaşabilmek için kullandıkları bu yeteneklerini birleştirdiklerinde ise yenilmez sihirli bir güç yaratırlar.Bu eşi olmayan üçlünün gücüdür. Yüksek dereceli bazı iblisleri yok etmek için üçlünün gücü gerekmektedir. Tek başlarına sıradan birer cadıdır ve bu yüksek dereceli iblisleri tek başlarına yok edemezler...",
+        "poster_path": "/z4bPJ1BWU2EtV69NII2GVvsugQ2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18,
+          9648,
+          10765
+        ],
+        "popularity": 289.045,
+        "first_air_date": "1998-10-07",
+        "vote_average": 8.2,
+        "vote_count": 2342,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/3jDXL4Xvj3AzDOF6UH1xeyHW8MH.jpg",
+        "id": 70523,
+        "name": "Dark",
+        "original_name": "Dark",
+        "overview": "Bir çocuğun kaybolması, dört aileyi hummalı bir cevap arayışına iter. Bu arayışları, üç nesli kapsayan akıl almaz bir gizemi ortaya çıkarmalarına neden olur.",
+        "poster_path": "/apbrbWs8M9lyOpJYU5WXrpFbk1Z.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          80,
+          18,
+          10765,
+          9648
+        ],
+        "popularity": 137.095,
+        "first_air_date": "2017-12-01",
+        "vote_average": 8.4,
+        "vote_count": 6841,
+        "origin_country": [
+          "DE"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

@@ -1,0 +1,717 @@
+{
+  "adult": false,
+  "backdrop_path": "/iEg2LHsFV3vC6LywkBAL3c1n9PP.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2014-02-25",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 35,
+      "name": "Komedi"
+    }
+  ],
+  "homepage": "https://www.nbc.com/late-night-with-seth-meyers",
+  "id": 61818,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-03-06",
+  "last_episode_to_air": {
+    "id": 6012278,
+    "name": "70. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-06",
+    "episode_number": 70,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 41,
+    "season_number": 12,
+    "show_id": 61818,
+    "still_path": null
+  },
+  "name": "Late Night with Seth Meyers",
+  "next_episode_to_air": {
+    "id": 6012279,
+    "name": "71. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-07",
+    "episode_number": 71,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 41,
+    "season_number": 12,
+    "show_id": 61818,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 1633,
+  "number_of_seasons": 12,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Late Night with Seth Meyers",
+  "overview": "",
+  "popularity": 4670.664,
+  "poster_path": "/jm95V8XjfvqmEhw0MN09wbg9Mi3.jpg",
+  "production_companies": [
+    {
+      "id": 26727,
+      "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 170657,
+      "logo_path": null,
+      "name": "Sethmaker Shoemeyers Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 1756,
+      "logo_path": "/d7YyNzysIF0lSb4lJRf1ar6MHxi.png",
+      "name": "Broadway Video",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-02-25",
+      "episode_count": 99,
+      "id": 64330,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/6aTObv741nQNeIrNhevVw3OlVQw.jpg",
+      "season_number": 1,
+      "vote_average": 6.0
+    },
+    {
+      "air_date": "2014-09-23",
+      "episode_count": 161,
+      "id": 64331,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/9YWItv0lGK3y9ntfh1W4BGujgbS.jpg",
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2015-09-22",
+      "episode_count": 160,
+      "id": 73521,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/orQvRPb1z9kn5RVLSsgho12ewdT.jpg",
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2016-09-20",
+      "episode_count": 162,
+      "id": 86459,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/70HgdTd69cRnOacgMIASbZQxN3E.jpg",
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2017-09-26",
+      "episode_count": 154,
+      "id": 140202,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/v1fAG12xYzL3kffiafg0bKRyaQE.jpg",
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2018-09-25",
+      "episode_count": 150,
+      "id": 140201,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/dt8U83lifi93nigRUYiZTbdGnXR.jpg",
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2019-09-24",
+      "episode_count": 153,
+      "id": 135865,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/znZq21RmXsPbIu7AcTpPetMT3NP.jpg",
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2020-09-22",
+      "episode_count": 155,
+      "id": 178498,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/AcWJFVsLgW8zYVMxYRDEvTCgrPZ.jpg",
+      "season_number": 8,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2021-09-21",
+      "episode_count": 137,
+      "id": 218289,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 4.5
+    },
+    {
+      "air_date": "2022-09-20",
+      "episode_count": 91,
+      "id": 309471,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/AcWJFVsLgW8zYVMxYRDEvTCgrPZ.jpg",
+      "season_number": 10,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2023-10-03",
+      "episode_count": 140,
+      "id": 358907,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2024-09-24",
+      "episode_count": 71,
+      "id": 421847,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 5.4,
+  "vote_count": 98,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 62856,
+        "known_for_department": "Acting",
+        "name": "Seth Meyers",
+        "original_name": "Seth Meyers",
+        "popularity": 10.083,
+        "profile_path": "/nCcvpJFHWYHfu5oPxTOyA1uSdqA.jpg",
+        "character": "Self - Host",
+        "credit_id": "5b01ce06c3a3686c6e00a3ad",
+        "order": 0
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "late-night show",
+        "id": 242216
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/uganUhifpqzzAunI0PETnutlmR.jpg",
+        "id": 8621,
+        "name": "Late Night with Jimmy Fallon",
+        "original_name": "Late Night with Jimmy Fallon",
+        "overview": "Late Night with Jimmy Fallon is an American late-night talk show airing weeknights at 12:35 am Eastern/11:35 pm Central on NBC in the United States. The hour-long show premiered on March 2, 2009, and is hosted by actor, comedian and performer Jimmy Fallon, an alumnus of Saturday Night Live. Hip hop/neo soul band The Roots serve as the show's house band, and Steve Higgins is the show's announcer.\n\nThe third incarnation of the Late Night franchise originated by David Letterman, the program originates from NBC Studio 6B in the GE Building at 30 Rockefeller Center in New York City. The show typically opens with a brief monologue from Fallon, followed by a comedy \"desk piece,\" as well as prerecorded segments and audience competitions. The next segment is devoted to a celebrity interview, with guests ranging from actors and musicians to media personalities and political figures. The show then closes with either a musical or comedy performance. The show frequently employs digital media into its comedy, which has become crucial to its success. Fallon has been appointed to become the next host of The Tonight Show, where he will succeed the current host Jay Leno at the conclusion of the 2014 Winter Olympics, with fellow SNL alum Seth Meyers slated to replace Fallon.",
+        "poster_path": "/l8WzbOr7vg3WDlB3hoy32wZDxwj.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 487.481,
+        "first_air_date": "2009-03-02",
+        "vote_average": 6.0,
+        "vote_count": 93,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7VO04TtL1jIT6XOPs9u4jdB8KaB.jpg",
+        "id": 59941,
+        "name": "The Tonight Show Starring Jimmy Fallon",
+        "original_name": "The Tonight Show Starring Jimmy Fallon",
+        "overview": "Emmy ve Grammy ödüllü Jimmy Fallon, yüksek enerjisi ve esprileriyle bir televizyon efsanesi olan \"The Tonight Show\"a damgasını vuruyor. Oyuncudan müzisyene, komedyenden politikacıya çok sayıda renkli ismin katıldığı şovda ünlülerle yapılan skeçler ve müzikal parodiler de eğlencenin dozunu artırıyor.",
+        "poster_path": "/g4amxJvtpnY79J77xeamnAEUO8r.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 3686.848,
+        "first_air_date": "2014-02-17",
+        "vote_average": 5.8,
+        "vote_count": 322,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/w0GA9tmKfRgxXj2zPUp0qzDuYjC.jpg",
+        "id": 60694,
+        "name": "Last Week Tonight with John Oliver",
+        "original_name": "Last Week Tonight with John Oliver",
+        "overview": "A half-hour satirical look at the week in news, politics and current events.",
+        "poster_path": "/b12eM3FXNjN7yM7XYTIdmeQRud9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767,
+          35,
+          10763
+        ],
+        "popularity": 692.022,
+        "first_air_date": "2014-04-27",
+        "vote_average": 7.888,
+        "vote_count": 688,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/leNZUBCvou9K8cRoTYnTq1Vu9O4.jpg",
+        "id": 62783,
+        "name": "Best Friends Whenever",
+        "original_name": "Best Friends Whenever",
+        "overview": "When their aspiring scientist friend Barry's invention goes awry, best friends Shelby and Cyd gain the power to leap forward and backward in time whenever they want – and sometimes when they don't. Now, they experience the twists and turns of friendship and must decide between fixing mistakes in the past or catching a glimpse of the future. While Barry and his assistant, Naldo, try to figure out how to replicate time travel for themselves, Cyd and Shelby use their newfound power to navigate high school life and Shelby's mischievous twin brothers, Bret and Chet.",
+        "poster_path": "/euWwJsDLPzfPny96UrbD13XOFSz.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751,
+          10765
+        ],
+        "popularity": 39.145,
+        "first_air_date": "2015-06-26",
+        "vote_average": 8.0,
+        "vote_count": 88,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gMMnf8VRg3Z98WaFmOLr9Jk8pIs.jpg",
+        "id": 63770,
+        "name": "The Late Show with Stephen Colbert",
+        "original_name": "The Late Show with Stephen Colbert",
+        "overview": "Doğaçlama oyuncusu ve komedyen Stephen Colbert, uzun zamandır beklenen televizyona dönüşünü yaparken \"The Colbert Report\" karakterini geride bırakıyor. New York'taki tarihi Ed Sullivan Tiyatrosu'nda kaydedilen The Late Show franchise redux'un ev sahibi olarak Colbert, aktörler, sporcular, politikacılar, çizgi romanlar, sanatçılar ve müzisyenlerle ilk kez kendisi olarak konuşuyor. Bununla birlikte, sadık hayranlar, Colbert'in eski girişiminden yazı ve dijital ekibinin birçok üyesi tarafından desteklenmeye devam ettiği için tutarlılık muamelesi görecek. Julliard tarafından eğitilmiş Jon Batiste, grup lideri olarak görev yapıyor.",
+        "poster_path": "/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 4211.46,
+        "first_air_date": "2015-09-08",
+        "vote_average": 6.5,
+        "vote_count": 290,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/amtOltTVcK9vQtL1iQS6p3LBi05.jpg",
+        "id": 62223,
+        "name": "The Late Late Show with James Corden",
+        "original_name": "The Late Late Show with James Corden",
+        "overview": "Once Craig Ferguson retires, James Corden will be taking over The Late Late Show. The show is a late night talk show that interviews celebrities and has its own bits. And of course, it's all hosted by James Corden.",
+        "poster_path": "/qPmVoG8G9tc1nN8ZwGV2zYcknit.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 1794.776,
+        "first_air_date": "2015-03-23",
+        "vote_average": 5.4,
+        "vote_count": 132,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg",
+        "id": 65701,
+        "name": "Good Mythical Morning",
+        "original_name": "Good Mythical Morning",
+        "overview": "Two \"Internetainers\" (Rhett & Link) go far out and do the weirdest things, giving you a daily dose of casual comedy every Monday-Friday.",
+        "poster_path": "/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 3344.859,
+        "first_air_date": "2012-01-09",
+        "vote_average": 6.8,
+        "vote_count": 67,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2Ib8kvWa9gGhJrAfGlhIvbmtbWn.jpg",
+        "id": 32415,
+        "name": "Conan",
+        "original_name": "Conan",
+        "overview": "A late night television talk show hosted by  Conan O'Brien.",
+        "poster_path": "/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767,
+          35,
+          10763
+        ],
+        "popularity": 1798.498,
+        "first_air_date": "2010-11-08",
+        "vote_average": 7.0,
+        "vote_count": 229,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/8VWgyQjExeMgeg6Qzv6agduMU1A.jpg",
+        "id": 121,
+        "name": "Doctor Who",
+        "original_name": "Doctor Who",
+        "overview": "Doctor Who (Türkçe anlamıyla Doktor Kim) BBC yapımı İngiliz bilim kurgu televizyon dizisidir. Dizi; Doktor olarak bilinen, zamanda yolculuk yapan insansı Dünya dışı yaratık olan Zaman Lordu'nun maceralarını anlatmaktadır. Doktor, dışarıdan 1950'lerden kalma bir polis kulübesi gibi görünen TARDIS adındaki bilince sahip ve zamanda yolculuk edebilen bir uzay gemisi ile evreni araştırır. Doktor, yardımcıları ile beraber uzay ve zamanı keşfeder, sorunları çözer, yaratıklarla yüzleşir ve tarihe yapılan müdahalelere engel olur.\n\nGuinness Rekorlar Kitabı tarafından dünyanın en uzun süren bilim kurgu televizyon programı olarak listelenen dizi aynı zamanda İngiliz popüler kültürünün de önemli bir parçasıdır. Dizi iyi planlanmış hikâyeleri, ilk yayınlandığı dönemdeki düşük bütçeli yaratıcı özel efektleri ve elektronik müzik kullanımındaki önderliği ile tanınır.",
+        "poster_path": "/xinqAmYrZ1TEwowcQhgTkZVtVE0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          10765
+        ],
+        "popularity": 127.938,
+        "first_air_date": "1963-11-23",
+        "vote_average": 7.9,
+        "vote_count": 641,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/vOFctaslez1TrMTkdiqgo9YUf4e.jpg",
+        "id": 1420,
+        "name": "New Girl",
+        "original_name": "New Girl",
+        "overview": "Bir anda şarkı söylemeye başlaması ile ünlü sıradışı öğretmen Jess erkek arkadaşını başka bir kadınla yakalar ve kendine kalacak yer aramaya başlar... Daha önce hiç tanımadığı üç erkeğin kaldığı bir tavan arasında yaşamaya başlar. Nick genellikle yalnız kalmak isteyen hukuk fakültesinden terk bir bezgindir. Schmidt kendisini kadınlara bir armağan olarak gören bir işadamıdır. Winston ise ne yapacağını kendisi de bilmeyen fakat neye katılsa onu kazanma saplantılı eski bir atlettir. Bu tuhaf grup sizce bu yeni kıza alışabilecek midir?",
+        "poster_path": "/8oCqMlKKomCArVtyOjRzMN6g40Z.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 181.299,
+        "first_air_date": "2011-09-20",
+        "vote_average": 7.4,
+        "vote_count": 1465,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7j4ug9B6JXVeh5HhQjjPScrdj4Z.jpg",
+        "id": 71790,
+        "name": "S.W.A.T.",
+        "original_name": "S.W.A.T.",
+        "overview": "Memleketi Los Angeles'ta emniyet teşkilatında görevli bir çavuş, elit bir polis ekibine liderlik etmek ve kentte tırmanan ölümcül gerilimi yatıştırmakla görevlendirilir.",
+        "poster_path": "/1rTEcLsnOoKXfDdGlbg0RHDvoaE.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          10759,
+          18
+        ],
+        "popularity": 673.191,
+        "first_air_date": "2017-11-02",
+        "vote_average": 8.097,
+        "vote_count": 1445,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/tuCU2yVRM2iZxFkpqlPUyvd6tSu.jpg",
+        "id": 94954,
+        "name": "Hazbin Hotel",
+        "original_name": "Hazbin Hotel",
+        "overview": "Charlie Morningstar, iblisleri rehabilite etmek gibi muazzam bir görevle görevlendirilen Cehennem prensesidir. Görev onu mahkum ruhların kendi başlarına çalışabilecekleri ve sonunda Cennete \"çıkış yapabilecekleri\" bir yer olan Hazbin Oteli'ni açmaya yönlendirir. Eski dostlar ve beklenmedik yeni müttefikler, Charlie'nin hayalini gerçeğe, hatta belki de başarıya doğru ilerletmesine yardımcı olur.",
+        "poster_path": "/rXojaQcxVUubPLSrFV8PD4xdjrs.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10765
+        ],
+        "popularity": 82.862,
+        "first_air_date": "2024-01-18",
+        "vote_average": 8.765,
+        "vote_count": 1230,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/82qpvU7AzT9D8oC02fIceb5KAz8.jpg",
+        "id": 46648,
+        "name": "True Detective",
+        "original_name": "True Detective",
+        "overview": "Louisiana Cinayet Masası'nda görev yapan dedektif Rust Cohle ve Martin Hart bir seri katilin peşine düşerler. Beraber çalışan ikilinin, takip derinleştikçe kendi hayatlarının da içinden çıkılmaz bir duruma gelmesi kaçınılmaz olacaktır. 17 yıl boyunca bir seri katili yakalamak için iz süren dedektifler, yıllar sonra davanın tekrar ele alınması ile beraber kendilerini sorgu masasında bulurlar.",
+        "poster_path": "/cuV2O5ZyDLHSOWzg3nLVljp1ubw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 193.675,
+        "first_air_date": "2014-01-12",
+        "vote_average": 8.3,
+        "vote_count": 3554,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/oRdc2nn7jLOYy4fBdvmFKPsKzZE.jpg",
+        "id": 2734,
+        "name": "Law & Order: Special Victims Unit",
+        "original_name": "Law & Order: Special Victims Unit",
+        "overview": "New York yeraltı dünyasının karanlık yüzünü araştıran bir özel suçlar birimi... New York Polis departmanında cinsel suçlar konusunda uzman dedektiflerden oluşan bu birim, insanın kanını donduran vakaları incelemek zorunda... Her gün yardım isteyen kurbanlar, kapatılmayı bekleyen dosyalarla uğraşan bu ekibin üyeleri, bir yandan da bu araştırmaların özel yaşamlarına olan etkisini dengelemeye çalışıyorlar.",
+        "poster_path": "/imaKy0BLfX1iPzj9ZvbOD0D09m6.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 1362.262,
+        "first_air_date": "1999-09-20",
+        "vote_average": 7.937,
+        "vote_count": 3889,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9faGSFi5jam6pDWGNd0p8JcJgXQ.jpg",
+        "id": 1396,
+        "name": "Breaking Bad",
+        "original_name": "Breaking Bad",
+        "overview": "Kanserden öleceğini öğrenen bir kimya öğretmeni, ailesinin geleceğini garanti altına almak için metamfetamin üretip satmak üzere eski bir öğrencisiyle kafa kafaya verir.",
+        "poster_path": "/ineLOBPG8AZsluYwnkMpHRyu7L.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 540.297,
+        "first_air_date": "2008-01-20",
+        "vote_average": 8.9,
+        "vote_count": 15145,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg",
+        "id": 37854,
+        "name": "One Piece",
+        "original_name": "ワンピース",
+        "overview": "Korsan Kral Gold Roger, bu dünyadaki herşeyi elde eder ve idam edilirken, tüm servetinin Grand Line'da olduğunu, onu arayıp bulmaları gerektiğini söyler. Bu olaydan sonra herkes Grand Line'a gider. Ancak Grand Line'a girmek çok zor, Grand Line'da canlı kalabilmek imkansızdır.\n\nKahramanımız Monkey D. Luffy'nin rüyası, Korsan Kral olmak ve One Piece denen kimsenin bilmediği, görmediği hazineyi ele geçirmektir. Küçük yaşlardan beri hep korsan olmak isteyen Luffy, kazara bir şeytan meyvası (Akuma No Mi) yemiştir. 3 farklı şeytan meyvası vardır ve bu meyvalar yiyenlere çok üstün güçler sağlamaktadır ancak bu güçlerin bedeli asla yüzememektir. Luffy'nin yediği meyva onu bir lastik çocuğa çevirir. Bu olaydan yıllar sonra Luffy denize açılır. Yolculuğu sırasında ekibini toplayacak ve One Piece'i bulmak için Grand Line'da birbirinden tehlikeli ve komik maceralara atılacaktır.",
+        "poster_path": "/cMD9Ygz11zjJzAovURpO75Qg7rT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          10759,
+          35,
+          16
+        ],
+        "popularity": 187.371,
+        "first_air_date": "1999-10-20",
+        "vote_average": 8.7,
+        "vote_count": 4802,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/lHe8iwM4Cdm6RSEiara4PN8ZcBd.jpg",
+        "id": 44217,
+        "name": "Vikingler",
+        "original_name": "Vikings",
+        "overview": "Viking kahramanı Ragnar Lothbrok’un, ileriyi göremeyen, yetersiz bir lidere meydan okuyarak Norse sınırlarını nasıl genişlettiğini seyrettiğimiz gerçekçi bir dram.",
+        "poster_path": "/qkCh6cFSHikSIFTWUQyJ2qJzqsy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10768
+        ],
+        "popularity": 450.102,
+        "first_air_date": "2013-03-03",
+        "vote_average": 8.1,
+        "vote_count": 7070,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/mQJVtl7SYjNLwjsUZZsITmAxtdU.jpg",
+        "id": 77169,
+        "name": "Cobra Kai",
+        "original_name": "Cobra Kai",
+        "overview": "Amansız düşmanlar, kavgalı iki dövüş okulu, tazekan... Daniel ve Johnny, \"Karate Kid\" serisinin devamı niteliğindeki bu dizide West Valley'deki ezelî rekabeti kızıştırıyor.",
+        "poster_path": "/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          35
+        ],
+        "popularity": 484.596,
+        "first_air_date": "2018-05-02",
+        "vote_average": 8.2,
+        "vote_count": 6521,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/20eIP9o5ebArmu2HxJutaBjhLf4.jpg",
+        "id": 87108,
+        "name": "Çernobil",
+        "original_name": "Chernobyl",
+        "overview": "1986 senesinde Sovyet nükleer santralinde meydana gelen patlama sonrası santral işçileri ve itfaiyeciler faciayı kontrol altına almaya çalışır.",
+        "poster_path": "/87QSOjVXFwXpCcczMLhh2WRJDV5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 86.964,
+        "first_air_date": "2019-05-06",
+        "vote_average": 8.7,
+        "vote_count": 6644,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+        "id": 1399,
+        "name": "Game of Thrones",
+        "original_name": "Game of Thrones",
+        "overview": "Krallık dediğin savaşsız olur mu? En güçlü krallığı kurup, huzuru sağlamış olsan bile bu gücü elinde nasıl koruyacaksın? Burada yanlış yapana yer yok, affetmek yok. Kuzey Krallığının hükümdarı Lord Ned Stark, uzun ve zorlu savaşlardan sonra anayurduna dönüp krallığını bütünlük içerisinde tutmayı başarmıştır. Kral Robert Baratheon ile yıllarca omuz omuza çarpışan ve Baratheon'un kral olmasını sağlayan Ned Stark'ın tek istediği kuzey sınırlarını koruyan krallığında ailesiyle ve halkıyla yaşamaktır. \n\nFakat suyun öte yanında kendi topraklarından ve krallığından kovulduğunu iddia eden Viserys Targaryen , kız kardeşi Daenerys'i barbar kavimlerin başı Han Drogo'ya vererek, güç birliği planları yapmaktadır. Tahtını büyük bir iştahla geri isteyen ama kraliyet oyunlarından habersiz olan Viserys'in planları Kral Baratheon'a ulaşır. Savaş alanında büyük cengaver olan ama ülke ve aile yönetiminde aynı başarıyı tutturamayan Baratheon'un tamamen güvenebileceği ve her yanlış hamlesini arkasından toplayacak yeni bir sağ kola ihtiyacı vardır. Kuzeyin Lordu Ned Stark bu görev için seçilen tek aday isimdir. Kış yaklaşıyor...\n\nHanedan entrikaları, kapılı kapılar ardında dönen oyunlar, birilerinin kuyusunu kazmak için düşmanın koynuna girmekten çekinmeyen kadınlar, kardeşler arası çekişmeler, dışlanmalar... Hepsi tek bir hedef için: Taht kavgası..",
+        "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 723.189,
+        "first_air_date": "2011-04-17",
+        "vote_average": 8.5,
+        "vote_count": 24677,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

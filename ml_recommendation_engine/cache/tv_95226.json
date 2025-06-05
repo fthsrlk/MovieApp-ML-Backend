@@ -1,0 +1,719 @@
+{
+  "adult": false,
+  "backdrop_path": "/k1FVoLHTV9gJZBIE1Z4nMeQthuE.jpg",
+  "created_by": [
+    {
+      "id": 3714334,
+      "credit_id": "632f6fd971f095007cc6e9c9",
+      "name": "Françoise Coquet",
+      "original_name": "Françoise Coquet",
+      "gender": 1,
+      "profile_path": "/8QTIppNYsimcC4upWy6TZdhS0fA.jpg"
+    },
+    {
+      "id": 1351945,
+      "credit_id": "632f6fe3abdafc008403779c",
+      "name": "Michel Drucker",
+      "original_name": "Michel Drucker",
+      "gender": 2,
+      "profile_path": "/4gtUTAzylVlfGmEfOpTGR6wzDta.jpg"
+    }
+  ],
+  "episode_run_time": [
+    120
+  ],
+  "first_air_date": "1982-01-16",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "",
+  "id": 95226,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2013-05-11",
+  "last_episode_to_air": {
+    "id": 1989092,
+    "name": "2. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2013-05-11",
+    "episode_number": 2,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 13,
+    "show_id": 95226,
+    "still_path": null
+  },
+  "name": "Champs-Elysées",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1130,
+      "logo_path": "/1JnQqStddzcIoa6XYB7LqJbLx01.png",
+      "name": "Antenne 2",
+      "origin_country": "FR"
+    },
+    {
+      "id": 361,
+      "logo_path": "/b1cFa5FcHHnpejKiPybXSPcqKjT.png",
+      "name": "France 2",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 293,
+  "number_of_seasons": 13,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Champs-Elysées",
+  "overview": "",
+  "popularity": 1628.317,
+  "poster_path": "/uA6Waea7ozD7OEXNGaSqPtydPdd.jpg",
+  "production_companies": [
+    {
+      "id": 127327,
+      "logo_path": null,
+      "name": "Productions DMD",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1982-01-16",
+      "episode_count": 36,
+      "id": 135416,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1983-01-01",
+      "episode_count": 37,
+      "id": 135417,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1984-01-07",
+      "episode_count": 36,
+      "id": 135418,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1985-01-05",
+      "episode_count": 21,
+      "id": 135419,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1986-01-18",
+      "episode_count": 31,
+      "id": 135420,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1987-01-03",
+      "episode_count": 35,
+      "id": 135421,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1988-01-02",
+      "episode_count": 33,
+      "id": 135422,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1989-01-07",
+      "episode_count": 37,
+      "id": 135423,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1990-01-13",
+      "episode_count": 18,
+      "id": 135424,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2010-10-13",
+      "episode_count": 1,
+      "id": 135425,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-01-15",
+      "episode_count": 3,
+      "id": 135426,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2012-03-10",
+      "episode_count": 3,
+      "id": 135427,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2013-02-16",
+      "episode_count": 2,
+      "id": 135428,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 6.2,
+  "vote_count": 5,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1351945,
+        "known_for_department": "Acting",
+        "name": "Michel Drucker",
+        "original_name": "Michel Drucker",
+        "popularity": 4.91,
+        "profile_path": "/4gtUTAzylVlfGmEfOpTGR6wzDta.jpg",
+        "character": "Self - Host",
+        "credit_id": "6118df859a9e200045fa22d2",
+        "order": 0
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": []
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/fThSrHjuS1X82XoH9VrtvgvMIXm.jpg",
+        "id": 60797,
+        "name": "Scorpion",
+        "original_name": "Scorpion",
+        "overview": "Yapımcıları arasında Alex Kurtzman ve Roberto Orci var. Konusu için “Sheldon’lar ile Leonard’lardan oluşan bir grup adamın üzerine drama” diye benzetme yapılan dizide, bir grup nevi şahsına münhasır dahi Dünya sorunlarını çözmeye ve modern çağın getirdiği tehditleri aşmaya çalışıyor.",
+        "poster_path": "/hzeirSF6bRjssDh5JFrm5WRwFLd.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          80
+        ],
+        "popularity": 206.244,
+        "first_air_date": "2014-09-22",
+        "vote_average": 8.221,
+        "vote_count": 4018,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+        "id": 93405,
+        "name": "Squid Game",
+        "original_name": "오징어 게임",
+        "overview": "Para sıkıntısı çeken yüzlerce oyuncu, çocuk oyunlarında yarışmaları için aldıkları tuhaf daveti kabul eder. İçeride onları cazip bir ödül ve ölüm riski beklemektedir.",
+        "poster_path": "/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          10759,
+          9648,
+          18
+        ],
+        "popularity": 603.484,
+        "first_air_date": "2021-09-17",
+        "vote_average": 7.9,
+        "vote_count": 15549,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/3ILUdTEetxZZ8RkPxf5e0H9pCcP.jpg",
+        "id": 4327,
+        "name": "Mr. Bean",
+        "original_name": "Mr. Bean",
+        "overview": "Sayısız skeç aracılığıyla tuhaf ve komik bir karakter olan Mr. Bean'in başına gelen talihsizlikleri anlatıyor. Derinlemesine basit bir zihne sahip olan bu yetişkin, en basit görevlerin bile kendisi için olağanüstü bir çaba gerektirdiği ve her zaman beklenmedik derecede eğlenceli bir hale dönüştüğü durumlarla karşılaşıyor.",
+        "poster_path": "/pUNQV35kDaKuejnXGNiUeEBurNE.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751,
+          18
+        ],
+        "popularity": 117.001,
+        "first_air_date": "1990-01-01",
+        "vote_average": 7.951,
+        "vote_count": 1371,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/6gN8DYnIEln8v7OhRy61c57w0Xy.jpg",
+        "id": 124364,
+        "name": "FROM",
+        "original_name": "FROM",
+        "overview": "Amerika Birleşik Devletleri'nin ortasındaki kabus gibi bir şehir, içine giren herkesi tuzağa düşürür. Kasaba sakinleri, normallik duygusunu sürdürmek ve bir çıkış yolu aramak için savaşırken, güneş battığında ortaya çıkan korkunç yaratıklar da dahil olmak üzere, çevredeki ormandan gelen tehditlere karşı da hayatta kalmak için çabalar.",
+        "poster_path": "/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          18,
+          10765
+        ],
+        "popularity": 435.649,
+        "first_air_date": "2022-02-20",
+        "vote_average": 8.188,
+        "vote_count": 1760,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5C3UcPKVcg3rwGBYPE18wXpZMw8.jpg",
+        "id": 106379,
+        "name": "Fallout",
+        "original_name": "Fallout",
+        "overview": "Kıyametten 200 yıl sonra, lüks nükleer sığınakların edepli sakinleri, kendilerini yüzeyde bekleyen inanılmaz karmaşık, oldukça tuhaf ve çok vahşi dünyaya adım atmak zorunda kalıyor.",
+        "poster_path": "/AnsSKR9LuK0T9bAOcPVA3PUvyWj.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 115.839,
+        "first_air_date": "2024-04-10",
+        "vote_average": 8.272,
+        "vote_count": 1756,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2MaumbgBlW1NoPo3ZJO38A6v7OS.jpg",
+        "id": 66732,
+        "name": "Stranger Things",
+        "original_name": "Stranger Things",
+        "overview": "Ufak bir kasabada küçük bir çocuk kaybolunca, gizli deneyler, korkutucu doğaüstü güçler ve tuhaf bir küçük kızın da parçası olduğu bir gizem ortaya çıkar.",
+        "poster_path": "/hjVNQA2a12OxkpDEOQTBMbKVZ1K.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765,
+          9648
+        ],
+        "popularity": 293.245,
+        "first_air_date": "2016-07-15",
+        "vote_average": 8.598,
+        "vote_count": 18088,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+        "id": 1399,
+        "name": "Game of Thrones",
+        "original_name": "Game of Thrones",
+        "overview": "Krallık dediğin savaşsız olur mu? En güçlü krallığı kurup, huzuru sağlamış olsan bile bu gücü elinde nasıl koruyacaksın? Burada yanlış yapana yer yok, affetmek yok. Kuzey Krallığının hükümdarı Lord Ned Stark, uzun ve zorlu savaşlardan sonra anayurduna dönüp krallığını bütünlük içerisinde tutmayı başarmıştır. Kral Robert Baratheon ile yıllarca omuz omuza çarpışan ve Baratheon'un kral olmasını sağlayan Ned Stark'ın tek istediği kuzey sınırlarını koruyan krallığında ailesiyle ve halkıyla yaşamaktır. \n\nFakat suyun öte yanında kendi topraklarından ve krallığından kovulduğunu iddia eden Viserys Targaryen , kız kardeşi Daenerys'i barbar kavimlerin başı Han Drogo'ya vererek, güç birliği planları yapmaktadır. Tahtını büyük bir iştahla geri isteyen ama kraliyet oyunlarından habersiz olan Viserys'in planları Kral Baratheon'a ulaşır. Savaş alanında büyük cengaver olan ama ülke ve aile yönetiminde aynı başarıyı tutturamayan Baratheon'un tamamen güvenebileceği ve her yanlış hamlesini arkasından toplayacak yeni bir sağ kola ihtiyacı vardır. Kuzeyin Lordu Ned Stark bu görev için seçilen tek aday isimdir. Kış yaklaşıyor...\n\nHanedan entrikaları, kapılı kapılar ardında dönen oyunlar, birilerinin kuyusunu kazmak için düşmanın koynuna girmekten çekinmeyen kadınlar, kardeşler arası çekişmeler, dışlanmalar... Hepsi tek bir hedef için: Taht kavgası..",
+        "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 723.189,
+        "first_air_date": "2011-04-17",
+        "vote_average": 8.456,
+        "vote_count": 24678,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1yhQGQH7pfKdIY2xJSYNdp8ReD6.jpg",
+        "id": 82883,
+        "name": "The Act",
+        "original_name": "The Act",
+        "overview": "Gerçek bir hikâye üzerine çekilen dizi, kızına karşı epey düşkün olarak tanınan bir annenin evinde ölü bulunması, olayın akabinde kanser ve çeşitli beyin hastalıkları bulunan 23 yaşındaki kızı Gypsy Rose’un ortak Facebook hesaplarından “Sürtük geberdi” yazan bir paylaşımda bulunması nedeniyle olayların derinine inilmesi ile başlıyor ve şoke edici gerçekler açığa çıkıyor.",
+        "poster_path": "/vb1sQLC2MqfCPOFqHd8SyVsyDVB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 32.923,
+        "first_air_date": "2019-03-20",
+        "vote_average": 7.563,
+        "vote_count": 5109,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dQOphbONxlpPsKo30araFr0CYMO.jpg",
+        "id": 71912,
+        "name": "The Witcher",
+        "original_name": "The Witcher",
+        "overview": "Yalnız bir canavar avcısı olan Rivialı Geralt, insanların yaratıklardan bile daha kötü olabildiği bir dünyada kendine yer edinmeye çalışmaktadır. Ancak kader onu güçlü bir büyücü ve tehlikeli bir sırra sahip genç bir prensesle karşılaştırır. Üçlü, artık her geçen gün daha da vahşi hale gelen bu kıtada birlikte yürümeyi öğrenmelidir.",
+        "poster_path": "/cZ0d3rtvXPVvuiX22sP79K3Hmjz.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 161.228,
+        "first_air_date": "2019-12-20",
+        "vote_average": 8.037,
+        "vote_count": 6028,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vQ77kC1amsZECKIxkUIsMJCtBVp.jpg",
+        "id": 70796,
+        "name": "Muhteşem Bayan Maisel",
+        "original_name": "The Marvelous Mrs. Maisel",
+        "overview": "1958 yılında, New York’un Yukarı Batı Yakası’nda yaşayan Mrs. Maisel, hayatını tamamen eşi Joel Maisel’a ve eşinin eğlence için yaptığı stand-up gösterilerinin başarısına adamıştır. Ancak hayatı aniden değiştiğinde ve Midge her şeye yeniden başlamak zorunda kaldığında, daha önce bilinmeyen bir yeteneğini keşfeder - bu yetenek onu Greenwich Village'ın komedi kulüplerine kadar götürecektir.",
+        "poster_path": "/jJHClkUwDsSIPvh0ccA3dSpxi74.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 104.477,
+        "first_air_date": "2017-03-16",
+        "vote_average": 8.1,
+        "vote_count": 807,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lOr9NKxh4vMweufMOUDJjJhCRHW.jpg",
+        "id": 85271,
+        "name": "WandaVision",
+        "original_name": "WandaVision",
+        "overview": "Yorucu bir hayatı arkalarında bırakmak isteyen süper kahramanlar Wanda ve Vision, güçlerini kullanmak zorunda olmadıkları bir hayatı arzular. Bunun için de sıradan bir yaşam sürebilecekleri idealize edilmiş bir banliyöde yaşamaya başlarlar. Artık geçmişte yaşadıkları zorlukları arkalarında bırakıp sonunda istedikleri hayata kavuştuklarını düşünen Wanda ve Vision, çok geçmeden hiçbir şeyin göründüğü gibi olmadığını keşfeder.",
+        "poster_path": "/sgCHdBJ1w0vJNUrW1Sq90KEXv9j.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          9648,
+          18
+        ],
+        "popularity": 83.448,
+        "first_air_date": "2021-01-15",
+        "vote_average": 8.2,
+        "vote_count": 12130,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uY3MJohUpY7UMMTK90BIhX5txEs.jpg",
+        "id": 46639,
+        "name": "Amerikan Tanrıları",
+        "original_name": "American Gods",
+        "overview": "Neil Gaiman'ın aynı isimli romanından uyarlanan dizide eski bir mahkum, bir dolandırıcının seyahat ortağı olur. Ancak zamanla dolandırıcının yeni tanrılarla savaşmak için asker toplamaya çalışan eski tanrılardan biri olduğu ortaya çıkar.",
+        "poster_path": "/5H188raQhZyXCsAwfFtaDKcmRHY.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          10765
+        ],
+        "popularity": 89.397,
+        "first_air_date": "2017-04-30",
+        "vote_average": 7.073,
+        "vote_count": 1626,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/34OGjFEbHj0E3lE2w0iTUVq0CBz.jpg",
+        "id": 87739,
+        "name": "The Queen's Gambit",
+        "original_name": "The Queen's Gambit",
+        "overview": "1950'lerde bir yetimhanede, küçük bir kız müthiş bir satranç yeteneği sergiler. Ancak yıldızlığa uzanan umulmadık yolculuğunda bağımlılıkla mücadele etmek zorunda kalır.",
+        "poster_path": "/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 72.508,
+        "first_air_date": "2020-10-23",
+        "vote_average": 8.5,
+        "vote_count": 4790,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/or7wKwv1IT6LEOktt395O5qi7e.jpg",
+        "id": 60574,
+        "name": "Peaky Blinders",
+        "original_name": "Peaky Blinders",
+        "overview": "Birinci Dünya Savaşı’ndan yeni çıkmış İngiltere’yi, yasadışı faaliyet gösteren çeşitli çeteler sarmıştır. Bunlardan biri de soygunculuk ve at yarışıyla para kazanan Peaky Blinders’dır. Polislere rüşvet yedirerek paçayı kurtaran çete, bir soygunda yanlışlık yapınca başlarına bela olacak yeni bir müfettişin şehre gelmesine vesile olurlar.",
+        "poster_path": "/5aHpODCpUa0kGTPXtiYC0moIPhT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 303.952,
+        "first_air_date": "2013-09-12",
+        "vote_average": 8.5,
+        "vote_count": 10221,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/yGNnjoIGOdQy3douq60tULY8teK.jpg",
+        "id": 63247,
+        "name": "Westworld",
+        "original_name": "Westworld",
+        "overview": "İki konuk ileri teknolojinin kullanıldığı bir eğlence parkında Vahşi Batı macerasına çıkar. Parktaki insanlar robottur ve park Roma, Vahşi Batı ve Ortaçağ dönemlerine benzetilerek sahici bir hayat yaratmak amacıyla tasarlanmıştır. Merkezi bilgisayar sistemi bozulunca robotlar zincirlerini koparır ve parkın iki konuğu robot bir silahşör tarafından takip edildiklerini fark eder.West World ya da Batı Dünyası, yapay bilincin ortaya çıkması ve suçun geleceğiyle ilgili karanlık bir yolculuğu anlatmaktadır.",
+        "poster_path": "/8MfgyFHf7XEboZJPZXCIDqqiz6e.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          37
+        ],
+        "popularity": 152.522,
+        "first_air_date": "2016-10-02",
+        "vote_average": 8.041,
+        "vote_count": 5624,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/20eIP9o5ebArmu2HxJutaBjhLf4.jpg",
+        "id": 87108,
+        "name": "Çernobil",
+        "original_name": "Chernobyl",
+        "overview": "1986 senesinde Sovyet nükleer santralinde meydana gelen patlama sonrası santral işçileri ve itfaiyeciler faciayı kontrol altına almaya çalışır.",
+        "poster_path": "/87QSOjVXFwXpCcczMLhh2WRJDV5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 86.964,
+        "first_air_date": "2019-05-06",
+        "vote_average": 8.7,
+        "vote_count": 6644,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lgGZ2ysbRyAOi2VgIZpp6k8qILj.jpg",
+        "id": 1434,
+        "name": "Family Guy",
+        "original_name": "Family Guy",
+        "overview": "2000 yılından bu yana komedi ve animasyon dallarında Emmy adaylıklarının ve ödüllerinin gediklisi olan çizgi dizi Family Guy,sıra dışı Griffin ailesinin absürd hayatlarını ekranlara taşıyor. Zaman zaman The Simpsons efsanesine benzetilen çizgisi ile yıllardır geniş bir hayran kitlesi yaratan dizi, başı dertten kurtulmayan baba Peter Griffin, fedakar ama hafif bela paratoneri olan anne Louis ve onların üç çocuğu, ne yapsa yaramayan “loser” Meg, fil çocuk Chris, dünyayı ele geçirmeyi kafaya koyan bebek Stewieve tabii ki ailenin yegane üyesi entelektüel köpek Brian’ın çılgın maceralarını konu alıyor.\n\nSeth MacFarlane imzasını taşıyan dizi, ki kendisi aynı zamanda baba Peter Griffin’e sesiyle hayat veriyor, Amerikan toplumuna yaptığı güncel göndermeleri, zeki esprileri, konuk ünlüleri ve müzikleriyle son on yılın en sevilen animasyon komedileri arasında yer alıyor.",
+        "poster_path": "/8o8kiBkWFK3gVytHdyzEWUBXVfK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 610.601,
+        "first_air_date": "1999-01-31",
+        "vote_average": 7.4,
+        "vote_count": 4495,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7cqKGQMnNabzOpi7qaIgZvQ7NGV.jpg",
+        "id": 76479,
+        "name": "The Boys",
+        "original_name": "The Boys",
+        "overview": "The Boys, süper kahramanların güçlerini ve şöhretlerini kötüye kullandığı bir evrende geçiyor. Kendilerini kanunu korumaya adayan ve “The Boys” olarak adlandırılan bir grup insan, yozlaşmış süper kahramanları ortadan kaldırmak için zorlu bir yolculuğa çıkar.",
+        "poster_path": "/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759
+        ],
+        "popularity": 315.912,
+        "first_air_date": "2019-07-25",
+        "vote_average": 8.5,
+        "vote_count": 10830,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/mc3rG5M9dFVjMfaCFNfbD5gu2pK.jpg",
+        "id": 1433,
+        "name": "American Dad!",
+        "original_name": "American Dad!",
+        "overview": "American Dad, Langley Falls, Virginia’da yaşayan CIA ajanı, tartışmasız silah uzmanı ve gururlu aile babası Stan Smith’in etrafında dönüyor. Stan, ülkesini korumak için ne gerekiyorsa yapmaya fazlasıyla gönüllü bir vatansever ve terörist saldırılara karşı sürekli alarm halinde. Bunu anlamanız için buzdolabının üzerindeki terör-alarmını ve ekmek kızartma makinesinden fırlayan ekmeklere ateş açarak ortalığı delik deşik eden Stan’i görmeniz yeterli.Stan’in tatlı eşi, sevgili Francine, parti kızı kişiliğini çok sevdiği tutucu eşinden dikkatli bir biçimde saklıyor. Fakat her ne kadar eşine çok düşkün olursa olsun, gereken zamanlarda kesinlikle Stan’a karşı koymaktan çekinmiyor.Stan sürekli 18 yaşındaki ultra-liberal kızı Hayley ile çatışıyor. Her okuldan eve geldiğinde hava alanlarındaki gibi güvenlik taramasından geçmeye zorlanan Hayley’nin 13 yaşındaki inek öğrenci kardeşi Steve ise ergenlik çağı tuhaflıklarıyla uğraşıyor.Smith ailesine dahil sayılan iki garip üye daha var. Stan’in Bölge 51’den kurtardığı, şimdi evlerinin tavan arasında yaşayan Roger, markete gidip sigara almak varken evde kalıp kötü televizyon programlarını izlemek zorunda. Ve bir de Klaus var. Klaus, CIA’in bir deneyinin yanlış sonuç vermesi yüzünden Almanca konuşan şehvet düşkünü bir Japon balığı ve Francine’e hiç de sağlıklı olmayan bir ilgisi var. Ne yazık ki Klaus için Francine’e en yakın olabileceği yer, olsa olsa çamaşır makinesinde O’nun spor sutyeniyle yıkanmak olabilir",
+        "poster_path": "/j84ZtVRoxKWTsQUya77um4l8Dqs.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 421.757,
+        "first_air_date": "2005-02-06",
+        "vote_average": 7.0,
+        "vote_count": 2171,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wQEW3xLrQAThu1GvqpsKQyejrYS.jpg",
+        "id": 94605,
+        "name": "Arcane",
+        "original_name": "Arcane",
+        "overview": "Piltover ve Zaun kentleri arasındaki sert çatışmanın ortasında iki kız kardeş, büyülü teknolojiler ve birbirine zıt inanışlar arasındaki savaşın karşı cephelerindedir.",
+        "poster_path": "/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 177.729,
+        "first_air_date": "2021-11-06",
+        "vote_average": 8.781,
+        "vote_count": 4942,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

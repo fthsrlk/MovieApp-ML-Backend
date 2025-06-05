@@ -1,0 +1,901 @@
+{
+  "adult": false,
+  "backdrop_path": "/eDNSgT1xPMKYcEzJ5GG0PCE3NcN.jpg",
+  "created_by": [
+    {
+      "id": 53175,
+      "credit_id": "52534a6f19c29579400f0f10",
+      "name": "Mark Schwahn",
+      "original_name": "Mark Schwahn",
+      "gender": 2,
+      "profile_path": "/oIM1UVaCDDiuppd6NCfkxwu4fYr.jpg"
+    }
+  ],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "2003-09-23",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Dram"
+    }
+  ],
+  "homepage": "",
+  "id": 269,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2012-04-04",
+  "last_episode_to_air": {
+    "id": 14568,
+    "name": "13. Bölüm",
+    "overview": "",
+    "vote_average": 8.7,
+    "vote_count": 3,
+    "air_date": "2012-04-04",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 51,
+    "season_number": 9,
+    "show_id": 269,
+    "still_path": "/kVNSpL7jQpSzOPcwwfosBY3oD09.jpg"
+  },
+  "name": "One Tree Hill",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 21,
+      "logo_path": "/9GlDHjQj9c2dkfARCR3zlH87R66.png",
+      "name": "The WB",
+      "origin_country": "US"
+    },
+    {
+      "id": 71,
+      "logo_path": "/hEpcdJ4O6eitG9ADSnDXNUrlovS.png",
+      "name": "The CW",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 187,
+  "number_of_seasons": 9,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "One Tree Hill",
+  "overview": "",
+  "popularity": 76.303,
+  "poster_path": "/sOrelBaAhp7DZbPTivDwKEyPslC.jpg",
+  "production_companies": [
+    {
+      "id": 1957,
+      "logo_path": "/qIxtba5CbnJfHCA88czLfTNKW9M.png",
+      "name": "Warner Bros. Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 2184,
+      "logo_path": null,
+      "name": "Tollin/Robbins Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 3,
+      "id": 858,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/c0Vipwe792dXzM7L9gqzR5sFEeX.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2003-09-23",
+      "episode_count": 22,
+      "id": 849,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/tZVt3ShwTqdi9fBoPSmxRbVXemg.jpg",
+      "season_number": 1,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2004-09-21",
+      "episode_count": 23,
+      "id": 850,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/k8ZFlXgIEUkBcC5YPxo8OXpk4b8.jpg",
+      "season_number": 2,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2005-10-05",
+      "episode_count": 22,
+      "id": 851,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/vSN4DqHyzJkKNafXS0iDUFKAw9u.jpg",
+      "season_number": 3,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2006-09-27",
+      "episode_count": 21,
+      "id": 852,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/5JEqAA8sqQAiMDUoPdg8lgwLp6T.jpg",
+      "season_number": 4,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2008-01-08",
+      "episode_count": 18,
+      "id": 853,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/p7LdCcnMaMqdjIYJGrq3svwbpzx.jpg",
+      "season_number": 5,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2008-09-01",
+      "episode_count": 24,
+      "id": 854,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/xg3O0yhAuEa4H5D6U8QqW7ld08a.jpg",
+      "season_number": 6,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2009-09-14",
+      "episode_count": 22,
+      "id": 855,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/jW9j4JBUjisP7FCA4UPngSOyQyd.jpg",
+      "season_number": 7,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "2010-09-14",
+      "episode_count": 22,
+      "id": 856,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/fRquDu89YyiitnHWF3m1wfutUN.jpg",
+      "season_number": 8,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2012-01-11",
+      "episode_count": 13,
+      "id": 857,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/awZrSrQW9kvPRXYL33TRm41mzvR.jpg",
+      "season_number": 9,
+      "vote_average": 7.4
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.761,
+  "vote_count": 515,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98050,
+        "known_for_department": "Acting",
+        "name": "James Lafferty",
+        "original_name": "James Lafferty",
+        "popularity": 1.3437,
+        "profile_path": "/lvUyG8wwYPUl8x5byd1g5Y2A0ia.jpg",
+        "character": "Nathan Scott",
+        "credit_id": "52534a6919c29579400f0a88",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1118081,
+        "known_for_department": "Acting",
+        "name": "Bethany Joy Lenz",
+        "original_name": "Bethany Joy Lenz",
+        "popularity": 1.9357,
+        "profile_path": "/wdzam5aHZyWwPSbxQz8iL9wIpR7.jpg",
+        "character": "Haley James Scott",
+        "credit_id": "52534a6919c29579400f0b14",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 54830,
+        "known_for_department": "Acting",
+        "name": "Sophia Bush",
+        "original_name": "Sophia Bush",
+        "popularity": 4.0883,
+        "profile_path": "/1jwRBWyTjfLi8O5hqedCt3LGoAA.jpg",
+        "character": "Brooke Davis",
+        "credit_id": "52534a6919c29579400f0b58",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6069,
+        "known_for_department": "Acting",
+        "name": "Austin Nichols",
+        "original_name": "Austin Nichols",
+        "popularity": 2.275,
+        "profile_path": "/nhH6CVwgCQOKkz2QLVH4V7Am6zv.jpg",
+        "character": "Julian Baker",
+        "credit_id": "65475fb11ac2927b33877a3a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96792,
+        "known_for_department": "Acting",
+        "name": "Robert Buckley",
+        "original_name": "Robert Buckley",
+        "popularity": 1.878,
+        "profile_path": "/o4ju4sTWoEMK6QvDjQrqHYRBCrz.jpg",
+        "character": "Clay Evans",
+        "credit_id": "5544fd879251413fc00018ee",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 94423,
+        "known_for_department": "Acting",
+        "name": "Shantel VanSanten",
+        "original_name": "Shantel VanSanten",
+        "popularity": 2.2504,
+        "profile_path": "/pVSQcngGClHnZhOLedgtkj3tVob.jpg",
+        "character": "Quinn James",
+        "credit_id": "52534a6b19c29579400f0e10",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1215059,
+        "known_for_department": "Acting",
+        "name": "Jackson Brundage",
+        "original_name": "Jackson Brundage",
+        "popularity": 0.5674,
+        "profile_path": "/qk39a8oC4tc18q3myXqwAqGOESs.jpg",
+        "character": "Jamie Scott",
+        "credit_id": "52534a6e19c29579400f0ede",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 166897,
+        "known_for_department": "Acting",
+        "name": "Lee Norris",
+        "original_name": "Lee Norris",
+        "popularity": 1.576,
+        "profile_path": "/lLYYGvExYbvVlKw80DRGBpd6Yy9.jpg",
+        "character": "Marvin 'Mouth' McFadden",
+        "credit_id": "52534a6a19c29579400f0c96",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1215043,
+        "known_for_department": "Acting",
+        "name": "Lisa Goldstein Kirsch",
+        "original_name": "Lisa Goldstein Kirsch",
+        "popularity": 0.2594,
+        "profile_path": "/2bTtiZRTfAd3FKuDXIjKC1I5nP0.jpg",
+        "character": "Millicent Huxtable",
+        "credit_id": "52534a6a19c29579400f0d0c",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141180,
+        "known_for_department": "Acting",
+        "name": "Stephen Colletti",
+        "original_name": "Stephen Colletti",
+        "popularity": 1.1981,
+        "profile_path": "/u9z7HU21F6yBHh4CtGp9xCBQXXy.jpg",
+        "character": "Chase Adams",
+        "credit_id": "65475dfb9cc67b011cef87ea",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 419,
+        "known_for_department": "Acting",
+        "name": "Tyler Hilton",
+        "original_name": "Tyler Hilton",
+        "popularity": 1.3332,
+        "profile_path": "/yfk5SWEmbdhmk1rC4vEujczAoB0.jpg",
+        "character": "Chris Keller",
+        "credit_id": "525349fb19c29579400ed429",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73035,
+        "known_for_department": "Acting",
+        "name": "Paul Johansson",
+        "original_name": "Paul Johansson",
+        "popularity": 2.1804,
+        "profile_path": "/WObwc4GELejtR1lZDCWVN9F9t7.jpg",
+        "character": "Dan Scott",
+        "credit_id": "52534a6a19c29579400f0b98",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53178,
+        "known_for_department": "Directing",
+        "name": "Michael Tollin",
+        "original_name": "Michael Tollin",
+        "popularity": 1.9947,
+        "profile_path": "/zZEUZh2Oh20wFBXaEfGvwqCBWmv.jpg",
+        "credit_id": "52534a6f19c29579400f0f2e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1212141,
+        "known_for_department": "Production",
+        "name": "Joe Davola",
+        "original_name": "Joe Davola",
+        "popularity": 0.3507,
+        "profile_path": null,
+        "credit_id": "52534a6f19c29579400f0f74",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53177,
+        "known_for_department": "Production",
+        "name": "Brian Robbins",
+        "original_name": "Brian Robbins",
+        "popularity": 1.5813,
+        "profile_path": "/zac1aXzDsp5J93NntcvAbvlW12S.jpg",
+        "credit_id": "52534a6f19c29579400f0fba",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53175,
+        "known_for_department": "Writing",
+        "name": "Mark Schwahn",
+        "original_name": "Mark Schwahn",
+        "popularity": 1.3026,
+        "profile_path": "/oIM1UVaCDDiuppd6NCfkxwu4fYr.jpg",
+        "credit_id": "52534a6f19c29579400f1000",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1214997,
+        "known_for_department": "Writing",
+        "name": "Mike Kelley",
+        "original_name": "Mike Kelley",
+        "popularity": 0.3634,
+        "profile_path": "/vP1bOW9Z2up26DP0YmluT4NeLdv.jpg",
+        "credit_id": "52534a6f19c29579400f108c",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "sibling relationship",
+        "id": 380
+      },
+      {
+        "name": "high school",
+        "id": 6270
+      },
+      {
+        "name": "basketball",
+        "id": 6496
+      },
+      {
+        "name": "teenage romance",
+        "id": 188237
+      },
+      {
+        "name": "teen drama",
+        "id": 193400
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/d80flL9gjiYBhK7lqApwrRFGGCb.jpg",
+        "id": 5917,
+        "name": "90210",
+        "original_name": "90210",
+        "overview": "“Beverly Hills, 90210” efsanesini iki binli yıllara taşıyan yapım, yeni neslin Beverly Hills maceralarına odaklanıyor.\n\nYeni “90210”da, Brenda ve Brendan Walsh kardeşler yerine bu kez hayata Annie ve kardeşi Dixon Wilson’ın gözünden bakıyoruz. Kahramanlarımız, Batı Beverly Hills Lisesi’ndeki ilk günlerinden sonra artık Kansas’ta olmadıklarını idrak ediyorlar. Baba Harry ve anne Debbie’nin de dâhil olduğu Wilson ailesi, Harry’nin eski TV yıldızı annesi Tabitha’ya göz kulak olmak amacıyla Beverly Hills’e taşınıyor. Tiyatro tutkunu ve arkadaş canlısı Annie ve Wilson’ların evlatlık oğlu, yıldız sporcu Dixon için okul, büyük bir kültür şoku oluyor. Babalarının lisenin müdürü olarak işe başlaması ise kahramanlarımızın sıkıntılarına tuz biber ekiyor. İki kardeş; zengin kızı Naomi, popüler sporcu Ethan, hevesli gazeteci Navid ya da asi bir kız olan Silver gibi sınıf arkadaşlarıyla baş etmek konusunda birbirlerine yardımcı oluyorlar.",
+        "poster_path": "/6uy8Le8X8qqvc5X7pSFn3BJA69M.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 27.5579,
+        "first_air_date": "2008-09-02",
+        "vote_average": 5.682,
+        "vote_count": 192,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ellZi3rMN93x130mkHHempQluds.jpg",
+        "id": 20021,
+        "name": "Life Unexpected",
+        "original_name": "Life Unexpected",
+        "overview": "16-year-old Lux was given up for adoption at birth but never adopted. When she is put back into the custody of her estranged-since-high-school birth parents, Cate and Baze, the three form an unlikely family.",
+        "poster_path": "/riHJXZovS7QjhRyiwnm2ULpx5JN.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 4.5906,
+        "first_air_date": "2010-01-18",
+        "vote_average": 7.679,
+        "vote_count": 84,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/76MTB14PxNWcpTxtZ1ppYI2F55A.jpg",
+        "id": 61775,
+        "name": "Ever After High",
+        "original_name": "Ever After High",
+        "overview": "The students of all the fairytale characters attend Ever After High, where they are either Royals (students who want to follow in their parent's footsteps) or Rebels (students who wish to write their own destiny).",
+        "poster_path": "/xvpazrEM6TRMx2vqj5NUaztYcGv.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10762,
+          16,
+          18,
+          10759,
+          10751
+        ],
+        "popularity": 18.2744,
+        "first_air_date": "2013-06-18",
+        "vote_average": 7.735,
+        "vote_count": 51,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lvfoHcP233tfmqJz3MRIdKDbyQl.jpg",
+        "id": 38294,
+        "name": "Life's Too Short",
+        "original_name": "Life's Too Short",
+        "overview": "Life's Too Short is a British sitcom mockumentary created and written by Ricky Gervais and Stephen Merchant from an idea by Warwick Davis, and is as described by Gervais, about \"the life of a showbiz dwarf\".",
+        "poster_path": "/bJQnuGaXML31QyjxwMXuu39Tye1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          99
+        ],
+        "popularity": 4.1996,
+        "first_air_date": "2011-11-10",
+        "vote_average": 7.1,
+        "vote_count": 133,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/rvlQ6u2ZR8phyOtQSmaOOP9pOPv.jpg",
+        "id": 18856,
+        "name": "Hawthorne",
+        "original_name": "Hawthorne",
+        "overview": "Christina Hawthorne is a compassionate and headstrong Chief Nursing Officer heading up a group of dedicated nurses at Richmond Trinity Hospital on the hospital's front lines. She does everything in her power to help her patients. When necessary, she takes on doctors and administrators who are overworked, distracted or just unable to see the human being behind the hospital chart. But the long days at the hospital and Hawthorne’s intense focus on helping others take a toll on her personal life.",
+        "poster_path": "/bZuFnSA7RtgEQJUBdHqbhtlbpmp.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 5.9215,
+        "first_air_date": "2009-06-16",
+        "vote_average": 7.2,
+        "vote_count": 44,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2q4htJasru0ibuhLM5QHmSnm3Kj.jpg",
+        "id": 80308,
+        "name": "The Good Cop",
+        "original_name": "The Good Cop",
+        "overview": "Hastalık derecesinde dürüst bir dedektif, cinayet çözmeden arta kalan zamanlarında sahtekâr ancak iyi kalpli babasına göz kulak olmaya çalışır.",
+        "poster_path": "/dksu4Xhq5HE6MuR0NQdvxef6v35.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 4.3846,
+        "first_air_date": "2018-09-21",
+        "vote_average": 6.167,
+        "vote_count": 54,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/b3MmsGiTvNOjSdhpdqzqdLJu0nt.jpg",
+        "id": 43188,
+        "name": "666 Park Avenue",
+        "original_name": "666 Park Avenue",
+        "overview": "What would you do to have everything you desire? Step inside 666 Park Avenue,  New York's most seductive address. We all have some burning needs,  desires and ambitions. For the residents of The Drake, the premier  apartment building on Manhattan's Upper East Side, these will all be met  – for a price – courtesy of the building's mysterious owner, Gavin  Doran. But be careful what you wish for, because the  price you have to pay is your soul.",
+        "poster_path": "/ogiB7HOq82NlQTMkqk8piIm5pSW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          9648
+        ],
+        "popularity": 7.5627,
+        "first_air_date": "2012-09-30",
+        "vote_average": 6.163,
+        "vote_count": 123,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cm9FzCmpSQrFX6KxgHj3v8Ma052.jpg",
+        "id": 60652,
+        "name": "Soda",
+        "original_name": "Soda",
+        "overview": "Soda is a French television series produced by CALT. The series follows Adam, an 18-year-old high school student as he struggles with amusing yet realistic everyday issues. His group of friends are always there to help him through it all.",
+        "poster_path": "/97DHrBEl4kGlSQVD3RPA6CWR61A.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 12.8474,
+        "first_air_date": "2011-07-04",
+        "vote_average": 5.225,
+        "vote_count": 20,
+        "origin_country": [
+          "FR"
+        ]
+      },
+      {
+        "backdrop_path": "/iLkjF4cBLxg6k5Swee2yDlMjUxw.jpg",
+        "id": 4053,
+        "name": "Dirty Sexy Money",
+        "original_name": "Dirty Sexy Money",
+        "overview": "Babasının rolünü devralan bir avukat, varlıklı bir ailenin sırlarının ve savurgan, sorunlu hayatlarının tehlikeli sularında gezinir.",
+        "poster_path": "/qZHn3otXV4y7AELII800Gpv3TbW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 11.7878,
+        "first_air_date": "2007-09-26",
+        "vote_average": 6.2,
+        "vote_count": 78,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 61825,
+        "name": "Max & Shred",
+        "original_name": "Max & Shred",
+        "overview": "What happens when you put a superstar snowboarder and a scientific genius under one roof? You're about to find out! When Max Asher moves to a snowy ski-town to live with Alvin \"Shred\" Ackerman and his family, an unlikely friendship forms. Max loves to hit the slopes and Shred loves to hit the books. But even though these two dudes are totally different, they've always got each others' backs. There's no problem this unlikely duo can't handle.",
+        "poster_path": "/fPFsT1BnaxlptqVGzYKxuaAVtNC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 5.4434,
+        "first_air_date": "2014-10-06",
+        "vote_average": 6.2,
+        "vote_count": 5,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uxdAP2lUzVGR3gxlJhOYRE6vncJ.jpg",
+        "id": 89171,
+        "name": "Drug Squad: Costa del Sol",
+        "original_name": "Brigada Costa del Sol",
+        "overview": "Four intrepid and impulsive police officers form a special narcotics unit to combat the birth of drug trafficking on Spain's Costa del Sol in the 1970s.",
+        "poster_path": "/9NVTQvxmgaGug1PtbjVURodm7NK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          10759,
+          18,
+          80
+        ],
+        "popularity": 4.0804,
+        "first_air_date": "2019-05-06",
+        "vote_average": 6.324,
+        "vote_count": 17,
+        "origin_country": [
+          "ES"
+        ]
+      },
+      {
+        "backdrop_path": "/izANb0XYjvuAgRAcIxZ1iBJwN2T.jpg",
+        "id": 202099,
+        "name": "True Lies",
+        "original_name": "True Lies",
+        "overview": "James Cameron'ın aynı adlı hit filminden esinlenen True Lies, ABD istihbarat teşkilatı Omega Sector için çalışan birinci sınıf bir uluslararası casus olan Harry Tasker ile günlük rutininden sıkılmış bir dil profesörü olan karısı Helen'in, sıradan görünen kocasının sıra dışı bir ikili hayat sürdüğünü şok edici bir şekilde keşfetmesini konu alır.",
+        "poster_path": "/lTnVIuHiXPnFALOSBQWUOkSR8Ya.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          35
+        ],
+        "popularity": 7.6991,
+        "first_air_date": "2023-03-01",
+        "vote_average": 6.201,
+        "vote_count": 77,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/6JjDNGXodTFBm20MfLkVVKH8mWc.jpg",
+        "id": 86833,
+        "name": "Penny on M.A.R.S.",
+        "original_name": "Penny on M.A.R.S.",
+        "overview": "Penny is the daughther of Bakia, the most famous popstar of the hour. With her best friend Camilla,she decides to attend M.A.RS., the most important school of Music and Arts. Here she will find new friends, she will face many challenges and she will keep looking for the father she's never met.",
+        "poster_path": "/aa34y9dNmEULV3UmXyyPY9Q6dRb.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 12.9875,
+        "first_air_date": "2018-05-07",
+        "vote_average": 8.8,
+        "vote_count": 17,
+        "origin_country": [
+          "IT"
+        ]
+      },
+      {
+        "backdrop_path": "/6gwxdtdFSthypYw2XRdlelPjkA7.jpg",
+        "id": 95157,
+        "name": "Expedition Bigfoot",
+        "original_name": "Expedition Bigfoot",
+        "overview": "An elite team of Sasquatch specialists journey into the unforgiving Oregon wilderness in search of Bigfoot. The three-week expedition, based on science and expertise, may finally pull the elusive beast out of the pages of legend and lore and into reality.",
+        "poster_path": "/3d4c9ApFnN4fjst6ZtyYg8vfkJo.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          10764
+        ],
+        "popularity": 5.0777,
+        "first_air_date": "2019-12-08",
+        "vote_average": 7.75,
+        "vote_count": 16,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/57Q2mH0c1lzC4lkcJkoPg1JQoVB.jpg",
+        "id": 211431,
+        "name": "Survivors",
+        "original_name": "Sopravvissuti",
+        "overview": "",
+        "poster_path": "/3mkNrj74dQ72MHZcNJwgYVg9gby.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "it",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 1.4382,
+        "first_air_date": "2022-10-03",
+        "vote_average": 5.8,
+        "vote_count": 20,
+        "origin_country": [
+          "IT"
+        ]
+      },
+      {
+        "backdrop_path": "/tTlEKLsgD2Zk2SSgZnJjE1vCIXc.jpg",
+        "id": 31886,
+        "name": "La fureur",
+        "original_name": "La fureur",
+        "overview": "A musical game show opposing two gender-segregated teams of celebrities.",
+        "poster_path": "/vsbm3f0bCu6Y4Cb6XATn6j6C92D.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [],
+        "popularity": 6.6864,
+        "first_air_date": "1998-06-25",
+        "vote_average": 8.0,
+        "vote_count": 1,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/nvVZnWnTDeheYx54DRaq5HH9da0.jpg",
+        "id": 103784,
+        "name": "Broad City: The Web Series",
+        "original_name": "Broad City: The Web Series",
+        "overview": "Broad City follows two women throughout their daily lives in New York City. This is the original web-series the hit Comedy Central TV-series is based off.",
+        "poster_path": "/8mdw8KiE76su8OyBz3QsG7VQ5Mv.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [],
+        "popularity": 0.2127,
+        "first_air_date": "2010-02-15",
+        "vote_average": 7.8,
+        "vote_count": 4,
+        "origin_country": []
+      },
+      {
+        "backdrop_path": "/yZ3o0yihCTY3BlpxWrMeXcZTiQf.jpg",
+        "id": 281998,
+        "name": "The Lost Women Spies",
+        "original_name": "The Lost Women Spies",
+        "overview": "Vera Atkins' files were kept sealed until after she died, but the story of the female spies and the spy-mistress who led them, which has remained secret for over 50 years, can now be revealed.",
+        "poster_path": "/tkQgkLG45NglMyTYe2tLSrY4Nae.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          99
+        ],
+        "popularity": 0.1729,
+        "first_air_date": "2025-01-14",
+        "vote_average": 7.5,
+        "vote_count": 2,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/eFhYnb01VXwIvlaTVCVRJTCJzH5.jpg",
+        "id": 52069,
+        "name": "Tattoo Nightmares",
+        "original_name": "Tattoo Nightmares",
+        "overview": "Tattoo Nightmares is an American docu-reality series taking a closer look at “tattastrophies” and the genius work of cover-up artists who fix them. Tommy Helm, Big Gus and Jasmine Rodriguez are among the most revered cover-up artists in the business, and they employ their years of experience to undo their client’s ill-conceived tats. Watch as they work their magic and turn “disasterpieces” into new works of art.",
+        "poster_path": "/rkaMsKgBGmXB7JH4BcvFNQ58FfF.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 5.1167,
+        "first_air_date": "2012-10-16",
+        "vote_average": 7.6,
+        "vote_count": 15,
+        "origin_country": [
+          "US",
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/YrBlOwPEYAbOiNhd2VulRhTqqM.jpg",
+        "id": 47318,
+        "name": "Graceland",
+        "original_name": "Graceland",
+        "overview": "In Southern California, a beachfront property was seized and turned into a residence for undercover cops. They are all top agents of the DEA, FBI, and Customs and they are living in this house unofficially known as \"Graceland\". Coming of a new graduating at the top of his class, FBI rookie, Mike Warren, could make the life of a legendary FBI agent Paul Briggs and the others, more complicated or it could reveal the truth. It is based upon actual events.",
+        "poster_path": "/oX3Hp4snTJH1chqnC8La0MkJJlZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          10759
+        ],
+        "popularity": 8.7633,
+        "first_air_date": "2013-06-06",
+        "vote_average": 7.1,
+        "vote_count": 125,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

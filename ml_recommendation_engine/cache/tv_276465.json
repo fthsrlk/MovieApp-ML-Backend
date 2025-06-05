@@ -1,0 +1,199 @@
+{
+  "adult": false,
+  "backdrop_path": "/lntobwOaMkACftGIULcp6n4kqOF.jpg",
+  "created_by": [
+    {
+      "id": 1218634,
+      "credit_id": "6731a05d6895f3822e45ef27",
+      "name": "Harvey Levin",
+      "original_name": "Harvey Levin",
+      "gender": 2,
+      "profile_path": "/x8QJZcapTzQ8sSLU8VpPpmb9saA.jpg"
+    }
+  ],
+  "episode_run_time": [
+    44
+  ],
+  "first_air_date": "2012-06-11",
+  "genres": [],
+  "homepage": "https://www.tmz.com/watch/tmz-live/",
+  "id": 276465,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-02-18",
+  "last_episode_to_air": {
+    "id": 5747715,
+    "name": "134. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-06",
+    "episode_number": 134,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 14,
+    "show_id": 276465,
+    "still_path": null
+  },
+  "name": "TMZ Live",
+  "next_episode_to_air": {
+    "id": 5747716,
+    "name": "135. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-07",
+    "episode_number": 135,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 14,
+    "show_id": 276465,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 184,
+      "logo_path": null,
+      "name": "Syndication",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 261,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "TMZ Live",
+  "overview": "",
+  "popularity": 2143.282,
+  "poster_path": "/12sC6lRA7ds448jaoDUtj5qGSwh.jpg",
+  "production_companies": [
+    {
+      "id": 28673,
+      "logo_path": null,
+      "name": "Paramedia",
+      "origin_country": "US"
+    },
+    {
+      "id": 28674,
+      "logo_path": "/9mAzySYj0j2D3vXbYPatqmvXykw.png",
+      "name": "Telepictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 134375,
+      "logo_path": null,
+      "name": "Harvey Levin Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 156646,
+      "logo_path": "/lIymzqHrqgQNfJuFabS72mpqu3R.png",
+      "name": "Fox Alternative Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 177525,
+      "logo_path": null,
+      "name": "EHM Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2012-06-11",
+      "episode_count": 1,
+      "id": 427508,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2024-09-02",
+      "episode_count": 260,
+      "id": 427507,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "News",
+  "vote_average": 2.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1218634,
+        "known_for_department": "Acting",
+        "name": "Harvey Levin",
+        "original_name": "Harvey Levin",
+        "popularity": 3.048,
+        "profile_path": "/x8QJZcapTzQ8sSLU8VpPpmb9saA.jpg",
+        "character": "Self",
+        "credit_id": "67319d076895f3822e45ee75",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1301186,
+        "known_for_department": "Production",
+        "name": "Charles Latibeaudiere",
+        "original_name": "Charles Latibeaudiere",
+        "popularity": 0.538,
+        "profile_path": null,
+        "character": "Self",
+        "credit_id": "67319f8eefcf344133b50661",
+        "order": 1
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "gossip",
+        "id": 18453
+      },
+      {
+        "name": "news magazine",
+        "id": 233624
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [],
+    "total_pages": 0,
+    "total_results": 0
+  }
+}

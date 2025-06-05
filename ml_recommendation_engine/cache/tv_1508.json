@@ -1,0 +1,1234 @@
+{
+  "adult": false,
+  "backdrop_path": "/6Hfv3CbetcRQFNAe0wc9ZkXvm0w.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    90,
+    120
+  ],
+  "first_air_date": "2005-06-01",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Aile"
+    },
+    {
+      "id": 10764,
+      "name": "Gerçeklik"
+    }
+  ],
+  "homepage": "https://abc.com/shows/dancing-with-the-stars",
+  "id": 1508,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2024-11-26",
+  "last_episode_to_air": {
+    "id": 5722011,
+    "name": "10. Bölüm",
+    "overview": "",
+    "vote_average": 10.0,
+    "vote_count": 1,
+    "air_date": "2024-11-26",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 125,
+    "season_number": 33,
+    "show_id": 1508,
+    "still_path": "/sL1PGglz7ri3KIOnLFPhwyhbCgE.jpg"
+  },
+  "name": "Dancing with the Stars",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    },
+    {
+      "id": 2739,
+      "logo_path": "/1edZOYAfoyZyZ3rklNSiUpXX30Q.png",
+      "name": "Disney+",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 499,
+  "number_of_seasons": 34,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Dancing with the Stars",
+  "overview": "",
+  "popularity": 126.3708,
+  "poster_path": "/xGIalfneavhfgWiE0uRXySTyAo4.jpg",
+  "production_companies": [
+    {
+      "id": 35587,
+      "logo_path": "/k9a0975MfqCXRuGKCsOw8Kei2nt.png",
+      "name": "Endemol Shine North America",
+      "origin_country": "US"
+    },
+    {
+      "id": 108563,
+      "logo_path": "/enAjeGPTtVw8pt7HSzZYBXPfbOY.png",
+      "name": "BBC Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 128577,
+      "logo_path": "/32kFiUBS3Kdcd6m5Rcrr8zmDpIK.png",
+      "name": "BBC Worldwide Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2008-05-07",
+      "episode_count": 11,
+      "id": 4090,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2005-06-01",
+      "episode_count": 8,
+      "id": 4091,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/mJi34cq5c8WR0hZNRdhGdSMhTVw.jpg",
+      "season_number": 1,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "2006-01-05",
+      "episode_count": 16,
+      "id": 4092,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/3RYGl4v0rdi0vcW29ViAbo9T7aO.jpg",
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2006-09-12",
+      "episode_count": 20,
+      "id": 4093,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/zSnG0QpuDiqVYTFQtEJKOljrHy8.jpg",
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2007-05-19",
+      "episode_count": 20,
+      "id": 4094,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/n1ykGKFN2HD18HomwrYGr7KkKPA.jpg",
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2007-09-24",
+      "episode_count": 21,
+      "id": 4095,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/2OtJi6glSRRRS9ELgej8CpvUiQr.jpg",
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2008-03-17",
+      "episode_count": 20,
+      "id": 4096,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/nf0POpaT5D2aKC7pTUyNlfsoDDR.jpg",
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2008-09-22",
+      "episode_count": 21,
+      "id": 4097,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/43WtSVtM92nSqxt5pFTYNd5HV93.jpg",
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2009-03-09",
+      "episode_count": 21,
+      "id": 4098,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/Fa69RHKgIttH93RzuXgSFKqbug.jpg",
+      "season_number": 8,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2009-09-21",
+      "episode_count": 21,
+      "id": 4099,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/4J00NCKUtqRGP8MTK9nNeIiZz5W.jpg",
+      "season_number": 9,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2010-03-22",
+      "episode_count": 19,
+      "id": 4100,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2010-09-20",
+      "episode_count": 20,
+      "id": 4101,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/zSaBJt59mlVWBI0J7axrxV5eJRi.jpg",
+      "season_number": 11,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-03-21",
+      "episode_count": 20,
+      "id": 4102,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/ajeIxIi7iunzige7LKvAGd3AdtK.jpg",
+      "season_number": 12,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-09-19",
+      "episode_count": 20,
+      "id": 4103,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": "/mOtTlndvLbYfvE02UmZx3Y330Bb.jpg",
+      "season_number": 13,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2012-03-19",
+      "episode_count": 19,
+      "id": 4104,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2012-09-24",
+      "episode_count": 19,
+      "id": 4105,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": "/fk6np8207dvRcF29o8zMYYtB5MK.jpg",
+      "season_number": 15,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2013-03-18",
+      "episode_count": 19,
+      "id": 4106,
+      "name": "Sezon 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2013-09-16",
+      "episode_count": 12,
+      "id": 4107,
+      "name": "Sezon 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2014-03-17",
+      "episode_count": 12,
+      "id": 238343,
+      "name": "Sezon 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2014-09-15",
+      "episode_count": 14,
+      "id": 63423,
+      "name": "Sezon 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2015-03-16",
+      "episode_count": 14,
+      "id": 65370,
+      "name": "Sezon 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2015-09-14",
+      "episode_count": 14,
+      "id": 70583,
+      "name": "Sezon 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2016-03-21",
+      "episode_count": 11,
+      "id": 75466,
+      "name": "Sezon 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2016-09-12",
+      "episode_count": 15,
+      "id": 79983,
+      "name": "Sezon 23",
+      "overview": "",
+      "poster_path": "/bz8eE8KkA4xMxodGAFbpd2lPL1v.jpg",
+      "season_number": 23,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2017-03-20",
+      "episode_count": 11,
+      "id": 85052,
+      "name": "Sezon 24",
+      "overview": "",
+      "poster_path": "/dFLk0TEMbWy9BCSxnDwVim5DQQN.jpg",
+      "season_number": 24,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2017-09-18",
+      "episode_count": 12,
+      "id": 92141,
+      "name": "Sezon 25",
+      "overview": "",
+      "poster_path": "/ohNUS5J1POkvBq0CWslUiTlBvsI.jpg",
+      "season_number": 25,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2018-04-30",
+      "episode_count": 4,
+      "id": 103206,
+      "name": "Sezon 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2018-09-24",
+      "episode_count": 11,
+      "id": 109788,
+      "name": "Sezon 27",
+      "overview": "",
+      "poster_path": "/cQj2QjQbP1mTlfTqCzi51hgQfxG.jpg",
+      "season_number": 27,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2019-09-16",
+      "episode_count": 11,
+      "id": 129753,
+      "name": "Sezon 28",
+      "overview": "",
+      "poster_path": "/vIlLnrtrHHkYf7H2AXQig42p8Hq.jpg",
+      "season_number": 28,
+      "vote_average": 5.5
+    },
+    {
+      "air_date": "2020-09-14",
+      "episode_count": 11,
+      "id": 159513,
+      "name": "Sezon 29",
+      "overview": "",
+      "poster_path": "/786E8N9aV3yLhyYDobFTmZimGAE.jpg",
+      "season_number": 29,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "2021-09-20",
+      "episode_count": 11,
+      "id": 209885,
+      "name": "Sezon 30",
+      "overview": "",
+      "poster_path": "/bzBUukgTAFz8qTmZPvt8NajFx2M.jpg",
+      "season_number": 30,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2022-09-19",
+      "episode_count": 11,
+      "id": 302625,
+      "name": "Sezon 31",
+      "overview": "",
+      "poster_path": "/hgYQRDhAbJyFTLJaDaW6T7svuGd.jpg",
+      "season_number": 31,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2023-09-26",
+      "episode_count": 11,
+      "id": 351856,
+      "name": "Sezon 32",
+      "overview": "",
+      "poster_path": "/xoLzfI4HJtpp6a01zsJlBuxJEQt.jpg",
+      "season_number": 32,
+      "vote_average": 8.5
+    },
+    {
+      "air_date": "2024-09-17",
+      "episode_count": 10,
+      "id": 393132,
+      "name": "Sezon 33",
+      "overview": "",
+      "poster_path": "/vUg01mySeKk5TXFeW88BDCvuWk9.jpg",
+      "season_number": 33,
+      "vote_average": 9.5
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 453501,
+      "name": "Sezon 34",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 6.0,
+  "vote_count": 111,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 169440,
+        "known_for_department": "Acting",
+        "name": "Alfonso Ribeiro",
+        "original_name": "Alfonso Ribeiro",
+        "popularity": 1.9062,
+        "profile_path": "/9yDIqDBOSRgSoZHGKHYt09gvsrG.jpg",
+        "character": "Self - Host",
+        "credit_id": "64e5169a06f984014e66d61f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 143240,
+        "known_for_department": "Acting",
+        "name": "Julianne Hough",
+        "original_name": "Julianne Hough",
+        "popularity": 2.7826,
+        "profile_path": "/dwtQci2KHdPr6CE5I0TaDUFhdEI.jpg",
+        "character": "Self - Host",
+        "credit_id": "64e516a75258ae00c94a9871",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 14391,
+        "known_for_department": "Acting",
+        "name": "Carrie Ann Inaba",
+        "original_name": "Carrie Ann Inaba",
+        "popularity": 1.4584,
+        "profile_path": "/tWRv5ZuCtSzsOQOermCasK4AtNu.jpg",
+        "character": "Self - Judge",
+        "credit_id": "58cc88f2c3a368510e0017c4",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1229317,
+        "known_for_department": "Acting",
+        "name": "Bruno Tonioli",
+        "original_name": "Bruno Tonioli",
+        "popularity": 1.0851,
+        "profile_path": "/gkXm7W942ODlUJBbxJBgKxgNaqi.jpg",
+        "character": "Self - Judge",
+        "credit_id": "58cc8975c3a368508c001827",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1019545,
+        "known_for_department": "Acting",
+        "name": "Derek Hough",
+        "original_name": "Derek Hough",
+        "popularity": 1.5632,
+        "profile_path": "/tRHZqu9l6DfdKsASK4sfhjjT5p7.jpg",
+        "character": "Self - Judge",
+        "credit_id": "5f57a1b71d78f200349e006d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3336146,
+        "known_for_department": "Acting",
+        "name": "Ezra Sosa",
+        "original_name": "Ezra Sosa",
+        "popularity": 0.1769,
+        "profile_path": "/jDbtsdNyCnUc9qAvUQZzoHeooVF.jpg",
+        "character": "Self - Partner: Anna Delvey",
+        "credit_id": "66d74626fa4bdfb8d59dad64",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4229328,
+        "known_for_department": "Acting",
+        "name": "Pasha Pashkov",
+        "original_name": "Pasha Pashkov",
+        "popularity": 0.1025,
+        "profile_path": null,
+        "character": "Self - Partner: Tori Spelling",
+        "credit_id": "66d8e61fb228ac48180eeaef",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1600207,
+        "known_for_department": "Acting",
+        "name": "Britt Stewart",
+        "original_name": "Britt Stewart",
+        "popularity": 0.5177,
+        "profile_path": "/9JxocLOhH8wOdqaGcrRn2wYGgMi.jpg",
+        "character": "Self - Partner: Eric Roberts",
+        "credit_id": "66d8e5f211a5a563859d3422",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2011823,
+        "known_for_department": "Acting",
+        "name": "Emma Slater",
+        "original_name": "Emma Slater",
+        "popularity": 0.5683,
+        "profile_path": "/5WUofaZ3MJtck5t6uy7aKIcS7ww.jpg",
+        "character": "Self - Partner: Reginald VelJohnson",
+        "credit_id": "66d8e6515ea72dbb5cbf55c5",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2384934,
+        "known_for_department": "Acting",
+        "name": "Gleb Savchenko",
+        "original_name": "Gleb Savchenko",
+        "popularity": 0.2253,
+        "profile_path": "/ratSpe5jEjLMefX2D0vOw0U0yUA.jpg",
+        "character": "Self - Partner: Brooks Nader",
+        "credit_id": "66d8e5918bb0478dda182dfe",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1583970,
+        "known_for_department": "Acting",
+        "name": "Val Chmerkovskiy",
+        "original_name": "Val Chmerkovskiy",
+        "popularity": 0.868,
+        "profile_path": "/kGKrOnhfANfy9Nps9jIDhg8uuYI.jpg",
+        "character": "Self - Partner: Phaedra Parks",
+        "credit_id": "66d8e5cf8cee68d3329d3818",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2385009,
+        "known_for_department": "Acting",
+        "name": "Sasha Farber",
+        "original_name": "Sasha Farber",
+        "popularity": 0.5718,
+        "profile_path": null,
+        "character": "Self - Partner: Jenn Tran",
+        "credit_id": "66d8e6386da0b214d629ea69",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4229335,
+        "known_for_department": "Acting",
+        "name": "Daniella Karagach",
+        "original_name": "Daniella Karagach",
+        "popularity": 0.1427,
+        "profile_path": null,
+        "character": "Self - Partner: Dwight Howard",
+        "credit_id": "66d8e533282905bf763c0f5b",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1504623,
+        "known_for_department": "Acting",
+        "name": "Witney Carson",
+        "original_name": "Witney Carson",
+        "popularity": 0.7327,
+        "profile_path": "/uGDLhJPeZtWRBHKy66xpUbDYrKW.jpg",
+        "character": "Self - Partner: Danny Amendola",
+        "credit_id": "66d0d48f1985bae42c019994",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2146348,
+        "known_for_department": "Acting",
+        "name": "Rylee Arnold",
+        "original_name": "Rylee Arnold",
+        "popularity": 0.6243,
+        "profile_path": "/urN3SASDHtg0cLK0NTx6LHNEUFv.jpg",
+        "character": "Self - Partner: Stephen Nedoroscik",
+        "credit_id": "66d8e5b58fa923c8bcbd85af",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2384935,
+        "known_for_department": "Acting",
+        "name": "Brandon Armstrong",
+        "original_name": "Brandon Armstrong",
+        "popularity": 0.2151,
+        "profile_path": null,
+        "character": "Self - Partner: Chandler Kinney",
+        "credit_id": "66d8e556609abf0f023c0f0d",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2384926,
+        "known_for_department": "Acting",
+        "name": "Alan Bersten",
+        "original_name": "Alan Bersten",
+        "popularity": 0.9356,
+        "profile_path": "/tgfuS4Y8EqyLZfwfxsirkZZTIty.jpg",
+        "character": "Self - Partner: Ilona Maher",
+        "credit_id": "66d8e57706d231eed4096e31",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2384933,
+        "known_for_department": "Acting",
+        "name": "Jenna Johnson",
+        "original_name": "Jenna Johnson",
+        "popularity": 0.5405,
+        "profile_path": null,
+        "character": "Self - Partner: Joey Graziadei",
+        "credit_id": "66d8e512a155e9fc080eec36",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4941438,
+        "known_for_department": "Acting",
+        "name": "Marcquet Hill",
+        "original_name": "Marcquet Hill",
+        "popularity": 0.0686,
+        "profile_path": null,
+        "character": "Self - Troupe Dancer",
+        "credit_id": "66e5106164dbb3be182e1dd4",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3129152,
+        "known_for_department": "Acting",
+        "name": "Stephani Sosa",
+        "original_name": "Stephani Sosa",
+        "popularity": 0.0943,
+        "profile_path": "/5bHmyd40pEDajnxDZ12ISswNPFQ.jpg",
+        "character": "Self - Troupe Dancer",
+        "credit_id": "66e510836a2bdd4004fd44ef",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4941439,
+        "known_for_department": "Acting",
+        "name": "Kailyn Rogers",
+        "original_name": "Kailyn Rogers",
+        "popularity": 0.0922,
+        "profile_path": null,
+        "character": "Self - Troupe Dancer",
+        "credit_id": "66e510ad96e93efb9d2e1f56",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4941441,
+        "known_for_department": "Acting",
+        "name": "Roman Nevinchanyi",
+        "original_name": "Roman Nevinchanyi",
+        "popularity": 0.065,
+        "profile_path": null,
+        "character": "Self - Troupe Dancer",
+        "credit_id": "66e510d7f678eb35066d656a",
+        "order": 21
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 143240,
+        "known_for_department": "Acting",
+        "name": "Julianne Hough",
+        "original_name": "Julianne Hough",
+        "popularity": 2.7826,
+        "profile_path": "/dwtQci2KHdPr6CE5I0TaDUFhdEI.jpg",
+        "credit_id": "66a468efed986c4091b13e89",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "competition",
+        "id": 271
+      },
+      {
+        "name": "celebrity",
+        "id": 6562
+      },
+      {
+        "name": "dance competition",
+        "id": 10104
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/umD3dTVTK5caOaN35OfoGZysvhM.jpg",
+        "id": 3976,
+        "name": "So You Think You Can Dance",
+        "original_name": "So You Think You Can Dance",
+        "overview": "Dancers selected in open auditions across America take part in a rigorous competition designed to best display their talents, training and personalities to a panel of judges and viewers as they strive to win votes and avoid elimination.",
+        "poster_path": "/e4JAJ3UGBmAshXQG69uH9AgnZkp.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 11.405,
+        "first_air_date": "2005-07-20",
+        "vote_average": 7.058,
+        "vote_count": 69,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4XJx32PNloADrALwOIyLhDwfvQL.jpg",
+        "id": 82128,
+        "name": "Dancing with the Stars: Juniors",
+        "original_name": "Dancing with the Stars: Juniors",
+        "overview": "A fresh take on an established favorite in which 12 celebrity kids will be partnered with professional junior ballroom dancers to perform choreographed routines.",
+        "poster_path": "/y9iDagDGZwpqewFaj3CyUrLNgxm.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 3.6033,
+        "first_air_date": "2018-10-07",
+        "vote_average": 8.4,
+        "vote_count": 12,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dxnEQOQgfoki1qZVxSOyIwG1WHO.jpg",
+        "id": 62317,
+        "name": "Botched",
+        "original_name": "Botched",
+        "overview": "In the multi-billion dollar  world of plastic surgery, beauty is in the eye of the beholder... or is it?  For some patients, their quest for ultimate perfection ends in  disastrous results.  World renowned doctors Paul Nassif and Terry  Dubrow — the best of the best and leaders in their field — will be  tasked with some of the most difficult operations of their careers when  they try to reverse the effects of horrendous plastic surgeries.\n ",
+        "poster_path": "/sBeKZ9kPCWbjX6zfVdHgeVFZDcw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 20.434,
+        "first_air_date": "2014-06-24",
+        "vote_average": 5.8,
+        "vote_count": 22,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4kM152SoadJgXeb38xOy4vx0fn2.jpg",
+        "id": 71547,
+        "name": "Truth & Iliza",
+        "original_name": "Truth & Iliza",
+        "overview": "Comic Iliza Shlesinger hosts this late-night talk show that features episodes that revolve around particular themes, in the form of a question that Iliza tries to answer. She uses audience interaction, field pieces, commentary and -- what she's best known for -- jokes to help her find the answers she seeks. The weekly series focuses on discussing the sociopolitical issues of the day, whether they involve necessary discussions or more inane topics.",
+        "poster_path": "/j2djxHhiksEaBydnEnTL2xKlrIr.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764,
+          10767
+        ],
+        "popularity": 1.8113,
+        "first_air_date": "2017-05-02",
+        "vote_average": 6.0,
+        "vote_count": 4,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/75uXf24AN12ITBzgbGhLrVGLlBO.jpg",
+        "id": 7985,
+        "name": "Seth MacFarlane's Cavalcade of Cartoon Comedy",
+        "original_name": "Seth MacFarlane's Cavalcade of Cartoon Comedy",
+        "overview": "Seth MacFarlane's Cavalcade of Cartoon Comedy is an American cartoon web series created by Seth MacFarlane. The series is based on the cutaway jokes on Family Guy.",
+        "poster_path": "/fqF6s89GdSyHTwuI4seqBrvapHR.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 27.3223,
+        "first_air_date": "2008-09-10",
+        "vote_average": 5.8,
+        "vote_count": 30,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/50m1Fs7txA41GJGZXYcvW3tozWO.jpg",
+        "id": 96721,
+        "name": "Flirty Dancing",
+        "original_name": "Flirty Dancing",
+        "overview": "In this romantic approach to dating, complete strangers each learn half of a dance routine, then meet for the first time on a blind date at a breathtaking location where they dance together without saying a word.",
+        "poster_path": "/hgIFY3z3PG5G4rDoa6PCVLSu9Ql.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 0.9064,
+        "first_air_date": "2019-12-29",
+        "vote_average": 7.0,
+        "vote_count": 3,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/jB66SWgijY4bU8J4msxj768U9Qe.jpg",
+        "id": 3626,
+        "name": "American Idol",
+        "original_name": "American Idol",
+        "overview": "Each year, hopeful singers from all over the country audition to be part of one of the biggest shows in American television history. Who will become the new American Idol?",
+        "poster_path": "/iIlKBCqv5YkjQIWj7hYcFndxoLp.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 69.3856,
+        "first_air_date": "2002-06-11",
+        "vote_average": 5.095,
+        "vote_count": 163,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/buRZvq4P6Y1i0NGEECyP8BSaodw.jpg",
+        "id": 62195,
+        "name": "The Whispers",
+        "original_name": "The Whispers",
+        "overview": "Uzaylılar bu sefer dünyaya gelmiştir fakat amaçları insanlarla savaşmak değil onların zayıf noktalarını tespit etmektir. İnsanlar tarafından görülmeyen uzaylılar çocukların tam karşısında durmaktadır. Ürkütücü olmak yerine onlarla neşeli bir biçimde iletişime geçen uzaylılar çocuklarla oyun oynayarak insanoğlunun tepkilerini ve davranışlarını çözmeye çalışırlar.\n\nGörünmeyen bu kuvvetlerin çocukları etki altına alması ve bu etki altında çocukların yakınlarında bulunan kişilere gizemli olarak zarar gelmesi, bu duruma çocukların da farkında olmadan yardım etmeleri, kitlesel bir sorunu tetikleyecek ve bu düşmandan kurtulmak için gerekli olan savaş başlayacaktır.",
+        "poster_path": "/kSoXUOYmzvCfXzElnAVl9cSEnTa.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          10765,
+          18
+        ],
+        "popularity": 3.4915,
+        "first_air_date": "2015-06-01",
+        "vote_average": 6.695,
+        "vote_count": 172,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/x40yXVPV8tPbuWAjSPGAGauDrhj.jpg",
+        "id": 79593,
+        "name": "Magnum P.I.",
+        "original_name": "Magnum P.I.",
+        "overview": "Thomas Magnum, a decorated former Navy SEAL, returns home from Afghanistan and applies his military skills to become a private investigator in Hawaii taking jobs no one else will—with the help of fellow vets T.C. Calvin and Rick Wright, and former MI:6 agent, Juliet Higgins.",
+        "poster_path": "/hN7DKusbmKPqSZnMG5hemioMAiE.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          80
+        ],
+        "popularity": 74.8886,
+        "first_air_date": "2018-09-24",
+        "vote_average": 7.581,
+        "vote_count": 301,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/nz6vpYyN1pEwBYeoAVIu2316d0z.jpg",
+        "id": 69158,
+        "name": "The Good Fight",
+        "original_name": "The Good Fight",
+        "overview": "\"The Good Wife\"'ın bıraktığı yerden bir yıl sonrasında geçen yapımda, büyük bir finansal dolandırıcılık vakası, Maia Rindell adlı genç bir avukatın ününü mahveder ve aynı zamanda vaftiz annesi Diane Lockhart'ın tüm birikimlerini de beraberinde götürür.  Kendi hukuk şirketinden atılan Diane, Maia Rindell ve Lucca Quinn'le beraber Şikago'nun önde gelen hukuk şirketlerinden birisine katılır.",
+        "poster_path": "/8qoOHOfbUbrCcHZnDVxGcwOWinV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 37.0113,
+        "first_air_date": "2017-02-19",
+        "vote_average": 7.589,
+        "vote_count": 304,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/j45FEq8BPUJDVm3cGIQye0tqPpL.jpg",
+        "id": 157004,
+        "name": "Goosebumps",
+        "original_name": "Goosebumps",
+        "overview": "R.L. Stine'ın dünya çapında çok satan kitap serisinden esinlenen \"Goosebumps\", beş liseli gencin, Harold Biddle adlı bir gencin otuz yıl önceki trajik ölümünü araştırmak için çıktıkları karanlık ve ters köşelerle dolu macerayı ve ebeveynlerinin geçmişi hakkında ortaya çıkardıkları karanlık sırları konu alıyor.",
+        "poster_path": "/pMrMPlEJAGAKBUWJzeacIwjRU2C.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          35
+        ],
+        "popularity": 7.7431,
+        "first_air_date": "2023-10-13",
+        "vote_average": 7.196,
+        "vote_count": 184,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lXMmT078fOOvCAg5f6tKNrMNpOS.jpg",
+        "id": 44305,
+        "name": "Ejderhalar: Berk'in Binicileri",
+        "original_name": "DreamWorks Dragons",
+        "overview": "Hiccup ve Toothless Kızıl Ölüm'ü yenilgiye uğratarak halkını kurtardıktan sonra, Vikinglerin ejderhalarla barış yapmasına sebep olur. Ancak, Hiccup birlikte yaşama fikrinin uyum içinde olma özelliğinden çok uzak olduğunu ve Ejderhaların bu anlaşmayı yok etmek istediğini öğrenir. Bu sorunu çözmek için, Hiccup'ın babası Stoick oğlu ve arkadaşlarının Ejderhalarla ilgili her şeyi öğreneceği Ejderha Akademisi'ni kurar. Mildew gibi huysuz kuşkucular ile Alvin gibi kötü kalpliler bile onlara karşı çıkmaktadır. Viking gençleri ve ejderhaları kendilerini hayati bir bilgiye adarlar.",
+        "poster_path": "/saqoerRN5OdjCNuchebqeSqrLXP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          10765,
+          35
+        ],
+        "popularity": 9.6947,
+        "first_air_date": "2012-08-07",
+        "vote_average": 7.726,
+        "vote_count": 687,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ywK4VrR7vL56mDGXDLMtFypwqA8.jpg",
+        "id": 253,
+        "name": "Star Trek",
+        "original_name": "Star Trek",
+        "overview": "Star Trek: The Original Series ilk kez ABD'de 8 Eylül 1966 Cuma günü NBC televizyonunda yayınlandı. Dizi William Shatner tarafından oynanan Kaptan Kirk'ün kumandasındaki Atılgan Yıldız Gemisi'nin mürettabatını ve onların \"daha önce hiç kimsenin gitmediği yerlere cesurca gitmek\" olan 5 yıllık görevi'nin hikâyelerini anlatmaktadır. Sadece 3 sezon sonunda dizi yayından kaldırıldı ve son bölüm 3 Haziran 1969'da gösterildi. Tekrarların gösterimini takriben bir kültürel fenomen haline geldi. İlk başta sadece Uzay Yolu olarak bilinmesine rağmen daha sonraki yıllarda Star Trek: Original Series ya da Klasik Trek (Classic Trek) olarak anıldı.",
+        "poster_path": "/zgK03lfPjkAsuh8LnNsofWgB7WM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 43.6383,
+        "first_air_date": "1966-09-08",
+        "vote_average": 8.011,
+        "vote_count": 1332,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/k1bsEXwwxSSRNH6mp5y7ys5oKCf.jpg",
+        "id": 89393,
+        "name": "9-1-1: Lone Star",
+        "original_name": "9-1-1: Lone Star",
+        "overview": "New York’ta itfaiye şefi olan Owen Stand, Teksas’ta yeni bir ekip kurması için görevlendirilir. Oğlu ile birlikte Teksas’a yerleşen Owen, bir yandan hayat kurtarmaya çalışırken diğer yandan kişisel problemleriyle uğraşacaktır. 9-1-1 dizisinin spin-off projesi olan dizi, oğlu ile birlikte Austin’e taşınan bir adamın hayatına odaklanıyor. İtfaiye görevlisi olan Owen Strand, oğlu ile birlikte yıllardır yaşadığı New York’tan ayrılarak Austin’e taşınır. Kendisine yeni bir hayat kurmaya çalışan Owen, yeni şehrinde bir yandan zor durumdaki insanlara yardım etmeye çalışırken bir yandan da özel hayatındaki sorunları çözmek için çabalar.",
+        "poster_path": "/BOTITv548LYGB4xRD3rHfbwkqm.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          80
+        ],
+        "popularity": 34.7206,
+        "first_air_date": "2020-01-19",
+        "vote_average": 8.053,
+        "vote_count": 1141,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/nU5nByGzsPTXm2w4WdMFtE6YU14.jpg",
+        "id": 75219,
+        "name": "9-1-1",
+        "original_name": "9-1-1",
+        "overview": "En korkutucu, şok edici ve kalp durdurucu durumlara sürüklenen polis memurlarının, sağlık görevlilerinin ve itfaiyecilerin yüksek basınçlı deneyimlerini keşfedin. Bu acil müdahale ekipleri, en savunmasız olanları kurtarmakla kendi hayatlarındaki sorunları çözme arasında denge kurmaya çalışmalıdır.",
+        "poster_path": "/9dNWZPjFWdKo5Avr5JEEzLShLMZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          10759
+        ],
+        "popularity": 76.5752,
+        "first_air_date": "2018-01-03",
+        "vote_average": 8.229,
+        "vote_count": 2603,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/azyjKmaoJT0HxEXHJ112E7Vp0Z1.jpg",
+        "id": 80213,
+        "name": "Arınma Gecesi",
+        "original_name": "The Purge",
+        "overview": "Değiştirilmiş bir Amerika Birleşik Devletleri'nde bulunan, ilgisiz birkaç kişi, tüm suçun 12 saat boyunca yasal olduğu bir gece hayatta kalmak için ne kadar ileri gideceklerini keşfediyor.",
+        "poster_path": "/9CaS2XFd0Db42grzzVBnWcSkrbg.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          80,
+          18
+        ],
+        "popularity": 12.0785,
+        "first_air_date": "2018-09-04",
+        "vote_average": 6.913,
+        "vote_count": 3336,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/h8Lxf8gCI6uQqmnoWfQxjaJgrul.jpg",
+        "id": 65334,
+        "name": "Mucize: Uğur Böceği ile Kara Kedi",
+        "original_name": "Miraculous, les aventures de Ladybug et Chat Noir",
+        "overview": "Paris tehlikeyle karşılaştığında Marinette, Uğur Böceği'ne dönüşür. Ancak okul aşkı Adrien'ın da şehir kurtarıcı bir süper kahraman olan Kara Kedi olduğundan habersizdir.",
+        "poster_path": "/mwAJcSPtuRddU8AeL9lup5jE0Bn.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          10759,
+          16,
+          10762
+        ],
+        "popularity": 168.2038,
+        "first_air_date": "2015-10-19",
+        "vote_average": 8.047,
+        "vote_count": 4467,
+        "origin_country": [
+          "FR"
+        ]
+      },
+      {
+        "backdrop_path": "/f3cin9kOz4nOrlYEMxGFQhv4bdN.jpg",
+        "id": 71712,
+        "name": "The Good Doctor",
+        "original_name": "The Good Doctor",
+        "overview": "Otistik ve Savant Sendromlu Shaun Murphy isimli genç bir cerrah, prestijli bir hastanenin çocuk cerrahisi birimine yerleştirilir. Şu sorunun cevabı aranır: İnsanlarla iletişim kurma yeteneğine sahip olmayan bir kişi insanların hayatlarını kurtarabilir mi? Yalnız ve çevresindeki kişilerle iletişim kuramayan Shaun, hastalarının hayatlarını kurtarmak ve meslektaşlarının şüphelerini yok etmek için olağanüstü yeteneklerini kullanır.",
+        "poster_path": "/HW3aPHzgPbhl77BdBZAozVTfSm.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 109.7774,
+        "first_air_date": "2017-09-25",
+        "vote_average": 8.477,
+        "vote_count": 12543,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+        "id": 93405,
+        "name": "Squid Game",
+        "original_name": "오징어 게임",
+        "overview": "Para sıkıntısı çeken yüzlerce oyuncu, çocuk oyunlarında yarışmaları için aldıkları tuhaf daveti kabul eder. İçeride onları cazip bir ödül ve ölüm riski beklemektedir.",
+        "poster_path": "/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          10759,
+          9648,
+          18
+        ],
+        "popularity": 78.9564,
+        "first_air_date": "2021-09-17",
+        "vote_average": 7.863,
+        "vote_count": 15768,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/hOdTVqJPXTnvmWeXgRZBlXDdoYE.jpg",
+        "id": 1411,
+        "name": "Person of Interest",
+        "original_name": "Person of Interest",
+        "overview": "Kameralar her yerde! İzliyorlar, dinliyorlar, kaydediyorlar. Sizin hakkınızda her şeyi biliyorlar! Peki siz onlar hakkında ne biliyorsunuz? Gizemli bir iş adamı olan Mr. Finch, ileride işlenecek suçları önceden önlemeyi hedefleyen bir bilgisayar programı geliştirir. İlginç bir karaktere sahip bu milyoner işadamı elindeki programı hayata geçirebilmek için resmi kayıtlarda ölü olarak geçen Reese adlı eski bir CIA ajanıyla anlaşır. Kendi kaynakları ve teknolojisiyle Reese'in yetenekleri ve sezgilerini birleştiren Mr. Finch'in amacı gelecekte işlenecek olan suçları henüz suçlular eyleme geçmeden önlemektir.",
+        "poster_path": "/6FuKOyJgViZXgMDOq9djFJLWPqX.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          80,
+          10765
+        ],
+        "popularity": 33.1051,
+        "first_air_date": "2011-09-22",
+        "vote_average": 8.074,
+        "vote_count": 1815,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

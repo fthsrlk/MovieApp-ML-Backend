@@ -1,0 +1,757 @@
+{
+  "adult": false,
+  "backdrop_path": "/1RVSrTBA8L4434RyQMdH188CdG5.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "2001-04-24",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Gerçeklik"
+    }
+  ],
+  "homepage": "https://7plus.com.au/big-brother",
+  "id": 990,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2023-12-06",
+  "last_episode_to_air": {
+    "id": 4978054,
+    "name": "25. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2023-12-06",
+    "episode_number": 25,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 57,
+    "season_number": 15,
+    "show_id": 990,
+    "still_path": "/acAUI6Gvo1W2IFwI5xvPY0DNvA2.jpg"
+  },
+  "name": "Big Brother",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 38,
+      "logo_path": "/gHAm9zYjSX8IAJWuy2s4Du6onuo.png",
+      "name": "Network Ten",
+      "origin_country": "AU"
+    },
+    {
+      "id": 66,
+      "logo_path": "/pXibAQSgIIanNkSg68dUooI7IGU.png",
+      "name": "Nine Network",
+      "origin_country": "AU"
+    },
+    {
+      "id": 118,
+      "logo_path": "/83L2wF8tM76nUQHzOBOBAGlPQVP.png",
+      "name": "Seven Network",
+      "origin_country": "AU"
+    }
+  ],
+  "number_of_episodes": 1265,
+  "number_of_seasons": 16,
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_name": "Big Brother",
+  "overview": "",
+  "popularity": 1387.187,
+  "poster_path": "/xhUSwOLbAkeRsO5S9dc2KAoGHAN.jpg",
+  "production_companies": [
+    {
+      "id": 24645,
+      "logo_path": "/9XMHkEXi5H6w5b1NOLEgo7tLK5F.png",
+      "name": "EndemolShine Australia",
+      "origin_country": "AU"
+    },
+    {
+      "id": 110945,
+      "logo_path": null,
+      "name": "Southern Star Entertainment",
+      "origin_country": "AU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 420116,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2001-04-24",
+      "episode_count": 92,
+      "id": 63994,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/iDy3Uk24lFtvBRhjscI8zIaGJwC.jpg",
+      "season_number": 1,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2002-04-08",
+      "episode_count": 94,
+      "id": 63995,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/okyLp4NOQNStplbo0QY7ER9mR9Z.jpg",
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2003-04-27",
+      "episode_count": 122,
+      "id": 63996,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/pHOgeYS6YtL5atPgmlPogT2NzSW.jpg",
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2004-05-02",
+      "episode_count": 108,
+      "id": 63997,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/yuRGW2njg9T7QshSwqd3miKZayN.jpg",
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2005-05-08",
+      "episode_count": 138,
+      "id": 63998,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/gS00mlz8vlG7AijOxmDX9x5jeuQ.jpg",
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2006-04-23",
+      "episode_count": 136,
+      "id": 63999,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/cNtV9MFs6u5p0pnoDb9rL2ZHzec.jpg",
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2007-04-22",
+      "episode_count": 129,
+      "id": 64000,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/9737pADc3fG0zJ8z50cTy6xSn5Y.jpg",
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2008-04-28",
+      "episode_count": 112,
+      "id": 64001,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/fRODOAEW3a4UBvMjafkuX6QJsC.jpg",
+      "season_number": 8,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2012-08-13",
+      "episode_count": 89,
+      "id": 64002,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/hw3Lk151yFCLSNBu71wwD3PSAmX.jpg",
+      "season_number": 9,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2013-07-29",
+      "episode_count": 81,
+      "id": 64003,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/lVgbKVu8qUolsotwvYXq9krjYk4.jpg",
+      "season_number": 10,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2014-09-08",
+      "episode_count": 56,
+      "id": 64004,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/naSxx4YWifCBtPgN3cgSwE6xBMQ.jpg",
+      "season_number": 11,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2020-06-08",
+      "episode_count": 21,
+      "id": 150517,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/KxXWhUthcDlUYVxjPjgKyoxaCd.jpg",
+      "season_number": 12,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2021-04-26",
+      "episode_count": 31,
+      "id": 192316,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": "/sZX4tNIIWmXfKQ0KjaJt2Yk4ouA.jpg",
+      "season_number": 13,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2022-05-09",
+      "episode_count": 31,
+      "id": 293143,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": "/385iAF3Zq2AQ1z3VaE80xGbfbkd.jpg",
+      "season_number": 14,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2023-11-06",
+      "episode_count": 25,
+      "id": 364491,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": "/87TgOs4IAnHUacLnSEqmRzis7Pd.jpg",
+      "season_number": 15,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 432291,
+      "name": "Sezon 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 3.9,
+  "vote_count": 15,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 543656,
+        "known_for_department": "Acting",
+        "name": "Sonia Kruger",
+        "original_name": "Sonia Kruger",
+        "popularity": 4.897,
+        "profile_path": "/cS7Qj20d3zH5kpes2C8K4XeeRBj.jpg",
+        "character": "Self - Host",
+        "credit_id": "6357c93b43cd54007a7ea57f",
+        "order": 1
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "housemates",
+        "id": 212673
+      },
+      {
+        "name": "big brother",
+        "id": 258519
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/hsRs1hxT51PAEWGANqZDS3Xh8x4.jpg",
+        "id": 63404,
+        "name": "Taskmaster",
+        "original_name": "Taskmaster",
+        "overview": "Greg Davies is the Taskmaster, and with the help of his ever-loyal assistant Alex Horne, they will set out to test the wiles, wit, wisdom and skills of five hyper-competitive comedians. Who will be crowned the Taskmaster champion in this brand new game show?",
+        "poster_path": "/oHLZyN7G7EpXCHxYdpMcuUNCUgS.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 174.73,
+        "first_air_date": "2015-07-28",
+        "vote_average": 8.3,
+        "vote_count": 146,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/fQsIJQxE1D0Y0NpWSKwo489y5px.jpg",
+        "id": 204082,
+        "name": "Squid Game: The Challenge",
+        "original_name": "Squid Game: The Challenge",
+        "overview": "\"Squid Game\"den uyarlanan bu yarışmada 456 oyuncu, hayatlarını değiştirecek 4,56 milyon dolarlık ödül için becerilerini büyük bir sınava tabi tutuyor.",
+        "poster_path": "/y85L9DWoaM2MYNg1p8QRywxXJsa.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 102.829,
+        "first_air_date": "2023-11-22",
+        "vote_average": 6.275,
+        "vote_count": 482,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/mQJVtl7SYjNLwjsUZZsITmAxtdU.jpg",
+        "id": 77169,
+        "name": "Cobra Kai",
+        "original_name": "Cobra Kai",
+        "overview": "Amansız düşmanlar, kavgalı iki dövüş okulu, tazekan... Daniel ve Johnny, \"Karate Kid\" serisinin devamı niteliğindeki bu dizide West Valley'deki ezelî rekabeti kızıştırıyor.",
+        "poster_path": "/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          35
+        ],
+        "popularity": 484.596,
+        "first_air_date": "2018-05-02",
+        "vote_average": 8.2,
+        "vote_count": 6521,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/20eIP9o5ebArmu2HxJutaBjhLf4.jpg",
+        "id": 87108,
+        "name": "Çernobil",
+        "original_name": "Chernobyl",
+        "overview": "1986 senesinde Sovyet nükleer santralinde meydana gelen patlama sonrası santral işçileri ve itfaiyeciler faciayı kontrol altına almaya çalışır.",
+        "poster_path": "/87QSOjVXFwXpCcczMLhh2WRJDV5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 86.964,
+        "first_air_date": "2019-05-06",
+        "vote_average": 8.7,
+        "vote_count": 6644,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+        "id": 1399,
+        "name": "Game of Thrones",
+        "original_name": "Game of Thrones",
+        "overview": "Krallık dediğin savaşsız olur mu? En güçlü krallığı kurup, huzuru sağlamış olsan bile bu gücü elinde nasıl koruyacaksın? Burada yanlış yapana yer yok, affetmek yok. Kuzey Krallığının hükümdarı Lord Ned Stark, uzun ve zorlu savaşlardan sonra anayurduna dönüp krallığını bütünlük içerisinde tutmayı başarmıştır. Kral Robert Baratheon ile yıllarca omuz omuza çarpışan ve Baratheon'un kral olmasını sağlayan Ned Stark'ın tek istediği kuzey sınırlarını koruyan krallığında ailesiyle ve halkıyla yaşamaktır. \n\nFakat suyun öte yanında kendi topraklarından ve krallığından kovulduğunu iddia eden Viserys Targaryen , kız kardeşi Daenerys'i barbar kavimlerin başı Han Drogo'ya vererek, güç birliği planları yapmaktadır. Tahtını büyük bir iştahla geri isteyen ama kraliyet oyunlarından habersiz olan Viserys'in planları Kral Baratheon'a ulaşır. Savaş alanında büyük cengaver olan ama ülke ve aile yönetiminde aynı başarıyı tutturamayan Baratheon'un tamamen güvenebileceği ve her yanlış hamlesini arkasından toplayacak yeni bir sağ kola ihtiyacı vardır. Kuzeyin Lordu Ned Stark bu görev için seçilen tek aday isimdir. Kış yaklaşıyor...\n\nHanedan entrikaları, kapılı kapılar ardında dönen oyunlar, birilerinin kuyusunu kazmak için düşmanın koynuna girmekten çekinmeyen kadınlar, kardeşler arası çekişmeler, dışlanmalar... Hepsi tek bir hedef için: Taht kavgası..",
+        "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 723.189,
+        "first_air_date": "2011-04-17",
+        "vote_average": 8.456,
+        "vote_count": 24678,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+        "id": 93405,
+        "name": "Squid Game",
+        "original_name": "오징어 게임",
+        "overview": "Para sıkıntısı çeken yüzlerce oyuncu, çocuk oyunlarında yarışmaları için aldıkları tuhaf daveti kabul eder. İçeride onları cazip bir ödül ve ölüm riski beklemektedir.",
+        "poster_path": "/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          10759,
+          9648,
+          18
+        ],
+        "popularity": 603.484,
+        "first_air_date": "2021-09-17",
+        "vote_average": 7.9,
+        "vote_count": 15549,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
+        "id": 119051,
+        "name": "Wednesday",
+        "original_name": "Wednesday",
+        "overview": "Zeki, alaycı ve azıcık içi geçmiş bir kız olan Wednesday Addams, Nevermore Akademisinde yeni dostlar ve düşmanlar edinirken art arda gerçekleşen cinayetleri araştırır.",
+        "poster_path": "/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          9648,
+          35
+        ],
+        "popularity": 130.303,
+        "first_air_date": "2022-11-23",
+        "vote_average": 8.433,
+        "vote_count": 8903,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wyspZaGs7CXceV3Ct7NJhcKNDkn.jpg",
+        "id": 48891,
+        "name": "Brooklyn Nine-Nine",
+        "original_name": "Brooklyn Nine-Nine",
+        "overview": "Jake, işinde iyi, yetenekli ve ekibi içinde yakalama oranı en iyi polistir. Ama öteki yandan ciddiyetten yoksun ve sıkı çalışması gerekmemiş biri olarak oldukça da rahat biridir. Ekibe yeni gelen patron, emrindekilerin “rozetin hakkını vermesi” gerektiğini düşünen biri olarak işe koyulur ve Jake’ten başlar. Bu da komik pek çok olayın yaşanmasına sebebiyet verir. Brooklyn 99, New York’lu bir grup dedektifin ekip içi ve suçlularla yaşadığı komik olaylar üstüne kurulu olacak.",
+        "poster_path": "/qYjAdP0n62dJ9WLl8WGeQj7CGPH.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          80
+        ],
+        "popularity": 473.676,
+        "first_air_date": "2013-09-17",
+        "vote_average": 8.2,
+        "vote_count": 3482,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/aTjbqMONy77fHJrIYu14g1F0d5h.jpg",
+        "id": 88396,
+        "name": "The Falcon and the Winter Soldier",
+        "original_name": "The Falcon and the Winter Soldier",
+        "overview": "Marvel Studios'dan \"The Falcon and The Winter Soldier\"da, Anthony Mackie Sam Wilson/Falcon olarak ve Sebastian Stan Bucky Barnes/Kış Askeri olarak rol almaktadır. \"Avengers: Endgame\"in son sahnelerinde bir araya gelen bu ikili, yeteneğinin ve sabrının sınandığı küresel bir macerada birlik olur.",
+        "poster_path": "/lRk6NxH6BTnEKdRdxkyPaoxGb3i.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "popularity": 81.848,
+        "first_air_date": "2021-03-19",
+        "vote_average": 7.635,
+        "vote_count": 8529,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wbiPjTWpZMIB8ffBq7HvzAph4Ft.jpg",
+        "id": 63174,
+        "name": "Lucifer",
+        "original_name": "Lucifer",
+        "overview": "“Cehennem Lordu” Lucifer Morningstar, Los Angeles Polis Departmanı için suçluları yakalamaktadır. Ancak büyük bir sırrı vardır: Bu çekici adam, aslında yeryüzüne düşmüş bir melektir!",
+        "poster_path": "/cLz75DTxXPPR814YHZ0XhiQuEI2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          10765
+        ],
+        "popularity": 406.998,
+        "first_air_date": "2016-01-25",
+        "vote_average": 8.454,
+        "vote_count": 14893,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/pxeqQX4qFQ0cVxPt5SWZENV5BH3.jpg",
+        "id": 456,
+        "name": "The Simpsons",
+        "original_name": "The Simpsons",
+        "overview": "Bu animasyon komedi Springfield'de diziye adını veren aileye odaklanıyor. Baba Homer tipik bir aile babası değil. Nükleer santralde çalışarak ailesine liderlik etmeye çabalıyor ancak çoğu zaman ailesi onu yönetiyor. Sevgi dolu, mavi saçlı aile reisi anne Marge, sorun çıkaran oğlu Bart, çok başarılı kızı Lisa ve bebek Maggie ailenin diğer fertleri.",
+        "poster_path": "/vHqeLzYl3dEAutojCO26g0LIkom.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          16,
+          35
+        ],
+        "popularity": 834.384,
+        "first_air_date": "1989-12-17",
+        "vote_average": 8.015,
+        "vote_count": 10085,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2MaumbgBlW1NoPo3ZJO38A6v7OS.jpg",
+        "id": 66732,
+        "name": "Stranger Things",
+        "original_name": "Stranger Things",
+        "overview": "Ufak bir kasabada küçük bir çocuk kaybolunca, gizli deneyler, korkutucu doğaüstü güçler ve tuhaf bir küçük kızın da parçası olduğu bir gizem ortaya çıkar.",
+        "poster_path": "/hjVNQA2a12OxkpDEOQTBMbKVZ1K.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765,
+          9648
+        ],
+        "popularity": 293.245,
+        "first_air_date": "2016-07-15",
+        "vote_average": 8.6,
+        "vote_count": 18087,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/627K48naKH2Y3Rz47Ydra4qktdI.jpg",
+        "id": 103516,
+        "name": "Star Trek: Strange New Worlds",
+        "original_name": "Star Trek: Strange New Worlds",
+        "overview": "Star Trek: The Original Series’in öncesince geçecek olan bir Star Trek prequel’i. Federasyon Gemisi Enterprise (Atılgan)’ın Kaptan Kirk’ten önceki kaptanı olan Kaptan Christopher Pike ve ekibinin hikayelerini konu ediniyor",
+        "poster_path": "/511LZFZJIbxhGjclesSBGQ2ygnE.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765
+        ],
+        "popularity": 71.928,
+        "first_air_date": "2022-05-05",
+        "vote_average": 8.125,
+        "vote_count": 583,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sokTOq0zAmPS7wCR4qd4Kca35x7.jpg",
+        "id": 69478,
+        "name": "The Handmaid's Tale",
+        "original_name": "The Handmaid's Tale",
+        "overview": "Dizi, Gilead isimli bir toplumda geçiyor. Doğal sebepler nedeniyle nüfus düşüşü yaşayan bu toplumda kadınlar devletin malı olarak kabul ediliyor. Toplumun yeniden çoğalması için üreme hizmetine zorlanan Offred, bu acımasız koşullarda hayatta kalmaya çalışıyor.",
+        "poster_path": "/tFTJ3YbOor3BtabI96QehXxEBii.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 535.703,
+        "first_air_date": "2017-04-26",
+        "vote_average": 8.2,
+        "vote_count": 2805,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sccDflItNho4OiHkzpiDxB2fUFw.jpg",
+        "id": 1418,
+        "name": "The Big Bang Theory",
+        "original_name": "The Big Bang Theory",
+        "overview": "En büyük zevkleri kuantum fiziğine kafa yormak olan üstün zekalı iki arkadaş, güzel bir kızla karşılaşınca ne yaparlar? The Big Bang Theory, işte o karşılaşma anında gerçekleşen büyük patlama ve sonrasını anlatan bir komedi dizisi. Leonard ve Sheldon adlarındaki iki arkadaşın oturdukları apartmanda yan dairelerine yeni bir komşu taşınır. Adı Penny olan bu komşu güzeller güzeli bir sarışındır. Üstelik maceralı bir ilişkiden daha yeni sapasağlam ayakta çıkmıştır. Penny, zekaları gereğinden fazla ilerlemiş, ancak kızlar konusunda oldukça geri kalmış bu yeni iki komşusuna hayat hakkında öğretebileceği bir şeyleri olduğunu düşünmektedir. Yaşanacak olanlar da zaman içinde onun ne kadar haklı olduğunu gösterecektir. ",
+        "poster_path": "/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 222.02,
+        "first_air_date": "2007-09-24",
+        "vote_average": 7.91,
+        "vote_count": 11545,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/v6mHYpO4NG2O3F1S4YFf08iV01f.jpg",
+        "id": 6357,
+        "name": "Alacakaranlık Kuşağı",
+        "original_name": "The Twilight Zone",
+        "overview": "\"İnsanoğlunun bildiğinin ötesinde beşinci bir boyut vardır. Uzay kadar geniş ve sonsuzluk kadar zamansız bir boyut. Işık ile gölge, bilim ile hurafe arasındaki orta yoldur ve insanın korku çukuru ile bilgisinin zirvesi arasında yer alır. Bu, hayal gücünün boyutudur. Alacakaranlık Kuşağı dediğimiz bir alandır.\"\n\nHer bölümde farklı oyuncularla, farklı konuların işlendiği, bilim kurgu, korku ve gerilim öğelerini barındıran beş sezonluk dizi, bu türdeki dizilerin öncülüğünü yapmaktadır.",
+        "poster_path": "/rgXN8DsraVEjCD9tOWuR8wnpcaB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          9648,
+          18
+        ],
+        "popularity": 269.969,
+        "first_air_date": "1959-10-02",
+        "vote_average": 8.4,
+        "vote_count": 916,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7cqKGQMnNabzOpi7qaIgZvQ7NGV.jpg",
+        "id": 76479,
+        "name": "The Boys",
+        "original_name": "The Boys",
+        "overview": "The Boys, süper kahramanların güçlerini ve şöhretlerini kötüye kullandığı bir evrende geçiyor. Kendilerini kanunu korumaya adayan ve “The Boys” olarak adlandırılan bir grup insan, yozlaşmış süper kahramanları ortadan kaldırmak için zorlu bir yolculuğa çıkar.",
+        "poster_path": "/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759
+        ],
+        "popularity": 315.912,
+        "first_air_date": "2019-07-25",
+        "vote_average": 8.5,
+        "vote_count": 10830,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/tLccUh3uazZ9TkLhe53UwprJhI4.jpg",
+        "id": 32798,
+        "name": "Hawaii Five-0",
+        "original_name": "Hawaii Five-0",
+        "overview": "Binbaşı Steve 5 yıldır bir kaçakçının peşindedir. Söz konusu kaçakçı ile 5 yıldır uğraşan binbaşı kaçakçı olan Victor’u yakalayamasa da onun kardeşini yakalayacaktır. Victor da bu durumda Steve’in babasını rehin alacaktır. Bu sırada bir çatışmanın ortaya çıktığı görülecektir. Bu çatışmada iki tarafın da esirlerini öldürmeleri söz konusudur. Steve Havaii’ye dönecektir. Ona Vali tarafından bir teklif sunulacaktır. Hem babasının intikamını almak hem de Havaii’yi güvende tutmak için bir ekip kuracak ve Vali tarafından desteklenecektir. Steve ilk aşamada bu teklifi reddetse de daha sonra söz konusu teklifi kabul edecektir Akula.",
+        "poster_path": "/sIdCKlmM2nU4akIvFQaAIiU8YES.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          10759
+        ],
+        "popularity": 679.185,
+        "first_air_date": "2010-09-20",
+        "vote_average": 7.8,
+        "vote_count": 1752,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9faGSFi5jam6pDWGNd0p8JcJgXQ.jpg",
+        "id": 1396,
+        "name": "Breaking Bad",
+        "original_name": "Breaking Bad",
+        "overview": "Kanserden öleceğini öğrenen bir kimya öğretmeni, ailesinin geleceğini garanti altına almak için metamfetamin üretip satmak üzere eski bir öğrencisiyle kafa kafaya verir.",
+        "poster_path": "/ineLOBPG8AZsluYwnkMpHRyu7L.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 540.297,
+        "first_air_date": "2008-01-20",
+        "vote_average": 8.923,
+        "vote_count": 15146,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9zcbqSxdsRMZWHYtyCd1nXPr2xq.jpg",
+        "id": 82856,
+        "name": "The Mandalorian",
+        "original_name": "The Mandalorian",
+        "overview": "İmparatorluk'un çöküşünden sonra yalnız bir Mandalorian, öksüzü Grogu'yla beraber kanunsuz galakside dikkatle yol alır.",
+        "poster_path": "/eU1i6eHXlzMOlEq0ku1Rzq7Y4wA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 131.268,
+        "first_air_date": "2019-11-12",
+        "vote_average": 8.424,
+        "vote_count": 10243,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

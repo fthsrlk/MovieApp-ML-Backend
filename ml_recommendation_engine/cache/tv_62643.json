@@ -1,0 +1,1491 @@
+{
+  "adult": false,
+  "backdrop_path": "/be8fOACxsVyaX6lZLlQOWNqF0g2.jpg",
+  "created_by": [
+    {
+      "id": 88967,
+      "credit_id": "556054279251417e5c00517b",
+      "name": "Greg Berlanti",
+      "original_name": "Greg Berlanti",
+      "gender": 2,
+      "profile_path": "/1T24SiIIDMa9gAmq7QaYwZywq4y.jpg"
+    },
+    {
+      "id": 1216615,
+      "credit_id": "5560543b9251417e51005487",
+      "name": "Andrew Kreisberg",
+      "original_name": "Andrew Kreisberg",
+      "gender": 2,
+      "profile_path": "/dm1kNRSLuPKYW4X1CPdO50cqyYJ.jpg"
+    },
+    {
+      "id": 171830,
+      "credit_id": "556054489251412c93000e96",
+      "name": "Marc Guggenheim",
+      "original_name": "Marc Guggenheim",
+      "gender": 2,
+      "profile_path": "/zWZdt5nteG3E73bZDNAp1LdPRQ.jpg"
+    },
+    {
+      "id": 1181359,
+      "credit_id": "5ab45764c3a3686163015b34",
+      "name": "Phil Klemmer",
+      "original_name": "Phil Klemmer",
+      "gender": 2,
+      "profile_path": "/9xqGHRCrtrZKptrHCU33xJJCSJf.jpg"
+    }
+  ],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "2016-01-21",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Aksiyon & Macera"
+    },
+    {
+      "id": 10765,
+      "name": "Bilim Kurgu & Fantazi"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    }
+  ],
+  "homepage": "http://www.cwtv.com/shows/legends-of-tomorrow",
+  "id": 62643,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2022-03-02",
+  "last_episode_to_air": {
+    "id": 3379925,
+    "name": "13. Bölüm",
+    "overview": "",
+    "vote_average": 6.8,
+    "vote_count": 4,
+    "air_date": "2022-03-02",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "T13.23213",
+    "runtime": 42,
+    "season_number": 7,
+    "show_id": 62643,
+    "still_path": "/o8R7W2mdhD1sF2oJYf0N4Efkwyp.jpg"
+  },
+  "name": "DC's Legends of Tomorrow",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 71,
+      "logo_path": "/hEpcdJ4O6eitG9ADSnDXNUrlovS.png",
+      "name": "The CW",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 110,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "DC's Legends of Tomorrow",
+  "overview": "Kahramanlar yetmediğinde dünya efsanalere ihtiyaç duyar. Geleceği gören Rip Hunter hem iyi hem kötü kahramanları bir araya getirerekten sadece gezegeni değil tüm zamanı tehdit eden büyük tehlikeye karşı savaşacaktır. ",
+  "popularity": 77.2472,
+  "poster_path": "/qNgAcg4gNYbZ9mySLB9ZX4ehZb6.jpg",
+  "production_companies": [
+    {
+      "id": 1957,
+      "logo_path": "/qIxtba5CbnJfHCA88czLfTNKW9M.png",
+      "name": "Warner Bros. Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 37423,
+      "logo_path": null,
+      "name": "Bonanza Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 27711,
+      "logo_path": "/3e294jszfE6cE8TOogmj0zNd6pL.png",
+      "name": "Berlanti Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 9993,
+      "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+      "name": "DC Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-01-19",
+      "episode_count": 29,
+      "id": 73729,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/4KdJBNJCELIHCWrTGPrYRxJz0rD.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2016-01-21",
+      "episode_count": 16,
+      "id": 66615,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/xEY4YPu7FCKQNSnMaaHo4NJl3ID.jpg",
+      "season_number": 1,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2016-10-13",
+      "episode_count": 17,
+      "id": 78509,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/eEbK6AJlVBtRqagPJvHk8wQ4Ktb.jpg",
+      "season_number": 2,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2017-10-10",
+      "episode_count": 18,
+      "id": 91561,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/krLJpUiuJOGroJ6xvAcTQcy2iZO.jpg",
+      "season_number": 3,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2018-10-21",
+      "episode_count": 16,
+      "id": 105513,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/icv3e1l8od9VjQD4NlvpBySyY09.jpg",
+      "season_number": 4,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2020-01-14",
+      "episode_count": 15,
+      "id": 135191,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/bSE5LzQegjaMDANeS3J9Oy8rTTX.jpg",
+      "season_number": 5,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "2021-05-02",
+      "episode_count": 15,
+      "id": 164617,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/3e1ja5IbJ8cl17vA5hHI5IX2wf4.jpg",
+      "season_number": 6,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "2021-10-13",
+      "episode_count": 13,
+      "id": 199275,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/AcEFDh272YVTR6B6zrrusk8BjJG.jpg",
+      "season_number": 7,
+      "vote_average": 6.2
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.284,
+  "vote_count": 2345,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1046143,
+        "known_for_department": "Acting",
+        "name": "Caity Lotz",
+        "original_name": "Caity Lotz",
+        "popularity": 1.6786,
+        "profile_path": "/nagw4Y9EVjCjw2r9BaXa67KjJsi.jpg",
+        "character": "Sara Lance / White Canary",
+        "credit_id": "554cc480c3a3685e550052c6",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1966585,
+        "known_for_department": "Acting",
+        "name": "Tala Ashe",
+        "original_name": "Tala Ashe",
+        "popularity": 0.7409,
+        "profile_path": "/pWDsZY9BrTgKbgNBo24UrcrxPnz.jpg",
+        "character": "Zari Tarazi",
+        "credit_id": "5f7034043dd1260036646be6",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 984780,
+        "known_for_department": "Acting",
+        "name": "Jes Macallan",
+        "original_name": "Jes Macallan",
+        "popularity": 0.9793,
+        "profile_path": "/opXduSlSdcy0wiHDeuVGkMCbtEP.jpg",
+        "character": "Ava Sharpe",
+        "credit_id": "59de39bbc3a36861a308be27",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2008565,
+        "known_for_department": "Acting",
+        "name": "Olivia Swann",
+        "original_name": "Olivia Swann",
+        "popularity": 0.7102,
+        "profile_path": "/30yl2xiD6e5qGddQYH4l1WWbzDn.jpg",
+        "character": "Astra Logue",
+        "credit_id": "5eaaef52a12856001b68e2c3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 476556,
+        "known_for_department": "Acting",
+        "name": "Adam Tsekhman",
+        "original_name": "Adam Tsekhman",
+        "popularity": 1.1113,
+        "profile_path": "/evZD3VsuNt6hvuXhpctwc5lCnVd.jpg",
+        "character": "Gary Green",
+        "credit_id": "59de39aec3a3686200090cf6",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84076,
+        "known_for_department": "Acting",
+        "name": "Nick Zano",
+        "original_name": "Nick Zano",
+        "popularity": 1.8185,
+        "profile_path": "/t47PZJOUehQV4RFOEXoszMiOEjx.jpg",
+        "character": "Nathaniel 'Nate' Heywood / Steel",
+        "credit_id": "5a59de979251413f770087e4",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2637934,
+        "known_for_department": "Acting",
+        "name": "Shayan Sobhian",
+        "original_name": "Shayan Sobhian",
+        "popularity": 0.3105,
+        "profile_path": "/tEZwkq4a7tCvAuK7aq87nVaTGZ1.jpg",
+        "character": "Behrad Tarazi",
+        "credit_id": "5ed3058c1b157d001f538e91",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1600095,
+        "known_for_department": "Acting",
+        "name": "Lisseth Chavez",
+        "original_name": "Lisseth Chavez",
+        "popularity": 1.876,
+        "profile_path": "/fFnGQVFGAtTZcmLAr7XuUhvtjEW.jpg",
+        "character": "Esperanza 'Spooner' Cruz",
+        "credit_id": "60491787c8a5ac004575530d",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1134097,
+        "known_for_department": "Acting",
+        "name": "Amy Pemberton",
+        "original_name": "Amy Pemberton",
+        "popularity": 0.5269,
+        "profile_path": "/kQ2PuLv1a3wRgjWZOCTAyo5ULsK.jpg",
+        "character": "Gideon / Evil Gideon",
+        "credit_id": "6173fa64b3316b002de1df23",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 127712,
+        "known_for_department": "Acting",
+        "name": "Matt Ryan",
+        "original_name": "Matt Ryan",
+        "popularity": 1.5012,
+        "profile_path": "/qLx6rzn6MMcJtTals5Z7Mb6z4Y9.jpg",
+        "character": "Dr. Gwyn Davies",
+        "credit_id": "60fdec3ea5046e0048ab0ca6",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1770434,
+        "known_for_department": "Production",
+        "name": "Anita Meehan-Truelove",
+        "original_name": "Anita Meehan-Truelove",
+        "popularity": 0.0933,
+        "profile_path": null,
+        "credit_id": "616d0dddec18790061907025",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2067369,
+        "known_for_department": "Art",
+        "name": "Douglas J. Scott",
+        "original_name": "Douglas J. Scott",
+        "popularity": 0.1006,
+        "profile_path": null,
+        "credit_id": "616d0e393d4d9600627fd9b4",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1459237,
+        "known_for_department": "Art",
+        "name": "Patrick Romine",
+        "original_name": "Patrick Romine",
+        "popularity": 0.2043,
+        "profile_path": null,
+        "credit_id": "616d0e9c3d4d9600627fda22",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1365831,
+        "known_for_department": "Writing",
+        "name": "Mark Bruner",
+        "original_name": "Mark Bruner",
+        "popularity": 0.33,
+        "profile_path": null,
+        "credit_id": "616d0a94bf09d1002d76c612",
+        "department": "Writing",
+        "job": "Executive Story Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2637264,
+        "known_for_department": "Writing",
+        "name": "Emily Cheever",
+        "original_name": "Emily Cheever",
+        "popularity": 0.1187,
+        "profile_path": null,
+        "credit_id": "616d0b246728a800638f945f",
+        "department": "Writing",
+        "job": "Staff Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3274977,
+        "known_for_department": "Production",
+        "name": "Haley Peveto",
+        "original_name": "Haley Peveto",
+        "popularity": 0.1079,
+        "profile_path": null,
+        "credit_id": "616d0c9f03bf8400439ce5ff",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3274976,
+        "known_for_department": "Production",
+        "name": "Jesi Burch",
+        "original_name": "Jesi Burch",
+        "popularity": 0.1376,
+        "profile_path": null,
+        "credit_id": "616d0a61894ed6008e380bc7",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2637263,
+        "known_for_department": "Writing",
+        "name": "Leah Poulliot",
+        "original_name": "Leah Poulliot",
+        "popularity": 0.0582,
+        "profile_path": null,
+        "credit_id": "616d0b3a3d4d9600432f4ca6",
+        "department": "Writing",
+        "job": "Staff Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2352441,
+        "known_for_department": "Production",
+        "name": "Jennifer Nickson",
+        "original_name": "Jennifer Nickson",
+        "popularity": 0.1281,
+        "profile_path": null,
+        "credit_id": "616d0db29715ae00447ea98a",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1382166,
+        "known_for_department": "Writing",
+        "name": "Ray Utarnachitt",
+        "original_name": "Ray Utarnachitt",
+        "popularity": 0.391,
+        "profile_path": null,
+        "credit_id": "616cf6e31089ba0044c38f32",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 937987,
+        "known_for_department": "Editing",
+        "name": "Morgan Faust",
+        "original_name": "Morgan Faust",
+        "popularity": 0.3065,
+        "profile_path": null,
+        "credit_id": "616cf67c03bf8400645d9103",
+        "department": "Production",
+        "job": "Supervising Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1105824,
+        "known_for_department": "Writing",
+        "name": "Paiman Kalayeh",
+        "original_name": "Paiman Kalayeh",
+        "popularity": 0.3961,
+        "profile_path": null,
+        "credit_id": "616cf5d46f53e10025947b44",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3274978,
+        "known_for_department": "Production",
+        "name": "Peter Klassen",
+        "original_name": "Peter Klassen",
+        "popularity": 0.0977,
+        "profile_path": null,
+        "credit_id": "616d0d6253866e0026cc8617",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2126227,
+        "known_for_department": "Production",
+        "name": "Patrick Cahoon",
+        "original_name": "Patrick Cahoon",
+        "popularity": 0.1514,
+        "profile_path": null,
+        "credit_id": "616d0ce6a097dc002a8fe0cd",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1918898,
+        "known_for_department": "Writing",
+        "name": "Matthew Maala",
+        "original_name": "Matthew Maala",
+        "popularity": 0.281,
+        "profile_path": null,
+        "credit_id": "616cf68c9715ae00447e817f",
+        "department": "Production",
+        "job": "Supervising Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2067967,
+        "known_for_department": "Acting",
+        "name": "Marcelena Mayhorn",
+        "original_name": "Marcelena Mayhorn",
+        "popularity": 0.1365,
+        "profile_path": null,
+        "credit_id": "616d0aa6bf09d100643946fb",
+        "department": "Writing",
+        "job": "Story Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2331541,
+        "known_for_department": "Writing",
+        "name": "Mercedes Valle",
+        "original_name": "Mercedes Valle",
+        "popularity": 0.095,
+        "profile_path": null,
+        "credit_id": "616d0b108f26bc004629f131",
+        "department": "Writing",
+        "job": "Story Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1391798,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Vicky Mulholland",
+        "original_name": "Vicky Mulholland",
+        "popularity": 0.7748,
+        "profile_path": null,
+        "credit_id": "616d0cfcc8f8580094bb7730",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3051239,
+        "known_for_department": "Editing",
+        "name": "Seth Gottlieb",
+        "original_name": "Seth Gottlieb",
+        "popularity": 0.2718,
+        "profile_path": null,
+        "credit_id": "616d0f3fbf09d1002d76cbbd",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3077194,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Dion Farrell",
+        "original_name": "Dion Farrell",
+        "popularity": 0.2419,
+        "profile_path": null,
+        "credit_id": "608fa31f9b8616002b0c45d7",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3077187,
+        "known_for_department": "Art",
+        "name": "Anand Ray",
+        "original_name": "Anand Ray",
+        "popularity": 0.1942,
+        "profile_path": null,
+        "credit_id": "608f9e9b0e597b00291c0683",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1614772,
+        "known_for_department": "Sound",
+        "name": "Matthew Cameron",
+        "original_name": "Matthew Cameron",
+        "popularity": 0.6102,
+        "profile_path": null,
+        "credit_id": "608fa46a3dd1260058380afa",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1267203,
+        "known_for_department": "Writing",
+        "name": "James Eagan",
+        "original_name": "James Eagan",
+        "popularity": 0.5401,
+        "profile_path": null,
+        "credit_id": "608f927a87ae7b0057779f23",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1408705,
+        "known_for_department": "Sound",
+        "name": "Angela Claverie",
+        "original_name": "Angela Claverie",
+        "popularity": 0.5626,
+        "profile_path": null,
+        "credit_id": "608fa498fb529900567662fa",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67843,
+        "known_for_department": "Crew",
+        "name": "Lloyd Adams",
+        "original_name": "Lloyd Adams",
+        "popularity": 1.3139,
+        "profile_path": null,
+        "credit_id": "608fa45add83fa0076f20d70",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2177838,
+        "known_for_department": "Sound",
+        "name": "Joel D. Catalan",
+        "original_name": "Joel D. Catalan",
+        "popularity": 0.3744,
+        "profile_path": null,
+        "credit_id": "608fa4dea06efe004142d138",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1341138,
+        "known_for_department": "Sound",
+        "name": "Jeffrey J. Haboush",
+        "original_name": "Jeffrey J. Haboush",
+        "popularity": 1.2691,
+        "profile_path": null,
+        "credit_id": "608fa4d33639090058a49505",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 184452,
+        "known_for_department": "Directing",
+        "name": "Kevin Mock",
+        "original_name": "Kevin Mock",
+        "popularity": 0.4516,
+        "profile_path": null,
+        "credit_id": "608f91fc871b340029c4041c",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 171830,
+        "known_for_department": "Writing",
+        "name": "Marc Guggenheim",
+        "original_name": "Marc Guggenheim",
+        "popularity": 1.4903,
+        "profile_path": "/zWZdt5nteG3E73bZDNAp1LdPRQ.jpg",
+        "credit_id": "608f91e1a199a6002985a736",
+        "department": "Production",
+        "job": "Executive Consultant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1408608,
+        "known_for_department": "Sound",
+        "name": "Mark A. Lanza",
+        "original_name": "Mark A. Lanza",
+        "popularity": 0.8226,
+        "profile_path": null,
+        "credit_id": "608fa4c29b86160059ee8b48",
+        "department": "Sound",
+        "job": "Sound Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1529990,
+        "known_for_department": "Sound",
+        "name": "Season Kent",
+        "original_name": "Season Kent",
+        "popularity": 0.8848,
+        "profile_path": "/xJHOwAJVwaBVyQTMSkCm23ZfGeW.jpg",
+        "credit_id": "608fa48aede1b00040999879",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1510197,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Amanda McGowan",
+        "original_name": "Amanda McGowan",
+        "popularity": 0.6073,
+        "profile_path": null,
+        "credit_id": "608fa301363909004162f6c4",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1226106,
+        "known_for_department": "Production",
+        "name": "Val Stefoff",
+        "original_name": "Val Stefoff",
+        "popularity": 0.3861,
+        "profile_path": null,
+        "credit_id": "6049123d1d78f200577a9621",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1489551,
+        "known_for_department": "Writing",
+        "name": "Keto Shimizu",
+        "original_name": "Keto Shimizu",
+        "popularity": 0.5042,
+        "profile_path": null,
+        "credit_id": "60074eb74ca67600400e28e3",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1512010,
+        "known_for_department": "Production",
+        "name": "Carl Ogawa",
+        "original_name": "Carl Ogawa",
+        "popularity": 0.9339,
+        "profile_path": null,
+        "credit_id": "604911c45f622b0044692992",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1747677,
+        "known_for_department": "Production",
+        "name": "Geoff Garrett",
+        "original_name": "Geoff Garrett",
+        "popularity": 0.2462,
+        "profile_path": null,
+        "credit_id": "60490fe51d78f20075a39567",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1512011,
+        "known_for_department": "Production",
+        "name": "Jennifer Lence",
+        "original_name": "Jennifer Lence",
+        "popularity": 0.7632,
+        "profile_path": null,
+        "credit_id": "604913768741c4004606c05f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1266304,
+        "known_for_department": "Sound",
+        "name": "Daniel James Chan",
+        "original_name": "Daniel James Chan",
+        "popularity": 0.1987,
+        "profile_path": null,
+        "credit_id": "5ed31e6e1b157d001f53b49d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3077188,
+        "known_for_department": "Production",
+        "name": "Catou Kearney",
+        "original_name": "Catou Kearney",
+        "popularity": 0.322,
+        "profile_path": null,
+        "credit_id": "608f9ef387ae7b0079b2b008",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1870217,
+        "known_for_department": "Art",
+        "name": "Lynda Chapple",
+        "original_name": "Lynda Chapple",
+        "popularity": 0.2239,
+        "profile_path": null,
+        "credit_id": "608fa37987ae7b00291b5ee8",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1395152,
+        "known_for_department": "Production",
+        "name": "Sarah Schechter",
+        "original_name": "Sarah Schechter",
+        "popularity": 1.3787,
+        "profile_path": "/8UgL2O24cC8SniiryeYmZuafU4G.jpg",
+        "credit_id": "5e7182612f3b17001748563e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88967,
+        "known_for_department": "Production",
+        "name": "Greg Berlanti",
+        "original_name": "Greg Berlanti",
+        "popularity": 2.3366,
+        "profile_path": "/1T24SiIIDMa9gAmq7QaYwZywq4y.jpg",
+        "credit_id": "5663179dc3a3682bef004cf1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53017,
+        "known_for_department": "Sound",
+        "name": "Blake Neely",
+        "original_name": "Blake Neely",
+        "popularity": 1.6044,
+        "profile_path": "/ip0bUF22rBJNqLu5hTPEtzZa6hp.jpg",
+        "credit_id": "56631809c3a3682bef004cff",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1181359,
+        "known_for_department": "Writing",
+        "name": "Phil Klemmer",
+        "original_name": "Phil Klemmer",
+        "popularity": 0.3758,
+        "profile_path": "/9xqGHRCrtrZKptrHCU33xJJCSJf.jpg",
+        "credit_id": "566317819251412ac4004481",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2989115,
+        "known_for_department": "Production",
+        "name": "Lyndsey Baldasare",
+        "original_name": "Lyndsey Baldasare",
+        "popularity": 0.3222,
+        "profile_path": null,
+        "credit_id": "608fa09cfb529900567660e3",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13061,
+        "known_for_department": "Production",
+        "name": "David Rapaport",
+        "original_name": "David Rapaport",
+        "popularity": 0.9175,
+        "profile_path": "/Ai46ihtsE18QWKZGDEJ8AWiymqH.jpg",
+        "credit_id": "608fa064dd83fa003f254a69",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1552622,
+        "known_for_department": "Production",
+        "name": "J.J. Ogilvy",
+        "original_name": "J.J. Ogilvy",
+        "popularity": 0.4579,
+        "profile_path": null,
+        "credit_id": "6167b9cde004a600425298a6",
+        "department": "Production",
+        "job": "Local Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 60282,
+        "known_for_department": "Production",
+        "name": "Sean Cossey",
+        "original_name": "Sean Cossey",
+        "popularity": 1.3009,
+        "profile_path": null,
+        "credit_id": "6167b9da9d592c00613ba376",
+        "department": "Production",
+        "job": "Local Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1391798,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Vicky Mulholland",
+        "original_name": "Vicky Mulholland",
+        "popularity": 0.7748,
+        "profile_path": null,
+        "credit_id": "608fa29a363909004162f683",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "villain",
+        "id": 3289
+      },
+      {
+        "name": "time travel",
+        "id": 4379
+      },
+      {
+        "name": "superhero",
+        "id": 9715
+      },
+      {
+        "name": "based on comic",
+        "id": 9717
+      },
+      {
+        "name": "spin off",
+        "id": 15285
+      },
+      {
+        "name": "superhero team",
+        "id": 155030
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/jgb9xICHFX8wTGQ75js4uNbttQs.jpg",
+        "id": 62688,
+        "name": "Supergirl",
+        "original_name": "Supergirl",
+        "overview": "DC'nin çizgi romanlarından uyarlanacak dizi, Superman'in kuzeni olan Kara Zor-El'i ekranlara getirecek. Krypton gezegenindeki felakatin ardından Dünya'ya kaçan kahramanımız, farklı bir kimlikle yaşayacak. 24 yaşına geldiğinde güçlerini kabullenen Kara, olması gerektiği gibi bir süper kahramana dönüşecek. Projenin arkasında Arrow ve The Flash gibi dizilerin yapımcısı Greg Berlanti var.",
+        "poster_path": "/cFO65xb0xiXKqk5BmgHawCXB1i0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765,
+          10759
+        ],
+        "popularity": 53.6237,
+        "first_air_date": "2015-10-26",
+        "vote_average": 7.302,
+        "vote_count": 4238,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lTQOBwJ67IKCE4x9nk8fOOhEWWy.jpg",
+        "id": 71663,
+        "name": "Black Lightning",
+        "original_name": "Black Lightning",
+        "overview": "Jefferson Pierce’in bir sırrı vardır. Özel bir lise müdürü ve iki çocuk babası olan Jefferson aynı zamanda New Orleans’taki mahallesinin küçük insanlarını, şehri kuşatan şiddetten korumaktadır. Dokuz yıl önce Pierce bir bakıma kahramandı. Bir zırh giyerdi ve elektriği kontrol edebilme yeteneği vardı ve memleketinin sokaklarını Black Lightning maskesiyle korurdu. Zamanla bu ikinci kimliği aile ilişkilerine zarar verince süper kahraman günlerini geride bırakmış, müdür olmuş ve çoluk çocuğa karışmıştır. Süper güçleri olmadan şehre yardım etmeyi tercih etmiş, kızları Anissa ve Jennifer’ın güçlü küçük kadınlara dönüşümünü izlemiştir; karısı Lynn ile ilişkilerini iyileştirememiş olsa bile… Şimdi, neredeyse 10 yıl geçtikten sonra Pierce’in suçlularla savaştığı günler geri gelecektir. Suçlar ve yozlaşmış düzen, söndürülmesi güç bir ateş gibi yayılırken Jefferson, “100” denen bölgesel çeteyi yönetmeye karar verir. Şimdi sadece ailesini değil, çevresindeki herkesin ruhunu kurtaracaktır.",
+        "poster_path": "/h1xbvvO6oqchfLe6xh0yLNnQxeM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10765,
+          18
+        ],
+        "popularity": 13.6652,
+        "first_air_date": "2018-01-16",
+        "vote_average": 6.994,
+        "vote_count": 891,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/v4QhnqohKe6vMJP6mzdMxJzL22L.jpg",
+        "id": 89247,
+        "name": "Batwoman",
+        "original_name": "Batwoman",
+        "overview": "Kate Kane, Batham olarak Gotham City için adalet arar.",
+        "poster_path": "/pBpxKiitMuYXvtsXNSzya8DKKzV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759
+        ],
+        "popularity": 9.7821,
+        "first_air_date": "2019-10-06",
+        "vote_average": 6.92,
+        "vote_count": 1534,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vNnLAKmoczRlNarxyGrrw0KSOeX.jpg",
+        "id": 1412,
+        "name": "Arrow",
+        "original_name": "Arrow",
+        "overview": "Şiddetli bir gemi kazasından sonra milyarder playboy Oliver Queen kaybolmuştur ve Pasifik’te ücra bir adada yaşadığı keşfedilinceye kadar, beş yıl boyunca ölü olduğu sanılmıştır. O sırada Oliver ada’da kendini eğitmiş bir çok sınavdan geçmiş ve hayat mücadelesi vermek zorunda kalmıştır. Evi Starling City’ye döndüğünde onu, üzerine titreyen annesi Moira, çok sevgili kız kardeşi Thea ve en iyi arkadaşı Tommy karşılar fakat onlar Oliver’ın adada çektiği sıkıntıların onu değiştirdiğini hissederler. Oliver tekrar ailesi ile bir araya geldiğinde henüz bilmediği bir çok sırrın olduğunu keşfeder. Arrow kimliğine büründüğünde zengin olmak için pis işlere karışan iş adamlarını öldürmek için savaşmaktadır.",
+        "poster_path": "/u8ZHFj1jC384JEkTt3vNg1DfWEb.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          10759
+        ],
+        "popularity": 52.3468,
+        "first_air_date": "2012-10-10",
+        "vote_average": 6.823,
+        "vote_count": 6057,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
+        "id": 60735,
+        "name": "The Flash",
+        "original_name": "The Flash",
+        "overview": "Geçmişinde büyük bir trajedi yaşamış Barry Allen, Central City Polis Birimi’nde çalışan ve suçluların arkalarında bıraktıkları ipuçlarını toplayan bir adli laboratuvar asistanıdır. Talihsiz bir yıldırım kazası yaşamasının ardından süper hız gücüne sahip olan Barry, Flash kimliğine bürünür ve kötü adamları adalete teslim etmeyi kendine görev edinir!",
+        "poster_path": "/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 254.3106,
+        "first_air_date": "2014-10-07",
+        "vote_average": 7.773,
+        "vote_count": 11281,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/m6gZjzynVlVj5bQiJ6a6hrgw7dw.jpg",
+        "id": 60743,
+        "name": "Constantine",
+        "original_name": "Constantine",
+        "overview": "DC Comics'in korku çizgi romanı Hellblazer'dan uyarlama yeni dizi Constantine, NBC ekranlarında başlamaya hazırlanıyor! Dexter’ın yaratıcılarından Daniel Cerone ve Kara Şövalye (The Dark Knight) serisinin senaristlerinden David S. Goyer’ın imzası bulunan yapım; kadrosunda Matt Ryan(John Constantine), Harold Perrineau(Manny), Charles Halford(Chas) ve Angelica Celaya(Zed) gibi isimleri barındırıyor.Dünyada insan görünümünde dolaşan melekleri ve iblisleri hemen tanıma becerisine sahip John Constantine’i merkeze alacak dizi, ilk bölümü “Non Est Asylum” ile 24 Ekim Cuma günü ekranlara gelmeye başlayacak. Hellblazer çizgi romanı daha önce 2005 yılında Francis Lawrence tarafından beyazperdeye uyarlanmış ve Constantine’i Keanu Reeves canlandırmıştı.",
+        "poster_path": "/gQ3bA1DBKyZwkDCHJFEAT0MkKpu.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10765
+        ],
+        "popularity": 8.6077,
+        "first_air_date": "2014-10-24",
+        "vote_average": 7.8,
+        "vote_count": 1541,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/g9ju2o4LioYYOyihBvf9lVX8XL.jpg",
+        "id": 38472,
+        "name": "Marvel's Jessica Jones",
+        "original_name": "Marvel's Jessica Jones",
+        "overview": "Travmatik geçmişinden kurtulamayan Jessica Jones, Hell's Kitchen'daki acımasız düşmanı başka birine daha zarar vermeden önce onu bulmak için özel yeteneklerini kullanır.",
+        "poster_path": "/paf9wL3mOW9LT3ZjRxXqJcjeMEv.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 23.7992,
+        "first_air_date": "2015-11-20",
+        "vote_average": 7.489,
+        "vote_count": 2389,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4mwCGK8ppHNU34fNkr80Hs7w3HU.jpg",
+        "id": 67116,
+        "name": "Cehennem Silahı",
+        "original_name": "Lethal Weapon",
+        "overview": "Fox kanalının yeni dizilerinden olan ve  Mel Gibson ve Danny Glover’in başrolünü paylaştığı popüler film “Cehennem Silahı” isimli filmden uyarlanacak olan dizi uyarlaması ve geliştirmesi Matt Miller tarafından yapılacak. Lethal Weapon dizisinin oyuncuları ise; Clayne Crawford (Rectify, Rogue, 24), Damon Wayans (The Underground, My Wife and Kids), Keesha Sharp (American Crime Story), Jordana Brewster (American Crime Story, Dallas), Kevin Rahm (Bates Motel, Mad Men, Desperate Housewives), Chandler Kinney ve Johnathan Fernandez.\n\nLethal Weapon dizisinin konusu ise; küçük bir kalp krizi geçiren Detektif Murtaugh’un hayatındaki tüm stresi kaldırmaya çalışmasını anlatacak. Ama bu yolda suçlular kadar ortağı Riggs de ona yardımcı olmayacaktır.",
+        "poster_path": "/oJkAusD2NDl7S7YXJC7aclcr1de.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          80,
+          18,
+          35
+        ],
+        "popularity": 20.3389,
+        "first_air_date": "2016-09-21",
+        "vote_average": 7.3,
+        "vote_count": 757,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/remQq0nfQoxY9fVglGGegHZjFxx.jpg",
+        "id": 75450,
+        "name": "Titans",
+        "original_name": "Titans",
+        "overview": "\"Titans\", eskiden Batman'in himayesinde olan ve \"Robin\" olarak bilinen, şimdi ise \"Nightwing\" olarak suçlularla mücadele eden Dick Grayson (Brenton Thwaites) liderliğindeki bir grup genç süper kahramanı merkezine alıyor.\n\nEski bir sirk çalışanı olan Grayson, anne-babasının ölümünden sonra Batman'in himayesine alınmış ve suçlularla mücadele etmek için eğitilmiştir. Grayson, \"Nightwing\" olarak Batman’in gölgesinden çıkacak ve Starfire (Anna Diop), Raven (Teagan Croft), Beast Boy (Ryan Potter) ve pek çok başka süper kahramanın içinde bulunduğu yeni ve korkusuz bir \"Titans\" takımının başına geçecektir.",
+        "poster_path": "/8e6QiSexmYKaiHGPvbhaFMmQEhc.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          10765
+        ],
+        "popularity": 30.8002,
+        "first_air_date": "2018-10-12",
+        "vote_average": 7.906,
+        "vote_count": 2720,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/omzjmQdaV2PBSyfgsB6RWsxk1lo.jpg",
+        "id": 64433,
+        "name": "Shades of Blue",
+        "original_name": "Shades of Blue",
+        "overview": "FBI'ın yolsuzlukla mücadele biriminde göreve başlayan Harlee McCord aynı zamanda yalnız yaşayan bir annedir. Bu görev için gizli ajan olan McCord, ailesi ile işini ince bir çizgi ile ayırmak zorundadır.",
+        "poster_path": "/wxg8lxFpandLQtOiHRnTEQf7oeL.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 16.9861,
+        "first_air_date": "2016-01-07",
+        "vote_average": 7.3,
+        "vote_count": 254,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/h3iaMumqJlv2Z1CcIdGNVMJrB2a.jpg",
+        "id": 64122,
+        "name": "The Shannara Chronicles",
+        "original_name": "The Shannara Chronicles",
+        "overview": "The Shannara Chronicles, üç kahramanın dünyayı yok etmek isteyen şeytani bir orduyu durdurmak için yaptıkları yolculuğu anlatıyor. Dizinin kahramanları ise bir Elf prensesi olan Amberle, göçebe bir insan olan Eretria ve yarı insan yarı elf olan Wil.",
+        "poster_path": "/yzoaoBSMww5D22Kfrd2LEJumIzl.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10765
+        ],
+        "popularity": 11.4443,
+        "first_air_date": "2016-01-05",
+        "vote_average": 6.953,
+        "vote_count": 962,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/c4zV2ysi5Qlns4CPjRJj3hBGMSx.jpg",
+        "id": 2287,
+        "name": "Batman",
+        "original_name": "Batman",
+        "overview": "Wealthy entrepreneur Bruce Wayne and his ward Dick Grayson lead a double life: they are actually crime fighting duo Batman and Robin. A secret Batpole in the Wayne mansion leads to the Batcave, where Police Commissioner Gordon often calls with the latest emergency threatening Gotham City. Racing to the scene of the crime in the Batmobile, Batman and Robin must (with the help of their trusty Bat-utility-belt) thwart the efforts of a variety of master criminals, including The Riddler, The Joker, Catwoman, and The Penguin.",
+        "poster_path": "/1ZEJuuDh0Zpi5ELM3Zev0GBhQ3R.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          35,
+          10759
+        ],
+        "popularity": 42.2261,
+        "first_air_date": "1966-01-12",
+        "vote_average": 7.307,
+        "vote_count": 551,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9TvRRh8HUAMK9phVXLInPXHUg6K.jpg",
+        "id": 66786,
+        "name": "Timeless",
+        "original_name": "Timeless",
+        "overview": "Garcia Flynn isimli bir suçlu Amerika tarihinin seyrini değiştirmek ve yok etmek için bir zaman makinesi çalar ve geçmişe gider. Onu yakalamak için Lucy Preston isimli bir tarih profesörü, Wyatt Logan isimli bir asker ve Rufus isimli bir bilim adamı peşinden gider. Bu özenle seçilmiş takım hem tehlikeli kaçağı yakalamak hem de geleceği etkileyebilecek her türlü müdaheleyi çok geç olmadan durdurmak zorundadır.",
+        "poster_path": "/wFaS9kROwztTWNxIKBbOLwIgApV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          10765
+        ],
+        "popularity": 19.6185,
+        "first_air_date": "2016-10-03",
+        "vote_average": 7.235,
+        "vote_count": 731,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lpItdOGWnECp6CSzTnXldQ6uY2B.jpg",
+        "id": 71340,
+        "name": "Krypton",
+        "original_name": "Krypton",
+        "overview": "Süpermen'in büyükbabasının kendi gezegeninde adalet için savaşırken anlatılmamış hikayesi.",
+        "poster_path": "/uiinjmSkka6JOrk4FsZmrjlNM26.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10765
+        ],
+        "popularity": 10.924,
+        "first_air_date": "2018-03-21",
+        "vote_average": 7.11,
+        "vote_count": 465,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qb9vehNFxTpPrazhD7JJ6QtEtCv.jpg",
+        "id": 64432,
+        "name": "Sihirbazlar",
+        "original_name": "The Magicians",
+        "overview": "Zekâsıyla yaşıtlarının arasından sıyrılan Quentin Coldwater, günlük hayatın monotonluğundan, Fillory adlı büyülü bir dünyada geçen fantastik kitapları okuyarak kaçmakta ama herkes gibi o da büyünün gerçek olmadığını düşünmektedir. Ta ki kendini New York'un kuzeyindeki çok gizli ve seçkin bir büyücülük okulunda bulana kadar. Burada dostluğu ve aşkı öğrenip hayal bile edemeyeceği doğaüstü bir güce erişen Quentin, günün birinde arkadaşlarıyla yaptığı inanılmaz bir keşifle eşsiz olduğu kadar tehlikeli ve karanlık bir yolculuğa çıkacaktır.",
+        "poster_path": "/A66dZN98BPEYeFQAhNdNCIXa57d.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 20.2259,
+        "first_air_date": "2015-12-16",
+        "vote_average": 7.591,
+        "vote_count": 1618,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qVu5MC7DiDOrlcKNZsb9rEJJ1UI.jpg",
+        "id": 65988,
+        "name": "Wynonna Earp",
+        "original_name": "Wynonna Earp",
+        "overview": "Dizi, batının efsanevi iblis avcısı Wyatt Earp'ın büyük torunu Wynonna'yı (Melanie Scrofano) merkezine alır. O, elindeki özel silahı ile iblisler, vampirler, zombiler ve doğaüstü tüm varlıklarla savaşarak adaleti sağlamaktadır. Kendine özgü yetenekleri ile modern çağın esprili ve çılgın silahşörü olarak tabir edilir.",
+        "poster_path": "/qnIaDelA81dmFaXrhpz6M6dpGSD.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10765,
+          37
+        ],
+        "popularity": 24.8653,
+        "first_air_date": "2016-04-01",
+        "vote_average": 7.867,
+        "vote_count": 766,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cAgRehPSCjCVrP25zfeffbuptYY.jpg",
+        "id": 62858,
+        "name": "Colony",
+        "original_name": "Colony",
+        "overview": "Los Angeles'ın dışarıdan gelen güçlerce işgal edilip duvarla çevrilmesinin ardından eski bir FBI ajanı ve eşi, kayıp oğullarını bulmak için her şeyi riske atar.",
+        "poster_path": "/qfS0mp22XfTig2EK3jWKiyx7kNy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 14.6103,
+        "first_air_date": "2016-01-14",
+        "vote_average": 6.849,
+        "vote_count": 604,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9VNvlBE0IVFBuybIAA6BlOVMtCv.jpg",
+        "id": 62126,
+        "name": "Marvel's Luke Cage",
+        "original_name": "Marvel's Luke Cage",
+        "overview": "Hapishanede geçirdiği günlerde üzerinde uygulanan deneyler sonucu Luke Cage; her türlü darbeye ve sıcaklığa karşı dayanıklı bir deri, iyileşme yeteneği ile süper insan gücüne sahip bir karakterdir.",
+        "poster_path": "/6R62oGGufhsf6DiMknCi047N0b7.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765,
+          10759,
+          80
+        ],
+        "popularity": 16.4623,
+        "first_air_date": "2016-09-30",
+        "vote_average": 6.924,
+        "vote_count": 1847,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/tgVKBjXuBTzyq87awCwuvV4zGZL.jpg",
+        "id": 1432,
+        "name": "Veronica Mars",
+        "original_name": "Veronica Mars",
+        "overview": "In the fictional town of Neptune, California, student Veronica Mars progresses from high school to college while moonlighting as a private investigator under the tutelage of her detective father.",
+        "poster_path": "/vOdJETEueGgUqJR4UvwTdUoJhvO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          18,
+          35
+        ],
+        "popularity": 21.9587,
+        "first_air_date": "2004-09-22",
+        "vote_average": 7.823,
+        "vote_count": 639,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/3rdQ4cbley3iOIkruTwMKDUzsLj.jpg",
+        "id": 62816,
+        "name": "Quantico",
+        "original_name": "Quantico",
+        "overview": "FBI akademi yeni ajanlarını aramaktadır, Alex Parrish!ın adaylık başvurusunun kabul edilmesiyle hayatı değişecektir. Akademiye birçok öğrenci kabul edilmiştir ancak verilen görevlerdeki başarılarına göre elenerek sadece başarılı olanlar yeni ajanlar olacaktır ancak Amerika’ya yapılmış en büyük terörist saldırısının ardından tüm adaylar şüpheli konumuna gelecektir. Alex bu saldırıdan şans esiri kurtulmuş olsa da FBI gözünde en büyük şüpheli odur ya gerçeği ortaya çıkartacaktır yada bu saldırı onun üzerine atılacaktır.",
+        "poster_path": "/3ofY2mALEiE0QDyRlVOV3sDNMYC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 20.5629,
+        "first_air_date": "2015-09-27",
+        "vote_average": 6.523,
+        "vote_count": 679,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

@@ -1,0 +1,856 @@
+{
+  "adult": false,
+  "backdrop_path": "/aqMBEpd4kC8GpUg6761qFPkvQuS.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Aksiyon"
+    },
+    {
+      "id": 80,
+      "name": "Suç"
+    }
+  ],
+  "homepage": "",
+  "id": 1188104,
+  "imdb_id": "tt28955168",
+  "origin_country": [
+    "TH"
+  ],
+  "original_language": "th",
+  "original_title": "ปล้นทะลุไมล์",
+  "overview": "",
+  "popularity": 427.228,
+  "poster_path": "/2qAv3Oo5akuJgZUzMzBNamfcO1j.jpg",
+  "production_companies": [
+    {
+      "id": 170213,
+      "logo_path": "/8f90dMTDLQU4yjPhwHrEUFdWMyV.png",
+      "name": "Neramitnung Film",
+      "origin_country": "TH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TH",
+      "name": "Thailand"
+    }
+  ],
+  "release_date": "2023-11-09",
+  "revenue": 0,
+  "runtime": 75,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "ภาษาไทย"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "ปล้นทะลุไมล์",
+  "video": false,
+  "vote_average": 8.5,
+  "vote_count": 14,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 238450,
+        "known_for_department": "Acting",
+        "name": "จิรายุ ละอองมณี",
+        "original_name": "จิรายุ ละอองมณี",
+        "popularity": 2.27,
+        "profile_path": "/vlviWuIBR72VFwnWVNCUjRg47aG.jpg",
+        "cast_id": 2,
+        "character": "Kla",
+        "credit_id": "6520112a967cc7342960216d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2126110,
+        "known_for_department": "Acting",
+        "name": "Wawaa Nichari Chokprajakchat",
+        "original_name": "Wawaa Nichari Chokprajakchat",
+        "popularity": 3.546,
+        "profile_path": "/onaqZwBCxUAdGK7FAACHKUWmnOR.jpg",
+        "cast_id": 3,
+        "character": "Fun",
+        "credit_id": "6520355a5b124000e3d3a346",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2424472,
+        "known_for_department": "Acting",
+        "name": "Chaleeda Gilbert",
+        "original_name": "Chaleeda Gilbert",
+        "popularity": 0.515,
+        "profile_path": "/IGjHfJiuO9LCw8hyP268lDAFYF.jpg",
+        "cast_id": 5,
+        "character": "Pat",
+        "credit_id": "654bd36f41a561336b79f997",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4364710,
+        "known_for_department": "Acting",
+        "name": "Assaree Wattanayakun",
+        "original_name": "Assaree Wattanayakun",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Kan",
+        "credit_id": "654bd3a2fd4f80013ceb22ef",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1284519,
+        "known_for_department": "Acting",
+        "name": "Ratchanont Suprakob",
+        "original_name": "Ratchanont Suprakob",
+        "popularity": 0.545,
+        "profile_path": "/w8OimATLYL1vL6Le5efzOGUbiuj.jpg",
+        "cast_id": 7,
+        "character": "Krit",
+        "credit_id": "654bd3b35a5ed001003f986b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1286110,
+        "known_for_department": "Acting",
+        "name": "Saranyoo Prachankit",
+        "original_name": "Saranyoo Prachankit",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Sua",
+        "credit_id": "654bd3f82866fa00ab1338d3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4364713,
+        "known_for_department": "Acting",
+        "name": "Pattanapon Kunchorn",
+        "original_name": "Pattanapon Kunchorn",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Jo",
+        "credit_id": "654bd43f41a561336b79f9c2",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94392,
+        "known_for_department": "Acting",
+        "name": "Byron Bishop",
+        "original_name": "Byron Bishop",
+        "popularity": 2.383,
+        "profile_path": "/niGZtLYRLFtOvphsAmI7N8UcKDj.jpg",
+        "cast_id": 10,
+        "character": "Ken",
+        "credit_id": "654bd45e4f33ad011e0359e7",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2771756,
+        "known_for_department": "Acting",
+        "name": "Akalavut Mankalasut",
+        "original_name": "Akalavut Mankalasut",
+        "popularity": 0.635,
+        "profile_path": "/v1nZpJBvunhhqOITvK7ymqIjIER.jpg",
+        "cast_id": 11,
+        "character": "Jeans",
+        "credit_id": "654bd4772866fa00ab1338ee",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2420113,
+        "known_for_department": "Acting",
+        "name": "Jarupong Kluaymaingam",
+        "original_name": "Jarupong Kluaymaingam",
+        "popularity": 0.452,
+        "profile_path": "/lolPVUBwgjV6PZ0JGqetWrJAeep.jpg",
+        "cast_id": 12,
+        "character": "Nay",
+        "credit_id": "654bd48641a56133693c88ae",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4364717,
+        "known_for_department": "Acting",
+        "name": "Kittiphoom Wongpentak",
+        "original_name": "Kittiphoom Wongpentak",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Jazz",
+        "credit_id": "654bd4bd2866fa00c4265475",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2879536,
+        "known_for_department": "Acting",
+        "name": "ศุภชัย สุวรรณอ่อน",
+        "original_name": "ศุภชัย สุวรรณอ่อน",
+        "popularity": 1.172,
+        "profile_path": "/nIid382zsYX7rdIQr441Y7lKmU3.jpg",
+        "cast_id": 14,
+        "character": "Bank",
+        "credit_id": "654bd4cd4f33ad011e035a00",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3597574,
+        "known_for_department": "Acting",
+        "name": "Jonathan Holman",
+        "original_name": "Jonathan Holman",
+        "popularity": 1.166,
+        "profile_path": "/bPzzGKQE5Q04h5yq7quQeFz9e3W.jpg",
+        "cast_id": 15,
+        "character": "Sak",
+        "credit_id": "654bd4e9532acb533a143e31",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4364719,
+        "known_for_department": "Acting",
+        "name": "Sasitorn Panpim",
+        "original_name": "Sasitorn Panpim",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "June",
+        "credit_id": "654bd50f2866fa00c426548c",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3278336,
+        "known_for_department": "Acting",
+        "name": "ดวงใจ หิรัญศรี",
+        "original_name": "ดวงใจ หิรัญศรี",
+        "popularity": 5.04,
+        "profile_path": "/iU2Rh0bpbRfbeF1o1ZmVS9yW0Rt.jpg",
+        "cast_id": 17,
+        "character": "Pin",
+        "credit_id": "654bd526fd4f8000e481be15",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3613011,
+        "known_for_department": "Acting",
+        "name": "Thanitphong Phakkhaphantharut",
+        "original_name": "Thanitphong Phakkhaphantharut",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Sanchai",
+        "credit_id": "654bd53d2866fa011bd18a6a",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4364721,
+        "known_for_department": "Acting",
+        "name": "Kunsatri Kumsroi",
+        "original_name": "Kunsatri Kumsroi",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Yuna",
+        "credit_id": "654bd5c629383500fe0e8636",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4348004,
+        "known_for_department": "Directing",
+        "name": "Sor Sangchai",
+        "original_name": "Sor Sangchai",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "653f9879cc968300ea7216e7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4364722,
+        "known_for_department": "Camera",
+        "name": "Thanitsaphong Sasinmanop",
+        "original_name": "Thanitsaphong Sasinmanop",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "654bd60fd4653700c4e2a554",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4364723,
+        "known_for_department": "Camera",
+        "name": "Krittaya Sonthisawat",
+        "original_name": "Krittaya Sonthisawat",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "654bd6335a5ed000c6aca085",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3433635,
+        "known_for_department": "Camera",
+        "name": "Kritchai Mongkhonsappaya",
+        "original_name": "Kritchai Mongkhonsappaya",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "654bd6462866fa00c42654cf",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2490955,
+        "known_for_department": "Art",
+        "name": "Patchara Lertkai",
+        "original_name": "Patchara Lertkai",
+        "popularity": 0.02,
+        "profile_path": null,
+        "credit_id": "654bd6695a5ed001003f9916",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3045042,
+        "known_for_department": "Production",
+        "name": "Phiangporn Paiboonrungrot",
+        "original_name": "Phiangporn Paiboonrungrot",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "654bd690532acb53353fa543",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3826071,
+        "known_for_department": "Production",
+        "name": "Siriphit Nopsiri",
+        "original_name": "Siriphit Nopsiri",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "654bd69d4f33ad00e4ceb2a8",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1338262,
+        "known_for_department": "Directing",
+        "name": "Saithip Boonyasomphop",
+        "original_name": "Saithip Boonyasomphop",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "654bd6c1fd4f80011ed36365",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1132439,
+        "known_for_department": "Sound",
+        "name": "Terdsak Janpan",
+        "original_name": "Terdsak Janpan",
+        "popularity": 1.106,
+        "profile_path": "/4vRYMjpRpWK9bPk2qeGIaix417s.jpg",
+        "credit_id": "654bd7b4b18f32011c63127c",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 1621,
+        "name": "robber"
+      },
+      {
+        "id": 235126,
+        "name": "extreme"
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/ri9cKWqyMdnKYWlWQvvYZdsgh9q.jpg",
+        "id": 42313,
+        "title": "Tom Sawyer",
+        "original_title": "Tom Sawyer",
+        "overview": "Macera, fantezi ve dostluk dolu, büyülü, eğlence dolu bir yolculuğa hazır olun! Tom Sawyer ve en yakın arkadaşı Huck Finn balığa çıkmayı, korsanlar ve çalınan altınlarla ilgili hayaller kurmayı ve okula yeni gelen güzel kız Becky Thatcher'ı düşünmeyi seviyorlar. Ancak bu arkadaşlar gömülü hazine arayışına çıktıklarında, kasabanın en \"boz\" ayısı Yaralanan Joe ile karşı karşıya kalırlar. Joe'yu kaçıran ikili, kendilerini büyük Mississippi'den gizli bir sığınağın gizemli mağaralarına götüren fantastik bir maceranın ortasında bulurlar; burada eğlenceyi, heyecanı ve en çılgın hayallerinin bile ötesinde bir serveti keşfederler! Don Knotts, Betty White ve country müziğinin süper yıldızları Rhett Akins, Mark Wills, Lee Ann Womack, Hank Williams Jr.'ın sesleri yer alıyor. ve daha fazlası, Tom Sawyer büyüleyici, müzik dolu bir aile macerasıdır.",
+        "poster_path": "/vFab8MwNldV5ZaIuvDdro3HKXnq.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          16,
+          12
+        ],
+        "popularity": 4.642,
+        "release_date": "2000-04-04",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 38
+      },
+      {
+        "backdrop_path": "/d5l2ITQvpgP0dcWCAG6PUvp8YZw.jpg",
+        "id": 965150,
+        "title": "Güneş Sonrası",
+        "original_title": "Aftersun",
+        "overview": "Daha kendi hayatını bir düzene oturtamamışken genç yaşta baba olması Calum'u altüst eder. Karısından ayrılır, işlerini tam olarak yoluna koyamaz, filmin ortalarında kızıyla yaptığı bir konuşmada da anlarız ki çok fazla para da kazanamamaktadır. Zaten kızı Sophie ile birlikte okullar açılmadan gittikleri yaz tatilini de oldukça ucuza getirmiştir. Bir baba-kız ve büyüme hikâyesi, anıların hüznü ve sevinciyle dolu, zamanın hızla geçişine dair sade, incelikli bir dram... Sophie, tam 20 yıl önce Fethiye'de bir tatil köyünde babasıyla geçirdiği tatilin unutulmaz anlarını geçmişe duyduğu melankoliyle anar. Babasını tanıdığını düşünse de yıllar sonra hatırladıklarıyla gerçekliğin arasında boşluklar kalır.",
+        "poster_path": "/cfW5wPV3cO01ObD6WeQ8fagImzt.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 30.792,
+        "release_date": "2022-10-21",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 1499
+      },
+      {
+        "backdrop_path": "/8x9iKH8kWA0zdkgNdpAew7OstYe.jpg",
+        "id": 372058,
+        "title": "Senin Adın",
+        "original_title": "君の名は。",
+        "overview": "Mitsuha Miyamizu, kırsal kesimde, dağların etrafını sardığı bir kentte yaşamaktadır. Vali olan babası genellikte evde bulunmadığından evinde daha çok ilkokul öğrencisi kız kardeşi ve büyük annesiyle kalan Mitsuha her ne kadar dürüst bir kişiliğe sahip olsa da ailesinin Shinto tapınağına ait geleneklerden ve babasının seçim kampanyasında yer almasından hiç hoşlanmamaktadır. Kırsal kesimde yaşadığı için içten içe üzülmekte ve Tokyo’daki harikulade şehir hayatını arzulamaktadır. Taki Tachibana ise Tokyo’nun merkezinde yaşayan liseli bir gençtir. Arkadaşlarıyla zaman geçirmekten hoşlanan ve bir İtalyan restoranında yarı zamanlı çalışan Taki, mimariye ve güzel sanatlara ilgi duymaktadır. Günlerden bir gün rüyasında daha önce hiç gitmediği dağlar arasına kurulmuş bir şehirde yaşayan genç bir kız olduğunu görür. Mitsuha ise erkek olduğu bir rüya görecektir. Rüyalarının arkasındaki sır nedir?",
+        "poster_path": "/jkK6XdJqSCm7maDV8xgbE0JVNIP.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10749,
+          18
+        ],
+        "popularity": 70.724,
+        "release_date": "2016-08-26",
+        "video": false,
+        "vote_average": 8.487,
+        "vote_count": 11623
+      },
+      {
+        "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "id": 335983,
+        "title": "Venom: Zehirli Öfke",
+        "original_title": "Venom",
+        "overview": "Eddie Brock, işi ve sevgilisi dâhil her şeyini kaybetmiş umutsuz bir adamdır. Hayatının en kötü zamanında, onu Venom'a dönüştürecek ve süper güçlere sahip olmasını sağlayacak bir Symbiote'un taşıyıcısı olur. Bu güçler, bu yeni ölümcül koruyucunun, büyük kötü güçleri özellikle de daha güçlü ve daha silahlı Symbiote rakibi Riot'u yenmesi için yeterli olacak mı?",
+        "poster_path": "/bQK5C2mL7DJUpQSahoT2CYMtvkX.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          28
+        ],
+        "popularity": 71.1,
+        "release_date": "2018-09-28",
+        "video": false,
+        "vote_average": 6.829,
+        "vote_count": 16389
+      },
+      {
+        "backdrop_path": "/nb3xI8XI3w4pMVZ38VijbsyBqP4.jpg",
+        "id": 872585,
+        "title": "Oppenheimer",
+        "original_title": "Oppenheimer",
+        "overview": "Amerikalı fizikçi Julius Robert Oppenheimer'ın hayatına odaklanılan filmde, Julius Robert Oppenheimer’ın, İkinci Dünya Savaşı sırasında atom bombasının geliştirilme sürecindeki rolü gözler önüne seriliyor.  Fizikçi Julius Robert Oppenheimer'a 2. Dünya Savaşı sırasında Manhattan Projesi'nin bilimsel liderliği verildiğinde, o ve eşi Kitty, Oppenheimer'ın çalışmasının sadece kendi hayatları üzerinde değil, tüm dünya üzerinde bu kadar etki edeceğini hayal edemezdi.  Ancak ölümcül icadının Hiroşima ve Nagazaki'de kullanılacak olması, Oppenheimer'ın kendisini projeden uzaklaştırmasına neden olur. Savaş sona ermek üzereyken, Lewis Strauss'un ortak kurduğu ABD Atom Enerjisi Ajansı'nın danışmanı olan Robert Oppenheimer, nükleer enerjinin uluslararası kontrolüne ve nükleer silahlanma yarışına karşı olduğunu savunur ve bu nedenle ABD tarafından hedef haline gelir.",
+        "poster_path": "/r4JdkyE7AMJA8xODOfCC20pWvtU.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          36
+        ],
+        "popularity": 105.618,
+        "release_date": "2023-07-19",
+        "video": false,
+        "vote_average": 8.1,
+        "vote_count": 9893
+      },
+      {
+        "backdrop_path": "/5yGgVqsk3v44jfGVuFWIDxOExIF.jpg",
+        "id": 399055,
+        "title": "Suyun Sesi",
+        "original_title": "The Shape of Water",
+        "overview": "Soğuk Savaş Dönemi’nde Amerika’nın zirvesine karşı 1963 yılında kurulmuş olan dünyevi bir peri masalı. Dilsiz, bir o kadar da yalnız bir kadın olan Elisa Esposito (Sally Hawkins), temizlikçi olarak çalıştığı gizli ve yüksek güvenlikli devlet laboratuvarında sessizlik içinde bir tecrit hayatına kapatılmış gibidir. Elisa’nın hayatı, meslektaşı Zelda (Octavia Spencer) ile birlikte gizli olarak sınıflandırılmış bir \"deneyi\" keşfettikleri zaman sonsuza dek değişecektir.",
+        "poster_path": "/o0cnudVI3BL9UUbk4zHMYyaIs8V.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          14,
+          10749
+        ],
+        "popularity": 36.854,
+        "release_date": "2017-12-01",
+        "video": false,
+        "vote_average": 7.244,
+        "vote_count": 12243
+      },
+      {
+        "backdrop_path": "/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
+        "id": 546554,
+        "title": "Bıçaklar Çekildi",
+        "original_title": "Knives Out",
+        "overview": "Tanınmış polisiye yazarı Harlan Thrombey 85. doğum günü partisinden hemen sonra malikanesinde ölü bulunduğunda meraklı ve neşeli bir dedektif olan Benoit Blanc, cinayeti çözmesi için gizemli biri tarafından işe alınır. Blanc, Harlan'ın ilişkileri kopuk ailesinden sadık personeline kadar Harlan'ın zamansız ölümünün ardındaki gerçeği ortaya çıkarmak için anlamsız kandırmacalar ve yalanlardan oluşan bir yılan hikâyesini çözmeye çalışacaktır.",
+        "poster_path": "/tZ6ABcJr1GeGff7fyEsReWXnXN.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          80,
+          9648
+        ],
+        "popularity": 58.638,
+        "release_date": "2019-11-27",
+        "video": false,
+        "vote_average": 7.844,
+        "vote_count": 12670
+      },
+      {
+        "backdrop_path": "/eZzNdjNDvaSoyywy9ICg2UmFwul.jpg",
+        "id": 974576,
+        "title": "Konsey",
+        "original_title": "Conclave",
+        "overview": "Kardinal Lawrence, yeni bir Papa seçerek dünyanın en gizli ve kadim olaylarından birine liderlik etmekle görevlendirilir. Katolik Kilisesi'nin dünyanın dört bir yanından en güçlü liderleri bir araya toplanıp Vatikan salonlarında bir araya kilitlendiğinde, Lawrence kendisini bir komplonun ortasında bulur ve Kilise'nin temellerini sarsabilecek bir sırrı keşfeder.",
+        "poster_path": "/u5iu2SRjXRpcu6gDkCXS1itguyk.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          53,
+          9648
+        ],
+        "popularity": 333.275,
+        "release_date": "2024-10-25",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 1539
+      },
+      {
+        "backdrop_path": "/ZLD4pjmMLt9I3t1a7SFJBekIh1.jpg",
+        "id": 596161,
+        "title": "Gitmesine İzin Ver",
+        "original_title": "Let Him Go",
+        "overview": "Oğullarını kaybeden çift, Montana’daki çiftliklerinden ayrılarak Dakota eyaletlerinde medeniyetten uzakta yaşayan tehlikeli bir aileyle birlikte kalan genç torunlarını kurtarmaya karar verir. Ailenin yanına varan çift, tehlikeli ailenin torunlarını serbest bırakma gibi bir niyeti olmadığını çok geçmeden anlar.",
+        "poster_path": "/njZ95xuE1vVwTflNBfwGcKVb1bj.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          53,
+          80,
+          37
+        ],
+        "popularity": 17.326,
+        "release_date": "2020-11-05",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 695
+      },
+      {
+        "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+        "id": 299534,
+        "title": "Avengers: Endgame",
+        "original_title": "Avengers: Endgame",
+        "overview": "Marvel Sinematik Evreni'nin dördüncü aşamasının zirve noktası olarak kabul edilen bu epik filmde, \"Yenilmezler: Sonsuzluk Savaşı\" (2018) olaylarının hemen ardından başlar ve Thanos'un sonsuz taşları kullanarak evrenin yarısını yok etmesinin sonuçlarına odaklanır. Yenilmezler ekibinin hayatta kalan üyelerinin, kaybettikleri arkadaşlarını geri getirmek ve evreni kurtarmak için bir plan hazırlarlar. Tony Stark (Iron Man), Steve Rogers (Captain America), Natasha Romanoff (Black Widow), Bruce Banner (Hulk), Thor ve diğer karakterler, geçmişe dönerek Sonsuz Taşları toplamak için zaman yolculuğu yaparlar. Bu süreçte, eski anılarla yüzleşirler ve birbirleriyle olan bağlarını güçlendirirler. Zaman yolculuğu teması, filmde önemli bir rol oynar ve izleyicilere önceki Marvel filmlerine göndermeler yapılır. Filmin doruk noktası, Yenilmezler'in Thanos ile büyük bir savaşta karşılaşmasıdır. Tüm kahramanlar, kayıplarını telafi etmek ve dünyayı kurtarmak için bir araya gelirler.",
+        "poster_path": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          878,
+          28
+        ],
+        "popularity": 84.169,
+        "release_date": "2019-04-24",
+        "video": false,
+        "vote_average": 8.2,
+        "vote_count": 26076
+      },
+      {
+        "backdrop_path": "/u0zJm9HDy638Yg1mGwi9qIL6yoL.jpg",
+        "id": 21786,
+        "title": "Şeytanın Oteli",
+        "original_title": "Fritt vilt",
+        "overview": "Kış mevsiminin ortası beş genç snowboard yapmak için Jotunheimen dağının bulunduğu bölgeye doğru giderler.Bir rampada Snowboard yapan beş gençler arasından biri çok kötü düşer ve bacağını kırar bulundukları bölge çok ıssız bir yerdir ve cep telefonları çekmez.",
+        "poster_path": "/sxYjsslcs5FSsAkEfjr50gAQWNo.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "no",
+        "genre_ids": [
+          27,
+          9648,
+          53
+        ],
+        "popularity": 8.723,
+        "release_date": "2006-10-13",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 411
+      },
+      {
+        "backdrop_path": "/9yUoLlrdV130FKr69r9zqm0bBkV.jpg",
+        "id": 1072342,
+        "title": "Gece Yüzüşü",
+        "original_title": "Night Swim",
+        "overview": "Dejeneratif bir hastalık nedeniyle erken emekliliğe zorlanan eski bir birinci lig beyzbol oyuncusu olan Ray Waller, endişeli eşi, genç kızı Izzy ve küçük oğlu Elliot ile yeni bir eve taşınır. Her şeye rağmen gizlice profesyonel spor hayatına dönmeyi ümit eden Ray, Eve’i yeni evin arka bahçesindeki ışıltılı yüzme havuzunun çocuklar için eğlenceli olacağına ve onun fizik tedavisine katkı sağlayacağına ikna eder. Ancak evin geçmişindeki karanlık bir sır, aileyi kaçınılmaz dehşetin derinliklerine sürükleyecek, kötü niyetli bir gücü açığa çıkaracaktır.",
+        "poster_path": "/rTuQjF3sPRBm4d7HGy1VG8tM6Sm.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          27
+        ],
+        "popularity": 23.343,
+        "release_date": "2024-01-03",
+        "video": false,
+        "vote_average": 5.579,
+        "vote_count": 661
+      },
+      {
+        "backdrop_path": "/rvtdN5XkWAfGX6xDuPL6yYS2seK.jpg",
+        "id": 414906,
+        "title": "The Batman",
+        "original_title": "The Batman",
+        "overview": "Suçluların kalplerine korku salarak sokaklarda Batman olarak iki yıldır sinsice dolaşmak, Bruce Wayne'i Gotham Şehri'nin karanlığının derinliklerine sürükler. Şehirdeki yozlaşmış memurlar ve tanınmış kişilerden oluşan ağın içinde sadece birkaç güvenilir müttefiki kalan bu yalnız infazcı, kendisini yoldaş vatandaşları arasında intikamın vücut bulmuş hâli olarak kabul ettirmiştir. Bir katil çeşitli sadist entrikalarla Gotham'ın seçkin sınıfını hedef alınca bazı gizemli ipuçları dünyanın en harika dedektifi Batman'i; Selina Kyle (namı diğer Kedi Kadın), Oswald Cobblepot (namıdiğer Penguen), Carmine Falcone ve Edward Nashton (namı diğer The Riddler) ile karşılaşacağı yeraltı dünyasında bir araştırmaya sürükler. Kanıtlar şahsileşmeye başladıkça ve failin planları gün yüzüne çıktıkça Batman artık yeni ilişkiler kurmalı, suçlunun maskesini indirmeli ve Gotham Şehri'ni uzun süredir yozlaştıran ve istismar eden güce karşı adaleti sağlamalıdır.",
+        "poster_path": "/3B19RaHTSpyNEcjWtsAPqgJsQ0h.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          9648,
+          53
+        ],
+        "popularity": 80.062,
+        "release_date": "2022-03-01",
+        "video": false,
+        "vote_average": 7.659,
+        "vote_count": 10686
+      },
+      {
+        "backdrop_path": "/q2E18ybZg0KkpR8nERH67GOGx33.jpg",
+        "id": 792307,
+        "title": "Zavallılar",
+        "original_title": "Poor Things",
+        "overview": "Genç bir kadın olan Bella trajik bir şekilde ölür. Ancak sıra dışı bir bilim insanı olan Dr. Godwin Baxter beynini, bir bebeğin beyni ile değiştirerek onu hayata döndürür. Bexter’ın koruması altında olan Bella, etrafındaki dünyayı keşfetmek için kendini keşfetme yolculuğuna çıkar. Bu sırada onun yolu, becerikli ve ahlaksız bir avukat olan Duncan Wedderburn ile kesişir ve ikisi kıtalar arası çılgın bir maceraya atılır.",
+        "poster_path": "/jzgOjZ71TcHqWHzUsWdTvvnisob.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          10749,
+          35
+        ],
+        "popularity": 81.437,
+        "release_date": "2023-12-07",
+        "video": false,
+        "vote_average": 7.703,
+        "vote_count": 4536
+      },
+      {
+        "backdrop_path": "/7bUYzlDz8eel1BVL1Y0YcF9NQmd.jpg",
+        "id": 1059128,
+        "title": "Queer",
+        "original_title": "Queer",
+        "overview": "1940 yıllarında Meksika'da geçen film, New Orleans'taki bir uyuşturucu baskınından kaçan Lee'yi takip ediyor. Mexico City'de şehrin kulüplerinde dolaşan Lee, terhis edilmiş bir Amerikan Donanması askeri olan uyuşturucu kullanıcısı Allerton'a aşık olur.",
+        "poster_path": "/xe4b2TMciLKA1C0JlhWxb4ENLln.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "popularity": 39.364,
+        "release_date": "2024-11-27",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 211
+      },
+      {
+        "backdrop_path": "/kSdIVZu7Cv60o9hTbKBzcTrbMX8.jpg",
+        "id": 984249,
+        "title": "Acımasız",
+        "original_title": "Ruthless",
+        "overview": "Ergenlik çağındaki kızı öldürülen bir lise koçu, öğrencisini insan kaçakçılığı operasyonu için kaçıran adamların peşine düşerek meseleyi kendi eline alır.",
+        "poster_path": "/7TypPVDQNqGCVVJ65uZAoxGJSGS.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          53
+        ],
+        "popularity": 18.364,
+        "release_date": "2023-12-14",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 107
+      },
+      {
+        "backdrop_path": "/zWPV41i5AmLOou0yjCVBp5iFXY0.jpg",
+        "id": 728054,
+        "title": "Vicious Fun",
+        "original_title": "Vicious Fun",
+        "overview": "Joel, a caustic 1980s film critic for a national horror magazine, finds himself unwittingly trapped in a self-help group for serial killers. With no other choice, Joel attempts to blend in with his homicidal surroundings or risk becoming the next victim.",
+        "poster_path": "/jCz4Pv0rilnkBgqwbe5Y3JT5899.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          27,
+          10749
+        ],
+        "popularity": 7.316,
+        "release_date": "2021-11-04",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 98
+      },
+      {
+        "backdrop_path": "/6XjMwQTvnICBz6TguiDKkDVHvgS.jpg",
+        "id": 762441,
+        "title": "Sessiz Bir Yer: Birinci Gün",
+        "original_title": "A Quiet Place: Day One",
+        "overview": "Sessiz Bir Yer: Birinci Gün (A Quiet Place: Day One) filminde, sese duyarlı varlıkların harekete geçmesini önlemek için en ufak bir ses yapmaktan kaçınan bir ailenin, durgun sessizliğin içinde çıkan bir ses sonucu hayatlarının kâbusa dönmesinin konu edildiği Sessiz Bir Yer (A Quiet Place) filminin öncesi konu ediliyor.",
+        "poster_path": "/jQm7ACcf5jA8H33ADhhfFnapjUS.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          878,
+          53
+        ],
+        "popularity": 81.928,
+        "release_date": "2024-06-26",
+        "video": false,
+        "vote_average": 6.746,
+        "vote_count": 2576
+      },
+      {
+        "backdrop_path": "/9EUmwXS6EbY5djAhLtBGzUbBwNV.jpg",
+        "id": 830,
+        "title": "Yasak Gezegen",
+        "original_title": "Forbidden Planet",
+        "overview": "Dünyadan 17 ışık yılı uzaktaki bir koloniden gelen sinyaller kesildiğinde Kumandan John J. Adams yönetiminde bir uzay gemisi durumu araştırmak üzere bu uzak gezegene yollanır. Burada, görünmez bir canavarın saldırısı sonrasında hayatta kalmış tek insanlar olan dahi bilim adamı Dr. Morbius ve güzel kızı Altaira ile karşılaşırlar.Doktorun müthiş icatlarından biri olan Robot Robby neredeyse her tür işin üstesinden kolaylıkla gelmekte ve ikilinin güvenliğini de bir yere kadar sağlamaktadır. Bulundukları gezegen 200 bin yıl önce Krell isminde esrarengiz bir uzaylı ırkına da ev sahipliği yapmıştır. Krell medeniyetinin gücünü ortaya koyan çeşitli kalıntıların yanısıra bir de Dr. Morbius'un üzerinde oynamaktan zevk aldığı gizemli Krell Laboratuarı vardır. Saldırılar tekrar başladığında Kaptan Adams durumu araştırmaya başlamıştır bile.Fred M. Wilcox'in klasikler arasına geçmiş bu filmi bilim kurgu, romantizm, korku ve hatta mizahı başarılı bir şekilde birbiri içinde eritmeyi başarmış bir yapım.",
+        "poster_path": "/aq0OQfRS7hDDI8vyD0ICbH9eguC.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          12
+        ],
+        "popularity": 19.034,
+        "release_date": "1956-03-23",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 952
+      },
+      {
+        "backdrop_path": "/r4Xn4eWOyxye8m3dR80I8TPhfE5.jpg",
+        "id": 1326059,
+        "title": "Pimpinero: Kan ve Petrol",
+        "original_title": "Pimpinero: Sangre y gasolina",
+        "overview": "Kolombiya-Venezuela sınırındaki çölde pimpinero olarak bilinen kaçakçılar ölümü göze alarak bir ülkeden diğerine kaçak benzin taşımaktadır. Genç bir kaçakçı olan Juan gizemli bir rakibi için çalışmaya zorlanınca kız arkadaşı Diana bu kanunsuz bölgenin sırlarını ortaya çıkarmak için tehlikeli bir yolculuğa çıkar.",
+        "poster_path": "/vYe9Qby9ULC6kL8sbji4SWC4htN.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          28,
+          80,
+          18
+        ],
+        "popularity": 38.209,
+        "release_date": "2024-10-10",
+        "video": false,
+        "vote_average": 6.376,
+        "vote_count": 113
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

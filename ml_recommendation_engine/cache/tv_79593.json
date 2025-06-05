@@ -1,0 +1,766 @@
+{
+  "adult": false,
+  "backdrop_path": "/x40yXVPV8tPbuWAjSPGAGauDrhj.jpg",
+  "created_by": [
+    {
+      "id": 58839,
+      "credit_id": "5fd5e88a29c6260042baa7d4",
+      "name": "Peter M. Lenkov",
+      "original_name": "Peter M. Lenkov",
+      "gender": 2,
+      "profile_path": "/boqqxkt8GcjCUmUsGRFzr3rSTDh.jpg"
+    },
+    {
+      "id": 84340,
+      "credit_id": "5fd5e89760b58d0044853d44",
+      "name": "Eric Guggenheim",
+      "original_name": "Eric Guggenheim",
+      "gender": 2,
+      "profile_path": "/lQpiTKQ3W1eguhaBCom8RjikaFy.jpg"
+    }
+  ],
+  "episode_run_time": [
+    43
+  ],
+  "first_air_date": "2018-09-24",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Aksiyon & Macera"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 80,
+      "name": "Suç"
+    }
+  ],
+  "homepage": "https://www.nbc.com/magnum-pi",
+  "id": 79593,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2024-01-03",
+  "last_episode_to_air": {
+    "id": 4387062,
+    "name": "20. Bölüm",
+    "overview": "",
+    "vote_average": 7.7,
+    "vote_count": 3,
+    "air_date": "2024-01-03",
+    "episode_number": 20,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 5,
+    "show_id": 79593,
+    "still_path": "/s5OR1nooVozev2QYMThXzH0OAp5.jpg"
+  },
+  "name": "Magnum P.I.",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    },
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 96,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Magnum P.I.",
+  "overview": "",
+  "popularity": 74.8886,
+  "poster_path": "/hN7DKusbmKPqSZnMG5hemioMAiE.jpg",
+  "production_companies": [
+    {
+      "id": 26727,
+      "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 1081,
+      "logo_path": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+      "name": "CBS Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 34530,
+      "logo_path": null,
+      "name": "Perfect Storm Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 128838,
+      "logo_path": null,
+      "name": "101st Street Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 1302,
+      "logo_path": "/zC3b70ixHh89qJIikLQPEvLqbPM.png",
+      "name": "Davis Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-09-24",
+      "episode_count": 20,
+      "id": 103881,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/son6AuCmsoPWmRgPP6fKQacV9wt.jpg",
+      "season_number": 1,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "2019-09-27",
+      "episode_count": 20,
+      "id": 131152,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/7OTVZrUDymBK5pjqHk4cwken8Tx.jpg",
+      "season_number": 2,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "2020-12-04",
+      "episode_count": 16,
+      "id": 168941,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/mr7RTMZIWdcv0tVgC5jAQDlM2Mb.jpg",
+      "season_number": 3,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "2021-10-01",
+      "episode_count": 20,
+      "id": 202003,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/wDdiwHqmYN24dXfN7zzDd275NDF.jpg",
+      "season_number": 4,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2023-02-19",
+      "episode_count": 20,
+      "id": 315609,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/2u5nwjaJWa1EFBXEo816Rfku1bm.jpg",
+      "season_number": 5,
+      "vote_average": 7.5
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.581,
+  "vote_count": 301,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19487,
+        "known_for_department": "Acting",
+        "name": "Jay Hernandez",
+        "original_name": "Jay Hernandez",
+        "popularity": 2.9903,
+        "profile_path": "/86mlhxglLYYCac1CWWj4s9uR9U9.jpg",
+        "character": "Thomas Magnum",
+        "credit_id": "5afcc6ea9251410217000b83",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 207549,
+        "known_for_department": "Acting",
+        "name": "Perdita Weeks",
+        "original_name": "Perdita Weeks",
+        "popularity": 1.7766,
+        "profile_path": "/2XHfEagkwU9DowhDtG0vi5kagMp.jpg",
+        "character": "Juliet Higgins",
+        "credit_id": "5afcc6f5c3a3687c940011cd",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54834,
+        "known_for_department": "Acting",
+        "name": "Zachary Knighton",
+        "original_name": "Zachary Knighton",
+        "popularity": 1.6866,
+        "profile_path": "/dtpt1IvPKHaEQmakARofIGhrJOL.jpg",
+        "character": "Orville “Rick” Wright",
+        "credit_id": "5afcc992c3a3687ca4000d45",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1418811,
+        "known_for_department": "Acting",
+        "name": "Stephen Hill",
+        "original_name": "Stephen Hill",
+        "popularity": 1.1171,
+        "profile_path": "/fPvSPcKG6lzcWzWccp89L2dN17t.jpg",
+        "character": "Theodore “T.C.” Calvin",
+        "credit_id": "5afcc9820e0a262cab000e61",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52947,
+        "known_for_department": "Acting",
+        "name": "Tim Kang",
+        "original_name": "Tim Kang",
+        "popularity": 2.4149,
+        "profile_path": "/Ae7qMN6fJTut145qpeSn1NOu8yx.jpg",
+        "character": "Det. Gordon Katsumoto",
+        "credit_id": "5bb3152a0e0a263e05005c35",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 59401,
+        "known_for_department": "Acting",
+        "name": "Amy Hill",
+        "original_name": "Amy Hill",
+        "popularity": 2.7799,
+        "profile_path": "/hM3S5Ypoiq2mNHlEuDVVC1AFwZJ.jpg",
+        "character": "Teuila \"Kumu\" Tuileta",
+        "credit_id": "5cb9945492514151caf3a20b",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 227330,
+        "known_for_department": "Writing",
+        "name": "Glen A. Larson",
+        "original_name": "Glen A. Larson",
+        "popularity": 1.8595,
+        "profile_path": null,
+        "credit_id": "644247a3d35dea04adfae259",
+        "department": "Writing",
+        "job": "Original Series Creator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 160145,
+        "known_for_department": "Creator",
+        "name": "Donald P. Bellisario",
+        "original_name": "Donald P. Bellisario",
+        "popularity": 1.3274,
+        "profile_path": "/8xjZRZvWfn0aaZVHlYxRUtlqJIR.jpg",
+        "credit_id": "64424790b3f6f505269dde3e",
+        "department": "Writing",
+        "job": "Original Series Creator"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "hawaii",
+        "id": 1668
+      },
+      {
+        "name": "remake",
+        "id": 9714
+      },
+      {
+        "name": "private investigator",
+        "id": 11168
+      },
+      {
+        "name": "reboot",
+        "id": 161184
+      },
+      {
+        "name": "military veteran",
+        "id": 163077
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/7rqkQ2P0Q8QOXL0ITZctnzSx2Jl.jpg",
+        "id": 58832,
+        "name": "Naked and Afraid",
+        "original_name": "Naked and Afraid",
+        "overview": "İki yabancının vahşi doğada 21 gün boyunca çıplak olarak hayatta kalmaya çalıştığı realite şovu.",
+        "poster_path": "/plV0HqZs3nHW8PhaLzV18puxtP2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 40.2738,
+        "first_air_date": "2013-06-23",
+        "vote_average": 6.721,
+        "vote_count": 86,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ebbMIoxmeGRWWqIhSal0Iqyzoim.jpg",
+        "id": 81924,
+        "name": "Schooled",
+        "original_name": "Schooled",
+        "overview": "It’s 1990-something, and since Lainey still hasn’t achieved rock ‘n’ roll greatness, she returns to William Penn Academy as the new music teacher.",
+        "poster_path": "/v3lhBc4mxdctDpA6GWxl4QTk0Oh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 7.374,
+        "first_air_date": "2019-01-09",
+        "vote_average": 6.276,
+        "vote_count": 38,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lTaMwsUNAchf1IgILJmO1Id58x5.jpg",
+        "id": 69450,
+        "name": "Edgar Rice Burroughs' Tarzan and Jane",
+        "original_name": "Edgar Rice Burroughs' Tarzan and Jane",
+        "overview": "Saved from a plane crash and given supernatural powers, teen Tarzan joins forces with brave city girl Jane to protect his jungle home from threats.",
+        "poster_path": "/60IcVtP9l8tDjt9toY6Sfo5jZ25.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16
+        ],
+        "popularity": 4.2458,
+        "first_air_date": "2017-01-05",
+        "vote_average": 7.211,
+        "vote_count": 19,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gWERixe8sG7raQV8AosAefvpbvc.jpg",
+        "id": 84897,
+        "name": "Merz gegen Merz",
+        "original_name": "Merz gegen Merz",
+        "overview": "",
+        "poster_path": "/2nadVYEPBSUbV6WZpH6nmi4fmRO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 4.111,
+        "first_air_date": "2019-04-18",
+        "vote_average": 7.4,
+        "vote_count": 13,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "backdrop_path": "/84DahWkEniGYKmKVbvje57SrvFh.jpg",
+        "id": 2482,
+        "name": "Crime Traveller",
+        "original_name": "Crime Traveller",
+        "overview": "Detective Jeff Slade teams up with scientist Holly Turner, whose late father has created a time machine that can travel back several hours. Together they solve mysteries using the device. In the beginning of episodes (before they travel back in time), things happen because they DID travel back in time, and they are constantly working to avoid paradoxes. This approach to time-travel is unusual in sci-fi movies, and keeps the plot twisted.",
+        "poster_path": "/x927FrXE4bP22G8kKgngEyGsjaG.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 0.5885,
+        "first_air_date": "1997-03-01",
+        "vote_average": 7.4,
+        "vote_count": 5,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/aydVMJDWON46Fb1YiaFh8ChQD01.jpg",
+        "id": 88273,
+        "name": "Gold Rush: Dave Turin's Lost Mine",
+        "original_name": "Gold Rush: Dave Turin's Lost Mine",
+        "overview": "Dave Turin visits several disused gold mines around the Western United States and decides which mine to get up and running, turning it into a profitable, working mine.",
+        "poster_path": "/pwuI6fytScPeDnLpxFPLEZXJYYU.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 9.0662,
+        "first_air_date": "2019-04-06",
+        "vote_average": 8.2,
+        "vote_count": 14,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 115294,
+        "name": "Mystery Woman",
+        "original_name": "Mystery Woman",
+        "overview": "",
+        "poster_path": "/vAHbmYjSKrPyfxThir7XWD8WKvL.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [],
+        "popularity": 0.0352,
+        "first_air_date": "2003-08-31",
+        "vote_average": 4.0,
+        "vote_count": 2,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uhW0hHIAjePlNzVrBUJnPrBnCno.jpg",
+        "id": 66518,
+        "name": "Coupled",
+        "original_name": "Coupled",
+        "overview": "Coupled follows 12 single, smart and young professional women looking for love who will meet face-to-face with eligible single men against the beautiful backdrop of the Caribbean islands.",
+        "poster_path": "/64gRCgTqjGhRgm1LUwNRJoAy1Ov.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 2.0196,
+        "first_air_date": "2016-05-17",
+        "vote_average": 3.6,
+        "vote_count": 12,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/rCtCRUZoSHLWUDa5aPpOP8XWpx3.jpg",
+        "id": 86007,
+        "name": "Sins of the Fathers",
+        "original_name": "Odwróceni. Ojcowie i córki",
+        "overview": "A retired policeman and a former criminal must face their past when their daughters' lives are suddenly put at risk in this gangster thriller shining a light on the dark and dangerous activities of the Warsaw Mafia.",
+        "poster_path": "/qtEJLch7Vu9AMDhixK8nvN52Iui.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "pl",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 2.7445,
+        "first_air_date": "2019-02-25",
+        "vote_average": 6.7,
+        "vote_count": 9,
+        "origin_country": [
+          "PL"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 76118,
+        "name": "Laff Mobb's Laff Tracks",
+        "original_name": "Laff Mobb's Laff Tracks",
+        "overview": "DJ and comedian Cipha Sounds is flipping comedy on its head as the host of Laff Mobb's Laff Tracks, a new half-hour series where the next generation of comedians bring their hilarious personal stories to life with a playful reinvention of standup.",
+        "poster_path": "/6O9OaWDh1IMW5j4GOPaP6RTXszG.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 3.6005,
+        "first_air_date": "2018-01-03",
+        "vote_average": 8.7,
+        "vote_count": 3,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/8R7ns6fxsf4Kj0QeOpabxMPuVD7.jpg",
+        "id": 89183,
+        "name": "The 410",
+        "original_name": "The 410",
+        "overview": "Suri, a South Asian female and aspiring influencer, turns to a life of crime to bail her truck driver father out of prison.",
+        "poster_path": "/zPk9xF4nv022BEx00m0oL1j8KbA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 0.4624,
+        "first_air_date": "2019-05-02",
+        "vote_average": 6.7,
+        "vote_count": 3,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 95278,
+        "name": "Trust Morecambe & Wise",
+        "original_name": "Trust Morecambe & Wise",
+        "overview": "Sir Lenny Henry and his special guests celebrate Eric Morecambe and Ernie Wise, mixing rarely seen archive clips with some more familiar favourites.",
+        "poster_path": "/zWKiHaQYHTbZ8CZVjNfYZhLGwbt.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          35
+        ],
+        "popularity": 0.6226,
+        "first_air_date": "2019-11-08",
+        "vote_average": 7.8,
+        "vote_count": 2,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/zcm2LHVvoKc0eHO4u9NZeFVoZLS.jpg",
+        "id": 62168,
+        "name": "Homicide Hunter: Lt Joe Kenda",
+        "original_name": "Homicide Hunter: Lt Joe Kenda",
+        "overview": "A non-fiction investigative series of murder cases told through the personal experience of retired detective, Lieutenant Joe Kenda. Through re-enactments, discussions with investigation teams, and interviews with victims' families and other involved persons, the show highlights Kenda's successes with his 400 homicide case history and 92 percent solution rate.",
+        "poster_path": "/2zXF41inDpn0cYLJLCALB9JrBpp.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          80
+        ],
+        "popularity": 84.6811,
+        "first_air_date": "2011-10-25",
+        "vote_average": 8.9,
+        "vote_count": 46,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/iE0SftugzCFJ6eV3IznwbiJmGAU.jpg",
+        "id": 61517,
+        "name": "Our Girl",
+        "original_name": "Our Girl",
+        "overview": "Drama following the extraordinary adventures of female medics in the British Army.",
+        "poster_path": "/4RL153WVbce7i9oemTzzBiD6B1Q.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10768
+        ],
+        "popularity": 7.2782,
+        "first_air_date": "2014-09-21",
+        "vote_average": 7.7,
+        "vote_count": 48,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/6KlAnAzUj86UWcFGuTAOKmrAWKx.jpg",
+        "id": 125474,
+        "name": "Naomi",
+        "original_name": "Naomi",
+        "overview": "Follow a teen girl’s journey from her small northwestern town to the heights of the multiverse. When a supernatural event shakes her hometown to the core, Naomi sets out to uncover its origins, and what she discovers will challenge everything we believe about our heroes",
+        "poster_path": "/xwS6ggTI8hTkVTz1I4U6BZ48pgZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 4.4836,
+        "first_air_date": "2022-01-11",
+        "vote_average": 5.9,
+        "vote_count": 95,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4bzSEBjVb3QwPaJ39Rp2gmH9Bug.jpg",
+        "id": 3690,
+        "name": "House of Payne",
+        "original_name": "House of Payne",
+        "overview": "The show revolved around a multi-generational family living under one roof in Atlanta led by patriarch Curtis Payne and his wife Ella.",
+        "poster_path": "/2NdUdJnZnwI6skvm6OXWrK2D42U.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 66.7883,
+        "first_air_date": "2007-06-06",
+        "vote_average": 7.614,
+        "vote_count": 57,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zH4PXZsKbC2bW0KOdjVJE6Jifmm.jpg",
+        "id": 72743,
+        "name": "Burden of Truth",
+        "original_name": "Burden of Truth",
+        "overview": "A big city lawyer returns to her hometown to take the case of a group of girls suffering from a mysterious illness.",
+        "poster_path": "/2YLg5PQ27kgRp6uncqUhKHoXXUC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 12.64,
+        "first_air_date": "2018-01-10",
+        "vote_average": 7.4,
+        "vote_count": 100,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/3gRDZotvt7FqNyTU4bU9S2OCEPi.jpg",
+        "id": 66599,
+        "name": "Private Eyes",
+        "original_name": "Private Eyes",
+        "overview": "Ex-pro hockey player Matt Shade irrevocably changes his life when he teams up with fierce P.I. Angie Everett to form an unlikely investigative powerhouse.",
+        "poster_path": "/yPt9IuY2D8g6Lpwh8O8wCDixzt9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          35
+        ],
+        "popularity": 17.7921,
+        "first_air_date": "2016-05-26",
+        "vote_average": 7.3,
+        "vote_count": 137,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/hX3IxzUc6EUh0PG1mCpCfnuK7ul.jpg",
+        "id": 43078,
+        "name": "Bayan Fisher'la Cinayet Hikayeleri",
+        "original_name": "Miss Fisher's Murder Mysteries",
+        "overview": "Our lady sleuth sashays through the back lanes and jazz clubs of late 1920’s Melbourne, fighting injustice with her pearl handled pistol and her dagger sharp wit. Leaving a trail of admirers in her wake, our thoroughly modern heroine makes sure she enjoys every moment of her lucky life. Based on author Kerry Greenwood's Phryne Fisher Murder Mystery novels.",
+        "poster_path": "/AeHJVpoWWKtCyFIZ6LbLkAR52vz.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 20.6226,
+        "first_air_date": "2012-02-24",
+        "vote_average": 7.67,
+        "vote_count": 150,
+        "origin_country": [
+          "AU"
+        ]
+      },
+      {
+        "backdrop_path": "/bCxDv8mq7m1iMJjjODdxnWiTJwM.jpg",
+        "id": 82094,
+        "name": "Whiskey Cavalier",
+        "original_name": "Whiskey Cavalier",
+        "overview": "Sert ama hassas FBI süper ajanı Will Chase duygusal bir ayrılığın ardından sert ve göz korkutan CIA dedektifi Francesca'nın yanına atanır. Birlikte kusurlu, komik ama cesur bir casus ekibi oluştururlar. Arkadaşlığın, romantizmin ve iş ilişkisi politikasının zorlu yollarında dünyayı ve birbirlerini kurtarmaya başlarlar.",
+        "poster_path": "/vDw6JCPcMbGYaeMWz1AEcwdlGaA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35,
+          80
+        ],
+        "popularity": 4.4497,
+        "first_air_date": "2019-02-27",
+        "vote_average": 6.9,
+        "vote_count": 169,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

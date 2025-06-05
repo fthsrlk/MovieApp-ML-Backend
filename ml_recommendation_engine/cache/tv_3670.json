@@ -1,0 +1,1046 @@
+{
+  "adult": false,
+  "backdrop_path": "/7xQR6ixywZofrEHKfI1z6CWKFsC.jpg",
+  "created_by": [
+    {
+      "id": 1234490,
+      "credit_id": "5257544a760ee36aaa20015b",
+      "name": "John Langley",
+      "original_name": "John Langley",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1234495,
+      "credit_id": "578166739251417c280002fb",
+      "name": "Malcolm Barbour",
+      "original_name": "Malcolm Barbour",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30,
+    22
+  ],
+  "first_air_date": "1989-03-11",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Gerçeklik"
+    }
+  ],
+  "homepage": "http://www.cops.com/",
+  "id": 3670,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-04-18",
+  "last_episode_to_air": {
+    "id": 6207910,
+    "name": "11. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-05-02",
+    "episode_number": 11,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 37,
+    "show_id": 3670,
+    "still_path": null
+  },
+  "name": "Cops",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 19,
+      "logo_path": "/1DSpHrWyOORkL9N2QHX7Adt31mQ.png",
+      "name": "FOX",
+      "origin_country": "US"
+    },
+    {
+      "id": 55,
+      "logo_path": "/82MKSH7iM5LAGXFb0PDOclTWn5u.png",
+      "name": "Spike",
+      "origin_country": "US"
+    },
+    {
+      "id": 2076,
+      "logo_path": "/4knr4ozp2IQrA3SMQlLSYKcM3ML.png",
+      "name": "Paramount Network",
+      "origin_country": "US"
+    },
+    {
+      "id": 5259,
+      "logo_path": "/5RfkMW8pt2v991wS5wr7xFECEEr.png",
+      "name": "Fox Nation",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 1239,
+  "number_of_seasons": 37,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Cops",
+  "overview": "ABD'nin çeşitli bölgelerinden ve departmanlarından gerçek hayattaki kolluk kuvvetlerini takip edin, ancak eylemlerini yakalamak için kameralarla ve halkı hizmet etmek ve korumak için günlük görevlerini yerine getirerek hiçbir şey yapmayın.",
+  "popularity": 127.5855,
+  "poster_path": "/nUsdcwmoYP4DiZtJcAWkpxjRnay.jpg",
+  "production_companies": [
+    {
+      "id": 2435,
+      "logo_path": null,
+      "name": "Langley Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 85721,
+      "logo_path": "/21N5NeX4l90jcFjG29VBQGkJ6VY.png",
+      "name": "FOX Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 83762,
+      "logo_path": null,
+      "name": "Barbour/Langley Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 90376,
+      "logo_path": null,
+      "name": "Fox Television Stations Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1989-11-04",
+      "episode_count": 10,
+      "id": 11033,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/rjiqAnLQQXX0HCNTZ1cxNtgEn0O.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1989-03-11",
+      "episode_count": 16,
+      "id": 11010,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/3j07gmdWRUuy5ozmVRbtLh3gJuf.jpg",
+      "season_number": 1,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "1989-09-23",
+      "episode_count": 32,
+      "id": 11011,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/tGOoDNUcyqqq5zjuqENlZALgPhL.jpg",
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1990-09-15",
+      "episode_count": 42,
+      "id": 11012,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/fFOG55k0Pe9l2AzDU4a1xHNfGU6.jpg",
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1991-08-10",
+      "episode_count": 47,
+      "id": 11013,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/oiR89HkhR7dlJkLcUpDjnFyEKoC.jpg",
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1992-08-15",
+      "episode_count": 46,
+      "id": 11014,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/kKDrGRe5WtFzLQZzmCpoX2P4qfa.jpg",
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1993-08-07",
+      "episode_count": 53,
+      "id": 11015,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/1e4o1me679bcGsMq7g3v3Ia2xr3.jpg",
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1995-01-07",
+      "episode_count": 44,
+      "id": 11016,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/qinPU0DD65SLwGzsKeK9SITWMYt.jpg",
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1995-07-29",
+      "episode_count": 43,
+      "id": 11017,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/kGiTNNaf8jMr4yoyRk25oOJQTDc.jpg",
+      "season_number": 8,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1996-08-31",
+      "episode_count": 37,
+      "id": 11018,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/bDAeZhRZ8u5pmxrnGOxq4sO6VAZ.jpg",
+      "season_number": 9,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1997-10-25",
+      "episode_count": 36,
+      "id": 11019,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/yIsPMwb5HK6bfI00g1WWpPq0N9U.jpg",
+      "season_number": 10,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1998-12-19",
+      "episode_count": 36,
+      "id": 11020,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/gmwLUjFk8Mdfaslr9xOw4NxTUeV.jpg",
+      "season_number": 11,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1999-10-09",
+      "episode_count": 36,
+      "id": 11021,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/ei0orFR1LyWaxedIl5GzaSY1PLw.jpg",
+      "season_number": 12,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2000-12-02",
+      "episode_count": 40,
+      "id": 11022,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": "/j2ovOCwR2bITLZuiGjHcSYgQuYm.jpg",
+      "season_number": 13,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2002-04-06",
+      "episode_count": 38,
+      "id": 11023,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": "/mCjpJsOxja0bLB8GkoGoqmNrq1q.jpg",
+      "season_number": 14,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2002-05-04",
+      "episode_count": 38,
+      "id": 11024,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": "/fM6pYUYuucHv2BomLRzei0OAWWS.jpg",
+      "season_number": 15,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2003-04-26",
+      "episode_count": 41,
+      "id": 11025,
+      "name": "Sezon 16",
+      "overview": "",
+      "poster_path": "/iQr5DWAcFb4qUoFAqC5KMJsOQqg.jpg",
+      "season_number": 16,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2004-05-15",
+      "episode_count": 37,
+      "id": 11026,
+      "name": "Sezon 17",
+      "overview": "",
+      "poster_path": "/o29HzD3tf7wNEovjFJZf3NPzhGB.jpg",
+      "season_number": 17,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2005-09-10",
+      "episode_count": 36,
+      "id": 11027,
+      "name": "Sezon 18",
+      "overview": "",
+      "poster_path": "/pdMhYtCtqLQFgloiVihUFmz7TYl.jpg",
+      "season_number": 18,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2006-09-09",
+      "episode_count": 36,
+      "id": 11028,
+      "name": "Sezon 19",
+      "overview": "",
+      "poster_path": "/lDa0Ei0nFbIuYsGqVFYD1q9XCvv.jpg",
+      "season_number": 19,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2007-09-08",
+      "episode_count": 38,
+      "id": 11029,
+      "name": "Sezon 20",
+      "overview": "",
+      "poster_path": "/zThtszx6h7ebw5Z0bywWNgnBYM6.jpg",
+      "season_number": 20,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2008-09-06",
+      "episode_count": 36,
+      "id": 11030,
+      "name": "Sezon 21",
+      "overview": "",
+      "poster_path": "/aRJSjf1nzqv8j2S8STUqRoqOMsx.jpg",
+      "season_number": 21,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2009-09-12",
+      "episode_count": 36,
+      "id": 11031,
+      "name": "Sezon 22",
+      "overview": "",
+      "poster_path": "/6iStbJoGsiTwEpe4WLRGDh17F69.jpg",
+      "season_number": 22,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2010-09-11",
+      "episode_count": 22,
+      "id": 11032,
+      "name": "Sezon 23",
+      "overview": "",
+      "poster_path": "/3JSIN9Axe4JRHWiPr0bNxTtu990.jpg",
+      "season_number": 23,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-09-10",
+      "episode_count": 22,
+      "id": 11034,
+      "name": "Sezon 24",
+      "overview": "",
+      "poster_path": "/6ohR2NivGeeEIqGnfYe55WUy8CD.jpg",
+      "season_number": 24,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2012-12-15",
+      "episode_count": 16,
+      "id": 11035,
+      "name": "Sezon 25",
+      "overview": "",
+      "poster_path": "/zDQpF3gaAaw2FZOhZ3PnPayUyYP.jpg",
+      "season_number": 25,
+      "vote_average": 5.3
+    },
+    {
+      "air_date": "2013-09-14",
+      "episode_count": 22,
+      "id": 11036,
+      "name": "Sezon 26",
+      "overview": "",
+      "poster_path": "/uwHQ6ZhdVcFyQ070lXnmYmbde4V.jpg",
+      "season_number": 26,
+      "vote_average": 0.5
+    },
+    {
+      "air_date": "2014-07-12",
+      "episode_count": 34,
+      "id": 63635,
+      "name": "Sezon 27",
+      "overview": "",
+      "poster_path": "/xyUEqVpm9PS8cRpTsYgSMYoTGE9.jpg",
+      "season_number": 27,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2015-06-20",
+      "episode_count": 33,
+      "id": 68098,
+      "name": "Sezon 28",
+      "overview": "",
+      "poster_path": "/abrwgc9jBlPLHgjSQy8muC9ZicB.jpg",
+      "season_number": 28,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2016-06-04",
+      "episode_count": 33,
+      "id": 77559,
+      "name": "Sezon 29",
+      "overview": "",
+      "poster_path": "/QnyWZuMTiFejBVxFU29caDAv0y.jpg",
+      "season_number": 29,
+      "vote_average": 9.0
+    },
+    {
+      "air_date": "2017-06-17",
+      "episode_count": 33,
+      "id": 89649,
+      "name": "Sezon 30",
+      "overview": "",
+      "poster_path": "/aL9RC2J8xuSVunPlFDHPGrfEL6g.jpg",
+      "season_number": 30,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2018-06-05",
+      "episode_count": 33,
+      "id": 104770,
+      "name": "Sezon 31",
+      "overview": "",
+      "poster_path": "/5ttevwXnCCslkTjf1AdjDDFwukE.jpg",
+      "season_number": 31,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2019-06-05",
+      "episode_count": 33,
+      "id": 125457,
+      "name": "Sezon 32",
+      "overview": "",
+      "poster_path": "/ahIegokjP5VlXTrnUWTAbLOfhEF.jpg",
+      "season_number": 32,
+      "vote_average": 1.0
+    },
+    {
+      "air_date": "2021-10-01",
+      "episode_count": 33,
+      "id": 210809,
+      "name": "Sezon 33",
+      "overview": "",
+      "poster_path": "/3gcnRME1d7mxDkTK8q196L3Zj2P.jpg",
+      "season_number": 33,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2022-09-30",
+      "episode_count": 17,
+      "id": 313305,
+      "name": "Sezon 34",
+      "overview": "",
+      "poster_path": "/pABphjx5PviKTxhV4X3KXvGTptH.jpg",
+      "season_number": 34,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2023-04-07",
+      "episode_count": 33,
+      "id": 336335,
+      "name": "Sezon 35",
+      "overview": "",
+      "poster_path": "/iJOFazzBUZQO5MS4scGWvGz2SzJ.jpg",
+      "season_number": 35,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2024-04-05",
+      "episode_count": 21,
+      "id": 380324,
+      "name": "Sezon 36",
+      "overview": "",
+      "poster_path": "/effO9E9sJaHPq7vR3QCh7MAK0QE.jpg",
+      "season_number": 36,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2025-03-07",
+      "episode_count": 11,
+      "id": 445413,
+      "name": "Sezon 37",
+      "overview": "",
+      "poster_path": "/7Rno8UzOzImaJpPVd7GEy3Sgt9A.jpg",
+      "season_number": 37,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 6.637,
+  "vote_count": 172,
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5161287,
+        "known_for_department": "Production",
+        "name": "Arnie Weiss",
+        "original_name": "Arnie Weiss",
+        "popularity": 0.1855,
+        "profile_path": null,
+        "credit_id": "677b50b5a6def0111a74b32f",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5161289,
+        "known_for_department": "Production",
+        "name": "Angela Heller",
+        "original_name": "Angela Heller",
+        "popularity": 0.2091,
+        "profile_path": null,
+        "credit_id": "677b510938d26a2a6372d22f",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3136549,
+        "known_for_department": "Camera",
+        "name": "Tim Wilson",
+        "original_name": "Tim Wilson",
+        "popularity": 0.2257,
+        "profile_path": null,
+        "credit_id": "677b518315521f83d96707f3",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5161298,
+        "known_for_department": "Editing",
+        "name": "William T. Cole",
+        "original_name": "William T. Cole",
+        "popularity": 0.1707,
+        "profile_path": null,
+        "credit_id": "677b52acec51791dfe667763",
+        "department": "Editing",
+        "job": "Editorial Consultant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1473359,
+        "known_for_department": "Sound",
+        "name": "W. Michael Lewis",
+        "original_name": "W. Michael Lewis",
+        "popularity": 0.3744,
+        "profile_path": "/lp4DdntpqhjQDhurxsghVfA2l3Z.jpg",
+        "credit_id": "677b5438eca85bd508728d87",
+        "department": "Sound",
+        "job": "Music Score Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "police",
+        "id": 6149
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/xUXAPP4hHxUPEVUtKyVn3FVES2D.jpg",
+        "id": 1802,
+        "name": "America's Most Wanted",
+        "original_name": "America's Most Wanted",
+        "overview": "Presented by Walsh, the show profiles and assist law enforcement in the apprehension of fugitives wanted for numerous crimes, including murder, rape, kidnapping, child molestation, white-collar crime, organized crime, armed robbery, gang violence, and terrorism, and also many of whom are currently on the FBI Ten Most Wanted Fugitives list.",
+        "poster_path": "/7ICJgQPSkf7ppVBD15teVuEL9iD.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10763
+        ],
+        "popularity": 86.4622,
+        "first_air_date": "1988-02-07",
+        "vote_average": 7.905,
+        "vote_count": 21,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qAUZWIDZfz2r3wUc7j3gQXS5Is6.jpg",
+        "id": 87740,
+        "name": "Lost Gold of World War II",
+        "original_name": "Lost Gold of World War II",
+        "overview": "Legend has it that there is a treasure of immense value buried in the Philippine jungle - now a team of American experts, with the help of the only surviving witness, try to uncover the clues to solve the greatest mystery of WW2.",
+        "poster_path": "/3jsTTxP1S86RBSvgFhPvBEgYPb7.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 0.516,
+        "first_air_date": "2019-03-19",
+        "vote_average": 6.4,
+        "vote_count": 9,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uRhTOc2zVL95z3lJDVVSoUhVmar.jpg",
+        "id": 91751,
+        "name": "60 Days In: Narcoland",
+        "original_name": "60 Days In: Narcoland",
+        "overview": "Six participants go undercover in crucial areas along I-65 – one of the biggest drug trafficking corridors in the country, encompassing six counties in Kentucky and Indiana – for a first-hand look into how drug cartels have infiltrated America’s Heartland.",
+        "poster_path": "/gqSpbCNmv58KF1fUYscdZkQbSL0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          80,
+          10764
+        ],
+        "popularity": 0.6029,
+        "first_air_date": "2019-07-30",
+        "vote_average": 5.8,
+        "vote_count": 4,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/pfpqrI6W86RDSrP9IbcfyrKI6v5.jpg",
+        "id": 5222,
+        "name": "Judge Mathis",
+        "original_name": "Judge Mathis",
+        "overview": "Judge Mathis is an American arbitration-based reality court show presided over by retired Superior Court Judge of Michigan's 36th District Court, Greg Mathis. The syndicated series features Mathis adjudicating small claims disputes.",
+        "poster_path": "/gKvsz4J8Kk6YpXnD5L9LeNwH0tX.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 4.2,
+        "first_air_date": "",
+        "vote_average": 5.6,
+        "vote_count": 7,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4cge5JbyyLm3Fr8PA9fYkwG5E6W.jpg",
+        "id": 35086,
+        "name": "Alaska State Troopers",
+        "original_name": "Alaska State Troopers",
+        "overview": "They are the first line of defense on the last frontier, the roughly 400 state troopers who patrol the rugged and unforgiving terrain of America’s largest state — Alaska. One of the toughest law enforcement agencies in the nation, these officers often travel hundreds of miles in piercing subzero temperatures to uphold the law. Responding by land, air and sea — with backup sometimes days away — they face danger to protect the people and wildlife of Alaska.",
+        "poster_path": "/iwI0baUzUbT4k0EpZoY245lTk0s.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          80,
+          10764
+        ],
+        "popularity": 0.4546,
+        "first_air_date": "2009-10-14",
+        "vote_average": 7.8,
+        "vote_count": 11,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dxnEQOQgfoki1qZVxSOyIwG1WHO.jpg",
+        "id": 62317,
+        "name": "Botched",
+        "original_name": "Botched",
+        "overview": "In the multi-billion dollar  world of plastic surgery, beauty is in the eye of the beholder... or is it?  For some patients, their quest for ultimate perfection ends in  disastrous results.  World renowned doctors Paul Nassif and Terry  Dubrow — the best of the best and leaders in their field — will be  tasked with some of the most difficult operations of their careers when  they try to reverse the effects of horrendous plastic surgeries.\n ",
+        "poster_path": "/sBeKZ9kPCWbjX6zfVdHgeVFZDcw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 20.434,
+        "first_air_date": "2014-06-24",
+        "vote_average": 5.8,
+        "vote_count": 22,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7m0NrJWoIeaWoNI0307l5A5yGum.jpg",
+        "id": 44794,
+        "name": "Fred: The Show",
+        "original_name": "Fred: The Show",
+        "overview": "Fred is back again! And this time, he's here to stay. 'Cause now he's got his VERY. OWN.SHOW!!! For Fred Figglehorn, every day is a new adventure. And no adventure is complete without a mess of confuddling mix-ups and mayhem. Gahhh! Good thing he's got his pal Bertha by his side to help out when things get totally bonkers. Whether he's stuck babysitting Grandma or busy dodging his nemesis, Kevin, Fred's got a whole new bundle of blunders to share with everyone!",
+        "poster_path": "/tF1MUSRDTZzGmVc2UdKBTSTNP4O.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 5.0632,
+        "first_air_date": "2012-01-16",
+        "vote_average": 6.7,
+        "vote_count": 32,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/kS1g4XHw15tvnfWdzfPJKHC91z7.jpg",
+        "id": 5375,
+        "name": "Emergency!",
+        "original_name": "Emergency!",
+        "overview": "The crew of Los Angeles County Fire Department Station 51, particularly the paramedic team, and Rampart Hospital respond to emergencies in their operating area.",
+        "poster_path": "/or94yBr8bwDPYYY3n8OIu0Q32S3.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "popularity": 35.2936,
+        "first_air_date": "1972-01-22",
+        "vote_average": 7.8,
+        "vote_count": 44,
+        "origin_country": [
+          "US",
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/udUuVGjicRnuJjmT2Ux3kwiapqQ.jpg",
+        "id": 68430,
+        "name": "Live PD",
+        "original_name": "Live PD",
+        "overview": "Dash cams capture footage from urban and rural police forces while on the job. A live look inside the everyday calls of police officers across the nation.",
+        "poster_path": "/2I2KNf7jZhtkuVVTCqdIgGiNmlI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          80,
+          10764
+        ],
+        "popularity": 20.0652,
+        "first_air_date": "2016-10-28",
+        "vote_average": 7.6,
+        "vote_count": 38,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/mTqKKHK7aDV5pTXAoROC8HaJaLP.jpg",
+        "id": 45669,
+        "name": "Counting Cars",
+        "original_name": "Counting Cars",
+        "overview": "Danny “The Count” Koker and his team restore, customize and sell cars in a hurry, scrambling to keep their Las Vegas shop in the black. From classics to exotics, from hotrods to choppers, Danny and the crew of Count’s Kustoms will stop at nothing to find and flip the greatest rides of all time.",
+        "poster_path": "/hHVAwZVjTFqJQDo8n6pEVdqGMWX.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 31.4255,
+        "first_air_date": "2012-08-13",
+        "vote_average": 6.5,
+        "vote_count": 54,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4PBA7MUBEQTa50rpkW7DbxTnbFY.jpg",
+        "id": 1831,
+        "name": "Grand Designs",
+        "original_name": "Grand Designs",
+        "overview": "British television series which features unusual and often elaborate architectural homebuilding projects.",
+        "poster_path": "/4UiJCgR77N7cd8eJ4tolxhs8fGX.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 30.3253,
+        "first_air_date": "1999-04-29",
+        "vote_average": 7.1,
+        "vote_count": 50,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/3tun3JvnpLxTLDoNfoNRZNRXAeQ.jpg",
+        "id": 38360,
+        "name": "Love & Hip Hop New York",
+        "original_name": "Love & Hip Hop New York",
+        "overview": "When people think of the hip hop life, they think of the players - the men who shape the music and the blinged-out lifestyle that comes with success. The fact is the hip hop life is different for the women involved: the spouses, girlfriends or artists trying to define themselves in a world where men are still calling the shots.",
+        "poster_path": "/uaTsgKS7aTLkJptSchViKWJRz1h.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 31.5451,
+        "first_air_date": "2011-03-06",
+        "vote_average": 7.2,
+        "vote_count": 44,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/o76eZkTfIAtcGsN3MCVtKDfDTNf.jpg",
+        "id": 1786,
+        "name": "Perfect Strangers",
+        "original_name": "Perfect Strangers",
+        "overview": "The chronicles of the rocky coexistence of midwestern American Larry Appleton and his distant cousin from eastern Mediterranean Europe, Balki Bartokomous.",
+        "poster_path": "/wZ7RomWxcrdMwK63XzVeQGFK6Dy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 22.9695,
+        "first_air_date": "1986-03-25",
+        "vote_average": 6.673,
+        "vote_count": 98,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/esvu1XRoW7XbzDVkInUFbAYhLe4.jpg",
+        "id": 5146,
+        "name": "The First 48",
+        "original_name": "The First 48",
+        "overview": "The First 48 follows detectives from around the country during these first critical hours as they race against time to find the suspect. Gritty and fast-paced, it takes viewers behind the scenes of real-life investigations with unprecedented access to crime scenes, autopsies, forensic processing, and interrogations.",
+        "poster_path": "/i6bSut4XPepaJ5VC6oG303iGKQU.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          18,
+          80
+        ],
+        "popularity": 38.5022,
+        "first_air_date": "2004-06-03",
+        "vote_average": 7.9,
+        "vote_count": 95,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5pN8ouV9pWL5M7pSbz22IEXtNO8.jpg",
+        "id": 60603,
+        "name": "The Curse of Oak Island",
+        "original_name": "The Curse of Oak Island",
+        "overview": "Follow brothers Marty and Rick Lagina through their effort to find the speculated - and as of yet undiscovered - buried treasure believed to have been concealed through extraordinary means on Oak Island.",
+        "poster_path": "/gtkxUUmHDF31iDUOlxQqUXmiU71.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          10759,
+          10764,
+          99
+        ],
+        "popularity": 101.2924,
+        "first_air_date": "2014-01-05",
+        "vote_average": 7.4,
+        "vote_count": 142,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2b4EZgRDWk4vp0g2dZLcoMG2b7P.jpg",
+        "id": 1570,
+        "name": "The Adventures of Tintin",
+        "original_name": "The Adventures of Tintin",
+        "overview": "Travel with Tintin, the young and intrepid Belgian reporter, and his faithful dog Snowy as they take you from Tibet to the Moon, or from Egypt to the depths of the sea -- solving mysteries, pursuing truth and justice, and gambling with their lives.",
+        "poster_path": "/x269Sp8n4YOIATxm1y9cpXwj4Ah.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          16,
+          10759
+        ],
+        "popularity": 18.4304,
+        "first_air_date": "1991-10-02",
+        "vote_average": 7.942,
+        "vote_count": 336,
+        "origin_country": [
+          "CA",
+          "FR"
+        ]
+      },
+      {
+        "backdrop_path": "/pIPMPMEZErCxTvQG9HDt4AsnAfn.jpg",
+        "id": 4454,
+        "name": "Will & Grace",
+        "original_name": "Will & Grace",
+        "overview": "İki çok yakın arkadaş; Will gay bir avukat, Grace heteroseksüel bir iç mimar. Will ve Grace'in başlarından geçen birbirinden komik onlarca hikaye... Bu yetmezmiş gibi Willin kendisi gibi gay olan süslü arkadaşı Jack ve Gracein ayyaş iş arkadaşı Karen da bu ikiliye katılınca işler daha da karışır...",
+        "poster_path": "/kTkWxh0e4Lzmn19KWQxzMdKE4NC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 47.6171,
+        "first_air_date": "1998-09-21",
+        "vote_average": 6.825,
+        "vote_count": 504,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zVuWmf6oqB91OANUKWo0VqCLov4.jpg",
+        "id": 2530,
+        "name": "Mr. Bean: The Animated Series",
+        "original_name": "Mr. Bean: The Animated Series",
+        "overview": "The animated daily trials and tribulations of clueless yet clever loner Mr Bean (aided by his best friend Teddy of course!) as he stumbles from one mishap to the next, always finding complex solutions to the simplest of problems.",
+        "poster_path": "/1V2PSez4pNZ9a4Bbomm7KZiQJ44.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10762,
+          16,
+          35,
+          10751
+        ],
+        "popularity": 43.7929,
+        "first_air_date": "2002-01-05",
+        "vote_average": 6.801,
+        "vote_count": 417,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/mofoDq8K1tvhSKE00NrlLkS7Mrg.jpg",
+        "id": 709,
+        "name": "Robot Chicken",
+        "original_name": "Robot Chicken",
+        "overview": "Robot Chicken, yarı robot bir tavuktur. Bir araba tarafından ezildiğinde, Fritz Huhnmorder adında tamamen çılgın bir bilim adamı tarafından hayata döndürülür ve Fritz onu bir cyborg tavuğu yapar.",
+        "poster_path": "/lMZv3mJC9QRolgzflM3ajtB3o2U.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          16
+        ],
+        "popularity": 46.3096,
+        "first_air_date": "2005-02-20",
+        "vote_average": 7.634,
+        "vote_count": 505,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uinrziSwEmS6s8VvGBad5sed7bF.jpg",
+        "id": 1435,
+        "name": "The Good Wife",
+        "original_name": "The Good Wife",
+        "overview": "Bu etkileyici drama, seçkin bir politikacının karısıyken aldatılan Alicia Florrick’in yaşadıklarını konu alıyor. Kocası Peter Florrick’in başka bir kadınla, kamuya açık yerde seks yapması ve hapse düşmesi üzerine Alicia, en son 13 yıl önce girdiği mahkeme kapısından tekrar içeri adım atmaya karar veriyor. Bir zamanlar sınıf birincisiyken, evi ve ailesi için vazgeçtiği mesleğine geri dönüyor. Eski sınıf arkadaşı Will Gardner’ın Chicago’daki prestijli hukuk firmasında işe başlayan Alicia, kariyerini yeniden inşa etmek için zorlu yolları aşmak zorunda. Ama iyi bir anne ve eş olmaktan da vazgeçmeye hiç niyetli değil.",
+        "poster_path": "/lasNCd45fpPLirlA7QxkuopWro.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 68.6684,
+        "first_air_date": "2009-09-22",
+        "vote_average": 7.595,
+        "vote_count": 608,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

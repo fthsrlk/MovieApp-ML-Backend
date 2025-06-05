@@ -1,0 +1,980 @@
+{
+  "adult": false,
+  "backdrop_path": "/4uWvmON2pqDJtpPAsHMggdDFFrn.jpg",
+  "created_by": [
+    {
+      "id": 117443,
+      "credit_id": "5253851c19c2957940204dd0",
+      "name": "Dick Wolf",
+      "original_name": "Dick Wolf",
+      "gender": 2,
+      "profile_path": "/tRMEuYNVFjXYJ7gh1sGJSxq9Vwq.jpg"
+    }
+  ],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "1990-09-13",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Suç"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    }
+  ],
+  "homepage": "http://www.nbc.com/law-order",
+  "id": 549,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-05-01",
+  "last_episode_to_air": {
+    "id": 6122732,
+    "name": "21. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-05-08",
+    "episode_number": 21,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 24,
+    "show_id": 549,
+    "still_path": "/pMYaNdoRm4I6DvUhNAX91bB7goQ.jpg"
+  },
+  "name": "Law & Order",
+  "next_episode_to_air": {
+    "id": 6122733,
+    "name": "22. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-05-15",
+    "episode_number": 22,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 24,
+    "show_id": 549,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 523,
+  "number_of_seasons": 24,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Law & Order",
+  "overview": "Law &amp; Order, ABD kaynaklı bir mahkeme ve suç draması konulu bir televizyon dizisi. Dick Wolf tarafından yaratılan dizi 13 Eylül 1990 tarihinde ABD'nin NBC televizyon kanalında yayına başlamıştır. New York kentinde geçen dizi bir grup savcı ve polis görevlilerinin meslek yaşamlarını konu almaktadır.Dizinin büyük bir başarı kazanması bu diziden türeyen Law &amp; Order: Special Victims Unit, Law &amp; Order: Criminal Intent, Crime &amp; Punishment, Law &amp; Order: Trial by Jury gibi çok sayıda benzer dizilerin yaratılmasına neden olmuştur.Law &amp; Order 2008 yılı itibarıyla ABD televizyonlarında en uzun süre gösterimde kalan dizi durumundadır.",
+  "popularity": 152.8383,
+  "poster_path": "/6vFL8S6Cci8s7SHWXz60xOisGBC.jpg",
+  "production_companies": [
+    {
+      "id": 25545,
+      "logo_path": "/8Lqf0okunSPAwBBL08Ua1IRe1xi.png",
+      "name": "Wolf Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 26727,
+      "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 8301,
+      "logo_path": "/zrcVDabl14MNfPwxL8DC2IyR12t.png",
+      "name": "Universal Media Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "SG",
+      "name": "Singapore"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 7,
+      "id": 1684,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/vVUVEqs0KwplqHvv2GyCj2tpMSr.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1990-09-12",
+      "episode_count": 22,
+      "id": 1664,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/hGrkBU5p60zZj9bMByo9cegZfhl.jpg",
+      "season_number": 1,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "1991-09-16",
+      "episode_count": 22,
+      "id": 1665,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/nykyEGoMsVPnyrnoUL0g93YJPQZ.jpg",
+      "season_number": 2,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "1992-09-22",
+      "episode_count": 22,
+      "id": 1666,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/emKji2D1tLAJsFad84ENA4PufI5.jpg",
+      "season_number": 3,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "1993-09-14",
+      "episode_count": 22,
+      "id": 1667,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/fiSP98l9G7zjC0sBWwQ02Nmhpub.jpg",
+      "season_number": 4,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "1994-09-20",
+      "episode_count": 23,
+      "id": 1668,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/v8yqfobOp6jSDomgcOnotfsGM2i.jpg",
+      "season_number": 5,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "1995-09-19",
+      "episode_count": 23,
+      "id": 1669,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/5GaJYO3BXCUaHKXr9e7wC1IARwo.jpg",
+      "season_number": 6,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "1996-09-17",
+      "episode_count": 23,
+      "id": 1671,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/mEGBAiPkZcp4GgPv7CQmFhOEWrK.jpg",
+      "season_number": 7,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "1997-09-23",
+      "episode_count": 24,
+      "id": 1670,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/caieRmySO32CyyoPydhxGh7iN33.jpg",
+      "season_number": 8,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "1998-09-22",
+      "episode_count": 24,
+      "id": 1672,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/OuntFFHJqftivArTHjnFu1jSPM.jpg",
+      "season_number": 9,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "1999-09-21",
+      "episode_count": 24,
+      "id": 1673,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/fnYm6dcs1bmYvl3afnGxofsVgyw.jpg",
+      "season_number": 10,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2000-10-17",
+      "episode_count": 24,
+      "id": 1675,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/u5MyTy53EWtnsMQewECGfNDywme.jpg",
+      "season_number": 11,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2001-09-25",
+      "episode_count": 24,
+      "id": 1674,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/xAazzYBfFquWWqes5dozpQ0x4jW.jpg",
+      "season_number": 12,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2002-10-01",
+      "episode_count": 24,
+      "id": 1676,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": "/2DzgIJzKVY9OfYxRMJjJLIZRhfi.jpg",
+      "season_number": 13,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2003-09-23",
+      "episode_count": 24,
+      "id": 1677,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": "/26ByCQKroHuBs7ZgbkwHTsHvU77.jpg",
+      "season_number": 14,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2004-09-21",
+      "episode_count": 24,
+      "id": 1678,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": "/z07aBZ5euhdhl0hyzWhwU1mGsrN.jpg",
+      "season_number": 15,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2005-09-20",
+      "episode_count": 22,
+      "id": 1680,
+      "name": "Sezon 16",
+      "overview": "",
+      "poster_path": "/vo1hHZ1Bpt7XOYDqab7rqw5VTZL.jpg",
+      "season_number": 16,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2006-09-21",
+      "episode_count": 22,
+      "id": 1679,
+      "name": "Sezon 17",
+      "overview": "",
+      "poster_path": "/zjSZrjqz9f3n6XoPYpaIgzwDQT3.jpg",
+      "season_number": 17,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2008-01-01",
+      "episode_count": 18,
+      "id": 1682,
+      "name": "Sezon 18",
+      "overview": "",
+      "poster_path": "/q0nVi8xzk7DHpeFnQ678f8asYxC.jpg",
+      "season_number": 18,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2008-11-04",
+      "episode_count": 22,
+      "id": 1681,
+      "name": "Sezon 19",
+      "overview": "",
+      "poster_path": "/fIIoj3EzsHcgF9Yd0ISWKinmLX8.jpg",
+      "season_number": 19,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "2009-09-24",
+      "episode_count": 23,
+      "id": 1683,
+      "name": "Sezon 20",
+      "overview": "",
+      "poster_path": "/yoISWagCsb16Hnoi16Ot1nur2FV.jpg",
+      "season_number": 20,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2022-02-23",
+      "episode_count": 10,
+      "id": 219379,
+      "name": "Sezon 21",
+      "overview": "New York bölge savcılığına bağlı çalışan cinayet dedektifleri ve savcılar yeniden görev başında! Final sezonu 2010'da yayınlanan \"Law & Order\", Emmy ve Altın Küre ödüllü Sam Waterston'ın yanı sıra Anthony Anderson, Jeffrey Donovan, Hugh Dancy gibi isimlerin rol aldığı 2021 versiyonuyla dönüyor.",
+      "poster_path": "/l7qr5Q5iJXeja9iDmdXagoUZ0Vm.jpg",
+      "season_number": 21,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2022-09-22",
+      "episode_count": 22,
+      "id": 299108,
+      "name": "Sezon 22",
+      "overview": "Emmy ve Altın Küre ödüllü Sam Waterston'ın kadrosunda yer aldığı \"Law & Order\" yeni sezonuyla aksiyon ve heyecana devam ediyor. Bu sezon New York bölge savcılığına bağlı çalışan cinayet dedektiflerine yeni bir üye daha katılıyor. Mehcad Brooks, dedektif Jalen Shaw rolüyle sizlerle.",
+      "poster_path": "/77OPlbsvX3pzoFbyfpcE3GXMCod.jpg",
+      "season_number": 22,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2024-01-17",
+      "episode_count": 13,
+      "id": 366617,
+      "name": "Sezon 23",
+      "overview": "New York'un en başarılı dedektifleri ve savcıları, şehri daha güvenli bir yer haline getirmek için yeniden görev başında! Yaratıcılığını Dick Wolf’un üstlendiği, tüm dünyada ilgiyle izlenen Emmy ödüllü dizide ekipler; suçluları yakalayıp adalete teslim etmek için tüm ipuçlarını titizlikle ele alıyor.",
+      "poster_path": "/m9zTQr4TYS98UFSiA1k0mMfECPe.jpg",
+      "season_number": 23,
+      "vote_average": 8.5
+    },
+    {
+      "air_date": "2024-10-02",
+      "episode_count": 22,
+      "id": 401571,
+      "name": "Sezon 24",
+      "overview": "",
+      "poster_path": "/6vFL8S6Cci8s7SHWXz60xOisGBC.jpg",
+      "season_number": 24,
+      "vote_average": 8.4
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.4,
+  "vote_count": 615,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51684,
+        "known_for_department": "Acting",
+        "name": "Mehcad Brooks",
+        "original_name": "Mehcad Brooks",
+        "popularity": 2.6442,
+        "profile_path": "/d9U9IPh4PvYXQxA6QCQZyetoRmM.jpg",
+        "character": "Jalen Shaw",
+        "credit_id": "6306ae870398ab007a289644",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81316,
+        "known_for_department": "Acting",
+        "name": "Reid Scott",
+        "original_name": "Reid Scott",
+        "popularity": 2.2857,
+        "profile_path": "/kBAeDUDA7XJRXFLGNALlpE5d3lA.jpg",
+        "character": "Vincent Riley",
+        "credit_id": "659f035c0f526500eeb36899",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 16307,
+        "known_for_department": "Acting",
+        "name": "Maura Tierney",
+        "original_name": "Maura Tierney",
+        "popularity": 3.4632,
+        "profile_path": "/4BCrwdHdC4iRSDimvkoYaXg2qki.jpg",
+        "character": "Jessica Brady",
+        "credit_id": "66e4ad4948089a189f6cdc24",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3417,
+        "known_for_department": "Acting",
+        "name": "Tony Goldwyn",
+        "original_name": "Tony Goldwyn",
+        "popularity": 3.535,
+        "profile_path": "/ptm8SG4MYIMn0hnDl2YJ70Dwal5.jpg",
+        "character": "Nicholas Baxter",
+        "credit_id": "65d94ad2609750017da5f1c0",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12791,
+        "known_for_department": "Acting",
+        "name": "Hugh Dancy",
+        "original_name": "Hugh Dancy",
+        "popularity": 3.5903,
+        "profile_path": "/zFroAbbLgP8R5rjSRmZc30gk3Q7.jpg",
+        "character": "Nolan Price",
+        "credit_id": "619d4beb03bf840061ffb2e8",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1639904,
+        "known_for_department": "Acting",
+        "name": "Odelya Halevi",
+        "original_name": "Odelya Halevi",
+        "popularity": 0.5408,
+        "profile_path": "/26jv3dcS5Us8Ut13Tu9PmvT7uPh.jpg",
+        "character": "Samantha Maroun",
+        "credit_id": "61ba8db144a4240089420245",
+        "order": 31
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 933119,
+        "known_for_department": "Production",
+        "name": "William M. Finkelstein",
+        "original_name": "William M. Finkelstein",
+        "popularity": 0.8365,
+        "profile_path": "/xmYGSzzQcD7MX2OPcqlTLKCIQ7I.jpg",
+        "credit_id": "5253851d19c295794020500c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117443,
+        "known_for_department": "Creator",
+        "name": "Dick Wolf",
+        "original_name": "Dick Wolf",
+        "popularity": 2.1947,
+        "profile_path": "/tRMEuYNVFjXYJ7gh1sGJSxq9Vwq.jpg",
+        "credit_id": "5253851c19c2957940204de8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 169061,
+        "known_for_department": "Writing",
+        "name": "David Shore",
+        "original_name": "David Shore",
+        "popularity": 1.2495,
+        "profile_path": "/5xVWN3KCGtGjGkEIrHqHrx8UikG.jpg",
+        "credit_id": "5253851d19c2957940204efa",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6448,
+        "known_for_department": "Directing",
+        "name": "Arthur Penn",
+        "original_name": "Arthur Penn",
+        "popularity": 1.8691,
+        "profile_path": "/vHznIw0bSUwRQ2OjyDQDPWffmaM.jpg",
+        "credit_id": "5253852519c29579402054ee",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "new york city",
+        "id": 242
+      },
+      {
+        "name": "police",
+        "id": 6149
+      },
+      {
+        "name": "lawyer",
+        "id": 10909
+      },
+      {
+        "name": "homicide detective",
+        "id": 180668
+      },
+      {
+        "name": "crime investigation",
+        "id": 189402
+      },
+      {
+        "name": "criminal law",
+        "id": 210604
+      },
+      {
+        "name": "exhilarated",
+        "id": 325812
+      },
+      {
+        "name": "melodramatic",
+        "id": 325835
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/bYG7fGOVI5U33QXEqXk9ZYiHx0y.jpg",
+        "id": 4601,
+        "name": "Law & Order: Criminal Intent",
+        "original_name": "Law & Order: Criminal Intent",
+        "overview": "The third installment of the “Law & Order” franchise takes viewers deep into the minds of its criminals while following the intense psychological approaches the Major Case Squad uses to solve its crimes.",
+        "poster_path": "/zgBg8gTCELQg73awE7qAuV06c4Z.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 125.2125,
+        "first_air_date": "2001-09-30",
+        "vote_average": 7.6,
+        "vote_count": 349,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/onwny8s0VTTN7te9TJnItgvyWHy.jpg",
+        "id": 3902,
+        "name": "Shaun the Sheep",
+        "original_name": "Shaun the Sheep",
+        "overview": "Shaun the Sheep thinks and acts like a person in a barnyard, which usually gets him into trouble. The farmer's sheepdog, Bitzer, tries to keep Shaun and his friends out of trouble. The farmer is oblivious to the humanlike features of his flock, who are like one big, happy family.",
+        "poster_path": "/z2gPfTQd3I0JLWOAEdKYMQRLoun.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10762
+        ],
+        "popularity": 39.8578,
+        "first_air_date": "2007-03-05",
+        "vote_average": 7.68,
+        "vote_count": 244,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/wHaNXo7V8ZORngvvaQ4i84vze25.jpg",
+        "id": 4415,
+        "name": "In Living Color",
+        "original_name": "In Living Color",
+        "overview": "In Living Color is an American sketch comedy television series that originally ran on the Fox Network from April 15, 1990, to May 19, 1994. Brothers Keenen and Damon Wayans created, wrote and starred in the program. The show was produced by Ivory Way Productions in association with 20th Century Fox Television and was taped before a live studio audience at stage 7 at the Fox Television Center on Sunset Boulevard in Hollywood, California. The title of the series was inspired by the NBC announcement of broadcasts being presented \"in living color\" during the 1950s and 1960s, prior to mainstream color television. It also refers to the fact that most of the show's cast were black, unlike other sketch comedy shows such as Saturday Night Live whose casts are usually mostly white.",
+        "poster_path": "/vr4bfbEvkAN4VreDwG9dyEOf4x4.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 43.3099,
+        "first_air_date": "1990-04-15",
+        "vote_average": 7.627,
+        "vote_count": 118,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/raTLTdAluxHod8Zj5h5OtIuVoVC.jpg",
+        "id": 31677,
+        "name": "30 for 30",
+        "original_name": "30 for 30",
+        "overview": "30 for 30 is the title for a series of documentary films airing on ESPN, its sister networks, and online highlighting interesting people and events in sports history. This currently includes four \"volumes\" of 30 episodes each, a 13-episode series under the ESPN Films Presents title in 2011–2012, and a series of 30 for 30 Shorts shown through the ESPN.com website. The series has also expanded to include Soccer Stories, which aired in advance of the 2014 FIFA World Cup, and audio podcasts.  This entry refers to the main Volumes of the series presented by ESPN",
+        "poster_path": "/g1CdZEUcnVYypLOp8cfb7W9mSp2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 37.5652,
+        "first_air_date": "2009-10-06",
+        "vote_average": 7.41,
+        "vote_count": 39,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/hoe6Kfn2UZ7EEyT7rLF6zO2HSk9.jpg",
+        "id": 732,
+        "name": "L.A. Law",
+        "original_name": "L.A. Law",
+        "overview": "L.A. Law is an American television legal drama series that ran for eight seasons on NBC from September 15, 1986, to May 19, 1994.\n\nCreated by Steven Bochco and Terry Louise Fisher, it contained many of Bochco's trademark features including a large number of parallel storylines, social drama and off-the-wall humor. It reflected the social and cultural ideologies of the 1980s and early 1990s, and many of the cases featured on the show dealt with hot-topic issues such as abortion, racism, gay rights, homophobia, sexual harassment, AIDS, and domestic violence. The series often also reflected social tensions between the wealthy senior lawyer protagonists and their less well-paid junior staff.\n\nThe show was popular with audiences and critics, and won 15 Emmy Awards throughout its run, four of which were for Outstanding Drama Series.",
+        "poster_path": "/hs1TBk6KlPBlnb7ybpqgK6IzcCx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10768
+        ],
+        "popularity": 51.7771,
+        "first_air_date": "1986-09-15",
+        "vote_average": 7.1,
+        "vote_count": 71,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lv6eD8pkYhhxXlPN0nB7DBY9EIH.jpg",
+        "id": 63891,
+        "name": "Oyuncu",
+        "original_name": "The Player",
+        "overview": "An action-packed Las Vegas thriller about a former military operative turned security expert who is drawn into a high-stakes game where an organization of wealthy individuals gamble on his ability to stop some of the biggest crimes imaginable from playing out. Can he take them down from the inside and get revenge for the death of his wife, or is it true what they say: the House always wins.",
+        "poster_path": "/53d9irSbFJGramziasFjByOcDZX.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          80
+        ],
+        "popularity": 3.5713,
+        "first_air_date": "2015-09-24",
+        "vote_average": 6.185,
+        "vote_count": 84,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vumzdLl5sZoShYTE4SnQSbzninX.jpg",
+        "id": 32755,
+        "name": "The Chicago Code",
+        "original_name": "The Chicago Code",
+        "overview": "The series follows officers of the Chicago Police Department as they fight crime on the streets and try to expose political corruption within the city. ",
+        "poster_path": "/wVSJ9BcdvFeMbrr5brC7XAhfxQb.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 4.5048,
+        "first_air_date": "2011-02-07",
+        "vote_average": 7.5,
+        "vote_count": 58,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5qNlwCIPJm4RkO3MnxfPnnwB310.jpg",
+        "id": 21728,
+        "name": "The Alfred Hitchcock Hour",
+        "original_name": "The Alfred Hitchcock Hour",
+        "overview": "A continuation of the anthology series “Alfred Hitchcock Presents”, hosted by the master of suspense and featuring thrillers and mysteries.",
+        "poster_path": "/6bnJU1YmobWBNokjLruUsZ6cykC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          9648,
+          18
+        ],
+        "popularity": 31.9989,
+        "first_air_date": "1962-09-20",
+        "vote_average": 7.843,
+        "vote_count": 70,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vhXzGGm8HJ42YIsJC2Uz16nzcq6.jpg",
+        "id": 651,
+        "name": "60 Minutes",
+        "original_name": "60 Minutes",
+        "overview": "America's popular television News magazine in which an ever changing team of CBS News correspondents contribute segments ranging from hard news coverage to politics to lifestyle and pop culture.",
+        "poster_path": "/qDSKxeHoN9pvVChXXc2YZN4KwBJ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10763
+        ],
+        "popularity": 115.6048,
+        "first_air_date": "1968-09-24",
+        "vote_average": 6.604,
+        "vote_count": 72,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/kS1g4XHw15tvnfWdzfPJKHC91z7.jpg",
+        "id": 5375,
+        "name": "Emergency!",
+        "original_name": "Emergency!",
+        "overview": "The crew of Los Angeles County Fire Department Station 51, particularly the paramedic team, and Rampart Hospital respond to emergencies in their operating area.",
+        "poster_path": "/or94yBr8bwDPYYY3n8OIu0Q32S3.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "popularity": 35.2936,
+        "first_air_date": "1972-01-22",
+        "vote_average": 7.8,
+        "vote_count": 44,
+        "origin_country": [
+          "US",
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/h5U14VSqv8Q8OZggY9TqYerzQNF.jpg",
+        "id": 1757,
+        "name": "Men in Trees",
+        "original_name": "Men in Trees",
+        "overview": "Relationship coach Marin Frist knows what to look for, what to avoid and what will make her happy. As the many fans of her two bestselling books could tell you, we're all in charge of our own happiness. But like many people full of advice, she fails to apply it to herself. On her way to a speaking engagement in Alaska, she learns that her fiancé has cheated on her. Slapped in the face with personal failure, a snowstorm then leaves her stuck in a small town full of the one thing she really doesn't need—available men.",
+        "poster_path": "/pJd1inZFj272LDh9ZdrKA2fpyAU.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 3.8433,
+        "first_air_date": "2006-09-12",
+        "vote_average": 6.9,
+        "vote_count": 35,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ekG0gDZZ1ghIk3zPRspOnmRXTi7.jpg",
+        "id": 16591,
+        "name": "Galapagos",
+        "original_name": "Galapagos",
+        "overview": "The history of these beautiful Islands from their creation as uprising lava to their being studied by Darwin to their modern day inhabitants.",
+        "poster_path": "/8CTkXqpdKmQ34dPPKfUH45AYzFt.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 1.7968,
+        "first_air_date": "2006-09-29",
+        "vote_average": 7.5,
+        "vote_count": 26,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/6SqOvbOrhNDui4ZpYYGYUMnk877.jpg",
+        "id": 4040,
+        "name": "New York Undercover",
+        "original_name": "New York Undercover",
+        "overview": "New York Undercover is an American police drama The series stars Detective J.C. Williams and Detective Eddie Torres, two undercover detectives in New York City's Fourth Precinct who were assigned to investigate various crimes and gang-related cases.",
+        "poster_path": "/14dtuuJXd3drJZISX4FGbcfOPOv.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 28.2396,
+        "first_air_date": "1994-09-08",
+        "vote_average": 7.1,
+        "vote_count": 34,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/iXPZWF2r8Jm06T1HD2frOsAakVv.jpg",
+        "id": 2813,
+        "name": "Mannix",
+        "original_name": "Mannix",
+        "overview": "Mannix is an American television detective series that ran from 1967 through 1975 on CBS. Created by Richard Levinson and William Link and developed by executive producer Bruce Geller, the title character, Joe Mannix, is a private investigator. He is played by Mike Connors. Mannix was the last series produced by Desilu Productions.",
+        "poster_path": "/sEqRn4uIFoxuDKMOL9Ufxq2OHd0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          80,
+          9648,
+          18
+        ],
+        "popularity": 24.8402,
+        "first_air_date": "1967-09-16",
+        "vote_average": 6.7,
+        "vote_count": 52,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/bNLKTs9SUu812z4BoPUlMM1qBn6.jpg",
+        "id": 1593,
+        "name": "Joan of Arcadia",
+        "original_name": "Joan of Arcadia",
+        "overview": "Joan Girardi has begun acting a little strange since her family moved to the city of Arcadia. No one knows that various people keep introducing themselves as God, and then giving the teenager specific directions to do things. Unsure of what God wants, and if she's even sane, Joan tentatively begins to follow God's cryptic directives, all the while trying to retain a \"normal\" teen-aged existence.",
+        "poster_path": "/AdSIHbGVuHGrdZs5BXajiCwep75.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          9648,
+          18
+        ],
+        "popularity": 14.1251,
+        "first_air_date": "2003-09-26",
+        "vote_average": 7.2,
+        "vote_count": 78,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/6WqWU6fHQUp5eiBjy4SqaoTu7lv.jpg",
+        "id": 65686,
+        "name": "The Secret Life of the Zoo",
+        "original_name": "The Secret Life of the Zoo",
+        "overview": "Chester Zoo is the most popular zoo in Britain. This observational documentary series uses micro-rig camera technology to capture, in incredible detail, the remarkable behaviour of the animals there.",
+        "poster_path": "/8iy9sFWx9WBXHTVffr9TuaYHbxf.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          10764
+        ],
+        "popularity": 27.1868,
+        "first_air_date": "2016-02-02",
+        "vote_average": 6.2,
+        "vote_count": 13,
+        "origin_country": [
+          "US",
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/hPrelM0rXhDddEscOLmXi3gIqPW.jpg",
+        "id": 17227,
+        "name": "Sydney",
+        "original_name": "Sydney",
+        "overview": "Sydney is an American sitcom, starring Valerie Bertinelli, Matthew Perry and Craig Bierko, that aired on CBS in 1990. ",
+        "poster_path": "/orfymKQwdOWfV9cLFg8gzg0dcFI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 1.4213,
+        "first_air_date": "1990-03-12",
+        "vote_average": 7.0,
+        "vote_count": 4,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4W2sH4CXzJ98ScuLGRij1KakzSv.jpg",
+        "id": 230525,
+        "name": "Unpredictable Family",
+        "original_name": "우당탕탕 패밀리",
+        "overview": "A romantic family drama about a divorced couple who broke up 30 years ago out of hate, reuniting as in-laws through their children and overcoming long overdue conflicts and enmity.",
+        "poster_path": "/goMzJ6rxTndGki2pKpyAKuKNXHY.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          10751,
+          35
+        ],
+        "popularity": 14.3389,
+        "first_air_date": "2023-09-18",
+        "vote_average": 6.7,
+        "vote_count": 6,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/uVj28dZ3uG8n9CRR31oMxGrcIEy.jpg",
+        "id": 2984,
+        "name": "Neon Rider",
+        "original_name": "Neon Rider",
+        "overview": "Neon Rider is a Canadian drama television series, the show was about the titular character, a man named Michael Terry who quits his job as a therapist to become a mentor for troubled kids which he brings to his ranch, to teach them to lead a better life.",
+        "poster_path": "/qrxqQ9ka0yCJKmftyW1F8z7e2YC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 7.7592,
+        "first_air_date": "1989-09-15",
+        "vote_average": 7.3,
+        "vote_count": 3,
+        "origin_country": [
+          "CA"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

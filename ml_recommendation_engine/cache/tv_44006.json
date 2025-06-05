@@ -1,0 +1,1255 @@
+{
+  "adult": false,
+  "backdrop_path": "/rLSe8Qps7A0bwUg6h5CttlHpcKp.jpg",
+  "created_by": [
+    {
+      "id": 7865,
+      "credit_id": "54435d7ac3a3683df7003f44",
+      "name": "Michael Brandt",
+      "original_name": "Michael Brandt",
+      "gender": 2,
+      "profile_path": "/13p3xvGWhCbSNgv9S2DiBcPnoWQ.jpg"
+    },
+    {
+      "id": 8161,
+      "credit_id": "54435d6ec3a3683df2004048",
+      "name": "Derek Haas",
+      "original_name": "Derek Haas",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "2012-10-10",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Dram"
+    }
+  ],
+  "homepage": "http://www.nbc.com/chicago-fire",
+  "id": 44006,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-04-23",
+  "last_episode_to_air": {
+    "id": 6108926,
+    "name": "20. Bölüm",
+    "overview": "",
+    "vote_average": 8.0,
+    "vote_count": 1,
+    "air_date": "2025-05-07",
+    "episode_number": 20,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 13,
+    "show_id": 44006,
+    "still_path": "/yXKZnplL4ocwJQ77yoPp6m1Zmfs.jpg"
+  },
+  "name": "Chicago Fire",
+  "next_episode_to_air": {
+    "id": 6108934,
+    "name": "21. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-05-14",
+    "episode_number": 21,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 13,
+    "show_id": 44006,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 274,
+  "number_of_seasons": 13,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Chicago Fire",
+  "overview": "Amerika’nın kahramanları; herkes diğer tarafa koşarken düşünmeden tehlikenin içine giren cesur adamlar ve kadınlar. Ancak işin büyük sorumlulukları kişisel bir özveri de gerektiriyor. Büyük şöhretler ve büyük egolar işi başarma ve anlık kararlar verme baskısıyla birleşince ekip üyelerini karşı karşıya getirebiliyor. İçlerinden birinin başına trajik bir olay gelir ve herkes birbirini suçlamaya başlar. Bir boşanmanın eşiğinde olan Matthew Casey (Jesse Spencer, “House M.D.”) işine devam etmeye çalışır ancak Kurtarma Bölüğünün küstah Kelly Severide’ı ile (Taylor Kinney, “The Vampire Diaries”) çatışmaya da devam eder. İkisi de hayatını kaybeden ekip üyeleri için birbirini suçlamaktadır. Ancak acil bir durum gelip çattığında, farklılıklarını ve çatışmalarını bir kenara bırakıp birbirleri için her şeylerini feda edebilecek noktaya gelirler. “Chicago Fire” Amerika’nın en asil mesleklerinden birinin iç yüzünü detaylı bir şekilde gözler önüne seriyor.",
+  "popularity": 91.8582,
+  "poster_path": "/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg",
+  "production_companies": [
+    {
+      "id": 26727,
+      "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 25545,
+      "logo_path": "/8Lqf0okunSPAwBBL08Ua1IRe1xi.png",
+      "name": "Wolf Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-02-11",
+      "episode_count": 1,
+      "id": 203963,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2012-10-10",
+      "episode_count": 24,
+      "id": 53207,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/fTVZTV41lI9EFPTEjwRBmierHUE.jpg",
+      "season_number": 1,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2013-09-24",
+      "episode_count": 22,
+      "id": 53209,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/wqsi6oKOc8hGA8153pJEM5Pc9jQ.jpg",
+      "season_number": 2,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2014-09-23",
+      "episode_count": 23,
+      "id": 62049,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/28WoFa8Fqc2g8kAWGTCoe7xhfEI.jpg",
+      "season_number": 3,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2015-10-13",
+      "episode_count": 23,
+      "id": 71116,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/xiK4j8nYKn1J6XF9BQTPMnnw9u3.jpg",
+      "season_number": 4,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2016-10-11",
+      "episode_count": 22,
+      "id": 79977,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/mBnkMUXCNpHbMS3cVAxxduzK8QU.jpg",
+      "season_number": 5,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2017-09-28",
+      "episode_count": 23,
+      "id": 91758,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/cGnO7EgUtA0iCChGRp7nmV4gCwv.jpg",
+      "season_number": 6,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2018-09-26",
+      "episode_count": 22,
+      "id": 105455,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/pvM5Jjq8naDLLWe1Q3y7E5kGq7X.jpg",
+      "season_number": 7,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2019-09-25",
+      "episode_count": 20,
+      "id": 126164,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/ayxFXKJ5P2C3giEr9Kr6SbrdnwR.jpg",
+      "season_number": 8,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2020-11-11",
+      "episode_count": 16,
+      "id": 160633,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/6AccYL0eb7uzHn98IKaNjvJbyuA.jpg",
+      "season_number": 9,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2021-09-22",
+      "episode_count": 22,
+      "id": 202463,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/yrV8eSwhCkMAJVZUK65PXTfYOqq.jpg",
+      "season_number": 10,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2022-09-21",
+      "episode_count": 22,
+      "id": 299104,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/iiI1YU8akLYWdWuX1qHuMYPvSHC.jpg",
+      "season_number": 11,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2024-01-17",
+      "episode_count": 13,
+      "id": 366615,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/2yaeYNplMuLGNjBigMFsek7UZmq.jpg",
+      "season_number": 12,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2024-09-24",
+      "episode_count": 22,
+      "id": 401568,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": "/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg",
+      "season_number": 13,
+      "vote_average": 6.8
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.4,
+  "vote_count": 2257,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 210271,
+        "known_for_department": "Acting",
+        "name": "Taylor Kinney",
+        "original_name": "Taylor Kinney",
+        "popularity": 5.341,
+        "profile_path": "/9YYfOH1rhcHo7czFVx5GBFyNOem.jpg",
+        "character": "Kelly Severide",
+        "credit_id": "52596688760ee346619b9b85",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27552,
+        "known_for_department": "Acting",
+        "name": "David Eigenberg",
+        "original_name": "David Eigenberg",
+        "popularity": 2.5151,
+        "profile_path": "/3JOY715n7Low0Y1a9YZAzhNjvZM.jpg",
+        "character": "Christopher Herrmann",
+        "credit_id": "54314a8f0e0a2646490033f0",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1368157,
+        "known_for_department": "Acting",
+        "name": "Joe Miñoso",
+        "original_name": "Joe Miñoso",
+        "popularity": 0.4769,
+        "profile_path": "/je6BoStc1WicNZQNJWSrf0kNhAG.jpg",
+        "character": "Joe Cruz",
+        "credit_id": "542711140e0a26555f000565",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 36091,
+        "known_for_department": "Acting",
+        "name": "Christian Stolte",
+        "original_name": "Christian Stolte",
+        "popularity": 1.3458,
+        "profile_path": "/hE460cJmuckGHWKGdSgmPxD9ixY.jpg",
+        "character": "Randy 'Mouch' McHolland",
+        "credit_id": "5259668a760ee346619b9c6d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1525940,
+        "known_for_department": "Acting",
+        "name": "Miranda Rae Mayo",
+        "original_name": "Miranda Rae Mayo",
+        "popularity": 1.1215,
+        "profile_path": "/dvCagUBHBNGwsozC8KS3tFPtCcj.jpg",
+        "character": "Stella Kidd",
+        "credit_id": "57eb3bb2c3a36837fe000e05",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1467220,
+        "known_for_department": "Acting",
+        "name": "Daniel Kyri",
+        "original_name": "Daniel Kyri",
+        "popularity": 0.7006,
+        "profile_path": "/ntw3rLadoyaIlX2gAt5okSCo4Xz.jpg",
+        "character": "Darren Ritter",
+        "credit_id": "5f7aea2c8741c400387b48cb",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2317307,
+        "known_for_department": "Acting",
+        "name": "Hanako Greensmith",
+        "original_name": "Hanako Greensmith",
+        "popularity": 0.5659,
+        "profile_path": "/bm5JcCwJpTfyGlJQxx6wZysKu2n.jpg",
+        "character": "Violet Mikami",
+        "credit_id": "60103c1db2e07400400b5f9a",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1522345,
+        "known_for_department": "Acting",
+        "name": "Jocelyn Hudon",
+        "original_name": "Jocelyn Hudon",
+        "popularity": 2.561,
+        "profile_path": "/quI2sUAc3opQ3Bb2H2OMHEMchGf.jpg",
+        "character": "Paramedic Lyla 'Lizzie' Novak",
+        "credit_id": "665d3f08e35dd816646fb9bb",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1072743,
+        "known_for_department": "Acting",
+        "name": "Jake Lockett",
+        "original_name": "Jake Lockett",
+        "popularity": 0.7531,
+        "profile_path": "/8kBLO3cuNNXdmuIcExlYwcNMBz2.jpg",
+        "character": "Sam Carver",
+        "credit_id": "6348c4dc1b1f3c007c0ec836",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20212,
+        "known_for_department": "Acting",
+        "name": "Dermot Mulroney",
+        "original_name": "Dermot Mulroney",
+        "popularity": 5.2952,
+        "profile_path": "/kkrMKD6b4vEdphVgKsenRY4NgiC.jpg",
+        "character": "Battalion Chief Dom Pascal",
+        "credit_id": "66f6efd56c9a68155070e4bb",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3835229,
+        "known_for_department": "Writing",
+        "name": "Danielle Nicki",
+        "original_name": "Danielle Nicki",
+        "popularity": 0.1521,
+        "profile_path": null,
+        "credit_id": "66f6fe8c0eb7dc80c1c07156",
+        "department": "Writing",
+        "job": "Story Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3630410,
+        "known_for_department": "Production",
+        "name": "Kevin Moogan",
+        "original_name": "Kevin Moogan",
+        "popularity": 0.1107,
+        "profile_path": null,
+        "credit_id": "66f6fe525315c2d048c1175e",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1799634,
+        "known_for_department": "Writing",
+        "name": "Alec Wells",
+        "original_name": "Alec Wells",
+        "popularity": 0.1597,
+        "profile_path": null,
+        "credit_id": "66f6fe4bf4a4b760f191fe7c",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4967169,
+        "known_for_department": "Production",
+        "name": "Lauren A. Garcia",
+        "original_name": "Lauren A. Garcia",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "66f6fe448aae2a5e7d91fe8f",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 212800,
+        "known_for_department": "Writing",
+        "name": "Matt Whitney",
+        "original_name": "Matt Whitney",
+        "popularity": 0.1853,
+        "profile_path": null,
+        "credit_id": "66f6fbf6675798e92e91febe",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1521468,
+        "known_for_department": "Writing",
+        "name": "Nancy Kiu",
+        "original_name": "Nancy Kiu",
+        "popularity": 0.3388,
+        "profile_path": null,
+        "credit_id": "66f6fbb7062ec85ddbc06f66",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1554574,
+        "known_for_department": "Production",
+        "name": "Tim Deluca",
+        "original_name": "Tim Deluca",
+        "popularity": 0.421,
+        "profile_path": null,
+        "credit_id": "66f6fbb0062ec85ddbc06f61",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2579200,
+        "known_for_department": "Production",
+        "name": "Anastasia Puglisi",
+        "original_name": "Anastasia Puglisi",
+        "popularity": 0.6719,
+        "profile_path": null,
+        "credit_id": "66f6fb9ac8af83f95cc07090",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1158417,
+        "known_for_department": "Writing",
+        "name": "Victor Teran",
+        "original_name": "Victor Teran",
+        "popularity": 0.6604,
+        "profile_path": null,
+        "credit_id": "66f6f37bc8af83f95cc06f50",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1396324,
+        "known_for_department": "Writing",
+        "name": "Steve Chikerotis",
+        "original_name": "Steve Chikerotis",
+        "popularity": 0.1148,
+        "profile_path": null,
+        "credit_id": "6348c59605f9cf00825ffe23",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3013375,
+        "known_for_department": "Production",
+        "name": "Eric Matsumoto",
+        "original_name": "Eric Matsumoto",
+        "popularity": 0.0859,
+        "profile_path": null,
+        "credit_id": "6348c5881b1f3c007c0ec885",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2046101,
+        "known_for_department": "Production",
+        "name": "Demetra Diamantopoulos",
+        "original_name": "Demetra Diamantopoulos",
+        "popularity": 0.4103,
+        "profile_path": null,
+        "credit_id": "6348c60f5aadc4007f8c8502",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3356483,
+        "known_for_department": "Production",
+        "name": "Rebecca McGill",
+        "original_name": "Rebecca McGill",
+        "popularity": 0.6733,
+        "profile_path": null,
+        "credit_id": "621ab15f6840cc0071713c46",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 23905,
+        "known_for_department": "Production",
+        "name": "Lynn Kressel",
+        "original_name": "Lynn Kressel",
+        "popularity": 1.3468,
+        "profile_path": "/75NK9D29wYhRmegSM0YJYpEiKC6.jpg",
+        "credit_id": "61528c62dd731b0062febf80",
+        "department": "Production",
+        "job": "Original Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2046101,
+        "known_for_department": "Production",
+        "name": "Demetra Diamantopoulos",
+        "original_name": "Demetra Diamantopoulos",
+        "popularity": 0.4103,
+        "profile_path": null,
+        "credit_id": "61528f30e8a3e100621d5ffe",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 86591,
+        "known_for_department": "Art",
+        "name": "Craig Jackson",
+        "original_name": "Craig Jackson",
+        "popularity": 0.6256,
+        "profile_path": null,
+        "credit_id": "61528f1963a6950089fa9494",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1457688,
+        "known_for_department": "Production",
+        "name": "Jonathan Strauss",
+        "original_name": "Jonathan Strauss",
+        "popularity": 0.7386,
+        "profile_path": null,
+        "credit_id": "61528c70e18b9700628bf032",
+        "department": "Production",
+        "job": "Original Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1865673,
+        "known_for_department": "Production",
+        "name": "Sara Isaacson",
+        "original_name": "Sara Isaacson",
+        "popularity": 0.3455,
+        "profile_path": null,
+        "credit_id": "61528c41dd731b008b894bcb",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1457688,
+        "known_for_department": "Production",
+        "name": "Jonathan Strauss",
+        "original_name": "Jonathan Strauss",
+        "popularity": 0.7386,
+        "profile_path": null,
+        "credit_id": "605118a28c7b0f006bfe2ae7",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1215763,
+        "known_for_department": "Writing",
+        "name": "Andrea Newman",
+        "original_name": "Andrea Newman",
+        "popularity": 0.6308,
+        "profile_path": null,
+        "credit_id": "60511a4d4ca676002859b498",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1405245,
+        "known_for_department": "Directing",
+        "name": "Reza Tabrizi",
+        "original_name": "Reza Tabrizi",
+        "popularity": 0.2329,
+        "profile_path": null,
+        "credit_id": "60511a1f848eb9003c38b935",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 86591,
+        "known_for_department": "Art",
+        "name": "Craig Jackson",
+        "original_name": "Craig Jackson",
+        "popularity": 0.6256,
+        "profile_path": null,
+        "credit_id": "605118861130bd006a43ca8e",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1639821,
+        "known_for_department": "Sound",
+        "name": "David Fleming",
+        "original_name": "David Fleming",
+        "popularity": 1.2408,
+        "profile_path": "/qJAhamhIn9sz1YX0EHhSVIayD81.jpg",
+        "credit_id": "63e83797a2e602009329e941",
+        "department": "Crew",
+        "job": "Additional Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1218298,
+        "known_for_department": "Production",
+        "name": "Peter Jankowski",
+        "original_name": "Peter Jankowski",
+        "popularity": 0.6556,
+        "profile_path": null,
+        "credit_id": "5fadf1ee7f054000401e3550",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117443,
+        "known_for_department": "Creator",
+        "name": "Dick Wolf",
+        "original_name": "Dick Wolf",
+        "popularity": 2.1947,
+        "profile_path": "/tRMEuYNVFjXYJ7gh1sGJSxq9Vwq.jpg",
+        "credit_id": "5fadf1be01e4d100405455ab",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7865,
+        "known_for_department": "Production",
+        "name": "Michael Brandt",
+        "original_name": "Michael Brandt",
+        "popularity": 1.6469,
+        "profile_path": "/13p3xvGWhCbSNgv9S2DiBcPnoWQ.jpg",
+        "credit_id": "5fadf1d2db4ed60041afea10",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72268,
+        "known_for_department": "Sound",
+        "name": "Atli Örvarsson",
+        "original_name": "Atli Örvarsson",
+        "popularity": 1.0092,
+        "profile_path": "/fmg2HsSMUWAR2QYhOTFtPdqumIw.jpg",
+        "credit_id": "5fadf26c7f0540003e1e1b76",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1693424,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mirela Rupic",
+        "original_name": "Mirela Rupic",
+        "popularity": 0.4415,
+        "profile_path": null,
+        "credit_id": "57fe1b8dc3a3685211002dbe",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8161,
+        "known_for_department": "Writing",
+        "name": "Derek Haas",
+        "original_name": "Derek Haas",
+        "popularity": 1.5175,
+        "profile_path": null,
+        "credit_id": "5fadf1e10d9f5a0040052842",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "chicago, illinois",
+        "id": 520
+      },
+      {
+        "name": "fire brigade",
+        "id": 1845
+      },
+      {
+        "name": "paramedic",
+        "id": 41603
+      },
+      {
+        "name": "crime investigation",
+        "id": 189402
+      },
+      {
+        "name": "firefighter",
+        "id": 192094
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/cFZYtCx54BmFXe4wExts2tPnPHh.jpg",
+        "id": 58841,
+        "name": "Chicago P.D.",
+        "original_name": "Chicago P.D.",
+        "overview": "Chicago Fire'ın uzantısı (Spin-off) olan ve NBC kanalı için çekilmiş bir Amerikan dizisidir. Chicago Polis Departmanı, iki farklı gruptan oluşur: Üniformalı polisler ve İstihbarat Birimi. İstihbarat Birimi, organize suçlar, uyuşturucu kaçakçılığı ve üst düzey cinayetlerle ilgilenirken, Üniformalı Polisler ise şehrin sokak suçlarıyla ve devriye gezmekle meşguldürler.",
+        "poster_path": "/2nHdAW7MUMuXMJO6ev0mFMhEq8P.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 103.0331,
+        "first_air_date": "2014-01-08",
+        "vote_average": 8.4,
+        "vote_count": 2460,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cUh0d1ev6cEQ8KxCe3YQYa8AR50.jpg",
+        "id": 62650,
+        "name": "Chicago Med",
+        "original_name": "Chicago Med",
+        "overview": "Şehrin en patlayıcı hastanesinin ve onu bir arada tutan cesur doktor ekibinin günlük kaosunda duygusal bir heyecan yolculuğu. Acil servisin nabzını artıran pandeminin içinde ateşli ilişkiler kurarak, güncel olaylardan ilham alan benzersiz yeni vakaları ele alacaklar.",
+        "poster_path": "/8UXGfvjKzzkGepXZU43dgpK48oY.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 63.0221,
+        "first_air_date": "2015-11-17",
+        "vote_average": 8.305,
+        "vote_count": 1185,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/nU5nByGzsPTXm2w4WdMFtE6YU14.jpg",
+        "id": 75219,
+        "name": "9-1-1",
+        "original_name": "9-1-1",
+        "overview": "En korkutucu, şok edici ve kalp durdurucu durumlara sürüklenen polis memurlarının, sağlık görevlilerinin ve itfaiyecilerin yüksek basınçlı deneyimlerini keşfedin. Bu acil müdahale ekipleri, en savunmasız olanları kurtarmakla kendi hayatlarındaki sorunları çözme arasında denge kurmaya çalışmalıdır.",
+        "poster_path": "/9dNWZPjFWdKo5Avr5JEEzLShLMZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          10759
+        ],
+        "popularity": 76.5752,
+        "first_air_date": "2018-01-03",
+        "vote_average": 8.229,
+        "vote_count": 2603,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9oVp0xfKW2igxDEo5wr3JTMQBub.jpg",
+        "id": 74016,
+        "name": "The Resident",
+        "original_name": "The Resident",
+        "overview": "Conrad Hawkins, Chastain Park Hastanesi'nin en iyi doktorlarından biridir. Büyüleyici ve kibirli Conrad, mümkün olduğunda alışılmadık bir yaklaşım benimsemeyi sever ve birinci sınıf stajyer doktorların romantik yanılsamalarını paramparça etmeyi kişisel görevi edinmiştir. Dr. Devon Pravesh, ince ayarlı ahlaki pusulasına göre hareket eden masum bir idealisttir ancak Conrad'in yardımıyla tıp pratiğinin diğer işlere benzediğini, pek de melek sayılmayan hastalar ve hataya düşebilen doktorlarla yapılan bir iş olduğunu anlamaya başlar.",
+        "poster_path": "/2IkYQJlT26yXef2iot7dhRtavSC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 70.3203,
+        "first_air_date": "2018-01-21",
+        "vote_average": 8.413,
+        "vote_count": 1244,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7j4ug9B6JXVeh5HhQjjPScrdj4Z.jpg",
+        "id": 71790,
+        "name": "S.W.A.T.",
+        "original_name": "S.W.A.T.",
+        "overview": "Memleketi Los Angeles'ta emniyet teşkilatında görevli bir çavuş, elit bir polis ekibine liderlik etmek ve kentte tırmanan ölümcül gerilimi yatıştırmakla görevlendirilir.",
+        "poster_path": "/1rTEcLsnOoKXfDdGlbg0RHDvoaE.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          10759,
+          18
+        ],
+        "popularity": 120.5951,
+        "first_air_date": "2017-11-02",
+        "vote_average": 8.094,
+        "vote_count": 1467,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7WyWk8bWgbWKqnhNEj8PYt4VjPo.jpg",
+        "id": 67993,
+        "name": "Chicago Justice",
+        "original_name": "Chicago Justice",
+        "overview": "\"Chicago Justice\" devletin savcı, avukat ve müfettişlerinden oluşan ve korkusuzca adaleti sağlamak için çalışan bir ekibi merkezine almaktadır.",
+        "poster_path": "/hZ76A8l1JoONy2NoL0BF4AU2g3c.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 5.7271,
+        "first_air_date": "2017-03-01",
+        "vote_average": 6.741,
+        "vote_count": 164,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9X1Lh8DHFPYSgqYkihgfZ3CR1Gv.jpg",
+        "id": 81747,
+        "name": "Bana Masal Anlat",
+        "original_name": "Tell Me a Story",
+        "overview": "Günümüz New York City’sinde geçen dizi, tarihin en ünlü masallarına modern ve karanlık bir yorum getiriyor. Psikolojik gerilim türündeki dizinin ilk sezon senaryosunda \"Hansel ve Gretel\", \"Kırmızı Başlıklı Kız\" ve \"Üç Küçük Domuzcuk\" gibi masallara yer verildi.",
+        "poster_path": "/56aw0q12N8ujbcEdCXaLZMfAYXd.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 10.3171,
+        "first_air_date": "2018-10-31",
+        "vote_average": 7.176,
+        "vote_count": 264,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/72zLfNDaL8JpfLDwmQ2b8DPbeHc.jpg",
+        "id": 21762,
+        "name": "Parenthood",
+        "original_name": "Parenthood",
+        "overview": "The trials and tribulations of the very large, colorful and imperfect Braverman family.",
+        "poster_path": "/9KjKLJrrUI1sU9bNsQaQ5H8kTyY.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 19.2343,
+        "first_air_date": "2010-03-02",
+        "vote_average": 7.425,
+        "vote_count": 147,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1vwIV2zQ88Dx6PwY7ZFZyamhYhV.jpg",
+        "id": 76773,
+        "name": "Station 19",
+        "original_name": "Station 19",
+        "overview": "Bir grup itfaiyeci canlarını ve yüreklerini tehlikeye atar.",
+        "poster_path": "/3gs9wBsvv1GJ3EzLheh5yGuTQis.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759
+        ],
+        "popularity": 37.2402,
+        "first_air_date": "2018-03-22",
+        "vote_average": 8.217,
+        "vote_count": 1496,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2m1Mu0xPj4SikiqkaolTRUcNtWH.jpg",
+        "id": 79744,
+        "name": "The Rookie",
+        "original_name": "The Rookie",
+        "overview": "Küçük bir kasabada yaşayan kırk yaşındaki John Nolan’ın en büyük hayali polis memuru olmaktır. Yaşadığı ölümcül kazanın ardından hayallerinin peşinden koşan John, yaşadığı kasabayı terk ederek Los Angeles’a gider. Los Angeles Polis Departmanı’nda göreve başlayan John, çalıştığı birimde orta yaş krizi de dahil birçok farklı sorunla boğuşmak zorunda kalır.",
+        "poster_path": "/bL1mwXDnH5fCxqc4S2n40hoVyoe.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          35
+        ],
+        "popularity": 225.5888,
+        "first_air_date": "2018-10-16",
+        "vote_average": 8.524,
+        "vote_count": 2419,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dAepkmD4vdfhS82r2OIqF1nwGR5.jpg",
+        "id": 17610,
+        "name": "NCIS: Los Angeles",
+        "original_name": "NCIS: Los Angeles",
+        "overview": "Özet ve Detaylar. Deniz Kuvvetleri Araştırma Servisi'nin Los Angeles'da bulunan birimi, ulusal güvenliği tehdit eden ve bir türlü yakalanamayan azılı suçluların peşindedir. G. Callen ve Sam Hanna'nın da aralarında bulunduğu özel ajanlar, suçluları yakalamaya çalışırken en son teknoloji ürünü cihazlardan yararlanır.",
+        "poster_path": "/TIIgcznwNfNr3KOZvxn26eKV99.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          80,
+          9648
+        ],
+        "popularity": 124.3654,
+        "first_air_date": "2009-09-22",
+        "vote_average": 7.534,
+        "vote_count": 1181,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/fgvM6m7gAd8kDAaLF16aflbOSAK.jpg",
+        "id": 1416,
+        "name": "Grey's Anatomy",
+        "original_name": "Grey's Anatomy",
+        "overview": "Grace Hastanesi'ne hoş geldiniz! Burada yeni ve acemi doktorlar için en zorlu doktorluk ihtisas devresi programlarından biri uygulanıyor. Bu acımasız eğitimle başa çıkmak zorunda olan kahramanlarımız ise Meredith, Izzie, George, Alex ve Cristina. Onlar dün öğrenciydiler, bugün ise doktor oldular. Eğer yedi yıl boyunca Grace gibi bir cehennemde başarılı olurlarsa cerrahlığa da hak kazanmış olacaklar. Ancak ihtisas devresinin bu kadar zorlu olması, onlar için yaşamlarının geri kalanının durdurduğu anlamına da gelmiyor. Yani bu grup, aynı zamanda kıskanç sevgililer, ebeveynler, tek gecelik ilişkiler ve ev bulma krizleriyle mücadele etmek zorunda. Üstelik kahramanlarımız, bu stresli ve rekabet dolu ortamda dostluklar da kurmaya çalışıyolar.",
+        "poster_path": "/7jEVqXC14bhfAzSPgr896dMdDv6.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 264.6504,
+        "first_air_date": "2005-03-27",
+        "vote_average": 8.228,
+        "vote_count": 10491,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ojyo33io8HGxNCRg21Z1o87YEZX.jpg",
+        "id": 71789,
+        "name": "SEAL Team",
+        "original_name": "SEAL Team",
+        "overview": "\"Başarısızlık\" ülkenin en seçkin ve özel operasyon güçleri Navy SEAL takımı için bir seçenek değildir. Bu aksiyon dolu yeni dizide, serin kanlı ve korkusuz savaşçılar kendilerini, imkansız olasılıklara karşı mücadele ederek, ülkenin en tehlikeli ve yüksek riskli görevleri içinde bulacaklar. Eve döndüklerinde ise farklı bir stresle karşı karşıyalar. Sırları saklamak, her an habersizce göreve çağırılmak ve çıktıkları her görevin son olabilme ihtimali kendileri ve aileleri üzerinde kaygı yaratıyor. Ancak dönüşü olmayan yeminleri ve vatanseverlik tutkuları herşeyden önce gelir.",
+        "poster_path": "/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10768
+        ],
+        "popularity": 66.1615,
+        "first_air_date": "2017-09-27",
+        "vote_average": 8.0,
+        "vote_count": 1546,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/adOjU80AEcr70IPTXe6ALLyXGxF.jpg",
+        "id": 80748,
+        "name": "FBI",
+        "original_name": "FBI",
+        "overview": "Teröre ve organize suçlara karşı ülke güvenliğini sağlamak için kendi hayatlarını hiçe sayan, birbirinden yetenekli FBI ajanları nefes kesen maceralarıyla karşınızda...",
+        "poster_path": "/bircXcCsvP2DUximyQUOn5p2s4.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          10759,
+          18
+        ],
+        "popularity": 57.1096,
+        "first_air_date": "2018-09-25",
+        "vote_average": 7.9,
+        "vote_count": 832,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/k1bsEXwwxSSRNH6mp5y7ys5oKCf.jpg",
+        "id": 89393,
+        "name": "9-1-1: Lone Star",
+        "original_name": "9-1-1: Lone Star",
+        "overview": "New York’ta itfaiye şefi olan Owen Stand, Teksas’ta yeni bir ekip kurması için görevlendirilir. Oğlu ile birlikte Teksas’a yerleşen Owen, bir yandan hayat kurtarmaya çalışırken diğer yandan kişisel problemleriyle uğraşacaktır. 9-1-1 dizisinin spin-off projesi olan dizi, oğlu ile birlikte Austin’e taşınan bir adamın hayatına odaklanıyor. İtfaiye görevlisi olan Owen Strand, oğlu ile birlikte yıllardır yaşadığı New York’tan ayrılarak Austin’e taşınır. Kendisine yeni bir hayat kurmaya çalışan Owen, yeni şehrinde bir yandan zor durumdaki insanlara yardım etmeye çalışırken bir yandan da özel hayatındaki sorunları çözmek için çabalar.",
+        "poster_path": "/BOTITv548LYGB4xRD3rHfbwkqm.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          80
+        ],
+        "popularity": 34.7206,
+        "first_air_date": "2020-01-19",
+        "vote_average": 8.053,
+        "vote_count": 1141,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/oRdc2nn7jLOYy4fBdvmFKPsKzZE.jpg",
+        "id": 2734,
+        "name": "Law & Order: Special Victims Unit",
+        "original_name": "Law & Order: Special Victims Unit",
+        "overview": "New York yeraltı dünyasının karanlık yüzünü araştıran bir özel suçlar birimi... New York Polis departmanında cinsel suçlar konusunda uzman dedektiflerden oluşan bu birim, insanın kanını donduran vakaları incelemek zorunda... Her gün yardım isteyen kurbanlar, kapatılmayı bekleyen dosyalarla uğraşan bu ekibin üyeleri, bir yandan da bu araştırmaların özel yaşamlarına olan etkisini dengelemeye çalışıyorlar.",
+        "poster_path": "/imaKy0BLfX1iPzj9ZvbOD0D09m6.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 461.0285,
+        "first_air_date": "1999-09-20",
+        "vote_average": 7.94,
+        "vote_count": 3931,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
+        "id": 4614,
+        "name": "NCIS",
+        "original_name": "NCIS",
+        "overview": "Deniz Kuvvetleri Kriminal Araştırma Servisi ya da kısa deyişle \"NCIS\". Bu nefes kesen aksiyon drama, deniz kuvvetlerine ilişkin suçları araştıran özel bir ekibin her daim şaşırtıcı serüvenlerine odaklanıyor. Bol dozda mizahla yoğrulmuş \"NCIS\"ın başrolünde '80'lerin unutulmaz dizilerinden \"Flamingo Yolu\"yla tanıyıp sevdiğimiz Mark Harmon var.\n\nRenkli kişiliklerden oluşan NCIS ekibinin lideri; eşsiz yeteneklere sahip, eski bir deniz topçu astsubayı olan Özel Ajan Leroy Jethro Gibbs. Gibbs'in altında çalışan Özel Ajan Anthony Dinozzo ise eski bir cinayet masası dedektifi. Sezgileri çok kuvvetli. Ekibin diğer üyeleri; yetenekli bir bilimadamı olan adli uzman Abby Sciuto ve bilgisayar dahisi NCIS Özel Ajanı Timoth McGee. Ekibin en büyük yardımcısı ise adli tıp doktoru Dr. Donald \"Ducky\" Mallard. Cinayet ve casusluktan, terörizme ve denizaltı hırsızlığına kadar bu özel ajanlar, deniz kuvvetleriyle bağlantılı her türlü suçu araştırmak için dünyayı dolaşıyor.",
+        "poster_path": "/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          10759
+        ],
+        "popularity": 166.3235,
+        "first_air_date": "2003-09-23",
+        "vote_average": 7.622,
+        "vote_count": 2352,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/goDtZCB5pFIuuSfYDvApe6iXTID.jpg",
+        "id": 32692,
+        "name": "Blue Bloods",
+        "original_name": "Blue Bloods",
+        "overview": "Ailenin reisi olan Frank Reagan (Tom Selleck) New York emniyet müdürüdür. Çoğu zaman kendisinden evvel emniyet müdürlüğü görevini yürüten babası Henry\\'nin (Len Cariou) aksine resmi ilişkilere önem vermekte ve zamanında babasının sorumsuzca sebep olduğu sorunları düzeltme çabası içine girmektedir. Frank\\'in hem gurur kaynağı olan hem de endişelenmesine neden olan büyük oğlu Danny (Donnie Wahlberg) işinde uzman bir dedektif ve bir aile babasıdır. Aynı zamanda Irak Savaşı gazisi de olan Danny kimi suçları çözerken sonucu kestirilemeyen yöntemlere başvurmaktadır. Ailenin tek kız evladı olan Erin (Bridget Moynahan) savcı yardımcılığı görevini yürüten yeni boşanmış bir annedir. Erin aynı zamanda kardeşleri ve babasının kanunun tanıdığı sınırlar içinde kalmasına yardım etmektedir. Ailenin en genci Jamie (Will Estes) Harvard Hukuk Fakültesinden yeni mezun olmuştur. Ailenin göz bebeği olan Jamie aile geleneğine sırt çeviremez ve hukuk alanındaki parlak gelecekten vazgeçerek polis olmaya karar verir. Kariyerinde yaptığı bu hamle henüz 1 yıllık avukat olan sevgilisi Sydney Davenport (Dylan Moore) tarafından da desteklenmektedir. Babasının bile haberinin olmadığı gizli bir polis soruşturmasının parçası olmak istemesiyle birlikte hem Jamie\\'nin hayatı altüst olacak, hem de ailenin ismi lekelenme tehlikesiyle karşı karşıya kalacaktır.",
+        "poster_path": "/q1WlrxnCvNhBjJ4N7V0JQXjnIBN.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 113.424,
+        "first_air_date": "2010-09-24",
+        "vote_average": 7.807,
+        "vote_count": 919,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/xo5iR9QZ9pj8tiGFALs0Ven0HT4.jpg",
+        "id": 39358,
+        "name": "Revenge",
+        "original_name": "Revenge",
+        "overview": "Asıl adı Amanda Clarke olan Emily Thorne (Emily VanCamp), babası David (James Tupper)'ın ölümüne sebep olan ve ailesini mahveden kişilerden intikam almaya Hamptons'a döner.) Küçük bir kızken Amanda'nın babası terörist suçlamasıyla tutuklanır ve vatana ihanetten hüküm giyer. Daha sonra hapishanede ölür. Emily'nin hayatı alt üst olmuştur ve Emily çocuk ıslahevine girer. Ve 18. doğum gününde babasının yatırım yaptığı bir şirketten büyük bir miras kalır. Amanda adını Emily Thorne'a çevirir ve babasının bu durumundan sorumlu olan kişilerden intikam almaya karar verir.",
+        "poster_path": "/qx7XytRgg1F03NN5BoK8jx3Cyft.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 29.8278,
+        "first_air_date": "2011-09-21",
+        "vote_average": 7.6,
+        "vote_count": 775,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/rNlYsPO8oqZrxedntqqzfyPJNzq.jpg",
+        "id": 61056,
+        "name": "How to Get Away with Murder",
+        "original_name": "How to Get Away with Murder",
+        "overview": "Zeki, karizmatik ve baştan çıkarıcı Profesör Annalise Keating, “How to Get Away with Murder” adlı dersinden dört hukuk öğrencisiyle tanışır. “Grey's Anatomy” ve \"Scandal\"ın baş yapımcıları Shonda Rhimes ve Betsy Beers'in bu seksi, merak uyandırıcı, usta işi hukuk gerilimindeki karakterler, öğrendiklerini gerçek hayatta uygulamak zorunda kalacaklarının farkında değillerdir.",
+        "poster_path": "/bJs8Y6T88NcgksxA8UaVl4YX8p8.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 69.3167,
+        "first_air_date": "2014-09-25",
+        "vote_average": 7.84,
+        "vote_count": 1656,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

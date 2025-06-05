@@ -1,0 +1,860 @@
+{
+  "adult": false,
+  "backdrop_path": "/bhG1XJ1fubbZkLnoBAxNrzzGXOg.jpg",
+  "created_by": [
+    {
+      "id": 1214544,
+      "credit_id": "52570edd760ee3776a0a5c73",
+      "name": "Ann Donahue",
+      "original_name": "Ann Donahue",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 1221343,
+      "credit_id": "52570edd760ee3776a0a5c7f",
+      "name": "Carol Mendelsohn",
+      "original_name": "Carol Mendelsohn",
+      "gender": 1,
+      "profile_path": "/8PlgEHno8Mvg4wqireq7ZQY6Y3a.jpg"
+    },
+    {
+      "id": 1039314,
+      "credit_id": "52570edd760ee3776a0a5c79",
+      "name": "Anthony E. Zuiker",
+      "original_name": "Anthony E. Zuiker",
+      "gender": 2,
+      "profile_path": "/fXCjUuwHvPhQTwYjckOjEdLdhVS.jpg"
+    }
+  ],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "2002-09-23",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 9648,
+      "name": "Gizem"
+    },
+    {
+      "id": 80,
+      "name": "Suç"
+    }
+  ],
+  "homepage": "http://www.cbs.com/shows/csi-miami/",
+  "id": 1620,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2012-04-08",
+  "last_episode_to_air": {
+    "id": 83688,
+    "name": "19. Bölüm",
+    "overview": "",
+    "vote_average": 7.3,
+    "vote_count": 6,
+    "air_date": "2012-04-08",
+    "episode_number": 19,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 44,
+    "season_number": 10,
+    "show_id": 1620,
+    "still_path": "/9Bx84fpDsemS7qgS2QKDjQfKB0f.jpg"
+  },
+  "name": "CSI: Miami",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 232,
+  "number_of_seasons": 10,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "CSI: Miami",
+  "overview": "Konularının uzmanı suç mahali araştırma dedektifleri, en karmaşık olaylarda bile cinayetleri çözmeye çalışıyor. Bu araştırmacı grubun başındaki isim ise eski bir cinayet dedektifi olan Horatio Caine... Miami'nin tropikal güzelliklerinin, gece yaşamının ve kültürel noktalarının fon oluşturduğu dizide detektiflerimiz, cinayetleri çözmek ve çoğu zaman kendileri için konuşamayan kurbanları temize çıkarmak için kanıt peşine düşüyorlar.",
+  "popularity": 87.3376,
+  "poster_path": "/pNW64pjaHvf6purNaFhq4SHYRfl.jpg",
+  "production_companies": [
+    {
+      "id": 40041,
+      "logo_path": "/oP8TmVSh9DCP1yhR2yvjnKfMgbg.png",
+      "name": "Jerry Bruckheimer Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2004-06-29",
+      "episode_count": 44,
+      "id": 4447,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/AqA7WOGR8Ln68vN8FS3minsued8.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2002-09-23",
+      "episode_count": 24,
+      "id": 4444,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/9duJAosWZI9dZyKtPwl3aKwcC2T.jpg",
+      "season_number": 1,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2003-09-22",
+      "episode_count": 24,
+      "id": 4439,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/35sfB9DPpIbgoXICR566dq2tzYx.jpg",
+      "season_number": 2,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2004-09-20",
+      "episode_count": 24,
+      "id": 4438,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/pECopkUk4eMbcjp96DNQN0KqpP0.jpg",
+      "season_number": 3,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2005-09-20",
+      "episode_count": 25,
+      "id": 4441,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/rX1mS9nRsxBWTIYFblClGedWTHb.jpg",
+      "season_number": 4,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2006-09-18",
+      "episode_count": 24,
+      "id": 4442,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/x2JB7TJaAFB3iJUtqxUrxpFPC2n.jpg",
+      "season_number": 5,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "2007-09-24",
+      "episode_count": 21,
+      "id": 4443,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/mp5gJrig17pemwStotxFybNSMKf.jpg",
+      "season_number": 6,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "2008-09-22",
+      "episode_count": 25,
+      "id": 4440,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/WKF0FWlaFaeMaKV7hoxPp4CQdA.jpg",
+      "season_number": 7,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2009-09-21",
+      "episode_count": 24,
+      "id": 4445,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/w5NI7KPL7qFItfsz2Grhz8qfaIs.jpg",
+      "season_number": 8,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2010-10-03",
+      "episode_count": 22,
+      "id": 4446,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/1RigJcMgW9JyoXZgLcHZYle3yDW.jpg",
+      "season_number": 9,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2011-09-25",
+      "episode_count": 19,
+      "id": 4448,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/c1tNnQBIGE81UaeOvgcAaG7g9CC.jpg",
+      "season_number": 10,
+      "vote_average": 7.1
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.716,
+  "vote_count": 1622,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16560,
+        "known_for_department": "Acting",
+        "name": "David Caruso",
+        "original_name": "David Caruso",
+        "popularity": 3.4573,
+        "profile_path": "/7XjPzadIBQ0mIVwVT7o87B7NkJJ.jpg",
+        "character": "Horatio Caine",
+        "credit_id": "52570edb760ee3776a0a57e7",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6108,
+        "known_for_department": "Acting",
+        "name": "Emily Procter",
+        "original_name": "Emily Procter",
+        "popularity": 2.1666,
+        "profile_path": "/gFK8S0ZgaqDC8IgclgadDuB2eMm.jpg",
+        "character": "Calleigh Duquesne",
+        "credit_id": "52570edc760ee3776a0a5831",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 334,
+        "known_for_department": "Acting",
+        "name": "Omar Benson Miller",
+        "original_name": "Omar Benson Miller",
+        "popularity": 3.5453,
+        "profile_path": "/adlrkEpxDIcpxF7bpzMGErLxeHP.jpg",
+        "character": "Walter Simmons",
+        "credit_id": "52570edd760ee3776a0a5b59",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4743,
+        "known_for_department": "Acting",
+        "name": "Jonathan Togo",
+        "original_name": "Jonathan Togo",
+        "popularity": 1.5623,
+        "profile_path": "/s6SVfTHfn4VLXmsl8l3QjJzpako.jpg",
+        "character": "Ryan Wolfe",
+        "credit_id": "52570edc760ee3776a0a590b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49706,
+        "known_for_department": "Acting",
+        "name": "Adam Rodriguez",
+        "original_name": "Adam Rodriguez",
+        "popularity": 3.0027,
+        "profile_path": "/qFSbLvyNPZK40hY9gZXJDvq0qVK.jpg",
+        "character": "Eric Delko",
+        "credit_id": "52570edc760ee3776a0a587b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16937,
+        "known_for_department": "Acting",
+        "name": "Rex Linn",
+        "original_name": "Rex Linn",
+        "popularity": 3.6257,
+        "profile_path": "/dY8x6OrmS0dBdogxeF2QALrCvpI.jpg",
+        "character": "Frank Tripp",
+        "credit_id": "52570edc760ee3776a0a58c5",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 121769,
+        "known_for_department": "Acting",
+        "name": "Eva LaRue",
+        "original_name": "Eva LaRue",
+        "popularity": 1.9504,
+        "profile_path": "/y5ixiPFhB5tl38AQt7baqjOn6a7.jpg",
+        "character": "Natalia Boa Vista",
+        "credit_id": "52570edc760ee3776a0a594f",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1330842,
+        "known_for_department": "Art",
+        "name": "Mark Walters",
+        "original_name": "Mark Walters",
+        "popularity": 1.2762,
+        "profile_path": null,
+        "credit_id": "67fa9ac41bc639566adab3f8",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 770,
+        "known_for_department": "Production",
+        "name": "Jerry Bruckheimer",
+        "original_name": "Jerry Bruckheimer",
+        "popularity": 2.8614,
+        "profile_path": "/sYjNrmbMi4DGAPX6Kt8wVy7LNXI.jpg",
+        "credit_id": "52570edd760ee3776a0a5cd1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80825,
+        "known_for_department": "Sound",
+        "name": "Todd Niesen",
+        "original_name": "Todd Niesen",
+        "popularity": 0.2046,
+        "profile_path": null,
+        "credit_id": "637a6a841bf8760087991fc6",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1039314,
+        "known_for_department": "Production",
+        "name": "Anthony E. Zuiker",
+        "original_name": "Anthony E. Zuiker",
+        "popularity": 0.8304,
+        "profile_path": "/fXCjUuwHvPhQTwYjckOjEdLdhVS.jpg",
+        "credit_id": "664b182b59b31045c6546d6a",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "miami, florida",
+        "id": 416
+      },
+      {
+        "name": "detective",
+        "id": 703
+      },
+      {
+        "name": "police",
+        "id": 6149
+      },
+      {
+        "name": "spin off",
+        "id": 15285
+      },
+      {
+        "name": "forensic science",
+        "id": 157256
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/p4GKINJxZoFbPEvX5NKIb4lzaL.jpg",
+        "id": 2458,
+        "name": "CSI: NY",
+        "original_name": "CSI: NY",
+        "overview": "Crime Scene Investigation (Olay Yeri İnceleme) efsanesinin son durağı CSI: NY, çözülmesi güç suç vakalarında araştırmayı yürüten ve son teknolojiler sayesinde en küçük bulguları bile derinlemesine inceleyerek olağanüstü sonuçlara ulaşan bir grup balistik uzmanının maceralarını ekrana taşıyor. Mac Taylor’ın şefliğini yaptığı, teknolojik araçları kuşanmış detektifler adaleti yerine getirmeye kararlı. Olay yeri inceleme detektiflerinin hiç uyumayan New York sokaklarında suçluların peşinden koşmaya ihtiyacı yok. Onlar delil peşinde... Kaçan suçlunun, arkasında bırakacağı bir iz onu içeri atmaları için yetip de artıyor bile. Mac Taylor’ın da dediği gibi: “New York’ta herkes yalan söyleyebilir; ama kanıtların yalan söylediği çok nadirdir.”",
+        "poster_path": "/4TGV4Bb3OPay4cHkQRlfwghv3vC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 66.1269,
+        "first_air_date": "2004-09-22",
+        "vote_average": 7.356,
+        "vote_count": 700,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cvlLBcQWpO9X21jDHhgPJnE2aVq.jpg",
+        "id": 1431,
+        "name": "CSI: Crime Scene Investigation",
+        "original_name": "CSI: Crime Scene Investigation",
+        "overview": "CSI: Crime Scene Investigation suç mahali araştırmasını konu alan ABD kaynaklı bir dizi filmdir. Dizinin adı, Las Vegas'da çekilmesi nedeniyle CSI: Las Vegas olarak da bilinir. Amerikan CBS televizyonu tarafından yayınlanan dizi 24 Emmy, 6 Altın Küre ödülüne aday gösterilmiştir.\n\nDizi Türkiye'de TRT tarafından Kanıt Peşinde adı altında yayınlanmaktaydı. Dizide şef Gil Grissom ve ekibi her bölümde ayrı bir davaya/cinayete açıklık getiriyorlar.",
+        "poster_path": "/9XecVOLLkbGBNnpF2PvP8vQBmww.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 152.2109,
+        "first_air_date": "2000-10-06",
+        "vote_average": 7.633,
+        "vote_count": 1283,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/iZuRBaleRrtJtHMY3ecA3xAWlOB.jpg",
+        "id": 61811,
+        "name": "CSI: Cyber",
+        "original_name": "CSI: Cyber",
+        "overview": "The FBI's team of Cyber Crime Investigators, headed by Special Agent Avery Ryan, works to solve cases involving the dark-net. Avery, a Special Agent in Charge and esteemed Cyber-Psychologist heads up a team, including Senior Special Agent Elijah Mundo, tasked with solving murders, cyber-theft, hacking, sex offences, and blackmail.",
+        "poster_path": "/p56xB5YJDeYaGGOaYFtsjWycTYl.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 8.3569,
+        "first_air_date": "2015-03-04",
+        "vote_average": 6.052,
+        "vote_count": 223,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
+        "id": 5920,
+        "name": "The Mentalist",
+        "original_name": "The Mentalist",
+        "overview": "Patrick Jane isimli bir medyum, sirkte çalışan ve gözlem güçlerini kullanarak insanlar hakkında birtakım fikirler edinip bu fikirleri onlara medyum gibi satan biridir. Bir gün bu özelliği sebebiyle televizyona çıkar ve kendine Red John isimli bir düşman edinir. Red John Jane’in kızını ve eşini öldürünce ortada kalan ve bu ölümlerin sebebinin kendisi olduğunu düşünen Jane, en sonunda FBI’a başvurarak Red John’ın peşine düşmek ister. Her ne kadar ilk başlarda bu isteği geri çevrilse de FBI’ın çözemediği birtakım davaları çözen Jane, bu özel ekibe danışman olarak işe alınır.",
+        "poster_path": "/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 96.1905,
+        "first_air_date": "2008-09-23",
+        "vote_average": 8.4,
+        "vote_count": 3908,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
+        "id": 4614,
+        "name": "NCIS",
+        "original_name": "NCIS",
+        "overview": "Deniz Kuvvetleri Kriminal Araştırma Servisi ya da kısa deyişle \"NCIS\". Bu nefes kesen aksiyon drama, deniz kuvvetlerine ilişkin suçları araştıran özel bir ekibin her daim şaşırtıcı serüvenlerine odaklanıyor. Bol dozda mizahla yoğrulmuş \"NCIS\"ın başrolünde '80'lerin unutulmaz dizilerinden \"Flamingo Yolu\"yla tanıyıp sevdiğimiz Mark Harmon var.\n\nRenkli kişiliklerden oluşan NCIS ekibinin lideri; eşsiz yeteneklere sahip, eski bir deniz topçu astsubayı olan Özel Ajan Leroy Jethro Gibbs. Gibbs'in altında çalışan Özel Ajan Anthony Dinozzo ise eski bir cinayet masası dedektifi. Sezgileri çok kuvvetli. Ekibin diğer üyeleri; yetenekli bir bilimadamı olan adli uzman Abby Sciuto ve bilgisayar dahisi NCIS Özel Ajanı Timoth McGee. Ekibin en büyük yardımcısı ise adli tıp doktoru Dr. Donald \"Ducky\" Mallard. Cinayet ve casusluktan, terörizme ve denizaltı hırsızlığına kadar bu özel ajanlar, deniz kuvvetleriyle bağlantılı her türlü suçu araştırmak için dünyayı dolaşıyor.",
+        "poster_path": "/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          10759
+        ],
+        "popularity": 166.3235,
+        "first_air_date": "2003-09-23",
+        "vote_average": 7.621,
+        "vote_count": 2351,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/w88B4ooZ2LSYPw5107JOkjvI8PI.jpg",
+        "id": 4057,
+        "name": "Criminal Minds",
+        "original_name": "Criminal Minds",
+        "overview": "Dizinin temel esprisi, \"Bir suçluyu yakalamak istiyorsanız onun gibi düşünün\" sözünde yatıyor. Quantico'daki Davranış Analizi Ünitesi'nde çalışan ajanlar, suçluların psikolojilerinden, davranış biçimlerinden yola çıkarak suçu çözüyor.  Yöntem: Davranış psikolojisinin uygulanması, istatistikler, ajanların deneyimleri, 'hızlı hızlı konuşanlar bir şey saklıyordur' önermesinde olduğu gibi çıkarsamalar.",
+        "poster_path": "/wLMQebhTApmn4F6Fzg6FovdwVvL.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 141.8295,
+        "first_air_date": "2005-09-22",
+        "vote_average": 8.3,
+        "vote_count": 3824,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/fefZP8b2gdRKn7llsJ6Yk2m4eey.jpg",
+        "id": 1911,
+        "name": "Bones",
+        "original_name": "Bones",
+        "overview": "Dr. Brennan, küçük yaştayken anne ve babası bir anda ortadan kaybolduktan sonra yetimhanelerde büyürken, ebeveyinlerinin ortadan kaybolmasının gizemini çözmek için kendini antropolojiye adamış ve adli tıp antropoloğu olarak Jeffersonian Enstütüsünde çalışmakta olan, kelimenin tam anlamıyla dahi bir doktor ve bir ‘çok satan’ polisiye roman yazarıdır. Uzmanlık alanı kemikler ve kökenleri olan Brennan bu bilgisini Özel Ajan Seeley Booth’un cinayetleri çözmesine yardım etmek için kullanır.",
+        "poster_path": "/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 101.4295,
+        "first_air_date": "2005-09-13",
+        "vote_average": 8.218,
+        "vote_count": 3262,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/aP0V3qTB1iy3JW90EKVpLPNhMia.jpg",
+        "id": 122194,
+        "name": "CSI: Vegas",
+        "original_name": "CSI: Vegas",
+        "overview": "CSI: Vegas, Las Vegas'ta yepyeni bir sayfa açıyor. Suç laboratuarının mirası ve geleceği sorgulandığında, Maxine Roby (Paula Newsome) liderliğindeki yeni ve parlak bir araştırmacı ekibi, eski arkadaşları Gil Grissom (William Peterson) ve Sara Sidle'ın (Jorja Fox) yardımına başvururlar. Bu ekip, Günah Şehri'nde adaleti korumak, adalete hizmet etmek ve gerçeği ortaya çıkarmak için en iyi yaptıkları şeyi yapacak, yani kanıtları takip edecek ve bunu yaparken de en son adlî teknikleri kullanacaklardır.",
+        "poster_path": "/8DtOnaOQPiptM9umpV0Xntwv9t3.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 15.7636,
+        "first_air_date": "2021-10-06",
+        "vote_average": 7.796,
+        "vote_count": 294,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dAepkmD4vdfhS82r2OIqF1nwGR5.jpg",
+        "id": 17610,
+        "name": "NCIS: Los Angeles",
+        "original_name": "NCIS: Los Angeles",
+        "overview": "Özet ve Detaylar. Deniz Kuvvetleri Araştırma Servisi'nin Los Angeles'da bulunan birimi, ulusal güvenliği tehdit eden ve bir türlü yakalanamayan azılı suçluların peşindedir. G. Callen ve Sam Hanna'nın da aralarında bulunduğu özel ajanlar, suçluları yakalamaya çalışırken en son teknoloji ürünü cihazlardan yararlanır.",
+        "poster_path": "/TIIgcznwNfNr3KOZvxn26eKV99.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          80,
+          9648
+        ],
+        "popularity": 124.3654,
+        "first_air_date": "2009-09-22",
+        "vote_average": 7.534,
+        "vote_count": 1181,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cFZYtCx54BmFXe4wExts2tPnPHh.jpg",
+        "id": 58841,
+        "name": "Chicago P.D.",
+        "original_name": "Chicago P.D.",
+        "overview": "Chicago Fire'ın uzantısı (Spin-off) olan ve NBC kanalı için çekilmiş bir Amerikan dizisidir. Chicago Polis Departmanı, iki farklı gruptan oluşur: Üniformalı polisler ve İstihbarat Birimi. İstihbarat Birimi, organize suçlar, uyuşturucu kaçakçılığı ve üst düzey cinayetlerle ilgilenirken, Üniformalı Polisler ise şehrin sokak suçlarıyla ve devriye gezmekle meşguldürler.",
+        "poster_path": "/2nHdAW7MUMuXMJO6ev0mFMhEq8P.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 103.0331,
+        "first_air_date": "2014-01-08",
+        "vote_average": 8.4,
+        "vote_count": 2460,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/oRdc2nn7jLOYy4fBdvmFKPsKzZE.jpg",
+        "id": 2734,
+        "name": "Law & Order: Special Victims Unit",
+        "original_name": "Law & Order: Special Victims Unit",
+        "overview": "New York yeraltı dünyasının karanlık yüzünü araştıran bir özel suçlar birimi... New York Polis departmanında cinsel suçlar konusunda uzman dedektiflerden oluşan bu birim, insanın kanını donduran vakaları incelemek zorunda... Her gün yardım isteyen kurbanlar, kapatılmayı bekleyen dosyalarla uğraşan bu ekibin üyeleri, bir yandan da bu araştırmaların özel yaşamlarına olan etkisini dengelemeye çalışıyorlar.",
+        "poster_path": "/imaKy0BLfX1iPzj9ZvbOD0D09m6.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 461.0285,
+        "first_air_date": "1999-09-20",
+        "vote_average": 7.94,
+        "vote_count": 3931,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4FqKFhF4BrNsrK3EdRpVJofVqCp.jpg",
+        "id": 3452,
+        "name": "Frasier",
+        "original_name": "Frasier",
+        "overview": "Kelsey Grammer’in başrolde olduğu Frasier, beşi üst üste olmak üzere 21 Emmy Ödülü kazanmayı başarmış son derece başarılı bir komedi. İki psikaytr olan Crane Kardeşler olmak üzere hemen her karakterinin sergilediği ‘hastalıklı davranış halleri’ ve aralarındaki ilişkiler üzerine gelişen dizinin her bölümünde ‘yeterli dozda’ nevroz haliyle karşı karşıya kalacaksınız.\n\nİkisi de eşlerinden boşanmış Crane Kardeşler’in özenle döşenmiş evlerinde, pahalı içki ve sigaralarla süsledikleri ‘elit’ yaşamları, emekli polis memuru babaları Martin’in, Frasier’ın evin taşınmasıyla birlikte ciddi bir değişime uğruyor. Martin’in köpeği Eddie ve bir süre sonra eve taşınan bakıcısı Daphne de bu büyük değişimin kahramanları arasında. Bir yanda Frasier Crane’in seçkinci tavrı, diğer yanda Martin ve Daphne’nin avam yaşam tarzları...\n\nNBC’de Salı günleri gösterilen Frasier, geçen yıl 18-49 yaş grubu izleyiciler arasında en çok izlenen program olarak reyting sıralamalarında NBC’yi ilk sırayı aldı. 6.8 rating ve 17’lik paylaşım payıyla NBC’nin yayın tarihi boyunca Salı günü 21.00-21.30 diliminde en büyük zaferine imza atmış oldu. Diğer yandan son sezonu ABD’de yaklaşık 15.9 milyon kişi tarafından izlendi. Frasier’ın ilk bölümü de ABD’de 28.6 milyon kişi taraından izlenerek bu alanda bir rekora imza atmıştı...",
+        "poster_path": "/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 95.8582,
+        "first_air_date": "1993-09-16",
+        "vote_average": 7.666,
+        "vote_count": 799,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5kVAbZyQRJ582dltR4EmjDsOhMx.jpg",
+        "id": 1781,
+        "name": "Küçük Ev",
+        "original_name": "Little House on the Prairie",
+        "overview": "Bonanza'daki Küçük Co Michael Landon büyüyüp Ingalls ailesinin babası olmuştu. Küçük Ev 19. yüzyılda Minnesota'da dağbaşında ilkel bir kasabada yaşayan Laura Ingalls ve ailesinin meceralarını anlatıyor.",
+        "poster_path": "/eVpvlqKZfEVsBOttNFTUyfPoA6K.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          37,
+          18,
+          10751
+        ],
+        "popularity": 52.1661,
+        "first_air_date": "1974-09-11",
+        "vote_average": 7.9,
+        "vote_count": 909,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uXhIpe03EaFffpRa7IoPPSnFptS.jpg",
+        "id": 1489,
+        "name": "Jimmy Kimmel Live!",
+        "original_name": "Jimmy Kimmel Live!",
+        "overview": "Jimmy Kimmel Live! is an American late-night talk show, created and hosted by Jimmy Kimmel and broadcast on ABC.",
+        "poster_path": "/bGB6bEbG4qL22C1SFupkdAxYC9i.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767,
+          35
+        ],
+        "popularity": 151.0523,
+        "first_air_date": "2003-01-26",
+        "vote_average": 5.5,
+        "vote_count": 166,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1KclsHGiGNTkn11puPbMMnnpRRT.jpg",
+        "id": 2593,
+        "name": "Without a Trace",
+        "original_name": "Without a Trace",
+        "overview": "The series follows the ventures of a Missing Persons Unit of the FBI in New York City.",
+        "poster_path": "/iNhE283iY7xtS8zCjhSxpTfOzn0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          9648,
+          10759,
+          18
+        ],
+        "popularity": 73.1824,
+        "first_air_date": "2002-09-26",
+        "vote_average": 7.262,
+        "vote_count": 261,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9hjHVwtHFt03Y6kS9yFXoBI4WK0.jpg",
+        "id": 2443,
+        "name": "Buck Rogers in the 25th Century",
+        "original_name": "Buck Rogers in the 25th Century",
+        "overview": "20th-century astronaut Buck Rogers awakens in the 25th century after a freak accident puts him in suspended animation for 500 years. Upon returning to Earth and discovering the planet is recovering from a nuclear war, Buck uses his combat skills and ingenuity to protect Earth and fight evil throughout the galaxy alongside starfighter pilot Colonel Wilma Deering and robot companion Twiki.",
+        "poster_path": "/1SgcheHtEcacQxRFKpIuP0jYw6u.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10765
+        ],
+        "popularity": 20.8507,
+        "first_air_date": "1979-09-20",
+        "vote_average": 7.017,
+        "vote_count": 116,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/azB11aE39kvVCaZtLByZMWRMcHU.jpg",
+        "id": 1533,
+        "name": "Caméra Café",
+        "original_name": "Caméra Café",
+        "overview": "The coffee machine of a small company is the scene of discussions between employees. Private life, professional life, gossip, mockery, ... everything goes!",
+        "poster_path": "/1kd7wM61z4qmmjiuN2ZzgTJp07.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 78.5389,
+        "first_air_date": "2001-10-29",
+        "vote_average": 6.8,
+        "vote_count": 48,
+        "origin_country": [
+          "FR"
+        ]
+      },
+      {
+        "backdrop_path": "/rOigzdLeQedRF4ebFQMHELjfINC.jpg",
+        "id": 31631,
+        "name": "Gizli İşler",
+        "original_name": "Covert Affairs",
+        "overview": "Annie Walker (Piper Perabo) 6 yabancı dili akıcı bir şekilde konuşabilen, dünyanın dört bir yanını gezen ve CIA için eğitim gören adayların en iyilerinden biridir. Ancak, bunların hiçbiri eğitiminin bitmesine bir ay kala aktif bir görevde yer almak üzere saha ajanı olarak CIA genel merkezine çağrılmasının altında yatan nedeni açıklamaya yetmez. Annie'ye göre CIA'in ağır topları onun geçmişine dair bir şeyin ya da birinin peşindedir. Annie'nin CIA ile bağlantısını sağlayan gayriresmi rehberi Auggie Anderson (Christopher Gorham) görevdeyken görme yeteneğini kaybeden bir bilişim uzmanıdır. ",
+        "poster_path": "/pRWUGSGdByQHW93DH2braqkRjZa.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759
+        ],
+        "popularity": 22.427,
+        "first_air_date": "2010-07-13",
+        "vote_average": 6.857,
+        "vote_count": 235,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1hu8Gx4xd9mnrrd53STKIFLEXgK.jpg",
+        "id": 67132,
+        "name": "Kevin Can Wait",
+        "original_name": "Kevin Can Wait",
+        "overview": "A newly retired police officer looks forward to spending more quality time with his wife and three kids only to discover he faces much tougher challenges at home than he ever did on the streets.",
+        "poster_path": "/rpuNe29T0ZnBhw7nHpDDgimfObe.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 13.6171,
+        "first_air_date": "2016-09-19",
+        "vote_average": 5.658,
+        "vote_count": 149,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ajSETcBuftCMeloOxqHMkzdelpa.jpg",
+        "id": 99530,
+        "name": "Nakil",
+        "original_name": "Transplant",
+        "overview": "Dr. Bashir Hamed, a Syrian doctor with battle-tested skills in emergency medicine, makes the difficult decision to flee his country and build a new life in Canada with his younger sister Amira. Bash works to navigate a new environment after earning a coveted residency in the Emergency Department of one of the best hospitals in Toronto, York Memorial.",
+        "poster_path": "/ukvqJZI0XctnLst0CTE2r0AC2eu.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 13.7199,
+        "first_air_date": "2020-02-26",
+        "vote_average": 7.7,
+        "vote_count": 126,
+        "origin_country": [
+          "CA"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

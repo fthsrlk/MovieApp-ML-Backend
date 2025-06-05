@@ -1,0 +1,949 @@
+{
+  "adult": false,
+  "backdrop_path": "/mt3SRKq7uRBKVntaBg2ofsDfOdg.jpg",
+  "created_by": [
+    {
+      "id": 72082,
+      "credit_id": "5257781d760ee36aaa54c1a1",
+      "name": "Brad Wright",
+      "original_name": "Brad Wright",
+      "gender": 2,
+      "profile_path": "/v1dUe51V5xRKwpQyxvw8tQShj46.jpg"
+    },
+    {
+      "id": 1224904,
+      "credit_id": "5257781d760ee36aaa54c19b",
+      "name": "Jonathan Glassner",
+      "original_name": "Jonathan Glassner",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    42,
+    60,
+    43,
+    45
+  ],
+  "first_air_date": "1997-07-27",
+  "genres": [
+    {
+      "id": 10765,
+      "name": "Bilim Kurgu & Fantazi"
+    },
+    {
+      "id": 10759,
+      "name": "Aksiyon & Macera"
+    },
+    {
+      "id": 9648,
+      "name": "Gizem"
+    }
+  ],
+  "homepage": "http://stargate.mgm.com/view/series/1/index.html",
+  "id": 4629,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2007-06-22",
+  "last_episode_to_air": {
+    "id": 336035,
+    "name": "Unending",
+    "overview": "",
+    "vote_average": 8.7,
+    "vote_count": 25,
+    "air_date": "2007-06-22",
+    "episode_number": 20,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 44,
+    "season_number": 10,
+    "show_id": 4629,
+    "still_path": "/oY0JQv3nx7x8cUgo2qlA8aqNtYs.jpg"
+  },
+  "name": "Stargate SG-1",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 67,
+      "logo_path": "/Allse9kbjiP6ExaQrnSpIhkurEi.png",
+      "name": "Showtime",
+      "origin_country": "US"
+    },
+    {
+      "id": 77,
+      "logo_path": "/iYfrkobwDhTOFJ4AXYPSLIEeaAT.png",
+      "name": "Syfy",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 214,
+  "number_of_seasons": 10,
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Stargate SG-1",
+  "overview": "Eski Mısır tanrıları ile uzaylılar arasında ilişki kuran 1994 yapımı 'Yıldız Kapısı- Stargate' filminin devamı niteliğindeki televizyon dizisi, yıldız kapılarıyla galaksiyi dolaşan keşif takımı SG1'ın nefes kesen maceralarını anlatıyor. Televizyon tarihinin en uzun soluklu dizilerinden biri olan 'Yıldız Geçidi'nin yönetmenliğini Marıo Azzopardı üstleniyor. Dizinin başrollerinde ise Richard Dean Anderson, Michael Shanks ve Amanda Tapping rol alıyor.Kurduğu yeni ekiple Abydos gezegenine giden Albay Jack Oneİll, Ra'ya benzer uzaylının Apophis olduğunu öğrenir ve yıldız geçitlerinin ikiyle sınırlı olmadığını keşfeder.",
+  "popularity": 118.5941,
+  "poster_path": "/dQjmI7XxI47v8IM2MUysHG0LuU2.jpg",
+  "production_companies": [
+    {
+      "id": 2230,
+      "logo_path": "/igOjospzsKQIbpuFCGhoN5F9icS.png",
+      "name": "MGM Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 85850,
+      "logo_path": null,
+      "name": "Double Secret Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2004-07-05",
+      "episode_count": 7,
+      "id": 14150,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/iytxkMIUR6rPQFsh3A2WJah6JC9.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1997-07-27",
+      "episode_count": 22,
+      "id": 14151,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/tiib6A0kZ0NoUeuUbcU0hIu2jlM.jpg",
+      "season_number": 1,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "1998-06-26",
+      "episode_count": 22,
+      "id": 14141,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/lBMPJS97E8t6ULrE6hrZSkdne15.jpg",
+      "season_number": 2,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "1999-06-25",
+      "episode_count": 22,
+      "id": 14142,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/y784rvtXTNm2g6x3LqIpAFWY6di.jpg",
+      "season_number": 3,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2000-06-30",
+      "episode_count": 22,
+      "id": 14143,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/vpPEa8vqMr1WtXbE6fA0ABGeFoe.jpg",
+      "season_number": 4,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2001-06-29",
+      "episode_count": 22,
+      "id": 14144,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/tn0VrEaDdiefOGnphHkTJNAeqxM.jpg",
+      "season_number": 5,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2002-06-07",
+      "episode_count": 22,
+      "id": 14145,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/hFSLju61oOogrqiq0VD4eLdjV84.jpg",
+      "season_number": 6,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2003-06-13",
+      "episode_count": 22,
+      "id": 14146,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/r16NyHvsOFbm95j7ezfD2ZmMi5l.jpg",
+      "season_number": 7,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2004-07-09",
+      "episode_count": 20,
+      "id": 14147,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/47vubDA11B0y6edXbgVunQh9SBF.jpg",
+      "season_number": 8,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2005-07-15",
+      "episode_count": 20,
+      "id": 14148,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/qthzwn3wvra7UXHeuGONacTO0lT.jpg",
+      "season_number": 9,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2006-07-14",
+      "episode_count": 20,
+      "id": 14149,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/zWQUWJ1NbLLQhMDcyQ9OImG6oGg.jpg",
+      "season_number": 10,
+      "vote_average": 7.8
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.282,
+  "vote_count": 1644,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26048,
+        "known_for_department": "Acting",
+        "name": "Ben Browder",
+        "original_name": "Ben Browder",
+        "popularity": 1.4741,
+        "profile_path": "/28gdcjphnh7zjpWxgWWVvv9XMA7.jpg",
+        "character": "Cameron Mitchell",
+        "credit_id": "5257781c760ee36aaa54befd",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 26087,
+        "known_for_department": "Acting",
+        "name": "Amanda Tapping",
+        "original_name": "Amanda Tapping",
+        "popularity": 2.1162,
+        "profile_path": "/q8auGn4gl2tzr0KoIQ7QM2TIAF5.jpg",
+        "character": "Samantha Carter",
+        "credit_id": "5257781c760ee36aaa54bd81",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26088,
+        "known_for_department": "Acting",
+        "name": "Christopher Judge",
+        "original_name": "Christopher Judge",
+        "popularity": 2.348,
+        "profile_path": "/hxU7NXyTmVe7hbGnKJiLU6r9uQw.jpg",
+        "character": "Teal'c",
+        "credit_id": "5257781c760ee36aaa54bd45",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26086,
+        "known_for_department": "Acting",
+        "name": "Michael Shanks",
+        "original_name": "Michael Shanks",
+        "popularity": 2.7736,
+        "profile_path": "/4YkOrSUmfKljqTMwGIo50oviKe1.jpg",
+        "character": "Daniel Jackson",
+        "credit_id": "5257781c760ee36aaa54bdc9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 26054,
+        "known_for_department": "Acting",
+        "name": "Claudia Black",
+        "original_name": "Claudia Black",
+        "popularity": 2.0046,
+        "profile_path": "/mfjzbZy2eO11ZvCPFZhmZvLj4aY.jpg",
+        "character": "Vala Mal Doran",
+        "credit_id": "5257781d760ee36aaa54c165",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2222,
+        "known_for_department": "Acting",
+        "name": "Beau Bridges",
+        "original_name": "Beau Bridges",
+        "popularity": 3.6164,
+        "profile_path": "/Aiezvt0Uj2Ka9QVW3GvuRLkNS2V.jpg",
+        "character": "Hank Landry",
+        "credit_id": "5257781c760ee36aaa54bf83",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1230694,
+        "known_for_department": "Writing",
+        "name": "Joseph Mallozzi",
+        "original_name": "Joseph Mallozzi",
+        "popularity": 0.5549,
+        "profile_path": "/lLPm12YXIdWKU3EQcN0YLAl186Z.jpg",
+        "credit_id": "5257781f760ee36aaa54c38e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72082,
+        "known_for_department": "Writing",
+        "name": "Brad Wright",
+        "original_name": "Brad Wright",
+        "popularity": 1.4456,
+        "profile_path": "/v1dUe51V5xRKwpQyxvw8tQShj46.jpg",
+        "credit_id": "5257781d760ee36aaa54c25b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118463,
+        "known_for_department": "Acting",
+        "name": "Peter DeLuise",
+        "original_name": "Peter DeLuise",
+        "popularity": 2.2462,
+        "profile_path": "/sLkSOm6HBLB4VCfshQLdSEq63tr.jpg",
+        "credit_id": "5257781f760ee36aaa54c2f6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1221015,
+        "known_for_department": "Writing",
+        "name": "Paul Mullie",
+        "original_name": "Paul Mullie",
+        "popularity": 0.3098,
+        "profile_path": null,
+        "credit_id": "5257781f760ee36aaa54c3da",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27745,
+        "known_for_department": "Writing",
+        "name": "Robert C. Cooper",
+        "original_name": "Robert C. Cooper",
+        "popularity": 0.9702,
+        "profile_path": "/kL4YrxOPVnuzBFvJ77qDewWwF4D.jpg",
+        "credit_id": "5257781d760ee36aaa54c20f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1237669,
+        "known_for_department": "Production",
+        "name": "Michael Greenburg",
+        "original_name": "Michael Greenburg",
+        "popularity": 0.3049,
+        "profile_path": null,
+        "credit_id": "5257781f760ee36aaa54c2aa",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8676,
+        "known_for_department": "Writing",
+        "name": "Dean Devlin",
+        "original_name": "Dean Devlin",
+        "popularity": 2.139,
+        "profile_path": "/lO8HDHI3aVrpVubWb2DH1jeqM40.jpg",
+        "credit_id": "5257781d760ee36aaa54c1b5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26085,
+        "known_for_department": "Acting",
+        "name": "Richard Dean Anderson",
+        "original_name": "Richard Dean Anderson",
+        "popularity": 1.86,
+        "profile_path": "/hHCSMRiI4OMT1AxgWQhugtipvy2.jpg",
+        "credit_id": "5257781f760ee36aaa54c342",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "wormhole",
+        "id": 3417
+      },
+      {
+        "name": "space travel",
+        "id": 3801
+      },
+      {
+        "name": "space",
+        "id": 9882
+      },
+      {
+        "name": "travel",
+        "id": 9935
+      },
+      {
+        "name": "alien",
+        "id": 9951
+      },
+      {
+        "name": "alien planet",
+        "id": 10158
+      },
+      {
+        "name": "military",
+        "id": 162365
+      },
+      {
+        "name": "distant  planet",
+        "id": 210591
+      },
+      {
+        "name": "secret military program",
+        "id": 210592
+      },
+      {
+        "name": "inspirational",
+        "id": 281585
+      },
+      {
+        "name": "comforting",
+        "id": 325784
+      },
+      {
+        "name": "advanced ancient civilization",
+        "id": 350404
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/SLAPI1h9SWBMLTCO8ULvTGiP9G.jpg",
+        "id": 2290,
+        "name": "Stargate Atlantis",
+        "original_name": "Stargate Atlantis",
+        "overview": "Bir grup bilim adamı kayıp şehir Atlantis'in yerini tespit eder. Sanıldığı üzere Atlantis dünyada değil, Pegasus Galaksisi'ndedir.\n\nPopüler Stargate SG-1 dizisinin alternatif devamı olarak çekilen bu dizide, Diplomat Dr. Elizabeth Weir'ın öncülüğünde farklı milletlerden gelen bir bilim adamı ve asker grubu, Atlantis'e doğru geri dönüşü olmayan bir yolculuğa çıkarlar. Görevleri büyük güçlere sahip kadim ırklar tarafından inşa edildiği anlaşılan bu şehrin gizemlerini araştırmak ve keşiflerini dünyaya getirmektir. Ancak geri dönüşleri, bunu sağlayacak teknolojiyi Atlantis'te bulmalarına bağlıdır; hiçbir destek veya kurtarma görevi olmayacaktır.",
+        "poster_path": "/l0JYr2iqwId6VOmCV8dHzlIM6Wd.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 43.2339,
+        "first_air_date": "2004-07-15",
+        "vote_average": 8.02,
+        "vote_count": 1068,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/tK8eRUWVY8AVdDUPUxSzrmlLb0R.jpg",
+        "id": 5148,
+        "name": "Stargate Universe",
+        "original_name": "Stargate Universe",
+        "overview": " 1994 yapımı, Yönetmenliği  Roland Emmerich tarafından yapılan STARGATE filminin 3 oğlundan en zayıf ve çelimsiz olanı. Kadimler tarafından ve rotası binlerce yıl önce çizilmiş olan bir gemide sıkışarak mecburi yolculuklarında maceralar yaşayan bir grup asker ve bilim adamının hikayesi anlatılıyor. Çoğunlukla gemi içindeki güç mücadelelerinin gölgesinde kalan ve bilimkurgu-macera ögelerinin nadiren karşımıza çıktığı bir yapım.",
+        "poster_path": "/dHOaOZGUhnoRXeK9mhYeSRPh59H.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 23.1371,
+        "first_air_date": "2009-10-02",
+        "vote_average": 7.411,
+        "vote_count": 716,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sEjNaoENrqIZONKNn1iLFB0Us9k.jpg",
+        "id": 1972,
+        "name": "Battlestar Galactica",
+        "original_name": "Battlestar Galactica",
+        "overview": "İnsanlar, 12 Koloni gezegeninde gelişmiş bir uygarlık kurmuştur. Ancak insanlık, kendi yarattıkları sibernetik varlıklar olan Cylonlar tarafından büyük bir saldırıya uğrar. Cylonlar, kolonilere ani bir nükleer saldırı düzenleyerek insan ırkının neredeyse tamamını yok eder. Hayatta kalan az sayıdaki insan, eski bir savaş gemisi olan Battlestar Galactica ve bir grup sivil uzay gemisiyle kaçmayı başarır. Amiral William Adama ve Başkan Laura Roslin önderliğinde, hayatta kalanlar efsanevi bir gezegen olan Dünya'yı aramaya koyulurlar. Ancak Cylonlar peşlerini bırakmaz ve hayatta kalanlar arasında da iç çatışmalar, ihanet ve güç mücadeleleri baş gösterir.",
+        "poster_path": "/99PJSbcO2LeM10uOGWeFihNp77j.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 56.9897,
+        "first_air_date": "2004-10-18",
+        "vote_average": 8.209,
+        "vote_count": 1603,
+        "origin_country": [
+          "US",
+          "GB",
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/gTyZ24A6H4YgdYzmJ2VWoYoGTzs.jpg",
+        "id": 1310,
+        "name": "Sanctuary",
+        "original_name": "Sanctuary",
+        "overview": "The adventures of the beautiful, enigmatic and always surprising Dr. Helen Magnus, a brilliant scientist who holds the secrets of a clandestine population called Abnormals—a group of strange and sometimes terrifying beings that hide among humans. Magnus seeks to protect this threatened phenomena as well as unlock the mysteries behind their existence.",
+        "poster_path": "/7KIBYETkRSfHNsfWAWAt7uq7oGm.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10765
+        ],
+        "popularity": 17.3885,
+        "first_air_date": "2008-10-03",
+        "vote_average": 7.233,
+        "vote_count": 266,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/rY4HsR1MLlddyrotCDskeC4ROXb.jpg",
+        "id": 2985,
+        "name": "Andromeda",
+        "original_name": "Andromeda",
+        "overview": "Dizi bugünün binlerce yıl sonrasında gerçekleşmekte ve Tarn - Vedra yıldız sistemindeki anayasal bir monarşik düzen olan Systems Commonwealth çevresinde gelişmektedir. İnsanoğlu Commonwealth tarafından binlerce yıl öncesinde keşfedilmiş ve bir parçası olmuştur. Commonwealth birbirinden üç milyon ışık yılı mesafede bulunan üç galaksiye yayılmıştır: Saman Yolu, Triangulum ve Andromeda Galaksisi. Gemiler bu galaksilerin bir ucundan öbür ucuna ışıktan hızlı daha önceden belirlenmiş yollardan evreni yararak seyahat etmektedir.\n\nCommonwealth, ütopik bir toplum olarak görünse de yarasa yüzlü insansı bir tür olan Magoglarla savaş halindeydi. Birkaç yıl önce iyi niyet göstergesi olarak Commonwealth, Magoglar için bir gezegen tahsis etmişti. Bu gezegende yaşayan tür genetik olarak değiştirilmiş Nietzscheanlardı. Nietzschean'lar Magoglarla barış görüşmelerinden memnun kalmamışlar ve gizlice Commonwealth'i kontrol altına alma planları yapmaya başlamışlardı. Bu durumu, türün ünlü filozof Friedrich Nietzsche'nin \"Übermensch\" kavramına olan inancına bağlamak mümkündür. Commonwealth, Yüksek Muhafız Filosu (High Guard) -pek çok gemiden oluşan bir filo- tarafından korunuyordu. Dizinin baş kahramanı, Dylan Hunt, Andromeda Ascendant adlı bir Commonwealth gemisinin kaptanıdır. Bu geminin bilgisayarı, güçlü bir yapay zeka, dizinin ana karakteridir.\n\nKaptan Hunt'ın da dahil olduğu Yüksek Muhafız Filosu Nietzschean baskınına uğramıştır. Mürettebatını gemiyi terk etmeye zorlamış ama Andromeda bir kara delikin içine dalmışlar ve zaman içerisinde donmuştur. 303 yıl sonra, kurtarma gemisi Eureka Maru Hunt'ın gemisini bulur. Zaman içerisinde donuk kaldığı dönemde bildiği medeniyet değişmişti. Kurtarma gemisinin mürettebatı: Beka Valentine, sanatçı ve usta pilot; beynini direkt bilgisayar sistemine entegre edebilen süper dahi mühendis Seamus Harper (Beka tarafından Nietzschean'lar tarafından köleleştirilmiş Dünya'dan kurtarılmıştır); Trance Gemini ve Rev Bem. \"Rev\", Reverend'ın kısaltılmışıdır; Magog olmasına ve vahşi doğasına rağmen şiddet içermeyen, Taocu düşünceye benzeyen Yol adında bir dini tarikat keşfetmiş ve bu dinin keşişlerinden birisi olmuştur. Trance, peri benzeri pembe bir dişi uzaylıdır.",
+        "poster_path": "/b21FVG7BYKWdA48J4wNty0s1xtV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10765
+        ],
+        "popularity": 22.0306,
+        "first_air_date": "2000-10-02",
+        "vote_average": 7.109,
+        "vote_count": 262,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ywK4VrR7vL56mDGXDLMtFypwqA8.jpg",
+        "id": 253,
+        "name": "Star Trek",
+        "original_name": "Star Trek",
+        "overview": "Star Trek: The Original Series ilk kez ABD'de 8 Eylül 1966 Cuma günü NBC televizyonunda yayınlandı. Dizi William Shatner tarafından oynanan Kaptan Kirk'ün kumandasındaki Atılgan Yıldız Gemisi'nin mürettabatını ve onların \"daha önce hiç kimsenin gitmediği yerlere cesurca gitmek\" olan 5 yıllık görevi'nin hikâyelerini anlatmaktadır. Sadece 3 sezon sonunda dizi yayından kaldırıldı ve son bölüm 3 Haziran 1969'da gösterildi. Tekrarların gösterimini takriben bir kültürel fenomen haline geldi. İlk başta sadece Uzay Yolu olarak bilinmesine rağmen daha sonraki yıllarda Star Trek: Original Series ya da Klasik Trek (Classic Trek) olarak anıldı.",
+        "poster_path": "/zgK03lfPjkAsuh8LnNsofWgB7WM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 43.6383,
+        "first_air_date": "1966-09-08",
+        "vote_average": 8.011,
+        "vote_count": 1332,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/pX0YNhgplZW4zCcA4jDVrr2wBiM.jpg",
+        "id": 19092,
+        "name": "FlashForward",
+        "original_name": "FlashForward",
+        "overview": "Anlaşılmayan bir sarsıntı aynı anda tüm dünya nüfusunun bilincini 137 saniyeliğine kaybetmesine yol açar ve bu esnada herkes geleceğinden bir kesit görür. Sonrasında ise tüm dünya kendini bir kaosun ortasında bulur.\n\nLos Angeles FBI ajanı Mark Benford, gelecekteki kesitinde gördüklerinden yola çıkarak 29 Nisan 2010'un parçalarını bir araya getirmeye çalışır ama olayların sebebini anlamak ve olacakları engellemek konusunda çaresizdir; yaşanacaklar onu mutlu edecek türden değildir.",
+        "poster_path": "/7iu2HJ8ZSNbBgFLi42JNcuPjBax.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 17.0413,
+        "first_air_date": "2009-09-24",
+        "vote_average": 7.032,
+        "vote_count": 485,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5uxpTGMvH0taHAkMYxOQHYJcsws.jpg",
+        "id": 655,
+        "name": "Uzay Yolu: Yeni Nesil",
+        "original_name": "Star Trek: The Next Generation",
+        "overview": "Uzay Yolu: Yeni Nesil yaklaşık olarak asıl diziden bir yüzyıl sonra geçmekte, gene Atılgan adında fakat daha yeni ve gelişmiş yeni bir yıldız gemisi içermekte ve Kaptan Jean Luc Picard'ın emri altındaki yeni bir mürettabatın maceralarını anlatmaktadır. İnsanların galakside diğer bilinçli canlılarla birleşerek Birleşik Gezegenler Federasyonu'nu kurdukları, kurgusal bir 3. Dünya Savaşı sonrası bir geleceği tasvir eder. Evrende yalnız olmadıklarını anlayınca insanlık kendilerine özgü birçok zayıflık ve kötü alışkanlıklarını geride bırakır. Kahramanlar genelde fedakardır ama zaman zaman sonuç almak için başka yollara baş vurabilirler.",
+        "poster_path": "/vkLzXddgUKH5VcpnYiRzpJFrZhz.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18,
+          9648
+        ],
+        "popularity": 121.9856,
+        "first_air_date": "1987-09-28",
+        "vote_average": 8.4,
+        "vote_count": 1569,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gBeHadaylDePYy6Gy2xyDVeYLkP.jpg",
+        "id": 326,
+        "name": "Red Dwarf",
+        "original_name": "Red Dwarf",
+        "overview": "The adventures of the last human alive and his friends, stranded three million years into deep space on the mining ship Red Dwarf.",
+        "poster_path": "/cU9RFlyvJXbzyCzCGRqRmZrTDZU.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10765
+        ],
+        "popularity": 28.7379,
+        "first_air_date": "1988-02-15",
+        "vote_average": 8.051,
+        "vote_count": 395,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/fn2wQKo2pfavlTGsFSxgimAx24Q.jpg",
+        "id": 21720,
+        "name": "House of Cards",
+        "original_name": "House of Cards",
+        "overview": "Frustrated at a new moderate Conservative government and deprived of a promotion to a senior position, chief whip Francis Urquhart prepares a meticulous plot to bring down the Prime Minister then to take his place.",
+        "poster_path": "/evQlyXJtIjI9QiZUu180RsyWVCV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10768,
+          35,
+          18
+        ],
+        "popularity": 3.362,
+        "first_air_date": "1990-11-18",
+        "vote_average": 8.1,
+        "vote_count": 145,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/uo4wPlubpUwjlLm39PF8BxXCqLm.jpg",
+        "id": 4271,
+        "name": "Farscape",
+        "original_name": "Farscape",
+        "overview": "Astronot John Crichton kendi geliştirdiği bir teoriyi test etmek için küçük bir uzay mekiğiyle gökyüzüne çıkar. Deney sırasında rastlantılar sonucu karşısında beliren bir Worm Hole (solucan delikleri) sayesinde binlerce galaksi ötede belirir. Solucan delikleri uzayda bir taraftan bir tarafa açılan kapılardır.\n\nKendisini küçük bir uzay savaşının ortasında bulur. Bu esnada üç mahkum, savaşan taraflardan biri olan Peacekeeper’lardan Moya adlı biyomekanik bir uzay gemisiyle, yani yaşayan bir uzay gemisiyle kaçmaya çalışıyorlardır.",
+        "poster_path": "/fCJx7cCXKOEkmCVIIyP8qk0Pb7Y.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 39.1453,
+        "first_air_date": "1999-03-19",
+        "vote_average": 7.848,
+        "vote_count": 544,
+        "origin_country": [
+          "AU",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7YFranrnnIcCrgsLYQsoq8aE3Ir.jpg",
+        "id": 1855,
+        "name": "Star Trek: Voyager",
+        "original_name": "Star Trek: Voyager",
+        "overview": "USS Voyager'ın, 70.000 ışık yılı uzaklıktaki Delta çeyreğinde kayboluşunun hikayesi. 70 yıllık bir eve dönüş yolculuğu ile karşı karşıya olan mürettebat, zorlukların üstesinden gelmek ve kendi aralarındaki çatışmaları yenmek zorundadır. |",
+        "poster_path": "/gNS5tRSG3UlXodCxznKKOKweqxh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 100.7965,
+        "first_air_date": "1995-01-16",
+        "vote_average": 7.799,
+        "vote_count": 984,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/o6ixncGLOtRPz78vEIy9p1cOn9J.jpg",
+        "id": 688,
+        "name": "The West Wing",
+        "original_name": "The West Wing",
+        "overview": "The West Wing provides a glimpse into presidential politics in the nation's capital as it tells the stories of the members of a fictional presidential administration. These interesting characters have humor and dedication that touches the heart while the politics that they discuss touch on everyday life.",
+        "poster_path": "/yqDWr5NAE7m1IWrygYwLyEB6pN0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 87.9785,
+        "first_air_date": "1999-09-22",
+        "vote_average": 8.255,
+        "vote_count": 511,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gH5HQbMsSfPc0R41JYTefjB7klZ.jpg",
+        "id": 314,
+        "name": "Star Trek: Enterprise",
+        "original_name": "Star Trek: Enterprise",
+        "overview": "Orijinal Uzay Yolu'ndan yüzyıl önce geçen bu yeni hikayede, Kaptan Archer ve mürettebatı ilk Atılgan gemisiyle uzayı keşfediyor ve yeni türlerle tanışıyor.",
+        "poster_path": "/tsbBTABtNgu0ycsFpnIhiQ5woOM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 62.1192,
+        "first_air_date": "2001-09-26",
+        "vote_average": 7.565,
+        "vote_count": 841,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vEGkRAhz2rTYK9kGOjcTRqRD13o.jpg",
+        "id": 580,
+        "name": "Star Trek: Deep Space Nine",
+        "original_name": "Star Trek: Deep Space Nine",
+        "overview": "At Deep Space Nine, a space station located next to a wormhole in the vicinity of the liberated planet of Bajor, Commander Sisko and crew welcome alien visitors, root out evildoers and solve all types of unexpected problems that come their way.",
+        "poster_path": "/vE6138ykaEXQkCSEHyuBIgfGlUZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 121.1683,
+        "first_air_date": "1993-01-03",
+        "vote_average": 7.9,
+        "vote_count": 844,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/fOycBFJr9nyBrnC5vk9cfGqg2e2.jpg",
+        "id": 51704,
+        "name": "Defiance",
+        "original_name": "Defiance",
+        "overview": "Dizi, yeryüzünün neredeyse tamamen uzaylıların istilasına uğradığı yakın bir gelecekte geçmektedir. Avare bir adamla evlat edindiği Irathient ırkından kızının, St. Louis şehrinin yıkıntılarında insanlarla votanların kurduğu Defiance kasabasına bir şekilde yollarının düşmesiyle macera başlar.",
+        "poster_path": "/4Xo2D2MX8v4FoHi70Y9jEghJGUI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 13.2848,
+        "first_air_date": "2013-04-15",
+        "vote_average": 6.757,
+        "vote_count": 496,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2yWQg2FBynT8vFQw3kmBlOTdrXy.jpg",
+        "id": 1481,
+        "name": "The 4400",
+        "original_name": "The 4400",
+        "overview": "4400 centers on the return of 4400 people who, previously presumed dead or reported missing, reappear on Earth. Though they have not aged physically, some of them seem to have deeper alterations ranging from superhuman strength to an unexplained healing touch. A government agency is formed to track the 4400 people after one of them commits a murder.",
+        "poster_path": "/nWpatnVtPVxjsn7mMiRZNAalEMf.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 13.4248,
+        "first_air_date": "2004-07-11",
+        "vote_average": 7.17,
+        "vote_count": 675,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/b8fW3cOXCHKWNQw2g37A45RpICk.jpg",
+        "id": 918,
+        "name": "M*A*S*H",
+        "original_name": "M*A*S*H",
+        "overview": "The 4077th Mobile Army Surgical Hospital is stuck in the middle of the Korean war. With little help from the circumstances they find themselves in, they are forced to make their own fun. Fond of practical jokes and revenge, the doctors, nurses, administrators, and soldiers often find ways of making wartime life bearable.",
+        "poster_path": "/6rhuM3oMoEWKxAdrm7IyM8oq8cC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10768,
+          18,
+          35
+        ],
+        "popularity": 98.4946,
+        "first_air_date": "1972-09-17",
+        "vote_average": 7.915,
+        "vote_count": 680,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lBmlLro9ZfY815ZXE5NKhYNxPRQ.jpg",
+        "id": 95,
+        "name": "Buffy the Vampire Slayer",
+        "original_name": "Buffy the Vampire Slayer",
+        "overview": "Buffy, görünüşte annesiyle birlikte Sunnydale'e taşınan ve burada yeni okulu Sunnydale High'a alışmaya çalışan sıradan bir genç kızdır. Buffy'nin kısa zamanda bu küçük kasabaya alışmasını kolaylaştıran şey, yöre halkının sıcak karşılamasından çok, Cehennem Ağzı'ndan fırlamış türlü iblis ve vampirlerdir. Buffy her nesilde, gecenin yaratıklarıyla mücadele etmeleri üzere seçilen Avcı'ların sonuncusudur ve buraya gelmesinin sebebi de önceki okulunu, vampirleri yok etmek için ateşe verip kül etmiş olmasıdır. Hiç de istemediği bu kaderi yaşamasını kolaylaştıran şey arkadaşları Willow, Xander ve gözetmeni Giles'ın varlığıdır. Ancak ruhu olan vampir Angel'ın devreye girişi işleri biraz karıştıracaktır.",
+        "poster_path": "/y7fVZkyheCEQHDUEHwNmYENGfT2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          35,
+          18,
+          10759
+        ],
+        "popularity": 78.4572,
+        "first_air_date": "1997-03-10",
+        "vote_average": 8.126,
+        "vote_count": 1814,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/twOty8QayfsRgHsRgdUFMzgAwdp.jpg",
+        "id": 3137,
+        "name": "Babylon 5: Başlangıç",
+        "original_name": "Babylon 5",
+        "overview": "İnsanoğlunun Üçüncü Çağı'nın başlangıcıydı. Dünya-Minbari Savaşı'ndan 10 yıl sonra. Babylon Projesi, gerçeğe dönüştürülmüş bir rüya idi. Amacı: İnsanların ve uzaylıların birlikte geçinebilecekleri bir yer yaratarak yeni bir savaşı önlemek. Diplomatlar, dolandırıcılar, girişimciler ve maceracılar için evden çok uzakta bir uğrak limanı. 2,5 milyon ton dönen metal içine sarılmış insanlar ve uzaylılar, gecenin içinde yapayalnız. Tehlikeli bir yer olabilir. Ama barış için son ve en iyi umudumuz. Bu, son Babylon istasyonunun öyküsüdür. Bu yerin adı: Babylon 5...",
+        "poster_path": "/fIu4IKZMyhJA35QiCFhViYo4sml.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765,
+          10759
+        ],
+        "popularity": 44.1903,
+        "first_air_date": "1994-01-26",
+        "vote_average": 8.034,
+        "vote_count": 537,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

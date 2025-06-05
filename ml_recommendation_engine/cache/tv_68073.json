@@ -1,0 +1,767 @@
+{
+  "adult": false,
+  "backdrop_path": "/36iVELhma9MawHkdMDPNRX8onEu.jpg",
+  "created_by": [
+    {
+      "id": 1218981,
+      "credit_id": "5855a3a2c3a36827a503ee41",
+      "name": "Chris Savino",
+      "original_name": "Chris Savino",
+      "gender": 2,
+      "profile_path": "/1bhVQMyLtEbifKvDj8k3DRstCqO.jpg"
+    }
+  ],
+  "episode_run_time": [
+    11
+  ],
+  "first_air_date": "2016-05-02",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animasyon"
+    },
+    {
+      "id": 35,
+      "name": "Komedi"
+    },
+    {
+      "id": 10751,
+      "name": "Aile"
+    },
+    {
+      "id": 10762,
+      "name": "Çocuklar"
+    },
+    {
+      "id": 9648,
+      "name": "Gizem"
+    }
+  ],
+  "homepage": "https://www.nick.com/shows/loud-house",
+  "id": 68073,
+  "in_production": true,
+  "languages": [
+    "en",
+    "de",
+    "es"
+  ],
+  "last_air_date": "2024-11-21",
+  "last_episode_to_air": {
+    "id": 5654594,
+    "name": "17. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2024-11-21",
+    "episode_number": 17,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 11,
+    "season_number": 8,
+    "show_id": 68073,
+    "still_path": null
+  },
+  "name": "Gürültü Ailesi",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 13,
+      "logo_path": "/aYkLXz4dxHgOrFNH7Jv7Cpy56Ms.png",
+      "name": "Nickelodeon",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 356,
+  "number_of_seasons": 9,
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Loud House",
+  "overview": "Ortanca çocuk Lincoln'ün her biri birer baş belası olan beşi büyük, beşi küçük tam on kız kardeşle yaşamaya çalıştığı Gürültü ailesinin evine kargaşa hâkimdir.",
+  "popularity": 100.7541,
+  "poster_path": "/rR1X56iuTkmszfqp2QRPyWJvNQY.jpg",
+  "production_companies": [
+    {
+      "id": 4859,
+      "logo_path": "/wOF6aAYFE5BQryYyaMdQPqUWYwt.png",
+      "name": "Nickelodeon Animation Studio",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "MY",
+      "name": "Malaysia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-04-18",
+      "episode_count": 28,
+      "id": 151258,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/raZMT5H0prL1t6CKq9jJQx5h60a.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2016-05-02",
+      "episode_count": 52,
+      "id": 80695,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/1bcintOuBp44Tv84whV01cmckv.jpg",
+      "season_number": 1,
+      "vote_average": 5.4
+    },
+    {
+      "air_date": "2016-11-09",
+      "episode_count": 49,
+      "id": 87358,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/v8o6F27MSeCXkl99OFODwZbhgzO.jpg",
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2018-01-19",
+      "episode_count": 48,
+      "id": 98181,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/mfYzMc0AzdT4QnQ1vYTOMftwN04.jpg",
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2019-05-27",
+      "episode_count": 50,
+      "id": 124271,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/iIJeCcRiFov8dPd7wSfzyN6cU7F.jpg",
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2020-09-11",
+      "episode_count": 47,
+      "id": 160609,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/8hyx9zoZgdv11fLDGuBMYMprVga.jpg",
+      "season_number": 5,
+      "vote_average": 1.0
+    },
+    {
+      "air_date": "2022-03-11",
+      "episode_count": 49,
+      "id": 197349,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/xabiApQ3WLRuVJZT7VTL8xXKkYY.jpg",
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2023-05-17",
+      "episode_count": 38,
+      "id": 318195,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/mgsdpMtXY3WSXhkOJbecmgnHxPR.jpg",
+      "season_number": 7,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2024-06-10",
+      "episode_count": 22,
+      "id": 398775,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 9.5
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 425276,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.83,
+  "vote_count": 535,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1401389,
+        "known_for_department": "Acting",
+        "name": "Cristina Pucelli",
+        "original_name": "Cristina Pucelli",
+        "popularity": 0.8589,
+        "profile_path": "/zLBjAlqB5jAtqLv668jrBYIrUtN.jpg",
+        "character": "Luan Loud (voice)",
+        "credit_id": "5855a514c3a368315003edbf",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15761,
+        "known_for_department": "Acting",
+        "name": "Grey DeLisle",
+        "original_name": "Grey DeLisle",
+        "popularity": 4.4172,
+        "profile_path": "/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg",
+        "character": "Lola Loud / Lana Loud / Lily Loud (voice)",
+        "credit_id": "5855a56dc3a3682fb804ead6",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 71861,
+        "known_for_department": "Acting",
+        "name": "Liliana Mumy",
+        "original_name": "Liliana Mumy",
+        "popularity": 1.7094,
+        "profile_path": "/rjwfUdZYb1P7y2DR8pekZ5tusHZ.jpg",
+        "character": "Leni Loud (voice)",
+        "credit_id": "5855a4e4c3a3682fb804ea6f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 52698,
+        "known_for_department": "Acting",
+        "name": "Nika Futterman",
+        "original_name": "Nika Futterman",
+        "popularity": 2.0779,
+        "profile_path": "/6zfuSfLGtLXtFxXBUftMQbgfH6q.jpg",
+        "character": "Luna Loud (voice)",
+        "credit_id": "5855a501c3a3682f5804180f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 94820,
+        "known_for_department": "Acting",
+        "name": "Jessica DiCicco",
+        "original_name": "Jessica DiCicco",
+        "popularity": 2.1427,
+        "profile_path": "/1Cp0PFtup0mlsecGyfImzd4LDiL.jpg",
+        "character": "Lynn Loud Jr. / Lucy Loud (voice)",
+        "credit_id": "5855a53a92514175ad037c2d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 174462,
+        "known_for_department": "Acting",
+        "name": "Lara Jill Miller",
+        "original_name": "Lara Jill Miller",
+        "popularity": 1.7071,
+        "profile_path": "/4C6W6w9uxA1WEe62zodDfHj3hZ8.jpg",
+        "character": "Lisa Loud (voice)",
+        "credit_id": "585fcdc2c3a3681a6f01d849",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1305831,
+        "known_for_department": "Acting",
+        "name": "Grant Palmer",
+        "original_name": "Grant Palmer",
+        "popularity": 0.9028,
+        "profile_path": "/5IbVi6RH7PP2CCyPf9YpiFbOfpu.jpg",
+        "character": "Lincoln Loud (voice)",
+        "credit_id": "5855a4afc3a36827a503eef2",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1723995,
+        "known_for_department": "Acting",
+        "name": "Caleel Harris",
+        "original_name": "Caleel Harris",
+        "popularity": 0.7799,
+        "profile_path": "/cZi0NxCQsQSEakTuOg75qukIGW6.jpg",
+        "character": "Clyde McBride (voice)",
+        "credit_id": "5855a63f9251416fad042997",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1218981,
+        "known_for_department": "Writing",
+        "name": "Chris Savino",
+        "original_name": "Chris Savino",
+        "popularity": 1.3881,
+        "profile_path": "/1bhVQMyLtEbifKvDj8k3DRstCqO.jpg",
+        "credit_id": "65a9a5e8357c0000ced6756f",
+        "department": "Crew",
+        "job": "Creator"
+      }
+    ]
+  },
+  "keywords": {
+    "results": []
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/kA50bkSC6bw5ZkutYrN9sLD9CZ9.jpg",
+        "id": 22980,
+        "name": "Watch What Happens Live with Andy Cohen",
+        "original_name": "Watch What Happens Live with Andy Cohen",
+        "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+        "poster_path": "/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767,
+          35
+        ],
+        "popularity": 608.7168,
+        "first_air_date": "2009-07-16",
+        "vote_average": 5.09,
+        "vote_count": 67,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/80KgNNF0bpoDvU5iNXT07Lgb2wL.jpg",
+        "id": 6673,
+        "name": "The Marvelous Misadventures of Flapjack",
+        "original_name": "The Marvelous Misadventures of Flapjack",
+        "overview": "A young boy who grew up inside a talking whale sets sail for magical Candied Island, accompanied by Capt. K'nuckles, a crusty old pirate.",
+        "poster_path": "/8dpk0bjBgX93ZkQxEI1daNSj3OW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          35,
+          16
+        ],
+        "popularity": 50.3361,
+        "first_air_date": "2008-06-05",
+        "vote_average": 8.1,
+        "vote_count": 349,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/61mG1J9cN4eoSuSSBSVS0QdmQyV.jpg",
+        "id": 1839,
+        "name": "The Critic",
+        "original_name": "The Critic",
+        "overview": "The Critic is an American prime time animated series created by writing partners Al Jean and Mike Reiss, who had previously worked as writers and showrunners on The Simpsons. The show follows the life of a 36-year-old film critic from New York named Jay Sherman, voiced by Jon Lovitz. 23 episodes were produced, first broadcast on ABC in 1994 and finishing its original run on Fox in 1995.",
+        "poster_path": "/pVP8YDNWEV3JUVGJRySbgVJLVZU.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          18
+        ],
+        "popularity": 8.5368,
+        "first_air_date": "1994-01-26",
+        "vote_average": 7.348,
+        "vote_count": 112,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uC6NoapdAI8xy4SHMNtd5jXbWup.jpg",
+        "id": 1475,
+        "name": "The Dead Zone",
+        "original_name": "The Dead Zone",
+        "overview": "Johnny Smith discovers he has developed psychic abilities after a coma.",
+        "poster_path": "/j9l4svOscUWoVqGoATtGEDfTms.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 29.6113,
+        "first_air_date": "2002-06-16",
+        "vote_average": 7.232,
+        "vote_count": 149,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lXQpWlN24cxwBjNvqOUju2WouDg.jpg",
+        "id": 1760,
+        "name": "As Told by Ginger",
+        "original_name": "As Told by Ginger",
+        "overview": "As Told by Ginger focuses on middle schooler Ginger Foutley who, with her friends, tries to become more than a social geek.",
+        "poster_path": "/6Kd09yYpf2qEYusPB9rtsidMnJu.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          16,
+          35,
+          10762
+        ],
+        "popularity": 24.4156,
+        "first_air_date": "2000-10-25",
+        "vote_average": 6.567,
+        "vote_count": 82,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lXU4HMoNmrgPEO2meDmlv5kY8OG.jpg",
+        "id": 74323,
+        "name": "Vampirina",
+        "original_name": "Vampirina",
+        "overview": "Genç bir vampir kız, ailesi doğaüstü misafirler için ürkütücü bir otel işletirken yeni bir şehirde insan arkadaşlar edinerek hayatını sürdürmeye çalışır.",
+        "poster_path": "/18Mmri8vmBKbGbiymFPlSHlg71o.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762,
+          35
+        ],
+        "popularity": 18.748,
+        "first_air_date": "2017-10-01",
+        "vote_average": 6.219,
+        "vote_count": 32,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lFK8Pwqz3hKYMLfaB3igfK4k4jT.jpg",
+        "id": 80991,
+        "name": "Doktor Çıbanım",
+        "original_name": "Dr. Pimple Popper",
+        "overview": "Doktor Çıbanım programında, Youtube ve Instagram videoları 2 milyardan fazla izlenen, sosyal medya fenomeni Dr. Pimple Popper (Sandra Lee) ve hastalarıyla tanışıyoruz. Her bölüm farklı bir cilt hastalığının tedavisine ve bu sayede değişen hayatlara tanık oluyoruz.",
+        "poster_path": "/yg28imu7KwIiPZBNPCcD7UoTW3S.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 36.5751,
+        "first_air_date": "2018-07-11",
+        "vote_average": 7.4,
+        "vote_count": 28,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uk6L7aiPEDGrQW83g1SjGkf5m8E.jpg",
+        "id": 69605,
+        "name": "Urawa no Usagi-chan",
+        "original_name": "浦和の調ちゃん",
+        "overview": "An original anime to advertise Urawa City in Saitama, Japan.",
+        "poster_path": "/5e1HJSHsnfb1rYNHQSK2DtaseoL.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16
+        ],
+        "popularity": 0.4246,
+        "first_air_date": "2015-04-10",
+        "vote_average": 7.0,
+        "vote_count": 28,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/61sQakosFlSETNNCS9Mn2SqFVUf.jpg",
+        "id": 93221,
+        "name": "The Great North",
+        "original_name": "The Great North",
+        "overview": "Follow the Alaskan adventures of the Tobin family as a single dad does his best to keep his weird bunch of kids close, especially as the artistic dreams of his only daughter lead her away from the family fishing boat and into the glamorous world of the local mall.",
+        "poster_path": "/oHwdy9LPFQuvl1e80DoHpKcjO5Q.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 23.861,
+        "first_air_date": "2021-01-03",
+        "vote_average": 6.8,
+        "vote_count": 67,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/mYIOFupry8mDjhSacNBFOEr5nr9.jpg",
+        "id": 78584,
+        "name": "Hermanos y detectives",
+        "original_name": "Hermanos y detectives",
+        "overview": "An administrative police officer, Franco Montero, receives as an inheritance the care of a half-brother that he did not know. Lorenzo Montero, a child prodigy with an IQ of 200 who changes his way of life and his work. The eleven-year-old's intelligence puts Franco and his assistant Gustavo Mansilla in charge of the homicide division. By deducing and exploring the three, they solve the most striking cases.",
+        "poster_path": "/yJDtZNF52GzSXeX87rMUmMZDNKJ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          35,
+          80,
+          9648
+        ],
+        "popularity": 1.7417,
+        "first_air_date": "2006-09-06",
+        "vote_average": 8.289,
+        "vote_count": 46,
+        "origin_country": [
+          "AR"
+        ]
+      },
+      {
+        "backdrop_path": "/1FkQNRA0O5j4s6bW8iHp1sWqFSk.jpg",
+        "id": 66149,
+        "name": "The Powerpuff Girls",
+        "original_name": "The Powerpuff Girls",
+        "overview": "Three colorful, sugarcoated kids trying to juggle school and save the world before bedtime.",
+        "poster_path": "/n8M0tl1V2QYRLbs3hPQfJgQgTgT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          16,
+          10759,
+          10762,
+          10751
+        ],
+        "popularity": 44.2801,
+        "first_air_date": "2016-04-04",
+        "vote_average": 5.2,
+        "vote_count": 74,
+        "origin_country": [
+          "GW",
+          "US",
+          "HK"
+        ]
+      },
+      {
+        "backdrop_path": "/8BaPwADDUeg752Dxf0VSUHMQuYc.jpg",
+        "id": 31991,
+        "name": "WWE NXT",
+        "original_name": "WWE NXT",
+        "overview": "Wrestlers will portray heroes or villains as they follow a series of events that build tension and culminate in a wrestling match or series of matches.",
+        "poster_path": "/9nLBX5Bf7PW4FAaWJLXpFFdeTlV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "popularity": 21.6226,
+        "first_air_date": "2010-02-23",
+        "vote_average": 6.7,
+        "vote_count": 116,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/iP8u48ht52EvysIslfk3ZpQw76I.jpg",
+        "id": 211779,
+        "name": "The Really Loud House",
+        "original_name": "The Really Loud House",
+        "overview": "12-year-old Lincoln Loud goes on new adventures in the town of Royal Woods with his best friend Clyde McBride, while also navigating the chaos of living in a family with 10 sisters.",
+        "poster_path": "/sMQiGeozy1xUWjhlbcp2QArtnPV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10762
+        ],
+        "popularity": 12.84,
+        "first_air_date": "2022-11-03",
+        "vote_average": 8.7,
+        "vote_count": 21,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1yF4JnCSSB3AG3pdxkAPnUh12Ws.jpg",
+        "id": 66774,
+        "name": "Epic Rap Battles of History",
+        "original_name": "Epic Rap Battles of History",
+        "overview": "Pitting notable historical and pop culture figures, real and fictional, against one another in a rap battle format.",
+        "poster_path": "/4qXok4hvDCdzyp4JoJ82WByHToh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 63.1503,
+        "first_air_date": "2010-09-26",
+        "vote_average": 7.284,
+        "vote_count": 37,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gBOqDrYvTST3nCvDHrSM6dp5s4E.jpg",
+        "id": 86658,
+        "name": "The Witch of the South",
+        "original_name": "ساحرة الجنوب",
+        "overview": "Set in Upper Egypt, the series follows Rouh, a girl connected to the world of Jinn and demons, who stirs a lot of trouble and tension between the locals with her spells.",
+        "poster_path": "/fqZvjTeJrn0I1C4RiqNDtkORZBG.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ar",
+        "genre_ids": [],
+        "popularity": 12.1108,
+        "first_air_date": "2015-08-30",
+        "vote_average": 5.0,
+        "vote_count": 3,
+        "origin_country": []
+      },
+      {
+        "backdrop_path": "/itmHtY4asbET2jTenAsw8xz8F1a.jpg",
+        "id": 9636,
+        "name": "The Thorn Birds: The Missing Years",
+        "original_name": "The Thorn Birds: The Missing Years",
+        "overview": "The story of the 19 years that are unaccounted for between the birth of Dane and Ralph's return to Australia in the original miniseries.",
+        "poster_path": "/4mwxAMCUiQDxp66PRtky5AS2wct.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 0.2712,
+        "first_air_date": "1996-02-11",
+        "vote_average": 7.0,
+        "vote_count": 1,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/c1CBVe8UzltKScrjnM3aBFd8SA1.jpg",
+        "id": 79061,
+        "name": "Craig'in Krallığı",
+        "original_name": "Craig of the Creek",
+        "overview": "Craig’in Krallığı, Craig ve 2 yakın arkadaşı Kelsey ve J’nin bilinmeyene doğru yaşadıkları macerayı anlatıyor. Bu macerada onları bir sürü eğlence ve keşfedilmemiş yeni yerler bekliyor.",
+        "poster_path": "/u4LaONJSBi0khRe2L8nqBk81dlc.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          10751,
+          10762,
+          35
+        ],
+        "popularity": 70.8408,
+        "first_air_date": "2018-03-30",
+        "vote_average": 8.15,
+        "vote_count": 246,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/p4yhSieDPF9zRMUbr9Ar4XrjbST.jpg",
+        "id": 68780,
+        "name": "Star",
+        "original_name": "Star",
+        "overview": "Star is a tough-as-nails young woman who came up in the foster care system and decides one day to take control of her destiny. She tracks down her sister, Simone, and her Instagram bestie, Alexandra, and together, the trio journeys to Atlanta with the hope of becoming music superstars.",
+        "poster_path": "/poQgqeiKzA50etdQoJxELMA6M4s.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 15.6194,
+        "first_air_date": "2016-12-14",
+        "vote_average": 7.96,
+        "vote_count": 139,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

@@ -1,0 +1,1346 @@
+{
+  "adult": false,
+  "backdrop_path": "/wsfIB9NyqLwztoPupinjN0V61We.jpg",
+  "created_by": [
+    {
+      "id": 56158,
+      "credit_id": "52570fc0760ee3776a0b15b5",
+      "name": "Lorne Michaels",
+      "original_name": "Lorne Michaels",
+      "gender": 2,
+      "profile_path": "/lVBbmYJmYQWOODTPJFjOZzvS4x8.jpg"
+    },
+    {
+      "id": 1215166,
+      "credit_id": "52570fc0760ee3776a0b15bb",
+      "name": "Dick Ebersol",
+      "original_name": "Dick Ebersol",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1975-10-11",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Komedi"
+    },
+    {
+      "id": 10763,
+      "name": "Haber"
+    }
+  ],
+  "homepage": "http://www.nbc.com/Saturday_Night_Live/",
+  "id": 1667,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-04-12",
+  "last_episode_to_air": {
+    "id": 5921511,
+    "name": "19. Bölüm",
+    "overview": "",
+    "vote_average": 8.0,
+    "vote_count": 1,
+    "air_date": "2025-05-03",
+    "episode_number": 19,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 69,
+    "season_number": 50,
+    "show_id": 1667,
+    "still_path": "/6sDOlXnvQQnw58x98m2mEdTO4As.jpg"
+  },
+  "name": "Saturday Night Live",
+  "next_episode_to_air": {
+    "id": 5921513,
+    "name": "20. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-05-10",
+    "episode_number": 20,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 50,
+    "show_id": 1667,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 989,
+  "number_of_seasons": 50,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Saturday Night Live",
+  "overview": "",
+  "popularity": 141.0686,
+  "poster_path": "/sHGuKFjIBisPk8cvtCZTDVktYfs.jpg",
+  "production_companies": [
+    {
+      "id": 1756,
+      "logo_path": "/d7YyNzysIF0lSb4lJRf1ar6MHxi.png",
+      "name": "Broadway Video",
+      "origin_country": "US"
+    },
+    {
+      "id": 7928,
+      "logo_path": "/tsa8zFtAIHlOJjL5G4fe75bBeCP.png",
+      "name": "NBC Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 26727,
+      "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 207345,
+      "logo_path": null,
+      "name": "NBC Universal Television",
+      "origin_country": ""
+    },
+    {
+      "id": 2822,
+      "logo_path": "/db94bUlhu5GH7KB7IHofCyix66K.png",
+      "name": "SNL Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1977-02-20",
+      "episode_count": 220,
+      "id": 59623,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/azt3NaDnPrqaIFuTg191fjkBpCB.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1975-10-11",
+      "episode_count": 24,
+      "id": 59588,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/sjOaQhU84QhHcWtZ3FNB2DQyEKX.jpg",
+      "season_number": 1,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "1976-09-18",
+      "episode_count": 22,
+      "id": 59589,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/mZbTQfW6eNAGmZSyiZdVvvJI339.jpg",
+      "season_number": 2,
+      "vote_average": 6.2
+    },
+    {
+      "air_date": "1977-09-24",
+      "episode_count": 20,
+      "id": 59590,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/o13uHXrdrT5Sq5D94PYwRF7zuww.jpg",
+      "season_number": 3,
+      "vote_average": 6.4
+    },
+    {
+      "air_date": "1978-10-07",
+      "episode_count": 20,
+      "id": 59591,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/fg83ld21HBNELI4UtOoSHBib7oS.jpg",
+      "season_number": 4,
+      "vote_average": 6.3
+    },
+    {
+      "air_date": "1979-10-13",
+      "episode_count": 20,
+      "id": 59592,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/kq8siB5ZpgQLPk4rX5qyTPzTMUm.jpg",
+      "season_number": 5,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "1980-11-15",
+      "episode_count": 13,
+      "id": 59593,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/hT547KBg92ehwCLaMv15hNfNQUh.jpg",
+      "season_number": 6,
+      "vote_average": 4.0
+    },
+    {
+      "air_date": "1981-10-03",
+      "episode_count": 20,
+      "id": 59594,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/sFlbysYRKk60pQ3xzMtaItR9mBU.jpg",
+      "season_number": 7,
+      "vote_average": 5.8
+    },
+    {
+      "air_date": "1982-09-25",
+      "episode_count": 20,
+      "id": 59595,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/nj6ht3r3kwvnkPhTpT1OZXM1fxW.jpg",
+      "season_number": 8,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1983-10-08",
+      "episode_count": 19,
+      "id": 59596,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/IpkUFm6ntUfO6Ap9R68lfUkReb.jpg",
+      "season_number": 9,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "1984-10-06",
+      "episode_count": 17,
+      "id": 59597,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/ses3oAb22jChwEH9kP4ETOdGmhY.jpg",
+      "season_number": 10,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1985-11-09",
+      "episode_count": 18,
+      "id": 59598,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/1sH4EXPmW9oeB13VqE3XOkhTozc.jpg",
+      "season_number": 11,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "1986-10-11",
+      "episode_count": 20,
+      "id": 59599,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/lyM1p7m9VvjcJd6GaADISdWB4AJ.jpg",
+      "season_number": 12,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1987-10-17",
+      "episode_count": 13,
+      "id": 59600,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": "/jZPb88mYduQlxsMMZb9qNuOcCHm.jpg",
+      "season_number": 13,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "1988-10-08",
+      "episode_count": 20,
+      "id": 59601,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": "/kXnxBo3Zp8dQdAXHNYzrg8QzIIJ.jpg",
+      "season_number": 14,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1989-09-30",
+      "episode_count": 20,
+      "id": 59602,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": "/zdMg4qRUmCIYwIpgrKk7CWrh2Ji.jpg",
+      "season_number": 15,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1990-09-29",
+      "episode_count": 20,
+      "id": 59603,
+      "name": "Sezon 16",
+      "overview": "",
+      "poster_path": "/wgR8S0Oag6j3S29DhkNPIAgwMGV.jpg",
+      "season_number": 16,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1991-09-28",
+      "episode_count": 20,
+      "id": 59604,
+      "name": "Sezon 17",
+      "overview": "",
+      "poster_path": "/4a7dXFVqmmXSuOl8UOM9bel9UZw.jpg",
+      "season_number": 17,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "1992-09-28",
+      "episode_count": 20,
+      "id": 59605,
+      "name": "Sezon 18",
+      "overview": "",
+      "poster_path": "/b73DZZkqwXOuEuTQGtkxG59T9Yi.jpg",
+      "season_number": 18,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1993-09-25",
+      "episode_count": 20,
+      "id": 59606,
+      "name": "Sezon 19",
+      "overview": "",
+      "poster_path": "/c4rflsGNORtycqLbmxpZwB8P08u.jpg",
+      "season_number": 19,
+      "vote_average": 2.0
+    },
+    {
+      "air_date": "1994-09-24",
+      "episode_count": 20,
+      "id": 59607,
+      "name": "Sezon 20",
+      "overview": "",
+      "poster_path": "/nu9jHApRcJYHfVSAvl1Kx35wJEA.jpg",
+      "season_number": 20,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1995-09-30",
+      "episode_count": 20,
+      "id": 59608,
+      "name": "Sezon 21",
+      "overview": "",
+      "poster_path": "/uUm1gcHJB4Gw0p2gpP7rsZjB1NV.jpg",
+      "season_number": 21,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1996-09-28",
+      "episode_count": 20,
+      "id": 59609,
+      "name": "Sezon 22",
+      "overview": "",
+      "poster_path": "/uafInheLF4w9yxIxkeMpBtQSYhC.jpg",
+      "season_number": 22,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1997-09-27",
+      "episode_count": 20,
+      "id": 59610,
+      "name": "Sezon 23",
+      "overview": "",
+      "poster_path": "/eNsp8b4b9an8wLIDwhsrWIW4TA4.jpg",
+      "season_number": 23,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1998-09-26",
+      "episode_count": 19,
+      "id": 59611,
+      "name": "Sezon 24",
+      "overview": "",
+      "poster_path": "/xuk5qmAMIqOHfCaHmxKVYInrBsz.jpg",
+      "season_number": 24,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1999-10-02",
+      "episode_count": 20,
+      "id": 59612,
+      "name": "Sezon 25",
+      "overview": "",
+      "poster_path": "/vn4XfgXOtDpIFSxYEubxboNKTWb.jpg",
+      "season_number": 25,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2000-10-07",
+      "episode_count": 20,
+      "id": 59613,
+      "name": "Sezon 26",
+      "overview": "",
+      "poster_path": "/ofGau2hkwxkvtMuPPrKC8RICsZw.jpg",
+      "season_number": 26,
+      "vote_average": 4.0
+    },
+    {
+      "air_date": "2001-09-29",
+      "episode_count": 20,
+      "id": 59614,
+      "name": "Sezon 27",
+      "overview": "",
+      "poster_path": "/iAqT2saim53Dd104MHRs0iw6cWo.jpg",
+      "season_number": 27,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2002-10-05",
+      "episode_count": 20,
+      "id": 59615,
+      "name": "Sezon 28",
+      "overview": "",
+      "poster_path": "/ydX3DxN2xxvgEJpAxHKO02BTUWj.jpg",
+      "season_number": 28,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2003-10-04",
+      "episode_count": 20,
+      "id": 59616,
+      "name": "Sezon 29",
+      "overview": "",
+      "poster_path": "/bl5zX4CEypihimVnAeuTjnRz8XH.jpg",
+      "season_number": 29,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "2004-10-02",
+      "episode_count": 20,
+      "id": 59617,
+      "name": "Sezon 30",
+      "overview": "",
+      "poster_path": "/glQBagWaukAXylct4LDzs8n60Gw.jpg",
+      "season_number": 30,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2005-10-01",
+      "episode_count": 19,
+      "id": 59618,
+      "name": "Sezon 31",
+      "overview": "",
+      "poster_path": "/fJBF2XRmK2NbSFtm9P1StAZUYQV.jpg",
+      "season_number": 31,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "2006-09-30",
+      "episode_count": 20,
+      "id": 59619,
+      "name": "Sezon 32",
+      "overview": "",
+      "poster_path": "/wKk5BXWJLUVQnFSW8XOvXh1wVWa.jpg",
+      "season_number": 32,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "2007-09-29",
+      "episode_count": 12,
+      "id": 59620,
+      "name": "Sezon 33",
+      "overview": "",
+      "poster_path": "/lQ7igopLqnLREokDdrGmeyJ7iIe.jpg",
+      "season_number": 33,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2008-09-13",
+      "episode_count": 22,
+      "id": 59621,
+      "name": "Sezon 34",
+      "overview": "",
+      "poster_path": "/vutOxz3ZH6ZRw0dCae10LHFK956.jpg",
+      "season_number": 34,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "2009-09-26",
+      "episode_count": 22,
+      "id": 59622,
+      "name": "Sezon 35",
+      "overview": "",
+      "poster_path": "/yhDc9jsaqfsMw9RCG2x46QCdGXH.jpg",
+      "season_number": 35,
+      "vote_average": 6.4
+    },
+    {
+      "air_date": "2010-09-25",
+      "episode_count": 22,
+      "id": 59624,
+      "name": "Sezon 36",
+      "overview": "",
+      "poster_path": "/1QaI39NqB8yqeWl2DUX9sf7ClQm.jpg",
+      "season_number": 36,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2011-09-24",
+      "episode_count": 22,
+      "id": 59625,
+      "name": "Sezon 37",
+      "overview": "",
+      "poster_path": "/xTGiFpwb9H2gox3svKgGUgHICrL.jpg",
+      "season_number": 37,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "2012-09-15",
+      "episode_count": 21,
+      "id": 59626,
+      "name": "Sezon 38",
+      "overview": "",
+      "poster_path": "/1wCFKMpZj0hqIEji7PaDdQHb0JK.jpg",
+      "season_number": 38,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2013-09-28",
+      "episode_count": 21,
+      "id": 59587,
+      "name": "Sezon 39",
+      "overview": "",
+      "poster_path": "/bS5gcI3Cm6GdFgPyArNITWfLnLz.jpg",
+      "season_number": 39,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2014-09-27",
+      "episode_count": 21,
+      "id": 62862,
+      "name": "Sezon 40",
+      "overview": "",
+      "poster_path": "/ip75Fm4IZ2eqrHJi5MiIzTAhX9K.jpg",
+      "season_number": 40,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2015-10-03",
+      "episode_count": 21,
+      "id": 71005,
+      "name": "Sezon 41",
+      "overview": "",
+      "poster_path": "/zvzwZhvFAfwMpTcuYm7fauouQrP.jpg",
+      "season_number": 41,
+      "vote_average": 8.4
+    },
+    {
+      "air_date": "2016-10-01",
+      "episode_count": 21,
+      "id": 80376,
+      "name": "Sezon 42",
+      "overview": "",
+      "poster_path": "/r8Ph9ZDvUlEq89bVocYsVtialAU.jpg",
+      "season_number": 42,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2017-09-30",
+      "episode_count": 21,
+      "id": 93489,
+      "name": "Sezon 43",
+      "overview": "",
+      "poster_path": "/wXVRWnxDEiEUsnrSmeka3NE8GaM.jpg",
+      "season_number": 43,
+      "vote_average": 6.4
+    },
+    {
+      "air_date": "2018-09-29",
+      "episode_count": 21,
+      "id": 109757,
+      "name": "Sezon 44",
+      "overview": "",
+      "poster_path": "/lxGkJiECDoygL4l9CzX7ukVhp9u.jpg",
+      "season_number": 44,
+      "vote_average": 6.3
+    },
+    {
+      "air_date": "2019-09-28",
+      "episode_count": 18,
+      "id": 131233,
+      "name": "Sezon 45",
+      "overview": "",
+      "poster_path": "/8t4qtCl1QpIbaPPUfiKMDe2d6id.jpg",
+      "season_number": 45,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "2020-10-03",
+      "episode_count": 20,
+      "id": 164624,
+      "name": "Sezon 46",
+      "overview": "",
+      "poster_path": "/2Cju4eaD8ZFjyfIDUb5VWI4uKoO.jpg",
+      "season_number": 46,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2021-10-02",
+      "episode_count": 21,
+      "id": 210415,
+      "name": "Sezon 47",
+      "overview": "",
+      "poster_path": "/eAEKLGonqhIom8F3tkpbxcKxg9o.jpg",
+      "season_number": 47,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2022-10-01",
+      "episode_count": 18,
+      "id": 304448,
+      "name": "Sezon 48",
+      "overview": "",
+      "poster_path": "/sHGuKFjIBisPk8cvtCZTDVktYfs.jpg",
+      "season_number": 48,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2023-10-14",
+      "episode_count": 20,
+      "id": 359435,
+      "name": "Sezon 49",
+      "overview": "",
+      "poster_path": "/74QkM94ur8vhJiMiqaPCqkQeBYl.jpg",
+      "season_number": 49,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2024-09-28",
+      "episode_count": 21,
+      "id": 407588,
+      "name": "Sezon 50",
+      "overview": "",
+      "poster_path": "/3tNe7zmqUyvvF5YSyYCeDSb98Fq.jpg",
+      "season_number": 50,
+      "vote_average": 7.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.933,
+  "vote_count": 446,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1395347,
+        "known_for_department": "Acting",
+        "name": "Michael Che",
+        "original_name": "Michael Che",
+        "popularity": 1.6479,
+        "profile_path": "/ruuCNIw6b9aWeZygEg4ZuoXMCFh.jpg",
+        "character": "Self - Various Characters",
+        "credit_id": "548307f99251416e78008300",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1227482,
+        "known_for_department": "Acting",
+        "name": "Mikey Day",
+        "original_name": "Mikey Day",
+        "popularity": 2.0277,
+        "profile_path": "/lIievLMSKtlvclOgDIOCf7ynz2e.jpg",
+        "character": "Self - Various Characters",
+        "credit_id": "5803ee689251411bd9004839",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2218430,
+        "known_for_department": "Acting",
+        "name": "Andrew Dismukes",
+        "original_name": "Andrew Dismukes",
+        "popularity": 0.2424,
+        "profile_path": "/iTxRjVYHVl5tCwqrl8xydVReQqy.jpg",
+        "character": "Self - Various Characters",
+        "credit_id": "626356e82fdec600a7ee5074",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2000658,
+        "known_for_department": "Acting",
+        "name": "Chloe Fineman",
+        "original_name": "Chloe Fineman",
+        "popularity": 2.2375,
+        "profile_path": "/iSVuuIRcamYuwYfXwSKPGWSA0ay.jpg",
+        "character": "Self - Various Characters",
+        "credit_id": "5d81c214d34eb300144fe2fb",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1759221,
+        "known_for_department": "Acting",
+        "name": "Heidi Gardner",
+        "original_name": "Heidi Gardner",
+        "popularity": 1.5926,
+        "profile_path": "/bPHmBPny52cQPkZOomxZe0CHrWa.jpg",
+        "character": "Self - Various Characters",
+        "credit_id": "5b8a2ef7c3a36851fd0107ac",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1756597,
+        "known_for_department": "Acting",
+        "name": "James Austin Johnson",
+        "original_name": "James Austin Johnson",
+        "popularity": 1.1545,
+        "profile_path": "/g9y0aABiKtB1FOIKmklDlgRpDof.jpg",
+        "character": "Self - Various Characters",
+        "credit_id": "626357ff1495651655f54b1a",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1226277,
+        "known_for_department": "Acting",
+        "name": "Colin Jost",
+        "original_name": "Colin Jost",
+        "popularity": 1.8784,
+        "profile_path": "/cuNRnDX02digyoqYVyFGkwd78fn.jpg",
+        "character": "Self - Various Characters",
+        "credit_id": "54830816c3a36829ae007c80",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1726786,
+        "known_for_department": "Acting",
+        "name": "Ego Nwodim",
+        "original_name": "Ego Nwodim",
+        "popularity": 1.7551,
+        "profile_path": "/1vpud1BpXvbJUy0OO3B8Vl24nlp.jpg",
+        "character": "Self - Various Characters",
+        "credit_id": "5bb02319c3a36814dd00afd3",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2198504,
+        "known_for_department": "Acting",
+        "name": "Sarah Sherman",
+        "original_name": "Sarah Sherman",
+        "popularity": 1.9225,
+        "profile_path": "/hiq6DaAgPd5VBXoGE14quAFXCln.jpg",
+        "character": "Self - Various Characters",
+        "credit_id": "6263580e7fcab350a6358159",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77330,
+        "known_for_department": "Acting",
+        "name": "Kenan Thompson",
+        "original_name": "Kenan Thompson",
+        "popularity": 3.5672,
+        "profile_path": "/vHPhDGc1om91TzoIQ4zMscpNmxF.jpg",
+        "character": "Self - Various Characters",
+        "credit_id": "548308a1c3a3684afd00339c",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1564920,
+        "known_for_department": "Acting",
+        "name": "Bowen Yang",
+        "original_name": "Bowen Yang",
+        "popularity": 2.4499,
+        "profile_path": "/lrebxaz4BGJucBW79cakZ0HsSa1.jpg",
+        "character": "Self - Various Characters",
+        "credit_id": "5d81c23ef6787a001e9d9538",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3725495,
+        "known_for_department": "Acting",
+        "name": "Marcello Hernández",
+        "original_name": "Marcello Hernández",
+        "popularity": 1.0414,
+        "profile_path": "/rpg3sB4eh7KPPjJc6rnc8nOOn78.jpg",
+        "character": "Self - Various Characters",
+        "credit_id": "633b0ad738469a007ac55a4a",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3725497,
+        "known_for_department": "Acting",
+        "name": "Michael Longfellow",
+        "original_name": "Michael Longfellow",
+        "popularity": 0.3873,
+        "profile_path": "/11ennrQGQDiWSQyP1cLT3ewNv2G.jpg",
+        "character": "Self - Various Characters",
+        "credit_id": "633b0b0d38469a007fb51979",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2600477,
+        "known_for_department": "Acting",
+        "name": "Devon Walker",
+        "original_name": "Devon Walker",
+        "popularity": 0.2835,
+        "profile_path": "/jvh6HNpSLwtGNUnwlFeuTgIjd6.jpg",
+        "character": "Self - Various Characters",
+        "credit_id": "633b0b5142f19f0081960cc4",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2426004,
+        "known_for_department": "Acting",
+        "name": "Ashley Padilla",
+        "original_name": "Ashley Padilla",
+        "popularity": 0.3872,
+        "profile_path": "/hUCYdfb7Z8s3OBvGfNAXB9z4VK.jpg",
+        "character": "Self - Various Characters",
+        "credit_id": "67029dcfc3c5b3a1a8f7dd8e",
+        "order": 141
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3558041,
+        "known_for_department": "Acting",
+        "name": "Emil Wakim",
+        "original_name": "Emil Wakim",
+        "popularity": 0.276,
+        "profile_path": null,
+        "character": "Self - Various Characters",
+        "credit_id": "67029dfdc9a10d46ea7d4f4b",
+        "order": 142
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3797398,
+        "known_for_department": "Acting",
+        "name": "Jane Wickline",
+        "original_name": "Jane Wickline",
+        "popularity": 0.4082,
+        "profile_path": "/75JaEooRpSWItzQJGlfwlGpCdB7.jpg",
+        "character": "Self - Various Characters",
+        "credit_id": "67029e11c3c5b3a1a8f7dd95",
+        "order": 143
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56158,
+        "known_for_department": "Production",
+        "name": "Lorne Michaels",
+        "original_name": "Lorne Michaels",
+        "popularity": 2.2392,
+        "profile_path": "/lVBbmYJmYQWOODTPJFjOZzvS4x8.jpg",
+        "credit_id": "52570ff1760ee3776a0b1be3",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "live",
+        "id": 10610
+      },
+      {
+        "name": "sketch comedy",
+        "id": 156203
+      },
+      {
+        "name": "skit",
+        "id": 191839
+      },
+      {
+        "name": "live studio audience",
+        "id": 254572
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg",
+        "id": 4573,
+        "name": "Late Night with Conan O'Brien",
+        "original_name": "Late Night with Conan O'Brien",
+        "overview": "Stepping into the late-late slot vacated by David Letterman, Conan O'Brien stars in a show that far outdoes its competition in sheer strangeness. Along with the celebrity interviews and musical numbers typical of late-night talk shows, this program make frequent use of odd walk-on characters and frequent \"visits\" from celebrity guests.",
+        "poster_path": "/gJZ1rhLLFpatuAeylJoUI82DKC7.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 121.9661,
+        "first_air_date": "1993-09-13",
+        "vote_average": 7.132,
+        "vote_count": 140,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/Sjt5fexfgVMC8265ndVph4cGgv.jpg",
+        "id": 68000,
+        "name": "Training Day",
+        "original_name": "Training Day",
+        "overview": "Fifteen years after the events of the feature film, Kyle Craig is assigned to go undercover in an elite squad of the LAPD as Detective Frank Rourke’s trainee to spy on him and report on his off-book methods. As Frank starts teaching his principled trainee the way of the streets, they form an uneasy alliance that will change the course of both their lives irrevocably.",
+        "poster_path": "/miM5b0i5il3XT1qMHfQQ8k5DJ6B.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 3.9944,
+        "first_air_date": "2017-02-02",
+        "vote_average": 5.617,
+        "vote_count": 64,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zhLrML5jLVIlln5QFZdYHgtmFXr.jpg",
+        "id": 1790,
+        "name": "Family Feud",
+        "original_name": "Family Feud",
+        "overview": "Two families compete against each other in a contest to name the most popular responses to a survey question posed to 100 people.",
+        "poster_path": "/2eY3KyYvvjg2jn2ifTGkwdipCAC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10764
+        ],
+        "popularity": 17.2088,
+        "first_air_date": "1999-09-20",
+        "vote_average": 7.763,
+        "vote_count": 38,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/3gSgdd1GKY97ljs8Xer05CXJr9F.jpg",
+        "id": 2510,
+        "name": "Saxondale",
+        "original_name": "Saxondale",
+        "overview": "Steve Coogan plays Tommy Saxondale: an ex-roadie with anger management issues and a pest-control business. Tommy is a little arrogant, a little egotistical and feels the world owes him more respect than it typically shows him. He has an assistant named Raymond who lives in a spare room in Tommy's house, a live-in girlfriend named Magz who owns a T-shirt business, and a receptionist named Vicky who has a tendency to drive him up the wall.",
+        "poster_path": "/tKTCNu6uwL4HlB3hddGL8teZ6q.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 4.1223,
+        "first_air_date": "2006-06-19",
+        "vote_average": 7.4,
+        "vote_count": 28,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/iafquqqaZLl79yaOOKlbeD5sd3c.jpg",
+        "id": 43275,
+        "name": "Ben and Kate",
+        "original_name": "Ben and Kate",
+        "overview": "Ben and Kate are a pair of odd-couple siblings - one, a responsible single mom; the other, an exuberant dreamer - who reunite to help raise Kate's daughter.",
+        "poster_path": "/uhzXOjujMk1c0Olp3Cha9lpNB4v.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 6.6658,
+        "first_air_date": "2012-09-25",
+        "vote_average": 6.778,
+        "vote_count": 54,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sPlk2lRWANurhAevUaa4TOngZev.jpg",
+        "id": 65564,
+        "name": "Bunnicula",
+        "original_name": "Bunnicula",
+        "overview": "A dark comedic adventure about the titular Bunnicula, a vampire rabbit, Mina, his owner, and her two pets, Chester the cat and Harold the dog.  Instead of blood, Bunnicula feeds on carrots to sustain himself which gives him super abilities which come in handy on his and his friends escapades.",
+        "poster_path": "/zpL2TN3GsvwiA0XJjpaJSwdV5Wo.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10762
+        ],
+        "popularity": 21.9482,
+        "first_air_date": "2016-02-06",
+        "vote_average": 6.0,
+        "vote_count": 21,
+        "origin_country": [
+          "US",
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/yKQmEkymZPGJmxxcElN7J7tNSfK.jpg",
+        "id": 87822,
+        "name": "Charlie'nin Renkli Dünyası",
+        "original_name": "Charlie's Colorforms City",
+        "overview": "Charlie farklı şekiller kullanarak eğlenceli hikâyeler yaratıyor ve yardımınıza ihtiyacı var! Uzayda, Vahşi Batı'da ve kendi evinizde maceralar sizi bekliyor.",
+        "poster_path": "/vajT0gjHrzpYilOBKYQZolWSUgZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762
+        ],
+        "popularity": 6.3216,
+        "first_air_date": "2019-03-22",
+        "vote_average": 7.2,
+        "vote_count": 4,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/8uw8zAZmzw54rvvEsaDtUIrZ1fL.jpg",
+        "id": 40302,
+        "name": "The Jonathan Ross Show",
+        "original_name": "The Jonathan Ross Show",
+        "overview": "The Jonathan Ross Show is a British chat show presented by Jonathan Ross. It was first broadcast on ITV on 3 September 2011 and currently airs on Saturday evenings following the conclusion of Ross' BBC One chat show, Friday Night with Jonathan Ross, in July 2010.",
+        "poster_path": "/aYTC5SLtfFWHPE7X2B7TcOdDWZS.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767,
+          35
+        ],
+        "popularity": 27.538,
+        "first_air_date": "2011-09-03",
+        "vote_average": 5.136,
+        "vote_count": 22,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/5VLYbx55bAJ4Mc5BlRCIDdC8oVq.jpg",
+        "id": 19109,
+        "name": "Silent Library",
+        "original_name": "Silent Library",
+        "overview": "Silent Library was an American television game show which aired on MTV and MuchMusic. The series is based on one of the segments in the popular Japanese variety show Downtown no Gaki no Tsukai ya Arahende!!. The show is also similar to the UK television program Fist of Zen.\n\nThe series was renewed for a 20-episode second season, which premiered on January 11, 2010 and featured celebrities such as Jim Jones, We The Kings, Ron Jeremy, Naked Cowboy, Asher Roth, Forever the Sickest Kids, Jessie James, Aubrey O'Day, Justin Bieber and Joey Cassata competing as contestants and appearing in punishment challenges.\n\nThe series' third season premiered on June 28, 2010. The bands Patent Pending, All Time Low, Stereo Skyline, Hey Monday, Anarbor, NeverShoutNever, Honor Society, New Boyz and Iyaz have appeared as contestants, as did members of the New York Giants NFL team and the cast of the MTV original series The Hard Times of R.J. Berger.\n\nThe fourth season premiered on March 28, 2011. The cast of Jersey Shore, The Ready Set, Judah Friedlander, Jimmy Fallon & The Roots, players from the New York Giants, 3OH!3, and Superstars from the WWE all competed as contestants.\n\nMTV canceled the show on November 9, 2011.",
+        "poster_path": "/nsKWKCpxw4Bv4KZ0gCAioNdmj87.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [],
+        "popularity": 4.9652,
+        "first_air_date": "2009-06-15",
+        "vote_average": 8.333,
+        "vote_count": 6,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ax6unGj6bcI9GDo4eFz0Wac9MnO.jpg",
+        "id": 256526,
+        "name": "The Golden Wug",
+        "original_name": "金蚕往事",
+        "overview": "",
+        "poster_path": "/90idTQDRmncQOTnY7dHIynWaW1Q.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "zh",
+        "genre_ids": [
+          16,
+          10765,
+          9648
+        ],
+        "popularity": 3.9526,
+        "first_air_date": "2024-06-10",
+        "vote_average": 6.0,
+        "vote_count": 1,
+        "origin_country": [
+          "CN"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 34929,
+        "name": "Ebert Presents: At the Movies",
+        "original_name": "Ebert Presents: At the Movies",
+        "overview": "Ebert Presents: At the Movies was a weekly, nationally syndicated movie review television program produced and presented by film critic Roger Ebert and co-produced by his wife, Chaz Ebert. The program aired on public television stations in the United States through American Public Television.\n\nThe show continued the format originated by Ebert and Gene Siskel on their first show, Sneak Previews, and continued on At the Movies with Gene Siskel and Roger Ebert and later At the Movies, in which two film critics discuss the week's new releases and occasional theme episodes, such as \"The Best Films of the Year\".\n\nEbert Presents: At the Movies was hosted by Christy Lemire of the Associated Press and Ignatiy Vishnevetsky of the Chicago Reader and the website Mubi. The program premiered on January 21, 2011.",
+        "poster_path": null,
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [],
+        "popularity": 0.0724,
+        "first_air_date": "",
+        "vote_average": 8.2,
+        "vote_count": 5,
+        "origin_country": []
+      },
+      {
+        "backdrop_path": null,
+        "id": 8449,
+        "name": "Hotel Malibu",
+        "original_name": "Hotel Malibu",
+        "overview": "Hotel Malibu is an American television series that aired on CBS in 1994 that was created and written by producers Bernard Lechowick and Lynn Marie Latham. Its cast includes Jennifer Lopez, Joanna Cassidy, Harry Reilly, and John Dye. The pilot episode was directed by Sharron Miller. It was a spin-off of the show Second Chances.",
+        "poster_path": null,
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 0.9605,
+        "first_air_date": "1994-08-04",
+        "vote_average": 7.0,
+        "vote_count": 1,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/eEZJbbYQeABFV8Mrh0sdgUWAe69.jpg",
+        "id": 66001,
+        "name": "First Dates Australia",
+        "original_name": "First Dates Australia",
+        "overview": "When the First Dates restaurant sets the table, hopeful singles from across the country will have a chance of meeting their dream partner. They’ve turned their backs on online dating in the hope of meeting someone special face-to-face, and they’ll meet their potential love match for the very first time in the restaurant.",
+        "poster_path": "/m6S6GuWIvf7ahytNyrBI8KLxQ9B.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 6.9831,
+        "first_air_date": "2016-02-03",
+        "vote_average": 6.5,
+        "vote_count": 4,
+        "origin_country": [
+          "AU"
+        ]
+      },
+      {
+        "backdrop_path": "/3g0eXyhT1F57Xe4MM33DcyT8heo.jpg",
+        "id": 78734,
+        "name": "AMO",
+        "original_name": "AMO",
+        "overview": "Despite the Philippine government's crackdown on narcotics, high schooler Joseph expands his drug running while his cop uncle profits from corruption.",
+        "poster_path": "/c4RlUbsEhXnQK4KbbHIvwTfLJj9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "tl",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 3.1072,
+        "first_air_date": "2018-04-10",
+        "vote_average": 4.8,
+        "vote_count": 5,
+        "origin_country": [
+          "PH"
+        ]
+      },
+      {
+        "backdrop_path": "/enAeczWdMNlSkJFzYyFPKKPjBAY.jpg",
+        "id": 3576,
+        "name": "Kindred: The Embraced",
+        "original_name": "Kindred: The Embraced",
+        "overview": "Kindred: The Embraced is an American television series produced by John Leekley Productions and Spelling Television. Loosely based on the role-playing game Vampire: The Masquerade, the series premiered on Fox on April 2, 1996, and ran for eight episodes before it was canceled on May 9, 1996.\n\nThe series focused on San Francisco Police Detective Frank Kohanek who discovers his city is home to numerous vampires while investigating alleged mobster, Julian Luna. Julian is the \"prince\" of the city, ruler of five groups of vampires in the city, collectively called \"The Kindred\". The vampires survive through the \"masquerade\", disguising themselves as humans, and Julian strictly enforces the laws that govern them to protect their anonymity. Julian and Frank form an uneasy bond as they work together to try to prevent a vampire war and Julian struggles with his romantic feelings for human reporter Caitlin Byrne.\n\nThe eight episodes of the series have been released on VHS and DVD.",
+        "poster_path": "/xcI72282j6X2Dw6HNq5H7XLhVBQ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 2.22,
+        "first_air_date": "1996-04-02",
+        "vote_average": 7.1,
+        "vote_count": 28,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/jH8BWwd1kIfY3N614o9idhW8rOJ.jpg",
+        "id": 46268,
+        "name": "Moonshiners",
+        "original_name": "Moonshiners",
+        "overview": "Think the days of bootleggers, backwoods stills and \"white lightning\" are over? Not a chance! It's a multi-million dollar industry. But perhaps more importantly to the moonshiners, it's a tradition dating back hundreds of years, passed down to them from their forefathers. It's part of their history and culture. While this practice is surprisingly alive and well, it's not always legal. Moonshiners tells the story of those who brew their shine - often in the woods near their homes using camouflaged equipment - and the local authorities who try to keep them honest. Viewers will witness practices rarely, if ever, seen on television including the sacred rite of passage for a moonshiner - firing up the still for the first time. They will also meet legends, including notorious moonshiner Marvin \"Popcorn\" Sutton.",
+        "poster_path": "/brgOpuQs3nhqRKQWomMv0jpHqxM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 17.6425,
+        "first_air_date": "2011-12-06",
+        "vote_average": 7.2,
+        "vote_count": 38,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/xQUTTUPu0kmhWpkbFjmotaFYxVv.jpg",
+        "id": 9290,
+        "name": "The Temptations",
+        "original_name": "The Temptations",
+        "overview": "Biography of the singers who formed the hit Motown musical act, The Temptations.",
+        "poster_path": "/zTrtiOrH0Sszx1BhCwikhz77ZiI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 1.5448,
+        "first_air_date": "1998-11-01",
+        "vote_average": 8.0,
+        "vote_count": 39,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ztCSlFl6fTzZX7226iM1uC30854.jpg",
+        "id": 204746,
+        "name": "The Jennifer Hudson Show",
+        "original_name": "The Jennifer Hudson Show",
+        "overview": "Talented entertainer and newly-minted EGOT Jennifer Hudson takes on the daytime talk show landscape.",
+        "poster_path": "/6VBNeo8XG90sNKWYQ0yTEmVBXHJ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 84.7915,
+        "first_air_date": "2022-09-12",
+        "vote_average": 6.413,
+        "vote_count": 23,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/AvydGD3Y03ad7QLxQ3tAZ3VVkng.jpg",
+        "id": 27023,
+        "name": "The Oscars",
+        "original_name": "The Oscars",
+        "overview": "An annual American awards ceremony honoring cinematic achievements in the film industry. The various category winners are awarded a copy of a statuette, officially the Academy Award of Merit, that is better known by its nickname Oscar.",
+        "poster_path": "/sSsBn4CeTAnSF6uWCwr3zpKknYV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [],
+        "popularity": 9.6387,
+        "first_air_date": "1953-03-19",
+        "vote_average": 7.014,
+        "vote_count": 71,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/bVHrbGALcEFGMo3Rt3MJejvl5Vm.jpg",
+        "id": 95211,
+        "name": "Ay ve Işıklar",
+        "original_name": "The Luminaries",
+        "overview": "1865'te iki genç maceracı Anna Wetherell ve Emery Staines, Yeni Zelanda'ya yaptıkları yolculuklarının son gününde tuhaf bir şekilde tanışırlar.",
+        "poster_path": "/sLu91BuGaBK0YCUleK9VTwknQhF.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 2.4265,
+        "first_air_date": "2020-05-17",
+        "vote_average": 6.8,
+        "vote_count": 80,
+        "origin_country": [
+          "NZ"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

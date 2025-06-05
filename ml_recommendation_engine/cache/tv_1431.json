@@ -1,0 +1,997 @@
+{
+  "adult": false,
+  "backdrop_path": "/cvlLBcQWpO9X21jDHhgPJnE2aVq.jpg",
+  "created_by": [
+    {
+      "id": 1039314,
+      "credit_id": "5256e62319c2956ff60dcf80",
+      "name": "Anthony E. Zuiker",
+      "original_name": "Anthony E. Zuiker",
+      "gender": 2,
+      "profile_path": "/fXCjUuwHvPhQTwYjckOjEdLdhVS.jpg"
+    },
+    {
+      "id": 1214544,
+      "credit_id": "5256e62319c2956ff60dcf86",
+      "name": "Ann Donahue",
+      "original_name": "Ann Donahue",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2000-10-06",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Suç"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 9648,
+      "name": "Gizem"
+    }
+  ],
+  "homepage": "http://www.cbs.com/shows/csi/",
+  "id": 1431,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2015-02-15",
+  "last_episode_to_air": {
+    "id": 1037502,
+    "name": "18. Bölüm",
+    "overview": "",
+    "vote_average": 7.7,
+    "vote_count": 10,
+    "air_date": "2015-02-15",
+    "episode_number": 18,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 15,
+    "show_id": 1431,
+    "still_path": "/nqwhOYpGyppa7yqQXdb1tTFpcin.jpg"
+  },
+  "name": "CSI: Crime Scene Investigation",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 335,
+  "number_of_seasons": 15,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "CSI: Crime Scene Investigation",
+  "overview": "CSI: Crime Scene Investigation suç mahali araştırmasını konu alan ABD kaynaklı bir dizi filmdir. Dizinin adı, Las Vegas'da çekilmesi nedeniyle CSI: Las Vegas olarak da bilinir. Amerikan CBS televizyonu tarafından yayınlanan dizi 24 Emmy, 6 Altın Küre ödülüne aday gösterilmiştir.\n\nDizi Türkiye'de TRT tarafından Kanıt Peşinde adı altında yayınlanmaktaydı. Dizide şef Gil Grissom ve ekibi her bölümde ayrı bir davaya/cinayete açıklık getiriyorlar.",
+  "popularity": 152.2109,
+  "poster_path": "/9XecVOLLkbGBNnpF2PvP8vQBmww.jpg",
+  "production_companies": [
+    {
+      "id": 803,
+      "logo_path": "/jEMVaCuEjQ3lzkhakWDKNVjwd9Q.png",
+      "name": "Alliance Atlantis",
+      "origin_country": "CA"
+    },
+    {
+      "id": 2161,
+      "logo_path": "/kaHPCUD2nQ1DGWDAH3zbYVCkTae.png",
+      "name": "CBS Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 1081,
+      "logo_path": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+      "name": "CBS Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2015-09-27",
+      "episode_count": 1,
+      "id": 3803,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/efJhi9URBQhkc1iACIVGHaT9TmH.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2000-10-06",
+      "episode_count": 23,
+      "id": 3792,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/9h2AJrQjLhm3l3yqOx5WX2926Zo.jpg",
+      "season_number": 1,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2001-09-27",
+      "episode_count": 23,
+      "id": 3793,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/b150Q5RMtJ8Y2MaH0AIbA49AWB2.jpg",
+      "season_number": 2,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2002-09-25",
+      "episode_count": 23,
+      "id": 3794,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/zyoFAPWXqSN4sSmmgbe20yWCJmF.jpg",
+      "season_number": 3,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2003-09-24",
+      "episode_count": 23,
+      "id": 3795,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/gY7Lduknb0qwaoT4z8BdgiqaoQb.jpg",
+      "season_number": 4,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2004-09-23",
+      "episode_count": 25,
+      "id": 3796,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/doCdbR9iqNkzUymrEGLQJFcqo5I.jpg",
+      "season_number": 5,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2005-09-22",
+      "episode_count": 24,
+      "id": 3797,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/myAN3FMw2bQY5lwRVZlbHUY1NjQ.jpg",
+      "season_number": 6,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2006-09-21",
+      "episode_count": 24,
+      "id": 3798,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/c4Fb33OxqPcIptf7EZvv2Yrpxhh.jpg",
+      "season_number": 7,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2007-09-27",
+      "episode_count": 17,
+      "id": 3799,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/sHUAL1Zric27KpgBuvEj3N8aMRD.jpg",
+      "season_number": 8,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2008-10-09",
+      "episode_count": 24,
+      "id": 3800,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/cybC3A1yZhrt3GgIi9w8lwrBi9K.jpg",
+      "season_number": 9,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2009-09-24",
+      "episode_count": 23,
+      "id": 3801,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/7dQzUsfy1sEj24Klbar15TseHJC.jpg",
+      "season_number": 10,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2010-09-23",
+      "episode_count": 22,
+      "id": 3802,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/nrzDFOGEiYPUBCu99C7B1OlVkCw.jpg",
+      "season_number": 11,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2011-09-21",
+      "episode_count": 22,
+      "id": 3804,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/yurTd4FQZmmJLlczaqK6DRFV2Lr.jpg",
+      "season_number": 12,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2012-09-26",
+      "episode_count": 22,
+      "id": 3805,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": "/jHyo6itnNvgLkAS0OvSnFmhEz1h.jpg",
+      "season_number": 13,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2013-09-25",
+      "episode_count": 22,
+      "id": 3806,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": "/3kFw2u7L4Ku3KdY5LwpBwYDaRdV.jpg",
+      "season_number": 14,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2014-09-28",
+      "episode_count": 18,
+      "id": 62053,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": "/g1JgehtVEmnY996HgB3Piv7defR.jpg",
+      "season_number": 15,
+      "vote_average": 7.5
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.633,
+  "vote_count": 1283,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12836,
+        "known_for_department": "Acting",
+        "name": "Ted Danson",
+        "original_name": "Ted Danson",
+        "popularity": 2.9414,
+        "profile_path": "/2QUEYVhrKbOkRKeFEUnc5sJby6a.jpg",
+        "character": "D.B. Russell",
+        "credit_id": "5256e62119c2956ff60dcd30",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117484,
+        "known_for_department": "Acting",
+        "name": "George Eads",
+        "original_name": "George Eads",
+        "popularity": 1.5721,
+        "profile_path": "/fBvMhnzAJTdqRVXlrOCL9sXJLbo.jpg",
+        "character": "Nick Stokes",
+        "credit_id": "5256e61e19c2956ff60dc79a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 536,
+        "known_for_department": "Acting",
+        "name": "Jorja Fox",
+        "original_name": "Jorja Fox",
+        "popularity": 1.9346,
+        "profile_path": "/hCRdbNzZjkhYyVoZPmhYF5OqpaX.jpg",
+        "character": "Sara Sidle",
+        "credit_id": "5256e61f19c2956ff60dc9f6",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 173849,
+        "known_for_department": "Acting",
+        "name": "Eric Szmanda",
+        "original_name": "Eric Szmanda",
+        "popularity": 1.5256,
+        "profile_path": "/tsPKC1I4mZx2cFmMozVL0E185Dm.jpg",
+        "character": "Greg Sanders",
+        "credit_id": "5256e61f19c2956ff60dc990",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1217657,
+        "known_for_department": "Acting",
+        "name": "Robert David Hall",
+        "original_name": "Robert David Hall",
+        "popularity": 1.2204,
+        "profile_path": "/myVVloDAXZgmSXI0dxAPg8RN0JF.jpg",
+        "character": "Al Robbins",
+        "credit_id": "5256e61f19c2956ff60dca52",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17421,
+        "known_for_department": "Acting",
+        "name": "Wallace Langham",
+        "original_name": "Wallace Langham",
+        "popularity": 2.5541,
+        "profile_path": "/pjc9iFeNMAAHI3zOsiP1anZ0wis.jpg",
+        "character": "David Hodges",
+        "credit_id": "5256e61f19c2956ff60dcabe",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219224,
+        "known_for_department": "Acting",
+        "name": "Jon Wellner",
+        "original_name": "Jon Wellner",
+        "popularity": 1.0161,
+        "profile_path": "/kIX1mef4re6MJs8nX0BHdRZyvXg.jpg",
+        "character": "Henry Andrews",
+        "credit_id": "5256e62319c2956ff60dcefc",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 78197,
+        "known_for_department": "Acting",
+        "name": "Elisabeth Harnois",
+        "original_name": "Elisabeth Harnois",
+        "popularity": 1.6518,
+        "profile_path": "/yq9H8T5urAGhzvEBxbw4gBjvDN2.jpg",
+        "character": "Morgan Brody",
+        "credit_id": "5256e62319c2956ff60dceb4",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1951,
+        "known_for_department": "Acting",
+        "name": "Elisabeth Shue",
+        "original_name": "Elisabeth Shue",
+        "popularity": 4.6279,
+        "profile_path": "/A1eCMPRBBrJ1vb6qGk7OrAmTA5l.jpg",
+        "character": "Julie Finlay",
+        "credit_id": "5256e62119c2956ff60dcdbe",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1224393,
+        "known_for_department": "Acting",
+        "name": "David Berman",
+        "original_name": "David Berman",
+        "popularity": 0.7479,
+        "profile_path": "/5nLITn9pJtO3kTchHieHo8VZ4a5.jpg",
+        "character": "David Phillips",
+        "credit_id": "5256e62319c2956ff60dce52",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 25300,
+        "known_for_department": "Art",
+        "name": "Andi Brittan",
+        "original_name": "Andi Brittan",
+        "popularity": 0.9471,
+        "profile_path": "/c17aFweDP6FBaJX4vVB9czSVelO.jpg",
+        "credit_id": "62361bcd894ed6001c9c2e54",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1039314,
+        "known_for_department": "Production",
+        "name": "Anthony E. Zuiker",
+        "original_name": "Anthony E. Zuiker",
+        "popularity": 0.8304,
+        "profile_path": "/fXCjUuwHvPhQTwYjckOjEdLdhVS.jpg",
+        "credit_id": "5256e47a19c2956ff60bb9ee",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92336,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Clinton Wayne",
+        "original_name": "Clinton Wayne",
+        "popularity": 2.1379,
+        "profile_path": "/eYKuhXBXpZ16Yu8hMhEkOTSAbPN.jpg",
+        "credit_id": "674016d532a9aaf43d96773f",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1039314,
+        "known_for_department": "Production",
+        "name": "Anthony E. Zuiker",
+        "original_name": "Anthony E. Zuiker",
+        "popularity": 0.8304,
+        "profile_path": "/fXCjUuwHvPhQTwYjckOjEdLdhVS.jpg",
+        "credit_id": "5256e63819c2956ff60dd84c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52267,
+        "known_for_department": "Acting",
+        "name": "William Petersen",
+        "original_name": "William Petersen",
+        "popularity": 2.3053,
+        "profile_path": "/844k8tbN8mr5Nk69Ge2yzFR4k9r.jpg",
+        "credit_id": "5256e63719c2956ff60dd730",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 770,
+        "known_for_department": "Production",
+        "name": "Jerry Bruckheimer",
+        "original_name": "Jerry Bruckheimer",
+        "popularity": 2.8614,
+        "profile_path": "/sYjNrmbMi4DGAPX6Kt8wVy7LNXI.jpg",
+        "credit_id": "5256e63819c2956ff60dd7e4",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "detective",
+        "id": 703
+      },
+      {
+        "name": "police",
+        "id": 6149
+      },
+      {
+        "name": "las vegas",
+        "id": 14570
+      },
+      {
+        "name": "criminal investigation",
+        "id": 157241
+      },
+      {
+        "name": "forensic",
+        "id": 160313
+      },
+      {
+        "name": "murder investigation",
+        "id": 161982
+      },
+      {
+        "name": "crime investigation",
+        "id": 189402
+      },
+      {
+        "name": "police procedural",
+        "id": 268067
+      },
+      {
+        "name": "gang solves mystery",
+        "id": 317577
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/p4GKINJxZoFbPEvX5NKIb4lzaL.jpg",
+        "id": 2458,
+        "name": "CSI: NY",
+        "original_name": "CSI: NY",
+        "overview": "Crime Scene Investigation (Olay Yeri İnceleme) efsanesinin son durağı CSI: NY, çözülmesi güç suç vakalarında araştırmayı yürüten ve son teknolojiler sayesinde en küçük bulguları bile derinlemesine inceleyerek olağanüstü sonuçlara ulaşan bir grup balistik uzmanının maceralarını ekrana taşıyor. Mac Taylor’ın şefliğini yaptığı, teknolojik araçları kuşanmış detektifler adaleti yerine getirmeye kararlı. Olay yeri inceleme detektiflerinin hiç uyumayan New York sokaklarında suçluların peşinden koşmaya ihtiyacı yok. Onlar delil peşinde... Kaçan suçlunun, arkasında bırakacağı bir iz onu içeri atmaları için yetip de artıyor bile. Mac Taylor’ın da dediği gibi: “New York’ta herkes yalan söyleyebilir; ama kanıtların yalan söylediği çok nadirdir.”",
+        "poster_path": "/4TGV4Bb3OPay4cHkQRlfwghv3vC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 66.1269,
+        "first_air_date": "2004-09-22",
+        "vote_average": 7.356,
+        "vote_count": 700,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/bhG1XJ1fubbZkLnoBAxNrzzGXOg.jpg",
+        "id": 1620,
+        "name": "CSI: Miami",
+        "original_name": "CSI: Miami",
+        "overview": "Konularının uzmanı suç mahali araştırma dedektifleri, en karmaşık olaylarda bile cinayetleri çözmeye çalışıyor. Bu araştırmacı grubun başındaki isim ise eski bir cinayet dedektifi olan Horatio Caine... Miami'nin tropikal güzelliklerinin, gece yaşamının ve kültürel noktalarının fon oluşturduğu dizide detektiflerimiz, cinayetleri çözmek ve çoğu zaman kendileri için konuşamayan kurbanları temize çıkarmak için kanıt peşine düşüyorlar.",
+        "poster_path": "/pNW64pjaHvf6purNaFhq4SHYRfl.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          80
+        ],
+        "popularity": 87.3376,
+        "first_air_date": "2002-09-23",
+        "vote_average": 7.716,
+        "vote_count": 1622,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/iZuRBaleRrtJtHMY3ecA3xAWlOB.jpg",
+        "id": 61811,
+        "name": "CSI: Cyber",
+        "original_name": "CSI: Cyber",
+        "overview": "The FBI's team of Cyber Crime Investigators, headed by Special Agent Avery Ryan, works to solve cases involving the dark-net. Avery, a Special Agent in Charge and esteemed Cyber-Psychologist heads up a team, including Senior Special Agent Elijah Mundo, tasked with solving murders, cyber-theft, hacking, sex offences, and blackmail.",
+        "poster_path": "/p56xB5YJDeYaGGOaYFtsjWycTYl.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 8.3569,
+        "first_air_date": "2015-03-04",
+        "vote_average": 6.052,
+        "vote_count": 223,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dAepkmD4vdfhS82r2OIqF1nwGR5.jpg",
+        "id": 17610,
+        "name": "NCIS: Los Angeles",
+        "original_name": "NCIS: Los Angeles",
+        "overview": "Özet ve Detaylar. Deniz Kuvvetleri Araştırma Servisi'nin Los Angeles'da bulunan birimi, ulusal güvenliği tehdit eden ve bir türlü yakalanamayan azılı suçluların peşindedir. G. Callen ve Sam Hanna'nın da aralarında bulunduğu özel ajanlar, suçluları yakalamaya çalışırken en son teknoloji ürünü cihazlardan yararlanır.",
+        "poster_path": "/TIIgcznwNfNr3KOZvxn26eKV99.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          80,
+          9648
+        ],
+        "popularity": 124.3654,
+        "first_air_date": "2009-09-22",
+        "vote_average": 7.534,
+        "vote_count": 1181,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/aP0V3qTB1iy3JW90EKVpLPNhMia.jpg",
+        "id": 122194,
+        "name": "CSI: Vegas",
+        "original_name": "CSI: Vegas",
+        "overview": "CSI: Vegas, Las Vegas'ta yepyeni bir sayfa açıyor. Suç laboratuarının mirası ve geleceği sorgulandığında, Maxine Roby (Paula Newsome) liderliğindeki yeni ve parlak bir araştırmacı ekibi, eski arkadaşları Gil Grissom (William Peterson) ve Sara Sidle'ın (Jorja Fox) yardımına başvururlar. Bu ekip, Günah Şehri'nde adaleti korumak, adalete hizmet etmek ve gerçeği ortaya çıkarmak için en iyi yaptıkları şeyi yapacak, yani kanıtları takip edecek ve bunu yaparken de en son adlî teknikleri kullanacaklardır.",
+        "poster_path": "/8DtOnaOQPiptM9umpV0Xntwv9t3.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 15.7636,
+        "first_air_date": "2021-10-06",
+        "vote_average": 7.796,
+        "vote_count": 294,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/b1t0mS2MAqnMdh5opqi94rlDEjn.jpg",
+        "id": 4588,
+        "name": "ER",
+        "original_name": "ER",
+        "overview": "1994 yılında ER yayına başladığında televizyon tarihinin geri dönülmez evrelerinden biri de başladı. Gösterime girdiği ilk sezon ABD’de tüm reytingleri alt üst eden dizi daha önceki hastane dizilerinin başaramadığını başararak türe yepyeni bir atılım getirdi. Chicago’da bir hastanenin acil servisini her yönüyle ekrana taşıyan ER’ın hikayeleri öncelikle doktorlar, hemşireler, tıp öğrencileri ve diğer hastane personeli üzerine yoğunlaşıyor. İkincil öykü çıkış noktası ise hastaların yaşadığı problemler.",
+        "poster_path": "/fuS63AoFTkprf8PFeL1f8z68zJr.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 45.261,
+        "first_air_date": "1994-09-19",
+        "vote_average": 7.819,
+        "vote_count": 852,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/xEtiiv2uhGr9IPgeruuECIfyfin.jpg",
+        "id": 1419,
+        "name": "Castle",
+        "original_name": "Castle",
+        "overview": "Nick Castle tanınmış ve çok ünlü bir Roman yazarıdır,kendine göre üslubu ve yaşam tarzı olan Nick özellikle romanlarındaki değişik ve tahmin edilemez cinayetleri yazması ile tanınmaktadır. NYPD de görev yapan Dedektif Kate Beckett son zamanlarda meydana gelen seri cinayetler'de Nick'in romanlarından alıntı yapıldığını fark eder, Nick'ten cinayetler ile ilgili yardım ister.",
+        "poster_path": "/diXBeMzvfJb2iJg3G0kCUaMCzEc.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 71.7524,
+        "first_air_date": "2009-03-09",
+        "vote_average": 8.0,
+        "vote_count": 1933,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4uWvmON2pqDJtpPAsHMggdDFFrn.jpg",
+        "id": 549,
+        "name": "Law & Order",
+        "original_name": "Law & Order",
+        "overview": "Law &amp; Order, ABD kaynaklı bir mahkeme ve suç draması konulu bir televizyon dizisi. Dick Wolf tarafından yaratılan dizi 13 Eylül 1990 tarihinde ABD'nin NBC televizyon kanalında yayına başlamıştır. New York kentinde geçen dizi bir grup savcı ve polis görevlilerinin meslek yaşamlarını konu almaktadır.Dizinin büyük bir başarı kazanması bu diziden türeyen Law &amp; Order: Special Victims Unit, Law &amp; Order: Criminal Intent, Crime &amp; Punishment, Law &amp; Order: Trial by Jury gibi çok sayıda benzer dizilerin yaratılmasına neden olmuştur.Law &amp; Order 2008 yılı itibarıyla ABD televizyonlarında en uzun süre gösterimde kalan dizi durumundadır.",
+        "poster_path": "/6vFL8S6Cci8s7SHWXz60xOisGBC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 152.8383,
+        "first_air_date": "1990-09-13",
+        "vote_average": 7.4,
+        "vote_count": 615,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/w88B4ooZ2LSYPw5107JOkjvI8PI.jpg",
+        "id": 4057,
+        "name": "Criminal Minds",
+        "original_name": "Criminal Minds",
+        "overview": "Dizinin temel esprisi, \"Bir suçluyu yakalamak istiyorsanız onun gibi düşünün\" sözünde yatıyor. Quantico'daki Davranış Analizi Ünitesi'nde çalışan ajanlar, suçluların psikolojilerinden, davranış biçimlerinden yola çıkarak suçu çözüyor.  Yöntem: Davranış psikolojisinin uygulanması, istatistikler, ajanların deneyimleri, 'hızlı hızlı konuşanlar bir şey saklıyordur' önermesinde olduğu gibi çıkarsamalar.",
+        "poster_path": "/wLMQebhTApmn4F6Fzg6FovdwVvL.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 141.8295,
+        "first_air_date": "2005-09-22",
+        "vote_average": 8.3,
+        "vote_count": 3824,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cl36yfpaGw0emRdzPANsxqoiA4y.jpg",
+        "id": 2171,
+        "name": "Cold Case",
+        "original_name": "Cold Case",
+        "overview": "The Philadelphia homicide squad's lone female detective finds her calling when she is assigned cases that have never been solved. Detective Lilly Rush combines her natural instincts with the updated technology available today to bring about justice for all the victims she can.",
+        "poster_path": "/vVYi4meH1UGGpvgxZ9M9Ez9MUt0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 35.4833,
+        "first_air_date": "2003-09-28",
+        "vote_average": 7.772,
+        "vote_count": 401,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/8vXYq2l38DsPzGD8lpokinZiPuV.jpg",
+        "id": 82328,
+        "name": "Bir Zamanlar Çukurova",
+        "original_name": "Bir Zamanlar Çukurova",
+        "overview": "Dizide aşkı için öldürmeyi göze almış Yılmaz ile sevgilisi yaşasın diye kendini istemediği bir adamla yaptığı evliliğe hapseden Züleyha'nın hikayesi anlatılıyor. Ama bu hikayede sadece ayrı düşen iki sevgili yok! Ailesinin görkemli geçmişini ve biricik oğlunu korumak için kanatlarını açmış bir Hünkâr'ın savaşı da var; aşık olduğu kadını tutsak etmeyi göze alan Demir de! Ve elbette sınırsız aşkların coğrafyasında, geçmişten bugüne uzanan hesaplaşmalar, paylaşılamayan topraklar da! Aşkın sınırsız, kavganın ölümüne, umudun inadına yaşandığı Çukurova'da ihtiras ve zorbalık sınavlarından geçen bir aşkın hikayesi.",
+        "poster_path": "/ayRjBKyBXzKGHajgVGsiMiK5THy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "tr",
+        "genre_ids": [
+          10751,
+          18
+        ],
+        "popularity": 47.5629,
+        "first_air_date": "2018-09-13",
+        "vote_average": 7.679,
+        "vote_count": 209,
+        "origin_country": [
+          "TR"
+        ]
+      },
+      {
+        "backdrop_path": "/dMY7XUfEAK0Rl8hsgc8ufEOaiZ2.jpg",
+        "id": 1695,
+        "name": "Monk",
+        "original_name": "Monk",
+        "overview": "Adrian Monk, bir zamanlar San Francisco Polis Departmanı'nda, departmanın en karmaşık vakalarını alışılmadık yöntemlerle çözen yıldız bir dedektiftir. Ancak karısı Trudy'nin trajik ve hala çözülmemiş cinayetinden sonra, ileri derecede obsesif-kompulsif bozukluk tanısı konan Monk Polis teşkilatından ayrılmak zorunda kalır. Artık polis teşkilatına özel danışman olarak çalışan Monk, vakaları en alışılmadık yollarla araştırmaya devam etmektedir.",
+        "poster_path": "/fLO6glULGTE0iZ4LQcikDeciRdH.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          80,
+          18,
+          9648
+        ],
+        "popularity": 71.3796,
+        "first_air_date": "2002-07-12",
+        "vote_average": 7.948,
+        "vote_count": 1136,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/mtv5piXIGnkKDBLPHhU0Zeh5r1U.jpg",
+        "id": 31078,
+        "name": "Bored to Death",
+        "original_name": "Bored to Death",
+        "overview": "Jonathan Ames, a young Brooklyn writer, is feeling lost. He's just gone through a painful break-up, thanks in part to his drinking, can't write his second novel, and carouses too much with his magazine editor. Rather than face reality, Jonathan turns instead to his fantasies — moonlighting as a private detective — because he wants to be a hero and a man of action.",
+        "poster_path": "/eCHirPRvImk6wTLJMKI8vVNVcOT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          80,
+          9648,
+          18
+        ],
+        "popularity": 7.8463,
+        "first_air_date": "2009-09-20",
+        "vote_average": 7.267,
+        "vote_count": 251,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qLpFwOWA59lRlXjY8TRGZ1kn8NR.jpg",
+        "id": 33189,
+        "name": "Kıyamet: İkinci Dünya Savaşı",
+        "original_name": "Apocalypse : La 2ème Guerre mondiale",
+        "overview": "Kıyamet: İkinci Dünya Savaşı (Fransızca: Apocalypse, la 2e Guerre mondiale) II. Dünya Savaşı'yla ilgili altı bölümlük Fransız yapımı 2009 tarihli belgesel dizi. 52'şer dakikalık toplam 6 bölümden oluşmaktadır.",
+        "poster_path": "/4rR7mhk7cynxJCPCOPBwd9f73IP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          99,
+          10768
+        ],
+        "popularity": 4.9488,
+        "first_air_date": "2009-09-08",
+        "vote_average": 8.32,
+        "vote_count": 136,
+        "origin_country": [
+          "FR"
+        ]
+      },
+      {
+        "backdrop_path": "/aijJqFjhyRA8g7xRg6KUdoExynk.jpg",
+        "id": 106388,
+        "name": "Shining Girls",
+        "original_name": "Shining Girls",
+        "overview": "Kirby Mazrachi acımasız bir saldırının onu sürekli değişen bir gerçeklik içinde bırakmasından yıllar sonra, yakın zamanda gerçekleşen bir cinayetin, uğradığı saldırıyla bağlantılı olduğunu öğrenir. Sürekli değişen bugününü anlamak ve geçmişiyle yüzleşebilmek için deneyimli muhabir Dan Velazquez'le birlikte çalışmaya başlar.",
+        "poster_path": "/qmN97JxhZHgCThRqgzaiSF7C2mj.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          80
+        ],
+        "popularity": 5.8916,
+        "first_air_date": "2022-04-28",
+        "vote_average": 7.713,
+        "vote_count": 169,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/hUHYEVr0NQxq1b7dja0OCNrS7qu.jpg",
+        "id": 2153,
+        "name": "Arthur",
+        "original_name": "Arthur",
+        "overview": "The show revolves around the lives of 8-year-old Arthur Read, an anthropomorphic aardvark, his friends and family, and their daily interactions with each other.",
+        "poster_path": "/l6aD0HPh5nZbCxCPFk8LadeT02g.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10762,
+          10751
+        ],
+        "popularity": 20.5385,
+        "first_air_date": "1996-10-07",
+        "vote_average": 7.0,
+        "vote_count": 161,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/n1JtC5s7qw0WHKeMKncs87bHNNN.jpg",
+        "id": 61239,
+        "name": "Aquarius",
+        "original_name": "Aquarius",
+        "overview": "1960'larda Los Angeles'ın kaosunun ortasında, iki polis ve politika sahnesindeki önemli bir aile, genç Charles Manson'ın seks ve uyuşturucu dolu dünyasına çekiliyorlar.",
+        "poster_path": "/dTihIjUI2ScBXVgcZiyTAq1PBBA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 10.4878,
+        "first_air_date": "2015-05-28",
+        "vote_average": 6.521,
+        "vote_count": 168,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/e7MSbwYRVqd4rZQQWcNuJvOSHLC.jpg",
+        "id": 881,
+        "name": "Days of Our Lives",
+        "original_name": "Days of Our Lives",
+        "overview": "The Horton and Brady broods endure the romantic trials of life in Salem, a Midwestern hamlet filled with evil geniuses, star-crossed lovers and a rich family history.",
+        "poster_path": "/7Zm7epVFEovMEVLpM6FvrjhaNXn.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 36.1748,
+        "first_air_date": "1965-11-08",
+        "vote_average": 5.986,
+        "vote_count": 140,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/d80flL9gjiYBhK7lqApwrRFGGCb.jpg",
+        "id": 5917,
+        "name": "90210",
+        "original_name": "90210",
+        "overview": "“Beverly Hills, 90210” efsanesini iki binli yıllara taşıyan yapım, yeni neslin Beverly Hills maceralarına odaklanıyor.\n\nYeni “90210”da, Brenda ve Brendan Walsh kardeşler yerine bu kez hayata Annie ve kardeşi Dixon Wilson’ın gözünden bakıyoruz. Kahramanlarımız, Batı Beverly Hills Lisesi’ndeki ilk günlerinden sonra artık Kansas’ta olmadıklarını idrak ediyorlar. Baba Harry ve anne Debbie’nin de dâhil olduğu Wilson ailesi, Harry’nin eski TV yıldızı annesi Tabitha’ya göz kulak olmak amacıyla Beverly Hills’e taşınıyor. Tiyatro tutkunu ve arkadaş canlısı Annie ve Wilson’ların evlatlık oğlu, yıldız sporcu Dixon için okul, büyük bir kültür şoku oluyor. Babalarının lisenin müdürü olarak işe başlaması ise kahramanlarımızın sıkıntılarına tuz biber ekiyor. İki kardeş; zengin kızı Naomi, popüler sporcu Ethan, hevesli gazeteci Navid ya da asi bir kız olan Silver gibi sınıf arkadaşlarıyla baş etmek konusunda birbirlerine yardımcı oluyorlar.",
+        "poster_path": "/6uy8Le8X8qqvc5X7pSFn3BJA69M.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 27.5579,
+        "first_air_date": "2008-09-02",
+        "vote_average": 5.682,
+        "vote_count": 192,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ebbeTgwFRvKEdFSAoHsBPvZsAFf.jpg",
+        "id": 936,
+        "name": "Super Friends",
+        "original_name": "Super Friends",
+        "overview": "The most powerful heroes ever--Superman, Wonder Woman, Aquaman, Batman and Robin--join forces with teenagers Wendy and Marvin and their dog, Marvel the Wonderdog, to defend justice and guard the innocent.",
+        "poster_path": "/3AvUm2Lf7YnEb7yHIJmC87mh0kK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10765
+        ],
+        "popularity": 18.0256,
+        "first_air_date": "1973-09-08",
+        "vote_average": 7.6,
+        "vote_count": 120,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

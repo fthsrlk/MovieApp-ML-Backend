@@ -1,0 +1,759 @@
+{
+  "adult": false,
+  "backdrop_path": "/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+  "created_by": [
+    {
+      "id": 1294471,
+      "credit_id": "677a62f8830a8f4cc766aacd",
+      "name": "황동혁",
+      "original_name": "황동혁",
+      "gender": 2,
+      "profile_path": "/xyr3b04ayyJtA5ZN3L0Af10WKIR.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2021-09-17",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Aksiyon & Macera"
+    },
+    {
+      "id": 9648,
+      "name": "Gizem"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81040344",
+  "id": 93405,
+  "in_production": true,
+  "languages": [
+    "en",
+    "ko",
+    "ur"
+  ],
+  "last_air_date": "2024-12-26",
+  "last_episode_to_air": {
+    "id": 5747919,
+    "name": "Dost mu Düşman mı?",
+    "overview": "Hayatta kalan oyuncular geceyi nasıl atlatacaklarına dair stratejiler geliştirir. Gi-hun riskli bir plan önerir, ancak bunun için güvenilir müttefiklere ihtiyacı olacaktır.",
+    "vote_average": 8.2,
+    "vote_count": 91,
+    "air_date": "2024-12-26",
+    "episode_number": 7,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 61,
+    "season_number": 2,
+    "show_id": 93405,
+    "still_path": "/tO8hO3jWp4JveXmBbPikd4IQbss.jpg"
+  },
+  "name": "Squid Game",
+  "next_episode_to_air": {
+    "id": 5884550,
+    "name": "1. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-06-27",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 93405,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 213,
+      "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+      "name": "Netflix",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 22,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "오징어 게임",
+  "overview": "Para sıkıntısı çeken yüzlerce oyuncu, çocuk oyunlarında yarışmaları için aldıkları tuhaf daveti kabul eder. İçeride onları cazip bir ödül ve ölüm riski beklemektedir.",
+  "popularity": 78.9564,
+  "poster_path": "/yACIAqAkSLkX4coHafpyLWAtQjw.jpg",
+  "production_companies": [
+    {
+      "id": 112647,
+      "logo_path": null,
+      "name": "Siren Pictures",
+      "origin_country": "KR"
+    },
+    {
+      "id": 203249,
+      "logo_path": null,
+      "name": "Firstman Studio",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-09-17",
+      "episode_count": 9,
+      "id": 131977,
+      "name": "Sezon 1",
+      "overview": "Para sıkıntısı çeken yüzlerce oyuncu, çocuk oyunlarında yarışmaları için aldıkları tuhaf daveti kabul eder. İçeride onları cazip bir ödül ve ölüm riski beklemektedir.",
+      "poster_path": "/wgrW3fMgmzOxYcVHBek5usvr4MH.jpg",
+      "season_number": 1,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2024-12-26",
+      "episode_count": 7,
+      "id": 287516,
+      "name": "Sezon 2",
+      "overview": "Canını seven kaçsın! Oyuncu 456, nefes kesici yepyeni çocuk oyunlarında ölümcül tehlikelere meydan okumak için geri dönüyor. Ancak bu sefer gizli bir planı var.",
+      "poster_path": "/3XWmbNHuaDKGIbBhKhQhb8ukmec.jpg",
+      "season_number": 2,
+      "vote_average": 8.4
+    },
+    {
+      "air_date": "2025-06-26",
+      "episode_count": 6,
+      "id": 435948,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/8pD0Alsxpb7HDRp7jSlCE9iovWb.jpg",
+      "season_number": 3,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    },
+    {
+      "english_name": "Urdu",
+      "iso_639_1": "ur",
+      "name": "اردو"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Ölüm kalım oyunu başlıyor...",
+  "type": "Scripted",
+  "vote_average": 7.863,
+  "vote_count": 15768,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73249,
+        "known_for_department": "Acting",
+        "name": "이정재",
+        "original_name": "이정재",
+        "popularity": 2.9028,
+        "profile_path": "/3h5Cfm0X8ohWn7psZkqdNWqXAHH.jpg",
+        "character": "Seong Gi-hun / 'No. 456'",
+        "credit_id": "5e691b882f3b1700113ec6a7",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1557181,
+        "known_for_department": "Acting",
+        "name": "위하준",
+        "original_name": "위하준",
+        "popularity": 3.1461,
+        "profile_path": "/tEZuIaMESdBw4LfNq3vshGR4VlP.jpg",
+        "character": "",
+        "credit_id": "681da42300ea3a1e5763bb20",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25002,
+        "known_for_department": "Acting",
+        "name": "이병헌",
+        "original_name": "이병헌",
+        "popularity": 6.5867,
+        "profile_path": "/pY4pwYO8qwtzvuzpzRczDACDiVA.jpg",
+        "character": "",
+        "credit_id": "681da44b0e9817dc4e63bb70",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1296713,
+        "known_for_department": "Acting",
+        "name": "임시완",
+        "original_name": "임시완",
+        "popularity": 2.6323,
+        "profile_path": "/xsBVzDkJEpWTdloPIDyYwoTZQej.jpg",
+        "character": "",
+        "credit_id": "681da47612a488995663bbb2",
+        "order": 23
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "secret organization",
+        "id": 3271
+      },
+      {
+        "name": "challenge",
+        "id": 5399
+      },
+      {
+        "name": "survival",
+        "id": 10349
+      },
+      {
+        "name": "fictional game show",
+        "id": 12100
+      },
+      {
+        "name": "cruelty",
+        "id": 14624
+      },
+      {
+        "name": "game",
+        "id": 18249
+      },
+      {
+        "name": "death match",
+        "id": 157376
+      },
+      {
+        "name": "nostalgic",
+        "id": 164246
+      },
+      {
+        "name": "prize",
+        "id": 168547
+      },
+      {
+        "name": "desperate",
+        "id": 232076
+      },
+      {
+        "name": "anxious",
+        "id": 251667
+      },
+      {
+        "name": "suspense",
+        "id": 288394
+      },
+      {
+        "name": "death game",
+        "id": 295702
+      },
+      {
+        "name": "thriller",
+        "id": 316362
+      },
+      {
+        "name": "disdainful",
+        "id": 325797
+      },
+      {
+        "name": "frightened",
+        "id": 325818
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "tr",
+        "iso_3166_1": "TR",
+        "name": "Squid Game | Resmi Fragman | Netflix",
+        "key": "YJoB8zwPpSk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "published_at": "2021-09-02T00:00:01.000Z",
+        "id": "6143f188813831002d357359"
+      }
+    ]
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/bKxiLRPVWe2nZXCzt6JPr5HNWYm.jpg",
+        "id": 110316,
+        "name": "Alice in Borderland",
+        "original_name": "今際の国のアリス",
+        "overview": "Amaçsız bir bilgisayar oyuncusu ve iki arkadaşı kendilerini paralel evrendeki Tokyo'da bulur. Burada hayatta kalmak için bir dizi acımasız oyuna katılmaları gerekir.",
+        "poster_path": "/20mOwAAPwZ1vLQkw0fvuQHiG7bO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          9648,
+          18,
+          10759
+        ],
+        "popularity": 23.3913,
+        "first_air_date": "2020-12-10",
+        "vote_average": 8.167,
+        "vote_count": 2216,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/lyZmMTwpr6ZCXKA7lszpXcDwNOM.jpg",
+        "id": 90462,
+        "name": "Chucky",
+        "original_name": "Chucky",
+        "overview": "Bir banliyödeki bahçe satışında eski bir Chucky bebeği ortaya çıktıktan sonra bir dizi korkunç cinayet kasabanın ikiyüzlülüklerini ve sırlarını ortaya çıkarmaya başlayınca Amerika'daki huzurlu bir kasaba kaosa sürüklenir.",
+        "poster_path": "/sdCJbGkvnIsIKLxaFQrviriODVq.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          35,
+          9648
+        ],
+        "popularity": 21.6432,
+        "first_air_date": "2021-10-12",
+        "vote_average": 7.84,
+        "vote_count": 4084,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1R68vl3d5s86JsS2NPjl8UoMqIS.jpg",
+        "id": 88329,
+        "name": "Hawkeye",
+        "original_name": "Hawkeye",
+        "overview": "Marvel Studios'un orijinal yeni dizisi olan \"Hawkeye\", Eski Avenger Clint Barton, diğer adıyla Hawkeye'ın blip sonrası New York'ta görünürde basit bir görevini konu alıyor: Noel'e kadar ailesinin yanına gitmesi. Geçmişinden bir tehdit ortaya çıkınca, Hawkeye bir suç komplosunu ortaya çıkarmak için, istemeyerek 22 yaşındaki yetenekli okçu ve en büyük hayranı olan Kate Bishop'la çalışmak zorunda kalır.",
+        "poster_path": "/ct5pNE5dDHryHLDnxyZPYcqO1sz.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35,
+          10759
+        ],
+        "popularity": 17.1863,
+        "first_air_date": "2021-11-24",
+        "vote_average": 7.844,
+        "vote_count": 3443,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/u23G9KZregWHs1use6ir1fX27gl.jpg",
+        "id": 81356,
+        "name": "Sex Education",
+        "original_name": "Sex Education",
+        "overview": "Öz güvensiz Otis, terapist annesi sayesinde cinsel tavsiyeler hakkında her şeyi bilmektedir. Öyle ki asi Maeve ona okulda bir seks terapisi kliniği açmayı teklif eder.",
+        "poster_path": "/vDPxd8umSGkkhCO7eA1yML1zT1o.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 53.6642,
+        "first_air_date": "2019-01-11",
+        "vote_average": 8.238,
+        "vote_count": 7468,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/rm6zG1gESQT0ww3mp8oUUT5LJBL.jpg",
+        "id": 60572,
+        "name": "Pokemon",
+        "original_name": "ポケットモンスター",
+        "overview": "Ash Ketchum, geleceğin büyük eğitmeni olacaktır. 10 yaşına bastığı gün Pokémon'unu alacağı için çok heyecanlıdır. Sabah biraz geç kalır haliyle, koşarak Profesör Oak'ın labaratuarına gider. Profesör Oak Pokémonlar hakkında detaylı bilgiye sahiptir. Adı üstünde, bir profesör. Profesör Oak ona geç kaldığını ve de bütün Pokémonların alındığını söyler. Ancak bir Pokémon kalmıştır, Pikachu. Fakat bu Pokémon hiç söz dinlemez, hatta Pokétopu'na bile girmez. Ash ise çaresiz kalmıştır, kabul eder. Dışarı çıktığında rakibi Gary Pokémonunu almış, hatta hava atıyordur. Gary yola çıktığında Ash kafasına Dünya'nın en büyük eğitmeni olmayı kafasına koymuştur. Gary ise artık onun en büyük rakibidir. Profesör Oak ise ondan bir istekte bulunur, ona Pokédex verir ve Pokedex'i tamamlamasını ister. Ash ise çaresiz kabul eder.",
+        "poster_path": "/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "popularity": 96.6384,
+        "first_air_date": "1997-04-01",
+        "vote_average": 7.924,
+        "vote_count": 1953,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/wQEW3xLrQAThu1GvqpsKQyejrYS.jpg",
+        "id": 94605,
+        "name": "Arcane",
+        "original_name": "Arcane",
+        "overview": "Piltover ve Zaun kentleri arasındaki sert çatışmanın ortasında iki kız kardeş, büyülü teknolojiler ve birbirine zıt inanışlar arasındaki savaşın karşı cephelerindedir.",
+        "poster_path": "/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 29.6611,
+        "first_air_date": "2021-11-06",
+        "vote_average": 8.776,
+        "vote_count": 5111,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/xGexTKCJDkl12dTW4YCBDXWb1AD.jpg",
+        "id": 71446,
+        "name": "Money Heist",
+        "original_name": "La casa de papel",
+        "overview": "Bir suç dehası planını gerçekleştirmek üzere polisi ustalıkla yönlendirirken sekiz hırsız, rehineler alarak kendilerini İspanya Kraliyet Darphanesine kilitler.",
+        "poster_path": "/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 36.0744,
+        "first_air_date": "2017-05-02",
+        "vote_average": 8.237,
+        "vote_count": 18886,
+        "origin_country": [
+          "ES"
+        ]
+      },
+      {
+        "backdrop_path": "/ikN8ABD9pXHuW4JFqTEHr3ae8rd.jpg",
+        "id": 106651,
+        "name": "Hellbound",
+        "original_name": "지옥",
+        "overview": "Doğaüstü varlıkların insanları kanlı bir şekilde cezalandırarak cehenneme mahkûm ettiği bir ortam, ilahi adalet temelinde kurulan dinî bir gruba zemin hazırlar.",
+        "poster_path": "/5NYdSAnDVIXePrSG2dznHdiibMk.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          18,
+          9648,
+          10765
+        ],
+        "popularity": 6.0553,
+        "first_air_date": "2021-11-19",
+        "vote_average": 7.361,
+        "vote_count": 926,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/jnzoh5qoxRLFRIQAxnl6D3RStPC.jpg",
+        "id": 91363,
+        "name": "What If...?",
+        "original_name": "What If...?",
+        "overview": "Watcher, uçsuz bucaksız çoklu evrendeki yolculuğumuzda bize rehberlik etmeyi sürdürüyor ve MCU'da bizi yepyeni ve tanıdık yüzlerle karşı karşıya getiriyor. Bu animasyon antoloji dizisi, ikonik rollerini yeniden canlandıran çok sayıda yıldız oyuncunun yer aldığı inanılmaz bir seslendirme kadrosuyla klasik Marvel Sinematik anlarını sorguluyor, yeniden ele alıyor ve çarpıtıyor.",
+        "poster_path": "/lztz5XBMG1x6Y5ubz7CxfPFsAcW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "popularity": 28.5395,
+        "first_air_date": "2021-08-11",
+        "vote_average": 8.1,
+        "vote_count": 4357,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/rKsd2InqKFH4NMPCTBFDo6m4tnm.jpg",
+        "id": 99966,
+        "name": "All of Us Are Dead",
+        "original_name": "지금 우리 학교는",
+        "overview": "Okudukları lisede bir zombi virüsü salgınının patlak vermesiyle kapana kısılan öğrenciler ya bir çıkış yolu bulacak ya da korkunç bir şekilde enfekte olacak.",
+        "poster_path": "/pTEFqAjLd5YTsMD6NSUxV6Dq7A6.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          10759,
+          18,
+          10765
+        ],
+        "popularity": 29.8638,
+        "first_air_date": "2022-01-28",
+        "vote_average": 8.29,
+        "vote_count": 4046,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/lTySSn1rE10KzYEC9UqJGdos5Vp.jpg",
+        "id": 78191,
+        "name": "You",
+        "original_name": "You",
+        "overview": "Tehlikeli bir cazibeye sahip ve obsesif bir genç adam, kendisini büyüleyen kadınların yaşamlarına girmek için sınırları zorlar.",
+        "poster_path": "/oANi0vEE92nuijiZQgPZ88FSxqQ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80
+        ],
+        "popularity": 150.4483,
+        "first_air_date": "2018-09-09",
+        "vote_average": 8.051,
+        "vote_count": 3450,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/h0CQ36rm9cSLznve5ocCDtYlnwN.jpg",
+        "id": 195670,
+        "name": "XO, Kitty",
+        "original_name": "XO, Kitty",
+        "overview": "Kalbinin sesini dinleyip Seul'deki seçkin bir liseye giden genç çöpçatan Kitty; hayat, aşk ve aile meselelerinin düşündüğünden daha karmaşık olduğunu öğrenir.",
+        "poster_path": "/or8vzm4PrpW5ChwIZ0r8F67lRA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 20.5573,
+        "first_air_date": "2023-05-18",
+        "vote_average": 8.1,
+        "vote_count": 510,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4XbQb5YoWK9oMrlQdKwtZ1ccpC8.jpg",
+        "id": 97400,
+        "name": "Gece Yarısı Ayini",
+        "original_name": "Midnight Mass",
+        "overview": "İnancını yitirmiş, ölmekte olan bir kasabaya yeni gelen karizmatik ve genç bir rahip görkemli mucizeleri, gizemli olayları ve yeni bir dinî coşkuyu beraberinde getirir.",
+        "poster_path": "/plmX6yKLbZHulr2s06ThGU46gy1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          18
+        ],
+        "popularity": 5.2174,
+        "first_air_date": "2021-09-24",
+        "vote_average": 7.551,
+        "vote_count": 1001,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/or7wKwv1IT6LEOktt395O5qi7e.jpg",
+        "id": 60574,
+        "name": "Peaky Blinders",
+        "original_name": "Peaky Blinders",
+        "overview": "Birinci Dünya Savaşı’ndan yeni çıkmış İngiltere’yi, yasadışı faaliyet gösteren çeşitli çeteler sarmıştır. Bunlardan biri de soygunculuk ve at yarışıyla para kazanan Peaky Blinders’dır. Polislere rüşvet yedirerek paçayı kurtaran çete, bir soygunda yanlışlık yapınca başlarına bela olacak yeni bir müfettişin şehre gelmesine vesile olurlar.",
+        "poster_path": "/5aHpODCpUa0kGTPXtiYC0moIPhT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 78.428,
+        "first_air_date": "2013-09-12",
+        "vote_average": 8.532,
+        "vote_count": 10340,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/4LZuFMhLivOSO7zuWAQ3RffMnnr.jpg",
+        "id": 110356,
+        "name": "My Name",
+        "original_name": "마이 네임",
+        "overview": "Babasının öldürülmesinin ardından intikam hırsıyla yanıp tutuşan bir kadın, güçlü bir mafya patronuna güvenir ve onun yönlendirmesiyle polis teşkilatına girer.",
+        "poster_path": "/l3Bn2jgYndSFvcPpddqMxQXiiCe.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 10.7242,
+        "first_air_date": "2021-10-15",
+        "vote_average": 8.236,
+        "vote_count": 933,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/34OGjFEbHj0E3lE2w0iTUVq0CBz.jpg",
+        "id": 87739,
+        "name": "The Queen's Gambit",
+        "original_name": "The Queen's Gambit",
+        "overview": "1950'lerde bir yetimhanede, küçük bir kız müthiş bir satranç yeteneği sergiler. Ancak yıldızlığa uzanan umulmadık yolculuğunda bağımlılıkla mücadele etmek zorunda kalır.",
+        "poster_path": "/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 12.5735,
+        "first_air_date": "2020-10-23",
+        "vote_average": 8.462,
+        "vote_count": 4896,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/fQsIJQxE1D0Y0NpWSKwo489y5px.jpg",
+        "id": 204082,
+        "name": "Squid Game: The Challenge",
+        "original_name": "Squid Game: The Challenge",
+        "overview": "\"Squid Game\"den uyarlanan bu yarışmada 456 oyuncu, hayatlarını değiştirecek 4,56 milyon dolarlık ödül için becerilerini büyük bir sınava tabi tutuyor.",
+        "poster_path": "/y85L9DWoaM2MYNg1p8QRywxXJsa.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 22.0949,
+        "first_air_date": "2023-11-22",
+        "vote_average": 6.335,
+        "vote_count": 505,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/fIXTetAsXkPO6UUUw85IU4oactf.jpg",
+        "id": 127865,
+        "name": "The Chestnut Man",
+        "original_name": "Kastanjemanden",
+        "overview": "The Chestnut Man, parkta bulunan ve bir eli kayıp olan bir genç kadın cesedinin yanındaki oyuncak bebekle başlıyor. Cinayeti araştıran genç dedektif Naia ve ortağı Mark'ın, önceden kaybolmuş bir çocukla oyuncak bebek arasındaki bağın bir politikacıya kadar uzandığını keşfedişiyle devam ediyor. Kestane ve kibrit çöplerinden yapılmış bu oyuncak bebek, Kopenhag sakinlerini tedirgin eden seri katilin sıklıkla suç mahalline bıraktığı bir iz.",
+        "poster_path": "/tdLJTZJ184PsO9QkK9aPeeAXLlo.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "da",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 4.4479,
+        "first_air_date": "2021-09-29",
+        "vote_average": 7.502,
+        "vote_count": 583,
+        "origin_country": [
+          "DK"
+        ]
+      },
+      {
+        "backdrop_path": "/2MaumbgBlW1NoPo3ZJO38A6v7OS.jpg",
+        "id": 66732,
+        "name": "Stranger Things",
+        "original_name": "Stranger Things",
+        "overview": "Ufak bir kasabada küçük bir çocuk kaybolunca, gizli deneyler, korkutucu doğaüstü güçler ve tuhaf bir küçük kızın da parçası olduğu bir gizem ortaya çıkar.",
+        "poster_path": "/hjVNQA2a12OxkpDEOQTBMbKVZ1K.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765,
+          9648
+        ],
+        "popularity": 62.6575,
+        "first_air_date": "2016-07-15",
+        "vote_average": 8.596,
+        "vote_count": 18275,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg",
+        "id": 93740,
+        "name": "Foundation",
+        "original_name": "Foundation",
+        "overview": "Isaac Asimov’un ödüllü romanlarına dayanan Foundation, Galaksi İmparatorluğu’nun çökmesiyle insanlığı kurtarmak ve medeniyeti yeniden inşa etmek için zorlu bir serüvene atılan bir grup sürgünü anlatıyor.",
+        "poster_path": "/1AZERr7KEJBpcchQ6vFcbUUC0Zw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 35.3846,
+        "first_air_date": "2021-09-23",
+        "vote_average": 7.8,
+        "vote_count": 1359,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

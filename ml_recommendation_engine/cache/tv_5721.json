@@ -1,0 +1,769 @@
+{
+  "adult": false,
+  "backdrop_path": "/kMvCycceVvF2QK8aF8Jojs1ey7K.jpg",
+  "created_by": [
+    {
+      "id": 1217285,
+      "credit_id": "525782d2760ee36aaa60406a",
+      "name": "Brenda Hampton",
+      "original_name": "Brenda Hampton",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    44
+  ],
+  "first_air_date": "2008-07-01",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 35,
+      "name": "Komedi"
+    }
+  ],
+  "homepage": "http://freeform.go.com/shows/secret-life-american-teenager",
+  "id": 5721,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2013-06-03",
+  "last_episode_to_air": {
+    "id": 366531,
+    "name": "24. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2013-06-03",
+    "episode_number": 24,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 5,
+    "show_id": 5721,
+    "still_path": "/9huPwwXov6v2ZgLUs5YTVkSiP5o.jpg"
+  },
+  "name": "The Secret Life of the American Teenager",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 75,
+      "logo_path": "/p57JGkSUBdXbOtqkEKeTnfHn7kd.png",
+      "name": "ABC Family",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 121,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Secret Life of the American Teenager",
+  "overview": "",
+  "popularity": 75.698,
+  "poster_path": "/fWJ8YSIouXXDAWsbY0rDkOl29s2.jpg",
+  "production_companies": [
+    {
+      "id": 27257,
+      "logo_path": null,
+      "name": "Brendavision!",
+      "origin_country": ""
+    },
+    {
+      "id": 24462,
+      "logo_path": null,
+      "name": "Prodco",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2008-07-01",
+      "episode_count": 23,
+      "id": 15840,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/6XBoX1Hh1Zt0DzMQ1h8ZZkuBJaK.jpg",
+      "season_number": 1,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2009-06-22",
+      "episode_count": 24,
+      "id": 15841,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/odNGkU6REvCjnIMcEFM5L4MhUXN.jpg",
+      "season_number": 2,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2010-06-07",
+      "episode_count": 26,
+      "id": 15842,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/gfcKuSGDQekXmHzxZTplHYHeTUz.jpg",
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-06-13",
+      "episode_count": 24,
+      "id": 15843,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/gpFnKoB4oqskGOOJSLgUoD89axg.jpg",
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2012-06-11",
+      "episode_count": 24,
+      "id": 15844,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/saxtGNTa48S9XjwpLTRg4MUUauM.jpg",
+      "season_number": 5,
+      "vote_average": 4.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.063,
+  "vote_count": 126,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 94185,
+        "known_for_department": "Acting",
+        "name": "Shailene Woodley",
+        "original_name": "Shailene Woodley",
+        "popularity": 4.524,
+        "profile_path": "/gL2NvHKW9wAH3qkZuJ76ULUiArB.jpg",
+        "character": "Amy Juergens",
+        "credit_id": "525782ce760ee36aaa603dab",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 55615,
+        "known_for_department": "Acting",
+        "name": "Megan Park",
+        "original_name": "Megan Park",
+        "popularity": 1.978,
+        "profile_path": "/2tLqIOevl1UanuSNGSoCw3vM96k.jpg",
+        "character": "Grace Bowman",
+        "credit_id": "525782cd760ee36aaa603d12",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 221115,
+        "known_for_department": "Acting",
+        "name": "Daren Kagasoff",
+        "original_name": "Daren Kagasoff",
+        "popularity": 0.9177,
+        "profile_path": "/3jR09GLiSq8puOaqMJ6r44SJMMv.jpg",
+        "character": "Ricky Underwood",
+        "credit_id": "525782ce760ee36aaa603d3b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1223061,
+        "known_for_department": "Acting",
+        "name": "Ken Baumann",
+        "original_name": "Ken Baumann",
+        "popularity": 0.6585,
+        "profile_path": "/7zUB5dRsIQuUpvVMuITjK1kK2Al.jpg",
+        "character": "Ben Boykewick",
+        "credit_id": "525782ce760ee36aaa603d61",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 206864,
+        "known_for_department": "Acting",
+        "name": "Greg Finley",
+        "original_name": "Greg Finley",
+        "popularity": 1.2684,
+        "profile_path": "/nNrkeOaNQhDfgT85h6lr8JrfyEs.jpg",
+        "character": "Jack Pappas",
+        "credit_id": "556cd61ec3a368591c001f8c",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1276317,
+        "known_for_department": "Acting",
+        "name": "Francia Raísa",
+        "original_name": "Francia Raísa",
+        "popularity": 1.7041,
+        "profile_path": "/uTjmrUPJUyM7n5CBCjxT5IX3Eac.jpg",
+        "character": "Adrian Lee",
+        "credit_id": "597af018c3a368374c00b6ef",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97188,
+        "known_for_department": "Acting",
+        "name": "Steve Schirripa",
+        "original_name": "Steve Schirripa",
+        "popularity": 2.379,
+        "profile_path": "/2Nd2Hd4zIBCv4ZoXFhSkrJCx6wB.jpg",
+        "character": "Leo Boykewich",
+        "credit_id": "525782ce760ee36aaa603dff",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1516554,
+        "known_for_department": "Acting",
+        "name": "Michael Grant",
+        "original_name": "Michael Grant",
+        "popularity": 1.5433,
+        "profile_path": "/hz5H6bk8AYzK06WTNTy9J0bKKrw.jpg",
+        "character": "Ethan",
+        "credit_id": "597af441c3a36836c000bf43",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1389750,
+        "known_for_department": "Acting",
+        "name": "Cierra Ramirez",
+        "original_name": "Cierra Ramirez",
+        "popularity": 1.6704,
+        "profile_path": "/8CSdcCyr3E2kB5wOpYPNyYtVHgG.jpg",
+        "character": "Kathy",
+        "credit_id": "58b77b49c3a3685c4000249d",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 98407,
+        "known_for_department": "Acting",
+        "name": "Amy Rider",
+        "original_name": "Amy Rider",
+        "popularity": 0.8599,
+        "profile_path": "/8gZLkzgM521TKliOAT1pbleZf1x.jpg",
+        "character": "Alice Valko",
+        "credit_id": "5f8567b825b95500352d7711",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1217285,
+        "known_for_department": "Writing",
+        "name": "Brenda Hampton",
+        "original_name": "Brenda Hampton",
+        "popularity": 0.7488,
+        "profile_path": null,
+        "credit_id": "525782d2760ee36aaa604074",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "pregnancy",
+        "id": 3725
+      },
+      {
+        "name": "high school",
+        "id": 6270
+      },
+      {
+        "name": "teenage pregnancy",
+        "id": 173186
+      },
+      {
+        "name": "teen drama",
+        "id": 193400
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/tve8ADk2Z1xoKjTO61CBDB742ff.jpg",
+        "id": 284,
+        "name": "Dirt",
+        "original_name": "Dirt",
+        "overview": "Dirt is an American television serial broadcast on the FX network. It premiered on January 2, 2007 and starred Courteney Cox as Lucy Spiller, the editor-in-chief of the first-of-its-kind \"glossy tabloid\" magazine DirtNow, which was previously two separate publications: drrt and Now.",
+        "poster_path": "/JZs8u8XfZJDjv72LUidoXdb9qz.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 5.4622,
+        "first_air_date": "2007-01-02",
+        "vote_average": 6.8,
+        "vote_count": 39,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4R74vZI6WZLo83BnlUtCFwEK7Dv.jpg",
+        "id": 23023,
+        "name": "The Buccaneers",
+        "original_name": "The Buccaneers",
+        "overview": "Because of their \"new money\" background, four American girls have difficulty breaking into the upper-crust society of New York. Laura Testvalley, the governess of one of the girls, suggests a London season and thus the young women set sail for England and the unsuspecting English aristocracy. In England, all the girls soon find eligible husbands and the youngest girl, Nan, seems to land the best husband of them all: the handsome and very wealthy Julius, Duke of Trevennick. The girls soon discover that English upper-class men are not at all what they expected and hoped for.",
+        "poster_path": "/AbdJg42cyKWqfVm8B3fwdilabtK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 2.6411,
+        "first_air_date": "1995-02-05",
+        "vote_average": 5.5,
+        "vote_count": 14,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/ylq1oh29garW3YxVGFtFRN1X2qK.jpg",
+        "id": 71736,
+        "name": "LA to Vegas",
+        "original_name": "LA to Vegas",
+        "overview": "An ensemble workplace comedy about a group of underdogs trying to find their place in the world, set on the Friday night flight from LAX to Vegas and the returning flight on Sunday, who all share the same goal: to come back a winner in the casino of life.",
+        "poster_path": "/qrHza40GGG8Xt2CWuynMiA4aV27.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 3.5175,
+        "first_air_date": "2018-01-02",
+        "vote_average": 6.818,
+        "vote_count": 44,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/jhVVLI4kw3p5hZPi46CJJqHfH7E.jpg",
+        "id": 18351,
+        "name": "Special Agent Oso",
+        "original_name": "Special Agent Oso",
+        "overview": "Special Agent Oso is an adorable stuffed bear and an agent-in-training! Oso is always eager to help, even if he doesn't always get things right.",
+        "poster_path": "/2oxmUFLw7T37G9nKRAV5BtJaHgK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762
+        ],
+        "popularity": 15.2072,
+        "first_air_date": "2009-04-04",
+        "vote_average": 7.8,
+        "vote_count": 18,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2dKxc2CLFZ94atn7AjvJsHjO0aV.jpg",
+        "id": 46661,
+        "name": "Twisted",
+        "original_name": "Twisted",
+        "overview": "A one-hour mystery full of twists and turns that follows Danny Desai, a charismatic 16-year-old with a troubled past who returns to his hometown after spending five years in juvenile detention. Immediately branded an outcast, Danny attempts to reconnect with his two childhood best friends, Jo and Lacey. But when a fellow student is found dead in her home, Danny instantly becomes the prime suspect and town spirals into a frenzy of suspicion and mystery. Jo and Lacey must decide if their childhood friend is unforgivable, or if he's really a victim being persecuted for his own twisted secrets.",
+        "poster_path": "/fMhccRNcOR4bDxxoWsnDZzjf7PB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          18
+        ],
+        "popularity": 5.9247,
+        "first_air_date": "2013-03-19",
+        "vote_average": 7.4,
+        "vote_count": 57,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/x3rqUrmnqF13GBH43J7PRv6DdgH.jpg",
+        "id": 4946,
+        "name": "Deal or No Deal",
+        "original_name": "Deal or No Deal",
+        "overview": "A contestant must choose from 26 sealed briefcases containing a marker for various amounts of cash from one penny to $1 million. The player then eliminates the remaining 25 cases one by one. The chosen ones are opened and the amount of money inside revealed. After several cases are opened, the player is tempted by the Banker to accept an offer of cash in exchange for not continuing the game and possibly winning a larger sum of money.",
+        "poster_path": "/bWi2Lw8adsHbYsVj09a1IYOkqP1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751,
+          10764
+        ],
+        "popularity": 23.0496,
+        "first_air_date": "2005-12-19",
+        "vote_average": 6.697,
+        "vote_count": 33,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/poaxhWMnvrMeEmG6j3wLWNhZvJj.jpg",
+        "id": 4550,
+        "name": "7th Heaven",
+        "original_name": "7th Heaven",
+        "overview": "Reverend Eric Camden and his wife Annie have always had their hands full caring for seven children, not to mention the friends, sweethearts and spouses that continually come and go in the Camden household.",
+        "poster_path": "/s6mkZKanKim3VGUIxR2gGGf9jn0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          18,
+          35
+        ],
+        "popularity": 22.1788,
+        "first_air_date": "1996-08-26",
+        "vote_average": 6.395,
+        "vote_count": 204,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/mQRnNvh9HM21V3f1um0vg8P6kr7.jpg",
+        "id": 89689,
+        "name": "Dummy",
+        "original_name": "Dummy",
+        "overview": "After being discarded by her original owner, a spoiled, jealous, and manipulative sex doll named Barbara convinces aspiring writer Cody, the only one able to hear her speak, to take her home so she can help cure Cody's writers block.",
+        "poster_path": "/gmtDBFQfYRb2uUyUXyVPhCCldz0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 4.2272,
+        "first_air_date": "2020-04-20",
+        "vote_average": 7.1,
+        "vote_count": 48,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/42x4sO1WxIyg0an5gc0cSMId51x.jpg",
+        "id": 18664,
+        "name": "Cake Boss",
+        "original_name": "Cake Boss",
+        "overview": "Follows the operations of Carlo's Bakery, a family-owned business in Hoboken, New Jersey owned and operated by siblings Buddy Valastro, Lisa Valastro, Maddalena Castano, Grace Faugno and Mary Sciarrone. The show focuses on how they make their cakes, and the interpersonal relationships among the various family members and other employees who work at the shop.",
+        "poster_path": "/9OkrZDHC23Q8xc2dKX0yVJDjnLt.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764,
+          10751
+        ],
+        "popularity": 14.6524,
+        "first_air_date": "2009-05-25",
+        "vote_average": 7.5,
+        "vote_count": 43,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ploUH2EYcNQhjWivB9zC6HdfHxn.jpg",
+        "id": 862,
+        "name": "In the Heat of the Night",
+        "original_name": "In the Heat of the Night",
+        "overview": "In the Heat of the Night is an American television series based on the motion picture and novel of the same name starring Carroll O'Connor as the white police chief William Gillespie, and Howard Rollins as the African-American police detective Virgil Tibbs. It was broadcast on NBC from 1988 until 1992, and then on CBS until 1995. Its executive producers were Fred Silverman, Juanita Bartlett and Carroll O'Connor. TGG Direct released the first season of the series to DVD on August 28, 2012.",
+        "poster_path": "/tZ1EH5HiMclbP6DWgIl8D7qETv2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 53.9979,
+        "first_air_date": "1988-03-06",
+        "vote_average": 7.443,
+        "vote_count": 61,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/atwkAlHM9NQjEOes09YuSrwsPPQ.jpg",
+        "id": 37632,
+        "name": "Switched at Birth",
+        "original_name": "Switched at Birth",
+        "overview": "The story of two teenage girls who discover they were accidentally switched as newborns in the hospital. Bay Kennish grew up in a wealthy family with two parents and a brother, while Daphne Vasquez, who lost her hearing at an early age due to a case of meningitis, grew up with a single mother in a working-class neighborhood. Things come to a dramatic head when both families meet and struggle to learn how to live together for the sake of the girls.",
+        "poster_path": "/db5XnOxGcUHeNhBRNbHfqTlzXmk.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10751
+        ],
+        "popularity": 59.8539,
+        "first_air_date": "2011-06-06",
+        "vote_average": 7.461,
+        "vote_count": 205,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zkeCd1vUKSwVzqsqJ2lZzXbC1fS.jpg",
+        "id": 72313,
+        "name": "Sick Note",
+        "original_name": "Sick Note",
+        "overview": "Aylak Daniel Glass'a yanlışlıkla kanser teşhisi konmasının ardından, söylediği yalanlarla kendini absürt bir sahtekârlık, şantaj, şüphe ve talihsizlikler ağında bulur.",
+        "poster_path": "/zdHbU1QWSZPraTRyJyOusSsrynX.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          80
+        ],
+        "popularity": 5.3743,
+        "first_air_date": "2017-11-07",
+        "vote_average": 6.699,
+        "vote_count": 98,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/hBDCJmZ52UtLHgwwqaZpFcSvlNd.jpg",
+        "id": 7097,
+        "name": "United States of Tara",
+        "original_name": "United States of Tara",
+        "overview": "Tara's multiple personalities include \"T\" the wild-child teenager, \"Buck\" the rough and tumble biker dude, and \"Alice\" the type-A homemaker. But with a family that loves her just the way she is, Tara never gives up hope that someday she can just be herself.",
+        "poster_path": "/wSyF2mp4hjNbjCUJjwN7cTg1LQb.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 8.7643,
+        "first_air_date": "2009-01-18",
+        "vote_average": 7.107,
+        "vote_count": 149,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zdMtMGLXJmxoO7hd7IspijEykjO.jpg",
+        "id": 105060,
+        "name": "Double Cross",
+        "original_name": "Double Cross",
+        "overview": "Follows Erica and Eric Cross two siblings on a quest to save the women in their neighborhood from a sex trafficking ring that's taken over Dr. Erica's hospital emergency room and shaken up the streets ran by \"The Heights\" Kingpin, Eric. Haunted by their past, the twins set down a path of their unique brand of vigilante justice.",
+        "poster_path": "/g2CDcltzgWVrF5NlaDfAsAYlUHe.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80
+        ],
+        "popularity": 1.4785,
+        "first_air_date": "2020-05-20",
+        "vote_average": 8.6,
+        "vote_count": 17,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/nxqRVJ3QP76CZBaunWl42hQVK0.jpg",
+        "id": 1803,
+        "name": "The Facts of Life",
+        "original_name": "The Facts of Life",
+        "overview": "Mrs. Edna Garrett, housemother and dietitian at the Eastland School, teaches a group of girls in her charge how to solve those problems that every teenager has to face.",
+        "poster_path": "/45i9VujUbQITmHl3QE3eNs9ZUv3.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 87.3118,
+        "first_air_date": "1979-08-24",
+        "vote_average": 7.0,
+        "vote_count": 94,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4Anwqij3fTDDwpkOvM5zUzjMY5.jpg",
+        "id": 8203,
+        "name": "The Elephant Princess",
+        "original_name": "The Elephant Princess",
+        "overview": "Alex Wilson thinks she is an average suburban girl living in Melbourne, until her 16th birthday when exotic visitor, Kuru, shows up in her backyard with a magical elephant, Anala. He informs her she is the heir to the throne of the magical kingdom of Manjipoor. With his help, the reluctant princess will master her magic powers and defend her royal inheritance against her devious cousin, Vashan, whilst balancing the pull of both worlds to find her true destiny.",
+        "poster_path": "/o7cmIHA84UkkH1JTaqygPW9IsBb.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10762
+        ],
+        "popularity": 10.4754,
+        "first_air_date": "2008-11-13",
+        "vote_average": 7.2,
+        "vote_count": 68,
+        "origin_country": [
+          "AU"
+        ]
+      },
+      {
+        "backdrop_path": "/62PjKg1YWiy7FlAmfEO5xrOqzCZ.jpg",
+        "id": 32022,
+        "name": "Being Human",
+        "original_name": "Being Human",
+        "overview": "Üç paranormal oda arkadaşı, bir hayalet, bir vampir ve bir kurt adam, karanlık sırlarını dünyadan saklamak için mücadele ederken, birbirlerine çifte hayat yaşamanın karmaşıklıklarında yollarını bulmalarına yardım ediyor.",
+        "poster_path": "/d52U5AqwdZcTCq8QuRfxRP4G3kc.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 13.9541,
+        "first_air_date": "2011-01-17",
+        "vote_average": 7.027,
+        "vote_count": 182,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/hZmWDFV7qVAlhvEqJ23txLD7oHa.jpg",
+        "id": 1739,
+        "name": "According to Jim",
+        "original_name": "According to Jim",
+        "overview": "According to Jim is an American sitcom television series starring Jim Belushi in the title role as a suburban father of three children. It originally ran on ABC from October 1, 2001 to June 2, 2009.",
+        "poster_path": "/iNegoiByXFILSmBccfISNpVmTAK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 43.6054,
+        "first_air_date": "2001-10-03",
+        "vote_average": 6.5,
+        "vote_count": 347,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1WUnBNBX4uaoRjmCszxoyWl6Ybk.jpg",
+        "id": 46157,
+        "name": "Carrie Günlükleri",
+        "original_name": "The Carrie Diaries",
+        "overview": "Before she was a fashion icon, before her column in the New York Star, before Mr. Big, Carrie Bradshaw was an innocent 16-year-old girl living in suburban Connecticut.",
+        "poster_path": "/aDadVyRCh7ym7Gt5eKhcUOcRNTG.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 8.2634,
+        "first_air_date": "2013-01-14",
+        "vote_average": 7.2,
+        "vote_count": 225,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/llmAQSevSiEi1cQrSASfMr3zIMo.jpg",
+        "id": 46880,
+        "name": "The Fosters",
+        "original_name": "The Fosters",
+        "overview": "İki anne ve onların hem evlat edinilmiş hem de öz çocuklarından oluşan ailesinin hikayesini anlatan The Fostersta işler oldukça karışık; bu ailede 2 anne var, hem öz hem üvey çocuklar var hem de aile üyeleri farklı ırklardan! Okul müdireliği yapan Lena (Sherri Saum) ile Polis memuru olan Stef (Teri Polo) bir çifttir. Çift Stefin önceki evliliğinden olan oğlu Brandon (David Lambert) ile birlikte evlat edindikleri ikiz kardeşler Mariana (Cierra Ramirez) ve Jesusa (Jake T. Austin) bakmaktadırlar. Lena, ömrü farklı bakıcı ailelerin evinde geçmiş sorunlu genç Callie (Maia Mitchell) ile karşılaşır ve çift Calliei de ailelerine katmaya karar verirler.",
+        "poster_path": "/iRCmazqaUNNsgZyR6tNDl88pXp3.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 29.8257,
+        "first_air_date": "2013-06-03",
+        "vote_average": 7.567,
+        "vote_count": 312,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

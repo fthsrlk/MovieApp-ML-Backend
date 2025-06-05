@@ -1,0 +1,877 @@
+{
+  "adult": false,
+  "backdrop_path": "/cA88pwGnHa64BBcU3R1oCcJH9Qc.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Aksiyon"
+    },
+    {
+      "id": 27,
+      "name": "Korku"
+    },
+    {
+      "id": 53,
+      "name": "Gerilim"
+    }
+  ],
+  "homepage": "",
+  "id": 970450,
+  "imdb_id": "tt15041836",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Werewolves",
+  "overview": "",
+  "popularity": 167.399,
+  "poster_path": "/cRTctVlwvMdXVsaYbX5qfkittDP.jpg",
+  "production_companies": [
+    {
+      "id": 33768,
+      "logo_path": "/f8TDXTNoj4G4eRCKlUpG3KYQj9I.png",
+      "name": "The Solution",
+      "origin_country": "US"
+    },
+    {
+      "id": 24513,
+      "logo_path": "/tW8mCKX6JgFyPAZjszZ3scCTqZk.png",
+      "name": "Pimienta",
+      "origin_country": "PR"
+    },
+    {
+      "id": 207377,
+      "logo_path": "/sWr5TJKSXYXRFGT8BUq6UUCbygo.png",
+      "name": "Monty the Dog Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PR",
+      "name": "Puerto Rico"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-12-04",
+  "revenue": 1052998,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Werewolves",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 321,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81685,
+        "known_for_department": "Acting",
+        "name": "Frank Grillo",
+        "original_name": "Frank Grillo",
+        "popularity": 29.341,
+        "profile_path": "/br2nPzelch2Tb3pZHnYAbXng7cz.jpg",
+        "cast_id": 3,
+        "character": "Dr. Wesley Marshall",
+        "credit_id": "62703f35245dbe33807a2cbf",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 164930,
+        "known_for_department": "Acting",
+        "name": "Katrina Law",
+        "original_name": "Katrina Law",
+        "popularity": 23.018,
+        "profile_path": "/y7LzCN8BaoPPSXDBo0UwPQ4UwSB.jpg",
+        "cast_id": 4,
+        "character": "Dr. Amy Chen",
+        "credit_id": "62703f455800c4009cd40840",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1181354,
+        "known_for_department": "Acting",
+        "name": "Ilfenesh Hadera",
+        "original_name": "Ilfenesh Hadera",
+        "popularity": 7.42,
+        "profile_path": "/ba6APgDd74vMu7kvBYQwYOpvoEM.jpg",
+        "cast_id": 5,
+        "character": "Lucy Marshall",
+        "credit_id": "63334b14eec4f300801b360c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 262023,
+        "known_for_department": "Acting",
+        "name": "Jimmy Cummings",
+        "original_name": "Jimmy Cummings",
+        "popularity": 3.18,
+        "profile_path": "/fVedSxKuTiF4tJcC2qqkQ8M4jSf.jpg",
+        "cast_id": 22,
+        "character": "Cody",
+        "credit_id": "674de7ec7c1d698b7df804ab",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38560,
+        "known_for_department": "Acting",
+        "name": "Lou Diamond Phillips",
+        "original_name": "Lou Diamond Phillips",
+        "popularity": 24.461,
+        "profile_path": "/yqGZwaGe8XgoxfO7zmx7weGBaXZ.jpg",
+        "cast_id": 8,
+        "character": "Dr. Aranda",
+        "credit_id": "63334b3f229ae2008071dc16",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3859702,
+        "known_for_department": "Acting",
+        "name": "Kamdynn Gary",
+        "original_name": "Kamdynn Gary",
+        "popularity": 1.86,
+        "profile_path": "/4g97ms0dbKALnhgwSwwEXxZGV2k.jpg",
+        "cast_id": 20,
+        "character": "Emma Marshall",
+        "credit_id": "63b7472724b333008535ce64",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1732723,
+        "known_for_department": "Acting",
+        "name": "Lydia Styslinger",
+        "original_name": "Lydia Styslinger",
+        "popularity": 1.667,
+        "profile_path": "/d5R9WgB4wvUmFyoiBgXbVVJuax2.jpg",
+        "cast_id": 21,
+        "character": "Reagan",
+        "credit_id": "674de76a4558dae4493de199",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3718101,
+        "known_for_department": "Acting",
+        "name": "Daniel Fernandez",
+        "original_name": "Daniel Fernandez",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Evan Radcliffe",
+        "credit_id": "63334ce9229ae20083b1a0a8",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105830,
+        "known_for_department": "Acting",
+        "name": "James Kyson",
+        "original_name": "James Kyson",
+        "popularity": 5.884,
+        "profile_path": "/jpV8eFgigwHbhyEL9eZ4czbgMoy.jpg",
+        "cast_id": 7,
+        "character": "Miles Chen",
+        "credit_id": "63334b3469eb90007a6901f6",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1357035,
+        "known_for_department": "Acting",
+        "name": "Betzaida Landín",
+        "original_name": "Betzaida Landín",
+        "popularity": 1.541,
+        "profile_path": "/6ZMhy5QxQAD6U0iRME5psZTO4Rb.jpg",
+        "cast_id": 23,
+        "character": "Dr. Vasquez",
+        "credit_id": "676e3aff0c4402b6319292a2",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1169115,
+        "known_for_department": "Acting",
+        "name": "Sam Daly",
+        "original_name": "Sam Daly",
+        "popularity": 6.191,
+        "profile_path": "/wbMoOwrmO8gxTaPSAp7Cur2Qokm.jpg",
+        "cast_id": 6,
+        "character": "Walter",
+        "credit_id": "63334b2a209f180085d9f94b",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 946696,
+        "known_for_department": "Acting",
+        "name": "Ian Whyte",
+        "original_name": "Ian Whyte",
+        "popularity": 3.238,
+        "profile_path": "/svlJyDgPbTHoGjbQKU4S2J6g5hi.jpg",
+        "cast_id": 24,
+        "character": "Lead Wolf",
+        "credit_id": "676e3b24e2976ba75b92a178",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3158773,
+        "known_for_department": "Acting",
+        "name": "Dane DiLiegro",
+        "original_name": "Dane DiLiegro",
+        "popularity": 2.614,
+        "profile_path": "/dBaJs1QNTpYL3RIdBz8VN01mmDf.jpg",
+        "cast_id": 25,
+        "character": "Lead Wolf",
+        "credit_id": "676e3b36769852f29012a01d",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5143045,
+        "known_for_department": "Acting",
+        "name": "Ian Feuer",
+        "original_name": "Ian Feuer",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Lead Wolf",
+        "credit_id": "676e3b50bf10ff1984615e2a",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30058,
+        "known_for_department": "Directing",
+        "name": "Steven C. Miller",
+        "original_name": "Steven C. Miller",
+        "popularity": 2.689,
+        "profile_path": null,
+        "credit_id": "62703ef5f96a39005021f718",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2311889,
+        "known_for_department": "Writing",
+        "name": "Matthew Kennedy",
+        "original_name": "Matthew Kennedy",
+        "popularity": 1.277,
+        "profile_path": null,
+        "credit_id": "62703f1672d855009c5475ba",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1329481,
+        "known_for_department": "Art",
+        "name": "Tyler Bishop Harron",
+        "original_name": "Tyler Bishop Harron",
+        "popularity": 0.28,
+        "profile_path": null,
+        "credit_id": "63334c38d46537007d4f3e26",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2873759,
+        "known_for_department": "Production",
+        "name": "Amanda Kiely",
+        "original_name": "Amanda Kiely",
+        "popularity": 0.015,
+        "profile_path": "/7keTTIApWiUNR4XSN1g7cwYlB2L.jpg",
+        "credit_id": "63334bfe69eb90007a690224",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1824326,
+        "known_for_department": "Editing",
+        "name": "Greg MacLennan",
+        "original_name": "Greg MacLennan",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "63334c0c7f054000967b2e90",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 262023,
+        "known_for_department": "Acting",
+        "name": "Jimmy Cummings",
+        "original_name": "Jimmy Cummings",
+        "popularity": 3.18,
+        "profile_path": "/fVedSxKuTiF4tJcC2qqkQ8M4jSf.jpg",
+        "credit_id": "63334bf0d46537007ad5fd4b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1439119,
+        "known_for_department": "Production",
+        "name": "Luis R. Estrella-Rivera",
+        "original_name": "Luis R. Estrella-Rivera",
+        "popularity": 0.253,
+        "profile_path": null,
+        "credit_id": "63334c5fa14bef007a6f8593",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1053661,
+        "known_for_department": "Production",
+        "name": "Craig Chapman",
+        "original_name": "Craig Chapman",
+        "popularity": 0.109,
+        "profile_path": null,
+        "credit_id": "63334bc3a14bef007a6f856b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 955396,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Bonnie Stauch",
+        "original_name": "Bonnie Stauch",
+        "popularity": 0.127,
+        "profile_path": null,
+        "credit_id": "63334c4b209f18009d7ebedb",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6876,
+        "known_for_department": "Production",
+        "name": "Michelle Lewitt",
+        "original_name": "Michelle Lewitt",
+        "popularity": 3.021,
+        "profile_path": "/wjsK7kfAqGlJBX96EUsLolNXOho.jpg",
+        "credit_id": "63334c1ceec4f30085def42c",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 177136,
+        "known_for_department": "Acting",
+        "name": "Sevier Crespo",
+        "original_name": "Sevier Crespo",
+        "popularity": 0.018,
+        "profile_path": null,
+        "credit_id": "63334be00e64af0084062b4a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 158825,
+        "known_for_department": "Acting",
+        "name": "Simon Rhee",
+        "original_name": "Simon Rhee",
+        "popularity": 14.206,
+        "profile_path": "/ffic6wucnGrVdq884RguSQCCXeW.jpg",
+        "credit_id": "678c5fbc42f27c754c65078c",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1620122,
+        "known_for_department": "Acting",
+        "name": "Leonardo Castro Sitiriche",
+        "original_name": "Leonardo Castro Sitiriche",
+        "popularity": 1.695,
+        "profile_path": "/9jCxbPPEavfykG2O0ZNIhmkAKLm.jpg",
+        "credit_id": "679ba7e50902b69ec7fbd706",
+        "department": "Crew",
+        "job": "Stunts"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 6582,
+        "name": "moonlight"
+      },
+      {
+        "id": 12564,
+        "name": "werewolf"
+      },
+      {
+        "id": 202371,
+        "name": "aggressive"
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/pqulyfkug9A7TmmRn5zrbRA8TAY.jpg",
+        "id": 1255788,
+        "title": "The Gardener",
+        "original_title": "Le Jardinier",
+        "overview": "Every year the Prime Minister has a list of all kinds of troublemakers eliminated in the name of the famous Reason of State. Serge Shuster, Special Adviser to the President of the Republic, finds himself on this list, better known as the Matignon List.  Condemned to certain death and at the heart of an implacable plot and a state secret that also put his family in danger, Serge, his wife and children have only one hope left - their gardener, Léo, who hates it when « slugs » invade his garden... Especially those that want to kill innocent families.",
+        "poster_path": "/5T9WR7vIOnHm6xhVt5zBuPbBgt1.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          28,
+          35
+        ],
+        "popularity": 211.368,
+        "release_date": "2025-01-30",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 87
+      },
+      {
+        "backdrop_path": "/caM3bT7zdWMtWPCcipqjgvrp60m.jpg",
+        "id": 1201117,
+        "title": "Olympia'yı Fethetmek: Bir Phil Heath Hikâyesi",
+        "original_title": "Breaking Olympia: The Phil Heath Story",
+        "overview": "Olympia’yı Fethetmek: Bir Phil Heath Hikâyesi, belki de tüm zamanların en büyük vücut geliştiricisi olan Phil Heath'in daha önce anlatılmamış hikâyesidir. 18 yıllık fiziksel ve zihinsel fedakârlıkların getirdiği sakatlıklarla boğuşan Heath, vücut geliştirme tarihini değiştirmenin eşiğinde duruyor. Dwayne Johnson, Ronnie Coleman, Jay Cutler, Kai Greene, Brandon Curry, Dexter Jackson ve daha birçok ismin katkılarıyla \"Olympia’yı Fethetmek,\" 7 kez Olympia şampiyonu olan Heath’in olağanüstü yaşam hikâyesini ortaya koyuyor. Heath, mirasını sağlamlaştırmak ve gelmiş geçmiş en büyük Olympia şampiyonu olmak adına tırmanışa geçerken hem en iyi vücut geliştiricilerle hem de medyanın eleştirileriyle mücadele ediyor.",
+        "poster_path": "/b2kBwTjLRhE6jXcXFOc6Jd3NbBE.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 3.153,
+        "release_date": "2024-03-25",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 19
+      },
+      {
+        "backdrop_path": "/dWkdmxIkH9y23s9v1PjQFhTGIwo.jpg",
+        "id": 1043905,
+        "title": "Dirty Angels",
+        "original_title": "Dirty Angels",
+        "overview": "During the United States' 2021 withdrawal from Afghanistan, a group of female soldiers posing as medical relief are sent back in to rescue a group of kidnapped teenagers caught between ISIS and the Taliban.",
+        "poster_path": "/3O3qSGmjRGc10hMwFul8WDxKE5t.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          18,
+          53,
+          10752
+        ],
+        "popularity": 187.695,
+        "release_date": "2024-12-11",
+        "video": false,
+        "vote_average": 6.167,
+        "vote_count": 209
+      },
+      {
+        "backdrop_path": "/47bsGWAEtJNWMcd3oNS7TELmi6v.jpg",
+        "id": 1094274,
+        "title": "Y2K",
+        "original_title": "Y2K",
+        "overview": "Two high school nobodies make the decision to crash the last major celebration before the new millennium on New Year's Eve 1999. The night becomes even crazier than they could have ever dreamed when the clock strikes midnight.",
+        "poster_path": "/qndubIQalyxBJI5EBNZKGXEX74q.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          27,
+          878
+        ],
+        "popularity": 32.059,
+        "release_date": "2024-12-06",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 124
+      },
+      {
+        "backdrop_path": null,
+        "id": 876460,
+        "title": "Ty",
+        "original_title": "Ty",
+        "overview": "Set against an expansive southern Utah landscape in 1998, Ty reveals the very moment a 12 year old boy decides to plunge into manhood by defying the only society he has ever known, experiencing a glimpse of the “real world” for the first time.",
+        "poster_path": "/eGjTReueaNMCAhhDuZO2L2DcKW1.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 1.129,
+        "release_date": "2020-11-20",
+        "video": false,
+        "vote_average": 4.793,
+        "vote_count": 29
+      },
+      {
+        "backdrop_path": "/2zjLxtdr1xInAxH06ZIrE9HVe4s.jpg",
+        "id": 1143508,
+        "title": "You Gotta Believe",
+        "original_title": "You Gotta Believe",
+        "overview": "After dedicating the season to a teammate’s ailing father, a group of underestimated Ft. Worth youth baseball players takes its Cinderella run all the way to the 2002 Little League World Series—culminating in a record-breaking showdown that became an instant ESPN classic.",
+        "poster_path": "/l4X9SeMFCv414BCt97IBgzYX7JC.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          18
+        ],
+        "popularity": 8.245,
+        "release_date": "2024-08-30",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 22
+      },
+      {
+        "backdrop_path": "/qMneo4vk6e42lS8UqYIfG9xf7ol.jpg",
+        "id": 1148486,
+        "title": "Vedaa",
+        "original_title": "वेदा: संविधान के रक्षक",
+        "overview": "A court-marshalled soldier with a traumatic past helps a young girl from 'lower' caste and an aspiring boxer work towards her dreams despite her hostile environment.",
+        "poster_path": "/wK0p210TWMH4P3isT1bI0FVEuZ9.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "hi",
+        "genre_ids": [
+          28,
+          18,
+          53
+        ],
+        "popularity": 5.977,
+        "release_date": "2024-08-15",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 13
+      },
+      {
+        "backdrop_path": "/a1BCHUbMHqf7R2qWtNF6qwlYWzV.jpg",
+        "id": 774389,
+        "title": "Yu",
+        "original_title": "Yu",
+        "overview": "The experiences and adventures of three “thirty-something” buddies who involuntarily find themselves caught up in civil unrest. At first it is simply a jaunt in their boss ‘Porsche’ which their “borrow” without permission to drive to Triest, however, it becomes an adventure.",
+        "poster_path": "/b1IaF1CXUMEC5YCSRQimWDZfHUj.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 1.642,
+        "release_date": "2003-09-12",
+        "video": false,
+        "vote_average": 6.591,
+        "vote_count": 22
+      },
+      {
+        "backdrop_path": "/2QR0OpYzPFG84EswxENqcPuHmP.jpg",
+        "id": 1041317,
+        "title": "Battle for the Western Front",
+        "original_title": "Battle for the Western Front",
+        "overview": "Inspired by Canuck WWI flying ace Billy Bishop, two young soldiers crash the front lines in August 1918. With the Allies detained, their platoon must desperately hold out alongside legendary Anishinaabe sniper Francis \"Peggy\" Pegahmagabow.",
+        "poster_path": "/oICQpXrmszXvw0t95isR559J6IL.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10752
+        ],
+        "popularity": 36.363,
+        "release_date": "2022-10-06",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 24
+      },
+      {
+        "backdrop_path": "/atpQ5GnsgzR08EWdFNYjL9U1ZNW.jpg",
+        "id": 1200801,
+        "title": "F Marry Kill",
+        "original_title": "F Marry Kill",
+        "overview": "When true-crime junkie Eva Vaugh is shoved into the dating app world by her besties on her 30th birthday, she suddenly finds herself at the center of a real-life murder case. As new details about the murders are revealed on her favorite podcast, she realizes that one of the three men she’s dating could be the infamous \"Swipe Right Killer\" terrorizing the city.",
+        "poster_path": "/A1sKUXIuxc5Aor3CbfmFssuVEET.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          53
+        ],
+        "popularity": 24.293,
+        "release_date": "2024-12-06",
+        "video": false,
+        "vote_average": 6.181,
+        "vote_count": 36
+      },
+      {
+        "backdrop_path": "/iEi7zXoVUVXYNeVxBzdt68jegqD.jpg",
+        "id": 990982,
+        "title": "Last the Night",
+        "original_title": "Last the Night",
+        "overview": "During the pandemic, a burned-out teacher on the verge of a breakdown overhears his students making fun of him in a Zoom class and vows revenge.",
+        "poster_path": "/4ansctfgMbWWWUgVVJOFtAZYEJA.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          53,
+          27
+        ],
+        "popularity": 2.156,
+        "release_date": "2022-07-01",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 23
+      },
+      {
+        "backdrop_path": "/tjOYNmVEO98WoK8SGhUq5aw8qTh.jpg",
+        "id": 1389038,
+        "title": "Mickey: Her Gün Yeni Yıl",
+        "original_title": "Mickey and the Very Many Christmases",
+        "overview": "Mickey, her günün Noel olmasını diler - ama dileği gerçekleşince bu kararını sorgular!",
+        "poster_path": "/1mOsGkPiGQIOMujSPb0vKBqrlB5.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          12,
+          35,
+          10751
+        ],
+        "popularity": 47.102,
+        "release_date": "2024-12-01",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 14
+      },
+      {
+        "backdrop_path": "/hjCcGejp6NavrqCIW3Jk4Lx4P5P.jpg",
+        "id": 406104,
+        "title": "Domain",
+        "original_title": "Domain",
+        "overview": "After a deadly virus wipes out most of humanity, the survivors are forced to wait alone in self-sustaining bunkers while the viral threat runs its course. Able to communicate through a networked video interface, the survivors wait for years and slowly become a motley family of sorts. But their fragile social ecosystem is shattered when, one by one, they start mysteriously disappearing from their bunkers.",
+        "poster_path": "/8UDuKKHPu0Kw77qduE2kbHj8zyA.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          878,
+          53
+        ],
+        "popularity": 5.487,
+        "release_date": "2017-03-31",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 54
+      },
+      {
+        "backdrop_path": "/eFlx3fW8FHXOktGa7Tzy57RajtG.jpg",
+        "id": 1357459,
+        "title": "Tatsulok: Tatlo Magkasalo",
+        "original_title": "Tatsulok: Tatlo Magkasalo",
+        "overview": "Story about a happily married couple visited by an old friend, who ends up stirring the pot by becoming sexually involved with both the husband and the wife.",
+        "poster_path": "/zcmPxGIBxxsGVyYuzNWPCWjlQ8X.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "tl",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "popularity": 125.341,
+        "release_date": "2024-10-11",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 8
+      },
+      {
+        "backdrop_path": null,
+        "id": 63164,
+        "title": "Z archiwum Tey czyli retroTEYada część 2",
+        "original_title": "Z archiwum Tey czyli retroTEYada część 2",
+        "overview": "",
+        "poster_path": "/trL67prAQS1L7my0fBn1vYCVgK5.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "pl",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 0.001,
+        "release_date": "",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+      },
+      {
+        "backdrop_path": null,
+        "id": 377037,
+        "title": "Rose Red",
+        "original_title": "Rose Red",
+        "overview": "Simon Pummell's (Bodysong) visually ravishing sci-fi thriller exploring the future of virtual reality and the desire to transcend human limits. The theft of an experimental drug to suppress the immune system reveals a case of virtual reality addiction and forces a detective to confront his nightmares.",
+        "poster_path": "/fASsmHi3lUcCpwbbV1aSGK4NrWJ.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          878
+        ],
+        "popularity": 1.272,
+        "release_date": "1994-01-01",
+        "video": false,
+        "vote_average": 8.7,
+        "vote_count": 3
+      },
+      {
+        "backdrop_path": "/3ylHCfvXC4gyKBcKZXAYRYjhG4X.jpg",
+        "id": 787173,
+        "title": "Were",
+        "original_title": "Were",
+        "overview": "Were is a dark, tense and atmospheric horror short, about three girls camping in the woods who are approached by a sinister stranger. With a killer ending.",
+        "poster_path": "/ycwfsRdokQrXcLGlFwD35nYwzQe.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          27
+        ],
+        "popularity": 0.529,
+        "release_date": "2017-04-27",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 1
+      },
+      {
+        "backdrop_path": "/wKbPjULEb9M0gSvwwtW9clmW6OR.jpg",
+        "id": 90068,
+        "title": "White Phantom",
+        "original_title": "White Phantom",
+        "overview": "A group of camouflaged ninjas stealing a small case of plutonium from a transport vehicle in broad daylight in California. Back in his office in Sanzhi, Taiwan, The Colonel (Bo Svenson) receives word of the heist and the top suspect is the Sakura family. Selected for the job of locating this stolen nuke material is Mai Lin (Page Leong), an informant/dancer. Willi (Jay Roberts, Jr.), a drunken American playboy who is prone to playing the harmonica teams up with Mai Lin. Willi also just happens to be a white ninja.",
+        "poster_path": "/wwQHzhi1CXSUXgi5ZiyI4Shznhn.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28
+        ],
+        "popularity": 1.414,
+        "release_date": "1987-09-01",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 9
+      },
+      {
+        "backdrop_path": "/yppyDD843g5dqV0r47z9eAcpMXC.jpg",
+        "id": 102961,
+        "title": "Seven",
+        "original_title": "Seven",
+        "overview": "A government agent discovers a plot by a cartel of seven gangsters to take over the state of Hawaii. He hires a team of seven hitmen to stop them.",
+        "poster_path": "/aSAW0kRXwRuaGZ7lj9L2Eh4NEac.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          18
+        ],
+        "popularity": 4.834,
+        "release_date": "1979-09-07",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 40
+      },
+      {
+        "backdrop_path": "/tuqTkJ3zv0GGjjYWRzlvIV2NyEn.jpg",
+        "id": 1265800,
+        "title": "House of Sayuri",
+        "original_title": "サユリ",
+        "overview": "A family moves into a house, but discover that it is haunted by a murdered girl.",
+        "poster_path": "/b3ZlT121rjvwtUfmyF83hZ5n6te.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          27
+        ],
+        "popularity": 9.053,
+        "release_date": "2024-08-23",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 6
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

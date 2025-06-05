@@ -1,0 +1,934 @@
+{
+  "adult": false,
+  "backdrop_path": "/wIe1HL7oMNwyltsqqx2sCPwNl4w.jpg",
+  "created_by": [
+    {
+      "id": 113733,
+      "credit_id": "5257302e760ee3776a33b78e",
+      "name": "Britt Allcroft",
+      "original_name": "Britt Allcroft",
+      "gender": 1,
+      "profile_path": "/gARj3NCDH2NYygAFkrgfNWSXL1R.jpg"
+    },
+    {
+      "id": 1230803,
+      "credit_id": "5257302f760ee3776a33b796",
+      "name": "Reverend W. Awdry",
+      "original_name": "Reverend W. Awdry",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1230804,
+      "credit_id": "52573031760ee3776a33b79e",
+      "name": "Christopher Awdry",
+      "original_name": "Christopher Awdry",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "1984-10-09",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animasyon"
+    },
+    {
+      "id": 10762,
+      "name": "Çocuklar"
+    }
+  ],
+  "homepage": "http://www.thomasandfriends.com/",
+  "id": 2304,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2021-01-20",
+  "last_episode_to_air": {
+    "id": 2556423,
+    "name": "20. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2021-01-20",
+    "episode_number": 20,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 11,
+    "season_number": 24,
+    "show_id": 2304,
+    "still_path": "/rMYxWqv3GpDJHAu88bVA9cC1w6F.jpg"
+  },
+  "name": "Thomas & Friends",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 9,
+      "logo_path": "/oz9pjTHnBUmlju8OkaTymhKbh6C.png",
+      "name": "ITV1",
+      "origin_country": "GB"
+    },
+    {
+      "id": 99,
+      "logo_path": "/tAOMutfVve2or2LTYQfIa42sc33.png",
+      "name": "5",
+      "origin_country": "GB"
+    },
+    {
+      "id": 112,
+      "logo_path": "/rwuEsuBDb200skfrDTvBiJihMLd.png",
+      "name": "CITV",
+      "origin_country": "GB"
+    },
+    {
+      "id": 217,
+      "logo_path": "/nDFWFbAHEZ8Towq7fsVCgv4U245.png",
+      "name": "Cartoon Network",
+      "origin_country": "GB"
+    },
+    {
+      "id": 2315,
+      "logo_path": "/zmXCDvQt7AUf5ci1ldjFfccsmJc.png",
+      "name": "Nick Jr.",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 666,
+  "number_of_seasons": 26,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Thomas & Friends",
+  "overview": "",
+  "popularity": 74.8759,
+  "poster_path": "/ovJvWQ8E8aYShcRlTwpqKhuq7FA.jpg",
+  "production_companies": [
+    {
+      "id": 46875,
+      "logo_path": null,
+      "name": "Nitrogen Studios Canada",
+      "origin_country": "CA"
+    },
+    {
+      "id": 37618,
+      "logo_path": "/7vErRCjB9AKEGi7XrgHaQW0kRoo.png",
+      "name": "Britt Allcroft Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2008-09-01",
+      "episode_count": 98,
+      "id": 7209,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/7Gwe4ElMIhwS1Oq1xSp6x5y4KXp.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1984-10-09",
+      "episode_count": 26,
+      "id": 7196,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/dL3NAa6ZHpTv9SmRUrLEEXYEnoZ.jpg",
+      "season_number": 1,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "1986-09-24",
+      "episode_count": 26,
+      "id": 7197,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/mmpsRcDK3DrSEAH0AUSS7kN8JkQ.jpg",
+      "season_number": 2,
+      "vote_average": 8.4
+    },
+    {
+      "air_date": "1992-01-25",
+      "episode_count": 26,
+      "id": 7198,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/vsz5jDihqLdiZMwjWVIid2NxY3H.jpg",
+      "season_number": 3,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "1995-10-16",
+      "episode_count": 26,
+      "id": 7199,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/qdNJ98mtVR7roDh8mPNsSSohO1c.jpg",
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1998-09-14",
+      "episode_count": 26,
+      "id": 7200,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/2UIdLACQ9Md081FgfPjUuvjdGcY.jpg",
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2002-09-16",
+      "episode_count": 26,
+      "id": 7201,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/vOB6gBaqwz4Yn6rvU1US7p2h6o2.jpg",
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2003-10-06",
+      "episode_count": 26,
+      "id": 7202,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/uIodclTFAjiwJaFYcQvRl0dJ1mt.jpg",
+      "season_number": 7,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2004-08-01",
+      "episode_count": 26,
+      "id": 7203,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/iYpRLNRGDYp2iFmPJqeZM3DBNs7.jpg",
+      "season_number": 8,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2005-09-05",
+      "episode_count": 26,
+      "id": 7204,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/kGrmnGCtrbOmLZYfIaPRPoXXOCF.jpg",
+      "season_number": 9,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2006-10-02",
+      "episode_count": 28,
+      "id": 7205,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/k8AXBW7VLEhJND7KKlq0AxlTwDX.jpg",
+      "season_number": 10,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2007-09-03",
+      "episode_count": 26,
+      "id": 7206,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/7BM6KhPmgdwOsADZsZ57gBXTzdh.jpg",
+      "season_number": 11,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2008-09-01",
+      "episode_count": 20,
+      "id": 7207,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/ijcm4segDjHh3a1dNnltBAtzVbv.jpg",
+      "season_number": 12,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2010-01-25",
+      "episode_count": 20,
+      "id": 7208,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": "/lIRRPXa8RurCByVNh0vNfaVriw4.jpg",
+      "season_number": 13,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2010-10-11",
+      "episode_count": 20,
+      "id": 7211,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": "/hmymbZvjFrga6eUwst5aRV18TFi.jpg",
+      "season_number": 14,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-03-01",
+      "episode_count": 20,
+      "id": 7210,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": "/x7ombYdbdpdT00vVnVc17HgDtSi.jpg",
+      "season_number": 15,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2012-02-20",
+      "episode_count": 20,
+      "id": 7212,
+      "name": "Sezon 16",
+      "overview": "",
+      "poster_path": "/cMRVMLYFDdAIOhHXnOn6pTbolzw.jpg",
+      "season_number": 16,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2013-06-03",
+      "episode_count": 26,
+      "id": 7213,
+      "name": "Sezon 17",
+      "overview": "",
+      "poster_path": "/8WgIRYUNjmrQyHUIbXFCddqq5gK.jpg",
+      "season_number": 17,
+      "vote_average": 4.5
+    },
+    {
+      "air_date": "2014-08-25",
+      "episode_count": 26,
+      "id": 81340,
+      "name": "Sezon 18",
+      "overview": "",
+      "poster_path": "/qhIQ2PnxA8fcs6GsHorStypPjnm.jpg",
+      "season_number": 18,
+      "vote_average": 8.7
+    },
+    {
+      "air_date": "2015-09-21",
+      "episode_count": 26,
+      "id": 81355,
+      "name": "Sezon 19",
+      "overview": "",
+      "poster_path": "/z4puLFvYB0xbZj4fUqGlMFSE4s5.jpg",
+      "season_number": 19,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2016-09-05",
+      "episode_count": 28,
+      "id": 81364,
+      "name": "Sezon 20",
+      "overview": "",
+      "poster_path": "/qPRNJUg8J8YOPiCgLkqNtAzlasB.jpg",
+      "season_number": 20,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2017-09-18",
+      "episode_count": 18,
+      "id": 145866,
+      "name": "Sezon 21",
+      "overview": "",
+      "poster_path": "/qHQpEZoXniiFkAXbWIPLfvWsJ09.jpg",
+      "season_number": 21,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2018-09-03",
+      "episode_count": 26,
+      "id": 145868,
+      "name": "Sezon 22",
+      "overview": "",
+      "poster_path": "/5oR1XLxsqmc075ZqdromIKvFXg9.jpg",
+      "season_number": 22,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2019-09-02",
+      "episode_count": 23,
+      "id": 160526,
+      "name": "Sezon 23",
+      "overview": "",
+      "poster_path": "/l3e2UBQGUIxgK9FlRY4Y7QAc5va.jpg",
+      "season_number": 23,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2020-09-07",
+      "episode_count": 23,
+      "id": 160529,
+      "name": "Sezon 24",
+      "overview": "",
+      "poster_path": "/n8nFHqFoR5hsBYrQinWh1rpzbnS.jpg",
+      "season_number": 24,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 56,
+      "id": 421198,
+      "name": "Sezon 25",
+      "overview": "",
+      "poster_path": "/bmnMTlgl6mlDs92nSctDfDQSmaQ.jpg",
+      "season_number": 25,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 26,
+      "id": 421199,
+      "name": "Sezon 26",
+      "overview": "",
+      "poster_path": "/bukSHyPuKDgJJJrFaGAq1P33dqP.jpg",
+      "season_number": 26,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.7,
+  "vote_count": 123,
+  "credits": {
+    "cast": [],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "locomotive",
+        "id": 1544
+      },
+      {
+        "name": "island",
+        "id": 2041
+      },
+      {
+        "name": "narration",
+        "id": 2398
+      },
+      {
+        "name": "anthropomorphism",
+        "id": 11477
+      },
+      {
+        "name": "train",
+        "id": 13008
+      },
+      {
+        "name": "steam locomotive",
+        "id": 163671
+      },
+      {
+        "name": "coal",
+        "id": 164738
+      },
+      {
+        "name": "diesel",
+        "id": 222945
+      },
+      {
+        "name": "joyful",
+        "id": 325832
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/2zdd8K73kRGXYIe1BT1ne6eIh4N.jpg",
+        "id": 345,
+        "name": "My Little Pony",
+        "original_name": "My Little Pony",
+        "overview": "Ponyland is the home of all your favorite classic Little Ponies. Together, they live a life of games, songs and harmony with allies like the Bushwoolies and Furbobs. But, occasionally, there are problems in Ponyland and the Little Ponies of Paradise Estate must face evil witches, goblins, Stone Backs, Grundles and more!",
+        "poster_path": "/tkVztC8YKR8JSIHgwRWD5boViBJ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762,
+          10751
+        ],
+        "popularity": 23.2192,
+        "first_air_date": "1986-09-15",
+        "vote_average": 6.2,
+        "vote_count": 15,
+        "origin_country": [
+          "US",
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/b8sCHXGXu7DI22YP1vSuUo6TzXN.jpg",
+        "id": 40058,
+        "name": "Dynamo: Magician Impossible",
+        "original_name": "Dynamo: Magician Impossible",
+        "overview": "Tipped as the most exciting British magician to emerge in decades, Dynamo: Magician Impossible is the story of an ordinary boy from Bradford living an extraordinary life. The series sees the 28-year-old travelling the globe as the unassuming anti-hero who just happens to astound everyone he meets, whether it's an international footballer or Hollywood actor. Throughout the series, Dynamo: Magician Impossible will take viewers on his magical journey before stunning them with incredible, headline-grabbing stunts beyond the realms of possibility.",
+        "poster_path": "/sxPuMmSvC97Wq6TuvciKYJHeui9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 4.9407,
+        "first_air_date": "2011-07-07",
+        "vote_average": 6.778,
+        "vote_count": 27,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/qYitUEDAV8et1Y60XIYgel5rP3M.jpg",
+        "id": 695,
+        "name": "Round the Twist",
+        "original_name": "Round the Twist",
+        "overview": "Round the Twist is a Logie Award-winning Australian children's television series about three children and their father who live in a lighthouse and become involved in many bizarre magical adventures.",
+        "poster_path": "/nxOScaEU2exYLBkqG8LiYL69z5l.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10762,
+          10765,
+          99
+        ],
+        "popularity": 14.9991,
+        "first_air_date": "1990-04-06",
+        "vote_average": 7.1,
+        "vote_count": 24,
+        "origin_country": [
+          "AU",
+          "DE",
+          "FR"
+        ]
+      },
+      {
+        "backdrop_path": "/oJQrNY3JkRBxVgoegOExnCibH9d.jpg",
+        "id": 81443,
+        "name": "Bay Dardi",
+        "original_name": "Bay Dardi",
+        "overview": "The story of Shafay, a HIV-positive man who doesn't know how he contracted the virus.",
+        "poster_path": "/3qBQL7a5yFWCGhi1570BXExcQDw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ur",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 4.0749,
+        "first_air_date": "2018-03-26",
+        "vote_average": 10.0,
+        "vote_count": 3,
+        "origin_country": [
+          "PK"
+        ]
+      },
+      {
+        "backdrop_path": "/p9kX7P5aVwREB55HbWcpA4YXPp8.jpg",
+        "id": 242531,
+        "name": "Thomas the Tank Engine and Friends",
+        "original_name": "Thomas the Tank Engine and Friends",
+        "overview": "Children's entertainment",
+        "poster_path": "/hh9m27NHRWjWV4YFgFwQAmGkdyN.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10762,
+          10759,
+          16
+        ],
+        "popularity": 2.0807,
+        "first_air_date": "2022-02-27",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/dEPV4QKCdo8pqLN4g4h8pn6Jga7.jpg",
+        "id": 5200,
+        "name": "İtfaiyeci Sam",
+        "original_name": "Sam Tân",
+        "overview": "Anaokulu çağındaki çocuklara yangın güvenliğine dair değerli dersler veren Pontypandyli İtfaiyeci Sam ve çizgi kahramanlardan oluşan ekibi her türlü acil duruma hazır.",
+        "poster_path": "/sXsqaIOjemMuHxGu3XukIyVM7jN.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "cy",
+        "genre_ids": [
+          10762,
+          16,
+          35,
+          10751
+        ],
+        "popularity": 48.9311,
+        "first_air_date": "1987-11-17",
+        "vote_average": 6.2,
+        "vote_count": 35,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/ini5OKs2Y5pwfyarKgkDBgB3sW9.jpg",
+        "id": 1588,
+        "name": "Postman Pat",
+        "original_name": "Postman Pat",
+        "overview": "Pat and his black-and-white cat Jess deliver the mail in Greendale.",
+        "poster_path": "/zMlG1lGI2hZjGYU7pFTgEiJgTAn.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10762,
+          16
+        ],
+        "popularity": 6.0852,
+        "first_air_date": "1981-09-16",
+        "vote_average": 6.598,
+        "vote_count": 46,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/sBOkXcbG6dIRlUp1UspwsdzGZsi.jpg",
+        "id": 88069,
+        "name": "Total DramaRama",
+        "original_name": "Total DramaRama",
+        "overview": "Some of the original \"Total Drama\" characters enter into an alternate universe where they are aged down from teenagers to toddlers.",
+        "poster_path": "/A9KAegh5542L8JktkwsZZrdekhe.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762,
+          10751,
+          35
+        ],
+        "popularity": 21.8672,
+        "first_air_date": "2018-09-01",
+        "vote_average": 4.84,
+        "vote_count": 25,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/lupHqKwfIY4J1D5RuePwmimypvO.jpg",
+        "id": 1542,
+        "name": "Frisky Dingo",
+        "original_name": "Frisky Dingo",
+        "overview": "Frisky Dingo is an American animated cartoon series created by Adam Reed and Matt Thompson for Adult Swim. The series revolved around the conflict between a supervillain named Killface and a superhero named Awesome X, alias billionaire Xander Crews, and much of the show's humor focuses on parodying superhero and action movie clichés. It debuted on October 16, 2006 and ended its first season on January 22, 2007; the second season premiered on August 26, 2007 and ended on March 23, 2008. A third season was in development, but in the absence of a renewal contract from Adult Swim, pre-production ceased. The production company itself, 70/30 Productions, subsequently went out of business in January 2009.\n\nA spin-off show, The Xtacles, premiered on November 9, 2008, but only two episodes were aired prior to the production company's closure.",
+        "poster_path": "/57wmHjOuBpTvsJhgpdrg6xn2veV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 2.4807,
+        "first_air_date": "2006-10-16",
+        "vote_average": 7.4,
+        "vote_count": 59,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/jLIEjHrxzFmCMwqW4qjafgDHCm6.jpg",
+        "id": 84655,
+        "name": "Rilakkuma and Kaoru",
+        "original_name": "リラックマとカオルさん",
+        "overview": "Kaoru's unexpected new roommate is Rilakkuma, a bear with a zipper on its back that spends each day just lazing around -- but is impossible to hate.",
+        "poster_path": "/lzohWj8xtowSXJVN9PsJjZAf1B2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          35,
+          18,
+          10762
+        ],
+        "popularity": 2.2267,
+        "first_air_date": "2019-04-19",
+        "vote_average": 7.3,
+        "vote_count": 53,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/uyN1hL0T7bda47EpAtvCsCZfYX2.jpg",
+        "id": 81224,
+        "name": "Sefiller",
+        "original_name": "Les Misérables",
+        "overview": "Jean Valjean'ın ölümsüz hikayesini ekrana taşımaya hazırlanan dizi, Fransız Devrimi'nin arifesinde geçecek ve ihtilalin her iki tarafını da gözler önüne serecek. Altı bölümden oluşan ve başrollerde Lily Collins, Olivia Colman, David Oyelowo ve Dominic West'i buluşturan Les Misèrables, daha önce War & Peace'i ekrana taşıyan Andrew Davies tarafından hayata geçiriliyor. Eserin ikonik karakterleri Fantine, Madame Thénardier, Javert, Jean Valjean, Marius, Cosette ve Monsieur Thénardier'e sırasıyla Lily Collins, Olivia Colman, David Oyelowo, Dominic West, Josh O’Connor, Ellie Bamber ve Adeel Akhtar hayat verecek. Victor Hugo’nun klasikleşmiş eserinden uyarlanan mini dizidir.",
+        "poster_path": "/vD5gUfFYEuYXwfOVJQjLIQTGs0s.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 5.5729,
+        "first_air_date": "2018-12-30",
+        "vote_average": 7.343,
+        "vote_count": 118,
+        "origin_country": [
+          "FR",
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/uir3NfY3J7WBhzVA8kkVGtz9sUB.jpg",
+        "id": 4709,
+        "name": "İnsan Doğaya Karşı",
+        "original_name": "Man vs. Wild",
+        "overview": "Bear Grylls, İngiliz Ordusu'nun özel bir biriminde görev yaptı, Everest Dağı'na tırmandı ve Kuzey Kutbu'nu geçmiş bir maceraperesttir. Şimdi yeni zorluklar üstleniyor. Sadece en temel ekipmanlarla donatılmış olarak, dünyanın en uç bölgelerine paraşütle bırakılıyor. Potansiyel olarak ölümcül durumları nasıl atlatılacağını ve bu ıssız bölgelerden nasıl çıkılacağını gösteriyor. Bunu yaparken, her ortamda hayatta kalmayı mümkün kılan çeşitli teknikleri gösteriyor. Her bölümde Bear Grylls’i yeni bir macera ve yeni bir meydan okuma bekliyor. Her seferinde en temel hayatta kalma mücadelesi veriyor. Kendi yeteneklerini test ediyor ve bize medeniyete nasıl geri dönüleceğini gösteriyor.",
+        "poster_path": "/9M4xXcz9m1aUlRsASv7vsx776do.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          99
+        ],
+        "popularity": 23.0287,
+        "first_air_date": "2006-10-27",
+        "vote_average": 6.9,
+        "vote_count": 169,
+        "origin_country": [
+          "US",
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/bJeNNHYbA41kjNtADSscz08r2Ld.jpg",
+        "id": 21500,
+        "name": "Hot Wheels Battle Force 5",
+        "original_name": "Hot Wheels Battle Force 5",
+        "overview": "Hot Wheels Battle Force 5 is an American/Canadian 3D CGI television series created by Mattel, Nelvana, and Nerd Corps Entertainment. A two-episode preview aired on the Cartoon Network in the United States on August 24, 2009. In Cartoon Network India it is starting from April 30, 2010 and in Cartoon Network Philippines on July 3, 2010. The series made its official debut on August 29. According to a HotWheels.com page as of July 14, 2010 describing \"BATTLE FORCE 5 Battle Action Assortment\" toys, Vehicles combine forces to create even more powerful combat machines. The second season began airing September 18, 2010.\n\nThe first trailer for the series was released on the official Hot Wheels Battle Force 5 website on June 25, 2009. The first two episodes aired on Monday, August 24.\n\nThis is the fourth production by Nerd Corps Entertainment, following Storm Hawks, League of Super Evil, and Dragon Booster.",
+        "poster_path": "/eVAPZukaKJfkIfnsBxoAbOm6Zsc.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16
+        ],
+        "popularity": 10.1621,
+        "first_air_date": "2009-08-29",
+        "vote_average": 8.471,
+        "vote_count": 69,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9abMIArcm95q0CtTOTZnLdUIoSm.jpg",
+        "id": 1054,
+        "name": "Yalan Rüzgarı",
+        "original_name": "The Young and the Restless",
+        "overview": "1973 yılında yayınlanmaya başlayan ve o zamandan beri hala yayında olan dizi, CBS kanalında hala izleyicileri ekran başına toplamaktadır. Lee Phillip Bell ve William J. Bell'in yarattığı dizi, gelmiş geçmiş en popüler pembe dizilerden biridir.",
+        "poster_path": "/5h58tbqpUhpdiQR1i4FawKWOidh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 47.7543,
+        "first_air_date": "1973-03-26",
+        "vote_average": 6.934,
+        "vote_count": 152,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vSscKZocnih10gBlT4KLnWA8iyO.jpg",
+        "id": 656,
+        "name": "Curious George",
+        "original_name": "Curious George",
+        "overview": "With the help of his friend “The Man in the Yellow Hat,” a curious little monkey named George sets out on adventures to learn about the world around him.",
+        "poster_path": "/AWQF9ZP7X5GqGUoXnyj1NSQjKo.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10751,
+          10762
+        ],
+        "popularity": 38.8057,
+        "first_air_date": "2006-09-04",
+        "vote_average": 7.119,
+        "vote_count": 113,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qi925RRpANnzvZ00pybnHgXUA0a.jpg",
+        "id": 634,
+        "name": "Who's the Boss?",
+        "original_name": "Who's the Boss?",
+        "overview": "A former professional baseball player, along with his preteen daughter, moves into New York advertising executive Angela Bower's house to be both a housekeeper and a father figure to her young son. Tony 's laid-back personality contrasts with Angela's type-A behavior.",
+        "poster_path": "/uZjNwfCNi6lX3jmYAxHB1DUuqcB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 62.5398,
+        "first_air_date": "1984-09-20",
+        "vote_average": 7.4,
+        "vote_count": 275,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/eGPH1IwktalozwCmeLTp3aPbHGC.jpg",
+        "id": 4656,
+        "name": "WWE Raw",
+        "original_name": "Raw",
+        "overview": "WWE Raw, Pazartesi geceleri, WWE'nin hazırladığı, ABD'de USA Network kanalında yayınlanan profesyonel güreş programıdır.",
+        "poster_path": "/pv5WNnLUo7mpT8k901Lo8UovrqI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 173.0548,
+        "first_air_date": "1993-01-11",
+        "vote_average": 6.8,
+        "vote_count": 329,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uEPbIAmsZENHL5B50WNYSyItFjf.jpg",
+        "id": 79,
+        "name": "Dora the Explorer",
+        "original_name": "Dora the Explorer",
+        "overview": "A young girl named Dora goes on adventures with her red boot-wearing monkey named Boots.",
+        "poster_path": "/wuZAi6JPdlX68s1p7iztmt0p13C.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          10751,
+          10762
+        ],
+        "popularity": 53.8422,
+        "first_air_date": "2000-08-14",
+        "vote_average": 6.224,
+        "vote_count": 312,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/fVO7r9tAnauny8DAqbetlQ1tVtu.jpg",
+        "id": 2777,
+        "name": "Oggy ve Hamam Böcekleri",
+        "original_name": "Oggy et les Cafards",
+        "overview": "Oggy, an anthropomorphic cat, would prefer to spend his days watching television and eating, but is continuously pestered by three roaches: Joey, Marky and Dee Dee. The cockroaches' slapstick mischief ranges from plundering Oggy's refrigerator to hijacking the train he just boarded. In many situations Oggy is also helped by Jack, who is more violent and short-tempered than him and is also annoyed by the cockroaches. Bob, a short-tempered bulldog, also appears in the show, and is Oggy's neighbor.",
+        "poster_path": "/aFAN9aKm0OblOr30ROejJCV8rGf.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          16,
+          35,
+          10762,
+          10751
+        ],
+        "popularity": 100.3097,
+        "first_air_date": "1999-09-06",
+        "vote_average": 7.4,
+        "vote_count": 342,
+        "origin_country": [
+          "FR"
+        ]
+      },
+      {
+        "backdrop_path": "/exXuOvRwzkbtZmojV65CJpwc2BU.jpg",
+        "id": 720,
+        "name": "Ördek  Hikayeleri  Masalları",
+        "original_name": "DuckTales",
+        "overview": "Scrooge McDuck, yeğenleri Huey, Dewey ve Louie Duckburg'a taşındığında evde ellerini dolu bulur. Sadık dostları Launchpad McQuack, Gyro Gearloose ve Mrs. DuckTales çetesi Beakley, zengin bir macera sunmakta asla başarısız olmaz. DuckTales ile bir servet dolusu eğlenceye hazır olun! 1990 Li Yiların Eski Klasik Cizgi Filmi Ördeklerin Heyacan Dolu Servenleri ve Maceralarini Anlatan Süper Cizgi Filmdir Örneklerin Yasadığı Maceralarini Anlatiyor 90larda TRT 1 t tarafimca Turkce seslendirmeli yayinlanmisti ve tekrar butun bolumlerle verilmesi harika olur Cocukluk Anilarimiz yeniden canlanir ve Lutfen HD Kaliteli Olsun",
+        "poster_path": "/muplnM90daPCQ5Bn1olcwN1EO22.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          9648,
+          10765,
+          35,
+          10762
+        ],
+        "popularity": 19.7879,
+        "first_air_date": "1987-09-18",
+        "vote_average": 7.627,
+        "vote_count": 668,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

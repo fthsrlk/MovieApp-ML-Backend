@@ -1,0 +1,1068 @@
+{
+  "adult": false,
+  "backdrop_path": "/o6ixncGLOtRPz78vEIy9p1cOn9J.jpg",
+  "created_by": [
+    {
+      "id": 13520,
+      "credit_id": "52538f0819c295794027a477",
+      "name": "Aaron Sorkin",
+      "original_name": "Aaron Sorkin",
+      "gender": 2,
+      "profile_path": "/hGkusztbd1rb23QFAjvpJxKSTAU.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "1999-09-22",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Dram"
+    }
+  ],
+  "homepage": "http://www.nbc.com/The_West_Wing/",
+  "id": 688,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2006-05-14",
+  "last_episode_to_air": {
+    "id": 38282,
+    "name": "22. Bölüm",
+    "overview": "",
+    "vote_average": 9.0,
+    "vote_count": 1,
+    "air_date": "2006-05-14",
+    "episode_number": 22,
+    "episode_type": "finale",
+    "production_code": "2T6222",
+    "runtime": 40,
+    "season_number": 7,
+    "show_id": 688,
+    "still_path": "/boLHN5fD3IGkcVUIMOVLajh7E7U.jpg"
+  },
+  "name": "The West Wing",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 154,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The West Wing",
+  "overview": "",
+  "popularity": 87.9785,
+  "poster_path": "/yqDWr5NAE7m1IWrygYwLyEB6pN0.jpg",
+  "production_companies": [
+    {
+      "id": 1512,
+      "logo_path": null,
+      "name": "John Wells Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 1957,
+      "logo_path": "/qIxtba5CbnJfHCA88czLfTNKW9M.png",
+      "name": "Warner Bros. Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2001-10-03",
+      "episode_count": 3,
+      "id": 2042,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/8bD6ZPgITgssh5pEdMqVHMnJ6HV.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1999-09-22",
+      "episode_count": 22,
+      "id": 2043,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/1x9skgRqTlF5W9N7mv3CmXmPaek.jpg",
+      "season_number": 1,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2000-10-04",
+      "episode_count": 22,
+      "id": 2044,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/4jETY8ceX2GEiKldJRYJqL7DXAI.jpg",
+      "season_number": 2,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2001-10-10",
+      "episode_count": 21,
+      "id": 2045,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/lhynUXDGb3zDF1dGGGMRAYjwwxc.jpg",
+      "season_number": 3,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2002-09-25",
+      "episode_count": 23,
+      "id": 2046,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/krRNC2BHdELpWiNN8xtQYEGJVVp.jpg",
+      "season_number": 4,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2003-09-24",
+      "episode_count": 22,
+      "id": 2047,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/lyGscIBjWIkePdnt2wFkiXrjvvu.jpg",
+      "season_number": 5,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2004-10-20",
+      "episode_count": 22,
+      "id": 2048,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/8oj3PRAJMvXyxYjGtczWchK3GRf.jpg",
+      "season_number": 6,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2005-09-25",
+      "episode_count": 22,
+      "id": 2049,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/7fraZMgrUqdTnTlmzErd9w49Hnv.jpg",
+      "season_number": 7,
+      "vote_average": 7.8
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.255,
+  "vote_count": 511,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8349,
+        "known_for_department": "Acting",
+        "name": "Martin Sheen",
+        "original_name": "Martin Sheen",
+        "popularity": 3.4911,
+        "profile_path": "/m2Y3Q0uyuW6htrn2W9UWCWMkpZu.jpg",
+        "character": "President Josiah Bartlet",
+        "credit_id": "52e4839719c2952abb2b3769",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19,
+        "known_for_department": "Acting",
+        "name": "Allison Janney",
+        "original_name": "Allison Janney",
+        "popularity": 3.8996,
+        "profile_path": "/hpBKWV1jjoXQbr1s0iUZTSvw582.jpg",
+        "character": "C.J. Cregg",
+        "credit_id": "52e482dc19c2951cc7149bc3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34691,
+        "known_for_department": "Acting",
+        "name": "John Spencer",
+        "original_name": "John Spencer",
+        "popularity": 1.9722,
+        "profile_path": "/8AZRfw1vqdsw7tOIK03LSQlphW.jpg",
+        "character": "Leo McGarry",
+        "credit_id": "52e4830019c2952abb2b1d41",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11367,
+        "known_for_department": "Acting",
+        "name": "Bradley Whitford",
+        "original_name": "Bradley Whitford",
+        "popularity": 2.8645,
+        "profile_path": "/oeDv2qZWTxELLaNtOIoeG72leNY.jpg",
+        "character": "Josh Lyman",
+        "credit_id": "52e4830e19c2951cad13b0b8",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131642,
+        "known_for_department": "Acting",
+        "name": "Joshua Malina",
+        "original_name": "Joshua Malina",
+        "popularity": 2.2774,
+        "profile_path": "/xcIzAGoCL5TxBXI6cqWFb8KFl8d.jpg",
+        "character": "Will Bailey",
+        "credit_id": "52e4844919c2951cc714d44c",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21278,
+        "known_for_department": "Acting",
+        "name": "Alan Alda",
+        "original_name": "Alan Alda",
+        "popularity": 3.2431,
+        "profile_path": "/6ccCKFhXiMmjLoiFDyJaU4eJaQO.jpg",
+        "character": "Arnold Vinick",
+        "credit_id": "52e484cc19c295023b11d4bf",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33181,
+        "known_for_department": "Acting",
+        "name": "Jimmy Smits",
+        "original_name": "Jimmy Smits",
+        "popularity": 2.6951,
+        "profile_path": "/xaqFevZoQdtfMUQf4qHB2ATPO7S.jpg",
+        "character": "Matthew Santos",
+        "credit_id": "52e484e519c2951cc714e907",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 52775,
+        "known_for_department": "Acting",
+        "name": "Kristin Chenoweth",
+        "original_name": "Kristin Chenoweth",
+        "popularity": 3.3275,
+        "profile_path": "/q3ENDu5n23FARhyij4FVRaTkSg4.jpg",
+        "character": "Annabeth Schott",
+        "credit_id": "52e4854d19c295511409a2ae",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1980,
+        "known_for_department": "Acting",
+        "name": "Mary McCormack",
+        "original_name": "Mary McCormack",
+        "popularity": 2.0958,
+        "profile_path": "/kVVttyq0cuTvDE4l5wEBqgjCBnf.jpg",
+        "character": "Kate Harper",
+        "credit_id": "52e484d719c29515d70c2d19",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 47333,
+        "known_for_department": "Production",
+        "name": "John Wells",
+        "original_name": "John Wells",
+        "popularity": 1.8068,
+        "profile_path": "/j1cEQmFdSkew87UjO354qeppo1G.jpg",
+        "credit_id": "52538f0819c295794027a661",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110487,
+        "known_for_department": "Acting",
+        "name": "Patrick Ward",
+        "original_name": "Patrick Ward",
+        "popularity": 0.7288,
+        "profile_path": "/tKt4V1fbYiWeyrB1CCEvu4uKdbN.jpg",
+        "credit_id": "52538f0819c295794027a5eb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1219548,
+        "known_for_department": "Production",
+        "name": "Kristin Harms",
+        "original_name": "Kristin Harms",
+        "popularity": 0.0683,
+        "profile_path": null,
+        "credit_id": "52538f0a19c295794027a789",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219531,
+        "known_for_department": "Production",
+        "name": "Llewellyn Wells",
+        "original_name": "Llewellyn Wells",
+        "popularity": 0.69,
+        "profile_path": null,
+        "credit_id": "52538f0c19c295794027a841",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219551,
+        "known_for_department": "Production",
+        "name": "Neal Ahern Jr.",
+        "original_name": "Neal Ahern Jr.",
+        "popularity": 0.1463,
+        "profile_path": null,
+        "credit_id": "52538f0e19c295794027a931",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13520,
+        "known_for_department": "Writing",
+        "name": "Aaron Sorkin",
+        "original_name": "Aaron Sorkin",
+        "popularity": 2.6095,
+        "profile_path": "/hGkusztbd1rb23QFAjvpJxKSTAU.jpg",
+        "credit_id": "52538f0819c295794027a4c5",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1219520,
+        "known_for_department": "Writing",
+        "name": "Debora Cahn",
+        "original_name": "Debora Cahn",
+        "popularity": 0.7828,
+        "profile_path": null,
+        "credit_id": "52538f0819c295794027a53b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219492,
+        "known_for_department": "Writing",
+        "name": "Paul Redford",
+        "original_name": "Paul Redford",
+        "popularity": 0.3675,
+        "profile_path": null,
+        "credit_id": "52538f0819c295794027a625",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1214433,
+        "known_for_department": "Directing",
+        "name": "Christopher Misiano",
+        "original_name": "Christopher Misiano",
+        "popularity": 0.904,
+        "profile_path": "/3zRIhdlc6JTIOuszJD5hknvFEeg.jpg",
+        "credit_id": "52538f0819c295794027a69d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1217138,
+        "known_for_department": "Writing",
+        "name": "Peter Noah",
+        "original_name": "Peter Noah",
+        "popularity": 0.5632,
+        "profile_path": null,
+        "credit_id": "52538f0819c295794027a4ff",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219549,
+        "known_for_department": "Production",
+        "name": "Andrew Stearn",
+        "original_name": "Andrew Stearn",
+        "popularity": 0.2632,
+        "profile_path": null,
+        "credit_id": "52538f0b19c295794027a7c7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1177777,
+        "known_for_department": "Directing",
+        "name": "Alex Graves",
+        "original_name": "Alex Graves",
+        "popularity": 0.8635,
+        "profile_path": "/c9KWBdhgtsoUFGdWbInk3WUnUbU.jpg",
+        "credit_id": "52538f0819c295794027a5b1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219508,
+        "known_for_department": "Writing",
+        "name": "Eli Attie",
+        "original_name": "Eli Attie",
+        "popularity": 0.816,
+        "profile_path": null,
+        "credit_id": "52538f0919c295794027a74b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81374,
+        "known_for_department": "Writing",
+        "name": "Kevin Falls",
+        "original_name": "Kevin Falls",
+        "popularity": 1.0432,
+        "profile_path": null,
+        "credit_id": "52538f0d19c295794027a8b7",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15106,
+        "known_for_department": "Directing",
+        "name": "Thomas Schlamme",
+        "original_name": "Thomas Schlamme",
+        "popularity": 1.3819,
+        "profile_path": "/9ZFuqO0NJW6wqIlmLTexSQBrPvT.jpg",
+        "credit_id": "52538f0819c295794027a489",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219487,
+        "known_for_department": "Acting",
+        "name": "Lawrence O'Donnell",
+        "original_name": "Lawrence O'Donnell",
+        "popularity": 1.1288,
+        "profile_path": "/gctRFdje4N0nynCpA8sr6yrzJpk.jpg",
+        "credit_id": "52538f0d19c295794027a8f3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1219528,
+        "known_for_department": "Writing",
+        "name": "Carol Flint",
+        "original_name": "Carol Flint",
+        "popularity": 0.7852,
+        "profile_path": "/scR8MU51A3t1qRHZCmj9WuUs1kg.jpg",
+        "credit_id": "52538f0819c295794027a6d7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219496,
+        "known_for_department": "Writing",
+        "name": "Peter Parnell",
+        "original_name": "Peter Parnell",
+        "popularity": 0.4148,
+        "profile_path": null,
+        "credit_id": "52538f0819c295794027a575",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 111450,
+        "known_for_department": "Writing",
+        "name": "Alexa Junge",
+        "original_name": "Alexa Junge",
+        "popularity": 0.6422,
+        "profile_path": null,
+        "credit_id": "52538f0c19c295794027a87b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219527,
+        "known_for_department": "Writing",
+        "name": "John Sacret Young",
+        "original_name": "John Sacret Young",
+        "popularity": 1.2665,
+        "profile_path": null,
+        "credit_id": "52538f0919c295794027a711",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "washington dc, usa",
+        "id": 521
+      },
+      {
+        "name": "the white house",
+        "id": 833
+      },
+      {
+        "name": "usa president",
+        "id": 840
+      },
+      {
+        "name": "politics",
+        "id": 6078
+      },
+      {
+        "name": "government",
+        "id": 6086
+      },
+      {
+        "name": "political intrigue ",
+        "id": 41282
+      },
+      {
+        "name": "usa politics",
+        "id": 206515
+      },
+      {
+        "name": "political consultant",
+        "id": 207463
+      },
+      {
+        "name": "thoughtful",
+        "id": 210434
+      },
+      {
+        "name": "political conflict",
+        "id": 246533
+      },
+      {
+        "name": "chief of staff",
+        "id": 250998
+      },
+      {
+        "name": "dialog driven",
+        "id": 284102
+      },
+      {
+        "name": "comforting",
+        "id": 325784
+      },
+      {
+        "name": "optimistic",
+        "id": 325840
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/cOgNSaguVudRwXi7z0WY9vVDRVe.jpg",
+        "id": 37016,
+        "name": "Dag",
+        "original_name": "Dag",
+        "overview": "Dag, insanların yalnız yaşaması gerektiğini düşünen bir evlilik danışmanı hakkındaki Norveç komedi dizisidir. İlişkilerinde sadık kalmaya çalışan arkadaşı Benedict dışında insanlarla vakit geçirmekten nefret etmektedir. Hayat, iyi niyetli kız kardeşi Marianne'nin onu 19. randevusuna çocukluk arkadaşı Eva ile gitmesi konusunda zorlaması ile değişecektir.",
+        "poster_path": "/8eZdBaSqVh2YymlHLToewlH2Ztf.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "no",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 3.866,
+        "first_air_date": "2010-09-30",
+        "vote_average": 8.2,
+        "vote_count": 38,
+        "origin_country": [
+          "NO"
+        ]
+      },
+      {
+        "backdrop_path": "/4quKhVONt0E1GIEdYkrdqJcqQph.jpg",
+        "id": 13868,
+        "name": "To Play the King",
+        "original_name": "To Play the King",
+        "overview": "Francis Urquhart's survival at the top is threatened by the new king's populist agenda.",
+        "poster_path": "/uyTPnSlh7NKic8MgYn2GzD7s0La.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35,
+          10768
+        ],
+        "popularity": 2.2101,
+        "first_air_date": "1993-11-21",
+        "vote_average": 8.0,
+        "vote_count": 54,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/umD3dTVTK5caOaN35OfoGZysvhM.jpg",
+        "id": 3976,
+        "name": "So You Think You Can Dance",
+        "original_name": "So You Think You Can Dance",
+        "overview": "Dancers selected in open auditions across America take part in a rigorous competition designed to best display their talents, training and personalities to a panel of judges and viewers as they strive to win votes and avoid elimination.",
+        "poster_path": "/e4JAJ3UGBmAshXQG69uH9AgnZkp.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 11.405,
+        "first_air_date": "2005-07-20",
+        "vote_average": 7.058,
+        "vote_count": 69,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4aQ7rHicbb3bfxir8QEvRaXUSc.jpg",
+        "id": 43964,
+        "name": "Zero Hour",
+        "original_name": "Zero Hour",
+        "overview": "Doğaüstü hikayelerin anlatıldığı bir dergi olan Modern Skeptic’in yayıncısı Hank Galliston kariyerini ipuçlarını takip etmekle, mitlerin sahteliğini ortaya çıkarmakla ve komploları çözmekle geçmiştir. Doğaüstü olayların bağımlısı olarak sloganı her zaman, “mantık pusuladır” olmuştur. Ancak güzel karısı Laila (Jacinda Barrett) antik saat dükkanından kaçırılınca, Hank insan tarihindeki en karmaşık gizemlerden birine çekilir. \n\nKarısının saatlerinden birinin içinde bir hazine haritası vardır. Ancak haritanın işaret ettiği yer felaket olabilir. Hank’in sembollerin ne anlama geldiğini bulması ve haritanın sırlarını çözmesi gerekmektedir. Bu sırada bu cevapların yanlış ellere – Beyaz Vincent (Michael Nyqvist) dedikleri bir adamın eline- düşmemesi için de uğraşması gerekmektedir. Genç dostları Rachel (Addison Timlin) ve Arron (Scott Michael Foster) ile seksi bir FBI ajanı olan Becca Riley (Carmen Ejogo) ile birlikte Hank karısını bulmak ve insanlığı kurtarmak için zamana karşı nefes kesen bir yarışa atılır.",
+        "poster_path": "/vRExY6DiLcDp4q4o8KJveDNmQwo.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 4.4942,
+        "first_air_date": "2013-02-14",
+        "vote_average": 5.5,
+        "vote_count": 52,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/oYnQ8dnj0uCpa4OotxlKLDh5BrB.jpg",
+        "id": 61702,
+        "name": "American Odyssey",
+        "original_name": "American Odyssey",
+        "overview": "In this \"Traffic\"-like action drama, an international conspiracy explodes when three strangers' lives unexpectedly collide - a female soldier, a corporate lawyer and a political activist.",
+        "poster_path": "/zCkrtf8QWK09Udnnso6mqnIKniz.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 3.1076,
+        "first_air_date": "2015-04-05",
+        "vote_average": 7.19,
+        "vote_count": 58,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/Ady6CfTJo4YrnAAbxLTHpFwp2jM.jpg",
+        "id": 2003,
+        "name": "Sports Night",
+        "original_name": "Sports Night",
+        "overview": "The offbeat cast and crew of a sports news show deal with professional, personal, and ethical challenges while functioning in a pressure-cooker work environment.",
+        "poster_path": "/8C2sySk8iw9Gy2yZTfXQiu4VJ1X.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 17.9392,
+        "first_air_date": "1998-09-22",
+        "vote_average": 7.3,
+        "vote_count": 58,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4ugybYZHhPxJD2OSEK9L3biwg7o.jpg",
+        "id": 67027,
+        "name": "Last Chance U",
+        "original_name": "Last Chance U",
+        "overview": "In a docuseries set at one of NCAA football's most fertile recruiting grounds, guys with red flags seek to prove their worth on the field and in class.",
+        "poster_path": "/8Gu5OupZlwfO0cwfRgsi1LfdE1i.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 6.2056,
+        "first_air_date": "2016-07-29",
+        "vote_average": 7.213,
+        "vote_count": 47,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/q6bEGMxMzbXlGxlaE8k1Zwg5Fcq.jpg",
+        "id": 106871,
+        "name": "Long Way Up",
+        "original_name": "Long Way Up",
+        "overview": "Ewan McGregor and Charley Boorman journey to glorious landscapes across South and Central America on the backs of prototype electric Harley-Davidsons in the third series of the epic motorcycle adventure saga.",
+        "poster_path": "/54abZr85RxwJxutOfKMaFwZ7xfh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 5.2704,
+        "first_air_date": "2020-09-18",
+        "vote_average": 7.464,
+        "vote_count": 56,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/bVu5hQ7EgOdQ9clBFnnSk4f8gfq.jpg",
+        "id": 4015,
+        "name": "Commander in Chief",
+        "original_name": "Commander in Chief",
+        "overview": "Mackenzie Allen has a lot on her plate -- she has twin teenagers, a 6-year-old at home and an ambitious husband at the office, and she is about to become the first female president of the United States. Before that happens, however; Mackenzie, who serves as vice president, has to decide whether or not to go against the dying wishes of the current president, who has asked her to step down and let someone \"more appropriate\" fill his shoes in the Oval Office. Not only does the president want her to resign, so does the entire party that elected her in the first place. But when the moment of truth arrives, Mackenzie isn't willing to be a mere footnote in history. Instead of allowing her detractors to keep her down, she decides to trust her instincts and accept the most powerful job in the world.",
+        "poster_path": "/8IQVCMJqjABa9WCFcbasQyTaVmM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 8.7331,
+        "first_air_date": "2005-09-27",
+        "vote_average": 7.708,
+        "vote_count": 36,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/hiReFpcc4NZOZdbtyOYrcZ5vCv3.jpg",
+        "id": 2962,
+        "name": "The Mary Tyler Moore Show",
+        "original_name": "The Mary Tyler Moore Show",
+        "overview": "30-year-old single Mary Richards moves to Minneapolis to start a new life after a romantic break-up. There she reacquaints with Phyllis who rents her a room, and meets her upstairs neighbor and new best friend Rhoda. Mary unexpectedly lands a job as associate producer at the TV station WJM, where she works alongside her bristly boss, Lou; the comical newswriter, Murray; and the newscast's often-incompetent anchor, Ted.",
+        "poster_path": "/nFsgsmK7isjtdEVTL35mJEQZHuO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 66.507,
+        "first_air_date": "1970-09-19",
+        "vote_average": 7.553,
+        "vote_count": 75,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 75856,
+        "name": "The Occult History of the Third Reich",
+        "original_name": "The Occult History of the Third Reich",
+        "overview": "Documents both the influences of alternative belief systems on the Nazi ideology and Hitler's personal philosophy, and the history and development of the ideas and symbols that would be used along with eugenicist racial politics to perpetrate the murder and oppression of millions during World War II.",
+        "poster_path": "/b9sJizvExjX5UxfCUl1UDPKGEXS.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          10768
+        ],
+        "popularity": 2.8693,
+        "first_air_date": "1990-04-20",
+        "vote_average": 5.9,
+        "vote_count": 7,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lPl18jyqC8dz7updQIJssKsaMiB.jpg",
+        "id": 114604,
+        "name": "Schulz Saves America",
+        "original_name": "Schulz Saves America",
+        "overview": "Comedian Andrew Schulz takes on the year's most divisive topics in this fearlessly unfiltered and irreverent four-part special.",
+        "poster_path": "/ggbN2lhQxtUXWAQo3tG9xJiNEEO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 0.4779,
+        "first_air_date": "2020-12-17",
+        "vote_average": 6.1,
+        "vote_count": 15,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/8NwJxjjkW4AelxLZtt1Qk3bK79V.jpg",
+        "id": 37621,
+        "name": "The Promise",
+        "original_name": "The Promise",
+        "overview": "The story of a young woman who goes to present-day Israel/Palestine determined to find out about her soldier grandfather's involvement in the final years of Palestine under the British mandate.",
+        "poster_path": "/1lhQ7Zxcl10N7PzfjHYEHGw0Oef.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10768
+        ],
+        "popularity": 1.3151,
+        "first_air_date": "2011-02-06",
+        "vote_average": 7.826,
+        "vote_count": 23,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/fkYC1LoFC6pTBsT256nApSXEGUO.jpg",
+        "id": 92628,
+        "name": "I Hate Suzie",
+        "original_name": "I Hate Suzie",
+        "overview": "Telefonundaki uygunsuz fotoğrafların internette yayılmasıyla hayatı alt üst olan Suzie Pickles, menajeri Naomi ile birlikte kariyerini ve evliliğini kurtarmaya çalışır.Başrolünde Billie Piper'ın oynadığı \"I Hate Suzie\" maskelerin düştüğü ana odaklanan cesur bir drama dizisi.",
+        "poster_path": "/hjywC92jCbta6yJdso7WfIouYQa.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 4.8901,
+        "first_air_date": "2020-08-27",
+        "vote_average": 6.483,
+        "vote_count": 30,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/3bB2YU7x29CaAoRkOcE9R6n3Gsq.jpg",
+        "id": 5403,
+        "name": "Starman",
+        "original_name": "Starman",
+        "overview": "Starman is an American science fiction television series, starring Robert Hays and Christopher Daniel Barnes and continuing the story from John Carpenter's 1984 film. The series ran on the ABC network from September 19, 1986 to May 2, 1987. The series was an adaptation and sequel to a movie of the same name produced in 1984.",
+        "poster_path": "/4fKXWIiaLTQDvOS5Ok4XfD5qKJb.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 3.6459,
+        "first_air_date": "1986-09-19",
+        "vote_average": 6.8,
+        "vote_count": 20,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/xoq9B3eSxSO0wapskInhjvCv5Kp.jpg",
+        "id": 13777,
+        "name": "The Net",
+        "original_name": "The Net",
+        "overview": "The Net is a 1998 television drama series based on the 1995 film of the same name. The series starred Brooke Langton as Angela Bennett, the character Sandra Bullock played in the film. Produced in Vancouver, British Columbia, Canada, the series originally aired for one season on the USA Network before being canceled in 1999.",
+        "poster_path": "/jGanyuPSFjIQVfKg60S1dHqq8eW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          10767
+        ],
+        "popularity": 1.5158,
+        "first_air_date": "1998-07-19",
+        "vote_average": 7.7,
+        "vote_count": 19,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 2058,
+        "name": "Absolute Power",
+        "original_name": "Absolute Power",
+        "overview": "Stephen Fry and John Bird star as spin doctors Charles Prentiss and Martin McCabe as they bring the popular and satirical Radio 4 comedy Absolute Power to BBC Two. Stephen as Prentiss and John as McCabe are an unscrupulous pair who run the blue chip PR agency Prentiss McCabe. Dealing with commercial as well as personal PR, their remit covers everything from political communications to celebrity media relations. Their manipulation skills are tested to the full as they frequently find that their work brings them into conflict with political parties, newspaper editors and celebrities.",
+        "poster_path": "/q8O8C2OsM0DIyGmjlev7XlBzGCE.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 4.4389,
+        "first_air_date": "2003-11-10",
+        "vote_average": 7.5,
+        "vote_count": 18,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/nG93f33al8Zq2tQ3d8oMiQfJlij.jpg",
+        "id": 62146,
+        "name": "100 Code",
+        "original_name": "100 Code",
+        "overview": "New York, USA. Stockholm, Sweden. Over the past twelve months young, blonde, blue-eyed women have been found dead in a meadow where Asphodel flowers grow. New York Detective Tommy Conley gets a special dispensation from the NYPD to go observe and act as an adviser to the Stockholm Police Department in order to help solve these crimes.",
+        "poster_path": "/tg9fpeSvD8QvPOjt1ZASz3GkqT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80
+        ],
+        "popularity": 3.3834,
+        "first_air_date": "2015-03-06",
+        "vote_average": 6.6,
+        "vote_count": 73,
+        "origin_country": [
+          "DE",
+          "US",
+          "SE"
+        ]
+      },
+      {
+        "backdrop_path": "/5jd75KxTh4FQba7KYqQE34bXsbT.jpg",
+        "id": 10938,
+        "name": "Inşaatçı Bob /  Tamirçi Bob",
+        "original_name": "Bob the Builder",
+        "overview": "Bob the Builder, Keith Chapman tarafından yaratılan bir İngiliz çocuk animasyon televizyon programıdır. Orijinal dizide Bob, meslektaşı Wendy, çeşitli komşuları ve arkadaşları ve onların antropomorfize edilmiş iş araçları ve ekipmanı çetesiyle birlikte bir stop motion animasyon programında duvarcılıkta uzmanlaşmış bir inşaat müteahhidi olarak görünüyor. Gösteri birçok ülkede yayınlanıyor, ancak Bob'un İngiliz aktör Neil Morrissey tarafından seslendirildiği Birleşik Krallık'tan geliyor. Şov daha sonra yan ürün serisi Ready, Steady, Build! ile başlayan CGI animasyonu kullanılarak oluşturuldu.  Bob ve grubu her bölümde tadilat, inşaat ve onarım işlerinde ve gerektiğinde diğer projelerde yardımcı oluyor. Gösteri, çatışma çözme, işbirliği, sosyalleşme ve çeşitli öğrenme becerilerini vurgular. Bob'un sloganı, diğer karakterlerin \"Evet, yapabiliriz!\" Bu cümle aynı zamanda programın Birleşik Krallık'ta bir milyon satan bir numaralı hit olan tema şarkısının da adıdır.",
+        "poster_path": "/jfIAxRMSLuMjczB0ezl8L9Ukzfi.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10762,
+          16,
+          10751
+        ],
+        "popularity": 44.8905,
+        "first_air_date": "1999-04-12",
+        "vote_average": 5.8,
+        "vote_count": 112,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/oNNdRpSQSdRIaWnSFejhw1qk51K.jpg",
+        "id": 15621,
+        "name": "The Newsroom",
+        "original_name": "The Newsroom",
+        "overview": " Ana haber bültenimiz başlıyor! \n\nSize sunulan haberleri mi, yoksa gerçekleri mi duymak istersiniz? The Social Network / Sosyal Ağ ve Moneyball / Kazanma Sanatı’nın yazarı Aaron Sorkin’den günlük haber programı yapan insanların yaşamlarına heyecan verici bir bakış. BP’nin petrol sızıntısından, Arap Baharı’na pek çok gerçek olayı konu edinen dizi, izleyiciyi haberciliğin kamera arkasına götürecek. Ana haber sunucusu Will McAvoy, onun yapımcı yönetmeni ve eski sevgilisi MacKenzie MacHale, patronları Charlie ve haber ekibini merkezine oturtan dizi, şirket çıkarlarının ve reklam verenlerin baskısına rağmen ekibin idealistik bir şekilde doğru habercilik yapma misyonunu takip ediyor. Tabii kendileri son dakika haberi olmadığı sürece... ",
+        "poster_path": "/pOC3DmU47X98Sv5vaPnmgjG30eY.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 15.0667,
+        "first_air_date": "2012-06-24",
+        "vote_average": 8.1,
+        "vote_count": 641,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

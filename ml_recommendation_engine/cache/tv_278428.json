@@ -1,0 +1,884 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2025-01-20",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Aksiyon & Macera"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    }
+  ],
+  "homepage": "",
+  "id": 278428,
+  "in_production": true,
+  "languages": [
+    "tl",
+    "en"
+  ],
+  "last_air_date": "2025-03-03",
+  "last_episode_to_air": {
+    "id": 5922565,
+    "name": "34. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-06",
+    "episode_number": 34,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 20,
+    "season_number": 1,
+    "show_id": 278428,
+    "still_path": null
+  },
+  "name": "Incognito",
+  "next_episode_to_air": {
+    "id": 5922566,
+    "name": "35. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-07",
+    "episode_number": 35,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 20,
+    "season_number": 1,
+    "show_id": 278428,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 42,
+      "logo_path": "/gVinXXdpdbLHuXTUUfx4R9PyuPB.png",
+      "name": "TV5",
+      "origin_country": "PH"
+    },
+    {
+      "id": 3920,
+      "logo_path": "/eK7hBqDuNwvHqBoWtVgCdNIehsU.png",
+      "name": "Kapamilya Channel",
+      "origin_country": "PH"
+    },
+    {
+      "id": 6982,
+      "logo_path": null,
+      "name": "A2Z",
+      "origin_country": "PH"
+    }
+  ],
+  "number_of_episodes": 50,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_name": "Incognito",
+  "overview": "",
+  "popularity": 2080.509,
+  "poster_path": "/8jdXvKWFllqPCD83Yv52WXeWn2N.jpg",
+  "production_companies": [
+    {
+      "id": 127708,
+      "logo_path": "/wUDqa40B2wXVXm7J1RY6LQfg1gn.png",
+      "name": "Star Creatives",
+      "origin_country": "PH"
+    },
+    {
+      "id": 186303,
+      "logo_path": null,
+      "name": "Studio Three Sixty",
+      "origin_country": "PH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-01-20",
+      "episode_count": 50,
+      "id": 431133,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1268846,
+        "known_for_department": "Acting",
+        "name": "Daniel Padilla",
+        "original_name": "Daniel Padilla",
+        "popularity": 17.272,
+        "profile_path": "/9KUrc1rZR1Xrqg2cqmPsgxCo4Zc.jpg",
+        "character": "Andres Malvar",
+        "credit_id": "6749b9ac491909c1b79e00be",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88940,
+        "known_for_department": "Acting",
+        "name": "Richard Gutierrez",
+        "original_name": "Richard Gutierrez",
+        "popularity": 5.149,
+        "profile_path": "/ddVF0NXPdvzX2JkQCQ88yeYasgp.jpg",
+        "character": "Jose Bonifacio / JB",
+        "credit_id": "6749b9b5151d17c16a26dfe3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1327956,
+        "known_for_department": "Acting",
+        "name": "Ian Veneracion",
+        "original_name": "Ian Veneracion",
+        "popularity": 5.59,
+        "profile_path": "/svXn93IxVohnkKscWmU7lS12nJh.jpg",
+        "character": "Greg Paterno",
+        "credit_id": "6749b9ba151d17c16a26dfe6",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 939090,
+        "known_for_department": "Acting",
+        "name": "Baron Geisler",
+        "original_name": "Baron Geisler",
+        "popularity": 3.221,
+        "profile_path": "/aRb59G35voCTy3SYOZfj8D5oBDQ.jpg",
+        "character": "Miguel Tecson",
+        "credit_id": "6749b9d810aa0319867e3e16",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3039986,
+        "known_for_department": "Acting",
+        "name": "Kaila Estrada",
+        "original_name": "Kaila Estrada",
+        "popularity": 4.244,
+        "profile_path": "/udozPa8Z5DLTECQQkLv5Vb50nU4.jpg",
+        "character": "Max Alvero",
+        "credit_id": "6749b9f3ad8af31652004095",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1442436,
+        "known_for_department": "Acting",
+        "name": "Maris Racal",
+        "original_name": "Maris Racal",
+        "popularity": 14.995,
+        "profile_path": "/51shrqDorCuRzZ2l3CqxSK4fOFg.jpg",
+        "character": "Gabriela Rivera / Gab",
+        "credit_id": "6749b9d3491909c1b79e00d1",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2510404,
+        "known_for_department": "Acting",
+        "name": "Anthony Jennings",
+        "original_name": "Anthony Jennings",
+        "popularity": 10.468,
+        "profile_path": "/w9Ps5r2TAGlNC4d4kAfpGhUxLcb.jpg",
+        "character": "Tomas Guerrero",
+        "credit_id": "6749b9c9151d17c16a26dff0",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 823910,
+        "known_for_department": "Acting",
+        "name": "Eddie Gutierrez",
+        "original_name": "Eddie Gutierrez",
+        "popularity": 3.576,
+        "profile_path": "/3AeYphipqXN8bHs7RJfbv3mxn4H.jpg",
+        "character": "Tony Bonifacio",
+        "credit_id": "678de35642f27c754c653d6c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1019408,
+        "known_for_department": "Acting",
+        "name": "Bembol Roco",
+        "original_name": "Bembol Roco",
+        "popularity": 11.203,
+        "profile_path": "/a2ZAol2NWHBkRugooent7LTwcJg.jpg",
+        "character": "Ninong",
+        "credit_id": "678de3631c341c88996ddc52",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113250,
+        "known_for_department": "Acting",
+        "name": "Jestoni Alarcon",
+        "original_name": "Jestoni Alarcon",
+        "popularity": 3.325,
+        "profile_path": "/2IPSPvZKsMvwV5m5GKIkkkIjiXL.jpg",
+        "character": "General Novilla",
+        "credit_id": "678de3c19cb0719f7464edce",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 227139,
+        "known_for_department": "Acting",
+        "name": "Agot Isidro",
+        "original_name": "Agot Isidro",
+        "popularity": 7.542,
+        "profile_path": "/1V0kREE6eR2RIwBPLRtqvU8H67Q.jpg",
+        "character": "Isabel Escalera",
+        "credit_id": "678de3cd1c341c88996ddc87",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 585893,
+        "known_for_department": "Acting",
+        "name": "Malou de Guzman",
+        "original_name": "Malou de Guzman",
+        "popularity": 3.113,
+        "profile_path": "/gbRxH0qutRSd6hG3sLoEHC2Eccm.jpg",
+        "character": "Apo Malvar",
+        "credit_id": "678de3d99cb0719f7464edd7",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1053935,
+        "known_for_department": "Acting",
+        "name": "Raymond Bagatsing",
+        "original_name": "Raymond Bagatsing",
+        "popularity": 5.256,
+        "profile_path": "/6RsjyCvWq6wTRNG6tMO1NncOG5z.jpg",
+        "character": "Jigme Rai",
+        "credit_id": "678de989274f9b08cd6dde10",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 227987,
+        "known_for_department": "Acting",
+        "name": "Arthur Acuña",
+        "original_name": "Arthur Acuña",
+        "popularity": 10.964,
+        "profile_path": "/zJn9vitt2eFJHek694uNX74XBi0.jpg",
+        "character": "Timor Escalera",
+        "credit_id": "678de9941c341c88996ddd6b",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1040553,
+        "known_for_department": "Acting",
+        "name": "Cris Villanueva",
+        "original_name": "Cris Villanueva",
+        "popularity": 4.113,
+        "profile_path": "/8Q2aXFnpk8ph1MmFQ39OrwRHxYE.jpg",
+        "character": "Pedro Malvar",
+        "credit_id": "678de9a142f27c754c653ec8",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225428,
+        "known_for_department": "Acting",
+        "name": "Ryan Eigenmann",
+        "original_name": "Ryan Eigenmann",
+        "popularity": 5.178,
+        "profile_path": "/wrLSoCUoiMC8rg7uMbBpjOPMlyJ.jpg",
+        "character": "Eugene Escalera / Clover",
+        "credit_id": "678de9bf42f27c754c653ed9",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1226033,
+        "known_for_department": "Acting",
+        "name": "Antonio Aquitania",
+        "original_name": "Antonio Aquitania",
+        "popularity": 1.435,
+        "profile_path": null,
+        "character": "Lorenzo",
+        "credit_id": "678de9ca1c341c88996ddd87",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1036366,
+        "known_for_department": "Acting",
+        "name": "Polo Ravales",
+        "original_name": "Polo Ravales",
+        "popularity": 7.228,
+        "profile_path": "/fQGDDn8y0umMPUPi0psp6UkoNkr.jpg",
+        "character": "Emilio Manalastas / Emil",
+        "credit_id": "678de9dd42f27c754c653ee2",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1381028,
+        "known_for_department": "Acting",
+        "name": "Dino Imperial",
+        "original_name": "Dino Imperial",
+        "popularity": 0.542,
+        "profile_path": null,
+        "character": "Francis Escalera / Diamond",
+        "credit_id": "678dea0d1c341c88996ddd8a",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4174419,
+        "known_for_department": "Acting",
+        "name": "Eric Tai",
+        "original_name": "Eric Tai",
+        "popularity": 0.373,
+        "profile_path": "/7EESHuv435pUfvg5ZCo1jyIVhrF.jpg",
+        "character": "",
+        "credit_id": "678dea1442f27c754c653f02",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1349626,
+        "known_for_department": "Acting",
+        "name": "Elijah Canlas",
+        "original_name": "Elijah Canlas",
+        "popularity": 4.434,
+        "profile_path": "/8VBYCUhV6jA0vn8MwPJD7hjwmAo.jpg",
+        "character": "Donato Escalera / Spade",
+        "credit_id": "678deaa0dbcff33a9c6545f7",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1810108,
+        "known_for_department": "Acting",
+        "name": "Jane De Leon",
+        "original_name": "Jane De Leon",
+        "popularity": 4.24,
+        "profile_path": "/n6NomkQDTlobzE7t83sOCDrysPl.jpg",
+        "character": "Sylvia Escalera / Heart",
+        "credit_id": "678deaf7274f9b08cd6dde4c",
+        "order": 21
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "military",
+        "id": 162365
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/wDjoR40ues797wYVeJYB1Vx5pUC.jpg",
+        "id": 209275,
+        "name": "May I Help You?",
+        "original_name": "May I Help You?",
+        "overview": "Baek Dong Joo, a newly hired funeral director, has the uncanny gift, or curse, to momentarily resurrect and talk to the recently deceased. She has to grant their last wishes or have her days be filled with a series of bad luck and accidents. And helping the little boy that first terrified her when he came to life will lead her down a path she never could have expected.\n\nKim Tae Hee works as a man for hire. Employed by his uncle Vincent running the newly opened errand service company “A Dime A Job” he can be hired for any odd (but legal) task.  One day, Kim Tae Hee encounters Baek Dong Joo, when he is hired by her boyfriend to break up with her in his stead. After that, their paths continue to cross, and by the virtue of their jobs, their fates get intertwined deeper and deeper in a series of life and death situations, surrounding the wishes of the people who had died, and the painful past it is going to unravel for both of them.",
+        "poster_path": "/5raBam3P9PypmcNsK7RDgyC5wAm.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 35.305,
+        "first_air_date": "2022-10-19",
+        "vote_average": 7.9,
+        "vote_count": 34,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/9faGSFi5jam6pDWGNd0p8JcJgXQ.jpg",
+        "id": 1396,
+        "name": "Breaking Bad",
+        "original_name": "Breaking Bad",
+        "overview": "Kanserden öleceğini öğrenen bir kimya öğretmeni, ailesinin geleceğini garanti altına almak için metamfetamin üretip satmak üzere eski bir öğrencisiyle kafa kafaya verir.",
+        "poster_path": "/ineLOBPG8AZsluYwnkMpHRyu7L.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 540.297,
+        "first_air_date": "2008-01-20",
+        "vote_average": 8.923,
+        "vote_count": 15144,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
+        "id": 1668,
+        "name": "Friends",
+        "original_name": "Friends",
+        "overview": "1990'ların Manhattan'ında iş hayatının, aşkın ve gündelik yaşamın zorluklarıyla uğraşan 20'li yaşlarda üçü kadın, üçü erkek altı kişilik yakın arkadaş gurubunun komik maceraları.",
+        "poster_path": "/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 391.305,
+        "first_air_date": "1994-09-22",
+        "vote_average": 8.4,
+        "vote_count": 8242,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/20eIP9o5ebArmu2HxJutaBjhLf4.jpg",
+        "id": 87108,
+        "name": "Çernobil",
+        "original_name": "Chernobyl",
+        "overview": "1986 senesinde Sovyet nükleer santralinde meydana gelen patlama sonrası santral işçileri ve itfaiyeciler faciayı kontrol altına almaya çalışır.",
+        "poster_path": "/87QSOjVXFwXpCcczMLhh2WRJDV5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 86.964,
+        "first_air_date": "2019-05-06",
+        "vote_average": 8.7,
+        "vote_count": 6644,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lNpkvX2s8LGB0mjGODMT4o6Up7j.jpg",
+        "id": 1398,
+        "name": "The Sopranos",
+        "original_name": "The Sopranos",
+        "overview": "New Jersey'deki bir Amerikan-İtalyan mafya ailesinin babası olan Tony Soprano'nun ve Soprano Ailesi'nin diğer fertlerinin hayatlarından kesitler sunan dizi, toplamda 86 bölüm yayınlanmış, kazandığı ödüller ve aldığı olumlu eleştirilerle adını \"gelmiş geçmiş en iyi diziler\" arasına yazdırmıştır.",
+        "poster_path": "/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 368.94,
+        "first_air_date": "1999-01-10",
+        "vote_average": 8.7,
+        "vote_count": 2871,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/nqKl23bnWrTlNUv0ZA6KrtpTPpq.jpg",
+        "id": 2098,
+        "name": "Batman: Animasyon Dizisi",
+        "original_name": "Batman: The Animated Series",
+        "overview": "Pelerinli Savaşçı, aralarında Joker'in, Penguen'in ve Harley Quinn'in de bulunduğu, Gotham'ın en azılı kötüleriyle savaşırken içindeki şeytanlarla da mücadele eder.",
+        "poster_path": "/fulonGHOoYdRFEHUsIztoUVkr4U.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          18,
+          9648
+        ],
+        "popularity": 153.074,
+        "first_air_date": "1992-09-05",
+        "vote_average": 8.536,
+        "vote_count": 1638,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/jmtmDc9GrrbuIUc6QjmEM1Yr8gH.jpg",
+        "id": 91239,
+        "name": "Bridgerton",
+        "original_name": "Bridgerton",
+        "overview": "Bridgerton ailesinin en büyük kızı Daphne Bridgerton, ailesinin izinden gidip çok seveceği bir adamla evlenmek ister. Genç kadının seçenekleri çok olsa da ağabeyi teker teker adayları eler. Ancak Leydi Whistledown'ın hazırladığı bir skandal, Daphne'nin adının lekelenmesine neden olur. Bu sırada sosyeteye yeni katılan kızların annelerinin gözdesi olan Hastings Dükü ile Daphne arasında bir çekim oluşur.",
+        "poster_path": "/luoKpgVwi1E5nQsi7W0UuKHu2Rq.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 172.572,
+        "first_air_date": "2020-12-25",
+        "vote_average": 8.1,
+        "vote_count": 2904,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/xGexTKCJDkl12dTW4YCBDXWb1AD.jpg",
+        "id": 71446,
+        "name": "Money Heist",
+        "original_name": "La casa de papel",
+        "overview": "Bir suç dehası planını gerçekleştirmek üzere polisi ustalıkla yönlendirirken sekiz hırsız, rehineler alarak kendilerini İspanya Kraliyet Darphanesine kilitler.",
+        "poster_path": "/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 112.802,
+        "first_air_date": "2017-05-02",
+        "vote_average": 8.2,
+        "vote_count": 18793,
+        "origin_country": [
+          "ES"
+        ]
+      },
+      {
+        "backdrop_path": "/2MaumbgBlW1NoPo3ZJO38A6v7OS.jpg",
+        "id": 66732,
+        "name": "Stranger Things",
+        "original_name": "Stranger Things",
+        "overview": "Ufak bir kasabada küçük bir çocuk kaybolunca, gizli deneyler, korkutucu doğaüstü güçler ve tuhaf bir küçük kızın da parçası olduğu bir gizem ortaya çıkar.",
+        "poster_path": "/hjVNQA2a12OxkpDEOQTBMbKVZ1K.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765,
+          9648
+        ],
+        "popularity": 293.245,
+        "first_air_date": "2016-07-15",
+        "vote_average": 8.6,
+        "vote_count": 18087,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+        "id": 1399,
+        "name": "Game of Thrones",
+        "original_name": "Game of Thrones",
+        "overview": "Krallık dediğin savaşsız olur mu? En güçlü krallığı kurup, huzuru sağlamış olsan bile bu gücü elinde nasıl koruyacaksın? Burada yanlış yapana yer yok, affetmek yok. Kuzey Krallığının hükümdarı Lord Ned Stark, uzun ve zorlu savaşlardan sonra anayurduna dönüp krallığını bütünlük içerisinde tutmayı başarmıştır. Kral Robert Baratheon ile yıllarca omuz omuza çarpışan ve Baratheon'un kral olmasını sağlayan Ned Stark'ın tek istediği kuzey sınırlarını koruyan krallığında ailesiyle ve halkıyla yaşamaktır. \n\nFakat suyun öte yanında kendi topraklarından ve krallığından kovulduğunu iddia eden Viserys Targaryen , kız kardeşi Daenerys'i barbar kavimlerin başı Han Drogo'ya vererek, güç birliği planları yapmaktadır. Tahtını büyük bir iştahla geri isteyen ama kraliyet oyunlarından habersiz olan Viserys'in planları Kral Baratheon'a ulaşır. Savaş alanında büyük cengaver olan ama ülke ve aile yönetiminde aynı başarıyı tutturamayan Baratheon'un tamamen güvenebileceği ve her yanlış hamlesini arkasından toplayacak yeni bir sağ kola ihtiyacı vardır. Kuzeyin Lordu Ned Stark bu görev için seçilen tek aday isimdir. Kış yaklaşıyor...\n\nHanedan entrikaları, kapılı kapılar ardında dönen oyunlar, birilerinin kuyusunu kazmak için düşmanın koynuna girmekten çekinmeyen kadınlar, kardeşler arası çekişmeler, dışlanmalar... Hepsi tek bir hedef için: Taht kavgası..",
+        "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 723.189,
+        "first_air_date": "2011-04-17",
+        "vote_average": 8.5,
+        "vote_count": 24677,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/yGNnjoIGOdQy3douq60tULY8teK.jpg",
+        "id": 63247,
+        "name": "Westworld",
+        "original_name": "Westworld",
+        "overview": "İki konuk ileri teknolojinin kullanıldığı bir eğlence parkında Vahşi Batı macerasına çıkar. Parktaki insanlar robottur ve park Roma, Vahşi Batı ve Ortaçağ dönemlerine benzetilerek sahici bir hayat yaratmak amacıyla tasarlanmıştır. Merkezi bilgisayar sistemi bozulunca robotlar zincirlerini koparır ve parkın iki konuğu robot bir silahşör tarafından takip edildiklerini fark eder.West World ya da Batı Dünyası, yapay bilincin ortaya çıkması ve suçun geleceğiyle ilgili karanlık bir yolculuğu anlatmaktadır.",
+        "poster_path": "/8MfgyFHf7XEboZJPZXCIDqqiz6e.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          37
+        ],
+        "popularity": 152.522,
+        "first_air_date": "2016-10-02",
+        "vote_average": 8.041,
+        "vote_count": 5624,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qVBExiGdG8uiPK9BcWD0881u8uh.jpg",
+        "id": 64464,
+        "name": "11.22.63",
+        "original_name": "11.22.63",
+        "overview": "Jake Epping zamanda geri giderek 22 Kasım 1963 tarihinde John F. Kennedy suikastı önlemek isteyen sıradan bir lise öğretmenidir. Yaptığı bu yolculuk sonrasında 3 yıl kadar geçmişte yaşaması gerekir. 20. yüzyılda hala büyük bir merak konusu olan JFK suikastini önlemeye çalışacaktır. Ancak geçmiş onu hep geri itecektir.",
+        "poster_path": "/1fH41ccMKvgDTbbcCxWWH6fznah.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 45.678,
+        "first_air_date": "2016-02-15",
+        "vote_average": 7.775,
+        "vote_count": 1531,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sccDflItNho4OiHkzpiDxB2fUFw.jpg",
+        "id": 1418,
+        "name": "The Big Bang Theory",
+        "original_name": "The Big Bang Theory",
+        "overview": "En büyük zevkleri kuantum fiziğine kafa yormak olan üstün zekalı iki arkadaş, güzel bir kızla karşılaşınca ne yaparlar? The Big Bang Theory, işte o karşılaşma anında gerçekleşen büyük patlama ve sonrasını anlatan bir komedi dizisi. Leonard ve Sheldon adlarındaki iki arkadaşın oturdukları apartmanda yan dairelerine yeni bir komşu taşınır. Adı Penny olan bu komşu güzeller güzeli bir sarışındır. Üstelik maceralı bir ilişkiden daha yeni sapasağlam ayakta çıkmıştır. Penny, zekaları gereğinden fazla ilerlemiş, ancak kızlar konusunda oldukça geri kalmış bu yeni iki komşusuna hayat hakkında öğretebileceği bir şeyleri olduğunu düşünmektedir. Yaşanacak olanlar da zaman içinde onun ne kadar haklı olduğunu gösterecektir. ",
+        "poster_path": "/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 222.02,
+        "first_air_date": "2007-09-24",
+        "vote_average": 7.91,
+        "vote_count": 11545,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/34OGjFEbHj0E3lE2w0iTUVq0CBz.jpg",
+        "id": 87739,
+        "name": "The Queen's Gambit",
+        "original_name": "The Queen's Gambit",
+        "overview": "1950'lerde bir yetimhanede, küçük bir kız müthiş bir satranç yeteneği sergiler. Ancak yıldızlığa uzanan umulmadık yolculuğunda bağımlılıkla mücadele etmek zorunda kalır.",
+        "poster_path": "/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 72.508,
+        "first_air_date": "2020-10-23",
+        "vote_average": 8.5,
+        "vote_count": 4790,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wbiPjTWpZMIB8ffBq7HvzAph4Ft.jpg",
+        "id": 63174,
+        "name": "Lucifer",
+        "original_name": "Lucifer",
+        "overview": "“Cehennem Lordu” Lucifer Morningstar, Los Angeles Polis Departmanı için suçluları yakalamaktadır. Ancak büyük bir sırrı vardır: Bu çekici adam, aslında yeryüzüne düşmüş bir melektir!",
+        "poster_path": "/cLz75DTxXPPR814YHZ0XhiQuEI2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          10765
+        ],
+        "popularity": 406.998,
+        "first_air_date": "2016-01-25",
+        "vote_average": 8.454,
+        "vote_count": 14893,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2eIlCirgcvEwmCSYh2wDfz5Sxvz.jpg",
+        "id": 46952,
+        "name": "The Blacklist",
+        "original_name": "The Blacklist",
+        "overview": "FBI'ın arananlar listesindeki kaçak, diğer kötüleri yakalamaları için FBI'a yardım teklifinde bulunur; tek şartı çaylak profil uzmanı Elizabeth Keen'in ortağı olmasıdır.",
+        "poster_path": "/4HTfd1PhgFUenJxVuBDNdLmdr0c.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "popularity": 576.204,
+        "first_air_date": "2013-09-23",
+        "vote_average": 7.628,
+        "vote_count": 3230,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uJUe985oIuRiD3hmHQYskIMc2WU.jpg",
+        "id": 62560,
+        "name": "Mr. Robot",
+        "original_name": "Mr. Robot",
+        "overview": "Gündüz yazılım güvenliği şirketinde çalışan geceleri ise sanal evrenin kahramanı olan Elliot'ın heyecan dolu dünyasına giriş yapmaya hazır olun! Merak uyandıran senaryosuyla başarılı bir psikolojik gerilim olan dizide, başroldeki Rami Malek'e Mr.Robot rolünde ünlü aktör Christian Slater eşlik ediyor.",
+        "poster_path": "/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 117.18,
+        "first_air_date": "2015-06-24",
+        "vote_average": 8.2,
+        "vote_count": 4762,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/82qpvU7AzT9D8oC02fIceb5KAz8.jpg",
+        "id": 46648,
+        "name": "True Detective",
+        "original_name": "True Detective",
+        "overview": "Louisiana Cinayet Masası'nda görev yapan dedektif Rust Cohle ve Martin Hart bir seri katilin peşine düşerler. Beraber çalışan ikilinin, takip derinleştikçe kendi hayatlarının da içinden çıkılmaz bir duruma gelmesi kaçınılmaz olacaktır. 17 yıl boyunca bir seri katili yakalamak için iz süren dedektifler, yıllar sonra davanın tekrar ele alınması ile beraber kendilerini sorgu masasında bulurlar.",
+        "poster_path": "/cuV2O5ZyDLHSOWzg3nLVljp1ubw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 193.675,
+        "first_air_date": "2014-01-12",
+        "vote_average": 8.3,
+        "vote_count": 3554,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ukewRnKD05Si7DkED2tSKBTXeEd.jpg",
+        "id": 84773,
+        "name": "Yüzüklerin Efendisi: Güç Yüzükleri",
+        "original_name": "The Lord of the Rings: The Rings of Power",
+        "overview": "Göreceli bir barış döneminden başlayarak, Orta Dünya'ya geri dönen kötülükle yüzleşen bir dizi karakteri izleyeceğiz. Dumanlı Dağlar'ın en karanlık derinliklerinden Lindon'un görkemli ormanlarına, nefes kesen ada krallığı Númenor'a, haritanın en uzak noktalarına kadar tüm bu karakterlerin ve krallıkların kendileri yok olduktan çağlar sonra bile hatırlanacak destanlar yaratmasına tanık olacağız.",
+        "poster_path": "/8YXqUPhOCQGSzdtAtFUpmxoSCGy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10765,
+          18
+        ],
+        "popularity": 336.598,
+        "first_air_date": "2022-09-01",
+        "vote_average": 7.3,
+        "vote_count": 3223,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/z2RumCOIZ6HO3oMvfINzZlFnPAw.jpg",
+        "id": 890,
+        "name": "Neon Genesis Evangelion",
+        "original_name": "新世紀エヴァンゲリオン",
+        "overview": "İkinci Patlama'dan on beş yıl sonra Shinji Ikari, korkunç Havariler'e karşı savaşan genç meka pilotlardan biri olarak babasının grubu Nerv'e katılır.",
+        "poster_path": "/y2ah9t0navXyIvoHg1uIbIHO3tt.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          10765,
+          16,
+          18
+        ],
+        "popularity": 70.398,
+        "first_air_date": "1995-10-04",
+        "vote_average": 8.594,
+        "vote_count": 1777,
+        "origin_country": [
+          "JP"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

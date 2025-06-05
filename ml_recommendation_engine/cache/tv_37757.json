@@ -1,0 +1,593 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    150
+  ],
+  "first_air_date": "2010-10-03",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Gerçeklik"
+    }
+  ],
+  "homepage": "https://www.star.gr/tv/psychagogia/masterchef/",
+  "id": 37757,
+  "in_production": true,
+  "languages": [
+    "el"
+  ],
+  "last_air_date": "2025-02-26",
+  "last_episode_to_air": {
+    "id": 6013527,
+    "name": "33. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-06",
+    "episode_number": 33,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 11,
+    "show_id": 37757,
+    "still_path": null
+  },
+  "name": "MasterChef Greece",
+  "next_episode_to_air": {
+    "id": 6013528,
+    "name": "34. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-07",
+    "episode_number": 34,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 11,
+    "show_id": 37757,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 273,
+      "logo_path": "/9BWPicebrzShoc8uJFxHLugjc5K.png",
+      "name": "Mega TV",
+      "origin_country": "GR"
+    },
+    {
+      "id": 4392,
+      "logo_path": "/pSegCsDDflnTUnFMvmcNwwBGSsg.png",
+      "name": "Star",
+      "origin_country": "GR"
+    }
+  ],
+  "number_of_episodes": 854,
+  "number_of_seasons": 11,
+  "origin_country": [
+    "GR"
+  ],
+  "original_language": "el",
+  "original_name": "MasterChef Greece",
+  "overview": "",
+  "popularity": 2634.844,
+  "poster_path": "/h0MR8xGqddeeJHgqDuW14jW25ov.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "GR",
+      "name": "Greece"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2010-10-03",
+      "episode_count": 72,
+      "id": 180272,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2012-12-24",
+      "episode_count": 70,
+      "id": 180273,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2017-05-04",
+      "episode_count": 72,
+      "id": 180274,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2018-01-09",
+      "episode_count": 84,
+      "id": 180275,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2019-01-21",
+      "episode_count": 84,
+      "id": 180276,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2020-01-27",
+      "episode_count": 77,
+      "id": 180277,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2021-01-23",
+      "episode_count": 94,
+      "id": 180278,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2022-01-10",
+      "episode_count": 95,
+      "id": 311739,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2023-01-16",
+      "episode_count": 85,
+      "id": 324094,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2024-01-14",
+      "episode_count": 90,
+      "id": 374198,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2025-01-20",
+      "episode_count": 38,
+      "id": 438359,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "ελληνικά"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 5.6,
+  "vote_count": 6,
+  "credits": {
+    "cast": [],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "competition",
+        "id": 271
+      },
+      {
+        "name": "cooking",
+        "id": 1918
+      },
+      {
+        "name": "cooking competition",
+        "id": 222083
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/trTSAMU5CYFgsAiEczPPl3i5Bhh.jpg",
+        "id": 127009,
+        "name": "Lost Promise",
+        "original_name": "胭脂债",
+        "overview": "In the martial arts world, two major developments occured. First, the new Wulin Master Jiang Qing Liu is attacked at his ceremony, causing him to lose his inner strength. Second, the Demon Lord Bo Ye Jing Xing  escapes captivity after being imprisoned for 11 years by the former Wulin Master Jiang Yin Tian. While everyone is in search for the Demon Lord, little did they know that he was hiding in Qing Liu's bed chamber. Bo Ye Jing Xing will help Qing Liu recover his inner strength while he stays with him. Many days later, a beautiful woman is delivered to Qing Liu in a brocade box  along with a manual and some rouge pills. Qing Liu pretends to be enamoured with her and kept her as his concubine. The Jiang family and servants were perplexed by the demure looking but uncouth woman.",
+        "poster_path": "/dwcqi67ivqm6wWycfVolxCZ2M2L.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "zh",
+        "genre_ids": [
+          10759
+        ],
+        "popularity": 8.135,
+        "first_air_date": "2021-06-05",
+        "vote_average": 9.0,
+        "vote_count": 1,
+        "origin_country": [
+          "CN"
+        ]
+      },
+      {
+        "backdrop_path": "/gKJY6JbWEWJ5xVDEe4TFMEiUQTI.jpg",
+        "id": 46580,
+        "name": "Harvest Villa",
+        "original_name": "위기일발 풍년빌라",
+        "overview": "When the owner of a shabby, soon-to-be-demolished villa in a run-down part of Seoul mysteriously dies, it sets in motion a chain of events that touches many lives. His son Oh Bok-gyu (Shin Ha-kyun), a struggling actor who was previously completely unaware of his inheritance, arrives to take possession of Apartment Number 201, only to find that rumors are swirling everywhere that his father has left a huge fortune of ₩50 billion in gold bars hidden somewhere in the villa — and that his father was murdered. As Bok-gyu navigates his way through the web of mystery surrounding his father's death, he encounters intrusive neighbors, oddball residents, a hardcore gangster and a beautiful girl — any of whom may have their eyes set on his money. When he meets orphaned, lovely Yoon Seo-rin (Lee Bo-young), he thinks that she's the girl of his dreams, but is unsure whether to trust her",
+        "poster_path": "/xkVdkhxFWTBIyg9iH3JczDLOo1B.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 24.649,
+        "first_air_date": "2010-03-05",
+        "vote_average": 7.2,
+        "vote_count": 8,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/waqjIGFIblcs9Jh8DpvWJk3uKrQ.jpg",
+        "id": 71935,
+        "name": "Coming Out",
+        "original_name": "Coming Out",
+        "overview": "The explosive lives, loves and losses of an intermingled group of Montréalers are explored as they confront the subject of difference. Managing a modern relationship can be a mess. Single? Attached? Married? Divorced? Open? Closed? The most common answer is ‘It’s complicated.’",
+        "poster_path": "/m2ru2CdHm9y5BNSYudE92GyWmRm.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 10.459,
+        "first_air_date": "2013-04-03",
+        "vote_average": 4.3,
+        "vote_count": 3,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 117905,
+        "name": "Hensslers Countdown – Kochen am Limit",
+        "original_name": "Hensslers Countdown – Kochen am Limit",
+        "overview": "",
+        "poster_path": null,
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          10764,
+          10767
+        ],
+        "popularity": 13.657,
+        "first_air_date": "2020-02-10",
+        "vote_average": 8.0,
+        "vote_count": 1,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "backdrop_path": "/wqCb25CK3lje4HcVwdZslP6N4Qk.jpg",
+        "id": 76275,
+        "name": "WAGS Atlanta",
+        "original_name": "WAGS Atlanta",
+        "overview": "The lifestyles and real-life relationships of Atlanta's hottest power couples. Viewers get a voyeuristic peek inside the exclusive world of superstar athletes and the women who are hustling and building empires by their side.",
+        "poster_path": "/v0c4SoKE1q9lraW8aauBPC2qCBc.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764,
+          18
+        ],
+        "popularity": 1.808,
+        "first_air_date": "2018-01-03",
+        "vote_average": 6.0,
+        "vote_count": 1,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 239015,
+        "name": "HairStyle, The Talent Show (Italia)",
+        "original_name": "HairStyle, The Talent Show (Italia)",
+        "overview": "",
+        "poster_path": "/ylY3K2vbkrgfUuQ6iEXz5PnQ3Kl.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "it",
+        "genre_ids": [],
+        "popularity": 0.811,
+        "first_air_date": "2023-11-16",
+        "vote_average": 8.0,
+        "vote_count": 1,
+        "origin_country": [
+          "IT"
+        ]
+      },
+      {
+        "backdrop_path": "/9v8Ekq5RaJFVaNXLXKE65yHNfFh.jpg",
+        "id": 104479,
+        "name": "The Royal Monk",
+        "original_name": "真命小和尚",
+        "overview": "",
+        "poster_path": "/k3GebEA7HtUSnTuhWdpeiTyAhFT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "zh",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 8.755,
+        "first_air_date": "1997-01-01",
+        "vote_average": 6.0,
+        "vote_count": 3,
+        "origin_country": [
+          "CN",
+          "SG"
+        ]
+      },
+      {
+        "backdrop_path": "/hoEMt0fxDdBGeUYDj1DnPXXwuAf.jpg",
+        "id": 85910,
+        "name": "Hipira: The Little Vampire",
+        "original_name": "ヒピラくん",
+        "overview": "The story follows a young vampire boy named Hipira who lives in Salta, an eternally dark city of vampires. He goes on a series of adventures with the rest of the town's residents.",
+        "poster_path": "/ftptVyDRjeHayi0pcw2NFXpjjaZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [],
+        "popularity": 13.223,
+        "first_air_date": "2009-12-21",
+        "vote_average": 8.0,
+        "vote_count": 1,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 231024,
+        "name": "Black Swans",
+        "original_name": "Zwarte zwanen",
+        "overview": "",
+        "poster_path": "/1qy7Qv4255LNatQfuJFmG2uShHZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "nl",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 6.07,
+        "first_air_date": "2013-07-01",
+        "vote_average": 9.0,
+        "vote_count": 1,
+        "origin_country": [
+          "NL"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 61745,
+        "name": "Rock N' Roll Stories",
+        "original_name": "Rock N' Roll Stories",
+        "overview": "Music Professionals share their most memorable stories of their career in the Rock N' Roll world.",
+        "poster_path": null,
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 18.078,
+        "first_air_date": "2013-04-16",
+        "vote_average": 9.5,
+        "vote_count": 1,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 17448,
+        "name": "Moses Jones",
+        "original_name": "Moses Jones",
+        "overview": "The story begins when a wave of violence hits London following the discovery of the bizarrely mutilated body of a man in the Thames. First appearances suggest a witchcraft killing. But the dark reality is more complicated – and even more frightening. Assigned to the case is young, hopeful DS Dan Twentyman and his senior partner DI Moses Jones, seconded from Scotland Yard due to cultural links with the local community.",
+        "poster_path": "/4PM73xBgJpERBHA2ZSjDGDwJJrr.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 5.748,
+        "first_air_date": "2009-02-02",
+        "vote_average": 3.3,
+        "vote_count": 3,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/wnBfkAwxWAA1l6mqeRhuCHCg4QK.jpg",
+        "id": 7666,
+        "name": "Une famille formidable",
+        "original_name": "Une famille formidable",
+        "overview": "Une famille formidable is a French romantic comedy television series broadcast since September 17, 1992. It details the goings on of a family, and follows them as they grow up. As of 2008, the cast is the same as the 1992 cast, an unusual feat for a program with a run of this length.\n\nIn 2012, during the broadcast of the season 9 is celebrated twenty years of the series.",
+        "poster_path": "/9uCUph0chZmiR8VsMDGmyEwQFdS.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 106.485,
+        "first_air_date": "1992-09-19",
+        "vote_average": 6.0,
+        "vote_count": 6,
+        "origin_country": [
+          "FR"
+        ]
+      },
+      {
+        "backdrop_path": "/enUcjasHkbcJxKjdJE0jkSApBC9.jpg",
+        "id": 237329,
+        "name": "Ossan’s Love Thailand",
+        "original_name": "รักนี้ให้ \"นาย\"",
+        "overview": "Heng, a bachelor working in a real estate company whose love life is as hopeless as his work life, stumbles upon his own photos on the phone and computer of branch manager Kongdech, his boss. Heng certainly finds this behaviour strange, considering that his boss was married for thirty years.\n\nWhen Kongdech confesses, it shocks Heng who's never liked men before, and it doesn't help that it's come from his amazing boss. And as if things weren't confusing enough, his new colleague and roommate Mo also falls for him. Heng finds himself in a messy situation with two men fighting for his heart. To make matters even more complicated, his childhood friend Chicha unexpectedly confesses her love for him as well.  Amid this whirlwind of emotions and tangled relationships, who will ultimately win Heng's heart?",
+        "poster_path": "/aQHMLqv5nV5UOSAjoPQDzf9OYH5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "th",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 21.178,
+        "first_air_date": "2025-01-06",
+        "vote_average": 9.0,
+        "vote_count": 1,
+        "origin_country": [
+          "TH"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 49020,
+        "name": "Life Line",
+        "original_name": "Life Line",
+        "overview": "",
+        "poster_path": null,
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [],
+        "popularity": 0.001,
+        "first_air_date": "",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "origin_country": []
+      },
+      {
+        "backdrop_path": null,
+        "id": 100389,
+        "name": "Le Bleu de l’océan",
+        "original_name": "Le Bleu de l’océan",
+        "overview": "",
+        "poster_path": "/9nI2EUOOtjw0E23FpK0unUYEyI7.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 3.714,
+        "first_air_date": "2003-07-02",
+        "vote_average": 5.0,
+        "vote_count": 3,
+        "origin_country": [
+          "FR"
+        ]
+      },
+      {
+        "backdrop_path": "/tti3FauErn9S8xTjNDIDbLV0EFw.jpg",
+        "id": 123737,
+        "name": "Close Friend",
+        "original_name": "โคตรแฟน",
+        "overview": "Six different pairs of men experience six different forms of love. Featuring six songs sung by six Boxx Music artists.",
+        "poster_path": "/24ateGcPljt5b2WoNMvomd1Czyc.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "th",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 12.139,
+        "first_air_date": "2021-04-22",
+        "vote_average": 5.0,
+        "vote_count": 9,
+        "origin_country": [
+          "TH"
+        ]
+      },
+      {
+        "backdrop_path": "/qaNn8kKT3c4Ngw9k8KVDpHU0dxY.jpg",
+        "id": 230752,
+        "name": "Associations de bienfaiteurs",
+        "original_name": "Associations de bienfaiteurs",
+        "overview": "",
+        "poster_path": "/1hZtMMcuElrNJ8yIWiNPjRyHsjw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 3.836,
+        "first_air_date": "2022-09-06",
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "origin_country": [
+          "FR"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

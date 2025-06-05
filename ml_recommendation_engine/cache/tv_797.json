@@ -1,0 +1,1289 @@
+{
+  "adult": false,
+  "backdrop_path": "/56zISqLvl7DuS7QYRb2SvJaFkxc.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1990-09-28",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Komedi"
+    },
+    {
+      "id": 10763,
+      "name": "Haber"
+    }
+  ],
+  "homepage": "http://www.bbc.co.uk/programmes/b006mkw3",
+  "id": 797,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2024-12-13",
+  "last_episode_to_air": {
+    "id": 5603750,
+    "name": "10. Bölüm",
+    "overview": "",
+    "vote_average": 6.0,
+    "vote_count": 1,
+    "air_date": "2024-12-13",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 29,
+    "season_number": 68,
+    "show_id": 797,
+    "still_path": "/bI4qynotTn4s2tgvnehITCspHyc.jpg"
+  },
+  "name": "Have I Got News for You",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4,
+      "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+      "name": "BBC One",
+      "origin_country": "GB"
+    },
+    {
+      "id": 332,
+      "logo_path": "/7HVPn1p2w1nC5oRKBehXVHpss7e.png",
+      "name": "BBC Two",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 616,
+  "number_of_seasons": 68,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Have I Got News for You",
+  "overview": "",
+  "popularity": 1410.557,
+  "poster_path": "/917ZwaLnDX5A5iVotS8NGObNtgO.jpg",
+  "production_companies": [
+    {
+      "id": 18939,
+      "logo_path": "/9nn3qLPVfbQJsAmH9ccebkp3fyN.png",
+      "name": "Hat Trick Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 3324,
+      "logo_path": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+      "name": "BBC",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1992-04-09",
+      "episode_count": 19,
+      "id": 138754,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1990-09-28",
+      "episode_count": 8,
+      "id": 91366,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1991-10-04",
+      "episode_count": 11,
+      "id": 91369,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1992-04-24",
+      "episode_count": 10,
+      "id": 91374,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1992-10-16",
+      "episode_count": 10,
+      "id": 91385,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1993-04-16",
+      "episode_count": 8,
+      "id": 91386,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1993-10-29",
+      "episode_count": 9,
+      "id": 91387,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1994-04-22",
+      "episode_count": 8,
+      "id": 91388,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1994-10-28",
+      "episode_count": 9,
+      "id": 91389,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1995-04-21",
+      "episode_count": 8,
+      "id": 91390,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1995-10-27",
+      "episode_count": 9,
+      "id": 91391,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1996-04-19",
+      "episode_count": 8,
+      "id": 91392,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1996-10-04",
+      "episode_count": 10,
+      "id": 91393,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1997-04-18",
+      "episode_count": 8,
+      "id": 138736,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1997-10-24",
+      "episode_count": 9,
+      "id": 138737,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1998-04-17",
+      "episode_count": 8,
+      "id": 138738,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1998-10-23",
+      "episode_count": 9,
+      "id": 138739,
+      "name": "Sezon 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1999-04-16",
+      "episode_count": 8,
+      "id": 138740,
+      "name": "Sezon 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1999-10-22",
+      "episode_count": 9,
+      "id": 138741,
+      "name": "Sezon 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2000-04-14",
+      "episode_count": 8,
+      "id": 138742,
+      "name": "Sezon 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2000-10-20",
+      "episode_count": 9,
+      "id": 138743,
+      "name": "Sezon 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2001-04-20",
+      "episode_count": 8,
+      "id": 138744,
+      "name": "Sezon 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2001-10-19",
+      "episode_count": 10,
+      "id": 173261,
+      "name": "Sezon 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2002-04-19",
+      "episode_count": 8,
+      "id": 138745,
+      "name": "Sezon 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2002-10-18",
+      "episode_count": 9,
+      "id": 138746,
+      "name": "Sezon 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2003-04-25",
+      "episode_count": 8,
+      "id": 138747,
+      "name": "Sezon 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2003-10-17",
+      "episode_count": 9,
+      "id": 138748,
+      "name": "Sezon 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2004-04-16",
+      "episode_count": 8,
+      "id": 138749,
+      "name": "Sezon 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2004-10-15",
+      "episode_count": 9,
+      "id": 138750,
+      "name": "Sezon 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2005-04-15",
+      "episode_count": 8,
+      "id": 138751,
+      "name": "Sezon 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2005-10-14",
+      "episode_count": 9,
+      "id": 138734,
+      "name": "Sezon 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2006-04-21",
+      "episode_count": 8,
+      "id": 138735,
+      "name": "Sezon 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2006-10-13",
+      "episode_count": 9,
+      "id": 86377,
+      "name": "Sezon 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2007-04-13",
+      "episode_count": 8,
+      "id": 138730,
+      "name": "Sezon 33",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2007-10-12",
+      "episode_count": 9,
+      "id": 138731,
+      "name": "Sezon 34",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2008-04-18",
+      "episode_count": 8,
+      "id": 138732,
+      "name": "Sezon 35",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2008-10-17",
+      "episode_count": 10,
+      "id": 138733,
+      "name": "Sezon 36",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2009-04-24",
+      "episode_count": 8,
+      "id": 138729,
+      "name": "Sezon 37",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2009-10-16",
+      "episode_count": 9,
+      "id": 138728,
+      "name": "Sezon 38",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2010-04-01",
+      "episode_count": 9,
+      "id": 138727,
+      "name": "Sezon 39",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 39,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2010-10-14",
+      "episode_count": 10,
+      "id": 138660,
+      "name": "Sezon 40",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-04-08",
+      "episode_count": 9,
+      "id": 138659,
+      "name": "Sezon 41",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-10-14",
+      "episode_count": 10,
+      "id": 138658,
+      "name": "Sezon 42",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 42,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2012-04-13",
+      "episode_count": 9,
+      "id": 138657,
+      "name": "Sezon 43",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 43,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2012-10-12",
+      "episode_count": 10,
+      "id": 138656,
+      "name": "Sezon 44",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 44,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2013-04-05",
+      "episode_count": 9,
+      "id": 138655,
+      "name": "Sezon 45",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 45,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2013-10-04",
+      "episode_count": 10,
+      "id": 138654,
+      "name": "Sezon 46",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 46,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2014-04-04",
+      "episode_count": 9,
+      "id": 138653,
+      "name": "Sezon 47",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 47,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2014-10-03",
+      "episode_count": 10,
+      "id": 138652,
+      "name": "Sezon 48",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 48,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2015-04-10",
+      "episode_count": 9,
+      "id": 80617,
+      "name": "Sezon 49",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 49,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2015-10-02",
+      "episode_count": 11,
+      "id": 80618,
+      "name": "Sezon 50",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 50,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2016-04-08",
+      "episode_count": 9,
+      "id": 80615,
+      "name": "Sezon 51",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 51,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2016-10-07",
+      "episode_count": 10,
+      "id": 80616,
+      "name": "Sezon 52",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 52,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2017-04-21",
+      "episode_count": 9,
+      "id": 91372,
+      "name": "Sezon 53",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 53,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2017-10-06",
+      "episode_count": 10,
+      "id": 111489,
+      "name": "Sezon 54",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 54,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2018-04-06",
+      "episode_count": 9,
+      "id": 111490,
+      "name": "Sezon 55",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 55,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2018-10-05",
+      "episode_count": 10,
+      "id": 111491,
+      "name": "Sezon 56",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 56,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2019-04-05",
+      "episode_count": 9,
+      "id": 129000,
+      "name": "Sezon 57",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 57,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2019-10-11",
+      "episode_count": 10,
+      "id": 138651,
+      "name": "Sezon 58",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 58,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2020-04-03",
+      "episode_count": 9,
+      "id": 146959,
+      "name": "Sezon 59",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 59,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2020-10-02",
+      "episode_count": 10,
+      "id": 164838,
+      "name": "Sezon 60",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 60,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2021-04-09",
+      "episode_count": 9,
+      "id": 189384,
+      "name": "Sezon 61",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 61,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2021-10-08",
+      "episode_count": 10,
+      "id": 212533,
+      "name": "Sezon 62",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 62,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2022-04-01",
+      "episode_count": 9,
+      "id": 285280,
+      "name": "Sezon 63",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 63,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2022-09-23",
+      "episode_count": 7,
+      "id": 305670,
+      "name": "Sezon 64",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 64,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2023-04-14",
+      "episode_count": 10,
+      "id": 335756,
+      "name": "Sezon 65",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 65,
+      "vote_average": 6.1
+    },
+    {
+      "air_date": "2023-10-06",
+      "episode_count": 10,
+      "id": 359328,
+      "name": "Sezon 66",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 66,
+      "vote_average": 6.1
+    },
+    {
+      "air_date": "2024-04-05",
+      "episode_count": 10,
+      "id": 384819,
+      "name": "Sezon 67",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 67,
+      "vote_average": 6.0
+    },
+    {
+      "air_date": "2024-10-04",
+      "episode_count": 10,
+      "id": 418871,
+      "name": "Sezon 68",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 68,
+      "vote_average": 6.8
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 7.1,
+  "vote_count": 65,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119806,
+        "known_for_department": "Acting",
+        "name": "Paul Merton",
+        "original_name": "Paul Merton",
+        "popularity": 1.351,
+        "profile_path": "/s9YSFw66HOjS4mnWwItSWgl1gCx.jpg",
+        "character": "Self - Team Captain",
+        "credit_id": "57f7b9b69251417463001951",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119805,
+        "known_for_department": "Acting",
+        "name": "Ian Hislop",
+        "original_name": "Ian Hislop",
+        "popularity": 3.748,
+        "profile_path": "/vFZyLNmiJXD7SEFtJu6XHtJEYHX.jpg",
+        "character": "Self - Team Captain",
+        "credit_id": "57f7b9a8c3a3683aa7002886",
+        "order": 2
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "quiz",
+        "id": 6784
+      },
+      {
+        "name": "satire",
+        "id": 8201
+      },
+      {
+        "name": "political satire",
+        "id": 169086
+      },
+      {
+        "name": "panel show",
+        "id": 195207
+      },
+      {
+        "name": "political humor",
+        "id": 199622
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/k8rHcGpNcKbU2myj1eCF74A6SYg.jpg",
+        "id": 1592,
+        "name": "Fifth Gear",
+        "original_name": "Fifth Gear",
+        "overview": "Getting viewers up to speed on all the latest automotive information, with new car reviews, second hand bargains and industry tidbits being the focus of this magazine show.",
+        "poster_path": "/yAxMzWGCuQI1adyPOGNefZHLOIy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 126.444,
+        "first_air_date": "2002-04-08",
+        "vote_average": 5.3,
+        "vote_count": 18,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/2szaiTJ12GiVGeNsBIW0u5wkWLr.jpg",
+        "id": 11089,
+        "name": "Mock the Week",
+        "original_name": "Mock the Week",
+        "overview": "Mock the Week is a British topical celebrity panel game hosted by Dara Ó Briain. The game is influenced by improvised topical stand-up comedy, with several rounds requiring players to deliver answers on unexpected subjects on the spur of the moment.",
+        "poster_path": "/gewfnFndT4mgtgR3zPrGLsBTdZE.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 38.967,
+        "first_air_date": "2005-06-05",
+        "vote_average": 6.974,
+        "vote_count": 76,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/77cbaKPRoRqoKwwq9ErBmOL32sD.jpg",
+        "id": 2601,
+        "name": "Takin' Over the Asylum",
+        "original_name": "Takin' Over the Asylum",
+        "overview": "A salesman starts to run a hospital radio station inside a facility for people with mental heath needs.",
+        "poster_path": "/y8jjCpykDbgyz98K54uRWIZmEo1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 16.867,
+        "first_air_date": "1994-09-27",
+        "vote_average": 8.2,
+        "vote_count": 16,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 683,
+        "name": "The Steph Show",
+        "original_name": "The Steph Show",
+        "overview": "The Steph Show is an Australian reality television series based on singer/actress Stephanie McIntosh. This show premiered on Australian TV at 6pm 28 July 2006 on Network Ten. The show, in the same vein as The Ashlee Simpson Show, had cameras following McIntosh as she recorded her debut album Tightrope which was released on 9 September 2006. The first single \"Mistake\" was released the day after the season premiere. The theme song is \"Tightrope\" by Stephanie McIntosh. The last episode is to coincide with the release of \"Tightrope\".\n\nThe final show was aired on 15 September 2006. The finale included McIntosh shooting the music video for \"Tightrope\".",
+        "poster_path": null,
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [],
+        "popularity": 1.917,
+        "first_air_date": "2006-07-28",
+        "vote_average": 4.0,
+        "vote_count": 1,
+        "origin_country": [
+          "AU"
+        ]
+      },
+      {
+        "backdrop_path": "/5FHVsxPLn1t8w9NEhcucuwSC3yp.jpg",
+        "id": 6000,
+        "name": "Celebrity Juice",
+        "original_name": "Celebrity Juice",
+        "overview": "The outrageous comedy panel show hosted by the irrepressible Keith Lemon. Each episode sees top celebrities going head to head in a series of hilarious rounds unlike any other panel show.",
+        "poster_path": "/5wnYgf4qu8gXmPP9KherAbt2iTD.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 296.162,
+        "first_air_date": "2008-09-24",
+        "vote_average": 6.5,
+        "vote_count": 26,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/wxDMpVXN2xYZtb7oTTGSrP8hWuH.jpg",
+        "id": 21720,
+        "name": "House of Cards",
+        "original_name": "House of Cards",
+        "overview": "Frustrated at a new moderate Conservative government and deprived of a promotion to a senior position, chief whip Francis Urquhart prepares a meticulous plot to bring down the Prime Minister then to take his place.",
+        "poster_path": "/evQlyXJtIjI9QiZUu180RsyWVCV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10768,
+          35,
+          18
+        ],
+        "popularity": 22.915,
+        "first_air_date": "1990-11-18",
+        "vote_average": 8.1,
+        "vote_count": 144,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/erND13jVv79DZqDNIbaysTcGxq.jpg",
+        "id": 4549,
+        "name": "Yes Minister",
+        "original_name": "Yes Minister",
+        "overview": "Satirical sitcom set in the office of a UK Cabinet minister, Jim Hacker MP, who struggles with Civil Service bureaucracy and political machinations as he tries to get on with government business.",
+        "poster_path": "/h5kF0rJaCWuF3nMBTT6IeRU8j2D.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10768
+        ],
+        "popularity": 31.393,
+        "first_air_date": "1980-02-25",
+        "vote_average": 8.3,
+        "vote_count": 146,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/9P0JEvD8HWLvDeNVmclbXu342tC.jpg",
+        "id": 65170,
+        "name": "Bir Evlilikten Manzaralar",
+        "original_name": "Scener ur ett äktenskap",
+        "overview": "Marianne ve Johan'ın on yıllık evliliklerini masaya yatıran film, çiftin ayrılıklarını, evlilik dışı ilişkilerini, barışıp yeniden ayrılmalarını ve en nihayetinde de boşanmalarını konu ediyor.\n\nBoşandıktan sonra bile birbirinden kopamayan Marianne ve Johan çiftinin her görüşmeleri ayrı bir kavgayla sonuçlansa da birbirlerine olan sevgileri şartlar ne olursa olsun galip geliyor.\n\nFilm evlilik hayatıyla ilgili çok önemli kelamlar ederken aynı zamanda izleyiciyi psikolojik olarak Marianne ve Johan'ın ilişkisine hapsediyor. Başta Woody Allen olmak üzere birçok yönetmeni etkileyen Bergman'ın bu filmi aynı zamanda en iyi yabancı film dalında altın küre sahibi.",
+        "poster_path": "/7emUsAq0IUDC2b2bcyHh60rI7Kx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "sv",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 18.934,
+        "first_air_date": "1973-04-11",
+        "vote_average": 8.1,
+        "vote_count": 130,
+        "origin_country": [
+          "SE"
+        ]
+      },
+      {
+        "backdrop_path": "/gTyZ24A6H4YgdYzmJ2VWoYoGTzs.jpg",
+        "id": 1310,
+        "name": "Sanctuary",
+        "original_name": "Sanctuary",
+        "overview": "The adventures of the beautiful, enigmatic and always surprising Dr. Helen Magnus, a brilliant scientist who holds the secrets of a clandestine population called Abnormals—a group of strange and sometimes terrifying beings that hide among humans. Magnus seeks to protect this threatened phenomena as well as unlock the mysteries behind their existence.",
+        "poster_path": "/7KIBYETkRSfHNsfWAWAt7uq7oGm.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10765
+        ],
+        "popularity": 57.588,
+        "first_air_date": "2008-10-03",
+        "vote_average": 7.2,
+        "vote_count": 261,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7VO04TtL1jIT6XOPs9u4jdB8KaB.jpg",
+        "id": 59941,
+        "name": "The Tonight Show Starring Jimmy Fallon",
+        "original_name": "The Tonight Show Starring Jimmy Fallon",
+        "overview": "Emmy ve Grammy ödüllü Jimmy Fallon, yüksek enerjisi ve esprileriyle bir televizyon efsanesi olan \"The Tonight Show\"a damgasını vuruyor. Oyuncudan müzisyene, komedyenden politikacıya çok sayıda renkli ismin katıldığı şovda ünlülerle yapılan skeçler ve müzikal parodiler de eğlencenin dozunu artırıyor.",
+        "poster_path": "/g4amxJvtpnY79J77xeamnAEUO8r.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 3686.848,
+        "first_air_date": "2014-02-17",
+        "vote_average": 5.8,
+        "vote_count": 322,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/edhROlXRob3TopjWJ5898GSvQpI.jpg",
+        "id": 1428,
+        "name": "MythBusters",
+        "original_name": "MythBusters",
+        "overview": "MythBusters, Avustralyalı Beyond Tomorrow Productions tarafından ABD'de Discovery Channel için üretilen bir televizyon programıdır. Program, daha sonra birkaç uluslararası yayıncı ( Avustralya'da SBS, İngiltere'de BBC Two, Türkiye'de Discovery Channel Türkiye) tarafından da yayınlanmıştır. Türkiye'de Efsane Avcıları adı ile yayına verilmiştir. Program, temel bilimsel metodları şehir efsanelerinin, popüler kültürdeki haberlerinin geçerliliğini test etmek için kullanan 30 yıllık özel efektler uzmanları Jamie Hyneman ve Adam Savage tarafından sunulur.\n\nOnlarla beraber Kari Byron,Grant Imahara ve Tory Belleci de yer alır. Ayrıca Türk efsanelerinide Test etmektedirler.",
+        "poster_path": "/lvRnMu00NLGiTPijGZg9CRF3nuY.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 200.913,
+        "first_air_date": "2003-01-23",
+        "vote_average": 7.805,
+        "vote_count": 557,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/w0s1EmnmgkBYMSqZIrYgbiRt3j6.jpg",
+        "id": 1558,
+        "name": "Home Improvement",
+        "original_name": "Home Improvement",
+        "overview": "The daily trials and tribulations of handyman Tim Taylor, a TV show host raising three boys with help from his loyal co-host, domineering wife, and unseen neighbor.",
+        "poster_path": "/sa3J2ZXeg7TiziuXGyfz99HdYDS.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 112.933,
+        "first_air_date": "1991-09-17",
+        "vote_average": 7.393,
+        "vote_count": 638,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/tZmlWeFEMvxrjJhBJJcLNXpSRiG.jpg",
+        "id": 66573,
+        "name": "The Good Place",
+        "original_name": "The Good Place",
+        "overview": "Dizi, erektil disfonksiyon ürünleri taşıyan bir traktörün çarpması sonucu ölen ve öbür tarafta yeniden canlandırılan Eleanor Shellstrop (Kristen Bell) isimli sıradan bir kadını merkezine alır. Ahiretteki yaşantısında kendisinin çok da iyi bir insan olmadığının farkına varır. Ahiret hocası Michael'ın (Ted Danson) yardımıyla içindeki iyi insanı bulmaya ve yeniden sıradan hayatına dönmeye çalışır.",
+        "poster_path": "/qIhsuhoIYR5yTnDta0IL4senbeN.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          35
+        ],
+        "popularity": 141.261,
+        "first_air_date": "2016-09-19",
+        "vote_average": 8.0,
+        "vote_count": 1671,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dZklTql88IDOmkC3JAYQSTgyK6f.jpg",
+        "id": 1920,
+        "name": "Twin Peaks",
+        "original_name": "Twin Peaks",
+        "overview": "1990-91 yıllarında ABC kanalında yayınlanan dizi toplam iki sezon otuz bölüm sürmüştür. Körfez savaşı nedeni ile yayını durdurulmuştur. TV'ye yeniden adaptasyonu sağlanan dizinin senaryosu yine ikili tarafından kaleme alınmış, üretimi ise sahibi oldukları Lynch / Frost Productions şirketi tarafından yapılmaktadır. David Lynch ayrıca yönetmen koltuğunda oturmaktadır.\n\nOrjinal seri, Laura Palmer (Sheryl Lee) isimli bir genç kızın öldürülmesi ile başlar ve sonrasında gelişen olaylar üzerine şekillenir. FBI özel ajanı Dale Cooper (Kyle MacLachlan) cinayeti çözmek ve katili yakalamak için bu küçük kasabaya gönderilir. Başlangıçta masum görünen kasaba insanlarının derinlerine inildikçe karanlık yönleri ortaya çıkar ve farklı bir yaşam sürdükleri görülür.",
+        "poster_path": "/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 185.603,
+        "first_air_date": "1990-04-08",
+        "vote_average": 8.3,
+        "vote_count": 2174,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/u23G9KZregWHs1use6ir1fX27gl.jpg",
+        "id": 81356,
+        "name": "Sex Education",
+        "original_name": "Sex Education",
+        "overview": "Öz güvensiz Otis, terapist annesi sayesinde cinsel tavsiyeler hakkında her şeyi bilmektedir. Öyle ki asi Maeve ona okulda bir seks terapisi kliniği açmayı teklif eder.",
+        "poster_path": "/vDPxd8umSGkkhCO7eA1yML1zT1o.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 363.618,
+        "first_air_date": "2019-01-11",
+        "vote_average": 8.239,
+        "vote_count": 7399,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/sccDflItNho4OiHkzpiDxB2fUFw.jpg",
+        "id": 1418,
+        "name": "The Big Bang Theory",
+        "original_name": "The Big Bang Theory",
+        "overview": "En büyük zevkleri kuantum fiziğine kafa yormak olan üstün zekalı iki arkadaş, güzel bir kızla karşılaşınca ne yaparlar? The Big Bang Theory, işte o karşılaşma anında gerçekleşen büyük patlama ve sonrasını anlatan bir komedi dizisi. Leonard ve Sheldon adlarındaki iki arkadaşın oturdukları apartmanda yan dairelerine yeni bir komşu taşınır. Adı Penny olan bu komşu güzeller güzeli bir sarışındır. Üstelik maceralı bir ilişkiden daha yeni sapasağlam ayakta çıkmıştır. Penny, zekaları gereğinden fazla ilerlemiş, ancak kızlar konusunda oldukça geri kalmış bu yeni iki komşusuna hayat hakkında öğretebileceği bir şeyleri olduğunu düşünmektedir. Yaşanacak olanlar da zaman içinde onun ne kadar haklı olduğunu gösterecektir. ",
+        "poster_path": "/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 222.02,
+        "first_air_date": "2007-09-24",
+        "vote_average": 7.91,
+        "vote_count": 11545,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/pxeqQX4qFQ0cVxPt5SWZENV5BH3.jpg",
+        "id": 456,
+        "name": "The Simpsons",
+        "original_name": "The Simpsons",
+        "overview": "Bu animasyon komedi Springfield'de diziye adını veren aileye odaklanıyor. Baba Homer tipik bir aile babası değil. Nükleer santralde çalışarak ailesine liderlik etmeye çabalıyor ancak çoğu zaman ailesi onu yönetiyor. Sevgi dolu, mavi saçlı aile reisi anne Marge, sorun çıkaran oğlu Bart, çok başarılı kızı Lisa ve bebek Maggie ailenin diğer fertleri.",
+        "poster_path": "/vHqeLzYl3dEAutojCO26g0LIkom.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          16,
+          35
+        ],
+        "popularity": 834.384,
+        "first_air_date": "1989-12-17",
+        "vote_average": 8.015,
+        "vote_count": 10085,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9faGSFi5jam6pDWGNd0p8JcJgXQ.jpg",
+        "id": 1396,
+        "name": "Breaking Bad",
+        "original_name": "Breaking Bad",
+        "overview": "Kanserden öleceğini öğrenen bir kimya öğretmeni, ailesinin geleceğini garanti altına almak için metamfetamin üretip satmak üzere eski bir öğrencisiyle kafa kafaya verir.",
+        "poster_path": "/ineLOBPG8AZsluYwnkMpHRyu7L.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 540.297,
+        "first_air_date": "2008-01-20",
+        "vote_average": 8.9,
+        "vote_count": 15143,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/nDOIsgCYZqEMvomSR6t9QUIPZJS.jpg",
+        "id": 60622,
+        "name": "Fargo",
+        "original_name": "Fargo",
+        "overview": "Fargo, Noah Hawley tarafından yazılmış ABD yapımı kara mizah, suç filmi türü bir dizidir. Dizi aynı ismi taşıyan 1996 yapımı Coen kardeşler tarafından yönetilmiş ve birçok ödül kazanan Fargo'dan esinlenilmiştir.",
+        "poster_path": "/6U9CPeD8obHzweikFhiLhpc7YBT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 267.536,
+        "first_air_date": "2014-04-15",
+        "vote_average": 8.3,
+        "vote_count": 2801,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uJUe985oIuRiD3hmHQYskIMc2WU.jpg",
+        "id": 62560,
+        "name": "Mr. Robot",
+        "original_name": "Mr. Robot",
+        "overview": "Gündüz yazılım güvenliği şirketinde çalışan geceleri ise sanal evrenin kahramanı olan Elliot'ın heyecan dolu dünyasına giriş yapmaya hazır olun! Merak uyandıran senaryosuyla başarılı bir psikolojik gerilim olan dizide, başroldeki Rami Malek'e Mr.Robot rolünde ünlü aktör Christian Slater eşlik ediyor.",
+        "poster_path": "/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 117.18,
+        "first_air_date": "2015-06-24",
+        "vote_average": 8.2,
+        "vote_count": 4762,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

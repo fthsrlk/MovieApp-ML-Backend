@@ -1,0 +1,970 @@
+{
+  "adult": false,
+  "backdrop_path": "/6gN8DYnIEln8v7OhRy61c57w0Xy.jpg",
+  "created_by": [
+    {
+      "id": 2347147,
+      "credit_id": "6088c7ca2da8460057c88d59",
+      "name": "John Griffin",
+      "original_name": "John Griffin",
+      "gender": 2,
+      "profile_path": "/lAIA3ECbx2ZtMUiOyqTbWNvKTdO.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2022-02-20",
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Gizem"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 10765,
+      "name": "Bilim Kurgu & Fantazi"
+    }
+  ],
+  "homepage": "https://www.mgmplus.com/series/from",
+  "id": 124364,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2024-11-24",
+  "last_episode_to_air": {
+    "id": 5560984,
+    "name": "Revelations: Chapter Two",
+    "overview": "Boyd, sevdiği biri için zaman tükenmeye başlayınca sınırlarına dayanıyor. Tabitha'nın beklenmedik yolculuğu şok edici bir hal alıyor.",
+    "vote_average": 7.9,
+    "vote_count": 17,
+    "air_date": "2024-11-24",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 58,
+    "season_number": 3,
+    "show_id": 124364,
+    "still_path": "/91QkMMvQen7ADfGZQhyxWttPccJ.jpg"
+  },
+  "name": "FROM",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 922,
+      "logo_path": "/9aH86hGHVQfvhAqrDRv1EINoxua.png",
+      "name": "Epix",
+      "origin_country": "US"
+    },
+    {
+      "id": 6219,
+      "logo_path": "/89TXvQzvoKvyqD9EEogohzMJ8D6.png",
+      "name": "MGM+",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 30,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "FROM",
+  "overview": "Amerika Birleşik Devletleri'nin ortasındaki kabus gibi bir şehir, içine giren herkesi tuzağa düşürür. Kasaba sakinleri, normallik duygusunu sürdürmek ve bir çıkış yolu aramak için savaşırken, güneş battığında ortaya çıkan korkunç yaratıklar da dahil olmak üzere, çevredeki ormandan gelen tehditlere karşı da hayatta kalmak için çabalar.",
+  "popularity": 101.6755,
+  "poster_path": "/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg",
+  "production_companies": [
+    {
+      "id": 106544,
+      "logo_path": "/psd84iF7PTGrKf4yFOStKj8JbAh.png",
+      "name": "AGBO",
+      "origin_country": "US"
+    },
+    {
+      "id": 51593,
+      "logo_path": "/qkmCZvtCAbNmRto9RdOd2mRm1IB.png",
+      "name": "Midnight Radio",
+      "origin_country": "US"
+    },
+    {
+      "id": 6805,
+      "logo_path": "/4774MDXAu1vsapNyTv1LK3S5Ww1.png",
+      "name": "Epix",
+      "origin_country": "US"
+    },
+    {
+      "id": 2230,
+      "logo_path": "/igOjospzsKQIbpuFCGhoN5F9icS.png",
+      "name": "MGM Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-02-20",
+      "episode_count": 10,
+      "id": 192632,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/ps46NdLlH70ptDD8ailTL8TCZU3.jpg",
+      "season_number": 1,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2023-04-23",
+      "episode_count": 10,
+      "id": 323757,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/cJmfLHnF95XkoIr9as2bBK5cPeK.jpg",
+      "season_number": 2,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2024-09-22",
+      "episode_count": 10,
+      "id": 391491,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/sj64QEEb6JM1CdCfXHaIbA3WPx8.jpg",
+      "season_number": 3,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 430163,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.192,
+  "vote_count": 1910,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6195,
+        "known_for_department": "Acting",
+        "name": "Harold Perrineau",
+        "original_name": "Harold Perrineau",
+        "popularity": 3.3119,
+        "profile_path": "/bVSLpGUaislREbujmknOqadrxYM.jpg",
+        "character": "Boyd Stevens",
+        "credit_id": "609c6e684202280029b1efdb",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5887,
+        "known_for_department": "Acting",
+        "name": "Catalina Sandino Moreno",
+        "original_name": "Catalina Sandino Moreno",
+        "popularity": 2.0116,
+        "profile_path": "/78V4H40NXJ6dzqFZaEe1fBelw56.jpg",
+        "character": "Tabitha Matthews",
+        "credit_id": "60ac0ee73d35570029dfbc54",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7498,
+        "known_for_department": "Acting",
+        "name": "Eion Bailey",
+        "original_name": "Eion Bailey",
+        "popularity": 2.3503,
+        "profile_path": "/3DW13W47cKk4LQZwS4EvRaNBoVu.jpg",
+        "character": "Jim Matthews",
+        "credit_id": "609c6e76e272600040baec0e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60089,
+        "known_for_department": "Acting",
+        "name": "David Alpay",
+        "original_name": "David Alpay",
+        "popularity": 1.9113,
+        "profile_path": "/ezGCb3pOtEDZy3QNZxX6bQtKWiY.jpg",
+        "character": "Jade",
+        "credit_id": "621377d53f48330044705bc8",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 108895,
+        "known_for_department": "Acting",
+        "name": "Elizabeth Saunders",
+        "original_name": "Elizabeth Saunders",
+        "popularity": 2.0358,
+        "profile_path": "/h6Wv6kDvXIvQibFpSzAONKNinmT.jpg",
+        "character": "Donna",
+        "credit_id": "621377f796670e006bac065a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 124315,
+        "known_for_department": "Acting",
+        "name": "Scott McCord",
+        "original_name": "Scott McCord",
+        "popularity": 1.5995,
+        "profile_path": "/dvuRt2P2tWemEZpSWKvl60TGa2l.jpg",
+        "character": "Victor",
+        "credit_id": "6213783b0bb0760043fc843a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1927025,
+        "known_for_department": "Acting",
+        "name": "Ricky He",
+        "original_name": "Ricky He",
+        "popularity": 1.0454,
+        "profile_path": "/ib7G6gYrJqSWMk2kX93ygVlrSPX.jpg",
+        "character": "Kenny Liu",
+        "credit_id": "62137850a39d0b006c1bb391",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2520942,
+        "known_for_department": "Acting",
+        "name": "Chloe Van Landschoot",
+        "original_name": "Chloe Van Landschoot",
+        "popularity": 0.8026,
+        "profile_path": "/9sQDQxKcp0UAl5nKfeoHwcn3eGs.jpg",
+        "character": "Kristi",
+        "credit_id": "6213785f8138310042d58311",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3437121,
+        "known_for_department": "Acting",
+        "name": "Pegah Ghafoori",
+        "original_name": "Pegah Ghafoori",
+        "popularity": 0.7792,
+        "profile_path": "/88btGY5LWHRcHgS2GPq5SxJesQe.jpg",
+        "character": "Fatima",
+        "credit_id": "6213787ac9044c0042af7092",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2710310,
+        "known_for_department": "Acting",
+        "name": "Corteon Moore",
+        "original_name": "Corteon Moore",
+        "popularity": 0.7144,
+        "profile_path": "/6jHlhaUdAOKEMmODVyQOQB4YMwY.jpg",
+        "character": "Ellis Stevens",
+        "credit_id": "6213789220e6a50042c128df",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2578201,
+        "known_for_department": "Acting",
+        "name": "Avery Konrad",
+        "original_name": "Avery Konrad",
+        "popularity": 1.1597,
+        "profile_path": "/hiyJ1IUgy3C7rcp5D5hoqTz4JCZ.jpg",
+        "character": "Sara Myers",
+        "credit_id": "621378c541465c0044beb588",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1562430,
+        "known_for_department": "Acting",
+        "name": "Hannah Cheramy",
+        "original_name": "Hannah Cheramy",
+        "popularity": 2.7316,
+        "profile_path": "/7IzmZPgIpWazmvAWJKfISL2Wtnu.jpg",
+        "character": "Julie Matthews",
+        "credit_id": "621378a4a39d0b006c1bb3ec",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3118207,
+        "known_for_department": "Acting",
+        "name": "Simon Webster",
+        "original_name": "Simon Webster",
+        "popularity": 1.1301,
+        "profile_path": "/dU4EECKoDEPL2OoSWbwQyvUEtny.jpg",
+        "character": "Ethan Matthews",
+        "credit_id": "619ec67c5e120000244c9677",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3437125,
+        "known_for_department": "Acting",
+        "name": "Elizabeth Moy",
+        "original_name": "Elizabeth Moy",
+        "popularity": 0.3041,
+        "profile_path": "/qanDyzwpag6V0NJWgIA3TcOaSJO.jpg",
+        "character": "Tian-Chen Liu",
+        "credit_id": "6213797041465c0044beb66e",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 58803,
+        "known_for_department": "Acting",
+        "name": "Deborah Grover",
+        "original_name": "Deborah Grover",
+        "popularity": 1.5689,
+        "profile_path": "/pujVIRIuWJ8VHeamg63uTGpGHWo.jpg",
+        "character": "Tillie",
+        "credit_id": "66f1a92cc237258e4c26a4e7",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1449399,
+        "known_for_department": "Acting",
+        "name": "Angela Moore",
+        "original_name": "Angela Moore",
+        "popularity": 1.2239,
+        "profile_path": "/cPlZik5dw5M5dpNNweSh48UQlEi.jpg",
+        "character": "Bakta",
+        "credit_id": "67056d585c00a2d44ec0288f",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1503397,
+        "known_for_department": "Acting",
+        "name": "Kaelen Ohm",
+        "original_name": "Kaelen Ohm",
+        "popularity": 0.8322,
+        "profile_path": "/fTP7wslxx24MGEfsBK76HmlUcPp.jpg",
+        "character": "Mari",
+        "credit_id": "66f1a9ac7ff2bf57cd26c0c3",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2194626,
+        "known_for_department": "Acting",
+        "name": "A.J. Simmons",
+        "original_name": "A.J. Simmons",
+        "popularity": 1.1915,
+        "profile_path": "/AhUqWdIOaVLXIVIpPGczacGRTEl.jpg",
+        "character": "Randall",
+        "credit_id": "66f1a9c47ff2bf57cd26c0d4",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3705079,
+        "known_for_department": "Acting",
+        "name": "Nathan D. Simmons",
+        "original_name": "Nathan D. Simmons",
+        "popularity": 0.172,
+        "profile_path": "/eqkFqZ8giFQPeMjrOiSQcT2QA6z.jpg",
+        "character": "Elgin",
+        "credit_id": "66f1a9d4de2d52dfbd8d3e83",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19976,
+        "known_for_department": "Acting",
+        "name": "Robert Joy",
+        "original_name": "Robert Joy",
+        "popularity": 2.3111,
+        "profile_path": "/kPY9ggs4qCi3oeEvkYP17Yvfm5r.jpg",
+        "character": "Henry",
+        "credit_id": "66f1a9e6de2d52dfbd8d3e92",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1785654,
+        "known_for_department": "Acting",
+        "name": "Samantha Brown",
+        "original_name": "Samantha Brown",
+        "popularity": 0.9195,
+        "profile_path": "/s8shUKGCNBCxnKeGHwV3wP0HpIS.jpg",
+        "character": "Acosta",
+        "credit_id": "67056d8d2ae7eb9084c026eb",
+        "order": 24
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "sheriff",
+        "id": 798
+      },
+      {
+        "name": "small town",
+        "id": 1415
+      },
+      {
+        "name": "forest",
+        "id": 5774
+      },
+      {
+        "name": "priest",
+        "id": 10093
+      },
+      {
+        "name": "gore",
+        "id": 10292
+      },
+      {
+        "name": "trapped",
+        "id": 18029
+      },
+      {
+        "name": "hostile",
+        "id": 201864
+      },
+      {
+        "name": "city ruin",
+        "id": 213987
+      },
+      {
+        "name": "city nights",
+        "id": 217346
+      },
+      {
+        "name": "supernatural horror",
+        "id": 256183
+      },
+      {
+        "name": "lovecraftian",
+        "id": 287274
+      },
+      {
+        "name": "suspense",
+        "id": 288394
+      },
+      {
+        "name": "fictional city",
+        "id": 293961
+      },
+      {
+        "name": "violence",
+        "id": 312898
+      },
+      {
+        "name": "horror",
+        "id": 315058
+      },
+      {
+        "name": "horrified",
+        "id": 325825
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/4XccmjsOmQZw8S2iW1wvlvmb5v1.jpg",
+        "id": 125988,
+        "name": "Silo",
+        "original_name": "Silo",
+        "overview": "Mahvolmuş ve zehirli bir gelecekte, binlerce kişi yeraltının derinliklerindeki dev bir siloda yaşamaktadır. Silo'nun şerifi temel bir kuralı çiğnedikten ve sakinler gizemli bir şekilde ölmeye başladıktan sonra mühendis Juliette, Silo hakkındaki şok edici sırları ve gerçeği ortaya çıkarmaya başlar.",
+        "poster_path": "/c2OijvbFEXBW1onbzuvENr4CGQB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 59.4093,
+        "first_air_date": "2023-05-04",
+        "vote_average": 8.168,
+        "vote_count": 1547,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/3FVvYhS8lmS9UN3UxBc1Kj8OxLb.jpg",
+        "id": 117488,
+        "name": "Yellowjackets",
+        "original_name": "Yellowjackets",
+        "overview": "Dizi, kuzeyin derinliklerinde gerçekleşen bir uçak kazasından kurtulan bir lise kız futbol takımının hikayesini konu ediyor. Lise futbol takımında forma giyen yetenekli oyuncular, korkunç bir uçak kazasından sağ kurtulur. Ancak onlar için yaşam savaşı yeni başlar.",
+        "poster_path": "/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 18.1551,
+        "first_air_date": "2021-11-14",
+        "vote_average": 7.501,
+        "vote_count": 814,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/tUdqnpN03fQFWAe5O7d61O2lNkr.jpg",
+        "id": 247518,
+        "name": "Grotesquerie",
+        "original_name": "Grotesquerie",
+        "overview": "Bir dizi çirkin suç küçük bir topluluğu tedirgin etmiştir ve Dedektif Lois Tryon bu suçların korkutucu derecede kişisel olduğunu, sanki birinin ya da bir şeyin kendisiyle alay ettiğini hisseder.",
+        "poster_path": "/oskgLp7inXPU9NgfL2NWRW0KK2e.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          80
+        ],
+        "popularity": 6.9342,
+        "first_air_date": "2024-09-25",
+        "vote_average": 7.3,
+        "vote_count": 175,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/tYLXJW1sZQU09VWY1BhSVPKGIwc.jpg",
+        "id": 138501,
+        "name": "Agatha All Along",
+        "original_name": "Agatha All Along",
+        "overview": "Kötü şöhretli Agatha Harkness, şüpheli bir gotik gencin onu kötü bir büyüden kurtarmasına yardım etmesinin ardından kendini güçten düşmüş halde bulur. Gencin onu efsanevi Cadılar Yolu'na götürmesi için yalvarması Agatha'nın ilgisini çeker; bu yol aşılabildiğinde cadıları onlarda eksik olan şeyle ödüllendiren büyülü bir sınama yoludur. Agatha ve bu gizemli genç birlikte ümitsiz bir cadı meclisi kurar ve yola çıkar.",
+        "poster_path": "/e6e2Nm2PvsOS7ysEO0l26sw8jB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          9648
+        ],
+        "popularity": 15.9119,
+        "first_air_date": "2024-09-18",
+        "vote_average": 7.657,
+        "vote_count": 747,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2mj9C1wiIDFaxQXAfKYDfXvbeAz.jpg",
+        "id": 90228,
+        "name": "Dune: Prophecy",
+        "original_name": "Dune: Prophecy",
+        "overview": "Sıradışı yeteneklere sahip Bene Gesserit kadınları, zihinleri ve vücutlarını tamamen kendi kontrollerinde yönetebilmek için eğitim alarak insanlığı kendi planlarına göre yönlendirebilecektir. Yetenekleri sayesinde imparatorluğun politikalarına karşı koymayı başaran bu zeki birlik nihayetinde kendilerini, Dune adını verdikleri karmaşık bir gezegen olan Arrakis'te bulurlar.",
+        "poster_path": "/5B8Cxz8ZZXp3w2WmmdKTXpkS24e.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 18.6144,
+        "first_air_date": "2024-11-17",
+        "vote_average": 7.5,
+        "vote_count": 391,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/pIGLdSGbdBAKu5diYFkU5nLpXkI.jpg",
+        "id": 197125,
+        "name": "Constellation",
+        "original_name": "Constellation",
+        "overview": "Uluslararası Uzay İstasyonu'nda ölümcül bir kaza meydana geldiğinde yalnız bir astronot Dünya'ya kahramanca bir dönüş yolculuğu yapar, ancak küçük kızı da dâhil olmak üzere hayatının önemli parçalarının değiştiğini fark eder.",
+        "poster_path": "/21ICs3fxlxGslbzS4moCHk9HNo6.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          9648,
+          18
+        ],
+        "popularity": 8.7746,
+        "first_air_date": "2024-02-21",
+        "vote_average": 7.157,
+        "vote_count": 280,
+        "origin_country": [
+          "DE",
+          "FR",
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/ijRiyqrXUzrF77INhtzvSS6V6qG.jpg",
+        "id": 226637,
+        "name": "High Potential",
+        "original_name": "High Potential",
+        "overview": "Olağanüstü bir zekaya sahip bekar bir anne, suçları çözmedeki sıra dışı yeteneği ile ve kurallara sıkı sıkıya bağlı bir dedektifin desteğiyle alışılmadık bir ortaklığa adım atar.",
+        "poster_path": "/sEWC7lzVKfuwXhzdahW4AX1F05s.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 28.9532,
+        "first_air_date": "2024-09-17",
+        "vote_average": 8.018,
+        "vote_count": 219,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5AvZxT1BtPyP9ua1SjcUyWUMIiz.jpg",
+        "id": 261579,
+        "name": "Gizli Seviye",
+        "original_name": "Secret Level",
+        "overview": "Gizli Seviye, yetişkinlere yönelik, yeni bir anime antoloji dizisi. Dünyanın en sevilen bazı video oyunlarının orijinal hikâyelerini konu alıyor. LOVE, DEATH + ROBOTS'un arkasındaki yaratıcı zihinlerin ürünü olan 15 bölümün her biri, oyun ve oyuncular için bir şölen niteliğinde.",
+        "poster_path": "/1iNdSrZDDiET0qoROd3bXcedBmI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10765,
+          10759
+        ],
+        "popularity": 21.1956,
+        "first_air_date": "2024-12-10",
+        "vote_average": 7.5,
+        "vote_count": 347,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qq36sU5xH581RiNEkookMQ9D7yp.jpg",
+        "id": 194764,
+        "name": "The Penguin",
+        "original_name": "The Penguin",
+        "overview": "Oswald Chesterfield Cobblepot nam-ı diğer Penguen'in, Gotham Şehri'nin yeraltı suç dünyasındaki yükselişinin hikayesi.",
+        "poster_path": "/vOWcqC4oDQws1doDWLO7d3dh5qc.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 18.238,
+        "first_air_date": "2024-09-19",
+        "vote_average": 8.46,
+        "vote_count": 922,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/oZMEWCcnFWGdp4W4ICdJgkw1RYf.jpg",
+        "id": 90669,
+        "name": "1899",
+        "original_name": "1899",
+        "overview": "1899'da New York'a doğru yola çıkan bir göçmen gemisi gizemli olaylar nedeniyle rotasını değiştirince, şaşkına dönen yolcular akılalmaz bir bilmeceyle karşı karşıya kalır.",
+        "poster_path": "/qmpUDEgZawIlDU5HP3IJ9HjnpI3.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          9648,
+          18
+        ],
+        "popularity": 5.9014,
+        "first_air_date": "2022-11-17",
+        "vote_average": 7.539,
+        "vote_count": 1323,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "backdrop_path": "/jBFOVEE5sMIyT141YIqIwyU8Y1D.jpg",
+        "id": 116799,
+        "name": "Güneşin Karanlığında",
+        "original_name": "The Lincoln Lawyer",
+        "overview": "Bir kaza sonrası gözden düşen Los Angeleslı yetenekli avukat Mickey Haller, aldığı cinayet davasıyla kendiyle özdeşleşen Lincoln'ünde kariyerine yeni bir başlangıç yapar.",
+        "poster_path": "/los3u8RGDdylr0NUQMHfHAT8lsf.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 16.9122,
+        "first_air_date": "2022-05-13",
+        "vote_average": 7.679,
+        "vote_count": 360,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/j45FEq8BPUJDVm3cGIQye0tqPpL.jpg",
+        "id": 157004,
+        "name": "Goosebumps",
+        "original_name": "Goosebumps",
+        "overview": "R.L. Stine'ın dünya çapında çok satan kitap serisinden esinlenen \"Goosebumps\", beş liseli gencin, Harold Biddle adlı bir gencin otuz yıl önceki trajik ölümünü araştırmak için çıktıkları karanlık ve ters köşelerle dolu macerayı ve ebeveynlerinin geçmişi hakkında ortaya çıkardıkları karanlık sırları konu alıyor.",
+        "poster_path": "/pMrMPlEJAGAKBUWJzeacIwjRU2C.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          35
+        ],
+        "popularity": 7.7431,
+        "first_air_date": "2023-10-13",
+        "vote_average": 7.196,
+        "vote_count": 184,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/kkT2B2gmynoh9kZMo1gromLNeqy.jpg",
+        "id": 138503,
+        "name": "Your Friendly Neighborhood Spider-Man",
+        "original_name": "Your Friendly Neighborhood Spider-Man",
+        "overview": "Peter Parker kahraman olma yolundadır ama bu yol hiç sıradan değildir.",
+        "poster_path": "/kjcsNeqF52YUQ2rUBGLMHwLkxvR.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          10765,
+          35
+        ],
+        "popularity": 13.7371,
+        "first_air_date": "2025-01-29",
+        "vote_average": 7.8,
+        "vote_count": 172,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/eF3pfdinIPjXz3IXqezlGMFmkPL.jpg",
+        "id": 99002,
+        "name": "PIECES OF HER",
+        "original_name": "PIECES OF HER",
+        "overview": "Bir kadın, yaşadığı küçük kasabadaki vahşi bir saldırının gizli tehlikeleri ve ölümcül sırları açığa çıkarmasıyla annesinin karanlık geçmişine dair parçaları birleştirir.",
+        "poster_path": "/nl94OTanC4udTHARATW7yet3MiB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          9648,
+          18
+        ],
+        "popularity": 4.5208,
+        "first_air_date": "2022-03-04",
+        "vote_average": 6.4,
+        "vote_count": 166,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/bGcMuFVzW0LitMJWSzp4EjmzQ0b.jpg",
+        "id": 226529,
+        "name": "Light Shop",
+        "original_name": "조명가게",
+        "overview": "Light Shop, geçmişlerindeki korkunç bir deneyimi işlemekte zorluk çeken bir grup yabancının hikayesini konu ediyor. Her biri normal hayatlarına devam ederken, hepsi şüpheli bir sokağın sonunda bulunan bir ışık dükkanına garip bir şekilde çekilirler. Dikkatli bir dükkan sahibi, yabancıların geçmişlerinin, bugünlerinin ve geleceklerinin anahtarını içerebilecek olan ışık dükkanını korur.",
+        "poster_path": "/iRgH73xibpeNZ8zzPDkIpxuoKgC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          9648,
+          18
+        ],
+        "popularity": 9.388,
+        "first_air_date": "2024-12-04",
+        "vote_average": 8.398,
+        "vote_count": 166,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/ccOzCmrglAjRGtqv5ClTaBEsWt8.jpg",
+        "id": 120998,
+        "name": "Poker Face",
+        "original_name": "Poker Face",
+        "overview": "Natasha Lyonne'un canlandırdığı Charlie, yalan söylendiğini anlama konusunda olağanüstü bir yeteneğe sahiptir. Plymouth Barracuda'sıyla çıktığı yolda, her durakta yeni karakterler ve garip suçlarla karşılaşır.",
+        "poster_path": "/8Xm5dyMQC9whMJKnGdFugUAW73C.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          80
+        ],
+        "popularity": 44.4506,
+        "first_air_date": "2023-01-26",
+        "vote_average": 7.7,
+        "vote_count": 351,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/37uTdjd7s4FA8uQsN5LqwXr3MRF.jpg",
+        "id": 280043,
+        "name": "Cóyotl, Hero and Beast",
+        "original_name": "Cóyotl, héroe y bestia",
+        "overview": "In a small town in northern Mexico, where two drug cartels rule, the young man Lupe embraces his dangerous fate. He transforms into Coyotl, a mythical creature that is half man and half beast. With this transformation, Lupe wants to become the protector his people so desperately need.",
+        "poster_path": "/5td7p5eV8JqrvaE62XUtAmu2tU8.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          10759,
+          10765,
+          18
+        ],
+        "popularity": 17.6672,
+        "first_air_date": "2025-02-27",
+        "vote_average": 7.712,
+        "vote_count": 52,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/3zo3YWYb78twGI3bC7kNrnV3GRJ.jpg",
+        "id": 247721,
+        "name": "Teacup",
+        "original_name": "Teacup",
+        "overview": "Teacup, Georgia'nın kırsal kesimindeki bir çiftlikte mahsur kalan bir grup komşunun hikayesini anlatıyor. Bu komşular, birbirlerinden oldukça farklı geçmişlere ve yaşamlara sahip olsalar da gizemli ve ölümcül bir tehdit karşısında birleşmek zorunda kalırlar. Dizi, hayatta kalma mücadelesi, topluluk içi ilişkiler ve insanın doğaya karşı mücadelesini konu alarak izleyicilere gerilim dolu bir deneyim sunuyor.",
+        "poster_path": "/cP5zuQvWAFrgWptS0iXvDI3iND.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          10765,
+          18
+        ],
+        "popularity": 8.3102,
+        "first_air_date": "2024-10-10",
+        "vote_average": 7.1,
+        "vote_count": 144,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zHdQ6yaqDf3OQO5uhr0auAgwK6O.jpg",
+        "id": 107365,
+        "name": "Bel-Air",
+        "original_name": "Bel-Air",
+        "overview": "The journey of a book smart teen whose life is forever transformed when he moves from the streets of west Philadelphia to live with his relatives in one of LA’s wealthiest suburbs.",
+        "poster_path": "/j8tbXWXrL15RucA6H4khq87dEXa.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 13.164,
+        "first_air_date": "2022-02-13",
+        "vote_average": 7.843,
+        "vote_count": 242,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/kvQE5pvZZWCIQ0uAQvzRmQO3nZM.jpg",
+        "id": 231344,
+        "name": "Los 50",
+        "original_name": "Los 50",
+        "overview": "Fifty TV stars are single handedly picked by a mysterious, masked Lion to participate in a competition like no other. Living together in an exotic country mansion and competing against each other in a relentless and unpredictable game, the stars must face challenges posed by the game master while making alliances and developing strategies to avoid elimination.",
+        "poster_path": "/5u4lYLk0kDf6XTUIENhXkaUV2jQ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 1.3465,
+        "first_air_date": "2023-07-18",
+        "vote_average": 6.8,
+        "vote_count": 29,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

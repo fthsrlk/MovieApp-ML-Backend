@@ -1,0 +1,1118 @@
+{
+  "adult": false,
+  "backdrop_path": "/pxeqQX4qFQ0cVxPt5SWZENV5BH3.jpg",
+  "created_by": [
+    {
+      "id": 5741,
+      "credit_id": "5256bdc619c2956ff6001be4",
+      "name": "Matt Groening",
+      "original_name": "Matt Groening",
+      "gender": 2,
+      "profile_path": "/2HmAw3AN93DGESPi3ibLZgBa8cT.jpg"
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "1989-12-17",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Aile"
+    },
+    {
+      "id": 16,
+      "name": "Animasyon"
+    },
+    {
+      "id": 35,
+      "name": "Komedi"
+    }
+  ],
+  "homepage": "https://www.fox.com/the-simpsons/",
+  "id": 456,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-05-04",
+  "last_episode_to_air": {
+    "id": 6140318,
+    "name": "16. Bölüm",
+    "overview": "",
+    "vote_average": 6.0,
+    "vote_count": 2,
+    "air_date": "2025-05-04",
+    "episode_number": 16,
+    "episode_type": "standard",
+    "production_code": "36ABF09",
+    "runtime": 22,
+    "season_number": 36,
+    "show_id": 456,
+    "still_path": "/pi5cDcf6t4x6LDMCVDITFG1U842.jpg"
+  },
+  "name": "The Simpsons",
+  "next_episode_to_air": {
+    "id": 6140319,
+    "name": "17. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-05-11",
+    "episode_number": 17,
+    "episode_type": "standard",
+    "production_code": "36ABF10",
+    "runtime": 22,
+    "season_number": 36,
+    "show_id": 456,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 19,
+      "logo_path": "/1DSpHrWyOORkL9N2QHX7Adt31mQ.png",
+      "name": "FOX",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 786,
+  "number_of_seasons": 36,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Simpsons",
+  "overview": "Bu animasyon komedi Springfield'de diziye adını veren aileye odaklanıyor. Baba Homer tipik bir aile babası değil. Nükleer santralde çalışarak ailesine liderlik etmeye çabalıyor ancak çoğu zaman ailesi onu yönetiyor. Sevgi dolu, mavi saçlı aile reisi anne Marge, sorun çıkaran oğlu Bart, çok başarılı kızı Lisa ve bebek Maggie ailenin diğer fertleri.",
+  "popularity": 182.262,
+  "poster_path": "/l8KFfRLiS7ECtbq2nydD7tQ96A2.jpg",
+  "production_companies": [
+    {
+      "id": 18,
+      "logo_path": "/uqhagSwM7NAkQWVCQhKTyoqF8XH.png",
+      "name": "Gracie Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 1556,
+      "logo_path": "/31h94rG9hzjprXoYNy3L1ErUya2.png",
+      "name": "20th Century Fox Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 154887,
+      "logo_path": "/wLFPu95hIMmyLR5hdtvYaMuK0tG.png",
+      "name": "20th Television Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 236166,
+      "logo_path": "/8rFlu5iytnjsciYXZDw90ktllCI.png",
+      "name": "20th Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1987-04-17",
+      "episode_count": 82,
+      "id": 3581,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/oICoFoPJuEk5VJbEP2HYLEmEQi3.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1989-12-17",
+      "episode_count": 13,
+      "id": 3582,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/t544zSFUNyvmyeP4sHotlcEX3zH.jpg",
+      "season_number": 1,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "1990-10-11",
+      "episode_count": 22,
+      "id": 3583,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/bRyDlUQQafSoIT052jpjLBMe8TH.jpg",
+      "season_number": 2,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "1991-09-19",
+      "episode_count": 24,
+      "id": 3584,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/9ghmIhWJJuTx3UHyfVVBXQoUGvI.jpg",
+      "season_number": 3,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "1992-09-24",
+      "episode_count": 22,
+      "id": 3585,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/voqu5a4drV1CXMjjZ0Mkw35n26l.jpg",
+      "season_number": 4,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "1993-09-30",
+      "episode_count": 22,
+      "id": 3586,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/9O7tIcS2KZk1ukMq3aOvoj8KIJZ.jpg",
+      "season_number": 5,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "1994-09-04",
+      "episode_count": 25,
+      "id": 3587,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/qD20BnTxIdF1rcnX4BARmFshzKA.jpg",
+      "season_number": 6,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "1995-09-17",
+      "episode_count": 25,
+      "id": 3588,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/blCeZS6BmN3wwmF40fuCZSeFwbB.jpg",
+      "season_number": 7,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "1996-10-27",
+      "episode_count": 25,
+      "id": 3589,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/xLebCxRHSwXBW39a4OLmMSGChLs.jpg",
+      "season_number": 8,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "1997-09-21",
+      "episode_count": 25,
+      "id": 3590,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/6PTYyLD8bSiNZf1PFdCQ9JyiIFW.jpg",
+      "season_number": 9,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "1998-08-23",
+      "episode_count": 23,
+      "id": 3591,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/A77xKuxA13aXA1mQd6YLAaTIErK.jpg",
+      "season_number": 10,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "1999-09-26",
+      "episode_count": 22,
+      "id": 3592,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/7lgnlOENoCdub15UijLKTHawyhm.jpg",
+      "season_number": 11,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "2000-11-01",
+      "episode_count": 21,
+      "id": 3593,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",
+      "season_number": 12,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "2001-11-06",
+      "episode_count": 22,
+      "id": 3594,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": "/xflc3aV1SbP2bGeZNuu4AG6cIqH.jpg",
+      "season_number": 13,
+      "vote_average": 6.3
+    },
+    {
+      "air_date": "2002-11-03",
+      "episode_count": 22,
+      "id": 3595,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": "/9IowK57TpeO09D4B46jd4J3wjPO.jpg",
+      "season_number": 14,
+      "vote_average": 6.4
+    },
+    {
+      "air_date": "2003-11-02",
+      "episode_count": 22,
+      "id": 3596,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": "/bmMwmEfwmziKzWP2jiU0GMw8yKd.jpg",
+      "season_number": 15,
+      "vote_average": 6.4
+    },
+    {
+      "air_date": "2004-11-07",
+      "episode_count": 21,
+      "id": 3597,
+      "name": "Sezon 16",
+      "overview": "",
+      "poster_path": "/ifjiG1gHGRyYmNDWRb9Ul9VCfEn.jpg",
+      "season_number": 16,
+      "vote_average": 6.2
+    },
+    {
+      "air_date": "2005-09-11",
+      "episode_count": 22,
+      "id": 3598,
+      "name": "Sezon 17",
+      "overview": "",
+      "poster_path": "/evIWfK3hKFIExETjv6L2YS9J8fw.jpg",
+      "season_number": 17,
+      "vote_average": 6.4
+    },
+    {
+      "air_date": "2006-09-10",
+      "episode_count": 22,
+      "id": 3599,
+      "name": "Sezon 18",
+      "overview": "",
+      "poster_path": "/7L7ZUZYghgjCcUfLcOPl86MiCvT.jpg",
+      "season_number": 18,
+      "vote_average": 6.1
+    },
+    {
+      "air_date": "2007-09-23",
+      "episode_count": 20,
+      "id": 3600,
+      "name": "Sezon 19",
+      "overview": "",
+      "poster_path": "/nLKZJ1ozVvYFtaOynzkShE8wN4k.jpg",
+      "season_number": 19,
+      "vote_average": 6.2
+    },
+    {
+      "air_date": "2008-09-28",
+      "episode_count": 21,
+      "id": 3601,
+      "name": "Sezon 20",
+      "overview": "",
+      "poster_path": "/2CUdLX4K8fMlcdVPHUbciTYt4ri.jpg",
+      "season_number": 20,
+      "vote_average": 6.4
+    },
+    {
+      "air_date": "2009-09-27",
+      "episode_count": 23,
+      "id": 3602,
+      "name": "Sezon 21",
+      "overview": "",
+      "poster_path": "/fEykf9XN4Cn5tJ17pOD2PObdjoc.jpg",
+      "season_number": 21,
+      "vote_average": 6.2
+    },
+    {
+      "air_date": "2010-09-26",
+      "episode_count": 22,
+      "id": 3603,
+      "name": "Sezon 22",
+      "overview": "",
+      "poster_path": "/xUZeYO9NPkmXCcuRrr8PgXzk2Qd.jpg",
+      "season_number": 22,
+      "vote_average": 6.3
+    },
+    {
+      "air_date": "2011-09-25",
+      "episode_count": 22,
+      "id": 3604,
+      "name": "Sezon 23",
+      "overview": "",
+      "poster_path": "/wlQnKb3pHBxtMivCjcvM8TDpBbv.jpg",
+      "season_number": 23,
+      "vote_average": 6.3
+    },
+    {
+      "air_date": "2012-09-30",
+      "episode_count": 22,
+      "id": 3605,
+      "name": "Sezon 24",
+      "overview": "",
+      "poster_path": "/qGPFl3X6ukZ6fBQRiLxueLWQh9y.jpg",
+      "season_number": 24,
+      "vote_average": 6.4
+    },
+    {
+      "air_date": "2013-09-29",
+      "episode_count": 22,
+      "id": 3606,
+      "name": "Sezon 25",
+      "overview": "",
+      "poster_path": "/iwlh2yoia66MCaZEqybsLSt3OHa.jpg",
+      "season_number": 25,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "2014-09-28",
+      "episode_count": 22,
+      "id": 62103,
+      "name": "Sezon 26",
+      "overview": "",
+      "poster_path": "/9bGpb3vWygBogXpQBnTodFWaQte.jpg",
+      "season_number": 26,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2015-09-27",
+      "episode_count": 22,
+      "id": 68067,
+      "name": "Sezon 27",
+      "overview": "",
+      "poster_path": "/aw26dkO0PnxD0EfYWXCMUQLFNbI.jpg",
+      "season_number": 27,
+      "vote_average": 6.4
+    },
+    {
+      "air_date": "2016-09-25",
+      "episode_count": 22,
+      "id": 80361,
+      "name": "Sezon 28",
+      "overview": "",
+      "poster_path": "/j4GZ2oH5PEWEyZkwuZ41OYLb30W.jpg",
+      "season_number": 28,
+      "vote_average": 6.0
+    },
+    {
+      "air_date": "2017-10-01",
+      "episode_count": 21,
+      "id": 91255,
+      "name": "Sezon 29",
+      "overview": "",
+      "poster_path": "/9LAihbWybQA2UCLjitES1K3xc3T.jpg",
+      "season_number": 29,
+      "vote_average": 5.9
+    },
+    {
+      "air_date": "2018-09-30",
+      "episode_count": 23,
+      "id": 110088,
+      "name": "Sezon 30",
+      "overview": "",
+      "poster_path": "/l18xQsO27KFJwsj35JaAsG95dN7.jpg",
+      "season_number": 30,
+      "vote_average": 5.7
+    },
+    {
+      "air_date": "2019-09-29",
+      "episode_count": 22,
+      "id": 131143,
+      "name": "Sezon 31",
+      "overview": "",
+      "poster_path": "/1y2zzQhnAuFpRNovNMHWlubOaxw.jpg",
+      "season_number": 31,
+      "vote_average": 5.7
+    },
+    {
+      "air_date": "2020-09-27",
+      "episode_count": 22,
+      "id": 156684,
+      "name": "Sezon 32",
+      "overview": "",
+      "poster_path": "/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",
+      "season_number": 32,
+      "vote_average": 5.9
+    },
+    {
+      "air_date": "2021-09-26",
+      "episode_count": 22,
+      "id": 184349,
+      "name": "Sezon 33",
+      "overview": "",
+      "poster_path": "/sjg9DQMgZzUA0Uqfw7eL89gFXOr.jpg",
+      "season_number": 33,
+      "vote_average": 5.8
+    },
+    {
+      "air_date": "2022-09-25",
+      "episode_count": 22,
+      "id": 296972,
+      "name": "Sezon 34",
+      "overview": "",
+      "poster_path": "/pnoT4SHafalZmf2XNtzjBppVrpj.jpg",
+      "season_number": 34,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2023-10-01",
+      "episode_count": 18,
+      "id": 336243,
+      "name": "Sezon 35",
+      "overview": "",
+      "poster_path": "/3sq5RENcLT6aDrHjGH6B2q904EJ.jpg",
+      "season_number": 35,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2024-09-29",
+      "episode_count": 18,
+      "id": 384511,
+      "name": "Sezon 36",
+      "overview": "",
+      "poster_path": "/jhXG3SdM1nIWFKfx1a3hy1i4JF0.jpg",
+      "season_number": 36,
+      "vote_average": 6.7
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Başlangıç işareti, hazır ol, vay canına!",
+  "type": "Scripted",
+  "vote_average": 8.016,
+  "vote_count": 10187,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 198,
+        "known_for_department": "Acting",
+        "name": "Dan Castellaneta",
+        "original_name": "Dan Castellaneta",
+        "popularity": 3.3728,
+        "profile_path": "/AmeqWhP4A46AWkM4kVphg6jOTQX.jpg",
+        "character": "Homer Simpson / Abe Simpson / Barney Gumble / Krusty (voice)",
+        "credit_id": "5256bdc319c2956ff600157c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 199,
+        "known_for_department": "Acting",
+        "name": "Julie Kavner",
+        "original_name": "Julie Kavner",
+        "popularity": 2.2164,
+        "profile_path": "/87kSPYlWcHvqOVEkhdqxysiAf6w.jpg",
+        "character": "Marge Simpson / Patty Bouvier / Selma Bouvier (voice)",
+        "credit_id": "5256bdc319c2956ff60015a0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 200,
+        "known_for_department": "Acting",
+        "name": "Nancy Cartwright",
+        "original_name": "Nancy Cartwright",
+        "popularity": 2.9552,
+        "profile_path": "/40qNhyYJhSE2Yiy4pnXSZhdufO6.jpg",
+        "character": "Bart Simpson / Nelson Muntz / Ralph Wiggum (voice)",
+        "credit_id": "5256bdc319c2956ff6001554",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5586,
+        "known_for_department": "Acting",
+        "name": "Yeardley Smith",
+        "original_name": "Yeardley Smith",
+        "popularity": 2.5832,
+        "profile_path": "/9AjPwbb3uz4GfgOPBYsy2ILvwkB.jpg",
+        "character": "Lisa Simpson (voice)",
+        "credit_id": "5256bdc319c2956ff60015ba",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5587,
+        "known_for_department": "Acting",
+        "name": "Hank Azaria",
+        "original_name": "Hank Azaria",
+        "popularity": 3.4391,
+        "profile_path": "/yFDw4b0jucuFWNnGcBPfpYUtn16.jpg",
+        "character": "Moe Szyslak / Chief Wiggum / Apu / Comic Book Guy / Carl (voice)",
+        "credit_id": "5256bdc319c2956ff600167a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6008,
+        "known_for_department": "Acting",
+        "name": "Harry Shearer",
+        "original_name": "Harry Shearer",
+        "popularity": 2.4843,
+        "profile_path": "/7PnGZGVKJNDTUv3DkbaMEnCseT0.jpg",
+        "character": "Ned Flanders / Mr. Burns / Smithers / Skinner / Lenny (voice)",
+        "credit_id": "5cf20dbe9251411cdbba646e",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 531,
+        "known_for_department": "Sound",
+        "name": "Danny Elfman",
+        "original_name": "Danny Elfman",
+        "popularity": 2.7726,
+        "profile_path": "/bcpur9bF56nLxzFzZowipA2wZhy.jpg",
+        "credit_id": "60c132f7a284eb00298890dc",
+        "department": "Sound",
+        "job": "Main Title Theme Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "nuclear power plant",
+        "id": 4368
+      },
+      {
+        "name": "middle class",
+        "id": 6071
+      },
+      {
+        "name": "cartoon",
+        "id": 6513
+      },
+      {
+        "name": "satire",
+        "id": 8201
+      },
+      {
+        "name": "parody",
+        "id": 9755
+      },
+      {
+        "name": "dysfunctional family",
+        "id": 10041
+      },
+      {
+        "name": "school",
+        "id": 10873
+      },
+      {
+        "name": "social satire",
+        "id": 11514
+      },
+      {
+        "name": "family",
+        "id": 18035
+      },
+      {
+        "name": "adult animation",
+        "id": 161919
+      },
+      {
+        "name": "sitcom",
+        "id": 193171
+      },
+      {
+        "name": "animation",
+        "id": 297442
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/lgGZ2ysbRyAOi2VgIZpp6k8qILj.jpg",
+        "id": 1434,
+        "name": "Family Guy",
+        "original_name": "Family Guy",
+        "overview": "2000 yılından bu yana komedi ve animasyon dallarında Emmy adaylıklarının ve ödüllerinin gediklisi olan çizgi dizi Family Guy,sıra dışı Griffin ailesinin absürd hayatlarını ekranlara taşıyor. Zaman zaman The Simpsons efsanesine benzetilen çizgisi ile yıllardır geniş bir hayran kitlesi yaratan dizi, başı dertten kurtulmayan baba Peter Griffin, fedakar ama hafif bela paratoneri olan anne Louis ve onların üç çocuğu, ne yapsa yaramayan “loser” Meg, fil çocuk Chris, dünyayı ele geçirmeyi kafaya koyan bebek Stewieve tabii ki ailenin yegane üyesi entelektüel köpek Brian’ın çılgın maceralarını konu alıyor.\n\nSeth MacFarlane imzasını taşıyan dizi, ki kendisi aynı zamanda baba Peter Griffin’e sesiyle hayat veriyor, Amerikan toplumuna yaptığı güncel göndermeleri, zeki esprileri, konuk ünlüleri ve müzikleriyle son on yılın en sevilen animasyon komedileri arasında yer alıyor.",
+        "poster_path": "/ad75MS8xP2EmkYXy4101ljmpIfn.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 145.196,
+        "first_air_date": "1999-01-31",
+        "vote_average": 7.386,
+        "vote_count": 4556,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ubFM3JrH3p6BtCHWAlOuboC1obg.jpg",
+        "id": 615,
+        "name": "Futurama",
+        "original_name": "Futurama",
+        "overview": "Fry pizza dağıtıcısıdır. 2000 yılına girilen yılbaşı gecesi kazara teslimat yaptığı laboratuvarda bir makineye girer. 31 Aralık 2999 gecesi yeniden uyanır. Tek gözlü Leela ve robot Bender ile tanışır. Ortak noktaları yapmak zorunda oldukları işten nefret etmeleri ve bundan kaçmalarıdır. Fry ve arkadaşları, Fry'ın hayattaki tek akrabası olan yaşlı yeğeni Farnsworth'a ulaşırlar ve macera başlar.",
+        "poster_path": "/sdJcX2cXirwQurLLlrDLYov7hcD.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10765
+        ],
+        "popularity": 53.1863,
+        "first_air_date": "1999-03-28",
+        "vote_average": 8.376,
+        "vote_count": 3416,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/41neXsH222hV2zrsTyw8h7javon.jpg",
+        "id": 2190,
+        "name": "South Park",
+        "original_name": "South Park",
+        "overview": "South Park, Amerikan \"Comedy Central\" programında 1997 yılından beri yayınlanan bir komedi animasyon serisidir. Ülkemizde de Türkçe altyazılı olarak Cnbc-e ve e2 kanalları tarafından yayınlanır.\n\nSouth Park'ın ortaya çıkış hikayesi şöyledir; Colorado Üniversitesi film bölümü öğrencileri Matt Stone ve Trey Parker, \"Jesus vs. Frosty\" adlı bir kısa animasyon film yapar. Şans eseri bu animasyon Fox Network yöneticileri tarafından izlenir ve Matt ve Trey'e ünlülere yılbaşı kartı olarak göndermek için bir kısa bir film yapmalarını teklif eder. Teklif üzerine Matt ve Trey \"The Spirit of Christmas\" adlı yeni bir animasyon film yapar. Bu yeni animasyonda internette çok hızlı bir şekilde yayılır ve çok beğenilir. The Spirit of Christmas, Matt ve Trey'e Comedy Central kapılarını açar ve 13 Ağustos 1997 tarihinde South Park'ın ilk bölümü olan \"Cartman Gets an Anal Probe\" bölümü yayınlanır.\n\nDizi hikayesi, South Park kasabasında yaşayan dört çocuk olan Eric Cartman, Stan Marsh, Kyle Broflovski, Kenny McCormick ve kasaba halkı arasında geçmektedir. Konular çoğunlukla sosyal ve politik taşlamaların bulunduğu, bolca küfür ve cinsel içerikli espri barındırdığından dolayı dizi öncesi bu dizi izlemeyin diye bir uyarı çıkar ki buda dizinin diğer bir ince esprisidir. South Park, Amerika ve Dünya gündeminde ki olaylarada esprili bir şekilde yaklaşarak izleyicilerin beğenisini kazanmıştır.",
+        "poster_path": "/xJnbMTrJ2fl1AXAKx34U4BPvOhs.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 125.196,
+        "first_air_date": "1997-08-13",
+        "vote_average": 8.37,
+        "vote_count": 4525,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/j5w04XEuFv85N3RIovXBJIHxjSb.jpg",
+        "id": 1920,
+        "name": "Twin Peaks",
+        "original_name": "Twin Peaks",
+        "overview": "1990-91 yıllarında ABC kanalında yayınlanan dizi toplam iki sezon otuz bölüm sürmüştür. Körfez savaşı nedeni ile yayını durdurulmuştur. TV'ye yeniden adaptasyonu sağlanan dizinin senaryosu yine ikili tarafından kaleme alınmış, üretimi ise sahibi oldukları Lynch / Frost Productions şirketi tarafından yapılmaktadır. David Lynch ayrıca yönetmen koltuğunda oturmaktadır.\n\nOrjinal seri, Laura Palmer (Sheryl Lee) isimli bir genç kızın öldürülmesi ile başlar ve sonrasında gelişen olaylar üzerine şekillenir. FBI özel ajanı Dale Cooper (Kyle MacLachlan) cinayeti çözmek ve katili yakalamak için bu küçük kasabaya gönderilir. Başlangıçta masum görünen kasaba insanlarının derinlerine inildikçe karanlık yönleri ortaya çıkar ve farklı bir yaşam sürdükleri görülür.",
+        "poster_path": "/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 50.8509,
+        "first_air_date": "1990-04-08",
+        "vote_average": 8.3,
+        "vote_count": 2228,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/rMKFsYeK3LPJGk9xqUHhGdqA4aB.jpg",
+        "id": 4630,
+        "name": "Ailem Bir Acayip",
+        "original_name": "The Fairly OddParents",
+        "overview": "10 yaşındaki Timmy havalı ebeveynlere sahip olmayı dilediğinde şunu öğrendi: Tüm dileklerinizi gerçekleştiren büyücü bir aileniz olduğunda başınıza her şey gelebilir.",
+        "poster_path": "/9iiATIK5QK3hckjOrgUXmgnpR4D.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10762
+        ],
+        "popularity": 89.3737,
+        "first_air_date": "2001-03-30",
+        "vote_average": 7.565,
+        "vote_count": 1011,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2OeS0YPFpqCmi7SA5W6aOPIChc3.jpg",
+        "id": 1433,
+        "name": "American Dad!",
+        "original_name": "American Dad!",
+        "overview": "Dizi, CIA Ajanı Stan Smith ve pek sıradan olmayan ailesinin maceralarını anlatmaktadır. Bu aile; baba Stan, eskiden alkolik ve uyuşturucu bağımlısı olan anne Francine, hippi kızları Hayley, popüler olmaya çalışani ergenliğe yeni girmekte olan inek Steve, CIA'den kaçan uzaylı Roger ve Alman bir kayakla atlamacının beynini taşıyan balık Klaus'tan oluşmaktadır.",
+        "poster_path": "/j84ZtVRoxKWTsQUya77um4l8Dqs.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 89.8568,
+        "first_air_date": "2005-02-06",
+        "vote_average": 6.975,
+        "vote_count": 2199,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vmfWHWnLfy6aT2caIgeSapYX8Aq.jpg",
+        "id": 4336,
+        "name": "Drawn Together",
+        "original_name": "Drawn Together",
+        "overview": "The world's first animated reality series gathers icons from all corners of the cartoon universe and lets them loose, with plenty of cameras to catch their exploits. Here's what happens when eight cartoon characters stop being polite and start getting real.",
+        "poster_path": "/12gxxU70l3Ng7WlllpA7QmeqTQF.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10764
+        ],
+        "popularity": 14.2713,
+        "first_air_date": "2004-10-27",
+        "vote_average": 8.208,
+        "vote_count": 1289,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lhg7eA6CTOCL10QNVdKiyxkgPsL.jpg",
+        "id": 40075,
+        "name": "Gravity Falls",
+        "original_name": "Gravity Falls",
+        "overview": "İkiz kardeşler Dipper ve Mabel Pines'ın aileleri yazın Dipper ve Mabel'ı \"Harika Amca Stan\"in yanına Gravity Falls, Oregon'a gönderirler. Stan, \"Gizemli Kulübe\"de yaşamaktadır ve çalışmaktadır; ama Dipper ve Mabel gerçekten çok garip şeyler olduğunu bilirler ve anlaşılmadık kasabada kendi yollarını bulmak için birbirlerine güvenmek zorundadırlar. Dipper'ın ormanda bulduğu günlükle işler daha da tuhaflaşır.",
+        "poster_path": "/6kWUl4Rfvomz9VBsjzDsuQ3ZvrG.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          9648,
+          10765,
+          10762,
+          10759,
+          10751
+        ],
+        "popularity": 44.2633,
+        "first_air_date": "2012-06-15",
+        "vote_average": 8.593,
+        "vote_count": 3136,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/oJuDMcM8LZA5F5Ahgc9mZg2LRIO.jpg",
+        "id": 32726,
+        "name": "Bob's Burgers",
+        "original_name": "Bob's Burgers",
+        "overview": "Bob's Burgers hamburger restoranı sahibi Belcher ailesinin hikayesini anlatıyor. Bob'un hamburgerleri gerçekten çok lezizdir ve rakiplerininkinden de kat kat iyidir. Ancak iş, bu hamburgerleri satmaya gelince çocukları çok da yardımcı olmamaktadır. Bu nedenle müşteriler genelde Jimmy Peso'nun restoranına gitmektedir.",
+        "poster_path": "/yVz5foNr6nCfathj0igg8RLVGfn.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 99.7086,
+        "first_air_date": "2011-01-09",
+        "vote_average": 7.838,
+        "vote_count": 976,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2UElp7Dkm3SiB9ZEdKEWNmAOijB.jpg",
+        "id": 61923,
+        "name": "Star Kötü Güçlere Karşı",
+        "original_name": "Star vs. the Forces of Evil",
+        "overview": "Başka bir boyuttan gelen ve çok güçlü bir sihirli değneğe sahip prenses Star Butterfly Boyutlararası değişim öğrencisi olarak dünyada Diaz ailesiyle yaşıyor. En iyi arkadaşı Marco Diaz ile birlikte Star Butterfly birbirinden farklı ve çılgın boyutlar arasında büyülü maceralara çıkıyor. Bu sırada kötü karakter olan Ludo ise evreni ele geçirmek için sihirli değneği çalmaya çalışıyor",
+        "poster_path": "/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          35,
+          10765,
+          10751
+        ],
+        "popularity": 70.372,
+        "first_air_date": "2015-01-18",
+        "vote_average": 8.362,
+        "vote_count": 1414,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sccDflItNho4OiHkzpiDxB2fUFw.jpg",
+        "id": 1418,
+        "name": "The Big Bang Theory",
+        "original_name": "The Big Bang Theory",
+        "overview": "En büyük zevkleri kuantum fiziğine kafa yormak olan üstün zekalı iki arkadaş, güzel bir kızla karşılaşınca ne yaparlar? The Big Bang Theory, işte o karşılaşma anında gerçekleşen büyük patlama ve sonrasını anlatan bir komedi dizisi. Leonard ve Sheldon adlarındaki iki arkadaşın oturdukları apartmanda yan dairelerine yeni bir komşu taşınır. Adı Penny olan bu komşu güzeller güzeli bir sarışındır. Üstelik maceralı bir ilişkiden daha yeni sapasağlam ayakta çıkmıştır. Penny, zekaları gereğinden fazla ilerlemiş, ancak kızlar konusunda oldukça geri kalmış bu yeni iki komşusuna hayat hakkında öğretebileceği bir şeyleri olduğunu düşünmektedir. Yaşanacak olanlar da zaman içinde onun ne kadar haklı olduğunu gösterecektir. ",
+        "poster_path": "/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 84.6161,
+        "first_air_date": "2007-09-24",
+        "vote_average": 7.909,
+        "vote_count": 11703,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/rBF8wVQN8hTWHspVZBlI3h7HZJ.jpg",
+        "id": 60625,
+        "name": "Rick and Morty",
+        "original_name": "Rick and Morty",
+        "overview": "Parlak zekalı fakat alkolik bilim adamı Rick, başka dünyalara ve alternatif boyutlara çılgın kaçamaklar yaparken huysuz torunu Morty'i de zorla yanında götürür.",
+        "poster_path": "/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10759
+        ],
+        "popularity": 124.0352,
+        "first_air_date": "2013-12-02",
+        "vote_average": 8.7,
+        "vote_count": 10134,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uyB27Tx3KtczuSo4tDfmiXhfuCp.jpg",
+        "id": 1892,
+        "name": "The Fresh Prince of Bel-Air",
+        "original_name": "The Fresh Prince of Bel-Air",
+        "overview": "Will, a street-smart teenager, moves from the tough streets of West Philly to posh Bel-Air to live with his Uncle Philip, Aunt Vivian, his cousins — spoiled Hilary, preppy Carlton and young Ashley — and their sophisticated British butler, Geoffrey. Though Will’s antics and upbringing contrast greatly with the upper-class lifestyle of his extended relatives, he soon finds himself right at home as a loved part of the family.",
+        "poster_path": "/fJXzwxCVr2TEkhhKRKcih9o5DYK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 31.1798,
+        "first_air_date": "1990-09-10",
+        "vote_average": 7.9,
+        "vote_count": 2312,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ysaA0BInz4071p3LKqAQnWKZCsK.jpg",
+        "id": 2004,
+        "name": "Malcolm in the Middle",
+        "original_name": "Malcolm in the Middle",
+        "overview": "Kaykay yapmak ve en iyi arkadaşı Stevie ile takılmaktan hoşlanan 9 yaşındaki Malcolm, \"yetenekliler\" sınıfına girmeye zorlanınca hayatı alt üst olur ve etrafı toplumdan dışlanan bir grup yetenekliyle çevrelenir.",
+        "poster_path": "/ckLLIsNy3Z0Go1PYHA2PHzVymUA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 99.3378,
+        "first_air_date": "2000-01-09",
+        "vote_average": 8.477,
+        "vote_count": 4498,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/eSgGtHV6Qk3QhV1fr2B66ykMIph.jpg",
+        "id": 2490,
+        "name": "The IT Crowd",
+        "original_name": "The IT Crowd",
+        "overview": "Şirketin bodrum katında bir odada çalışmak zorunda kalan iki bilgisayar delisi bilgi işlem elemanı ve onların başına müdür olarak atanan, bilgisayar bilgisi e-mail okumaktan fazla olmayan bir bayanın komik hikayesi.",
+        "poster_path": "/qZXkBoOUYzvKI4UCMzDQ5kqWHjh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 28.7609,
+        "first_air_date": "2006-02-03",
+        "vote_average": 8.151,
+        "vote_count": 1431,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/vDFCOeT5KSA84AI3ATB4eCHrL6l.jpg",
+        "id": 18011,
+        "name": "Vecinos",
+        "original_name": "Vecinos",
+        "overview": "The everyday life of people in Mexican neighborhoods, where anything can be found. Each episode interacts between these peculiar neighbors, where they encounter real and fictitious problems.",
+        "poster_path": "/aZRmvPsCO5MawSedQ1eeeDo1xia.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          35,
+          10751,
+          10762
+        ],
+        "popularity": 46.287,
+        "first_air_date": "2005-07-10",
+        "vote_average": 8.2,
+        "vote_count": 1079,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/3zRUiH8erHIgNUBTj05JT00HwsS.jpg",
+        "id": 52,
+        "name": "That '70s Show",
+        "original_name": "That '70s Show",
+        "overview": "That 70's Show, 1998-2006 yılları arasında 8 sezon boyunca Amerika Fox televizyonunda yayınlanmış bir komedi sitcom dizisidir. Türkiye'de uzun bir süre TV8 ekranlarında yayınlanmıştır, şu anda da Comedy Smart kanalında yayını sürmektedir.Dizi, 70'li yıllarda hayali kasaba olan Point Place'de yaşayan bir grup genç etrafında geçiyor ve 70'li yılların Amerikan gençlik kültürünü konu alıyor. Dizinin ana karakterlerinden Eric ve tayfasının her bölümde yaptıkları bol dumanlı ve anlamsız bodrum muhabbetleri dizinin en eğlenceli bölümünü oluşturuyor.70'li yılların moda kıyafetleri, şarkıları, sosyal ve politik olayları, diziye konuk oyuncu olarak katılan o dönemin ünlüleri dizinin dikkat çeken önemli unsurlarında biridir. That 70's Show, bir kez Emmy ödülü kazanmıştır ve sekiz kezde aday gösterilmiştir. Dizi, Emmy dışında da bir çok ödül almaya hak kazanmış, bir çok ödüle de aday gösterilmiştir.",
+        "poster_path": "/laEZvTqM80UaplUaDSCCbWhlyEV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751,
+          18
+        ],
+        "popularity": 86.8438,
+        "first_air_date": "1998-08-23",
+        "vote_average": 7.945,
+        "vote_count": 1466,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/AvH03Lj5lMYxmlPc7prNQLWw6JY.jpg",
+        "id": 67557,
+        "name": "The Grand Tour",
+        "original_name": "The Grand Tour",
+        "overview": "The Grand Tour, Jeremy Clarkson, Richard Hammond ve James May’in otomobil dünyasında atıldıkları maceraları gözler önüne seriyor. Jeremy Clarkson, Richard Hammond ve James May'ın dünyanın farklı yerlerini gezerken otomobil incelemeleri yapıp, motor sporlarının zorluklarını gözler önüne seriyor.",
+        "poster_path": "/3Pcqu6QliBWJ8vsOVClVLddPnZw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764,
+          35,
+          10767
+        ],
+        "popularity": 34.2453,
+        "first_air_date": "2016-11-17",
+        "vote_average": 8.0,
+        "vote_count": 769,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
+        "id": 57243,
+        "name": "Doctor Who",
+        "original_name": "Doctor Who",
+        "overview": "Bu Doktor bambaşka bir doktor. Adı, karakteri, tavırları her şeyiyle bir muamma. Rose Tyler adında bir kadın, kendisini Doktor diye adlandıran gizemli bir yabancıyla tanışır ve bundan sonra hayatı baştan sona değişir. Kısa süre içerisinde ailesi de dahil bütün dünyanın tehlike altında olduğunu öğrenir. Yapması gereken ise kurtuluş yolunu bulmaktır.",
+        "poster_path": "/4edFyasCrkH4MKs6H4mHqlrxA6b.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10765
+        ],
+        "popularity": 180.0137,
+        "first_air_date": "2005-03-26",
+        "vote_average": 7.5,
+        "vote_count": 3113,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/hwlWGc8LD6eTN1l1A9vd3geWwtC.jpg",
+        "id": 2691,
+        "name": "Two and a Half Men",
+        "original_name": "Two and a Half Men",
+        "overview": "Malibu sahilinde yaşayan çapkın ve bekar Charlie Harper reklam filmlerine şarkı sözü yazar. Söylediğine bakılırsa, başarılıdır da (iddiasına göre Teenage Mutant Ninja Turtles’ın tema müziği ona aittir). Charlie, yalnız yaşamaktan son derece memnun; ama hemen her gece başka bir kadınla uyumak kaydıyla...\n\nHer şey tam da istediği gibi giderken, günün birinde eşi Judith tarafından kapı önüne konan kuralcı erkek kardeşi Alan ve onun 10 yaşındaki oğlu Jake Charlie’yle yaşamak için ona taşınırlar.\n\nKardeşi Alan ve oğlu Jake ile birlikte yaşama fikri Charlie’ye başta cazip gelmese de sonradan onlara o kadar alışır ki bu aile yaşantısını kaybetmemek için elinden gelen her şeyi yapar.\n\nCharlie ve Alan’ın baskıcı ve her şeye karışan anneleri Evelyn, Charlie’nin “tam bir hayal kırıklığı” olduğunu düşünüyor; Alan’ın ise “onu torun sahibi yaptığı için” hayatını alt üst ettiğini. Charlie’nin yan komşusu Rose ise Charlie’ye takıntılı bir tutkuyla bağlı ve sık sık ziyaretlerine geliyor.",
+        "poster_path": "/A9QDK4OWpv41W27kCv0LXe30k9S.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 183.051,
+        "first_air_date": "2003-09-22",
+        "vote_average": 7.452,
+        "vote_count": 3382,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

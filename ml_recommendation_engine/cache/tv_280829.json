@@ -1,0 +1,756 @@
+{
+  "adult": false,
+  "backdrop_path": "/fyxzv4Xi1BYNdRy8yRdv3GIzwxK.jpg",
+  "created_by": [
+    {
+      "id": 1962751,
+      "credit_id": "677442b24111599e3812bf88",
+      "name": "Barbara Hámori",
+      "original_name": "Barbara Hámori",
+      "gender": 1,
+      "profile_path": "/kfga4O88UsKOQtmDlKdRTzMDStt.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2025-01-02",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Dram"
+    }
+  ],
+  "homepage": "https://rtl.hu/pokolirokonok",
+  "id": 280829,
+  "in_production": true,
+  "languages": [],
+  "last_air_date": "2025-03-06",
+  "last_episode_to_air": {
+    "id": 6004784,
+    "name": "46. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-06",
+    "episode_number": 46,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 280829,
+    "still_path": null
+  },
+  "name": "Pokoli rokonok",
+  "next_episode_to_air": {
+    "id": 6004785,
+    "name": "47. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-07",
+    "episode_number": 47,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 280829,
+    "still_path": null
+  },
+  "networks": [],
+  "number_of_episodes": 52,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "HU"
+  ],
+  "original_language": "hu",
+  "original_name": "Pokoli rokonok",
+  "overview": "",
+  "popularity": 1971.644,
+  "poster_path": "/5BPh3azAd1mZHUrC1oRHenFpGop.jpg",
+  "production_companies": [
+    {
+      "id": 168359,
+      "logo_path": null,
+      "name": "Scripted Productions (HU)",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-01-02",
+      "episode_count": 52,
+      "id": 435712,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.5,
+  "vote_count": 4,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 30436,
+        "known_for_department": "Acting",
+        "name": "Kata Dobó",
+        "original_name": "Kata Dobó",
+        "popularity": 4.134,
+        "profile_path": "/ibsR27aKbVAziTDFyb2spF8DlSG.jpg",
+        "character": "Guba Enikő",
+        "credit_id": "677467cc0f248e850812bdfc",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 125684,
+        "known_for_department": "Acting",
+        "name": "Attila Árpa",
+        "original_name": "Attila Árpa",
+        "popularity": 4.33,
+        "profile_path": "/pHzmGW5oLmtb5Vzupy81nNs4PkB.jpg",
+        "character": "Guba Antal",
+        "credit_id": "677467dde9cac07ec412ed6d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3391992,
+        "known_for_department": "Acting",
+        "name": "Virág Pásztor",
+        "original_name": "Virág Pásztor",
+        "popularity": 0.071,
+        "profile_path": "/vxyGiLAtjYFNcNinO4kNPdVTI1M.jpg",
+        "character": "Guba Lara",
+        "credit_id": "677467ee6234c1b46f617f27",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3392267,
+        "known_for_department": "Acting",
+        "name": "Alex Adányi",
+        "original_name": "Alex Adányi",
+        "popularity": 0.001,
+        "profile_path": "/tDi80gpfa9t4MLW9ipxR2dDZ09c.jpg",
+        "character": "Guba Olivér",
+        "credit_id": "677467ff3fc76ea58892b115",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3377222,
+        "known_for_department": "Acting",
+        "name": "Tamás Szalma",
+        "original_name": "Tamás Szalma",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Fejes István",
+        "credit_id": "677468182efbf3b41d928cea",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1036338,
+        "known_for_department": "Acting",
+        "name": "Csoma Judit",
+        "original_name": "Csoma Judit",
+        "popularity": 0.001,
+        "profile_path": "/AcLJwTbeB5TGXCIwuMMTq8mOGOO.jpg",
+        "character": "Fejes Johanna",
+        "credit_id": "677469912efbf3b41d928d36",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1538198,
+        "known_for_department": "Acting",
+        "name": "Virág Marjai",
+        "original_name": "Virág Marjai",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Fejes Ilona",
+        "credit_id": "677469b23fc76ea58892b18f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1710825,
+        "known_for_department": "Production",
+        "name": "István Juhász",
+        "original_name": "István Juhász",
+        "popularity": 0.001,
+        "profile_path": "/de6Ve6EAazzFVGcF4vBjbjPrO7U.jpg",
+        "character": "Fejes László",
+        "credit_id": "677469fc2efbf3b41d928d54",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5151470,
+        "known_for_department": "Acting",
+        "name": "Sóvári-Fehér Anna",
+        "original_name": "Sóvári-Fehér Anna",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Fejes Gabi",
+        "credit_id": "67746a100f248e850812be73",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5151471,
+        "known_for_department": "Acting",
+        "name": "Hack Dorka Zoé",
+        "original_name": "Hack Dorka Zoé",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Fejes Alexa",
+        "credit_id": "67746a2b7d1bc87de761bb5f",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1114496,
+        "known_for_department": "Acting",
+        "name": "Attila Magyar",
+        "original_name": "Attila Magyar",
+        "popularity": 0.001,
+        "profile_path": "/uFeVo8w7FYpRgg92cSifBl8rzIz.jpg",
+        "character": "Aczél Dezső \"Tata\"",
+        "credit_id": "67746a423fc76ea58892b19c",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1429195,
+        "known_for_department": "Acting",
+        "name": "Szabolcs Bede-Fazekas",
+        "original_name": "Szabolcs Bede-Fazekas",
+        "popularity": 0.029,
+        "profile_path": "/juQYHJapZu7dKpd3Fw91FsV97S5.jpg",
+        "character": "Aczél Tihamér",
+        "credit_id": "67746a4f2efbf3b41d928d66",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3490680,
+        "known_for_department": "Acting",
+        "name": "Tímea Vanya",
+        "original_name": "Tímea Vanya",
+        "popularity": 0.049,
+        "profile_path": null,
+        "character": "Aczélné Winkler Angéla",
+        "credit_id": "67746a5b0f248e850812be8c",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5151474,
+        "known_for_department": "Acting",
+        "name": "Juhász Jázmin",
+        "original_name": "Juhász Jázmin",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Dr. Aczél Zsófia",
+        "credit_id": "67746a6f5b8f422b6012b50b",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3092408,
+        "known_for_department": "Sound",
+        "name": "Botond Nagy",
+        "original_name": "Botond Nagy",
+        "popularity": 0.001,
+        "profile_path": null,
+        "character": "Aczél Szabolcs",
+        "credit_id": "67746a825b8f422b6012b512",
+        "order": 14
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": []
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/6T7qE1spzyFZYbuz0UNmg4nOy0Q.jpg",
+        "id": 7354,
+        "name": "Harper's Island",
+        "original_name": "Harper's Island",
+        "overview": "A group of family and friends travels to a secluded island for a destination wedding. They've come to laugh... to love... and, though they don't know it... to die. As the wedding festivities begin, friendships are tested and secrets exposed as a murderer claims victims, one by one, transforming the wedding week of fun and celebration into a terrifying struggle for survival.",
+        "poster_path": "/ihpf4yvi9GWATXj7IApblIHRMP4.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          18
+        ],
+        "popularity": 38.571,
+        "first_air_date": "2009-04-09",
+        "vote_average": 6.9,
+        "vote_count": 238,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1FxG2lmDYsCM1svJf7H79HNNwu2.jpg",
+        "id": 215866,
+        "name": "American Primeval",
+        "original_name": "American Primeval",
+        "overview": "Geçmişlerinden kaçan bir anne ve oğul, Amerikan Batı Yakası'nın özgürlük ve zalimlikle harmanlanmış sert coğrafyasında kendilerine bir aile kurarlar.",
+        "poster_path": "/ff0s9OHGNSZL6cVteIb7LNvTnJD.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          37,
+          18,
+          10759
+        ],
+        "popularity": 103.508,
+        "first_air_date": "2025-01-09",
+        "vote_average": 7.7,
+        "vote_count": 239,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/8MtMFngDWvIdRo34rz3ao0BGBAe.jpg",
+        "id": 95396,
+        "name": "Severance",
+        "original_name": "Severance",
+        "overview": "Mark, anıları cerrahi müdahaleyle iş ve özel hayat olarak ayrılmış bir ofis çalışanı ekibinin başındadır. Gizemli bir iş arkadaşı ona iş yeri dışında göründüğünde, yaptıkları iş hakkındaki gerçeği keşfetmek için bir yolculuk başlar.",
+        "poster_path": "/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          10765
+        ],
+        "popularity": 374.804,
+        "first_air_date": "2022-02-17",
+        "vote_average": 8.4,
+        "vote_count": 1651,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg",
+        "id": 48866,
+        "name": "The 100",
+        "original_name": "The 100",
+        "overview": "Nükleer bir kıyametin Dünya'yı yok edişinden bir asır sonra uzay istasyonundan 100 genç, gezegende yaşanıp yaşanamayacağını öğrenmek için dünyaya gönderilir.",
+        "poster_path": "/wcaDIAG1QdXQLRaj4vC1EFdBT2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 238.959,
+        "first_air_date": "2014-03-19",
+        "vote_average": 7.9,
+        "vote_count": 8212,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9faGSFi5jam6pDWGNd0p8JcJgXQ.jpg",
+        "id": 1396,
+        "name": "Breaking Bad",
+        "original_name": "Breaking Bad",
+        "overview": "Kanserden öleceğini öğrenen bir kimya öğretmeni, ailesinin geleceğini garanti altına almak için metamfetamin üretip satmak üzere eski bir öğrencisiyle kafa kafaya verir.",
+        "poster_path": "/ineLOBPG8AZsluYwnkMpHRyu7L.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 540.297,
+        "first_air_date": "2008-01-20",
+        "vote_average": 8.923,
+        "vote_count": 15144,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/20eIP9o5ebArmu2HxJutaBjhLf4.jpg",
+        "id": 87108,
+        "name": "Çernobil",
+        "original_name": "Chernobyl",
+        "overview": "1986 senesinde Sovyet nükleer santralinde meydana gelen patlama sonrası santral işçileri ve itfaiyeciler faciayı kontrol altına almaya çalışır.",
+        "poster_path": "/87QSOjVXFwXpCcczMLhh2WRJDV5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 86.964,
+        "first_air_date": "2019-05-06",
+        "vote_average": 8.7,
+        "vote_count": 6644,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
+        "id": 1668,
+        "name": "Friends",
+        "original_name": "Friends",
+        "overview": "1990'ların Manhattan'ında iş hayatının, aşkın ve gündelik yaşamın zorluklarıyla uğraşan 20'li yaşlarda üçü kadın, üçü erkek altı kişilik yakın arkadaş gurubunun komik maceraları.",
+        "poster_path": "/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 391.305,
+        "first_air_date": "1994-09-22",
+        "vote_average": 8.4,
+        "vote_count": 8242,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2MaumbgBlW1NoPo3ZJO38A6v7OS.jpg",
+        "id": 66732,
+        "name": "Stranger Things",
+        "original_name": "Stranger Things",
+        "overview": "Ufak bir kasabada küçük bir çocuk kaybolunca, gizli deneyler, korkutucu doğaüstü güçler ve tuhaf bir küçük kızın da parçası olduğu bir gizem ortaya çıkar.",
+        "poster_path": "/hjVNQA2a12OxkpDEOQTBMbKVZ1K.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765,
+          9648
+        ],
+        "popularity": 293.245,
+        "first_air_date": "2016-07-15",
+        "vote_average": 8.6,
+        "vote_count": 18087,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/xGexTKCJDkl12dTW4YCBDXWb1AD.jpg",
+        "id": 71446,
+        "name": "Money Heist",
+        "original_name": "La casa de papel",
+        "overview": "Bir suç dehası planını gerçekleştirmek üzere polisi ustalıkla yönlendirirken sekiz hırsız, rehineler alarak kendilerini İspanya Kraliyet Darphanesine kilitler.",
+        "poster_path": "/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 112.802,
+        "first_air_date": "2017-05-02",
+        "vote_average": 8.2,
+        "vote_count": 18793,
+        "origin_country": [
+          "ES"
+        ]
+      },
+      {
+        "backdrop_path": "/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+        "id": 1399,
+        "name": "Game of Thrones",
+        "original_name": "Game of Thrones",
+        "overview": "Krallık dediğin savaşsız olur mu? En güçlü krallığı kurup, huzuru sağlamış olsan bile bu gücü elinde nasıl koruyacaksın? Burada yanlış yapana yer yok, affetmek yok. Kuzey Krallığının hükümdarı Lord Ned Stark, uzun ve zorlu savaşlardan sonra anayurduna dönüp krallığını bütünlük içerisinde tutmayı başarmıştır. Kral Robert Baratheon ile yıllarca omuz omuza çarpışan ve Baratheon'un kral olmasını sağlayan Ned Stark'ın tek istediği kuzey sınırlarını koruyan krallığında ailesiyle ve halkıyla yaşamaktır. \n\nFakat suyun öte yanında kendi topraklarından ve krallığından kovulduğunu iddia eden Viserys Targaryen , kız kardeşi Daenerys'i barbar kavimlerin başı Han Drogo'ya vererek, güç birliği planları yapmaktadır. Tahtını büyük bir iştahla geri isteyen ama kraliyet oyunlarından habersiz olan Viserys'in planları Kral Baratheon'a ulaşır. Savaş alanında büyük cengaver olan ama ülke ve aile yönetiminde aynı başarıyı tutturamayan Baratheon'un tamamen güvenebileceği ve her yanlış hamlesini arkasından toplayacak yeni bir sağ kola ihtiyacı vardır. Kuzeyin Lordu Ned Stark bu görev için seçilen tek aday isimdir. Kış yaklaşıyor...\n\nHanedan entrikaları, kapılı kapılar ardında dönen oyunlar, birilerinin kuyusunu kazmak için düşmanın koynuna girmekten çekinmeyen kadınlar, kardeşler arası çekişmeler, dışlanmalar... Hepsi tek bir hedef için: Taht kavgası..",
+        "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 723.189,
+        "first_air_date": "2011-04-17",
+        "vote_average": 8.5,
+        "vote_count": 24677,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lNpkvX2s8LGB0mjGODMT4o6Up7j.jpg",
+        "id": 1398,
+        "name": "The Sopranos",
+        "original_name": "The Sopranos",
+        "overview": "New Jersey'deki bir Amerikan-İtalyan mafya ailesinin babası olan Tony Soprano'nun ve Soprano Ailesi'nin diğer fertlerinin hayatlarından kesitler sunan dizi, toplamda 86 bölüm yayınlanmış, kazandığı ödüller ve aldığı olumlu eleştirilerle adını \"gelmiş geçmiş en iyi diziler\" arasına yazdırmıştır.",
+        "poster_path": "/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 368.94,
+        "first_air_date": "1999-01-10",
+        "vote_average": 8.7,
+        "vote_count": 2871,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wbiPjTWpZMIB8ffBq7HvzAph4Ft.jpg",
+        "id": 63174,
+        "name": "Lucifer",
+        "original_name": "Lucifer",
+        "overview": "“Cehennem Lordu” Lucifer Morningstar, Los Angeles Polis Departmanı için suçluları yakalamaktadır. Ancak büyük bir sırrı vardır: Bu çekici adam, aslında yeryüzüne düşmüş bir melektir!",
+        "poster_path": "/cLz75DTxXPPR814YHZ0XhiQuEI2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          10765
+        ],
+        "popularity": 406.998,
+        "first_air_date": "2016-01-25",
+        "vote_average": 8.454,
+        "vote_count": 14893,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/34OGjFEbHj0E3lE2w0iTUVq0CBz.jpg",
+        "id": 87739,
+        "name": "The Queen's Gambit",
+        "original_name": "The Queen's Gambit",
+        "overview": "1950'lerde bir yetimhanede, küçük bir kız müthiş bir satranç yeteneği sergiler. Ancak yıldızlığa uzanan umulmadık yolculuğunda bağımlılıkla mücadele etmek zorunda kalır.",
+        "poster_path": "/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 72.508,
+        "first_air_date": "2020-10-23",
+        "vote_average": 8.5,
+        "vote_count": 4790,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/nqKl23bnWrTlNUv0ZA6KrtpTPpq.jpg",
+        "id": 2098,
+        "name": "Batman: Animasyon Dizisi",
+        "original_name": "Batman: The Animated Series",
+        "overview": "Pelerinli Savaşçı, aralarında Joker'in, Penguen'in ve Harley Quinn'in de bulunduğu, Gotham'ın en azılı kötüleriyle savaşırken içindeki şeytanlarla da mücadele eder.",
+        "poster_path": "/fulonGHOoYdRFEHUsIztoUVkr4U.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          18,
+          9648
+        ],
+        "popularity": 153.074,
+        "first_air_date": "1992-09-05",
+        "vote_average": 8.536,
+        "vote_count": 1638,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sccDflItNho4OiHkzpiDxB2fUFw.jpg",
+        "id": 1418,
+        "name": "The Big Bang Theory",
+        "original_name": "The Big Bang Theory",
+        "overview": "En büyük zevkleri kuantum fiziğine kafa yormak olan üstün zekalı iki arkadaş, güzel bir kızla karşılaşınca ne yaparlar? The Big Bang Theory, işte o karşılaşma anında gerçekleşen büyük patlama ve sonrasını anlatan bir komedi dizisi. Leonard ve Sheldon adlarındaki iki arkadaşın oturdukları apartmanda yan dairelerine yeni bir komşu taşınır. Adı Penny olan bu komşu güzeller güzeli bir sarışındır. Üstelik maceralı bir ilişkiden daha yeni sapasağlam ayakta çıkmıştır. Penny, zekaları gereğinden fazla ilerlemiş, ancak kızlar konusunda oldukça geri kalmış bu yeni iki komşusuna hayat hakkında öğretebileceği bir şeyleri olduğunu düşünmektedir. Yaşanacak olanlar da zaman içinde onun ne kadar haklı olduğunu gösterecektir. ",
+        "poster_path": "/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 222.02,
+        "first_air_date": "2007-09-24",
+        "vote_average": 7.91,
+        "vote_count": 11545,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/jmtmDc9GrrbuIUc6QjmEM1Yr8gH.jpg",
+        "id": 91239,
+        "name": "Bridgerton",
+        "original_name": "Bridgerton",
+        "overview": "Bridgerton ailesinin en büyük kızı Daphne Bridgerton, ailesinin izinden gidip çok seveceği bir adamla evlenmek ister. Genç kadının seçenekleri çok olsa da ağabeyi teker teker adayları eler. Ancak Leydi Whistledown'ın hazırladığı bir skandal, Daphne'nin adının lekelenmesine neden olur. Bu sırada sosyeteye yeni katılan kızların annelerinin gözdesi olan Hastings Dükü ile Daphne arasında bir çekim oluşur.",
+        "poster_path": "/luoKpgVwi1E5nQsi7W0UuKHu2Rq.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 172.572,
+        "first_air_date": "2020-12-25",
+        "vote_average": 8.1,
+        "vote_count": 2904,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/q3jHCb4dMfYF6ojikKuHd6LscxC.jpg",
+        "id": 84958,
+        "name": "Loki",
+        "original_name": "Loki",
+        "overview": "Marvel Studios'tan Loki'de, \"Avengers: Endgame\"de yaşananların sonrası ele alınmaktadır ve bu yeni dizide kurnaz süper kötü Loki (Tom Hiddleston) Fesatlık Tanrısı rolüne devam eder. Dizinin yönetmenliğini Kate Herron, baş yazarlığını ise Michael Waldron üstlenmiştir.",
+        "poster_path": "/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 113.217,
+        "first_air_date": "2021-06-09",
+        "vote_average": 8.173,
+        "vote_count": 11755,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uJUe985oIuRiD3hmHQYskIMc2WU.jpg",
+        "id": 62560,
+        "name": "Mr. Robot",
+        "original_name": "Mr. Robot",
+        "overview": "Gündüz yazılım güvenliği şirketinde çalışan geceleri ise sanal evrenin kahramanı olan Elliot'ın heyecan dolu dünyasına giriş yapmaya hazır olun! Merak uyandıran senaryosuyla başarılı bir psikolojik gerilim olan dizide, başroldeki Rami Malek'e Mr.Robot rolünde ünlü aktör Christian Slater eşlik ediyor.",
+        "poster_path": "/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 117.18,
+        "first_air_date": "2015-06-24",
+        "vote_average": 8.2,
+        "vote_count": 4762,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/yGNnjoIGOdQy3douq60tULY8teK.jpg",
+        "id": 63247,
+        "name": "Westworld",
+        "original_name": "Westworld",
+        "overview": "İki konuk ileri teknolojinin kullanıldığı bir eğlence parkında Vahşi Batı macerasına çıkar. Parktaki insanlar robottur ve park Roma, Vahşi Batı ve Ortaçağ dönemlerine benzetilerek sahici bir hayat yaratmak amacıyla tasarlanmıştır. Merkezi bilgisayar sistemi bozulunca robotlar zincirlerini koparır ve parkın iki konuğu robot bir silahşör tarafından takip edildiklerini fark eder.West World ya da Batı Dünyası, yapay bilincin ortaya çıkması ve suçun geleceğiyle ilgili karanlık bir yolculuğu anlatmaktadır.",
+        "poster_path": "/8MfgyFHf7XEboZJPZXCIDqqiz6e.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          37
+        ],
+        "popularity": 152.522,
+        "first_air_date": "2016-10-02",
+        "vote_average": 8.041,
+        "vote_count": 5624,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2eIlCirgcvEwmCSYh2wDfz5Sxvz.jpg",
+        "id": 46952,
+        "name": "The Blacklist",
+        "original_name": "The Blacklist",
+        "overview": "FBI'ın arananlar listesindeki kaçak, diğer kötüleri yakalamaları için FBI'a yardım teklifinde bulunur; tek şartı çaylak profil uzmanı Elizabeth Keen'in ortağı olmasıdır.",
+        "poster_path": "/4HTfd1PhgFUenJxVuBDNdLmdr0c.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "popularity": 576.204,
+        "first_air_date": "2013-09-23",
+        "vote_average": 7.628,
+        "vote_count": 3230,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

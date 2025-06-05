@@ -1,0 +1,834 @@
+{
+  "adult": false,
+  "backdrop_path": "/9oVp0xfKW2igxDEo5wr3JTMQBub.jpg",
+  "created_by": [
+    {
+      "id": 21371,
+      "credit_id": "5a6740d40e0a26194e00cd3c",
+      "name": "Amy Holden Jones",
+      "original_name": "Amy Holden Jones",
+      "gender": 1,
+      "profile_path": "/rPP8TdPAkhcEb5l4YGC7JNm6nbW.jpg"
+    },
+    {
+      "id": 1814406,
+      "credit_id": "5a6740f00e0a26194b00d089",
+      "name": "Hayley Schore",
+      "original_name": "Hayley Schore",
+      "gender": 1,
+      "profile_path": "/hbrU03WDuHhaeWVuk0b84TPmPud.jpg"
+    },
+    {
+      "id": 1943736,
+      "credit_id": "5a6740e492514169c700c00a",
+      "name": "Roshan Sethi",
+      "original_name": "Roshan Sethi",
+      "gender": 2,
+      "profile_path": "/qhSfddJ2CqoK9nnaQE1LqkiKooT.jpg"
+    }
+  ],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "2018-01-21",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Dram"
+    }
+  ],
+  "homepage": "https://www.fox.com/the-resident/",
+  "id": 74016,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2023-01-17",
+  "last_episode_to_air": {
+    "id": 4093977,
+    "name": "Herkes Elini Taşın Altına Koysun",
+    "overview": "Sammie sezon finalinde bakıma muhtaç bir halde Chastain'e döner.",
+    "vote_average": 7.0,
+    "vote_count": 2,
+    "air_date": "2023-01-17",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 6,
+    "show_id": 74016,
+    "still_path": "/qGJ00bJVNGlhLRuA95KWrfWG2zv.jpg"
+  },
+  "name": "The Resident",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 19,
+      "logo_path": "/1DSpHrWyOORkL9N2QHX7Adt31mQ.png",
+      "name": "FOX",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 107,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Resident",
+  "overview": "Conrad Hawkins, Chastain Park Hastanesi'nin en iyi doktorlarından biridir. Büyüleyici ve kibirli Conrad, mümkün olduğunda alışılmadık bir yaklaşım benimsemeyi sever ve birinci sınıf stajyer doktorların romantik yanılsamalarını paramparça etmeyi kişisel görevi edinmiştir. Dr. Devon Pravesh, ince ayarlı ahlaki pusulasına göre hareket eden masum bir idealisttir ancak Conrad'in yardımıyla tıp pratiğinin diğer işlere benzediğini, pek de melek sayılmayan hastalar ve hataya düşebilen doktorlarla yapılan bir iş olduğunu anlamaya başlar.",
+  "popularity": 70.3203,
+  "poster_path": "/2IkYQJlT26yXef2iot7dhRtavSC.jpg",
+  "production_companies": [
+    {
+      "id": 8151,
+      "logo_path": null,
+      "name": "Fuqua Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 1556,
+      "logo_path": "/31h94rG9hzjprXoYNy3L1ErUya2.png",
+      "name": "20th Century Fox Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 787,
+      "logo_path": "/cCefBs1t7jxtiz3eCxBp9yxrxGx.png",
+      "name": "3 Arts Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 213625,
+      "logo_path": null,
+      "name": "Nickels Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 213626,
+      "logo_path": null,
+      "name": "Up Island FIlms",
+      "origin_country": ""
+    },
+    {
+      "id": 236166,
+      "logo_path": "/8rFlu5iytnjsciYXZDw90ktllCI.png",
+      "name": "20th Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-01-21",
+      "episode_count": 14,
+      "id": 92988,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/vdulvK71w2sDoleJnc4jfWJhpEj.jpg",
+      "season_number": 1,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2018-09-24",
+      "episode_count": 23,
+      "id": 105716,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/rujHsZxj9IPvhdp3aWpUxH8qHAI.jpg",
+      "season_number": 2,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2019-09-24",
+      "episode_count": 20,
+      "id": 127100,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/k1Df8EkXpsEogBj1FXbLfn2mm4i.jpg",
+      "season_number": 3,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2021-01-12",
+      "episode_count": 14,
+      "id": 168575,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/kG3AlyUz63O8LFS2jJQdmOo7qQI.jpg",
+      "season_number": 4,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2021-09-21",
+      "episode_count": 23,
+      "id": 203675,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/yjsPrZfSz69HbnYZcRHNBdTZOSA.jpg",
+      "season_number": 5,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2022-09-20",
+      "episode_count": 13,
+      "id": 296479,
+      "name": "Sezon 6",
+      "overview": "İlk beş sezonuyla büyük ses getiren medikal drama dizisi The Resident, Chastain Memorial Hastanesindeki sağlık çalışanlarının hem kişisel hem de profesyonel hayatlarında karşılaştıkları zorlukları konu alıyor.",
+      "poster_path": "/2IkYQJlT26yXef2iot7dhRtavSC.jpg",
+      "season_number": 6,
+      "vote_average": 7.1
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.413,
+  "vote_count": 1244,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55547,
+        "known_for_department": "Acting",
+        "name": "Matt Czuchry",
+        "original_name": "Matt Czuchry",
+        "popularity": 2.6978,
+        "profile_path": "/2rjZFfUgD5jJewgQn3HC72aIEBn.jpg",
+        "character": "Conrad Hawkins",
+        "credit_id": "59c2a86fc3a36825fd00154b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 964971,
+        "known_for_department": "Acting",
+        "name": "Manish Dayal",
+        "original_name": "Manish Dayal",
+        "popularity": 2.1309,
+        "profile_path": "/7XwaeMi2PJapWWnK7nFw9Kj64hf.jpg",
+        "character": "Devon Pravesh",
+        "credit_id": "59fa94a292514113bb0064bd",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40259,
+        "known_for_department": "Acting",
+        "name": "Malcolm-Jamal Warner",
+        "original_name": "Malcolm-Jamal Warner",
+        "popularity": 2.8409,
+        "profile_path": "/A3Uh6MADHNaqCHCbKKuA6uZEK8v.jpg",
+        "character": "AJ Austin",
+        "credit_id": "5ace8df9c3a3687e9504b985",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 51989,
+        "known_for_department": "Acting",
+        "name": "Jessica Lucas",
+        "original_name": "Jessica Lucas",
+        "popularity": 2.3097,
+        "profile_path": "/nYS2J93VapM1GW5UdqMFqCxVMUv.jpg",
+        "character": "Billie Sutton",
+        "credit_id": "60cce0394539d00029e6de77",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21089,
+        "known_for_department": "Acting",
+        "name": "Bruce Greenwood",
+        "original_name": "Bruce Greenwood",
+        "popularity": 3.9597,
+        "profile_path": "/AmfylDaijUHq8cHMq002xfkW7Vk.jpg",
+        "character": "Randolph Bell",
+        "credit_id": "59c2a83ac3a36825630011db",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2404163,
+        "known_for_department": "Acting",
+        "name": "Anuja Joshi",
+        "original_name": "Anuja Joshi",
+        "popularity": 0.9426,
+        "profile_path": "/91qhMT6UfL0yijbgsIURBhCkp8O.jpg",
+        "character": "Leela Devi",
+        "credit_id": "60cce2a060620a003f4a80e1",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 52951,
+        "known_for_department": "Acting",
+        "name": "Jane Leeves",
+        "original_name": "Jane Leeves",
+        "popularity": 2.0136,
+        "profile_path": "/tx0ukHUVzpzWKOvdfwdhri7rXhE.jpg",
+        "character": "Kit Voss",
+        "credit_id": "5e98d279d144430019519424",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37041,
+        "known_for_department": "Acting",
+        "name": "Andrew McCarthy",
+        "original_name": "Andrew McCarthy",
+        "popularity": 2.9347,
+        "profile_path": "/swlewiX5zUjF5za9JOFXIVrL3kH.jpg",
+        "character": "Ian Sullivan",
+        "credit_id": "632bdfe161bac4007bf59bac",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1756138,
+        "known_for_department": "Acting",
+        "name": "Kaley Ronayne",
+        "original_name": "Kaley Ronayne",
+        "popularity": 0.9417,
+        "profile_path": "/x6KytSdbpfu835gDgfL5NR9pRvI.jpg",
+        "character": "Kincaid Sullivan",
+        "credit_id": "632be009cf9ba300823639df",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 21371,
+        "known_for_department": "Writing",
+        "name": "Amy Holden Jones",
+        "original_name": "Amy Holden Jones",
+        "popularity": 1.2589,
+        "profile_path": "/rPP8TdPAkhcEb5l4YGC7JNm6nbW.jpg",
+        "credit_id": "62ce0e0bd5191f0053f797f2",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1943736,
+        "known_for_department": "Directing",
+        "name": "Roshan Sethi",
+        "original_name": "Roshan Sethi",
+        "popularity": 1.1071,
+        "profile_path": "/qhSfddJ2CqoK9nnaQE1LqkiKooT.jpg",
+        "credit_id": "65aea110848eb900ac9c5835",
+        "department": "Crew",
+        "job": "Creator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1814406,
+        "known_for_department": "Writing",
+        "name": "Hayley Schore",
+        "original_name": "Hayley Schore",
+        "popularity": 0.3563,
+        "profile_path": "/hbrU03WDuHhaeWVuk0b84TPmPud.jpg",
+        "credit_id": "65aea0f8848eb900ea19bca5",
+        "department": "Crew",
+        "job": "Creator"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "hospital",
+        "id": 11612
+      },
+      {
+        "name": "doctor",
+        "id": 13005
+      },
+      {
+        "name": "medical drama",
+        "id": 208788
+      },
+      {
+        "name": "medical resident",
+        "id": 257303
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/9hfA9zMsyckwZ8WLMVQYKG8YSwY.jpg",
+        "id": 80350,
+        "name": "New Amsterdam",
+        "original_name": "New Amsterdam",
+        "overview": "Amerika'nın en eski hastanesine yeni atanan direktör Dr. Max Goodwin, mevcut durumu değiştirmek ve hastaların hayatını kurtarmak için harekete geçer.",
+        "poster_path": "/jsH4AeGZn5Q6h314A3OTUHKxHhR.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 33.8792,
+        "first_air_date": "2018-09-25",
+        "vote_average": 8.361,
+        "vote_count": 1020,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/nU5nByGzsPTXm2w4WdMFtE6YU14.jpg",
+        "id": 75219,
+        "name": "9-1-1",
+        "original_name": "9-1-1",
+        "overview": "En korkutucu, şok edici ve kalp durdurucu durumlara sürüklenen polis memurlarının, sağlık görevlilerinin ve itfaiyecilerin yüksek basınçlı deneyimlerini keşfedin. Bu acil müdahale ekipleri, en savunmasız olanları kurtarmakla kendi hayatlarındaki sorunları çözme arasında denge kurmaya çalışmalıdır.",
+        "poster_path": "/9dNWZPjFWdKo5Avr5JEEzLShLMZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          10759
+        ],
+        "popularity": 76.5752,
+        "first_air_date": "2018-01-03",
+        "vote_average": 8.229,
+        "vote_count": 2603,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cUh0d1ev6cEQ8KxCe3YQYa8AR50.jpg",
+        "id": 62650,
+        "name": "Chicago Med",
+        "original_name": "Chicago Med",
+        "overview": "Şehrin en patlayıcı hastanesinin ve onu bir arada tutan cesur doktor ekibinin günlük kaosunda duygusal bir heyecan yolculuğu. Acil servisin nabzını artıran pandeminin içinde ateşli ilişkiler kurarak, güncel olaylardan ilham alan benzersiz yeni vakaları ele alacaklar.",
+        "poster_path": "/8UXGfvjKzzkGepXZU43dgpK48oY.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 63.0221,
+        "first_air_date": "2015-11-17",
+        "vote_average": 8.305,
+        "vote_count": 1185,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ccShG5F2gn12yAQnDOnoI29dImJ.jpg",
+        "id": 60804,
+        "name": "The Night Shift",
+        "original_name": "The Night Shift",
+        "overview": "Gece biter ve bir hastanede savaş başlar… San Antonio Hastanesi’nin acilinde çalışan bir grup doktor, vardiyaları boyunca her gece insanların hayatlarını kurtarmak için canla başla savaşıyorlar ve sınırları geçmek veya gerektiğinde kuralları yıkmak da bu süreçte zaman zaman yaptıklarına dahil oluyor. Dizi, bu bir grup doktorun önlerine gelen hastaları kurtarma çabaları, hastane içi ilişkiler ve doktoraların-hastaların kişisel hayatlarına dayalı bir dizi.",
+        "poster_path": "/qSfjudewdGEHAva8LvlbyH0ydof.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 12.5054,
+        "first_air_date": "2014-05-27",
+        "vote_average": 7.5,
+        "vote_count": 235,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/x40yXVPV8tPbuWAjSPGAGauDrhj.jpg",
+        "id": 79593,
+        "name": "Magnum P.I.",
+        "original_name": "Magnum P.I.",
+        "overview": "Thomas Magnum, a decorated former Navy SEAL, returns home from Afghanistan and applies his military skills to become a private investigator in Hawaii taking jobs no one else will—with the help of fellow vets T.C. Calvin and Rick Wright, and former MI:6 agent, Juliet Higgins.",
+        "poster_path": "/hN7DKusbmKPqSZnMG5hemioMAiE.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          80
+        ],
+        "popularity": 74.8886,
+        "first_air_date": "2018-09-24",
+        "vote_average": 7.581,
+        "vote_count": 301,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7hqf0VLmr5EaWJYXhjxgTrCUXl6.jpg",
+        "id": 77459,
+        "name": "The Passage",
+        "original_name": "The Passage",
+        "overview": "THE PASSAGE, bilim insanlarının tüm hastalıkları iyileştirebilme ve aynı zamanda insan ırkını yok etme potansiyeline sahip tehlikeli bir virüsle deney yaptığı gizli bir tıbbi tesis olan Project NOAH'a odaklanıyor. Amy Bellafonte denek olarak seçildiğinde, genç kızı Project NOAH'a teslim etmekten sorumlu olan kişi Federal Ajan Brad Wolgast vekil babası olarak sonunda onu ne pahasına olursa olsun koruyacaktır.",
+        "poster_path": "/np1jcUOCjTGpoIzKwCnV35zxu5B.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 6.121,
+        "first_air_date": "2019-01-14",
+        "vote_average": 6.993,
+        "vote_count": 335,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1vwIV2zQ88Dx6PwY7ZFZyamhYhV.jpg",
+        "id": 76773,
+        "name": "Station 19",
+        "original_name": "Station 19",
+        "overview": "Bir grup itfaiyeci canlarını ve yüreklerini tehlikeye atar.",
+        "poster_path": "/3gs9wBsvv1GJ3EzLheh5yGuTQis.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759
+        ],
+        "popularity": 37.2402,
+        "first_air_date": "2018-03-22",
+        "vote_average": 8.217,
+        "vote_count": 1496,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/13G9yMlHMSonmuLMatxuYw3hnPy.jpg",
+        "id": 61418,
+        "name": "Jane the Virgin",
+        "original_name": "Jane the Virgin",
+        "overview": "Evlenene kadar bakire kalma yemini eden Jane Villanueva, hastanedeki bir hata yüzünden hamile kaldığını öğrenir ve geleceğini yeni baştan planlamak zorunda kalır.",
+        "poster_path": "/DRRHgvsNEfBloMgIP8bBw4zi4E.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 44.9095,
+        "first_air_date": "2014-10-13",
+        "vote_average": 7.917,
+        "vote_count": 862,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/3rdQ4cbley3iOIkruTwMKDUzsLj.jpg",
+        "id": 62816,
+        "name": "Quantico",
+        "original_name": "Quantico",
+        "overview": "FBI akademi yeni ajanlarını aramaktadır, Alex Parrish!ın adaylık başvurusunun kabul edilmesiyle hayatı değişecektir. Akademiye birçok öğrenci kabul edilmiştir ancak verilen görevlerdeki başarılarına göre elenerek sadece başarılı olanlar yeni ajanlar olacaktır ancak Amerika’ya yapılmış en büyük terörist saldırısının ardından tüm adaylar şüpheli konumuna gelecektir. Alex bu saldırıdan şans esiri kurtulmuş olsa da FBI gözünde en büyük şüpheli odur ya gerçeği ortaya çıkartacaktır yada bu saldırı onun üzerine atılacaktır.",
+        "poster_path": "/3ofY2mALEiE0QDyRlVOV3sDNMYC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 20.5629,
+        "first_air_date": "2015-09-27",
+        "vote_average": 6.523,
+        "vote_count": 679,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/6X36iMqzu18dbsmXGGBxj7UU8wW.jpg",
+        "id": 91962,
+        "name": "Emergence",
+        "original_name": "Emergence",
+        "overview": "Bir polis şefi gizemli bir kazayı araştırırken hafızasını kaybetmiş bir çocuk bulur ve bildiği her şeye meydan okuyan bir komplo ortaya çıkar.",
+        "poster_path": "/r9nmcmP6IOIJV9K61dXIUuNWxdV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          10765
+        ],
+        "popularity": 5.8144,
+        "first_air_date": "2019-09-24",
+        "vote_average": 6.923,
+        "vote_count": 189,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/tqhsaVtN3zvmCDxut1DvI2sq5pe.jpg",
+        "id": 95386,
+        "name": "Nurses",
+        "original_name": "Nurses",
+        "overview": "Follow five young nurses working on the frontlines of a busy hospital in downtown Toronto, dedicating their lives to helping others, while struggling to help themselves.",
+        "poster_path": "/hBhiT42BLVuWwl0B79zYA5bJ0ES.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 7.2558,
+        "first_air_date": "2020-01-06",
+        "vote_average": 7.3,
+        "vote_count": 107,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/fc9ebsTmVCvv6jjD2qT7rWazaej.jpg",
+        "id": 71146,
+        "name": "Condor",
+        "original_name": "Condor",
+        "overview": "Young CIA analyst Joe Turner has his idealism tested when he learns that the CIA has been using an algorithm he developed to spy on American citizens, leading the organization to a terrorist plot that threatens the lives of millions.  Inspired by Sydney Pollack’s 1975 political thriller Three Days of the Condor.",
+        "poster_path": "/28cIK70tN2t4gPTV8CBQZED1H2G.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 9.4513,
+        "first_air_date": "2018-06-06",
+        "vote_average": 7.0,
+        "vote_count": 230,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/rOigzdLeQedRF4ebFQMHELjfINC.jpg",
+        "id": 31631,
+        "name": "Gizli İşler",
+        "original_name": "Covert Affairs",
+        "overview": "Annie Walker (Piper Perabo) 6 yabancı dili akıcı bir şekilde konuşabilen, dünyanın dört bir yanını gezen ve CIA için eğitim gören adayların en iyilerinden biridir. Ancak, bunların hiçbiri eğitiminin bitmesine bir ay kala aktif bir görevde yer almak üzere saha ajanı olarak CIA genel merkezine çağrılmasının altında yatan nedeni açıklamaya yetmez. Annie'ye göre CIA'in ağır topları onun geçmişine dair bir şeyin ya da birinin peşindedir. Annie'nin CIA ile bağlantısını sağlayan gayriresmi rehberi Auggie Anderson (Christopher Gorham) görevdeyken görme yeteneğini kaybeden bir bilişim uzmanıdır. ",
+        "poster_path": "/pRWUGSGdByQHW93DH2braqkRjZa.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759
+        ],
+        "popularity": 22.427,
+        "first_air_date": "2010-07-13",
+        "vote_average": 6.857,
+        "vote_count": 235,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/6LNiGx7KfdTPrIkkl6MjAXaDHmJ.jpg",
+        "id": 61555,
+        "name": "The Missing",
+        "original_name": "The Missing",
+        "overview": "2006 yılında Tony ve Emily Hughes, 5 yaşındaki oğulları Oliver ile Fransa'ya giderler, Oliver'ın Kuzey Fransa'daki büyük bir kutlamada kaybolmasıyla tatilleri kabusa dönüşür.",
+        "poster_path": "/czsrf4fx39ADnSTH7Og1Xk2SC4S.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 7.4471,
+        "first_air_date": "2014-10-28",
+        "vote_average": 7.1,
+        "vote_count": 267,
+        "origin_country": [
+          "BE",
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/mRyNHvnGoNihSkdBpF3lC9aRxu9.jpg",
+        "id": 64446,
+        "name": "Method",
+        "original_name": "Метод",
+        "overview": "After graduation our main character Yesenia dreams about work- ing with Rodion Meglin. He is a mysterious, secretive man, a lone investigator with little known about his methods. When Yesenia turns into his trainee she begins to realize that the essence of his method is that Meglin himself – that of a maniac. He feels them instinctively. He is allowed to eliminate some of them, look after others and save their lives. Our heroine who was never meant to work alone will go alone, facing the most horrible crimes of the last decade.",
+        "poster_path": "/mlgSXHwOpKRAvdtYysyHLWBIXaa.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ru",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 9.922,
+        "first_air_date": "2015-10-18",
+        "vote_average": 7.2,
+        "vote_count": 64,
+        "origin_country": [
+          "RU"
+        ]
+      },
+      {
+        "backdrop_path": "/qBWM9pgzLPK0ffqh7jD1qmo3KlD.jpg",
+        "id": 32390,
+        "name": "The Real Housewives of Beverly Hills",
+        "original_name": "The Real Housewives of Beverly Hills",
+        "overview": "Popüler reality serisinin Beverly Hills durağında, dost gibi görünen ama birbirine düşman olan zengin kadınlar bolca kavga, alkol ve süs püs ile dramayı abartıyor.",
+        "poster_path": "/gHZmEmtQzobW9PVdpGrYP7SU9RH.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 104.8251,
+        "first_air_date": "2010-10-14",
+        "vote_average": 6.3,
+        "vote_count": 97,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4R71RVwclJcZHecSKHDTbZYKm5h.jpg",
+        "id": 65579,
+        "name": "The Catch",
+        "original_name": "The Catch",
+        "overview": "Dizi, Özel Ajan Alice Vaughan’ın Los Angeles’ta ciddi suçlara imza atan dolandırıcı Bay X’in peşine düşmesiyle başlıyor. Alice kısa bir zaman sonra Bay X’in kendi nişanlısı olduğunu dolandırıldığında anlıyor ve kovalamaca başlıyor.",
+        "poster_path": "/yqaRCjgG2dbBtCLrHISkHVCnGDE.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          35
+        ],
+        "popularity": 8.482,
+        "first_air_date": "2016-03-24",
+        "vote_average": 6.5,
+        "vote_count": 115,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/xaBWF4ncQxQjz5UZ8RKzndiM573.jpg",
+        "id": 122320,
+        "name": "Valeria y Maximiliano",
+        "original_name": "Valeria y Maximiliano",
+        "overview": "",
+        "poster_path": "/wOWxE04jPdg6o6o0ZElEIF29xlx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 29.6904,
+        "first_air_date": "1991-12-23",
+        "vote_average": 7.318,
+        "vote_count": 85,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "backdrop_path": "/rca7DzvnlJGYtyOmtC111PCZsJ6.jpg",
+        "id": 81144,
+        "name": "The Neighborhood",
+        "original_name": "The Neighborhood",
+        "overview": "Los Angeles’a taşınan Johnson ailesinin hayatı, yeni mahallelerinde yeni komşularıyla tamamen değişir.Sıradışı kaçtıkları bu yeni mahallede artık onları eğlenceli bir başlangıç beklemektedir.“The Big Bang Theory”nin yaratıcısı Jim Reynolds’ın kaleme aldığı kahkaha dolu bu diziyi kaçırmayın!",
+        "poster_path": "/uItUViUsFAY7wzufTS2zWNbuuAm.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 40.9194,
+        "first_air_date": "2018-10-01",
+        "vote_average": 7.6,
+        "vote_count": 141,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/83oRTo6vDeLKfvkNTgSKxmju1MX.jpg",
+        "id": 69480,
+        "name": "Mary Kills People",
+        "original_name": "Mary Kills People",
+        "overview": "Eşinden ayrılmış bir anne olan Mary Harris, gündüzleri bir acil servis doktorudur. Geceleri ise eski bir plastik cerrah olan ortağıyla birlikte, ölüm döşeğindeki hastaların yardımına koşan bir ölüm meleği. Ölüm döşeğindeki bu insanlara, kendi şartlarında ve istedikleri gibi dünyaya veda edebilmeleri için farklı ama yasa dışı olan bir ölme imkanı sunarlar.",
+        "poster_path": "/4zOZzlSjHjUJgc2Gp20iFfpkRBV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 11.7385,
+        "first_air_date": "2017-01-25",
+        "vote_average": 7.5,
+        "vote_count": 75,
+        "origin_country": [
+          "CA"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

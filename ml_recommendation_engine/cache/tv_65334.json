@@ -1,0 +1,917 @@
+{
+  "adult": false,
+  "backdrop_path": "/h8Lxf8gCI6uQqmnoWfQxjaJgrul.jpg",
+  "created_by": [
+    {
+      "id": 1565301,
+      "credit_id": "5b8049cb9251416c8c010c24",
+      "name": "Thomas Astruc",
+      "original_name": "Thomas Astruc",
+      "gender": 2,
+      "profile_path": "/xBDsoN7kwNuLo91XcDQYDdC9A7M.jpg"
+    },
+    {
+      "id": 1762584,
+      "credit_id": "653fdcab519bbb01383394ed",
+      "name": "Jeremy Zag",
+      "original_name": "Jeremy Zag",
+      "gender": 2,
+      "profile_path": "/jpRNzAD8NrpcgIFIiGCoI9uLfmr.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2015-10-19",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Aksiyon & Macera"
+    },
+    {
+      "id": 16,
+      "name": "Animasyon"
+    },
+    {
+      "id": 10762,
+      "name": "Çocuklar"
+    }
+  ],
+  "homepage": "http://www.miraculousladybug.com",
+  "id": 65334,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2025-04-27",
+  "last_episode_to_air": {
+    "id": 5759140,
+    "name": "8. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-05-04",
+    "episode_number": 8,
+    "episode_type": "standard",
+    "production_code": "615",
+    "runtime": 23,
+    "season_number": 6,
+    "show_id": 65334,
+    "still_path": "/cGJhEkhz6fIoPUwqxNGOSBURFf7.jpg"
+  },
+  "name": "Mucize: Uğur Böceği ile Kara Kedi",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 290,
+      "logo_path": "/fqsd09CrijoGu6qfoNIdgUQmVGO.png",
+      "name": "TF1",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 155,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Miraculous, les aventures de Ladybug et Chat Noir",
+  "overview": "Paris tehlikeyle karşılaştığında Marinette, Uğur Böceği'ne dönüşür. Ancak okul aşkı Adrien'ın da şehir kurtarıcı bir süper kahraman olan Kara Kedi olduğundan habersizdir.",
+  "popularity": 168.2038,
+  "poster_path": "/mwAJcSPtuRddU8AeL9lup5jE0Bn.jpg",
+  "production_companies": [
+    {
+      "id": 35136,
+      "logo_path": "/lhGOKiuEls3KiWigu1hbvrqUP68.png",
+      "name": "Method Animation",
+      "origin_country": "FR"
+    },
+    {
+      "id": 5542,
+      "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+      "name": "Toei Animation",
+      "origin_country": "JP"
+    },
+    {
+      "id": 79175,
+      "logo_path": "/e3uLvwItKgTfzfwansI0ZjtN45N.png",
+      "name": "SAMG Entertainment",
+      "origin_country": "KR"
+    },
+    {
+      "id": 79650,
+      "logo_path": null,
+      "name": "Zagtoon",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    },
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-12-11",
+      "episode_count": 2,
+      "id": 319519,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/i0R9x3hRRDQVRYhYe2Jcilyh8Jm.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2015-10-19",
+      "episode_count": 26,
+      "id": 73968,
+      "name": "Sezon 1",
+      "overview": "Paris tehlikeyle karşılaştığında Marinette, Uğur Böceği'ne dönüşür. Ancak okul aşkı Adrien'ın da şehir kurtarıcı bir süper kahraman olan Kara Kedi olduğundan habersizdir.",
+      "poster_path": "/2OHLw5ZLCLSR46haS6qRnZDMrmh.jpg",
+      "season_number": 1,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2017-10-26",
+      "episode_count": 25,
+      "id": 95065,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/c2BE69XkrTejy0fsUhWADS8XANJ.jpg",
+      "season_number": 2,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2019-04-14",
+      "episode_count": 26,
+      "id": 113599,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/vwRtGz4D6dLodgeaiyizbk2Yg7M.jpg",
+      "season_number": 3,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "2021-04-11",
+      "episode_count": 26,
+      "id": 188198,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/yCBxoUPUD8q47YC3kvVBNG1Vf2g.jpg",
+      "season_number": 4,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "2022-10-24",
+      "episode_count": 26,
+      "id": 284163,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/zT2SERaRoOHSOteXpgIRFRqKScQ.jpg",
+      "season_number": 5,
+      "vote_average": 6.2
+    },
+    {
+      "air_date": "2025-03-23",
+      "episode_count": 26,
+      "id": 348976,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/rVZjYS61pH0ZbKva4zs8kBkS8Hs.jpg",
+      "season_number": 6,
+      "vote_average": 5.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Kötülükten kurtulma zamanı!",
+  "type": "Scripted",
+  "vote_average": 8.047,
+  "vote_count": 4467,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1762588,
+        "known_for_department": "Acting",
+        "name": "Annouck Hautbois",
+        "original_name": "Annouck Hautbois",
+        "popularity": 1.4677,
+        "profile_path": "/5D66aDzc8QrkNtdeFb0nsFku6Zh.jpg",
+        "character": "Marinette Dupain-Cheng / Ladybug (voice)",
+        "credit_id": "64f388fc74507d00ff8d4020",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1558832,
+        "known_for_department": "Acting",
+        "name": "Benjamin Bollen",
+        "original_name": "Benjamin Bollen",
+        "popularity": 1.4819,
+        "profile_path": "/qAvG7VqmZp6s2XE3KZooEfYDfW9.jpg",
+        "character": "Adrien Agreste / Chat Noir (voice)",
+        "credit_id": "64f389245f2b8d00abca52a0",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1758915,
+        "known_for_department": "Acting",
+        "name": "Antoine Tomé",
+        "original_name": "Antoine Tomé",
+        "popularity": 1.5081,
+        "profile_path": "/rsq0RJEr1KNT659XhMcgTV1eNjn.jpg",
+        "character": "Gabriel Agreste / Papillon (voice)",
+        "credit_id": "64f3899297a4e60138971044",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1373143,
+        "known_for_department": "Acting",
+        "name": "Marie Nonnenmacher",
+        "original_name": "Marie Nonnenmacher",
+        "popularity": 1.4708,
+        "profile_path": "/b0F4vbkVIWEk849tWKL04WcLJ6S.jpg",
+        "character": "Tikki (voice)",
+        "credit_id": "64f389eb9e458600ad7ec443",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1762589,
+        "known_for_department": "Acting",
+        "name": "Thierry Kazazian",
+        "original_name": "Thierry Kazazian",
+        "popularity": 0.8533,
+        "profile_path": "/7sqA1L6pwKmmBccMdmzNJwlXBWk.jpg",
+        "character": "Plagg (voice)",
+        "credit_id": "64f38a4c7d41aa0138474482",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1565301,
+        "known_for_department": "Writing",
+        "name": "Thomas Astruc",
+        "original_name": "Thomas Astruc",
+        "popularity": 1.469,
+        "profile_path": "/xBDsoN7kwNuLo91XcDQYDdC9A7M.jpg",
+        "credit_id": "578c4e61c3a36861c9001b54",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1163095,
+        "known_for_department": "Writing",
+        "name": "Sébastien Thibaudeau",
+        "original_name": "Sébastien Thibaudeau",
+        "popularity": 0.3948,
+        "profile_path": null,
+        "credit_id": "578c4e789251410e4f006d78",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1565301,
+        "known_for_department": "Writing",
+        "name": "Thomas Astruc",
+        "original_name": "Thomas Astruc",
+        "popularity": 1.469,
+        "profile_path": "/xBDsoN7kwNuLo91XcDQYDdC9A7M.jpg",
+        "credit_id": "578c4e45c3a3686224001d77",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1637169,
+        "known_for_department": "Sound",
+        "name": "Alain Garcia",
+        "original_name": "Alain Garcia",
+        "popularity": 0.0911,
+        "profile_path": null,
+        "credit_id": "58abc512925141590e00d4a7",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1762584,
+        "known_for_department": "Writing",
+        "name": "Jeremy Zag",
+        "original_name": "Jeremy Zag",
+        "popularity": 0.9486,
+        "profile_path": "/jpRNzAD8NrpcgIFIiGCoI9uLfmr.jpg",
+        "credit_id": "58abc4a1c3a36849b000c348",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1762584,
+        "known_for_department": "Writing",
+        "name": "Jeremy Zag",
+        "original_name": "Jeremy Zag",
+        "popularity": 0.9486,
+        "profile_path": "/jpRNzAD8NrpcgIFIiGCoI9uLfmr.jpg",
+        "credit_id": "58abc523c3a36849ea00cc78",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1115676,
+        "known_for_department": "Sound",
+        "name": "Noam Kaniel",
+        "original_name": "Noam Kaniel",
+        "popularity": 0.7389,
+        "profile_path": "/2aZEDJcOmmgYPTe5iPu8RtrG9Xf.jpg",
+        "credit_id": "58abc4b6c3a36849fe00d767",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "paris, france",
+        "id": 90
+      },
+      {
+        "name": "france",
+        "id": 254
+      },
+      {
+        "name": "magic",
+        "id": 2343
+      },
+      {
+        "name": "cartoon",
+        "id": 6513
+      },
+      {
+        "name": "superhero",
+        "id": 9715
+      },
+      {
+        "name": "romance",
+        "id": 9840
+      },
+      {
+        "name": "interracial romance",
+        "id": 10194
+      },
+      {
+        "name": "female protagonist",
+        "id": 11322
+      },
+      {
+        "name": "school life",
+        "id": 190116
+      },
+      {
+        "name": "superhero kids",
+        "id": 191219
+      },
+      {
+        "name": "teen superhero",
+        "id": 213104
+      },
+      {
+        "name": "western animation",
+        "id": 290589
+      },
+      {
+        "name": "love square",
+        "id": 317148
+      },
+      {
+        "name": "hilarious",
+        "id": 320420
+      },
+      {
+        "name": "brisk",
+        "id": 325779
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/ooIYvpusdiXzULeUlL1Ul7XljQK.jpg",
+        "id": 12225,
+        "name": "Peppa Pig",
+        "original_name": "Peppa Pig",
+        "overview": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles and make loud snorting noises.",
+        "poster_path": "/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762
+        ],
+        "popularity": 45.0468,
+        "first_air_date": "2004-05-31",
+        "vote_average": 6.6,
+        "vote_count": 701,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/exhTZk5ZqzqyZuVK12Eru7pxOM7.jpg",
+        "id": 34109,
+        "name": "Bakugan Savaşçıları",
+        "original_name": "爆丸バトルブローラーズ",
+        "overview": "Bir gün gökyüzünden kartlar yağmaya başlar ve bu kartları alan çocuklar Bakugan adlı bir oyun yaratırlar. Fakat bu sadece bir oyun değildir: Bakuganların yaşadığı Vestroia evreninin kaderi Bakugan’a bağlıdır. Vestroia’yı kurtarmak için Sonsuzluk Çekirdeği’nin bulunması ve bu sayede Vestroia’daki dengenin sağlanması gerekmektedir ancak kendilerine Bakugan Savaşçıları diyen ve çekirdeği bulmaya çalışan altı arkadaşın karşısında üç engel vardır: Naga, Hal-G ve Masquerade.",
+        "poster_path": "/vptVwP1uej035bHzirMtEMSndn.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          10759,
+          16,
+          10762,
+          10765
+        ],
+        "popularity": 20.1858,
+        "first_air_date": "2007-04-05",
+        "vote_average": 8.3,
+        "vote_count": 367,
+        "origin_country": [
+          "CA",
+          "JM",
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/2UElp7Dkm3SiB9ZEdKEWNmAOijB.jpg",
+        "id": 61923,
+        "name": "Star Kötü Güçlere Karşı",
+        "original_name": "Star vs. the Forces of Evil",
+        "overview": "Başka bir boyuttan gelen ve çok güçlü bir sihirli değneğe sahip prenses Star Butterfly Boyutlararası değişim öğrencisi olarak dünyada Diaz ailesiyle yaşıyor. En iyi arkadaşı Marco Diaz ile birlikte Star Butterfly birbirinden farklı ve çılgın boyutlar arasında büyülü maceralara çıkıyor. Bu sırada kötü karakter olan Ludo ise evreni ele geçirmek için sihirli değneği çalmaya çalışıyor",
+        "poster_path": "/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          35,
+          10765,
+          10751
+        ],
+        "popularity": 70.372,
+        "first_air_date": "2015-01-18",
+        "vote_average": 8.362,
+        "vote_count": 1414,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5tLsZoolMwqkCMUwEXYfh61Pajn.jpg",
+        "id": 46928,
+        "name": "Sofia the First",
+        "original_name": "Sofia the First",
+        "overview": "Set in the storybook world of Enchancia, this is the story of Princess Sofia, an adventurous little girl who is learning how to adjust to royal life after her mom marries the king and she becomes a princess overnight.",
+        "poster_path": "/eZHmUO1OQRpVkAOdj9VwYCCyQew.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          16,
+          10762
+        ],
+        "popularity": 38.9345,
+        "first_air_date": "2013-01-11",
+        "vote_average": 7.207,
+        "vote_count": 526,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/mXVr88l7877i0P4cLQl1mUvaXGJ.jpg",
+        "id": 66203,
+        "name": "Soy Luna",
+        "original_name": "Soy Luna",
+        "overview": "Luna için başka bir ülkede yaşamak zor olsa da, yeni arkadaşlar edinmek ve yeni bir paten stili elde etmek için her şeyi denemeye kararlıdır.",
+        "poster_path": "/78CUmir4MDINMKdkUt4TmW5d7k4.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          10766,
+          10762,
+          10751,
+          35
+        ],
+        "popularity": 50.0195,
+        "first_air_date": "2016-03-14",
+        "vote_average": 7.948,
+        "vote_count": 1053,
+        "origin_country": [
+          "AR"
+        ]
+      },
+      {
+        "backdrop_path": "/1pnaMzcTXU6LmBd9rf4ZvNGBnce.jpg",
+        "id": 61852,
+        "name": "Henry Danger",
+        "original_name": "Henry Danger",
+        "overview": "Yeni bir yarı zamanlı iş, Henry Hart'ı birinde tipik bir ergen ve diğerinde gizli süper kahraman yardımcısı Risk Çocuk olduğu iki hayatı dengede tutmak zorunda bırakır.",
+        "poster_path": "/f3TEP5SROTpL6e520ohhSNbUv1E.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751,
+          10762,
+          18
+        ],
+        "popularity": 49.7219,
+        "first_air_date": "2014-07-26",
+        "vote_average": 8.268,
+        "vote_count": 1112,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/mGHrUSt2uA5RaIheSmBfRnRHPS8.jpg",
+        "id": 92685,
+        "name": "Baykuş Evi",
+        "original_name": "The Owl House",
+        "overview": "Luz Noceda, sıradan bir kızdır. Okulda fazla yaramazlık yaptığı için annesi onu akıl kampına yollamıştır. Annesi ona hayal ürünü kitapları bırakmasını söyler. O da annesini kandırmak için kitabı çöpe atar. Ancak tam kitabı geri alacakkken küçük bir baykuş kitabı çalar. O baykuşun peşinden giderken fark etmeden bir kulübeye girer ve Kaynayan Adalar adlı fantastik bir dünyaya adım atar ve orada Baykuş Kadın lakaplı Edalyn Clawthorne adlı bir cadı ile tanışır.",
+        "poster_path": "/cq2potjBjJ7WiaQJcqJU63zdLJL.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10765,
+          18,
+          10759,
+          35,
+          10762
+        ],
+        "popularity": 29.8366,
+        "first_air_date": "2020-01-10",
+        "vote_average": 8.7,
+        "vote_count": 1664,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/3yn2TeZ2oTIlXa2C61meThWn05y.jpg",
+        "id": 2437,
+        "name": "Pocoyo",
+        "original_name": "Pocoyo",
+        "overview": "Pocoyo, the curious toddler dressed all in blue, joins Pato the yellow duck, Elly the pink elephant, Loula the dog, Sleepy Bird and many others in learning new things and having fun.",
+        "poster_path": "/1fmaC3t96Napg7TR9SsfOX8q11X.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762,
+          10751
+        ],
+        "popularity": 22.2293,
+        "first_air_date": "2005-05-10",
+        "vote_average": 7.009,
+        "vote_count": 449,
+        "origin_country": [
+          "ES",
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/zHQ2ntgjx2xHMkyXFgI1tjcoHST.jpg",
+        "id": 46041,
+        "name": "My Little Monster",
+        "original_name": "となりの怪物くん",
+        "overview": "Mizutani Shizuku finds peace in her studies.  Working hard to stay at the top of the class, alone but focused.  When she is tasked with delivering class materials to Yoshida Haru, her world starts to rapidly expand.  With some new friends and feelings, will she be able to stay focused on her studies?",
+        "poster_path": "/qmGAYDNuENa94kGV56Oe0Kwm3dX.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          35,
+          18
+        ],
+        "popularity": 4.2274,
+        "first_air_date": "2012-10-02",
+        "vote_average": 8.3,
+        "vote_count": 333,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/3JlbdMgs8hIEZOdveDKniDOjtNV.jpg",
+        "id": 61339,
+        "name": "Ay Savaşçısı Kristali ./ Güzellik Savaşçısı Ay Savaşçısı Kristali ./ Sailor Moon Crystal",
+        "original_name": "美少女戦士セーラームーンクリスタル",
+        "overview": "Heyecan verici fantastik anime dizisi \"Beauty Warrior Sailor Moon\", 1992'den 1997'ye kadar ekranlarda yayınlanan ve Naoko Takeuchi'nin \"Pretty Soldier Sailor Moon\" adlı mangasına dayanan aynı adlı serinin yeniden çevrimidir.  Arsanın merkezinde Usagi Tsukino adında en sıradan kız öğrenci var. Kız, ona belirli bir büyülü krallığın varlığı hakkında eski bir efsaneyi anlatan ve aynı zamanda Dünya'yı ele geçirmek isteyen kötülüğe direnebilecek bir savaşçı Sailor Moon'a dönüşmesini öğreten konuşan bir kediyle tanıştığında. Bu görüşmeden sonra Usagi Tsukino'nun hayatı dramatik bir şekilde değişir. Diğer savaşçıların desteğini alarak, yalnızca sihirli güçlere sahip gümüş bir kristal aramakla kalmayıp, aynı zamanda kendi topraklarını acımasız ve güçlü Kraliçe Beryl tarafından yönetilen Karanlık Krallık'tan korumak zorunda kalacak. Tam Bolumleri Tam Version Olsun Hemde  Temiz Turkce Seslendirmeli Olsun  Coclukdaki Gibi",
+        "poster_path": "/q1gtW5ei8tYlkoGhhfSJMj8HN2r.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10765
+        ],
+        "popularity": 11.3148,
+        "first_air_date": "2014-07-05",
+        "vote_average": 8.124,
+        "vote_count": 639,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/4fdZWrFwrn905gpUJvYWOEVWTY0.jpg",
+        "id": 35610,
+        "name": "InuYasha",
+        "original_name": "犬夜叉",
+        "overview": "Kagome Higurashi is a modern day young girl who lives with her family by the old Higure shrine. Unbeknownst to Kagome, she is the reincarnation of priestess Kikyo and posseses the \"Jewel of Four Souls\" (the Shikon jewel). One ill-fated day, Kagome locates an ancient well near her home and is abruptly transported through the well and into a feudal Japan, inhabited by demons. There, she encounters Inuyasha, son of a powerful demon father and a human mother, who is pinned to a tree by an enchanted arrow.",
+        "poster_path": "/jgvW9n0EwKtq9nbztWhyTvvoqjS.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10765,
+          10759,
+          35,
+          9648
+        ],
+        "popularity": 28.6009,
+        "first_air_date": "2000-10-16",
+        "vote_average": 8.588,
+        "vote_count": 2009,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/iQ4719E5PyzdwFHH2OZk7flTAoH.jpg",
+        "id": 31251,
+        "name": "Victorious",
+        "original_name": "Victorious",
+        "overview": "Victorious, on altı yaşındaki Tori Vega'nın hikâyesini konu alıyor. Tori, ailenin yıldızı olan ablası Trina'nın yanında büyümüştür. Tori'nin en iyi sanat lisesi Hollywood Arts'ı kazanması ile işin akışı değişir.",
+        "poster_path": "/vdYmwL33rB2MnTc8IpTzU7YkcTn.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10762
+        ],
+        "popularity": 28.522,
+        "first_air_date": "2010-03-27",
+        "vote_average": 8.22,
+        "vote_count": 1647,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lXMmT078fOOvCAg5f6tKNrMNpOS.jpg",
+        "id": 44305,
+        "name": "Ejderhalar: Berk'in Binicileri",
+        "original_name": "DreamWorks Dragons",
+        "overview": "Hiccup ve Toothless Kızıl Ölüm'ü yenilgiye uğratarak halkını kurtardıktan sonra, Vikinglerin ejderhalarla barış yapmasına sebep olur. Ancak, Hiccup birlikte yaşama fikrinin uyum içinde olma özelliğinden çok uzak olduğunu ve Ejderhaların bu anlaşmayı yok etmek istediğini öğrenir. Bu sorunu çözmek için, Hiccup'ın babası Stoick oğlu ve arkadaşlarının Ejderhalarla ilgili her şeyi öğreneceği Ejderha Akademisi'ni kurar. Mildew gibi huysuz kuşkucular ile Alvin gibi kötü kalpliler bile onlara karşı çıkmaktadır. Viking gençleri ve ejderhaları kendilerini hayati bir bilgiye adarlar.",
+        "poster_path": "/saqoerRN5OdjCNuchebqeSqrLXP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          10765,
+          35
+        ],
+        "popularity": 9.6947,
+        "first_air_date": "2012-08-07",
+        "vote_average": 7.726,
+        "vote_count": 687,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9XCRhni0n5qbs9CkcOh4TMHiR4J.jpg",
+        "id": 2675,
+        "name": "The Little Mermaid",
+        "original_name": "The Little Mermaid",
+        "overview": "Disney's The Little Mermaid is an American animated television series produced by Walt Disney Television Animation based on the 1989 Disney film of the same name. It features the adventures of Ariel as a mermaid prior to the events of the film. This series is the first Disney television series to be spun off from a major animated film. Some of the voice actors of the film reprise their roles in the series, among them Jodi Benson as Ariel, Samuel E. Wright as Sebastian, Kenneth Mars as King Triton, and Pat Carroll as Ursula.",
+        "poster_path": "/32Tb6HZc8yAWqHesMSMnMozr6pi.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          16,
+          10762,
+          10765
+        ],
+        "popularity": 19.5974,
+        "first_air_date": "1992-09-11",
+        "vote_average": 6.991,
+        "vote_count": 708,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/oyi9AeavhrKTbISf4tZ83S7xp29.jpg",
+        "id": 68267,
+        "name": "Trol Avcıları: Arcadia Hikâyeleri",
+        "original_name": "Trollhunters: Tales of Arcadia",
+        "overview": "Hayali bir kasaba olan Arcadia’nın sakinleri, yaşadıkları bölgenin altında bulunan gizemli dünyanın da oldukça geniş olduğunu keşfederler ve bu gerçek akıllarını başlarından alır. Bu keşfin sonrasında yaşananları konu alan Trollhunters, her yaştan izleyicinin ilgisini çekecek ve Guillermo Del Toro’nun yaratıcılığına bir kez daha tanık olmanızı sağlayacak.",
+        "poster_path": "/9VZmMzINVdO3ZYGsKItU39pNO2l.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          16,
+          10759,
+          35,
+          10765
+        ],
+        "popularity": 15.2189,
+        "first_air_date": "2016-12-23",
+        "vote_average": 8.441,
+        "vote_count": 1086,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/flychdbFnPuxl4SjMeODR8RmuKr.jpg",
+        "id": 38693,
+        "name": "Ninjago: Spinjitzu'nun Ustaları",
+        "original_name": "Ninjago: Masters of Spinjitzu",
+        "overview": "Kai, Jay, Cole ve Zane, yer altı da bulunan Ninjago ülkesini korumak için temel güçlerinde ve Spinjitzu silahlarında ustalaşmalıdır.",
+        "poster_path": "/fqb9X4th2p2voefRLqdv1xoZQmC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          10765,
+          35
+        ],
+        "popularity": 168.1796,
+        "first_air_date": "2012-01-11",
+        "vote_average": 7.895,
+        "vote_count": 727,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9b2NUGEGd2lknAcHxwOZfWgj87h.jpg",
+        "id": 1830,
+        "name": "Tiny Toon Adventures",
+        "original_name": "Tiny Toon Adventures",
+        "overview": "Follow the adventures of a group of young cartoon characters who attend the Acme Looniversity to become the next generation of characters from the Looney Tunes series.",
+        "poster_path": "/j9B9RmerM2b39s7xzW6g4vN5B1m.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10751,
+          10762
+        ],
+        "popularity": 31.2165,
+        "first_air_date": "1990-09-14",
+        "vote_average": 7.8,
+        "vote_count": 491,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5eXSRMoSOYbx4rIJaRe492NtALV.jpg",
+        "id": 107171,
+        "name": "La CQ",
+        "original_name": "La CQ",
+        "overview": "La CQ is about 8 students named Angel, Monche, Beto, Clara, Adri, Roque, Jenny and, Danny. They are in secondary and our going through ups and downs which include bullies, love, assignments and it shows how the kids are like in secondary school",
+        "poster_path": "/e3R3sTrIMOp6hOGlRUprEfXhP8X.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 9.4771,
+        "first_air_date": "2012-08-06",
+        "vote_average": 8.061,
+        "vote_count": 247,
+        "origin_country": [
+          "MX",
+          "VE"
+        ]
+      },
+      {
+        "backdrop_path": "/mXouvrZbn8YpZMURGvw30QK8qfo.jpg",
+        "id": 89641,
+        "name": "Aşk Alarmı",
+        "original_name": "좋아하면 울리는",
+        "overview": "Yakınlardaki biri ondan hoşlandığında kişiye haber veren bir uygulamanın olduğu bir dünyada Kim Jojo, kişisel sorunlarıyla başa çıkarken genç yaşta aşkı tadar.",
+        "poster_path": "/hQ8Hobo1RpYuZVQJQOCycNMHAG.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 7.3564,
+        "first_air_date": "2019-08-22",
+        "vote_average": 8.275,
+        "vote_count": 1998,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/jPyKuRjloYkjVWNPtXCrYxtg3Bu.jpg",
+        "id": 2745,
+        "name": "Aladdin",
+        "original_name": "Aladdin",
+        "overview": "Coming on the heels of the direct-to-video sequel The Return of Jafar, the series picked up where that installment left off, with Aladdin now living in the palace, engaged to beautiful and spunky Princess Jasmine. \"Al\" and Jasmine went together into peril among sorcerers, monsters, thieves, and more. Monkey sidekick Abu, the animated Magic Carpet, and the fast-talking, shape-shifting Genie came along to help, as did sassy, complaining parrot Iago, formerly Jafar’s pet but now an antihero.",
+        "poster_path": "/nlaiczW81kY46GBdfIcTrBIqr8I.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          35,
+          10765,
+          10762
+        ],
+        "popularity": 20.3993,
+        "first_air_date": "1994-02-06",
+        "vote_average": 6.918,
+        "vote_count": 343,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

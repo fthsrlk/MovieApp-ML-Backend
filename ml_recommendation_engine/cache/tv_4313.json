@@ -1,0 +1,962 @@
+{
+  "adult": false,
+  "backdrop_path": "/btUwsz9ttVBVyqtEyZvFBQFyJgv.jpg",
+  "created_by": [
+    {
+      "id": 60621,
+      "credit_id": "5851b5e19251416fad01a652",
+      "name": "Jeff Franklin",
+      "original_name": "Jeff Franklin",
+      "gender": 2,
+      "profile_path": "/7oPqgDS1YCNSneqg2DlkquywEJE.jpg"
+    }
+  ],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "1987-09-22",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Komedi"
+    },
+    {
+      "id": 10751,
+      "name": "Aile"
+    }
+  ],
+  "homepage": "",
+  "id": 4313,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1995-05-23",
+  "last_episode_to_air": {
+    "id": 297442,
+    "name": "24. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "1995-05-23",
+    "episode_number": 24,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 23,
+    "season_number": 8,
+    "show_id": 4313,
+    "still_path": null
+  },
+  "name": "Bizim Ev",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 192,
+  "number_of_seasons": 8,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Full House",
+  "overview": "Bekar baba, 2 erkek kardeşi ve 3 kızının maceraları.",
+  "popularity": 75.9485,
+  "poster_path": "/7g0EyKsIaYjYw3gCIBKMHHE0Kcu.jpg",
+  "production_companies": [
+    {
+      "id": 56605,
+      "logo_path": "/lOa8J5uhopkq4PR4j4r1Zsn50d7.png",
+      "name": "Miller/Boyett Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 23564,
+      "logo_path": "/wTLKBMlzEGJ3UQUSbTkKWiGyOBB.png",
+      "name": "Jeff Franklin Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 1193,
+      "logo_path": "/ctXTFMt91z96WMbMOlW0Morgwny.png",
+      "name": "Lorimar Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 1957,
+      "logo_path": "/qIxtba5CbnJfHCA88czLfTNKW9M.png",
+      "name": "Warner Bros. Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 5,
+      "id": 12724,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/67oS6dBvenapDnldSfsSBQMJxF6.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1987-09-22",
+      "episode_count": 22,
+      "id": 12718,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/62X8zmUNowcZfxS2yUUWdhK9iaf.jpg",
+      "season_number": 1,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "1988-10-14",
+      "episode_count": 22,
+      "id": 12721,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/prm07DoL36a5UZA2XlHX9OuI19D.jpg",
+      "season_number": 2,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "1989-09-22",
+      "episode_count": 24,
+      "id": 12723,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/jA6d41pRiHcI78NG93ENdMYPexv.jpg",
+      "season_number": 3,
+      "vote_average": 5.5
+    },
+    {
+      "air_date": "1990-09-21",
+      "episode_count": 26,
+      "id": 12717,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/7wELdh4L3bsVlhC4RTLR7NXKnCK.jpg",
+      "season_number": 4,
+      "vote_average": 8.5
+    },
+    {
+      "air_date": "1991-09-17",
+      "episode_count": 26,
+      "id": 12720,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/jlBDwZkezgeE5aQNbgHYitkLQXT.jpg",
+      "season_number": 5,
+      "vote_average": 9.5
+    },
+    {
+      "air_date": "1992-09-22",
+      "episode_count": 24,
+      "id": 12722,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/k4FYuIIhWVEuEyqm5C4jxcG7Sbb.jpg",
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1993-09-14",
+      "episode_count": 24,
+      "id": 12716,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/t4sgHhLKxTuXZNCoan0YNKklARu.jpg",
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1994-09-27",
+      "episode_count": 24,
+      "id": 12719,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/8jfxVwYSyV290VDxYRhKKTI96sE.jpg",
+      "season_number": 8,
+      "vote_average": 8.1
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.551,
+  "vote_count": 1050,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32600,
+        "known_for_department": "Acting",
+        "name": "John Stamos",
+        "original_name": "John Stamos",
+        "popularity": 2.9696,
+        "profile_path": "/5hFEsxkqI6uGa9ltX2soVqt8r1M.jpg",
+        "character": "Jesse Katsopolis",
+        "credit_id": "52576331760ee36aaa33281d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72450,
+        "known_for_department": "Acting",
+        "name": "Bob Saget",
+        "original_name": "Bob Saget",
+        "popularity": 2.5616,
+        "profile_path": "/m48MSoxLnNuxcolDEtPNIvNYkfe.jpg",
+        "character": "Danny Tanner",
+        "credit_id": "52576331760ee36aaa3328b3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1218736,
+        "known_for_department": "Acting",
+        "name": "Dave Coulier",
+        "original_name": "Dave Coulier",
+        "popularity": 1.4949,
+        "profile_path": "/6HgBe3Rl8BFd1ZARq90NLROqQFX.jpg",
+        "character": "Joey Gladstone",
+        "credit_id": "52576331760ee36aaa3328e5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 31363,
+        "known_for_department": "Acting",
+        "name": "Candace Cameron Bure",
+        "original_name": "Candace Cameron Bure",
+        "popularity": 1.9835,
+        "profile_path": "/sDNFyYgyVmE5AGFCeLR0DVDzCji.jpg",
+        "character": "D.J. Tanner",
+        "credit_id": "52576331760ee36aaa33284f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1234708,
+        "known_for_department": "Acting",
+        "name": "Jodie Sweetin",
+        "original_name": "Jodie Sweetin",
+        "popularity": 2.0013,
+        "profile_path": "/7jeFeCWWp75GT9ztIXBiavjxczI.jpg",
+        "character": "Stephanie Tanner",
+        "credit_id": "52576331760ee36aaa3327eb",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 92509,
+        "known_for_department": "Acting",
+        "name": "Lori Loughlin",
+        "original_name": "Lori Loughlin",
+        "popularity": 2.5596,
+        "profile_path": "/uelwtzItSLYEgaSjfzxfQ1AE1YK.jpg",
+        "character": "Rebecca Katsopolis",
+        "credit_id": "52576331760ee36aaa332881",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1234709,
+        "known_for_department": "Acting",
+        "name": "Blake Tuomy-Wilhoit",
+        "original_name": "Blake Tuomy-Wilhoit",
+        "popularity": 0.174,
+        "profile_path": null,
+        "character": "Nicky Katsopolis",
+        "credit_id": "52576332760ee36aaa332993",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1236340,
+        "known_for_department": "Sound",
+        "name": "Dylan Tuomy-Wilhoit",
+        "original_name": "Dylan Tuomy-Wilhoit",
+        "popularity": 0.3824,
+        "profile_path": null,
+        "character": "Alex Katsopolis",
+        "credit_id": "52576335760ee36aaa332a80",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 67849,
+        "known_for_department": "Acting",
+        "name": "Mary-Kate Olsen",
+        "original_name": "Mary-Kate Olsen",
+        "popularity": 1.9627,
+        "profile_path": "/iKQ5OoUrPtQU0BMtKhR0joVWQZT.jpg",
+        "character": "Michelle Tanner",
+        "credit_id": "52576331760ee36aaa332923",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1212537,
+        "known_for_department": "Acting",
+        "name": "Andrea Barber",
+        "original_name": "Andrea Barber",
+        "popularity": 0.9631,
+        "profile_path": "/bdoXVaOWgdv1ugNwUdfdFJR3bwQ.jpg",
+        "character": "Kimmy Gibbler",
+        "credit_id": "52576332760ee36aaa3329c5",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 67848,
+        "known_for_department": "Acting",
+        "name": "Ashley Olsen",
+        "original_name": "Ashley Olsen",
+        "popularity": 1.8389,
+        "profile_path": "/suf5kWfRYErCp6D5YnOZlpGA8dH.jpg",
+        "character": "Michelle Tanner",
+        "credit_id": "52576332760ee36aaa332961",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 169417,
+        "known_for_department": "Writing",
+        "name": "Tom Amundsen",
+        "original_name": "Tom Amundsen",
+        "popularity": 0.9545,
+        "profile_path": null,
+        "credit_id": "5c235bf70e0a264dd8f12f6f",
+        "department": "Production",
+        "job": "Supervising Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1217882,
+        "known_for_department": "Writing",
+        "name": "Tom Burkhard",
+        "original_name": "Tom Burkhard",
+        "popularity": 0.5901,
+        "profile_path": null,
+        "credit_id": "5c235c4fc3a3686ff9eecce3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2202000,
+        "known_for_department": "Production",
+        "name": "James O'Keefe",
+        "original_name": "James O'Keefe",
+        "popularity": 0.1331,
+        "profile_path": null,
+        "credit_id": "5c235c600e0a264ddbf1417f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1237412,
+        "known_for_department": "Writing",
+        "name": "Marc Warren",
+        "original_name": "Marc Warren",
+        "popularity": 0.8629,
+        "profile_path": null,
+        "credit_id": "5c235a64c3a368700befd93f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1233592,
+        "known_for_department": "Writing",
+        "name": "Dennis Rinsler",
+        "original_name": "Dennis Rinsler",
+        "popularity": 0.988,
+        "profile_path": null,
+        "credit_id": "5c235a410e0a264dd8f12d4b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1407413,
+        "known_for_department": "Production",
+        "name": "Don Van Atta",
+        "original_name": "Don Van Atta",
+        "popularity": 0.1276,
+        "profile_path": null,
+        "credit_id": "5c235ae792514167efc4f647",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60621,
+        "known_for_department": "Writing",
+        "name": "Jeff Franklin",
+        "original_name": "Jeff Franklin",
+        "popularity": 1.5279,
+        "profile_path": "/7oPqgDS1YCNSneqg2DlkquywEJE.jpg",
+        "credit_id": "5c202f40c3a3686ff9ea79c7",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69877,
+        "known_for_department": "Production",
+        "name": "Thomas L. Miller",
+        "original_name": "Thomas L. Miller",
+        "popularity": 0.2361,
+        "profile_path": null,
+        "credit_id": "5c202f530e0a264df2ec6cc1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1355180,
+        "known_for_department": "Production",
+        "name": "Robert L. Boyett",
+        "original_name": "Robert L. Boyett",
+        "popularity": 0.2147,
+        "profile_path": null,
+        "credit_id": "5c202f699251411abcbff137",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1209684,
+        "known_for_department": "Sound",
+        "name": "Jesse Frederick",
+        "original_name": "Jesse Frederick",
+        "popularity": 0.3432,
+        "profile_path": null,
+        "credit_id": "5c202feac3a368700eea9ef1",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "baby",
+        "id": 1009
+      },
+      {
+        "name": "friendship",
+        "id": 6054
+      },
+      {
+        "name": "friends",
+        "id": 9713
+      },
+      {
+        "name": "family",
+        "id": 18035
+      },
+      {
+        "name": "single father",
+        "id": 33479
+      },
+      {
+        "name": "sitcom",
+        "id": 193171
+      },
+      {
+        "name": "father daughter relationship",
+        "id": 240303
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/aiXDRO3jglLdpkBjTJTJ1o8yQbL.jpg",
+        "id": 63623,
+        "name": "Fuller House",
+        "original_name": "Fuller House",
+        "overview": "San Francisco'da yaşayan D.J. hamiledir ve eşinden ayrılmıştır. Kardeşi Stephanie, en yakın arkadaşı Kimmy ve onun ergen kızı Ramona, 12 yaşındaki isyankar oğlu J.D. ve 7 yaşındaki oğlu Max ile başa çıkamayan D.J.'ye yardım etmek için, onun evine taşınırlar.",
+        "poster_path": "/gp9u9KgxQmk5zKBcup5J8cslikd.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          35
+        ],
+        "popularity": 20.4515,
+        "first_air_date": "2016-02-26",
+        "vote_average": 7.42,
+        "vote_count": 550,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/y6nEgbjMUpYLnVUwZDzX95wH5Vj.jpg",
+        "id": 4239,
+        "name": "Married... with Children",
+        "original_name": "Married... with Children",
+        "overview": "Al Bundy is an unsuccessful middle aged shoe salesman with a miserable life and an equally dysfunctional family. He hates his job, his wife is lazy, his son is dysfunctional (especially with women), and his daughter is dim-witted and promiscuous.",
+        "poster_path": "/qxdOgESOkBMmfcWUizL01mbdqzl.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 90.874,
+        "first_air_date": "1987-04-05",
+        "vote_average": 7.712,
+        "vote_count": 1074,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/rwr4VtrwuUuRbIGz5Nar0QmPoNO.jpg",
+        "id": 54,
+        "name": "Growing Pains",
+        "original_name": "Growing Pains",
+        "overview": "Fatherhood has taken on a whole new meaning for Jason Seaver, who has assumed the chores of cooking, cleaning and minding the kids so that his wife, Maggie, can pursue a career in journalism after spending 15 years as a housewife.",
+        "poster_path": "/dhzttMAkFTFAax2CTBAql1CaaXB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 21.8446,
+        "first_air_date": "1985-09-24",
+        "vote_average": 6.497,
+        "vote_count": 146,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uyB27Tx3KtczuSo4tDfmiXhfuCp.jpg",
+        "id": 1892,
+        "name": "The Fresh Prince of Bel-Air",
+        "original_name": "The Fresh Prince of Bel-Air",
+        "overview": "Will, a street-smart teenager, moves from the tough streets of West Philly to posh Bel-Air to live with his Uncle Philip, Aunt Vivian, his cousins — spoiled Hilary, preppy Carlton and young Ashley — and their sophisticated British butler, Geoffrey. Though Will’s antics and upbringing contrast greatly with the upper-class lifestyle of his extended relatives, he soon finds himself right at home as a loved part of the family.",
+        "poster_path": "/fJXzwxCVr2TEkhhKRKcih9o5DYK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 31.1798,
+        "first_air_date": "1990-09-10",
+        "vote_average": 7.9,
+        "vote_count": 2312,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zPyVcPi5vFjjHbZsYYbbIG1I0oL.jpg",
+        "id": 2140,
+        "name": "Everybody Loves Raymond",
+        "original_name": "Everybody Loves Raymond",
+        "overview": "Ray Barone, Long Island'da eşi Debra, kızı Ally ve ikiz oğulları Geoffrey ve Michael ile yaşayan başarılı bir spor yazarıdır. Bu iyi haber. Kötü haber? Ray'in burnunu sokan ebeveynleri Frank ve Marie, doğrudan caddenin karşısında oturuyorlar ve televizyon tarihinde benzeri görülmemiş bir ölçüde oğullarının evine sızan \"Su casa es mi casa\" sloganını benimsiyorlar.",
+        "poster_path": "/dcCnVVggEBfNpzHrqzDJqhE6tGP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 63.6951,
+        "first_air_date": "1996-09-13",
+        "vote_average": 6.805,
+        "vote_count": 589,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2azwVfMTNo9fP4FqMwC7n8p7EA4.jpg",
+        "id": 66399,
+        "name": "Cebollitas",
+        "original_name": "Cebollitas",
+        "overview": "",
+        "poster_path": "/roiGyMbV4gZxoZhOEL3x849web6.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          10751,
+          35,
+          18
+        ],
+        "popularity": 0.866,
+        "first_air_date": "1997-01-01",
+        "vote_average": 8.3,
+        "vote_count": 147,
+        "origin_country": []
+      },
+      {
+        "backdrop_path": "/73Ii6WOmDGTccVe3rBZOr82Zfo8.jpg",
+        "id": 2685,
+        "name": "Family Matters",
+        "original_name": "Family Matters",
+        "overview": "A long-running dramedy centering on the Winslow family, a middle-class African American family living in Chicago, and their pesky next-door neighbor, ultra-nerd Steve Urkel. A spin-off of Perfect Strangers.",
+        "poster_path": "/lIIPV3te2mxBQBHw2rfhwkUYsHf.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 32.3772,
+        "first_air_date": "1989-09-22",
+        "vote_average": 6.744,
+        "vote_count": 305,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qi925RRpANnzvZ00pybnHgXUA0a.jpg",
+        "id": 634,
+        "name": "Who's the Boss?",
+        "original_name": "Who's the Boss?",
+        "overview": "A former professional baseball player, along with his preteen daughter, moves into New York advertising executive Angela Bower's house to be both a housekeeper and a father figure to her young son. Tony 's laid-back personality contrasts with Angela's type-A behavior.",
+        "poster_path": "/uZjNwfCNi6lX3jmYAxHB1DUuqcB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 62.5398,
+        "first_air_date": "1984-09-20",
+        "vote_average": 7.4,
+        "vote_count": 275,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/pIPMPMEZErCxTvQG9HDt4AsnAfn.jpg",
+        "id": 4454,
+        "name": "Will & Grace",
+        "original_name": "Will & Grace",
+        "overview": "İki çok yakın arkadaş; Will gay bir avukat, Grace heteroseksüel bir iç mimar. Will ve Grace'in başlarından geçen birbirinden komik onlarca hikaye... Bu yetmezmiş gibi Willin kendisi gibi gay olan süslü arkadaşı Jack ve Gracein ayyaş iş arkadaşı Karen da bu ikiliye katılınca işler daha da karışır...",
+        "poster_path": "/kTkWxh0e4Lzmn19KWQxzMdKE4NC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 47.6171,
+        "first_air_date": "1998-09-21",
+        "vote_average": 6.825,
+        "vote_count": 504,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4byMhLzDk5aAoTx9aIr5vd6KOjC.jpg",
+        "id": 93742,
+        "name": "Alevlerin Ardından",
+        "original_name": "Le Bazar de la Charité",
+        "overview": "1897 Parisi'nde yaşanan yıkıcı bir yangının ardından üç kadının hayatı ihanetler, aldatmacalar ve romantik çalkantılarla altüst olur. Gerçek olaylardan esinlendi.",
+        "poster_path": "/zAJ8MDAdmxMntcLYpvvfR4UkgDp.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 5.1585,
+        "first_air_date": "2019-11-18",
+        "vote_average": 7.4,
+        "vote_count": 105,
+        "origin_country": [
+          "FR"
+        ]
+      },
+      {
+        "backdrop_path": "/jTvtYdBmpXK8koHm0Yx9H3iMPgt.jpg",
+        "id": 4396,
+        "name": "Northern Exposure",
+        "original_name": "Northern Exposure",
+        "overview": "After receiving a scholarship from the state, a recent Columbia University medical school graduate is required to set up his practice in an eccentric Alaskan town.",
+        "poster_path": "/cKDPNLQOOCwHRibhcamXwiEbIJO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18,
+          10765
+        ],
+        "popularity": 33.9899,
+        "first_air_date": "1990-07-12",
+        "vote_average": 7.858,
+        "vote_count": 173,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uUyul3Prvu31Sr6Tz8tyXZxzwwy.jpg",
+        "id": 44472,
+        "name": "Hotel Hell",
+        "original_name": "Hotel Hell",
+        "overview": "Chef Gordon Ramsay, along with a team of hospitality experts, travels the country applying his high standards to struggling hotels, motels, and bed and breakfasts in an effort to get the owners and staff to turn their establishments around. Ramsay's signature no-holds-barred style will make it clear to those he coaches that there is no place for dirty rooms or incompetent staff if one hopes to remain in business.",
+        "poster_path": "/7k88tKxgDpMuJWx7RDIBg5bk5N0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 3.2047,
+        "first_air_date": "2012-08-13",
+        "vote_average": 6.76,
+        "vote_count": 77,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/btFkAI2q3Dx3VVOdNRG93Pnqv90.jpg",
+        "id": 2875,
+        "name": "MacGyver",
+        "original_name": "MacGyver",
+        "overview": "MacGyver,Kanada yapılmış bir Amerikan televizyon dizisidir. Başrolünde, becerikli gizli ajan olarak, Richard Dean Anderson'ın yeraldığı dizi, Lee David Zlotoff tarafından yaratıldı ve 29 Eylül 1985'den 21 Mayıs 1992'ye kadar yedi sezon boyunca devam etti. Richard Dean Anderson'un oynadığı karakter olan Angus Macgyver (isminden çok hoşlanmadığı için dizide sık kullanmaz) bir taksi şoförü iken, taksisine aldığı Fonex'in bir çalışanı tarafından keşfedilir. Fonex çalışanı bir takibe uğrar ve Macgyver bu takipten ilginç yöntemlerini kullanarak kurtulur. Seri, daha sonra Fonex için gizli ajan olarak çalışmaya başlayan Macgyver'ın maceralarını anlatır. Silah kullanmayı sevmeyen Macgyver, fizik ve kimya bilgilerini kullanarak çevresinde bulduğu araç gereçlerden silah, bomba vs. yaparak düşmanlarının elinden kurtulacaktır.",
+        "poster_path": "/4dxSzitiWtmIFAytkyJUaoiZvhr.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          80
+        ],
+        "popularity": 74.3664,
+        "first_air_date": "1985-09-29",
+        "vote_average": 7.7,
+        "vote_count": 853,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lxekzMqu4I1dWG7bK4IaurD5PbM.jpg",
+        "id": 30703,
+        "name": "Köpekbalığı Tankı",
+        "original_name": "Shark Tank",
+        "overview": "Aspiring entrepreneurs pitch various business ideas to \"The Sharks\" -- tough, self-made, multi-millionaire and billionaire tycoons -- in hopes of landing an investment.",
+        "poster_path": "/wztqq3SWfdzcuxvl9oA2HwOXasO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 51.5489,
+        "first_air_date": "2009-08-09",
+        "vote_average": 6.738,
+        "vote_count": 124,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/d0nAuGAH5EIQDLTs7dJcQOubpha.jpg",
+        "id": 4345,
+        "name": "Saved by the Bell",
+        "original_name": "Saved by the Bell",
+        "overview": "Lovable schemer Zack Morris leads his pals on adventures at California's Bayside High School. The friends navigate relationships, final exams, school dances, breakups and more while frequently frustrating their principal, Mr. Richard Belding, who does his best to keep them in check.",
+        "poster_path": "/9YC576fs6XQR2pfPDJn4kcmG8T5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          35
+        ],
+        "popularity": 29.2375,
+        "first_air_date": "1989-08-20",
+        "vote_average": 7.82,
+        "vote_count": 661,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uAfsRtKnCdtHTF49yyvfyCyL5Uu.jpg",
+        "id": 2855,
+        "name": "Relic Hunter",
+        "original_name": "Relic Hunter",
+        "overview": "Sydney Fox is a professor and globe-trotting \"relic hunter\" who looks for ancient artifacts to return to museums and/or the descendants of the original owner. She is aided by her linguistic assistant Nigel and occasionally by her somewhat air-headed secretary Claudia. She often ends up battling rival hunters seeking out artifacts for the money.",
+        "poster_path": "/t04oqIsBlRnxKOWhBL6SlEQowZ5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          9648,
+          10759,
+          18
+        ],
+        "popularity": 11.4,
+        "first_air_date": "1999-09-25",
+        "vote_average": 6.7,
+        "vote_count": 157,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/jtt37CowTFdy2Avg1HzzZYp1AA7.jpg",
+        "id": 82653,
+        "name": "Bless the Harts",
+        "original_name": "Bless the Harts",
+        "overview": "The lives of a group of Southerners who are always broke as a joke and struggling for the American dream of status and wealth. What they don’t realize is that they’re already rich — in friends, family and laughter.",
+        "poster_path": "/havvMQWenLDVRMF46ncF1vVoLLU.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          16
+        ],
+        "popularity": 11.0102,
+        "first_air_date": "2019-09-29",
+        "vote_average": 6.809,
+        "vote_count": 47,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5YKLaoFAAMQlqkpN6sakKQgYpPJ.jpg",
+        "id": 6208,
+        "name": "Little Bill",
+        "original_name": "Little Bill",
+        "overview": "Little Bill is a television show for children that is presently on Nick Jr. The stories are based on Bill Cosby's Little Bill book series, set in Philadelphia and feature Bill Jr. learning a lesson or moral. It was developed through research and in consultation with a panel of educational consultants.\n\nThe show also aired on CBS as part of Nick Jr. on CBS, from September 16, 2000 - September 7, 2002, then as part of Nick on CBS from August 2, 2003 - September 10, 2005. The show returned with the return of Nick Jr. on CBS on September 17, 2005, and seen through September 9, 2006 when the block was replaced with The KOL Secret Slumber Party on CBS. The series went back into production in fall 2006 and a new season of 6 episodes aired on Noggin throughout April and July 2007, ending in the later month. Reruns are played on Nick Jr., on BET, as of January 7, 2008, and on Centric, as of May 1, 2010.\n\nSonia Manzano, best known for playing Maria Rodriguez on Sesame Street, was a frequent writer for the show.",
+        "poster_path": "/uud37MhZDe2GuQuRIMNuJ1aZQM7.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16
+        ],
+        "popularity": 9.3301,
+        "first_air_date": "1999-11-28",
+        "vote_average": 6.6,
+        "vote_count": 21,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/poaxhWMnvrMeEmG6j3wLWNhZvJj.jpg",
+        "id": 4550,
+        "name": "7th Heaven",
+        "original_name": "7th Heaven",
+        "overview": "Reverend Eric Camden and his wife Annie have always had their hands full caring for seven children, not to mention the friends, sweethearts and spouses that continually come and go in the Camden household.",
+        "poster_path": "/s6mkZKanKim3VGUIxR2gGGf9jn0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          18,
+          35
+        ],
+        "popularity": 22.1788,
+        "first_air_date": "1996-08-26",
+        "vote_average": 6.395,
+        "vote_count": 204,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/fRwC1fjN1rp1Cw5iE4ObPEpoZWh.jpg",
+        "id": 125116,
+        "name": "Hayal Adası",
+        "original_name": "Fantasy Island",
+        "overview": "Doğa harikası bir atmosfer içinde, gelen konukların tüm fantezilerinin gerçekleştirildiği adanın yeni misafirlerinden biri de yerel bir sabah programı sunucusudur ve basit bir isteği vardır; aç olduğunu farkedene kadar yemek. Ölümcül bir hastalığa yakalandıktan sonra, kocasıyla birlikte adaya gelen Ruby Akuda'ya ise yaşam için ikinci bir şans verilir.",
+        "poster_path": "/bl6qV6nO0Cd4N9boVJo08pJUoB2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 9.5756,
+        "first_air_date": "2021-08-10",
+        "vote_average": 6.1,
+        "vote_count": 72,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

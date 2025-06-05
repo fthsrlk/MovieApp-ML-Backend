@@ -1,0 +1,825 @@
+{
+  "adult": false,
+  "backdrop_path": "/m6APcUIeNdFormiiKsGaG8Hdu49.jpg",
+  "created_by": [
+    {
+      "id": 1213739,
+      "credit_id": "5258efca760ee346618f3012",
+      "name": "Jack Burditt",
+      "original_name": "Jack Burditt",
+      "gender": 2,
+      "profile_path": "/2g9EPFt6LbhazHQZNdIJE1TXwac.jpg"
+    }
+  ],
+  "episode_run_time": [
+    21
+  ],
+  "first_air_date": "2011-10-11",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Komedi"
+    }
+  ],
+  "homepage": "https://www.fox.com/last-man-standing/",
+  "id": 39297,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2021-05-20",
+  "last_episode_to_air": {
+    "id": 2928433,
+    "name": "21. Bölüm",
+    "overview": "",
+    "vote_average": 9.0,
+    "vote_count": 1,
+    "air_date": "2021-05-20",
+    "episode_number": 21,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 21,
+    "season_number": 9,
+    "show_id": 39297,
+    "still_path": "/9dtrHTUndQqzdTHMWyULyEVHtKC.jpg"
+  },
+  "name": "Last Man Standing",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    },
+    {
+      "id": 19,
+      "logo_path": "/1DSpHrWyOORkL9N2QHX7Adt31mQ.png",
+      "name": "FOX",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 194,
+  "number_of_seasons": 9,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Last Man Standing",
+  "overview": "Mike Baxter bir açık hava spor malzemeleri mağazasının pazarlama direktörüdür. İş seyahatlerinde kullandığı kamyonetle macera yaşamayı çok seven Mike, kendi sektöründe işin kralı olsada eşi Vanessa ve üç kızı; 22 yaşındaki Kristin, 17 yaşındaki Mandy ve 14 yaşındaki Eve ile beraber yaşadığı kadınların hakim olduğu evin tuhaf adamıdır. Yıllardır ev kadınlığı yapan Vanessa’nın aniden iş hayatına geri dönmesi ve hızlı bir şekilde terfi almasıyla işler biraz değişir. Vanessa'nın artan iş yükü sonucunda, Mike daha önce yapmadığı kadar ebeveynlik yapmak zorunda kalır. Ancak bu hiç de göründüğü kadar kolay olmayacaktır.",
+  "popularity": 73.8954,
+  "poster_path": "/ofUvbcwxcA0E7qYUlhBx4gZmAzX.jpg",
+  "production_companies": [
+    {
+      "id": 35486,
+      "logo_path": null,
+      "name": "21 Laps Adelstein Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 1556,
+      "logo_path": "/31h94rG9hzjprXoYNy3L1ErUya2.png",
+      "name": "20th Century Fox Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 244761,
+      "logo_path": null,
+      "name": "Mr. Big Shot Fancy-Pants Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 244762,
+      "logo_path": null,
+      "name": "Lyonsberry Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 222662,
+      "logo_path": null,
+      "name": "Double Wide Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 244763,
+      "logo_path": null,
+      "name": "NestEgg Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 236166,
+      "logo_path": "/8rFlu5iytnjsciYXZDw90ktllCI.png",
+      "name": "20th Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2011-09-08",
+      "episode_count": 1,
+      "id": 50725,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/wbPh394GrmXnHCIc4Izhad2PvjC.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-10-11",
+      "episode_count": 24,
+      "id": 50726,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/5QMK1grCBYrvjR9liDhPXykUDQ6.jpg",
+      "season_number": 1,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2012-11-02",
+      "episode_count": 18,
+      "id": 50727,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/iDBpXDnx2QLvxsJ0nNvX2H8SDpg.jpg",
+      "season_number": 2,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2013-09-20",
+      "episode_count": 22,
+      "id": 50728,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/tdvcUD1TtXm9SaMrSKsQdSeOxVY.jpg",
+      "season_number": 3,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2014-10-03",
+      "episode_count": 22,
+      "id": 63031,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/h7vgiLcj7knxxpZ0exbmkl15jHM.jpg",
+      "season_number": 4,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2015-09-25",
+      "episode_count": 22,
+      "id": 70966,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/9MIr8XcVGLtdDJILKCdajdSt4to.jpg",
+      "season_number": 5,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2016-09-23",
+      "episode_count": 22,
+      "id": 80256,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/uFy9moEdX7n6rXVTVB0fyWDj95I.jpg",
+      "season_number": 6,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2018-09-28",
+      "episode_count": 22,
+      "id": 103848,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/h0hkQYMYl8Ws6Mv4O5pUrpBGTNz.jpg",
+      "season_number": 7,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2020-01-02",
+      "episode_count": 21,
+      "id": 138210,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/mFcPQDN50uSGpjxWevswqiZDkcq.jpg",
+      "season_number": 8,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2021-01-03",
+      "episode_count": 21,
+      "id": 174326,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/ofUvbcwxcA0E7qYUlhBx4gZmAzX.jpg",
+      "season_number": 9,
+      "vote_average": 6.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.271,
+  "vote_count": 325,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12898,
+        "known_for_department": "Acting",
+        "name": "Tim Allen",
+        "original_name": "Tim Allen",
+        "popularity": 3.507,
+        "profile_path": "/woWhZzFILVhYMAvsPL171HjMY0y.jpg",
+        "character": "Mike Baxter",
+        "credit_id": "5258efc3760ee346618f2e91",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 18331,
+        "known_for_department": "Acting",
+        "name": "Nancy Travis",
+        "original_name": "Nancy Travis",
+        "popularity": 3.308,
+        "profile_path": "/8NVTIgCYB6H0GrAwNPLwdU92pdt.jpg",
+        "character": "Vanessa Baxter",
+        "credit_id": "5258efc3760ee346618f2e73",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1210,
+        "known_for_department": "Acting",
+        "name": "Héctor Elizondo",
+        "original_name": "Héctor Elizondo",
+        "popularity": 3.7849,
+        "profile_path": "/7Mfx9xeOFKXtzVpAc1488LiHs0b.jpg",
+        "character": "Ed Alzate",
+        "credit_id": "5258efc3760ee346618f2eaf",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77521,
+        "known_for_department": "Acting",
+        "name": "Christoph Sanders",
+        "original_name": "Christoph Sanders",
+        "popularity": 0.8494,
+        "profile_path": "/3XJjZ3Yvkqj0YucwSsOTQUnqT8l.jpg",
+        "character": "Kyle Anderson",
+        "credit_id": "5258efc4760ee346618f2ee9",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 133401,
+        "known_for_department": "Acting",
+        "name": "Amanda Fuller",
+        "original_name": "Amanda Fuller",
+        "popularity": 1.8741,
+        "profile_path": "/bsZEjrhT0N61C6gkF4rWTKNy5zz.jpg",
+        "character": "Kristin Baxter",
+        "credit_id": "5258efc4760ee346618f2f23",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1254592,
+        "known_for_department": "Acting",
+        "name": "Jordan Masterson",
+        "original_name": "Jordan Masterson",
+        "popularity": 1.1513,
+        "profile_path": "/iTaXeaPZykdQLJtIfgiVTomNVtT.jpg",
+        "character": "Ryan Vogelson",
+        "credit_id": "565eccd4c3a3687509001df1",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1202361,
+        "known_for_department": "Acting",
+        "name": "Molly McCook",
+        "original_name": "Molly McCook",
+        "popularity": 0.6952,
+        "profile_path": "/teQNNNzrpNjyTkfPjRd27CSwKUP.jpg",
+        "character": "Mandy Baxter",
+        "credit_id": "5c3e9a26c3a36811b43f2e5a",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17825,
+        "known_for_department": "Directing",
+        "name": "Shawn Levy",
+        "original_name": "Shawn Levy",
+        "popularity": 3.0343,
+        "profile_path": "/b1ulkCHz8biG87LjLQQiMCebEZo.jpg",
+        "credit_id": "63e3b4a5fac50200986d5f18",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12898,
+        "known_for_department": "Acting",
+        "name": "Tim Allen",
+        "original_name": "Tim Allen",
+        "popularity": 3.507,
+        "profile_path": "/woWhZzFILVhYMAvsPL171HjMY0y.jpg",
+        "credit_id": "641c6a5895c0af00a0218a34",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "marketing",
+        "id": 3983
+      },
+      {
+        "name": "family",
+        "id": 18035
+      },
+      {
+        "name": "sitcom",
+        "id": 193171
+      },
+      {
+        "name": "family comedy",
+        "id": 298618
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/iPedkIT4fDPSxNBFFCdKzoXgHid.jpg",
+        "id": 9899,
+        "name": "Saving Grace",
+        "original_name": "Saving Grace",
+        "overview": "Grace Hanadarko is a tormented, fast-living Oklahoma City police detective who, despite having an excellent career in solving crimes, takes self-destruction to new heights. After seeing tremendous tragedy, both professionally and personally, Grace reaches a turning point one night and meets a rough-hewn angel with a similar past who wants to help lead her back to the right path.",
+        "poster_path": "/kxasURRX1FHh1el6XYpSM2LGSVR.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 20.0818,
+        "first_air_date": "2007-07-23",
+        "vote_average": 7.633,
+        "vote_count": 49,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ebE8OvTLBkgP5u64jOHHATvQyXK.jpg",
+        "id": 67157,
+        "name": "The Great Indoors",
+        "original_name": "The Great Indoors",
+        "overview": "An adventure reporter must adapt to the times when he becomes the boss to a group of millennials in the digital department of the magazine.",
+        "poster_path": "/ot4gdEwuXHf0wOOmKJW86Cd1b69.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 3.6913,
+        "first_air_date": "2016-10-27",
+        "vote_average": 5.603,
+        "vote_count": 58,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cRXJ2WyuIRF3tVCt5LXXZ9CzNVm.jpg",
+        "id": 61725,
+        "name": "The Odd Couple",
+        "original_name": "The Odd Couple",
+        "overview": "Oscar's life seems almost perfect...sure he's divorced and his apartment is a mess, but he's the host of a well-known sports show, and is enjoying his bachelor lifestyle in New York City. That is until his college friend, Felix, shows up at Oscar's apartment having just been dumped by his wife. Oscar does his best to console his old buddy and get him back on the dating horse, but his attempts uncover just how unresolved his own feelings are about his ex.",
+        "poster_path": "/24HI3P1UtxJy019gYQSNd1FbXdN.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 10.4354,
+        "first_air_date": "2015-02-19",
+        "vote_average": 5.854,
+        "vote_count": 89,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/3qDzdlXbwhPWMopcyyw0o82wyVx.jpg",
+        "id": 50042,
+        "name": "Below Deck",
+        "original_name": "Below Deck",
+        "overview": "Lüks bir yatın genç mürettebatı, denizde bir yaşama yelken açar ve güvertede yaşanan aşklar, talepkâr konuklar ve keyifli yolculuklarını tehdit eden zorluklarla uğraşır.",
+        "poster_path": "/xMkYEWMGB7F7YfzJ24DPXoDj8vo.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 19.2771,
+        "first_air_date": "2013-07-01",
+        "vote_average": 7.4,
+        "vote_count": 53,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/r4BgDyLaWKd1ealnVEsG2eJLsc.jpg",
+        "id": 67156,
+        "name": "Man with a Plan",
+        "original_name": "Man with a Plan",
+        "overview": "A dad finds out that parenting is harder than he thought after his wife goes back to work and he's left at home to take care of the kids.",
+        "poster_path": "/fCJMHR0GmR4layd4KQXC1HUPMlf.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 24.6222,
+        "first_air_date": "2016-10-24",
+        "vote_average": 6.7,
+        "vote_count": 119,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4bcBNrKWz4N79KoL11QOZPEYFle.jpg",
+        "id": 113477,
+        "name": "Mr. Mayor",
+        "original_name": "Mr. Mayor",
+        "overview": "Tina Fey ve Robert Carlock’un yaratıcılığını yaptığı dizinin başrolünü Altın Küre ve Emmy ödüllü yıldız Ted Danson ve Oscar ödüllü aktris Holly Hunter paylaşıyor.“Mr. Mayor” varlıklı bir adamın Los Angeles belediye başkanı seçilmesiyle birlikte gelişen eğlenceli olayları anlatıyor.",
+        "poster_path": "/uPAaoNJWbRkF7s0f3tPbVehiBgT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 4.6557,
+        "first_air_date": "2021-01-07",
+        "vote_average": 6.513,
+        "vote_count": 80,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gNCDlz5dSjGYajyfCbSreXkMfdL.jpg",
+        "id": 39702,
+        "name": "House of Lies",
+        "original_name": "House of Lies",
+        "overview": "Charming, fast talking Marty Kaan and his crack team of management consultants know how to play the corporate game better than anyone, by using every dirty trick in the book to woo powerful CEOs and close huge deals. In the board rooms, barrooms, and bedrooms of the power elite, corruption is business as usual and everyone's out for themselves first. Nothing is sacred in this scathing, irreverent satire of corporate America today.",
+        "poster_path": "/xrrNWeMC9p2J0fEUCYYsyA67EdB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 5.6954,
+        "first_air_date": "2012-01-08",
+        "vote_average": 6.575,
+        "vote_count": 187,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7w4OCRKq00tMAJlwVwW8vyFSodx.jpg",
+        "id": 2552,
+        "name": "Mork & Mindy",
+        "original_name": "Mork & Mindy",
+        "overview": "A wacky alien comes to Earth to study its residents and the life of the human woman he boards with is never the same.",
+        "poster_path": "/mzWJikslTFFeRloUNQmbAWbdU28.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 12.4534,
+        "first_air_date": "1978-09-14",
+        "vote_average": 7.1,
+        "vote_count": 145,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/62PjKg1YWiy7FlAmfEO5xrOqzCZ.jpg",
+        "id": 32022,
+        "name": "Being Human",
+        "original_name": "Being Human",
+        "overview": "Üç paranormal oda arkadaşı, bir hayalet, bir vampir ve bir kurt adam, karanlık sırlarını dünyadan saklamak için mücadele ederken, birbirlerine çifte hayat yaşamanın karmaşıklıklarında yollarını bulmalarına yardım ediyor.",
+        "poster_path": "/d52U5AqwdZcTCq8QuRfxRP4G3kc.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 13.9541,
+        "first_air_date": "2011-01-17",
+        "vote_average": 7.027,
+        "vote_count": 182,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/xw5vCraoxTvZzWFejaPNCjlqBGR.jpg",
+        "id": 68126,
+        "name": "Norsemen",
+        "original_name": "Vikingane",
+        "overview": "8. yüzyılda bir Viking köyünün sakinleri, kültürlerini ve yaşam biçimlerini altüst eden politik rekabetle, sosyal değişikliklerle ve yeniliklerle karşılaşıyor.",
+        "poster_path": "/xCt02AL7i395Nwfq8jbq1C54mvX.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "no",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 9.7005,
+        "first_air_date": "2016-10-21",
+        "vote_average": 7.1,
+        "vote_count": 176,
+        "origin_country": [
+          "NO"
+        ]
+      },
+      {
+        "backdrop_path": "/bEjFkaFctIXgCUeYn4ei3ECULQi.jpg",
+        "id": 500,
+        "name": "Mad About You",
+        "original_name": "Mad About You",
+        "overview": "Young, urban newlyweds Paul and Jamie Buchman try to sustain their marital bliss while sidestepping the hurdles of love in the '90s.",
+        "poster_path": "/vvnslQjc1LnERuroGVh8bPdBi2r.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 55.2012,
+        "first_air_date": "1992-09-23",
+        "vote_average": 6.69,
+        "vote_count": 227,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/n9JOYF83rMMeYdGWeqcm8bVF8XA.jpg",
+        "id": 42878,
+        "name": "Anger Management",
+        "original_name": "Anger Management",
+        "overview": "Charlie is a non-traditional therapist specializing in anger management. He has a successful private practice and he performs pro bono counseling for an inmate group at a state prison. Prior to his career as a therapist, he was a major league baseball player whose career was put on the shelf for good by his own struggle with anger issues.",
+        "poster_path": "/vfWOzdgf9eB7IjZ9VqgXiWbxJ65.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 37.4026,
+        "first_air_date": "2012-06-28",
+        "vote_average": 6.193,
+        "vote_count": 236,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zIow3gF75bFVl8VkRdeP08vxaCQ.jpg",
+        "id": 63535,
+        "name": "Vinyl",
+        "original_name": "Vinyl",
+        "overview": "Başrollerini Bobby Cannavale, Olivia Wilde, Ray Romano ve Juno Temple gibi isimlerin paylaştığı Vinyl; 1970’li yıllarda New York’un rock’n roll sahnesine ve perde arkasında olanlara ışık tutacak.",
+        "poster_path": "/t8RbNsFIvqHxwAEvgn2WXmJK8TL.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 5.0487,
+        "first_air_date": "2016-02-14",
+        "vote_average": 7.045,
+        "vote_count": 220,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/iIsRu2x3gTLoH26DGs9gpvrvqPg.jpg",
+        "id": 33958,
+        "name": "Camelot",
+        "original_name": "Camelot",
+        "overview": "Kral Uther yemek yerken ölecek, İngiltere kaosa sürüklenecek. Büyücü Merlin'in hedefi karanlık gelecekte genç ve aceleci Arthur'u, Uther'in gizli oğlu ve mirasçısı yapmak olacak. Arthur Britanya'yı birleştirmek babasının kurduğu krallığı genişletmek ülkesine ve Britanya'ya barış ve huzur getirmek amacıyla kolları sıvayacak.",
+        "poster_path": "/kT4yBlYjB0Cm6Qp9bwkjXrFPU1v.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 6.239,
+        "first_air_date": "2011-02-25",
+        "vote_average": 6.321,
+        "vote_count": 170,
+        "origin_country": [
+          "CA",
+          "US",
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/8iIKvcy8VyYHqZiRvVuDftTzIPM.jpg",
+        "id": 2122,
+        "name": "King of the Hill",
+        "original_name": "King of the Hill",
+        "overview": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident substitute Spanish teacher wife Peggy, wannabe comedian son Bobby, and naive niece Luanne. Hank has conservative views about God, family, and country, but his values and ethics are often challenged by the situations he, his family, and his beer-drinking neighbors/buddies find themselves in.",
+        "poster_path": "/3MnkwPdqQ4if7HL4rYTy6eUyq8q.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10751
+        ],
+        "popularity": 112.866,
+        "first_air_date": "1997-01-12",
+        "vote_average": 7.3,
+        "vote_count": 592,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1KclsHGiGNTkn11puPbMMnnpRRT.jpg",
+        "id": 2593,
+        "name": "Without a Trace",
+        "original_name": "Without a Trace",
+        "overview": "The series follows the ventures of a Missing Persons Unit of the FBI in New York City.",
+        "poster_path": "/iNhE283iY7xtS8zCjhSxpTfOzn0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          9648,
+          10759,
+          18
+        ],
+        "popularity": 73.1824,
+        "first_air_date": "2002-09-26",
+        "vote_average": 7.262,
+        "vote_count": 261,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/rca7DzvnlJGYtyOmtC111PCZsJ6.jpg",
+        "id": 81144,
+        "name": "The Neighborhood",
+        "original_name": "The Neighborhood",
+        "overview": "Los Angeles’a taşınan Johnson ailesinin hayatı, yeni mahallelerinde yeni komşularıyla tamamen değişir.Sıradışı kaçtıkları bu yeni mahallede artık onları eğlenceli bir başlangıç beklemektedir.“The Big Bang Theory”nin yaratıcısı Jim Reynolds’ın kaleme aldığı kahkaha dolu bu diziyi kaçırmayın!",
+        "poster_path": "/uItUViUsFAY7wzufTS2zWNbuuAm.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 40.9194,
+        "first_air_date": "2018-10-01",
+        "vote_average": 7.6,
+        "vote_count": 141,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zDSvUcCR2nkrGhLUTIgqQ18P27U.jpg",
+        "id": 36994,
+        "name": "Workaholics",
+        "original_name": "Workaholics",
+        "overview": "The misadventures of three recent college dropouts, roommates, and co-workers at a telemarketing company and their drug dealer.",
+        "poster_path": "/kXg4tFUHN7h7bNdBTeLIIKqw9UJ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 9.9573,
+        "first_air_date": "2011-04-06",
+        "vote_average": 7.448,
+        "vote_count": 268,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/oMgRyddjdo4UzzXmgFZpy9GVs4N.jpg",
+        "id": 7171,
+        "name": "Going Postal",
+        "original_name": "Going Postal",
+        "overview": "kahramanımız moist von lipwig yetenekli ama şiddet karşıtı iyimser bir dolandırıcıdır ve en sonunda yakalanır, suçlu bulunur ve halkın önünde asılmak istenir. sahte bir asılma olayıyla halkın isteğini yerine getiren lord vetinari herkesin öldüğünü düşünmesini istediği kahramanımıza parlak zekasından dolayı bir iş teklifinde bulunur yani şehir postanesine tekrar işlerlik kazandırmasını ister. yalnız ortada bir de rakip vardır görsel telgraf gönderme şirketi ve onun kötü kalpli yöneticisi reacher gilt'tir. postaneyi tekrar canlandırmak için girdiği rekabette tanıştığı adora belle dearheart ile yakınlaşırken bir yandan da rekabet içinde olduğu reacher gilt'in mesaj kulelerini nasıl ele geçirdiğini öğrenir. tüm bunlar olurken de geçmişiyle yüzleşir ve özgürlüğe giden tek yolun bu olduğunu düşünen lipwig görevi kabul etmiştir ama yine de huyundan vazgeçmeyeceğini yaptığı işlerle gösterir",
+        "poster_path": "/i03NYQoPmw40fodRPkSFt7nrot9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10765
+        ],
+        "popularity": 2.6463,
+        "first_air_date": "2010-05-30",
+        "vote_average": 7.1,
+        "vote_count": 187,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/5xCxoMktHFsrcF283IMTL4OGtuR.jpg",
+        "id": 66551,
+        "name": "The Mick",
+        "original_name": "The Mick",
+        "overview": "Dizi, kocası federal dolandırıcılık suçlamasıyla tutuklandıktan sonra Rhode Island'da yaşayan zengin kız kardeşinin yanına kaçmak ve onun şımarık çocuklarına bakmak zorunda kalan Mackenzie Murphy'nin (Kaitlin Olson) hikayesini anlatmaktadır.",
+        "poster_path": "/jwYBohob30EeP1rJJMx9zcWSaGS.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 13.5622,
+        "first_air_date": "2017-01-01",
+        "vote_average": 7.217,
+        "vote_count": 246,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

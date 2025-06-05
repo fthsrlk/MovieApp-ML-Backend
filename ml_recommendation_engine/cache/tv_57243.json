@@ -1,0 +1,877 @@
+{
+  "adult": false,
+  "backdrop_path": "/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
+  "created_by": [
+    {
+      "id": 1213434,
+      "credit_id": "527f9c7619c29514f208c31e",
+      "name": "C. E. Webber",
+      "original_name": "C. E. Webber",
+      "gender": 2,
+      "profile_path": "/lHzDADWGW2ESV1uDovZzLG79sRc.jpg"
+    },
+    {
+      "id": 57293,
+      "credit_id": "527f9c6b19c29514f208c30e",
+      "name": "Sydney Newman",
+      "original_name": "Sydney Newman",
+      "gender": 2,
+      "profile_path": "/QKW3Widw7yaemYlB3NKEmJrhrF.jpg"
+    },
+    {
+      "id": 1213433,
+      "credit_id": "527f9c8119c29514ef0a0829",
+      "name": "Donald Wilson",
+      "original_name": "Donald Wilson",
+      "gender": 2,
+      "profile_path": "/zjaWtI7qPMYYYkoSO1pDu5zESZC.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2005-03-26",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Aksiyon & Macera"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 10765,
+      "name": "Bilim Kurgu & Fantazi"
+    }
+  ],
+  "homepage": "http://www.bbc.co.uk/programmes/b006q2x0",
+  "id": 57243,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2021-12-05",
+  "last_episode_to_air": {
+    "id": 3336493,
+    "name": "The Vanquishers",
+    "overview": "",
+    "vote_average": 5.9,
+    "vote_count": 31,
+    "air_date": "2021-12-05",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 13,
+    "show_id": 57243,
+    "still_path": "/20wu1cj5iZWyphnYQvKY1M9yBYQ.jpg"
+  },
+  "name": "Doctor Who",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4,
+      "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+      "name": "BBC One",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 153,
+  "number_of_seasons": 13,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Doctor Who",
+  "overview": "Bu Doktor bambaşka bir doktor. Adı, karakteri, tavırları her şeyiyle bir muamma. Rose Tyler adında bir kadın, kendisini Doktor diye adlandıran gizemli bir yabancıyla tanışır ve bundan sonra hayatı baştan sona değişir. Kısa süre içerisinde ailesi de dahil bütün dünyanın tehlike altında olduğunu öğrenir. Yapması gereken ise kurtuluş yolunu bulmaktır.",
+  "popularity": 180.0137,
+  "poster_path": "/4edFyasCrkH4MKs6H4mHqlrxA6b.jpg",
+  "production_companies": [
+    {
+      "id": 4762,
+      "logo_path": "/cey5EAFwOb7AfDOsQ4p4q5MixzX.png",
+      "name": "BBC Cymru Wales",
+      "origin_country": "GB"
+    },
+    {
+      "id": 80893,
+      "logo_path": "/hFzOkuR4FoZE1U1hvuojMp4Qfxa.png",
+      "name": "BBC Studios",
+      "origin_country": "GB"
+    },
+    {
+      "id": 12113,
+      "logo_path": "/lwnLVleFG0sRAYBq5IObgN30r9F.png",
+      "name": "CBC",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2005-11-18",
+      "episode_count": 199,
+      "id": 58476,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/oKUI2vCVGpakvfZJ4GmEZC8AvRX.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2005-03-26",
+      "episode_count": 13,
+      "id": 58468,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/9Jt2FFCAME7eHDC28r4qCHErhhF.jpg",
+      "season_number": 1,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2006-04-15",
+      "episode_count": 13,
+      "id": 58469,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/oXVmsIkZCgJDNcZJJxzvV7zwyb1.jpg",
+      "season_number": 2,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2007-04-01",
+      "episode_count": 13,
+      "id": 58470,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/67xbjSv353G2rqQIs6dnDKc6P11.jpg",
+      "season_number": 3,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2008-04-05",
+      "episode_count": 13,
+      "id": 58471,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/h6hogh9U371q87XLhvrJbczg8lm.jpg",
+      "season_number": 4,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2010-04-03",
+      "episode_count": 13,
+      "id": 58472,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/hUsQerEeMqsu9cVYzMEB2OGJjrw.jpg",
+      "season_number": 5,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2011-04-23",
+      "episode_count": 13,
+      "id": 58473,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/xmfMcVkVer5r33QhA4e2DpIR78B.jpg",
+      "season_number": 6,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2012-09-01",
+      "episode_count": 13,
+      "id": 58474,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/6biGcR0OyFnKRxxUW7bGtK49wTd.jpg",
+      "season_number": 7,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2014-08-23",
+      "episode_count": 12,
+      "id": 58475,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/wLxULmhnIM1wbzjzvFnEq8YXtFB.jpg",
+      "season_number": 8,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "2015-09-19",
+      "episode_count": 12,
+      "id": 64188,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/AeFY6HsLGcanP2fhD6Feii9BhHW.jpg",
+      "season_number": 9,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2017-04-15",
+      "episode_count": 12,
+      "id": 76615,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/9ExkVNeQw695kQ8xsnm2TJhTEFP.jpg",
+      "season_number": 10,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2018-10-07",
+      "episode_count": 10,
+      "id": 97100,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/tFu6Or2wZP8xW5CBUy3MROtcF29.jpg",
+      "season_number": 11,
+      "vote_average": 6.1
+    },
+    {
+      "air_date": "2020-01-01",
+      "episode_count": 10,
+      "id": 135741,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/cDDb7WA2i7cENhkEEjXEDrXGyNL.jpg",
+      "season_number": 12,
+      "vote_average": 6.2
+    },
+    {
+      "air_date": "2021-10-31",
+      "episode_count": 6,
+      "id": 175012,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": "/hnAwYE6NvC4UVdMRPd7FOX52PQy.jpg",
+      "season_number": 13,
+      "vote_average": 6.6
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.5,
+  "vote_count": 3113,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 66431,
+        "known_for_department": "Acting",
+        "name": "Jodie Whittaker",
+        "original_name": "Jodie Whittaker",
+        "popularity": 2.439,
+        "profile_path": "/zS6EO1GsfOiuyaa66YqmUPWDX78.jpg",
+        "character": "The Doctor",
+        "credit_id": "597b356a925141364a0106fb",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1752554,
+        "known_for_department": "Acting",
+        "name": "Mandip Gill",
+        "original_name": "Mandip Gill",
+        "popularity": 0.9565,
+        "profile_path": "/8YK6RDwTSrPhx6fwQaD83LnDxuN.jpg",
+        "character": "Yasmin 'Yaz' Khan",
+        "credit_id": "5a6f45b90e0a26795f0000f9",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 216049,
+        "known_for_department": "Acting",
+        "name": "John Bishop",
+        "original_name": "John Bishop",
+        "popularity": 1.199,
+        "profile_path": "/tooZmoOa6YLZTyak8gbbYXFeile.jpg",
+        "character": "Dan Lewis",
+        "credit_id": "5fef84a4140bad003ca577ad",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1970272,
+        "known_for_department": "Sound",
+        "name": "Segun Akinola",
+        "original_name": "Segun Akinola",
+        "popularity": 0.283,
+        "profile_path": "/g3nuRxGLX3gQTmqTRZjNl4toy4.jpg",
+        "credit_id": "5dd9983528723c18ad56a2d7",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1970272,
+        "known_for_department": "Sound",
+        "name": "Segun Akinola",
+        "original_name": "Segun Akinola",
+        "popularity": 0.283,
+        "profile_path": "/g3nuRxGLX3gQTmqTRZjNl4toy4.jpg",
+        "credit_id": "6647ed0ba4e55d40af11e435",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 24260,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Claire Pritchard",
+        "original_name": "Claire Pritchard",
+        "popularity": 0.8345,
+        "profile_path": "/9yoXqLnATg2qzE4DORtYDdGzp6c.jpg",
+        "credit_id": "6627ecd1af9590017d6be4bf",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 24260,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Claire Pritchard",
+        "original_name": "Claire Pritchard",
+        "popularity": 0.8345,
+        "profile_path": "/9yoXqLnATg2qzE4DORtYDdGzp6c.jpg",
+        "credit_id": "5995b6f09251417ee30004ca",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9002,
+        "known_for_department": "Production",
+        "name": "Andy Pryor",
+        "original_name": "Andy Pryor",
+        "popularity": 0.8401,
+        "profile_path": "/lzugGZGMc9Q12dWf3VCvOpOioxh.jpg",
+        "credit_id": "568d4604c3a3686075032d7f",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68685,
+        "known_for_department": "Sound",
+        "name": "Ron Grainer",
+        "original_name": "Ron Grainer",
+        "popularity": 0.8036,
+        "profile_path": "/kdk6yQc4scGlzeMDWMgcoWYPBkV.jpg",
+        "credit_id": "6647ec4b62724628012f3e49",
+        "department": "Sound",
+        "job": "Main Title Theme Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "time travel",
+        "id": 4379
+      },
+      {
+        "name": "time machine",
+        "id": 5455
+      },
+      {
+        "name": "alien",
+        "id": 9951
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/8VWgyQjExeMgeg6Qzv6agduMU1A.jpg",
+        "id": 121,
+        "name": "Doctor Who",
+        "original_name": "Doctor Who",
+        "overview": "Doctor Who (Türkçe anlamıyla Doktor Kim) BBC yapımı İngiliz bilim kurgu televizyon dizisidir. Dizi; Doktor olarak bilinen, zamanda yolculuk yapan insansı Dünya dışı yaratık olan Zaman Lordu'nun maceralarını anlatmaktadır. Doktor, dışarıdan 1950'lerden kalma bir polis kulübesi gibi görünen TARDIS adındaki bilince sahip ve zamanda yolculuk edebilen bir uzay gemisi ile evreni araştırır. Doktor, yardımcıları ile beraber uzay ve zamanı keşfeder, sorunları çözer, yaratıklarla yüzleşir ve tarihe yapılan müdahalelere engel olur.\n\nGuinness Rekorlar Kitabı tarafından dünyanın en uzun süren bilim kurgu televizyon programı olarak listelenen dizi aynı zamanda İngiliz popüler kültürünün de önemli bir parçasıdır. Dizi iyi planlanmış hikâyeleri, ilk yayınlandığı dönemdeki düşük bütçeli yaratıcı özel efektleri ve elektronik müzik kullanımındaki önderliği ile tanınır.",
+        "poster_path": "/xinqAmYrZ1TEwowcQhgTkZVtVE0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          10765
+        ],
+        "popularity": 90.5584,
+        "first_air_date": "1963-11-23",
+        "vote_average": 7.861,
+        "vote_count": 649,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/9PGSbmsLggGnEglyEje8K3w6Rb1.jpg",
+        "id": 424,
+        "name": "Torchwood",
+        "original_name": "Torchwood",
+        "overview": "The exploits of a team of people whose job is to investigate the unusual, the strange and the extraterrestrial.",
+        "poster_path": "/8fxK9SMaKvQMI4a4VAclf2qEtpD.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 14.4295,
+        "first_air_date": "2006-10-22",
+        "vote_average": 7.323,
+        "vote_count": 512,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/gDtZQmfzvErZpeXOVeCBQE9WkSF.jpg",
+        "id": 239770,
+        "name": "Doctor Who",
+        "original_name": "Doctor Who",
+        "overview": "Doktor ve yol arkadaşı Ruby Sunday, İngiltere'deki Naiplik döneminden savaşın parçaladığı gelecek dünyalara kadar uzanan maceralarda zamanda ve uzayda yolculuk ediyorlar. Polis kulübesi şeklindeki bir zaman yolculuğu gemisi olan TARDIS'teki maceraları boyunca, korkunç bir canavar ve Doktor'un şimdiye kadarki en güçlü düşmanı da dahil olmak üzere inanılmaz dostlar ve tehlikeli düşmanlarla karşılaşıyorlar.",
+        "poster_path": "/2JP6NSmBwxg75uTcIHiv5R8PpPi.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10765
+        ],
+        "popularity": 32.4036,
+        "first_air_date": "2024-05-11",
+        "vote_average": 6.5,
+        "vote_count": 200,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/jwiQpxw8yTTnkgQ9k0zT0zFvTNy.jpg",
+        "id": 11157,
+        "name": "Casanova",
+        "original_name": "Casanova",
+        "overview": "Castle Dux, Bohemia, 1798. Casanova, now a penniless librarian in his seventies, tells Edith, a young kitchen maid in the castle, his remarkable life story, and about falling in love with Henriette.",
+        "poster_path": "/bvjiITAnOZoLxfLmni1sazcbeWu.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 2.3348,
+        "first_air_date": "2005-03-13",
+        "vote_average": 7.064,
+        "vote_count": 55,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/te4VJNMipsFQofCkiytuyswGDlV.jpg",
+        "id": 1437,
+        "name": "Firefly",
+        "original_name": "Firefly",
+        "overview": "2500'lü yıllarda Dünya nüfusunun iyice artması ve kaynakların tükenmesi sonucu insanların başka gezegenlere göçmesi başlıyor. Merkez gezegenlere yerleşenler, medeniyeti devam etttiriyor ve Alliance'ı kuruyor. Diğerleri ise çevre gezegenlere ve aylara yerleşerek bağımsızlıklarını ilan ediyor. Alliance bu bağımsızları kendine katmak için savaş başlatıyor. Savaş sonrası Kaptan Malcolm Reynolds, Firefly model bir uzay gemisi kaçırıp kaçakçılık işine giriyor.",
+        "poster_path": "/vZcKsy4sGAvWMVqLluwYuoi11Kj.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          10765
+        ],
+        "popularity": 17.7271,
+        "first_air_date": "2002-09-20",
+        "vote_average": 8.3,
+        "vote_count": 2162,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cBJDOCMFAV4Ls8nZLRRj424RgID.jpg",
+        "id": 203,
+        "name": "The Sarah Jane Adventures",
+        "original_name": "The Sarah Jane Adventures",
+        "overview": "Sarah Jane Smith is a truly remarkable woman who inhabits a world of mystery, danger and wonder; a world where aliens are commonplace and the Earth is under constant threat. A world that Maria Jackson, a seemingly ordinary girl, can only dream of – until she moves in next door. Nothing will ever be ordinary again.",
+        "poster_path": "/hq0S1VtUabnORdp3l3m11OA67BP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10765,
+          10762
+        ],
+        "popularity": 20.2318,
+        "first_air_date": "2007-09-24",
+        "vote_average": 7.065,
+        "vote_count": 107,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/lirPqYLTtd6XZqGn4cS1wiesTq0.jpg",
+        "id": 1622,
+        "name": "Supernatural",
+        "original_name": "Supernatural",
+        "overview": "Evlerinin yandığı şüpheli bir yangında, annelerinin ölümünden sonra, Sam ve Dean Winchester yaşları büyüdükçe babaları ile yollarda bir hayat yaşamaya başlarlar. Yıllar geçer ve bir av sırasında kaybolan babalarını bulmak için kardeşler bir araya gelirler.\n\nAncak, babaları normal bir avcı değildir: o hayaletler, vampirler, ve ruhlar gibi doğaüstü yaratıkları avlar ve aynı şeyi oğullarına da çok küçük yaşlardan itibaren öğretmiştir. Yol boyunca, Sam ve Dean, masum insanları yaratıklar ve hayaletlerden kurtarmak için büyük bir mücadeleye girerler ve babalarının nerede olduğuna dair ipuçlarını toplarlar.",
+        "poster_path": "/KoYWXbnYuS3b0GyQPkbuexlVK9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          10765
+        ],
+        "popularity": 171.0522,
+        "first_air_date": "2005-09-13",
+        "vote_average": 8.3,
+        "vote_count": 7800,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/tgVKBjXuBTzyq87awCwuvV4zGZL.jpg",
+        "id": 1432,
+        "name": "Veronica Mars",
+        "original_name": "Veronica Mars",
+        "overview": "In the fictional town of Neptune, California, student Veronica Mars progresses from high school to college while moonlighting as a private investigator under the tutelage of her detective father.",
+        "poster_path": "/vOdJETEueGgUqJR4UvwTdUoJhvO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          18,
+          35
+        ],
+        "popularity": 21.9587,
+        "first_air_date": "2004-09-22",
+        "vote_average": 7.823,
+        "vote_count": 639,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/xK4mVHb3eI9fVdYogVEoVBaoIAv.jpg",
+        "id": 1104,
+        "name": "Mad Men",
+        "original_name": "Mad Men",
+        "overview": "1960’lar... Reklamcılığın altın çağı. Merkezinde New York’un dahi ve rekabetçi çocukları. Başroldeyse değişen zamana ayak uydurmaya çalışan reklam gurusu Don Draper. \n\nEn İyi Drama ve Erkek Oyuncu dallarında Altın Küre kazanan Mad Men, gerçeklerle yalanlar arasındaki ince çizgiyi bulandırmaya ve 60’ların dekorunda insan doğasını irdelemeye devam ediyor. The Sopranos’un Emmy ödüllü yapımcı ve yazarı Matthew Weiner’dan gerçeğin nasıl satılabileceğine dair kışkırtıcı bir dram olan Mad Men, üç sene üst üste En İyi Dizi Emmy ve Altın Küre ödülünü kazanarak başarısını ispatladı.",
+        "poster_path": "/7v8iCNzKFpdlrCMcqCoJyn74Nsa.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 39.8379,
+        "first_air_date": "2007-07-19",
+        "vote_average": 8.1,
+        "vote_count": 1296,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
+        "id": 60735,
+        "name": "The Flash",
+        "original_name": "The Flash",
+        "overview": "Geçmişinde büyük bir trajedi yaşamış Barry Allen, Central City Polis Birimi’nde çalışan ve suçluların arkalarında bıraktıkları ipuçlarını toplayan bir adli laboratuvar asistanıdır. Talihsiz bir yıldırım kazası yaşamasının ardından süper hız gücüne sahip olan Barry, Flash kimliğine bürünür ve kötü adamları adalete teslim etmeyi kendine görev edinir!",
+        "poster_path": "/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 254.3106,
+        "first_air_date": "2014-10-07",
+        "vote_average": 7.773,
+        "vote_count": 11281,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lO5fXOLGs63R1u0xOLYZZOCFifl.jpg",
+        "id": 60694,
+        "name": "Last Week Tonight with John Oliver",
+        "original_name": "Last Week Tonight with John Oliver",
+        "overview": "A half-hour satirical look at the week in news, politics and current events.",
+        "poster_path": "/b12eM3FXNjN7yM7XYTIdmeQRud9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767,
+          35,
+          10763
+        ],
+        "popularity": 149.1615,
+        "first_air_date": "2014-04-27",
+        "vote_average": 7.874,
+        "vote_count": 708,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
+        "id": 42009,
+        "name": "Black Mirror",
+        "original_name": "Black Mirror",
+        "overview": "İnsanlığın en kötü özelliklerini, en büyük buluşlarını ve çok daha fazlasını gözler önüne seren bu akılalmaz antoloji dizisinde çarpık öykülerin ardı arkası kesilmiyor.",
+        "poster_path": "/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          9648
+        ],
+        "popularity": 96.581,
+        "first_air_date": "2011-12-04",
+        "vote_average": 8.29,
+        "vote_count": 5471,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/layPSOJGckJv3PXZDIVluMq69mn.jpg",
+        "id": 1438,
+        "name": "The Wire",
+        "original_name": "The Wire",
+        "overview": "Amerika’nın 26. büyük şehri, Maryland eyaletinin ise en büyük şehri Baltimore’un yaşamadan bilemeyeceğiniz hikayesini izlemeye hazırlanın. Çünkü TV’da hikaye anlatıcılığının öncüsü The Wire, hafızalardan kazınması imkansız bir destan yazmaya geliyor.  Özel bir programın uygulandığı bir hapishanede yaşananları konu edinen OZ ve mafya kavramının üç-beş silahlı adamdan çok daha başka anlamlara da geldiğini cesurca anlatan The Sopranos, HBO’nun o tarihe kadar çıkardığı en başarılı, en sıradışı yapımlardı. Bu iki dizinin başarısının üzerine yapım şirketi, ‘bağımsız ve kaliteli yayın’ ilkesini benimsediğini anlatabilmek için yeni bir dizi arayşına girişti. İşte tam da bu sırada 2000 yılında aynı adlı kitabını mini diziye uyarladıkları The Corner’ın yaratıcısı David Simon yepyeni bir projeyle kanalın kapısını çaldı. İlk sözleri de “Bunun bir polis-suçlu kovalamacası olmayacağına yemin ediyorum. İlk bakışta öyle görünecek. Ama bir Baltimore hikayesi olacak”tı. The Corner nasıl konusunu gerçek insanlar ve gerçek mekanlara dayandırıyor ama ‘köşe’deki uyuşturucu ticareti fonunda karakterlerin öykülerini anlatıyorsa The Wire da suç, suçlu, adalet, adalet mekanizmaları, kentsel dönüşüm, siyasi otorite ve öteki kavramları üzerinden Baltimore’un yaşam dinemiklerini ve Baltimore’da var olma şekillerini göz önüne seriyor. İyiyle kötünün ayrımına varmakta zorlanacağınız, her sezonunda varoşlardan eğitim sistemine, büyük suç örgütlerinden, dolandırıcı sendikalara Baltimore’un farklı bir köşesine keşfe çıkacağınız The Wire, HBO’nun itibarını artırmanın yanı sıra TV dünyasına da gerçekçilik, görsel hikaye anlatımı ve sosyal eleştiri gibi kavramlar kazandırdı.",
+        "poster_path": "/4lbclFySvugI51fwsyxBTOm4DqK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 30.5074,
+        "first_air_date": "2002-06-02",
+        "vote_average": 8.595,
+        "vote_count": 2352,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qtr5i6hOm6oVzTYl3jOQAYP3oc7.jpg",
+        "id": 1403,
+        "name": "S.H.I.E.L.D. Ajanları",
+        "original_name": "Marvel's Agents of S.H.I.E.L.D.",
+        "overview": "Marvel's Agents of S.H.I.E.L.D. veya sadece Agents of S.H.I.E.L.D (S.H.I.E.L.D. Ajanları) ABC için çekilen bir Amerikan televizyon dizisidir. Dizi, ABC Studyoları, Marvel Televizyonu ve Mutant Enemy tarafından çekilmektedir ve Marvel Sinematik Evrenindeki filmlerle etkileşim içinde geçmektedir. Yapım, Clark Gregg'ın canlandırdığı Phil Coulson karakteri etrafında döner. Ajan Phil Coulson, yeni garip olayların çözümü için küçük bir ekip kurar. Dünyayı tehdit eden doğaüstü olayların çözümünde birlikte çalışacaklardır.",
+        "poster_path": "/gHUCCMy1vvj58tzE3dZqeC9SXus.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765,
+          10759
+        ],
+        "popularity": 108.2937,
+        "first_air_date": "2013-09-24",
+        "vote_average": 7.5,
+        "vote_count": 3576,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/hmLTIRtVyTHShJl2Wb8LHmvUgJm.jpg",
+        "id": 19885,
+        "name": "Sherlock",
+        "original_name": "Sherlock",
+        "overview": "Arthur Conan Doyle'un ünlü eserinden uyarlanan yapımda, kahramanlarımız Sherlock Holmes ve Dr. John Watson günümüz Londra'sında sıradışı cinayetleri çözmeye çalışıyorlar. Huysuz Sherlock ile insancıl John, maceradan maceraya atılırken, izleyici kendisini aksiyondan komediye uzanan bir koşuşturmacanın içinde buluyor. ",
+        "poster_path": "/cIfGAkpvWD2zxHrXzhv3uptYbyV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 30.9861,
+        "first_air_date": "2010-07-25",
+        "vote_average": 8.5,
+        "vote_count": 5739,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/4043WFrLsGnZa3RL4Po9buc1EtF.jpg",
+        "id": 39272,
+        "name": "Once Upon a Time",
+        "original_name": "Once Upon a Time",
+        "overview": "Hepsi sonsuza kadar mutlu mesut yaşadılar… Ya da herkesin bu cümleye inanması sağlandı. Şimdi 28 yaşında olan Emma Swan kendisine nasıl bakacağını biliyor çünkü bebekken terk edildiğinden beri o bunu zaten yapıyor ama onunda yıllar önce terk ettiği oğlu onu tekrar buluyor ve işte her şey burada değişmeye başlıyor. Henry şimdi 10 yaşında ve Emma’nın yardımına muhtaç. Çünkü Henry aslında Emma’nın alternatif bir dünyadan geldiğine ve Pamuk Prenses ve yakışıklı Prens’in kızı olduğunu inanıyor. Sahip olduğu masallar kitabına göre, onu Korkunç Cadı’nın lanetinden korumak için başka bir diyara göndermeleri gerekiyordu bu sayede cadı masallar ülkesinde kapana kısılmış, zamanda donmuş olacaktı ama tabi ki Emma bu hikâyenin bir kelimesine bile inanmamaktadır. Emma bu küçük çocuğu alıp yaşadığı yer olan Storybrooke’a götürür fakat Henry’nin durumuna endişelendiğini için bir süre orda kalmaya karar verir. Orda geçirdiği zamanda Storybrooke’ta çok daha değişik şeyler döndüğünden şüphelenecektir. Orası sihrin unutulduğu ama gücünün de çok yakında hissedildiği, tüm masal karakterlerinin yaşadığı ama bir zamanlar kim olduklarını hatırlamadıkları bir yerdir. Tüm dünyaların geleceğe dair verecekleri bu epik savaşta Emma’nın kaderini kabullenmesi ve çalgınlar gibi savaşması gerekmektedir.",
+        "poster_path": "/u95scYysMZvBoekSLmMNJjeqXcY.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 76.3427,
+        "first_air_date": "2011-10-23",
+        "vote_average": 7.378,
+        "vote_count": 2319,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7sJrNKwzyJWnFPFpDL9wnZ859LZ.jpg",
+        "id": 1415,
+        "name": "Elementary",
+        "original_name": "Elementary",
+        "overview": "Londra’da itibarını yitirdikten sonra rehabilitasyondan kaçan Sherlock zengin babasının en kötü kabusuyla –ciddi bir arkadaş olan Dr. Watson ile- yaşamaya zorladığı Manhattan’a geliyor. Üç yıl önce bir hastasını ve lisansını kaybedene dek başarılı bir cerrah olan Watson yeni işini insanlara yardım edebileceği ve cezasını ödeyebileceği bir fırsat olarak görmektedir. Ancak, huzursuz Sherlock eski müşterileri gibi değildir.",
+        "poster_path": "/q9dObe29W4bDpgzUfOOH3ZnzDbR.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          80
+        ],
+        "popularity": 36.8909,
+        "first_air_date": "2012-09-27",
+        "vote_average": 7.599,
+        "vote_count": 1684,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5uxpTGMvH0taHAkMYxOQHYJcsws.jpg",
+        "id": 655,
+        "name": "Uzay Yolu: Yeni Nesil",
+        "original_name": "Star Trek: The Next Generation",
+        "overview": "Uzay Yolu: Yeni Nesil yaklaşık olarak asıl diziden bir yüzyıl sonra geçmekte, gene Atılgan adında fakat daha yeni ve gelişmiş yeni bir yıldız gemisi içermekte ve Kaptan Jean Luc Picard'ın emri altındaki yeni bir mürettabatın maceralarını anlatmaktadır. İnsanların galakside diğer bilinçli canlılarla birleşerek Birleşik Gezegenler Federasyonu'nu kurdukları, kurgusal bir 3. Dünya Savaşı sonrası bir geleceği tasvir eder. Evrende yalnız olmadıklarını anlayınca insanlık kendilerine özgü birçok zayıflık ve kötü alışkanlıklarını geride bırakır. Kahramanlar genelde fedakardır ama zaman zaman sonuç almak için başka yollara baş vurabilirler.",
+        "poster_path": "/vkLzXddgUKH5VcpnYiRzpJFrZhz.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18,
+          9648
+        ],
+        "popularity": 121.9856,
+        "first_air_date": "1987-09-28",
+        "vote_average": 8.4,
+        "vote_count": 1569,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1Tcv90k3MzWKsq1zJbxVlsT7YXr.jpg",
+        "id": 11466,
+        "name": "Kaamelott",
+        "original_name": "Kaamelott",
+        "overview": "In this off beat account of King Arthur's quest for the Grail, virtually every journey, battle or adventure is stopped dead in its tracks by the knights of the round table's most worldly traits : cowardice, greed, idiocy or misplaced chivalry. As a consequence, instead of epic adventures we are treated with the characters' pragmatic and anachronistic take on each and every event in the Grail legend, true to the purest sitcom tradition.",
+        "poster_path": "/iiYjbyVWwe7foHB9AEt20BmpIS1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 29.273,
+        "first_air_date": "2005-01-03",
+        "vote_average": 8.5,
+        "vote_count": 171,
+        "origin_country": [
+          "FR"
+        ]
+      },
+      {
+        "backdrop_path": "/tlN8MGKlGZmJqYpwoqCB5YwLqBx.jpg",
+        "id": 2973,
+        "name": "Life on Mars",
+        "original_name": "Life on Mars",
+        "overview": "Sam Tyler bir suçu araştırırken geçirdiği trafik kazası sonucu gözlerini, David Bowie'nin Life on Mars single'ının listeleri kasıp kavurduğu 1973 yılında açar.",
+        "poster_path": "/kFmhMpfyCVsu8AdJmz0xzULUduZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648,
+          10765
+        ],
+        "popularity": 10.4528,
+        "first_air_date": "2006-01-09",
+        "vote_average": 7.761,
+        "vote_count": 282,
+        "origin_country": [
+          "GB"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

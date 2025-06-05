@@ -1,0 +1,1031 @@
+{
+  "adult": false,
+  "backdrop_path": "/fefZP8b2gdRKn7llsJ6Yk2m4eey.jpg",
+  "created_by": [
+    {
+      "id": 1212569,
+      "credit_id": "52571a30760ee3776a18db83",
+      "name": "Hart Hanson",
+      "original_name": "Hart Hanson",
+      "gender": 2,
+      "profile_path": "/6oEzdy3QBM7AkSyYKutiiePHx90.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2005-09-13",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Suç"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    }
+  ],
+  "homepage": "http://www.fox.com/bones",
+  "id": 1911,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2017-03-28",
+  "last_episode_to_air": {
+    "id": 1284710,
+    "name": "12. Bölüm",
+    "overview": "",
+    "vote_average": 8.3,
+    "vote_count": 9,
+    "air_date": "2017-03-28",
+    "episode_number": 12,
+    "episode_type": "finale",
+    "production_code": "CAKY12",
+    "runtime": 44,
+    "season_number": 12,
+    "show_id": 1911,
+    "still_path": "/1UCssopskt30NMcC0u4nAdyy9WS.jpg"
+  },
+  "name": "Bones",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 19,
+      "logo_path": "/1DSpHrWyOORkL9N2QHX7Adt31mQ.png",
+      "name": "FOX",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 246,
+  "number_of_seasons": 12,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Bones",
+  "overview": "Dr. Brennan, küçük yaştayken anne ve babası bir anda ortadan kaybolduktan sonra yetimhanelerde büyürken, ebeveyinlerinin ortadan kaybolmasının gizemini çözmek için kendini antropolojiye adamış ve adli tıp antropoloğu olarak Jeffersonian Enstütüsünde çalışmakta olan, kelimenin tam anlamıyla dahi bir doktor ve bir ‘çok satan’ polisiye roman yazarıdır. Uzmanlık alanı kemikler ve kökenleri olan Brennan bu bilgisini Özel Ajan Seeley Booth’un cinayetleri çözmesine yardım etmek için kullanır.",
+  "popularity": 101.4295,
+  "poster_path": "/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg",
+  "production_companies": [
+    {
+      "id": 1556,
+      "logo_path": "/31h94rG9hzjprXoYNy3L1ErUya2.png",
+      "name": "20th Century Fox Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 25935,
+      "logo_path": null,
+      "name": "Far Field Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 1894,
+      "logo_path": null,
+      "name": "Josephson Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 47,
+      "id": 5526,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/aTaoBXcWOXPKIJN2RWIslqFA9jF.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2005-09-13",
+      "episode_count": 22,
+      "id": 5520,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/4igyUKBczIh9Mb0k3A3DvCqmnpS.jpg",
+      "season_number": 1,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2006-08-30",
+      "episode_count": 21,
+      "id": 5521,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/19NQmkV7mNXGmBLu8CYyH3JKOcv.jpg",
+      "season_number": 2,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2007-09-25",
+      "episode_count": 15,
+      "id": 5522,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/4idiGIISgGjVgvHQTHDhuZUaXM3.jpg",
+      "season_number": 3,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2008-09-03",
+      "episode_count": 26,
+      "id": 5523,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/h7Daw5B10UqP1J0Rhdj9BBQwwVs.jpg",
+      "season_number": 4,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2009-09-17",
+      "episode_count": 22,
+      "id": 5524,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/lkLpiGKJdvMDWxwX6ngVqPFpsJx.jpg",
+      "season_number": 5,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2010-09-23",
+      "episode_count": 23,
+      "id": 5525,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/wgn9ho5ovgWNV4LHjAu8AabS9h9.jpg",
+      "season_number": 6,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2011-11-03",
+      "episode_count": 13,
+      "id": 5527,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/cHvmY4V7oiwOEqX55TyrMrDjppA.jpg",
+      "season_number": 7,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2012-09-17",
+      "episode_count": 24,
+      "id": 5528,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/A3JEB02cuvNfDejdViUausZLjPe.jpg",
+      "season_number": 8,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2013-09-16",
+      "episode_count": 24,
+      "id": 5529,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/bMGdBQa77YVOrgD2jCy8JhCi5Rh.jpg",
+      "season_number": 9,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2014-09-25",
+      "episode_count": 22,
+      "id": 62025,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/kCjGVrXl0q4Mt6GkRwzpE3ZMCEV.jpg",
+      "season_number": 10,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2015-10-01",
+      "episode_count": 22,
+      "id": 70304,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/s2ePbSA16C05cBK67BbsD1mBCLW.jpg",
+      "season_number": 11,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2017-01-03",
+      "episode_count": 12,
+      "id": 80155,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/c9puo1STvKk0p6SJ8uIt6x4lVJ5.jpg",
+      "season_number": 12,
+      "vote_average": 7.8
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.218,
+  "vote_count": 3262,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 25933,
+        "known_for_department": "Acting",
+        "name": "Emily Deschanel",
+        "original_name": "Emily Deschanel",
+        "popularity": 2.6469,
+        "profile_path": "/bS4F39NlQAURKtO5r1CD3ivSf62.jpg",
+        "character": "Temperance 'Bones' Brennan",
+        "credit_id": "52571a2c760ee3776a18d7f5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25934,
+        "known_for_department": "Acting",
+        "name": "David Boreanaz",
+        "original_name": "David Boreanaz",
+        "popularity": 2.5386,
+        "profile_path": "/oO619MACIfz7YoPiIGXYOfamhOE.jpg",
+        "character": "Seeley Booth",
+        "credit_id": "52571a2c760ee3776a18d833",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58621,
+        "known_for_department": "Acting",
+        "name": "John Boyd",
+        "original_name": "John Boyd",
+        "popularity": 1.2494,
+        "profile_path": "/oHgkm4VtuG1kFNqRCqPd5pKKMd0.jpg",
+        "character": "James Aubrey",
+        "credit_id": "5714628892514105a800165b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 122237,
+        "known_for_department": "Acting",
+        "name": "Michaela Conlin",
+        "original_name": "Michaela Conlin",
+        "popularity": 2.1313,
+        "profile_path": "/5Qv7KNTMDbdO7m5p1wIic5kVKr8.jpg",
+        "character": "Angela Montenegro",
+        "credit_id": "52571a2c760ee3776a18d871",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 39464,
+        "known_for_department": "Acting",
+        "name": "Tamara Taylor",
+        "original_name": "Tamara Taylor",
+        "popularity": 2.4662,
+        "profile_path": "/4hvMoHSki7mZUPxcJXysLEw5Z5I.jpg",
+        "character": "Camille Saroyan",
+        "credit_id": "52571a2c760ee3776a18d923",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 151263,
+        "known_for_department": "Acting",
+        "name": "T.J. Thyne",
+        "original_name": "T.J. Thyne",
+        "popularity": 2.5074,
+        "profile_path": "/wzPGaDjzimfGjIpRg6NjN9eqJxL.jpg",
+        "character": "Jack Hodgins",
+        "credit_id": "52571a2c760ee3776a18d8af",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1227946,
+        "known_for_department": "Writing",
+        "name": "Karine Rosenthal",
+        "original_name": "Karine Rosenthal",
+        "popularity": 0.3561,
+        "profile_path": "/fXoI6g3PEbNAbBhtgxmmh7Knwst.jpg",
+        "credit_id": "666e10d1073f2fe11be24831",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2798749,
+        "known_for_department": "Production",
+        "name": "Jan DeWitt",
+        "original_name": "Jan DeWitt",
+        "popularity": 0.9919,
+        "profile_path": null,
+        "credit_id": "666e33bb5fcd2df12634a6bc",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 30482,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Robin Lewis West",
+        "original_name": "Robin Lewis West",
+        "popularity": 0.3529,
+        "profile_path": null,
+        "credit_id": "667e155ca016674896b3c91b",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1152362,
+        "known_for_department": "Production",
+        "name": "David H. Jeffery",
+        "original_name": "David H. Jeffery",
+        "popularity": 0.1142,
+        "profile_path": null,
+        "credit_id": "6671273dc9fe650c9d6aa991",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1090864,
+        "known_for_department": "Sound",
+        "name": "Sean Callery",
+        "original_name": "Sean Callery",
+        "popularity": 0.9122,
+        "profile_path": null,
+        "credit_id": "667325ac5e075f5b74a3a3a4",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25934,
+        "known_for_department": "Acting",
+        "name": "David Boreanaz",
+        "original_name": "David Boreanaz",
+        "popularity": 2.5386,
+        "profile_path": "/oO619MACIfz7YoPiIGXYOfamhOE.jpg",
+        "credit_id": "52571a31760ee3776a18dd85",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 25933,
+        "known_for_department": "Acting",
+        "name": "Emily Deschanel",
+        "original_name": "Emily Deschanel",
+        "popularity": 2.6469,
+        "profile_path": "/bS4F39NlQAURKtO5r1CD3ivSf62.jpg",
+        "credit_id": "52571a31760ee3776a18dd3f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1213742,
+        "known_for_department": "Writing",
+        "name": "Stephen Nathan",
+        "original_name": "Stephen Nathan",
+        "popularity": 1.0663,
+        "profile_path": "/5voAAkxLonNI42GkYzNLJhNTDw5.jpg",
+        "credit_id": "666d172054d12a4b56c6e929",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1235822,
+        "known_for_department": "Production",
+        "name": "Rick Millikan",
+        "original_name": "Rick Millikan",
+        "popularity": 0.393,
+        "profile_path": null,
+        "credit_id": "666f461cc9f7d735fdc4cd3d",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1227937,
+        "known_for_department": "Writing",
+        "name": "Kathy Reichs",
+        "original_name": "Kathy Reichs",
+        "popularity": 0.0372,
+        "profile_path": "/hGjmryRJBVDG7FE0113gDiLj1qJ.jpg",
+        "credit_id": "666d1689dbbd080376ce47c0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1227937,
+        "known_for_department": "Writing",
+        "name": "Kathy Reichs",
+        "original_name": "Kathy Reichs",
+        "popularity": 0.0372,
+        "profile_path": "/hGjmryRJBVDG7FE0113gDiLj1qJ.jpg",
+        "credit_id": "666d17a900000000008338a4",
+        "department": "Writing",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42906,
+        "known_for_department": "Production",
+        "name": "Barry Josephson",
+        "original_name": "Barry Josephson",
+        "popularity": 0.8555,
+        "profile_path": "/anyjEIHN9LlAWWGLEEtgh9GgjWS.jpg",
+        "credit_id": "666dfda5e9d3c5359ee4a87b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1212569,
+        "known_for_department": "Writing",
+        "name": "Hart Hanson",
+        "original_name": "Hart Hanson",
+        "popularity": 0.9058,
+        "profile_path": "/6oEzdy3QBM7AkSyYKutiiePHx90.jpg",
+        "credit_id": "666d3b6aa63b2c7a58ce4889",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2040011,
+        "known_for_department": "Sound",
+        "name": "Scott Kirkland",
+        "original_name": "Scott Kirkland",
+        "popularity": 0.3541,
+        "profile_path": "/yECwf4M7uMhIBHf5KYCGG16lb4e.jpg",
+        "credit_id": "666cffa48959703af404b507",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1660945,
+        "known_for_department": "Art",
+        "name": "Ian Scheibel",
+        "original_name": "Ian Scheibel",
+        "popularity": 0.3015,
+        "profile_path": null,
+        "credit_id": "66707ee5e6ae4d324526740f",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4345048,
+        "known_for_department": "Sound",
+        "name": "Ken Jordan",
+        "original_name": "Ken Jordan",
+        "popularity": 0.408,
+        "profile_path": "/oNRyk5JINBGmOliVfIc3drDmbok.jpg",
+        "credit_id": "666cff94c92688d8fbce4b0e",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3834063,
+        "known_for_department": "Directing",
+        "name": "Billie L. Mayer",
+        "original_name": "Billie L. Mayer",
+        "popularity": 0.0958,
+        "profile_path": null,
+        "credit_id": "6677267d07d7a5484ace80af",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "washington dc, usa",
+        "id": 521
+      },
+      {
+        "name": "fbi",
+        "id": 1812
+      },
+      {
+        "name": "forensic science",
+        "id": 157256
+      },
+      {
+        "name": "murder investigation",
+        "id": 161982
+      },
+      {
+        "name": "crime investigation",
+        "id": 189402
+      },
+      {
+        "name": "forensic archaeology",
+        "id": 210598
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
+        "id": 5920,
+        "name": "The Mentalist",
+        "original_name": "The Mentalist",
+        "overview": "Patrick Jane isimli bir medyum, sirkte çalışan ve gözlem güçlerini kullanarak insanlar hakkında birtakım fikirler edinip bu fikirleri onlara medyum gibi satan biridir. Bir gün bu özelliği sebebiyle televizyona çıkar ve kendine Red John isimli bir düşman edinir. Red John Jane’in kızını ve eşini öldürünce ortada kalan ve bu ölümlerin sebebinin kendisi olduğunu düşünen Jane, en sonunda FBI’a başvurarak Red John’ın peşine düşmek ister. Her ne kadar ilk başlarda bu isteği geri çevrilse de FBI’ın çözemediği birtakım davaları çözen Jane, bu özel ekibe danışman olarak işe alınır.",
+        "poster_path": "/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 96.1905,
+        "first_air_date": "2008-09-23",
+        "vote_average": 8.4,
+        "vote_count": 3908,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/xEtiiv2uhGr9IPgeruuECIfyfin.jpg",
+        "id": 1419,
+        "name": "Castle",
+        "original_name": "Castle",
+        "overview": "Nick Castle tanınmış ve çok ünlü bir Roman yazarıdır,kendine göre üslubu ve yaşam tarzı olan Nick özellikle romanlarındaki değişik ve tahmin edilemez cinayetleri yazması ile tanınmaktadır. NYPD de görev yapan Dedektif Kate Beckett son zamanlarda meydana gelen seri cinayetler'de Nick'in romanlarından alıntı yapıldığını fark eder, Nick'ten cinayetler ile ilgili yardım ister.",
+        "poster_path": "/diXBeMzvfJb2iJg3G0kCUaMCzEc.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 71.7524,
+        "first_air_date": "2009-03-09",
+        "vote_average": 8.0,
+        "vote_count": 1933,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/w88B4ooZ2LSYPw5107JOkjvI8PI.jpg",
+        "id": 4057,
+        "name": "Criminal Minds",
+        "original_name": "Criminal Minds",
+        "overview": "Dizinin temel esprisi, \"Bir suçluyu yakalamak istiyorsanız onun gibi düşünün\" sözünde yatıyor. Quantico'daki Davranış Analizi Ünitesi'nde çalışan ajanlar, suçluların psikolojilerinden, davranış biçimlerinden yola çıkarak suçu çözüyor.  Yöntem: Davranış psikolojisinin uygulanması, istatistikler, ajanların deneyimleri, 'hızlı hızlı konuşanlar bir şey saklıyordur' önermesinde olduğu gibi çıkarsamalar.",
+        "poster_path": "/wLMQebhTApmn4F6Fzg6FovdwVvL.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 141.8295,
+        "first_air_date": "2005-09-22",
+        "vote_average": 8.3,
+        "vote_count": 3824,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
+        "id": 4614,
+        "name": "NCIS",
+        "original_name": "NCIS",
+        "overview": "Deniz Kuvvetleri Kriminal Araştırma Servisi ya da kısa deyişle \"NCIS\". Bu nefes kesen aksiyon drama, deniz kuvvetlerine ilişkin suçları araştıran özel bir ekibin her daim şaşırtıcı serüvenlerine odaklanıyor. Bol dozda mizahla yoğrulmuş \"NCIS\"ın başrolünde '80'lerin unutulmaz dizilerinden \"Flamingo Yolu\"yla tanıyıp sevdiğimiz Mark Harmon var.\n\nRenkli kişiliklerden oluşan NCIS ekibinin lideri; eşsiz yeteneklere sahip, eski bir deniz topçu astsubayı olan Özel Ajan Leroy Jethro Gibbs. Gibbs'in altında çalışan Özel Ajan Anthony Dinozzo ise eski bir cinayet masası dedektifi. Sezgileri çok kuvvetli. Ekibin diğer üyeleri; yetenekli bir bilimadamı olan adli uzman Abby Sciuto ve bilgisayar dahisi NCIS Özel Ajanı Timoth McGee. Ekibin en büyük yardımcısı ise adli tıp doktoru Dr. Donald \"Ducky\" Mallard. Cinayet ve casusluktan, terörizme ve denizaltı hırsızlığına kadar bu özel ajanlar, deniz kuvvetleriyle bağlantılı her türlü suçu araştırmak için dünyayı dolaşıyor.",
+        "poster_path": "/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          10759
+        ],
+        "popularity": 166.3235,
+        "first_air_date": "2003-09-23",
+        "vote_average": 7.622,
+        "vote_count": 2352,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
+        "id": 1408,
+        "name": "House, M.D.",
+        "original_name": "House",
+        "overview": "Gregory House New Jersey Princeton Plainsboro Hastanesinin tıbbi tanı uzamanı doktordur. Kendini aşırı beğenmesi, insanları önemsememesi ve boşvermişlik gibi özelliklerine rağmen müthiş bir doktordur. Uzmanlık alanı bulaşıcı hastalıklardır. Hiç kimsenin tanı koyamadığı hastalara tanı koyarak onların hayatlarını kurtarmaktadır ancak ekibindekilerin psikolojilerini de sürekli olarak bozmaktadır. Hastanenin yöneticisi Lisa Cuddy onu sürekli gözlem altında tutmaya çalışmaktadır ve ondan asla vazgeçmemektedir çünkü en zor durumlarda hastaları kurtaran hep odur ama Dr. House yüzünden hastane sık sık dava edilmektedir.",
+        "poster_path": "/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          35
+        ],
+        "popularity": 134.857,
+        "first_air_date": "2004-11-16",
+        "vote_average": 8.592,
+        "vote_count": 6918,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7sJrNKwzyJWnFPFpDL9wnZ859LZ.jpg",
+        "id": 1415,
+        "name": "Elementary",
+        "original_name": "Elementary",
+        "overview": "Londra’da itibarını yitirdikten sonra rehabilitasyondan kaçan Sherlock zengin babasının en kötü kabusuyla –ciddi bir arkadaş olan Dr. Watson ile- yaşamaya zorladığı Manhattan’a geliyor. Üç yıl önce bir hastasını ve lisansını kaybedene dek başarılı bir cerrah olan Watson yeni işini insanlara yardım edebileceği ve cezasını ödeyebileceği bir fırsat olarak görmektedir. Ancak, huzursuz Sherlock eski müşterileri gibi değildir.",
+        "poster_path": "/q9dObe29W4bDpgzUfOOH3ZnzDbR.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          80
+        ],
+        "popularity": 36.8909,
+        "first_air_date": "2012-09-27",
+        "vote_average": 7.599,
+        "vote_count": 1684,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/jwFJrUXj0SEAVpZsgvRUBi5trLL.jpg",
+        "id": 2919,
+        "name": "Burn Notice",
+        "original_name": "Burn Notice",
+        "overview": "A formerly blacklisted spy uses his unique skills and training to help people in desperate situations.",
+        "poster_path": "/o2fnD3SNiQjGVgA2C3ezaeh2HK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          80
+        ],
+        "popularity": 32.58,
+        "first_air_date": "2007-06-28",
+        "vote_average": 7.46,
+        "vote_count": 518,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/h3OFv395pydjcA8WzZ9s0J9zVLM.jpg",
+        "id": 92983,
+        "name": "Vagabond",
+        "original_name": "배가본드",
+        "overview": "Dizi, gizemli bir uçak kazası soruşturmasına karışan ve daha sonra ülkede yapılan yolsuzluklar hakkında bilgi toplamaya başlayan sıradan bir adamın (Lee Seung-Gi) etrafında dönmektedir.",
+        "poster_path": "/8Sud9wqG7WZMXesZhPZ4lergRvp.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          18,
+          9648,
+          10759
+        ],
+        "popularity": 10.505,
+        "first_air_date": "2019-09-20",
+        "vote_average": 8.3,
+        "vote_count": 467,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/tLccUh3uazZ9TkLhe53UwprJhI4.jpg",
+        "id": 32798,
+        "name": "Hawaii Five-0",
+        "original_name": "Hawaii Five-0",
+        "overview": "Binbaşı Steve 5 yıldır bir kaçakçının peşindedir. Söz konusu kaçakçı ile 5 yıldır uğraşan binbaşı kaçakçı olan Victor’u yakalayamasa da onun kardeşini yakalayacaktır. Victor da bu durumda Steve’in babasını rehin alacaktır. Bu sırada bir çatışmanın ortaya çıktığı görülecektir. Bu çatışmada iki tarafın da esirlerini öldürmeleri söz konusudur. Steve Havaii’ye dönecektir. Ona Vali tarafından bir teklif sunulacaktır. Hem babasının intikamını almak hem de Havaii’yi güvende tutmak için bir ekip kuracak ve Vali tarafından desteklenecektir. Steve ilk aşamada bu teklifi reddetse de daha sonra söz konusu teklifi kabul edecektir Akula.",
+        "poster_path": "/sIdCKlmM2nU4akIvFQaAIiU8YES.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          10759
+        ],
+        "popularity": 147.5828,
+        "first_air_date": "2010-09-20",
+        "vote_average": 7.76,
+        "vote_count": 1764,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cvlLBcQWpO9X21jDHhgPJnE2aVq.jpg",
+        "id": 1431,
+        "name": "CSI: Crime Scene Investigation",
+        "original_name": "CSI: Crime Scene Investigation",
+        "overview": "CSI: Crime Scene Investigation suç mahali araştırmasını konu alan ABD kaynaklı bir dizi filmdir. Dizinin adı, Las Vegas'da çekilmesi nedeniyle CSI: Las Vegas olarak da bilinir. Amerikan CBS televizyonu tarafından yayınlanan dizi 24 Emmy, 6 Altın Küre ödülüne aday gösterilmiştir.\n\nDizi Türkiye'de TRT tarafından Kanıt Peşinde adı altında yayınlanmaktaydı. Dizide şef Gil Grissom ve ekibi her bölümde ayrı bir davaya/cinayete açıklık getiriyorlar.",
+        "poster_path": "/9XecVOLLkbGBNnpF2PvP8vQBmww.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 152.2109,
+        "first_air_date": "2000-10-06",
+        "vote_average": 7.633,
+        "vote_count": 1283,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uinrziSwEmS6s8VvGBad5sed7bF.jpg",
+        "id": 1435,
+        "name": "The Good Wife",
+        "original_name": "The Good Wife",
+        "overview": "Bu etkileyici drama, seçkin bir politikacının karısıyken aldatılan Alicia Florrick’in yaşadıklarını konu alıyor. Kocası Peter Florrick’in başka bir kadınla, kamuya açık yerde seks yapması ve hapse düşmesi üzerine Alicia, en son 13 yıl önce girdiği mahkeme kapısından tekrar içeri adım atmaya karar veriyor. Bir zamanlar sınıf birincisiyken, evi ve ailesi için vazgeçtiği mesleğine geri dönüyor. Eski sınıf arkadaşı Will Gardner’ın Chicago’daki prestijli hukuk firmasında işe başlayan Alicia, kariyerini yeniden inşa etmek için zorlu yolları aşmak zorunda. Ama iyi bir anne ve eş olmaktan da vazgeçmeye hiç niyetli değil.",
+        "poster_path": "/lasNCd45fpPLirlA7QxkuopWro.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 68.6684,
+        "first_air_date": "2009-09-22",
+        "vote_average": 7.595,
+        "vote_count": 608,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/p4GKINJxZoFbPEvX5NKIb4lzaL.jpg",
+        "id": 2458,
+        "name": "CSI: NY",
+        "original_name": "CSI: NY",
+        "overview": "Crime Scene Investigation (Olay Yeri İnceleme) efsanesinin son durağı CSI: NY, çözülmesi güç suç vakalarında araştırmayı yürüten ve son teknolojiler sayesinde en küçük bulguları bile derinlemesine inceleyerek olağanüstü sonuçlara ulaşan bir grup balistik uzmanının maceralarını ekrana taşıyor. Mac Taylor’ın şefliğini yaptığı, teknolojik araçları kuşanmış detektifler adaleti yerine getirmeye kararlı. Olay yeri inceleme detektiflerinin hiç uyumayan New York sokaklarında suçluların peşinden koşmaya ihtiyacı yok. Onlar delil peşinde... Kaçan suçlunun, arkasında bırakacağı bir iz onu içeri atmaları için yetip de artıyor bile. Mac Taylor’ın da dediği gibi: “New York’ta herkes yalan söyleyebilir; ama kanıtların yalan söylediği çok nadirdir.”",
+        "poster_path": "/4TGV4Bb3OPay4cHkQRlfwghv3vC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 66.1269,
+        "first_air_date": "2004-09-22",
+        "vote_average": 7.356,
+        "vote_count": 700,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qBcQOOaIBjajLaU1sKUVHjcvbQK.jpg",
+        "id": 2038,
+        "name": "Drake & Josh",
+        "original_name": "Drake & Josh",
+        "overview": "Fifteen-year-old Drake and Josh are schoolmates, but not close friends. Drake views Josh as weird and a bit of a goof. So, imagine Drake's shock when he finds out that this \"goof\" is about to become his new step-brother and roommate when his mother marries Josh's father. A spin off of The Amanda Show.",
+        "poster_path": "/udCvGctktHvvf8w51XyTPfcmzDa.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 33.1876,
+        "first_air_date": "2004-01-11",
+        "vote_average": 8.4,
+        "vote_count": 1871,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/w00lfexrsOeR25dO4hsWhbcUnmD.jpg",
+        "id": 4087,
+        "name": "Gizli Dosyalar",
+        "original_name": "The X-Files",
+        "overview": "Dizi, Fox Mulder ve Dana Scully adlı iki FBI ajanının maceralarını konu almaktadır. Dizide, ajan Fox Mulder ve Dana Scully FBI'ın Gizli Dosyalar departmanına atanmış iki ajandır. Bu departman çözülemeyen, tuhaf ve paranormal olaylarla ilişkisi bulunan dosyalardan sorumludur. Ajan Fox Mulder, paranormal olaylara ve uzaylı komplosuna \"inanan\" bir bakış açısı sergilerken Ajan Dana Scully ise bilimi rehber alan kuşkucu bir tavırla hareket eder.",
+        "poster_path": "/rcBx0p8h51LHceyhquYMxbspJQu.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          10765,
+          80
+        ],
+        "popularity": 120.7687,
+        "first_air_date": "1993-09-10",
+        "vote_average": 8.4,
+        "vote_count": 3227,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zoetbPF7jYY0jjY5js3x6r1QjSW.jpg",
+        "id": 1639,
+        "name": "Heroes",
+        "original_name": "Heroes",
+        "overview": "Olağanüstü yeteneklere sahip sıradan insanların destansı hikayesi; Heroes.. Uçabilen, düşünce okuyabilen, geleceği resmedebilen, yok edilemez olan, zamanı büken ve görünmez olan bu insanların ortak kaderi, dünyayı kurtaracak olmalarıdır. \n\nAma önce hepsi kendilerindeki bu yeteneği keşfetmeli, sindirmeli, kontrol altında kullanabilmelidirler. Bunu başardıklarında her biri yapabileceklerinin sınırı olmadığını görecek ve her yeni adım bir başka maceraya atılacaktır..",
+        "poster_path": "/lf0TcOkheYUZKpeh7c8lqJHNk5O.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 44.8924,
+        "first_air_date": "2006-09-25",
+        "vote_average": 7.456,
+        "vote_count": 2336,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/fgvM6m7gAd8kDAaLF16aflbOSAK.jpg",
+        "id": 1416,
+        "name": "Grey's Anatomy",
+        "original_name": "Grey's Anatomy",
+        "overview": "Grace Hastanesi'ne hoş geldiniz! Burada yeni ve acemi doktorlar için en zorlu doktorluk ihtisas devresi programlarından biri uygulanıyor. Bu acımasız eğitimle başa çıkmak zorunda olan kahramanlarımız ise Meredith, Izzie, George, Alex ve Cristina. Onlar dün öğrenciydiler, bugün ise doktor oldular. Eğer yedi yıl boyunca Grace gibi bir cehennemde başarılı olurlarsa cerrahlığa da hak kazanmış olacaklar. Ancak ihtisas devresinin bu kadar zorlu olması, onlar için yaşamlarının geri kalanının durdurduğu anlamına da gelmiyor. Yani bu grup, aynı zamanda kıskanç sevgililer, ebeveynler, tek gecelik ilişkiler ve ev bulma krizleriyle mücadele etmek zorunda. Üstelik kahramanlarımız, bu stresli ve rekabet dolu ortamda dostluklar da kurmaya çalışıyolar.",
+        "poster_path": "/7jEVqXC14bhfAzSPgr896dMdDv6.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 264.6504,
+        "first_air_date": "2005-03-27",
+        "vote_average": 8.228,
+        "vote_count": 10491,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/u04AvxFIDgL9JSd9xoVNK3BoBEd.jpg",
+        "id": 39340,
+        "name": "2 Broke Girls",
+        "original_name": "2 Broke Girls",
+        "overview": "Dizide olaylar, zengin ve soylu bir aileden gelen Caroline'in birden bire beş parasız kalması ve Max ile aynı restoranda çalışmaya başlaması sonrasında kurdukları arkadaşlık üzerine kurulmuştur. Karakter olarak Max, kendi yağıyla kavrulan, gündüzleri bebek bakıcılığı, akşamları da garsonluk yaparak geçimini sağlayan, sokak kültürüyle yetişmiş, lafını esirgemeyen, tabiri caizse lafı gediğine oturtan bir kızdır. Max'in aksine Caroline ise girişimciliği ön planda olan, 1'i 2 yapmanın yollarını arayan, daha çok mantığını kullanan bir kızdır ve onunda önerisiyle aldıkları karar sonucu kendi \"çörek dükkânlarını\" açmaya karar verirler. Bunun için yaptıkları hesap sonucunda ortalama 250.000 dolara sahip olmaları gerekmektedir ve nihayetinde, her bölümün sonunda elde ettikleri toplam kazancın bir çetelesi izleyiciye sunulmaktadır.",
+        "poster_path": "/qCa4ANpF1QOioqRUNHgk2B3KFMZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 49.8081,
+        "first_air_date": "2011-09-19",
+        "vote_average": 7.2,
+        "vote_count": 1588,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/oS3nip9GGsx5A7vWp8A1cazqJlF.jpg",
+        "id": 39351,
+        "name": "Grimm",
+        "original_name": "Grimm",
+        "overview": "Polis dedektifi Nick Burkhardt (David Giuntoli)'ın son 'Grimms'lerden olduğunu keşfetmesiyle çeşili maceralarına tanık olacağız. Dedektif Nick Burkhardt, Portland- Oregon'daki cinayet çalışmalarında korkunç gerçeklerle yüzleşmeye hazırdır. Ta ki tam olarak açıklayamayacağı bazı şeyler görmeye başlayana dek...\n\nNick Burkhardt cinayet masası dedektifi olarak çalıştığından beri, kendini gerçeğe bayağı bir alıştırdığını düşünüyordu. Taa ki, açıklaması zor hatta neredeyse imkânsız şeyleri görmeye başladığından beri. Hasta teyzesi Marie geldiğinde aslında bunların, ‘Grimm’ diye adlandırılan, bir grup seçkin avcı topluluğunun torunları olduğunu ve dünyadaki insan soyunu korumak için doğaüstü yaratıklarla savaştıklarını söylediğinde Nick’in hayatı sonsuza kadar değişecektir. ",
+        "poster_path": "/iOptnt1QHi6bIHmOq6adnZTV0bU.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          10765
+        ],
+        "popularity": 63.6374,
+        "first_air_date": "2011-10-28",
+        "vote_average": 8.266,
+        "vote_count": 3312,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7kURMhv9ueXNnvP9werOhJihXks.jpg",
+        "id": 81879,
+        "name": "Mrs. Fletcher",
+        "original_name": "Mrs. Fletcher",
+        "overview": "Ünlü dizi \"The Leftovers\"ın yaratıcılarından Tom Perrotta'nın romanından uyarlanan bu eğlenceli dizi, yeni boşanan eve ve oğlu Brendan'ın maceralarına odaklanıyor. Üniversite için evden ayrılan Brendan bambaşka bir dünyaya adım atarken yalnız kalan Eve de sıradan hayatını renklendirmeye çalışıyor.",
+        "poster_path": "/8FVRHydZgQ09S4ANvhy1dQyI7A4.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 4.3727,
+        "first_air_date": "2019-10-27",
+        "vote_average": 7.353,
+        "vote_count": 300,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uo4wPlubpUwjlLm39PF8BxXCqLm.jpg",
+        "id": 4271,
+        "name": "Farscape",
+        "original_name": "Farscape",
+        "overview": "Astronot John Crichton kendi geliştirdiği bir teoriyi test etmek için küçük bir uzay mekiğiyle gökyüzüne çıkar. Deney sırasında rastlantılar sonucu karşısında beliren bir Worm Hole (solucan delikleri) sayesinde binlerce galaksi ötede belirir. Solucan delikleri uzayda bir taraftan bir tarafa açılan kapılardır.\n\nKendisini küçük bir uzay savaşının ortasında bulur. Bu esnada üç mahkum, savaşan taraflardan biri olan Peacekeeper’lardan Moya adlı biyomekanik bir uzay gemisiyle, yani yaşayan bir uzay gemisiyle kaçmaya çalışıyorlardır.",
+        "poster_path": "/fCJx7cCXKOEkmCVIIyP8qk0Pb7Y.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 39.1453,
+        "first_air_date": "1999-03-19",
+        "vote_average": 7.848,
+        "vote_count": 544,
+        "origin_country": [
+          "AU",
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

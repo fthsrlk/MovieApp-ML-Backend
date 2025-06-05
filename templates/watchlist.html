@@ -1,0 +1,189 @@
+{% extends "base.html" %} {# Eğer bir base layout kullanıyorsanız #}
+
+{% block title %}İzleme Listem - MovieApp{% endblock %}
+
+{% block content %}
+<section class="section watchlist-section">
+    <div class="container">
+        <h2 class="section-title">İzleme Listem</h2>
+
+        {% if movie_items or tv_items %}
+            <!-- Sekmeler -->
+            <div class="tabs watchlist-tabs">
+                <div class="tab active" data-target="all-items">Tümü</div>
+                {% if movie_items %}
+                    <div class="tab" data-target="movie-items">Filmler</div>
+                {% endif %}
+                {% if tv_items %}
+                    <div class="tab" data-target="tv-items">Diziler</div>
+                {% endif %}
+            </div>
+
+            <!-- Tüm Öğeler -->
+            <div class="tab-content active" id="all-items">
+                {% if movie_items %}
+                    <h3 class="mb-30">Filmler ({{ movie_items|length }})</h3>
+                    <div class="card-grid">
+                        {% for item in movie_items %}
+                            <div class="card in-watchlist"> {# İzleme listesinde olduğu için in-watchlist sınıfı ekli #}
+                                <div class="watchlist-tag"><i class="fas fa-check"></i> İzleme Listemde</div>
+
+                                <div class="card-image-wrapper">
+                                    <img src="https://image.tmdb.org/t/p/w500{{ item.poster_path if item.poster_path else url_for('static', filename='img/no-poster.jpg') }}" alt="{{ item.title }}">
+                                    <div class="card-overlay">
+                                        <h3 class="card-overlay-title">{{ item.title }}</h3>
+                                        <div class="card-overlay-info">
+                                            <span>{{ item.release_date.split('-')[0] if item.release_date else 'N/A' }}</span>
+                                            <span><i class="fas fa-star"></i> {{ "%.1f"|format(item.vote_average|float) if item.vote_average else 'N/A' }}</span>
+                                        </div>
+                                        <div class="card-overlay-actions">
+                                            <a href="{{ url_for('detail', media_type='movie', item_id=item.id) }}" class="btn"><i class="fas fa-info-circle"></i> Detaylar</a>
+                                            {# İzleme listesi sayfasında sadece 'Çıkar' butonu #}
+                                            <button class="btn btn-watchlist remove-from-watchlist-card" 
+                                                    data-media-type="movie" 
+                                                    data-item-id="{{ item.id }}">
+                                                <i class="fas fa-minus-circle"></i> Çıkar
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card-content">
+                                    <h4 class="card-title">{{ item.title }}</h4>
+                                    <div class="card-info">
+                                        <span>{{ item.release_date.split('-')[0] if item.release_date else 'N/A' }}</span>
+                                        <span><i class="fas fa-star"></i> {{ "%.1f"|format(item.vote_average|float) if item.vote_average else 'N/A' }}</span>
+                                    </div>
+                                </div>
+                            </div>
+                        {% endfor %}
+                    </div>
+                {% endif %}
+                {% if tv_items %}
+                    <h3 class="mt-50 mb-30">Diziler ({{ tv_items|length }})</h3>
+                    <div class="card-grid">
+                        {% for item in tv_items %}
+                            <div class="card in-watchlist"> {# İzleme listesinde olduğu için in-watchlist sınıfı ekli #}
+                                <div class="watchlist-tag"><i class="fas fa-check"></i> İzleme Listemde</div>
+
+                                <div class="card-image-wrapper">
+                                    <img src="https://image.tmdb.org/t/p/w500{{ item.poster_path if item.poster_path else url_for('static', filename='img/no-poster.jpg') }}" alt="{{ item.name }}">
+                                    <div class="card-overlay">
+                                        <h3 class="card-overlay-title">{{ item.name }}</h3>
+                                        <div class="card-overlay-info">
+                                            <span>{{ item.first_air_date.split('-')[0] if item.first_air_date else 'N/A' }}</span>
+                                            <span><i class="fas fa-star"></i> {{ "%.1f"|format(item.vote_average|float) if item.vote_average else 'N/A' }}</span>
+                                        </div>
+                                        <div class="card-overlay-actions">
+                                            <a href="{{ url_for('detail', media_type='tv', item_id=item.id) }}" class="btn"><i class="fas fa-info-circle"></i> Detaylar</a>
+                                            {# İzleme listesi sayfasında sadece 'Çıkar' butonu #}
+                                            <button class="btn btn-watchlist remove-from-watchlist-card" 
+                                                    data-media-type="tv" 
+                                                    data-item-id="{{ item.id }}">
+                                                <i class="fas fa-minus-circle"></i> Çıkar
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card-content">
+                                    <h4 class="card-title">{{ item.name }}</h4>
+                                    <div class="card-info">
+                                        <span>{{ item.first_air_date.split('-')[0] if item.first_air_date else 'N/A' }}</span>
+                                        <span><i class="fas fa-star"></i> {{ "%.1f"|format(item.vote_average|float) if item.vote_average else 'N/A' }}</span>
+                                    </div>
+                                </div>
+                            </div>
+                        {% endfor %}
+                    </div>
+                {% endif %}
+            </div>
+
+            {% if movie_items %}
+            <!-- Sadece Filmler -->
+            <div class="tab-content hidden" id="movie-items">
+                <h3 class="mb-30">Filmler ({{ movie_items|length }})</h3>
+                <div class="card-grid">
+                    {% for item in movie_items %}
+                        <div class="card in-watchlist"> {# İzleme listesinde olduğu için in-watchlist sınıfı ekli #}
+                            <div class="watchlist-tag"><i class="fas fa-check"></i> İzleme Listemde</div>
+
+                            <div class="card-image-wrapper">
+                                <img src="https://image.tmdb.org/t/p/w500{{ item.poster_path if item.poster_path else url_for('static', filename='img/no-poster.jpg') }}" alt="{{ item.title }}">
+                                <div class="card-overlay">
+                                    <h3 class="card-overlay-title">{{ item.title }}</h3>
+                                    <div class="card-overlay-info">
+                                        <span>{{ item.release_date.split('-')[0] if item.release_date else 'N/A' }}</span>
+                                        <span><i class="fas fa-star"></i> {{ "%.1f"|format(item.vote_average|float) if item.vote_average else 'N/A' }}</span>
+                                    </div>
+                                    <div class="card-overlay-actions">
+                                        <a href="{{ url_for('detail', media_type='movie', item_id=item.id) }}" class="btn"><i class="fas fa-info-circle"></i> Detaylar</a>
+                                        <button class="btn btn-watchlist remove-from-watchlist-card" 
+                                                data-media-type="movie" 
+                                                data-item-id="{{ item.id }}">
+                                            <i class="fas fa-minus-circle"></i> Çıkar
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card-content">
+                                <h4 class="card-title">{{ item.title }}</h4>
+                                <div class="card-info">
+                                    <span>{{ item.release_date.split('-')[0] if item.release_date else 'N/A' }}</span>
+                                    <span><i class="fas fa-star"></i> {{ "%.1f"|format(item.vote_average|float) if item.vote_average else 'N/A' }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+            {% endif %}
+
+            {% if tv_items %}
+            <!-- Sadece Diziler -->
+            <div class="tab-content hidden" id="tv-items">
+                <h3 class="mb-30">Diziler ({{ tv_items|length }})</h3>
+                <div class="card-grid">
+                    {% for item in tv_items %}
+                        <div class="card in-watchlist"> {# İzleme listesinde olduğu için in-watchlist sınıfı ekli #}
+                            <div class="watchlist-tag"><i class="fas fa-check"></i> İzleme Listemde</div>
+
+                            <div class="card-image-wrapper">
+                                <img src="https://image.tmdb.org/t/p/w500{{ item.poster_path if item.poster_path else url_for('static', filename='img/no-poster.jpg') }}" alt="{{ item.name }}">
+                                <div class="card-overlay">
+                                    <h3 class="card-overlay-title">{{ item.name }}</h3>
+                                    <div class="card-overlay-info">
+                                        <span>{{ item.first_air_date.split('-')[0] if item.first_air_date else 'N/A' }}</span>
+                                        <span><i class="fas fa-star"></i> {{ "%.1f"|format(item.vote_average|float) if item.vote_average else 'N/A' }}</span>
+                                    </div>
+                                    <div class="card-overlay-actions">
+                                        <a href="{{ url_for('detail', media_type='tv', item_id=item.id) }}" class="btn"><i class="fas fa-info-circle"></i> Detaylar</a>
+                                        {# İzleme listesi sayfasında sadece 'Çıkar' butonu #}
+                                        <button class="btn btn-watchlist remove-from-watchlist-card" 
+                                                data-media-type="tv" 
+                                                data-item-id="{{ item.id }}">
+                                            <i class="fas fa-minus-circle"></i> Çıkar
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card-content">
+                                <h4 class="card-title">{{ item.name }}</h4>
+                                <div class="card-info">
+                                    <span>{{ item.first_air_date.split('-')[0] if item.first_air_date else 'N/A' }}</span>
+                                    <span><i class="fas fa-star"></i> {{ "%.1f"|format(item.vote_average|float) if item.vote_average else 'N/A' }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+            {% endif %}
+
+        {% else %}
+            <div class="text-center">
+                <p>İzleme listeniz henüz boş.</p>
+                <a href="{{ url_for('search') }}" class="btn mt-20"><i class="fas fa-search"></i> Film/Dizi Ara</a>
+            </div>
+        {% endif %}
+    </div>
+</section>
+{% endblock %} 

@@ -1,0 +1,687 @@
+{
+  "adult": false,
+  "backdrop_path": "/3hOxwqn1P2AY0d20VVtxN2f3Lfh.jpg",
+  "created_by": [
+    {
+      "id": 1423069,
+      "credit_id": "5bc0fa2992514179c701f373",
+      "name": "Pablo Motos",
+      "original_name": "Pablo Motos",
+      "gender": 2,
+      "profile_path": "/9YT7wFnlnRxdkN5O91kqSIUUQt8.jpg"
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2006-09-24",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Komedi"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://www.antena3.com/programas/el-hormiguero/",
+  "id": 6809,
+  "in_production": true,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2025-03-04",
+  "last_episode_to_air": {
+    "id": 6019508,
+    "name": "98. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-06",
+    "episode_number": 98,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 19,
+    "show_id": 6809,
+    "still_path": null
+  },
+  "name": "El hormiguero",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 378,
+      "logo_path": "/pZtmQfr0z82ODDxZsqGzORZJJux.png",
+      "name": "Cuatro",
+      "origin_country": "ES"
+    },
+    {
+      "id": 400,
+      "logo_path": "/l7MngINTyv0O6mNlwNsUlhQ9iwZ.png",
+      "name": "Antena 3",
+      "origin_country": "ES"
+    },
+    {
+      "id": 3744,
+      "logo_path": "/tRcLVDie5E5dIIRvA8Ojjuvlp7k.png",
+      "name": "Atresplayer",
+      "origin_country": "ES"
+    }
+  ],
+  "number_of_episodes": 1284,
+  "number_of_seasons": 19,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_name": "El hormiguero",
+  "overview": "",
+  "popularity": 2356.198,
+  "poster_path": "/K6tzvTqHFULV5cr5dsWTSmh4Zj.jpg",
+  "production_companies": [
+    {
+      "id": 61864,
+      "logo_path": null,
+      "name": "7 y acción",
+      "origin_country": ""
+    },
+    {
+      "id": 150330,
+      "logo_path": null,
+      "name": "Gestmusic Endemol (2006-2007)",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2006-09-24",
+      "episode_count": 9,
+      "id": 67790,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2007-09-17",
+      "episode_count": 2,
+      "id": 69928,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2008-09-01",
+      "episode_count": 2,
+      "id": 69929,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2009-08-31",
+      "episode_count": 6,
+      "id": 67791,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2010-08-26",
+      "episode_count": 2,
+      "id": 69930,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-09-05",
+      "episode_count": 3,
+      "id": 69931,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 6.0
+    },
+    {
+      "air_date": "2012-09-03",
+      "episode_count": 6,
+      "id": 69932,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2013-09-02",
+      "episode_count": 2,
+      "id": 69933,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2014-09-01",
+      "episode_count": 162,
+      "id": 69934,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2015-08-31",
+      "episode_count": 1,
+      "id": 69935,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2016-09-12",
+      "episode_count": 5,
+      "id": 110735,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2017-09-04",
+      "episode_count": 19,
+      "id": 110736,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2018-09-03",
+      "episode_count": 161,
+      "id": 110737,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2019-09-02",
+      "episode_count": 162,
+      "id": 131670,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2020-09-07",
+      "episode_count": 161,
+      "id": 160760,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2021-09-06",
+      "episode_count": 161,
+      "id": 213115,
+      "name": "Sezon 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2022-09-05",
+      "episode_count": 161,
+      "id": 299661,
+      "name": "Sezon 17",
+      "overview": "",
+      "poster_path": "/nYrrAiZ8vzV1je9puLoRJ6BsKh0.jpg",
+      "season_number": 17,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2023-09-04",
+      "episode_count": 161,
+      "id": 299662,
+      "name": "Sezon 18",
+      "overview": "",
+      "poster_path": "/4XkxwTOajd9GA6uM2k3JtETZHgi.jpg",
+      "season_number": 18,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2024-09-02",
+      "episode_count": 98,
+      "id": 405703,
+      "name": "Sezon 19",
+      "overview": "",
+      "poster_path": "/cxBVmn50SQPNreAZ2m47FycodMD.jpg",
+      "season_number": 19,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 4.9,
+  "vote_count": 33,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1423069,
+        "known_for_department": "Acting",
+        "name": "Pablo Motos",
+        "original_name": "Pablo Motos",
+        "popularity": 2.274,
+        "profile_path": "/9YT7wFnlnRxdkN5O91kqSIUUQt8.jpg",
+        "character": "Self - Presenter",
+        "credit_id": "55df1d1d925141472d002119",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1500965,
+        "known_for_department": "Acting",
+        "name": "Juan Ibáñez Pérez",
+        "original_name": "Juan Ibáñez Pérez",
+        "popularity": 0.277,
+        "profile_path": "/A5HDuuHCmcZ0AYkG3A65MtGcSQS.jpg",
+        "character": "Self - Collaborator",
+        "credit_id": "55df1df292514147290021da",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1500966,
+        "known_for_department": "Acting",
+        "name": "Damián Mollá",
+        "original_name": "Damián Mollá",
+        "popularity": 0.382,
+        "profile_path": "/A8j18r816CGu1jkTCejvQ85cy1V.jpg",
+        "character": "Self - Collaborator",
+        "credit_id": "55df1e41925141471d00208b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1500967,
+        "known_for_department": "Acting",
+        "name": "Jorge Marrón",
+        "original_name": "Jorge Marrón",
+        "popularity": 0.516,
+        "profile_path": "/h7HftgggMGMgjtSXeNSvmvt9IvU.jpg",
+        "character": "Self - Collaborator",
+        "credit_id": "55df1ea4c3a3681c6a0003c1",
+        "order": 3
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "interview",
+        "id": 4434
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/fqiRlhsMuReRxPqmpglbtkCDJJQ.jpg",
+        "id": 71595,
+        "name": "Second Wives Club",
+        "original_name": "Second Wives Club",
+        "overview": "Follow a group of young women who are married to wealthy, older, previously-divorced men, and the baggage that comes along with them.",
+        "poster_path": "/7EUEJbKbN0L68zno0OtGvKT9z4.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          10764
+        ],
+        "popularity": 5.591,
+        "first_air_date": "2017-05-04",
+        "vote_average": 7.5,
+        "vote_count": 2,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uc0vSrRfiWbk9GCtAMl62Aevgrp.jpg",
+        "id": 66910,
+        "name": "Me resbala",
+        "original_name": "Me resbala",
+        "overview": "",
+        "poster_path": "/cjUvdm6ry3Wbo0a3UWKhCLSIDxH.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 38.957,
+        "first_air_date": "2013-11-15",
+        "vote_average": 6.2,
+        "vote_count": 6,
+        "origin_country": [
+          "ES"
+        ]
+      },
+      {
+        "backdrop_path": "/f204eDWBk256GjCrt7I7Hr1TRh8.jpg",
+        "id": 90424,
+        "name": "The Hills: New Beginnings",
+        "original_name": "The Hills: New Beginnings",
+        "overview": "Follows the professional and personal lives of the cast of MTV's 'The Hills' and their their friends and kids, years after the final episode aired.",
+        "poster_path": "/z2HdQdvNriWQyOmOpA8bdOuUKuJ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764,
+          18
+        ],
+        "popularity": 21.103,
+        "first_air_date": "2019-06-24",
+        "vote_average": 7.5,
+        "vote_count": 16,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/47ZWsxt7TayFWc5cUrXQgJRd7ny.jpg",
+        "id": 76201,
+        "name": "Runaway",
+        "original_name": "Fugueuse",
+        "overview": "The tragic yet hopeful story of Fanny, a young teen from a good suburban home whose life spirals out of control when she falls for a manipulative and abusive man.",
+        "poster_path": "/voZwbrZ6BRZrBmAe2oLqKCJGfks.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 41.328,
+        "first_air_date": "2018-01-08",
+        "vote_average": 6.5,
+        "vote_count": 26,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/rZUQOQbfSKVjIYPg7iV0PaVynAx.jpg",
+        "id": 68432,
+        "name": "Kindred Spirits",
+        "original_name": "Kindred Spirits",
+        "overview": "Ghost hunters Adam Berry and Amy Bruni help real families who claim to be bedeviled by paranormal activity in their homes.",
+        "poster_path": "/1iWu5nDiY3YHTE6o5P3gVvDax2d.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764,
+          10765
+        ],
+        "popularity": 41.872,
+        "first_air_date": "2016-10-21",
+        "vote_average": 7.2,
+        "vote_count": 15,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 34193,
+        "name": "Ann and Harold",
+        "original_name": "Ann and Harold",
+        "overview": "Ann and Harold is a very early BBC television programme, and ran for five episodes, all broadcast in 1938. It is known to be the world's first drama serial ever transmitted, and explained the trials of a couple named Ann and Harold respectively, and starred Ann Todd. Little else is known about this programme.\n\nNo material exists of the show today, as it was aired live before any means of recording programmes existed. In fact, it is unknown if even any photographs survive of this programme.",
+        "poster_path": null,
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 6.081,
+        "first_air_date": "1938-07-12",
+        "vote_average": 4.0,
+        "vote_count": 2,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/nn9bd5jRYVEuJzSuAeKO7FLCQ3x.jpg",
+        "id": 249051,
+        "name": "The Old One",
+        "original_name": "老害の人",
+        "overview": "Fukutaro, the former president of a board game company, continues to show up at work even after handing over his position to his son-in-law. Fukutaro grabs anyone he can to repeatedly brag about the same past exploits, which irritates those around him. Triggered by an event, his daughter finally unleashes her unspoken true feelings about his toxic old-age behavior. Although Fukutaro seems sad and apologetic, he secretly plots a counterattack with his five elderly fellows.",
+        "poster_path": "/pJ9oyI8C2Qj8pWoCneKGqtjly1E.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 8.838,
+        "first_air_date": "2024-05-05",
+        "vote_average": 5.0,
+        "vote_count": 1,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 26351,
+        "name": "Paul Sand in Friends and Lovers",
+        "original_name": "Paul Sand in Friends and Lovers",
+        "overview": "Paul Sand in Friends and Lovers is a 1974-1975 United States comedic television series starring Paul Sand which centers around a musician in Boston, Massachusetts, and his personal relationships. It was Sand's only starring role in a television series. The show aired from September 14, 1974, to January 4, 1975.",
+        "poster_path": null,
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 11.227,
+        "first_air_date": "1974-09-14",
+        "vote_average": 5.0,
+        "vote_count": 1,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 157822,
+        "name": "Big Brother",
+        "original_name": "Big Brother",
+        "overview": "Burton richard (Muungwana), a sworn friend of Hamilton William (Ngoma Nagwa) does a grave mistake to his friend by illegally sleep with Nagwa's little sister Adela Richard (Lilian) then insult her in public that she is the dirtiest girl he has ever slept with and reached a point telling direct to Nagwa that his little sister is never a type to marry, a behavior that really annoyed Nagwa who angrily seeks revenge to Muungwana after his sister's death.",
+        "poster_path": "/egFxy4wqvWlyrcHpRHXnRgmmIo5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [],
+        "popularity": 0.643,
+        "first_air_date": "2021-11-27",
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/Ts0lq1VSa34V2CU1xvklwUnEF1.jpg",
+        "id": 65941,
+        "name": "Eternal Vacation",
+        "original_name": "Вечный отпуск",
+        "overview": "Andrey Sokolov and Sasha Kravtsova met on the ship. He worked as an assistant captain, and she celebrated her birthday on a grand scale. The party turned out to be so incendiary that the ship burned down. Andrey lost his job, and Sasha was sent by the oligarch dad to work as a maid on one of his cruise liners for educational purposes. Now she is waiting for a year surrounded by seascapes, an international team, unmade cabins and an old friend – the assistant director of the cruise… Andrey Sokolov. It's going to be a very, very long year.",
+        "poster_path": "/z0NsFr74fbvMWaVY2jVWfQYSCX5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ru",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 8.604,
+        "first_air_date": "2016-03-21",
+        "vote_average": 7.0,
+        "vote_count": 1,
+        "origin_country": [
+          "RU"
+        ]
+      },
+      {
+        "backdrop_path": "/jHiwfElYKgD0StCny8cm7FdNv9t.jpg",
+        "id": 235222,
+        "name": "Historiske forbrydelser",
+        "original_name": "Historiske forbrydelser",
+        "overview": "",
+        "poster_path": "/5CU5JrlkGGARIlrJwuCuFZTJYdj.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "da",
+        "genre_ids": [
+          99,
+          80
+        ],
+        "popularity": 0.848,
+        "first_air_date": "2023-09-19",
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "origin_country": [
+          "DK"
+        ]
+      },
+      {
+        "backdrop_path": "/j2NWvAts8AIJXF8tJKLTEMLBijS.jpg",
+        "id": 96039,
+        "name": "Crocodile and the Plover Bird",
+        "original_name": "鳄鱼与牙签鸟",
+        "overview": "A story about young people hoping to pioneer architectural improvements that will benefit the generations to come. A stone-faced genius meets his opposite and they clash from the start. Hate turns to love between these two people who first meet at the animal research society.\n\nLi Na Nen is a young woman from a small town who has always been passionate about Chinese culture and traditional architecture. After graduating, she heads to Bordeaux University to pursue her studies in the field. She somehow ends up joining the animal research society where she meets Zhou Er Wen. He is a young man who advocates ecological preservation. Given his interest in modern architecture, he is devoted to finding synergies in both. Li Na Nen and Zhou Er Wen start out at odds with each other and Gao Mu finds himself to be the constant mediator. Their experiences bring them together as they strive to bring to fruition a project referred to as the hanging garden.",
+        "poster_path": "/ySwMpSFd0erWBKBkLQAGATwBR7z.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "zh",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 20.976,
+        "first_air_date": "2019-11-18",
+        "vote_average": 5.0,
+        "vote_count": 2,
+        "origin_country": [
+          "CN"
+        ]
+      },
+      {
+        "backdrop_path": "/6gnMTS4Lo18C9mSue0W58TAHY5W.jpg",
+        "id": 4185,
+        "name": "Mine All Mine",
+        "original_name": "Mine All Mine",
+        "overview": "Mine All Mine is a British television series produced by Red Production Company for ITV. It was written by Russell T Davies and starred Griff Rhys Jones. The story takes place in Swansea, Wales.",
+        "poster_path": "/9oisokjMSLLxDOhyVWtcF8nbCcj.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 13.998,
+        "first_air_date": "2004-11-25",
+        "vote_average": 6.0,
+        "vote_count": 1,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 69687,
+        "name": "The Seven Girls",
+        "original_name": "السبع بنات",
+        "overview": "The work revolves around seven sisters of each independent personality and different attributes, 5 Sisters from a mother who already died, two from another mother.",
+        "poster_path": "/7UbbUbojx8VfHuJrtFrNxmMcSIK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ar",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 27.119,
+        "first_air_date": "2016-11-26",
+        "vote_average": 5.0,
+        "vote_count": 1,
+        "origin_country": [
+          "EG"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

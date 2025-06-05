@@ -1,0 +1,873 @@
+{
+  "adult": false,
+  "backdrop_path": "/iMFsQ7yyToYg7SkS9Ml0by9UJ0X.jpg",
+  "created_by": [
+    {
+      "id": 28715,
+      "credit_id": "52571fcf760ee3776a1efec5",
+      "name": "Aaron Spelling",
+      "original_name": "Aaron Spelling",
+      "gender": 2,
+      "profile_path": "/phWYm52D2TzUQm6Lv5KmLCc0dts.jpg"
+    },
+    {
+      "id": 47915,
+      "credit_id": "609c52db2a210c003f0a7c5b",
+      "name": "Darren Star",
+      "original_name": "Darren Star",
+      "gender": 2,
+      "profile_path": "/lh6yexxHGKpLViBUBCWvBzP8kIq.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1990-10-04",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 10766,
+      "name": "Pembe Dizi"
+    }
+  ],
+  "homepage": "",
+  "id": 2025,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2000-05-17",
+  "last_episode_to_air": {
+    "id": 139394,
+    "name": "25. Bölüm",
+    "overview": "",
+    "vote_average": 6.0,
+    "vote_count": 1,
+    "air_date": "2000-05-17",
+    "episode_number": 25,
+    "episode_type": "finale",
+    "production_code": "2199284 / 2199285",
+    "runtime": 88,
+    "season_number": 10,
+    "show_id": 2025,
+    "still_path": "/1JwbupHHpjXEknvwrCmdnsgcTgG.jpg"
+  },
+  "name": "Beverly Hills, 90210",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 19,
+      "logo_path": "/1DSpHrWyOORkL9N2QHX7Adt31mQ.png",
+      "name": "FOX",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 284,
+  "number_of_seasons": 10,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Beverly Hills, 90210",
+  "overview": "",
+  "popularity": 73.3779,
+  "poster_path": "/b7BYfkhu653D894krwGO1ysIKTf.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1993-05-26",
+      "episode_count": 21,
+      "id": 6041,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/f6xEsY11cVsLaJSyBRvDyp5BYnl.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1990-10-04",
+      "episode_count": 22,
+      "id": 6032,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/pwslvDrO7vrRArcik5GufqsONXJ.jpg",
+      "season_number": 1,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "1991-07-11",
+      "episode_count": 28,
+      "id": 6033,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/aaoUxI5x6FQOItVYyBj4KYaYlaz.jpg",
+      "season_number": 2,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "1992-07-15",
+      "episode_count": 29,
+      "id": 6031,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/f3vehh4HhX4lWb2RU6wS3A9yLuq.jpg",
+      "season_number": 3,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "1993-09-08",
+      "episode_count": 31,
+      "id": 6034,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/49eH4j4CkcIOBH0ctG7RZzgyCeO.jpg",
+      "season_number": 4,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "1994-09-07",
+      "episode_count": 31,
+      "id": 6040,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/up2bQiDiqugFTr79j30Nq0t2wrG.jpg",
+      "season_number": 5,
+      "vote_average": 8.5
+    },
+    {
+      "air_date": "1995-09-13",
+      "episode_count": 31,
+      "id": 6038,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/8orJpUcrjtQlW3UoZTuEzRcrqEO.jpg",
+      "season_number": 6,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "1996-08-21",
+      "episode_count": 31,
+      "id": 6035,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/iW1XCbiDpgM7nZXXKeyz3IX0FzS.jpg",
+      "season_number": 7,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "1997-09-10",
+      "episode_count": 30,
+      "id": 6037,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/6EUH5tlXMFKb4WbFboxdyzuVNBs.jpg",
+      "season_number": 8,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "1998-09-16",
+      "episode_count": 26,
+      "id": 6039,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/k7mNu6BEe924KoF46nCah7l54FO.jpg",
+      "season_number": 9,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "1999-09-08",
+      "episode_count": 25,
+      "id": 6036,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/iJ8IwdYVzm6g5jIoaoXIDGbjzxB.jpg",
+      "season_number": 10,
+      "vote_average": 6.7
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.372,
+  "vote_count": 745,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1212139,
+        "known_for_department": "Acting",
+        "name": "Jennie Garth",
+        "original_name": "Jennie Garth",
+        "popularity": 1.8778,
+        "profile_path": "/nqgP9o12FNDOeON6bfbnN8pvb72.jpg",
+        "character": "Kelly Taylor",
+        "credit_id": "52571fcb760ee3776a1ef9bd",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19146,
+        "known_for_department": "Acting",
+        "name": "Ian Ziering",
+        "original_name": "Ian Ziering",
+        "popularity": 1.8121,
+        "profile_path": "/keJ4aYXWzUD1MOTDNrKDAXUstW0.jpg",
+        "character": "Steve Sanders",
+        "credit_id": "52571fca760ee3776a1ef973",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8395,
+        "known_for_department": "Acting",
+        "name": "Luke Perry",
+        "original_name": "Luke Perry",
+        "popularity": 2.6296,
+        "profile_path": "/78TAr0wLoRHyubnYxjyHNCt70V2.jpg",
+        "character": "Dylan McKay",
+        "credit_id": "52571fcb760ee3776a1efa47",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19148,
+        "known_for_department": "Acting",
+        "name": "Brian Austin Green",
+        "original_name": "Brian Austin Green",
+        "popularity": 2.5306,
+        "profile_path": "/8KGhmSEmxwn6oJBN5NCpeYDJ2hx.jpg",
+        "character": "David Silver",
+        "credit_id": "52571fca760ee3776a1ef8e9",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 180150,
+        "known_for_department": "Acting",
+        "name": "Vincent Young",
+        "original_name": "Vincent Young",
+        "popularity": 0.8982,
+        "profile_path": "/mcy1p6gSRz8m0gNjME9cZ6zBKCs.jpg",
+        "character": "Noah Hunter",
+        "credit_id": "52571fcd760ee3776a1efc71",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 169586,
+        "known_for_department": "Acting",
+        "name": "Vanessa Marcil",
+        "original_name": "Vanessa Marcil",
+        "popularity": 2.9074,
+        "profile_path": "/e2bgnPVavuJfFyO84ny8eGhQ6iP.jpg",
+        "character": "Gina Kincaid",
+        "credit_id": "52571fcd760ee3776a1efcb1",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19149,
+        "known_for_department": "Acting",
+        "name": "Tori Spelling",
+        "original_name": "Tori Spelling",
+        "popularity": 1.9737,
+        "profile_path": "/ufYbH6s3L0u97pwBfcwenJAHFJ2.jpg",
+        "character": "Donna Martin",
+        "credit_id": "52571fcb760ee3776a1efa9b",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 87316,
+        "known_for_department": "Acting",
+        "name": "Lindsay Price",
+        "original_name": "Lindsay Price",
+        "popularity": 1.4237,
+        "profile_path": "/zlwhEOTUWOoiXHBUAMjScFy1qyu.jpg",
+        "character": "Janet Sosna",
+        "credit_id": "52571fcb760ee3776a1efc33",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 203511,
+        "known_for_department": "Acting",
+        "name": "Daniel Cosgrove",
+        "original_name": "Daniel Cosgrove",
+        "popularity": 1.3667,
+        "profile_path": "/mST7Zk0XyGmguCy0wImp6kuMzSd.jpg",
+        "character": "Matt Durning",
+        "credit_id": "52571fcd760ee3776a1efceb",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 102901,
+        "known_for_department": "Acting",
+        "name": "Joe E. Tata",
+        "original_name": "Joe E. Tata",
+        "popularity": 1.432,
+        "profile_path": "/fLwVss0eiWw0MAsRbBDzAwRmFps.jpg",
+        "character": "Nat Bussichio",
+        "credit_id": "52571fcb760ee3776a1efb25",
+        "order": 19
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 47915,
+        "known_for_department": "Writing",
+        "name": "Darren Star",
+        "original_name": "Darren Star",
+        "popularity": 1.4145,
+        "profile_path": "/lh6yexxHGKpLViBUBCWvBzP8kIq.jpg",
+        "credit_id": "52571fcf760ee3776a1efed5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28715,
+        "known_for_department": "Production",
+        "name": "Aaron Spelling",
+        "original_name": "Aaron Spelling",
+        "popularity": 2.1519,
+        "profile_path": "/phWYm52D2TzUQm6Lv5KmLCc0dts.jpg",
+        "credit_id": "52571fd0760ee3776a1eff3b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2688465,
+        "known_for_department": "Sound",
+        "name": "John E. Davis",
+        "original_name": "John E. Davis",
+        "popularity": 0.4582,
+        "profile_path": null,
+        "credit_id": "5f008495d0b4340033665a7c",
+        "department": "Sound",
+        "job": "Main Title Theme Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "california",
+        "id": 387
+      },
+      {
+        "name": "high school",
+        "id": 6270
+      },
+      {
+        "name": "family relationships",
+        "id": 10235
+      },
+      {
+        "name": "los angeles, california",
+        "id": 12670
+      },
+      {
+        "name": "beverly hills",
+        "id": 163047
+      },
+      {
+        "name": "teenage romance",
+        "id": 188237
+      },
+      {
+        "name": "teen drama",
+        "id": 193400
+      },
+      {
+        "name": "social issues",
+        "id": 194451
+      },
+      {
+        "name": "approving",
+        "id": 325770
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/1SUer2UeRe4LFxil6LJo60KoQrX.jpg",
+        "id": 4349,
+        "name": "Melrose Place",
+        "original_name": "Melrose Place",
+        "overview": "Follow the lives of a group of young adults living in a brownstone apartment complex on Melrose Place, in Los Angeles, California.",
+        "poster_path": "/78gp8RcQEg19BzMkUm2ifMgFITb.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 41.9064,
+        "first_air_date": "1992-07-08",
+        "vote_average": 5.9,
+        "vote_count": 157,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/tEm6hydl6wJ13gfrasriMug96SS.jpg",
+        "id": 4266,
+        "name": "Party of Five",
+        "original_name": "Party of Five",
+        "overview": "Five brothers and sisters are determined to stay together following the tragic loss of their parents.",
+        "poster_path": "/5LZgFeMynMeeKX8Bn9s1RWe9n9S.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 41.6631,
+        "first_air_date": "1994-09-12",
+        "vote_average": 7.03,
+        "vote_count": 117,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2WwhGleN2SGwHptGaLNAmSRLeMf.jpg",
+        "id": 89235,
+        "name": "BH90210",
+        "original_name": "BH90210",
+        "overview": "Having gone their separate ways since the original series ended 19 years ago, the cast of Beverly Hills, 90210 reunites when one of them suggests it’s time to get a reboot up and running. But getting it going might make for an even more delicious soap than the reboot itself.",
+        "poster_path": "/z6Sj4dqUc5AVe66HddTN5wj7zYw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 2.7782,
+        "first_air_date": "2019-08-07",
+        "vote_average": 6.7,
+        "vote_count": 58,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/imJuFvz6WJZS9vBywm0vPYYL42K.jpg",
+        "id": 93289,
+        "name": "Brave New World",
+        "original_name": "Brave New World",
+        "overview": "Aldous Huxley'in romanından uyarlanan \"Brave New World\" para, aile, tarih gibi kavramların ortadan kalktığı, barış ve istikrarın sağlandığı ütopik toplumu konu alıyor. (18 yaş ve üzeri için uygundur)",
+        "poster_path": "/kPllKV7H4NOPkvtkV3cLGwESV31.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 6.3507,
+        "first_air_date": "2020-07-15",
+        "vote_average": 6.7,
+        "vote_count": 195,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/8LaQ8T9iMQeU207awX2RPWLSTEf.jpg",
+        "id": 600,
+        "name": "Renegade",
+        "original_name": "Renegade",
+        "overview": "Framed for murder, Detective Reno Raines becomes a fugitive bounty hunter who fights crime while trying to clear his name. His troubles began after he testified about police corruption, leading Lt. Donald Dixon to set him up.",
+        "poster_path": "/xdpsXW6uAJDWOA0xsWX6tJACQmF.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          80
+        ],
+        "popularity": 34.3737,
+        "first_air_date": "1992-09-19",
+        "vote_average": 6.642,
+        "vote_count": 127,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4Wix9wMSArpgYBMV5ndZCJqEQbG.jpg",
+        "id": 16946,
+        "name": "Hayat",
+        "original_name": "Life",
+        "overview": "Bu belgesel, dünyamızın dört bir yanındaki en ilginç ve egzotik canlıları ve onların hayatta kalma mücadelelerini detaylı bir şekilde ele alır.\n\nHer bölüm, farklı bir ekosistemden veya habitattan canlıların yaşamına odaklanarak, doğanın zengin çeşitliliğini ve karmaşıklığını gözler önüne serer. Life, sadece hayvanların değil, aynı zamanda bitkiler ve mikroorganizmaların da hayatta kalma stratejilerini keşfeder. Belgesel, hayvanların avlanma, üreme, göç etme ve sosyal yapılar kurma gibi temel davranışlarını derinlemesine inceleyerek, izleyicilere doğadaki yaşamın inanılmaz gücünü ve zarif dengesini gösterir.  Life belgeseli, gezegenimizdeki hayatta kalma savaşlarının ne kadar çetin olduğunu, aynı zamanda doğanın mükemmel uyumunu da yansıtarak izleyiciyi etkileyici bir görsel ve duygusal yolculuğa çıkarır.",
+        "poster_path": "/9dVHGMYfI6T6p07UHfYVUk1Wzit.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 3.2395,
+        "first_air_date": "2009-10-11",
+        "vote_average": 8.3,
+        "vote_count": 361,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/nDipuGxuzr6eOGAjETKznTaF4NE.jpg",
+        "id": 2327,
+        "name": "Dawson's Creek",
+        "original_name": "Dawson's Creek",
+        "overview": "Dawson's Creek is an American teen drama that portrays the fictional lives of a close-knit group of teenagers through high school and college.",
+        "poster_path": "/arT93dBemanftfWTcf9I0JRIlxU.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 69.6556,
+        "first_air_date": "1998-01-20",
+        "vote_average": 7.342,
+        "vote_count": 555,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ellZi3rMN93x130mkHHempQluds.jpg",
+        "id": 20021,
+        "name": "Life Unexpected",
+        "original_name": "Life Unexpected",
+        "overview": "16-year-old Lux was given up for adoption at birth but never adopted. When she is put back into the custody of her estranged-since-high-school birth parents, Cate and Baze, the three form an unlikely family.",
+        "poster_path": "/riHJXZovS7QjhRyiwnm2ULpx5JN.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 4.5906,
+        "first_air_date": "2010-01-18",
+        "vote_average": 7.679,
+        "vote_count": 84,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/fYxVQQercGlceYkhHzAuAMirugr.jpg",
+        "id": 52962,
+        "name": "Bear Grylls İle Hayatta Kalma Mücadelesi",
+        "original_name": "Get Out Alive with Bear Grylls",
+        "overview": "Liderleri Bear Grylls olan ikişerli on takım, Yeni Zelanda'nın vahşi doğasında hayatta kalmak için savaşıyor. Ekipler, genellikle yüksek dağlar, buzullar, kanyonlar, yağmur ormanları ve nehirler veya akıntılar gibi zorlu arazilerde gerçekleşen çeşitli görevleri tamamlamak zorundadır. Bear Grylls her hafta eve göndermek için bir takım seçer. Kalan son takım 500.000 $ para ödülün sahibi olacak.",
+        "poster_path": "/827Z0RceFkX66GWEI9iu82juefL.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764,
+          10759
+        ],
+        "popularity": 2.4979,
+        "first_air_date": "2013-07-08",
+        "vote_average": 7.2,
+        "vote_count": 62,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vfRY6XG6gaWyc6AF3QDLn12aUer.jpg",
+        "id": 4469,
+        "name": "MADtv",
+        "original_name": "MADtv",
+        "overview": "MADtv is an American sketch comedy television series originally inspired by Mad magazine. The one-hour show aired Saturday nights on Fox.",
+        "poster_path": "/4tXHrqYbETym7Def99MeXrpPyRA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 2.3533,
+        "first_air_date": "1995-10-14",
+        "vote_average": 6.942,
+        "vote_count": 121,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qOpZpZ0msugCtq1XHYycvGVEnk.jpg",
+        "id": 123084,
+        "name": "Run the World",
+        "original_name": "Run the World",
+        "overview": "The story of a group of Black women who work, live, and play in Harlem as they strive for world domination. They're not only surviving – but thriving together.",
+        "poster_path": "/bsMOr1rfG0Vk5sneiWQVegYHfSv.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 4.3514,
+        "first_air_date": "2021-05-16",
+        "vote_average": 6.848,
+        "vote_count": 46,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/i75aWzwR06cCUwOTzS8zSWg8th8.jpg",
+        "id": 6467,
+        "name": "Chicago Hope",
+        "original_name": "Chicago Hope",
+        "overview": "Chicago Hope is an American medical drama television series, created by David E. Kelley. It ran on CBS from September 18, 1994, to May 4, 2000. The series is set in a fictional private charity hospital in Chicago, Illinois. The show is set to return in the fall of 2013 on TVGN in reruns.",
+        "poster_path": "/x8ic33t4NurJul1oXmvKwKtWH28.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 50.7787,
+        "first_air_date": "1994-09-18",
+        "vote_average": 7.2,
+        "vote_count": 75,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gkJi5FNkN7crigAB9COUsuo1fs2.jpg",
+        "id": 5084,
+        "name": "Kolchak: The Night Stalker",
+        "original_name": "Kolchak: The Night Stalker",
+        "overview": "Kolchak: The Night Stalker is an American television series that aired on ABC during the 1974–1975 season. It featured a fictional Chicago newspaper reporter who investigated mysterious crimes with unlikely causes, particularly those that law enforcement authorities would not follow up. These often involved the supernatural or even science fiction, including fantastic creatures.",
+        "poster_path": "/lgP91rWAjgqvA7IzwG3R96sAU8K.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          10765
+        ],
+        "popularity": 14.588,
+        "first_air_date": "1974-09-13",
+        "vote_average": 7.573,
+        "vote_count": 82,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dPOzeeGWr0dM3EVAMgmvkBFqIrY.jpg",
+        "id": 964,
+        "name": "The Ghost Busters",
+        "original_name": "The Ghost Busters",
+        "overview": "The Ghost Busters was a live-action children's television series that ran in 1975, about a team of bumbling detectives who would investigate ghostly occurrences. Only 15 episodes were created.\n\nThis series reunited Forrest Tucker and Larry Storch in roles similar to their characters in F Troop. Tucker played Jake Kong, and Storch played zoot suit-wearing Eddie Spencer. The third member of the trio was Tracy the Gorilla, played by actor Bob Burns.\n\nThe series was unrelated to the 1984 film Ghostbusters.",
+        "poster_path": "/e6870w2UUqIu1Ndza5xaG5ULia5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10751,
+          35
+        ],
+        "popularity": 4.3188,
+        "first_air_date": "1975-09-06",
+        "vote_average": 7.0,
+        "vote_count": 27,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/poaxhWMnvrMeEmG6j3wLWNhZvJj.jpg",
+        "id": 4550,
+        "name": "7th Heaven",
+        "original_name": "7th Heaven",
+        "overview": "Reverend Eric Camden and his wife Annie have always had their hands full caring for seven children, not to mention the friends, sweethearts and spouses that continually come and go in the Camden household.",
+        "poster_path": "/s6mkZKanKim3VGUIxR2gGGf9jn0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          18,
+          35
+        ],
+        "popularity": 22.1788,
+        "first_air_date": "1996-08-26",
+        "vote_average": 6.395,
+        "vote_count": 204,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/e1mgahsZE1t1lXzuDIvaZY24lSN.jpg",
+        "id": 3763,
+        "name": "Dinozorlar",
+        "original_name": "Dinosaurs",
+        "overview": "60 milyon yılın en komik ailesi Sinclairler ile tanışın! BÜYÜK bir fark hariç sıradan bir aile. Milattan önce altmış milyon üç yılında iyi bir hayat yaşayan dinozorlar. Baba Earl, karısı Fran, çocuklar Robbie, Charlene ve Bebek ve alıngan Büyükanne Ethyl, komik bir dinozor esintisi getiriyor.",
+        "poster_path": "/rcD2grjO6xAerWLkSgpmGkGhnTH.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          35,
+          10751
+        ],
+        "popularity": 21.6309,
+        "first_air_date": "1991-04-26",
+        "vote_average": 7.776,
+        "vote_count": 1027,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1R2kSXY7o0UOByA7gxq9NyYFxNw.jpg",
+        "id": 202354,
+        "name": "Pena Ajena",
+        "original_name": "Pena Ajena",
+        "overview": "Jesús and Nuria live in an apartment belonging to her father. His best hope at winning him over his is hosting an exhibition of his photography, but things do not turn out as planned",
+        "poster_path": "/phh2qjMc6pKZLxz9SKzSuaTvfn1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 2.12,
+        "first_air_date": "2022-05-19",
+        "vote_average": 6.0,
+        "vote_count": 4,
+        "origin_country": [
+          "MX",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ahQoWmNAjNHadq59ZOyvNTtDOrZ.jpg",
+        "id": 18109,
+        "name": "Melrose Place",
+        "original_name": "Melrose Place",
+        "overview": "In an elegant Spanish-style apartment building in the trendy Melrose neighborhood of Los Angeles, a diverse group of 20-somethings have formed a close-knit surrogate family. However, when a bloody body is found floating in the courtyard pool, the police soon discover that almost everyone had a reason to want the deceased out of the way.",
+        "poster_path": "/90KR19Cqhgl61PwN4O4N6cURAi.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 3.7166,
+        "first_air_date": "2009-09-08",
+        "vote_average": 5.862,
+        "vote_count": 29,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cNuD5sRDw7lsv0NLroHzfQdRli7.jpg",
+        "id": 13990,
+        "name": "Jupiter Moon",
+        "original_name": "Jupiter Moon",
+        "overview": "Jupiter Moon was a science fiction television series first broadcast by British Satellite Broadcasting's Galaxy Channel from 26 March 1990 until December the same year. 150 episodes were commissioned, but only the first 108 were broadcast by BSB. It was commissioned to fulfill the perceived need for a soap opera in BSB's line-up and, as such, it was shown three times a week, with an omnibus edition at weekends. The series was curtailed owing to the merger between BSB and Sky Television plc and the subsequent cessation of the Galaxy Channel, although the later episodes were eventually shown in the UK on the Sci Fi Channel between 22 January and 19 February 1996. The soap was screened on GBC TV ahead of its premiere on BSB's own Galaxy channel. The soap was seen in the British Overseas Territory every Tuesday, Thursday, and Saturday at 730pm, having taken the slot formerly occupied by Eastenders which had become too expensive for GBC TV.",
+        "poster_path": "/7i7Ej24fX8bECaJA4SILdnvLTZ6.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 6.8378,
+        "first_air_date": "1990-03-27",
+        "vote_average": 5.2,
+        "vote_count": 4,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/ekei3HikUTydvWGdbt0D5Tyn2cX.jpg",
+        "id": 8727,
+        "name": "Daddy Long Legs",
+        "original_name": "私のあしながおじさん",
+        "overview": "Judy Abbott is an orphan living in New York, who at the age of 17 finds herself in receipt of a college scholarship and monthly allowance from a mysterious benefactor. Her benefactor believes she has great potential as a writer and wishes to see her succeed. The only payment he asks in return is that she write him a letter every month addressed to the pseudonym \"Mr. John Smith\", with the understanding that he will never reply.",
+        "poster_path": "/eZuyNToQ8ri5eAcJzHIp0FwDZiG.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          18,
+          18
+        ],
+        "popularity": 6.9527,
+        "first_air_date": "1990-01-14",
+        "vote_average": 6.8,
+        "vote_count": 16,
+        "origin_country": [
+          "JP"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

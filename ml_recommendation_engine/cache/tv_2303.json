@@ -1,0 +1,848 @@
+{
+  "adult": false,
+  "backdrop_path": "/9as2hYKrhbKWj4ePtFMftQfEsEX.jpg",
+  "created_by": [
+    {
+      "id": 40156,
+      "credit_id": "5595dc939251414e0600036e",
+      "name": "Leonard Freeman",
+      "original_name": "Leonard Freeman",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1968-09-20",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Aksiyon & Macera"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    }
+  ],
+  "homepage": "",
+  "id": 2303,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1980-04-05",
+  "last_episode_to_air": {
+    "id": 169291,
+    "name": "20. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "1980-04-05",
+    "episode_number": 20,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 12,
+    "show_id": 2303,
+    "still_path": "/aAFSdzNFKtrySpC53WWuflvZRyR.jpg"
+  },
+  "name": "Hawaii Five-O",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 284,
+  "number_of_seasons": 12,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Hawaii Five-O",
+  "overview": "",
+  "popularity": 70.6071,
+  "poster_path": "/8iFAlqhfY1D0ithTrfKTxObPlUH.jpg",
+  "production_companies": [
+    {
+      "id": 57123,
+      "logo_path": null,
+      "name": "Leonard Freeman Production",
+      "origin_country": ""
+    },
+    {
+      "id": 1081,
+      "logo_path": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+      "name": "CBS Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 3,
+      "id": 7195,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/qUgwsrj5ZidXt3BNkzhJfVtiLJ3.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1968-09-20",
+      "episode_count": 25,
+      "id": 7188,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/cWWCqPvlY4DMFzAyGZzyuRYgJrw.jpg",
+      "season_number": 1,
+      "vote_average": 6.4
+    },
+    {
+      "air_date": "1969-09-24",
+      "episode_count": 25,
+      "id": 7190,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/x5PRZOlXgyOGlzRlz6dP9EeyoQa.jpg",
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1970-09-16",
+      "episode_count": 24,
+      "id": 7185,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/uNGb3U6YE6Td2zUkKHYcXH2HrE0.jpg",
+      "season_number": 3,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "1971-09-14",
+      "episode_count": 24,
+      "id": 7191,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/hMs1KoEm3pPcRk0VoqYKZF2L4I4.jpg",
+      "season_number": 4,
+      "vote_average": 1.0
+    },
+    {
+      "air_date": "1972-09-12",
+      "episode_count": 24,
+      "id": 7183,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/mCldal66Zs8U7a9X0LixAGRFml.jpg",
+      "season_number": 5,
+      "vote_average": 4.5
+    },
+    {
+      "air_date": "1973-09-11",
+      "episode_count": 24,
+      "id": 7186,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/7S406GDU4CjeyQXMdYpngJpMtMq.jpg",
+      "season_number": 6,
+      "vote_average": 1.0
+    },
+    {
+      "air_date": "1974-09-10",
+      "episode_count": 24,
+      "id": 7184,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/2EfawENx5ykN5JapndfhJwgbpY6.jpg",
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1975-09-12",
+      "episode_count": 24,
+      "id": 7187,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/3hnu4JuRVsHmi9RBtUthe3dcXf3.jpg",
+      "season_number": 8,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1976-09-30",
+      "episode_count": 24,
+      "id": 7189,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/fP9DQMMkhA386FEJQC18qiMVhaw.jpg",
+      "season_number": 9,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1977-09-15",
+      "episode_count": 24,
+      "id": 7194,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/y8rzvK0JMiaJiBzFuM8Mgo0gDIr.jpg",
+      "season_number": 10,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1978-09-28",
+      "episode_count": 22,
+      "id": 7193,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/8G1D40H5j7EAJuIl4JkMgkoLVuF.jpg",
+      "season_number": 11,
+      "vote_average": 4.0
+    },
+    {
+      "air_date": "1979-10-04",
+      "episode_count": 20,
+      "id": 7192,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/w5OCdEq5Vg5prvEdAsmNoQbg5P5.jpg",
+      "season_number": 12,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.085,
+  "vote_count": 142,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9873,
+        "known_for_department": "Acting",
+        "name": "Jack Lord",
+        "original_name": "Jack Lord",
+        "popularity": 2.0296,
+        "profile_path": "/laGKjiYuFGtmFFYPyZaJZJ0xBT5.jpg",
+        "character": "Det. Steve McGarrett",
+        "credit_id": "5257300c760ee3776a338100",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219848,
+        "known_for_department": "Acting",
+        "name": "Herman Wedemeyer",
+        "original_name": "Herman Wedemeyer",
+        "popularity": 0.0657,
+        "profile_path": "/qSnbGEEkAlvskT3uFSmOJHCfTKT.jpg",
+        "character": "Duke",
+        "credit_id": "5257300c760ee3776a338142",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98102,
+        "known_for_department": "Acting",
+        "name": "William Smith",
+        "original_name": "William Smith",
+        "popularity": 2.4021,
+        "profile_path": "/iyIc5xoLPzcy73nQWIZH2nlTarg.jpg",
+        "character": "Det. James 'Kimo' Carew",
+        "credit_id": "5257300f760ee3776a3383ee",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54681,
+        "known_for_department": "Acting",
+        "name": "Richard Denning",
+        "original_name": "Richard Denning",
+        "popularity": 1.9607,
+        "profile_path": "/xBDoxyNeRyi4uOvnH2OsmkvJQYi.jpg",
+        "character": "Governor",
+        "credit_id": "5257300f760ee3776a3383aa",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19434,
+        "known_for_department": "Acting",
+        "name": "Sharon Farrell",
+        "original_name": "Sharon Farrell",
+        "popularity": 2.2881,
+        "profile_path": "/42dQ4WRePvqrdNwLjoRfimngWdo.jpg",
+        "character": "Lori Wilson",
+        "credit_id": "64f638a5b234b90100961361",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40184,
+        "known_for_department": "Directing",
+        "name": "Philip Leacock",
+        "original_name": "Philip Leacock",
+        "popularity": 1.2852,
+        "profile_path": null,
+        "credit_id": "52573010760ee3776a33844a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40156,
+        "known_for_department": "Writing",
+        "name": "Leonard Freeman",
+        "original_name": "Leonard Freeman",
+        "popularity": 1.022,
+        "profile_path": null,
+        "credit_id": "52573010760ee3776a3384a2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 172983,
+        "known_for_department": "Writing",
+        "name": "Leonard Katzman",
+        "original_name": "Leonard Katzman",
+        "popularity": 0.6686,
+        "profile_path": null,
+        "credit_id": "52573010760ee3776a3384fa",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 82864,
+        "known_for_department": "Production",
+        "name": "Bill Finnegan",
+        "original_name": "Bill Finnegan",
+        "popularity": 0.9997,
+        "profile_path": null,
+        "credit_id": "52573010760ee3776a338552",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 198201,
+        "known_for_department": "Directing",
+        "name": "Larry Stewart",
+        "original_name": "Larry Stewart",
+        "popularity": 0.9419,
+        "profile_path": null,
+        "credit_id": "52573010760ee3776a3385aa",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117049,
+        "known_for_department": "Directing",
+        "name": "Bob Sweeney",
+        "original_name": "Bob Sweeney",
+        "popularity": 1.2182,
+        "profile_path": "/gPuNXnE8Hb6j9SaiQfdAe5KY05l.jpg",
+        "credit_id": "52573010760ee3776a338602",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "hawaii",
+        "id": 1668
+      },
+      {
+        "name": "police",
+        "id": 6149
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": null,
+        "id": 1959,
+        "name": "Night Flight",
+        "original_name": "Night Flight",
+        "overview": "Night Flight is a variety show that originated on the USA Network. An eclectic mix of short films, cartoons, B movies, stand up comedy, documentaries, music videos and more, Night Flight was broadcast, in various incarnations, from 1981 to 1996.",
+        "poster_path": "/usn88dLO3wacxWlbM1QU1r1cyD8.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [],
+        "popularity": 0.1775,
+        "first_air_date": "1981-06-01",
+        "vote_average": 7.2,
+        "vote_count": 6,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qTKpbdodsBv4vzEJZdrFexFhOie.jpg",
+        "id": 73387,
+        "name": "The Disappearance of Natalee Holloway",
+        "original_name": "The Disappearance of Natalee Holloway",
+        "overview": "A man searches for answers about his daughter's mysterious disappearance from Aruba in 2005.",
+        "poster_path": "/nGhbkTKvxz1nIBimcSEnl390swC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          80
+        ],
+        "popularity": 0.6135,
+        "first_air_date": "2017-08-21",
+        "vote_average": 6.3,
+        "vote_count": 3,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ZagZchMtiraRmdHh0HSWsBXLIf.jpg",
+        "id": 47652,
+        "name": "Young MacGyver",
+        "original_name": "Young MacGyver",
+        "overview": "Angus MacGyver's nephew Clay leaves school and winds up joining his uncle's organization, the Phoenix Foundation, on a lark.  He begins to discover that, with time, his talents could closely match his uncle's.  The show was scheduled to start in the fall of 2003.",
+        "poster_path": "/mNQC0xdOSPjyecOD6cq90Eb7Plx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759
+        ],
+        "popularity": 0.9166,
+        "first_air_date": "2003-01-01",
+        "vote_average": 9.2,
+        "vote_count": 6,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/46aFk5gKSZaV44iV6iLwuhwtswt.jpg",
+        "id": 4003,
+        "name": "The Mod Squad",
+        "original_name": "The Mod Squad",
+        "overview": "The Mod Squad was the enormously successful groundbreaking \"hippie\" undercover cop show that ran on ABC from September 24, 1968, until August 23, 1973. It starred Michael Cole as Pete Cochren, Peggy Lipton as Julie Barnes, Clarence Williams III as Linc Hayes, and Tige Andrews as Captain Adam Greer. The executive producers of the series were Aaron Spelling and Danny Thomas.\n\nThe iconic counter-culture police series earned six Emmy nominations, four Golden Globe nominations plus one win for Peggy Lipton, one Directors Guild of America award, and four Logies. In 1997 the episode \"Mother of Sorrow\" was ranked #95 on TV Guide's 100 Greatest Episodes of All Time.",
+        "poster_path": "/c5HaIPOSZitasqNlLRp8ZzuUsSn.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "popularity": 15.4579,
+        "first_air_date": "1968-09-24",
+        "vote_average": 6.261,
+        "vote_count": 23,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/bBJU94OhUXLwGEWIvASyyCEvgF2.jpg",
+        "id": 1589,
+        "name": "Mandrake",
+        "original_name": "Mandrake",
+        "overview": "Meet Paulo Mandrake, a charismatic defense attorney who finds himself sidetracked by his vices--especially beautiful Brazilian women--while serving as a liaison between his high-end clients and the Rio de Janeiro subculture. Marcos Palmeira stars in this HBO Latino drama series.",
+        "poster_path": "/szjVgn1gjiFHNESvISh5j5D4LVG.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "pt",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 2.8354,
+        "first_air_date": "2005-10-30",
+        "vote_average": 6.725,
+        "vote_count": 20,
+        "origin_country": [
+          "BR"
+        ]
+      },
+      {
+        "backdrop_path": "/kXNBx6zc25SyL6zVMJZUQAB9Eu7.jpg",
+        "id": 3295,
+        "name": "Soap",
+        "original_name": "Soap",
+        "overview": "The antics of a wealthy family, the Tates, and a working-class family, the Campbells, in the fictional town of Dunn's River, Connecticut.",
+        "poster_path": "/kq2G0SjdVcZnKh5cpq9hp0MKvWL.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10766,
+          18
+        ],
+        "popularity": 20.2475,
+        "first_air_date": "1977-09-13",
+        "vote_average": 7.3,
+        "vote_count": 62,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dSqLtN6RNcIUMZyrbyg1TnHTe1v.jpg",
+        "id": 2102,
+        "name": "Simon & Simon",
+        "original_name": "Simon & Simon",
+        "overview": "A.J. Simon is a polished fellow with a taste for classic cars and tailored suits. Rick Simon is his less refined (but still pleasant) older brother who has a taste for cowboy boots and four-wheel drive pickups. The two of them live in San Diego, where they own a private detective agency.",
+        "poster_path": "/h1wId4z79SQOOhEnc3oEqf3qpro.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 23.2969,
+        "first_air_date": "1981-11-24",
+        "vote_average": 6.7,
+        "vote_count": 86,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/44QRv6isROPIu6WWqbYp1710azP.jpg",
+        "id": 3371,
+        "name": "Women's Murder Club",
+        "original_name": "Women's Murder Club",
+        "overview": "Women's Murder Club was an American police procedural and legal drama. Longtime friends involved in homicide investigations gather to work off the clock to solve cases. District Attorney Jill has issues with her past, medical examiner Claire is dealing with a husband newly in a wheelchair, and tough Detective Lindsay suddenly finds herself working under her ex-husband. Despite personal issues, they allow young reporter Cindy to join their \"club.\"",
+        "poster_path": "/60wKdEKCzp244Han7HLQF8il0Yb.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 4.89,
+        "first_air_date": "2007-10-12",
+        "vote_average": 7.9,
+        "vote_count": 46,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/fyPyyWNmzH7Ugt51K8SqiI0SWNI.jpg",
+        "id": 3162,
+        "name": "Tehlike Çemberi",
+        "original_name": "Hart to Hart",
+        "overview": "Zengin ve görkemli bir çift olan Jonathan ve Jennifer Hart, her zaman kendilerini entrika ve maceraların içinde bulurlar. Sadık ve boğuk sesli hizmetçileri Max (Lionel Stander) ile birlikte, bu şık dedektifler Tehlike Çemberi 'nin beş sezonluk yayın hayatı boyunca izleyicileri keyiflendirmiştir. Sidney Sheldon tarafından yaratılan Tehlike Çemberi , çok satan romanları (Master of the Game, The Other Side Of Midnight) ve hit televizyon yapımları (I Dream of Jeannie, The Patty Duke Show) ile tanınan bir yazardır. Tehlike Çemberi, parlak ve esprili diyaloglar, muhteşem kostümler ve hiçbir zaman modası geçmeyen heyecan verici maceralarla dolu akıllı ve seksi bir dedektif draması olarak öne çıkıyor.",
+        "poster_path": "/rK7eHDVQVYwwuxf91rmSNn6ykQn.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          80
+        ],
+        "popularity": 34.6873,
+        "first_air_date": "1979-09-22",
+        "vote_average": 6.818,
+        "vote_count": 118,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/bw9L4RbikDXdsiLrFMJ1eiZHE2z.jpg",
+        "id": 70390,
+        "name": "Somewhere Between",
+        "original_name": "Somewhere Between",
+        "overview": "Yerel bir haber yapımcısına ölümle noktalanan bir haftayı tekrar yaşama ve bir seri katili durdurma şansı verilir. Başarısız olursa kızını sonsuza kadar kaybedecektir. (16 yaş ve üzeri için uygundur)",
+        "poster_path": "/seXbYwMR9fNqEYwaPPvPReZGiJQ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 6.3955,
+        "first_air_date": "2017-07-24",
+        "vote_average": 6.5,
+        "vote_count": 80,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/xcvzQvQv6wsMPRyctek4jhDS8Yi.jpg",
+        "id": 3476,
+        "name": "Müfettiş Morse",
+        "original_name": "Inspector Morse",
+        "overview": "Başmüfettiş Morse'un sağlam bir müzik kulağı, bira zevki ve vakalara hassas bir burnu vardır. Her ilginç vakayı çözmek için Dedektif Çavuş Lewis ile yola çıkarlar.",
+        "poster_path": "/34M8vNNtYqnrV5ilokWkGbc51Ia.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 16.7827,
+        "first_air_date": "1987-01-06",
+        "vote_average": 7.8,
+        "vote_count": 125,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/cBUFwjc7tpbLZKh4uG1IhkZUuiX.jpg",
+        "id": 13549,
+        "name": "Science Ninja Team Gatchaman",
+        "original_name": "科学忍者隊ガッチャマン",
+        "overview": "Science Ninja Team Gatchaman is a five-member superhero team that is composed of the main characters in several anime created by Tatsuo Yoshida and originally produced in Japan by Tatsunoko Productions and later adapted into several English-language versions. It is also known by the abbreviated name Gatchaman.\n\nThe original series, produced in 1972, was eponymously named Kagaku Ninja Tai Gatchaman and is most well known to the English-speaking world as the adaptation titled Battle of the Planets. The series received additional English adaptations with G-Force: Guardians of Space and ADV Films' uncut 2005 release. Tatsunoko also uses the official translation Science Commando Gatchaman, as shown in numerous related products and media. Because the English-language versions are notoriously inconsistent not only with one another but also with the original Japanese series, viewers most familiar with the English versions often experience some confusion upon re-examining the series after a long hiatus.\n\nThe original 1972 Kagaku Ninja Tai Gatchaman series was followed by an animated film, two sequel series, Gatchaman II, and Gatchaman Fighter. In the 90's, episodes from both series were dubbed into English by Saban as Eagle Riders. In 1994, the original series was remade as a condensed OVA series.",
+        "poster_path": "/9qPFWl6LUbA18kBkV6Hi19Pi0Tf.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "popularity": 17.6424,
+        "first_air_date": "1972-10-01",
+        "vote_average": 8.4,
+        "vote_count": 82,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/2emkZBBiZG7pE7RBuIWtbKZ2a33.jpg",
+        "id": 873,
+        "name": "Columbo",
+        "original_name": "Columbo",
+        "overview": "Komiser Kolombo'da sherlokyan teğmen-dedektif rolünde Peter Falk var. Kirli pardesüsü, eski arabası, sempatik tavrıyla cinayet davalarını çözüyor. Katile yapışıyor, kızdırıcı sorularla köşeye sıkıştırıyor, ipuçlarını zekice buluyor, birleştiriyor. 70'lerin favori dizisiydi.   2 Golden Globes ödülü. 20 farklı ödül ve 45 adaylık.",
+        "poster_path": "/2JCD8vab3fircOU8cM2HJCxfv4I.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 71.0035,
+        "first_air_date": "1971-09-15",
+        "vote_average": 8.085,
+        "vote_count": 732,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5AZcrUUht7RQXzomXBUovdPOqoG.jpg",
+        "id": 1678,
+        "name": "The Golden Girls",
+        "original_name": "The Golden Girls",
+        "overview": "Four Southern Florida seniors share a house, their dreams, and a whole lot of cheesecake. Bright, promiscuous, clueless and hilarious, these lovely, mismatched ladies form the perfect circle of friends.",
+        "poster_path": "/lJKAjneNGquVBmUqHY6ZFOFImfD.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 29.0358,
+        "first_air_date": "1985-09-14",
+        "vote_average": 7.533,
+        "vote_count": 350,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zJeWBM8AiA2wS8OnBMkt1l9Yy5d.jpg",
+        "id": 734,
+        "name": "Magnum, P.I.",
+        "original_name": "Magnum, P.I.",
+        "overview": "Hawai'de büyük, lüks bir evde yaşayan özel bir dedektifin hikayesini anlatır. Magnum'un (Tom Selleck) kaldığı yer i̇ngiliz asilzadesi Robin Masters'a ait olup, dedektif bu kişi için çalışmaktadır. Ferrari de dizinin simgelerinden biridir.",
+        "poster_path": "/wKJRQYmOTzLKy6rTVkyk8NIUC6I.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          80,
+          18,
+          9648
+        ],
+        "popularity": 69.5778,
+        "first_air_date": "1980-12-11",
+        "vote_average": 7.3,
+        "vote_count": 401,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cK5AbLFBY2JDoqEdVXk0697e2SV.jpg",
+        "id": 4608,
+        "name": "30 Rock",
+        "original_name": "30 Rock",
+        "overview": "Liz Lemon, the head writer for a late-night TV variety show in New York, tries to juggle all the egos around her while chasing her own dream.",
+        "poster_path": "/eYYQWACx7ttUzRwTNYuo6zveqpE.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 35.5802,
+        "first_air_date": "2006-10-11",
+        "vote_average": 7.442,
+        "vote_count": 712,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ip2jf4xVavxwVcffRRrW5vcIZ2Z.jpg",
+        "id": 3772,
+        "name": "Walker, Texas Ranger",
+        "original_name": "Walker, Texas Ranger",
+        "overview": "Modern-day Texas Ranger, Cordell Walker's independent crime-solving methods have their roots in the rugged traditions of the Old West. Walker's closest friend is former Ranger, C.D. Parker, who retired after a knee injury, and now owns \"C.D.'s,\" a Country/Western saloon/restaurant. Rookie Ranger, James \"Jimmy\" Trivette is an ex-football player who bases his crime-solving methods on reason and uses computers and cellular phones. Alex Cahill is the Assistant DA who shares a mutual attraction with Walker, but often disagrees with his unorthodox approach to law enforcement.",
+        "poster_path": "/lldKpGEOlHJXMkb1pi7s7xCExmX.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          37,
+          80
+        ],
+        "popularity": 35.7692,
+        "first_air_date": "1993-04-21",
+        "vote_average": 6.97,
+        "vote_count": 498,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/j4TXQ7OJsLx1Ba6z8XA7is0DcRZ.jpg",
+        "id": 81357,
+        "name": "Dead to Me",
+        "original_name": "Dead to Me",
+        "overview": "Tuhaf bir mizah anlayışına ve öfke sorunlarına sahip bir kadın olan Jen, genç yaşında dul kalan bir kadındır. Jen’in kocası cinayete kurban gitmiştir. Kocasının acısını atlatamayan Jen’in hayatı kendisinden tamamen farklı bir karaktere sahip olan özgür ruhlu bir kadın olan bir kadın ile tanıştığında bambaşka bir hal alır. İkisi arasında güçlü bir arkadaşlık filizlendiğinde Jen’in yaşamında köklü değişiklikler meydana gelir.",
+        "poster_path": "/mAj18PHeACxqcrEus4pD8pksRmB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35,
+          80
+        ],
+        "popularity": 9.5053,
+        "first_air_date": "2019-05-03",
+        "vote_average": 7.252,
+        "vote_count": 543,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ur6fRlNEkxL4bK74ry9znFW119O.jpg",
+        "id": 1018,
+        "name": "Bonanza",
+        "original_name": "Bonanza",
+        "overview": "The High-Sierra adventures of Ben Cartwright and his sons as they run and defend their ranch while helping the surrounding community.",
+        "poster_path": "/wQ1iVrG871anxkEUwWTRdPRi0j1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          37,
+          10759,
+          18,
+          10751
+        ],
+        "popularity": 56.5868,
+        "first_air_date": "1959-09-12",
+        "vote_average": 7.521,
+        "vote_count": 442,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ywK4VrR7vL56mDGXDLMtFypwqA8.jpg",
+        "id": 253,
+        "name": "Star Trek",
+        "original_name": "Star Trek",
+        "overview": "Star Trek: The Original Series ilk kez ABD'de 8 Eylül 1966 Cuma günü NBC televizyonunda yayınlandı. Dizi William Shatner tarafından oynanan Kaptan Kirk'ün kumandasındaki Atılgan Yıldız Gemisi'nin mürettabatını ve onların \"daha önce hiç kimsenin gitmediği yerlere cesurca gitmek\" olan 5 yıllık görevi'nin hikâyelerini anlatmaktadır. Sadece 3 sezon sonunda dizi yayından kaldırıldı ve son bölüm 3 Haziran 1969'da gösterildi. Tekrarların gösterimini takriben bir kültürel fenomen haline geldi. İlk başta sadece Uzay Yolu olarak bilinmesine rağmen daha sonraki yıllarda Star Trek: Original Series ya da Klasik Trek (Classic Trek) olarak anıldı.",
+        "poster_path": "/zgK03lfPjkAsuh8LnNsofWgB7WM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 43.6383,
+        "first_air_date": "1966-09-08",
+        "vote_average": 8.011,
+        "vote_count": 1332,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

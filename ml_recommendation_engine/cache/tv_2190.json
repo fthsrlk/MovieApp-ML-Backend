@@ -1,0 +1,996 @@
+{
+  "adult": false,
+  "backdrop_path": "/41neXsH222hV2zrsTyw8h7javon.jpg",
+  "created_by": [
+    {
+      "id": 34517,
+      "credit_id": "5257270e760ee3776a2786e5",
+      "name": "Trey Parker",
+      "original_name": "Trey Parker",
+      "gender": 2,
+      "profile_path": "/pVEfyxGOBoKoirRZtmSsJ7PX91V.jpg"
+    },
+    {
+      "id": 34518,
+      "credit_id": "5257270e760ee3776a2786eb",
+      "name": "Matt Stone",
+      "original_name": "Matt Stone",
+      "gender": 2,
+      "profile_path": "/nS3BOaF0EHd7vyATV7WBnFEvTLr.jpg"
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "1997-08-13",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animasyon"
+    },
+    {
+      "id": 35,
+      "name": "Komedi"
+    }
+  ],
+  "homepage": "http://southpark.cc.com/",
+  "id": 2190,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2023-03-29",
+  "last_episode_to_air": {
+    "id": 4314641,
+    "name": "6. Bölüm",
+    "overview": "",
+    "vote_average": 6.9,
+    "vote_count": 16,
+    "air_date": "2023-03-29",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 23,
+    "season_number": 26,
+    "show_id": 2190,
+    "still_path": "/4gD7EPUld7GBGa6vSqaj8ImyUb7.jpg"
+  },
+  "name": "South Park",
+  "next_episode_to_air": {
+    "id": 6090091,
+    "name": "1. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-07-09",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 27,
+    "show_id": 2190,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 47,
+      "logo_path": "/6ooPjtXufjsoskdJqj6pxuvHEno.png",
+      "name": "Comedy Central",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 323,
+  "number_of_seasons": 27,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "South Park",
+  "overview": "South Park, Amerikan \"Comedy Central\" programında 1997 yılından beri yayınlanan bir komedi animasyon serisidir. Ülkemizde de Türkçe altyazılı olarak Cnbc-e ve e2 kanalları tarafından yayınlanır.\n\nSouth Park'ın ortaya çıkış hikayesi şöyledir; Colorado Üniversitesi film bölümü öğrencileri Matt Stone ve Trey Parker, \"Jesus vs. Frosty\" adlı bir kısa animasyon film yapar. Şans eseri bu animasyon Fox Network yöneticileri tarafından izlenir ve Matt ve Trey'e ünlülere yılbaşı kartı olarak göndermek için bir kısa bir film yapmalarını teklif eder. Teklif üzerine Matt ve Trey \"The Spirit of Christmas\" adlı yeni bir animasyon film yapar. Bu yeni animasyonda internette çok hızlı bir şekilde yayılır ve çok beğenilir. The Spirit of Christmas, Matt ve Trey'e Comedy Central kapılarını açar ve 13 Ağustos 1997 tarihinde South Park'ın ilk bölümü olan \"Cartman Gets an Anal Probe\" bölümü yayınlanır.\n\nDizi hikayesi, South Park kasabasında yaşayan dört çocuk olan Eric Cartman, Stan Marsh, Kyle Broflovski, Kenny McCormick ve kasaba halkı arasında geçmektedir. Konular çoğunlukla sosyal ve politik taşlamaların bulunduğu, bolca küfür ve cinsel içerikli espri barındırdığından dolayı dizi öncesi bu dizi izlemeyin diye bir uyarı çıkar ki buda dizinin diğer bir ince esprisidir. South Park, Amerika ve Dünya gündeminde ki olaylarada esprili bir şekilde yaklaşarak izleyicilerin beğenisini kazanmıştır.",
+  "popularity": 125.196,
+  "poster_path": "/xJnbMTrJ2fl1AXAKx34U4BPvOhs.jpg",
+  "production_companies": [
+    {
+      "id": 45850,
+      "logo_path": "/73sPBDOuehu9IBVM9UpNCdjilJU.png",
+      "name": "South Park Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 1538,
+      "logo_path": "/1y7qNFwczl2zZS62Hrlw6dsAwgR.png",
+      "name": "Comedy Central",
+      "origin_country": "US"
+    },
+    {
+      "id": 45851,
+      "logo_path": null,
+      "name": "Parker-Stone Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 6329,
+      "logo_path": "/inqnY5MWKZ2HnFR9xOUvfP7fwqk.png",
+      "name": "MTV Entertainment Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1992-12-08",
+      "episode_count": 33,
+      "id": 6718,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/zDWaLg5X7mVfqsa5L4YmFmkDDqT.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1997-08-13",
+      "episode_count": 13,
+      "id": 6705,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/sxCj0Iun46sUUsF5I2NQY6rml4c.jpg",
+      "season_number": 1,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "1998-04-01",
+      "episode_count": 18,
+      "id": 6706,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/oIDheshe9DYsviYn0qVy4yutrRp.jpg",
+      "season_number": 2,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "1999-04-07",
+      "episode_count": 17,
+      "id": 6707,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/996EYWRu4zksbNodgs1Omri02Yi.jpg",
+      "season_number": 3,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2000-04-05",
+      "episode_count": 17,
+      "id": 6708,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/kqJ3yofZa2bVQNC3wl0CQV5EUmr.jpg",
+      "season_number": 4,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2001-06-20",
+      "episode_count": 14,
+      "id": 6709,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/mbNzB0ji7QpHAMNnf0xpAJYoQWJ.jpg",
+      "season_number": 5,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2002-03-06",
+      "episode_count": 17,
+      "id": 6710,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/7nKjCuBH0tGkLwBwxDgxbBrNj5F.jpg",
+      "season_number": 6,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2003-03-19",
+      "episode_count": 15,
+      "id": 6711,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/idmK8lA0QH0YTdXmGSHWAxb3snf.jpg",
+      "season_number": 7,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2004-03-17",
+      "episode_count": 14,
+      "id": 6712,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/aTTmEQqmlVGNHNKJ8K4rFAnZrPo.jpg",
+      "season_number": 8,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2005-03-09",
+      "episode_count": 14,
+      "id": 6713,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/5cCxlgStfCVaaZtBuxmIVlHeoli.jpg",
+      "season_number": 9,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2006-03-22",
+      "episode_count": 14,
+      "id": 6714,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/brFCz0wW2bRyOyK81OqwDiJDmFA.jpg",
+      "season_number": 10,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2007-03-07",
+      "episode_count": 14,
+      "id": 6722,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/cVfhCT2wZq3hHCp8i2II8hHjOOg.jpg",
+      "season_number": 11,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2008-03-12",
+      "episode_count": 14,
+      "id": 6715,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/3CNwudwji89lvP5O6ez2fuHRO9x.jpg",
+      "season_number": 12,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2009-03-11",
+      "episode_count": 14,
+      "id": 6716,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": "/15Lszg1L3w6vGGqFFoTN0asxj5C.jpg",
+      "season_number": 13,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2010-03-17",
+      "episode_count": 14,
+      "id": 6717,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": "/6Xik83L9tCmLqh0cdxoopOsQm69.jpg",
+      "season_number": 14,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2011-04-27",
+      "episode_count": 14,
+      "id": 6719,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": "/6T31LPecW0wIB05VOExvaAssd4f.jpg",
+      "season_number": 15,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2012-03-14",
+      "episode_count": 14,
+      "id": 6720,
+      "name": "Sezon 16",
+      "overview": "",
+      "poster_path": "/n0u7lf32gGqo8O6Dj2SkvicQA0Z.jpg",
+      "season_number": 16,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2013-09-25",
+      "episode_count": 10,
+      "id": 6721,
+      "name": "Sezon 17",
+      "overview": "",
+      "poster_path": "/spuqYJjCgZZyk0d9OTIRHAyeDaF.jpg",
+      "season_number": 17,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2014-09-24",
+      "episode_count": 10,
+      "id": 62784,
+      "name": "Sezon 18",
+      "overview": "",
+      "poster_path": "/5IMCLoCtNOyHHYS4dZqMNkwELhU.jpg",
+      "season_number": 18,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2015-09-16",
+      "episode_count": 10,
+      "id": 70512,
+      "name": "Sezon 19",
+      "overview": "",
+      "poster_path": "/7iMBDcRWcCLjeDiZa6Dd3MGgSIm.jpg",
+      "season_number": 19,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2016-09-14",
+      "episode_count": 10,
+      "id": 78669,
+      "name": "Sezon 20",
+      "overview": "",
+      "poster_path": "/tQvfdzJFMV70grQBB9ylv35ChGW.jpg",
+      "season_number": 20,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2017-09-13",
+      "episode_count": 10,
+      "id": 92690,
+      "name": "Sezon 21",
+      "overview": "",
+      "poster_path": "/6JJ0UUH5dto0Vd9PHxFmO8BHlva.jpg",
+      "season_number": 21,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2018-09-26",
+      "episode_count": 10,
+      "id": 109933,
+      "name": "Sezon 22",
+      "overview": "Bu sezon Butters bir rahiple arkadaş olur, Bay Hankey iptal edilir, AdamAyıDomuz ortalığı kasıp kavurur.",
+      "poster_path": "/4pRzNSVOnORKXdSrXk76SQi4Ghm.jpg",
+      "season_number": 22,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2019-09-25",
+      "episode_count": 10,
+      "id": 131142,
+      "name": "Sezon 23",
+      "overview": "Randy marihuana çiftliğinde başarıyı yakalamak için çabalar, Kyle bir uyarıda bulunur, Stan death metal tutkunu olur ve yemekhanedeki menü Cartman'ı çileden çıkarır.",
+      "poster_path": "/to2dtGxOcgpbkjZNSXizDZbrihn.jpg",
+      "season_number": 23,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2020-09-30",
+      "episode_count": 2,
+      "id": 164444,
+      "name": "Sezon 24",
+      "overview": "",
+      "poster_path": "/g22mpMV5LszB0ShKFW0CLxUDK3U.jpg",
+      "season_number": 24,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2022-02-02",
+      "episode_count": 6,
+      "id": 240087,
+      "name": "Sezon 25",
+      "overview": "",
+      "poster_path": "/msrUAxoLgwnmFaPn5c1wtquvaje.jpg",
+      "season_number": 25,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2023-02-07",
+      "episode_count": 6,
+      "id": 324837,
+      "name": "Sezon 26",
+      "overview": "",
+      "poster_path": "/yagEIs2b5dOF8TswcEtGw6TRlM7.jpg",
+      "season_number": 26,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": null,
+      "episode_count": 2,
+      "id": 449460,
+      "name": "Sezon 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.37,
+  "vote_count": 4525,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34517,
+        "known_for_department": "Writing",
+        "name": "Trey Parker",
+        "original_name": "Trey Parker",
+        "popularity": 2.8776,
+        "profile_path": "/pVEfyxGOBoKoirRZtmSsJ7PX91V.jpg",
+        "character": "Eric Cartman / Stan Marsh (voice)",
+        "credit_id": "5257270a760ee3776a2781cf",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34518,
+        "known_for_department": "Acting",
+        "name": "Matt Stone",
+        "original_name": "Matt Stone",
+        "popularity": 2.6574,
+        "profile_path": "/nS3BOaF0EHd7vyATV7WBnFEvTLr.jpg",
+        "character": "Kyle Broflovski / Kenny McCormick (voice)",
+        "credit_id": "5257270b760ee3776a27851f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 111466,
+        "known_for_department": "Acting",
+        "name": "Mona Marshall",
+        "original_name": "Mona Marshall",
+        "popularity": 1.7676,
+        "profile_path": "/A2RCAt0Xmm3jLBKZogQAJX6eD9n.jpg",
+        "character": "Sheila Broflovski (voice)",
+        "credit_id": "5257270b760ee3776a278377",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1229787,
+        "known_for_department": "Acting",
+        "name": "Jennifer Howell",
+        "original_name": "Jennifer Howell",
+        "popularity": 0.4861,
+        "profile_path": "/tYgRyRGtDRyo5LBVv7McaRNY7LX.jpg",
+        "character": "Bebe Stevens (voice)",
+        "credit_id": "5257270b760ee3776a2785e7",
+        "order": 11
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "colorado",
+        "id": 1981
+      },
+      {
+        "name": "elementary school",
+        "id": 8102
+      },
+      {
+        "name": "satire",
+        "id": 8201
+      },
+      {
+        "name": "parody",
+        "id": 9755
+      },
+      {
+        "name": "adult humor",
+        "id": 11192
+      },
+      {
+        "name": "social satire",
+        "id": 11514
+      },
+      {
+        "name": "best friend",
+        "id": 12392
+      },
+      {
+        "name": "group of friends",
+        "id": 155939
+      },
+      {
+        "name": "adult animation",
+        "id": 161919
+      },
+      {
+        "name": "censorship",
+        "id": 179428
+      },
+      {
+        "name": "sitcom",
+        "id": 193171
+      },
+      {
+        "name": "offensive",
+        "id": 230696
+      },
+      {
+        "name": "absurd",
+        "id": 309974
+      },
+      {
+        "name": "controversial",
+        "id": 324332
+      },
+      {
+        "name": "appreciative",
+        "id": 325769
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/lgGZ2ysbRyAOi2VgIZpp6k8qILj.jpg",
+        "id": 1434,
+        "name": "Family Guy",
+        "original_name": "Family Guy",
+        "overview": "2000 yılından bu yana komedi ve animasyon dallarında Emmy adaylıklarının ve ödüllerinin gediklisi olan çizgi dizi Family Guy,sıra dışı Griffin ailesinin absürd hayatlarını ekranlara taşıyor. Zaman zaman The Simpsons efsanesine benzetilen çizgisi ile yıllardır geniş bir hayran kitlesi yaratan dizi, başı dertten kurtulmayan baba Peter Griffin, fedakar ama hafif bela paratoneri olan anne Louis ve onların üç çocuğu, ne yapsa yaramayan “loser” Meg, fil çocuk Chris, dünyayı ele geçirmeyi kafaya koyan bebek Stewieve tabii ki ailenin yegane üyesi entelektüel köpek Brian’ın çılgın maceralarını konu alıyor.\n\nSeth MacFarlane imzasını taşıyan dizi, ki kendisi aynı zamanda baba Peter Griffin’e sesiyle hayat veriyor, Amerikan toplumuna yaptığı güncel göndermeleri, zeki esprileri, konuk ünlüleri ve müzikleriyle son on yılın en sevilen animasyon komedileri arasında yer alıyor.",
+        "poster_path": "/ad75MS8xP2EmkYXy4101ljmpIfn.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 145.196,
+        "first_air_date": "1999-01-31",
+        "vote_average": 7.386,
+        "vote_count": 4556,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/z6fUdAWIqSenjIYsPmRltaGHcTq.jpg",
+        "id": 4556,
+        "name": "Scrubs",
+        "original_name": "Scrubs",
+        "overview": "Genç doktorların garip deneyimlerini ekrana taşıyan Scrubs, prestijli Humanitas Prize Ödülü’ne sahip, iki kez de Emmy’ye aday gösterilmiş keyifli bir komedi dizisi. J.D. olarak tanınan John Dorian, dizimizin ana karakteri. J.D:’nin doktorluk macerasını izlerken ‘gerçeküstü’ bir hastane olan Sacred Heart Hospital’ın koridorlarında mizahı da trajediyi de birlikte izleyeceğiz. Chris Turk, genç doktorlarımızdan bir diğeri. J.D.’nin kolejdeki en yakın arkadaşı ve seçkin cerrahi grubunun bir üyesi. Güzel Elliot Reid’in ise tek kusuru gerçek bir asosyal oluşu. Gözleri her zaman bu genç doktorların üzerinde olan Dr. Bob, zaman zaman insanı zorlasa da onlar için endişelenen ve onlara yardımcı olmaya çalışan Dr. Perry Cox ve garip hemşire Carla Espinosa Scrubs’ın diğer karakterleri arasında. J.D.’nin baş düşmanı, hastanenin temizlikçisini de unutmamak lazım.",
+        "poster_path": "/u1z05trCA7AuSuDhi365grwdos1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 42.8261,
+        "first_air_date": "2001-10-02",
+        "vote_average": 8.015,
+        "vote_count": 1930,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2OeS0YPFpqCmi7SA5W6aOPIChc3.jpg",
+        "id": 1433,
+        "name": "American Dad!",
+        "original_name": "American Dad!",
+        "overview": "Dizi, CIA Ajanı Stan Smith ve pek sıradan olmayan ailesinin maceralarını anlatmaktadır. Bu aile; baba Stan, eskiden alkolik ve uyuşturucu bağımlısı olan anne Francine, hippi kızları Hayley, popüler olmaya çalışani ergenliğe yeni girmekte olan inek Steve, CIA'den kaçan uzaylı Roger ve Alman bir kayakla atlamacının beynini taşıyan balık Klaus'tan oluşmaktadır.",
+        "poster_path": "/j84ZtVRoxKWTsQUya77um4l8Dqs.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 89.8568,
+        "first_air_date": "2005-02-06",
+        "vote_average": 6.975,
+        "vote_count": 2199,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ubFM3JrH3p6BtCHWAlOuboC1obg.jpg",
+        "id": 615,
+        "name": "Futurama",
+        "original_name": "Futurama",
+        "overview": "Fry pizza dağıtıcısıdır. 2000 yılına girilen yılbaşı gecesi kazara teslimat yaptığı laboratuvarda bir makineye girer. 31 Aralık 2999 gecesi yeniden uyanır. Tek gözlü Leela ve robot Bender ile tanışır. Ortak noktaları yapmak zorunda oldukları işten nefret etmeleri ve bundan kaçmalarıdır. Fry ve arkadaşları, Fry'ın hayattaki tek akrabası olan yaşlı yeğeni Farnsworth'a ulaşırlar ve macera başlar.",
+        "poster_path": "/sdJcX2cXirwQurLLlrDLYov7hcD.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10765
+        ],
+        "popularity": 53.1863,
+        "first_air_date": "1999-03-28",
+        "vote_average": 8.376,
+        "vote_count": 3416,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/mCZEHiyPkmsw3MDBNuiN5z85gs8.jpg",
+        "id": 45,
+        "name": "Top Gear",
+        "original_name": "Top Gear",
+        "overview": "Top Gear, 1977 yılından beri İngiliz BBC televizyonunda yayınlanan ve 2002'de formatı yenilenen BAFTA ve Emmy ödüllü, motorlu araçlarla ilgili program. Dünya çapında 350 milyondan fazla izleyicisi olduğu iddialarının güvenilir olmadığı belirtilmektedir.İngiltere'de 8 milyon düzenli izleyicisi vardır. TopGear'ın aynı zamanda otomobil dergisi bulunmaktadır. 24 farklı ülkede yayınlanan derginin Türkiye versiyonu 1 Mayıs itibariyle Safran Medya bünyesinde çıkmaktadır. Türkiye'de 13 Mayıs itibariyle TopGear televizyon programı da 11. sezondan itibaren Digiturk bünyesinde bulunan Lig TV kanallarında yayınlanmaya başlanmıştır. Yeni bölümü Lig TV 3, tekrarları Lig TV 2 kanallarından Türkçe dublajlı olarak yayınlanmaktadır.",
+        "poster_path": "/aqM6QnuhSXzjHlKbXyKUqxaGiWu.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764,
+          10767
+        ],
+        "popularity": 74.0089,
+        "first_air_date": "2002-10-20",
+        "vote_average": 7.483,
+        "vote_count": 785,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/rBF8wVQN8hTWHspVZBlI3h7HZJ.jpg",
+        "id": 60625,
+        "name": "Rick and Morty",
+        "original_name": "Rick and Morty",
+        "overview": "Parlak zekalı fakat alkolik bilim adamı Rick, başka dünyalara ve alternatif boyutlara çılgın kaçamaklar yaparken huysuz torunu Morty'i de zorla yanında götürür.",
+        "poster_path": "/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10759
+        ],
+        "popularity": 124.0352,
+        "first_air_date": "2013-12-02",
+        "vote_average": 8.7,
+        "vote_count": 10134,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
+        "id": 1668,
+        "name": "Friends",
+        "original_name": "Friends",
+        "overview": "1990'ların Manhattan'ında iş hayatının, aşkın ve gündelik yaşamın zorluklarıyla uğraşan 20'li yaşlarda üçü kadın, üçü erkek altı kişilik yakın arkadaş gurubunun komik maceraları.",
+        "poster_path": "/yAVOqZVmYXUqrLg4EiUU88HltYH.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 111.8047,
+        "first_air_date": "1994-09-22",
+        "vote_average": 8.4,
+        "vote_count": 8362,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/pxeqQX4qFQ0cVxPt5SWZENV5BH3.jpg",
+        "id": 456,
+        "name": "The Simpsons",
+        "original_name": "The Simpsons",
+        "overview": "Bu animasyon komedi Springfield'de diziye adını veren aileye odaklanıyor. Baba Homer tipik bir aile babası değil. Nükleer santralde çalışarak ailesine liderlik etmeye çabalıyor ancak çoğu zaman ailesi onu yönetiyor. Sevgi dolu, mavi saçlı aile reisi anne Marge, sorun çıkaran oğlu Bart, çok başarılı kızı Lisa ve bebek Maggie ailenin diğer fertleri.",
+        "poster_path": "/l8KFfRLiS7ECtbq2nydD7tQ96A2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          16,
+          35
+        ],
+        "popularity": 182.262,
+        "first_air_date": "1989-12-17",
+        "vote_average": 8.016,
+        "vote_count": 10187,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
+        "id": 1400,
+        "name": "Seinfeld",
+        "original_name": "Seinfeld",
+        "overview": "Seinfeld, dokuz sezon boyunca yayınlanan toplam 169 bölümle televizyon tarihinin en çarpıcı devrimlerinden birini gerçekleştirdi. Yayınlandığı ülkelerde televizyonların en sevilen komedisi olmayı başaran Seinfeld, aynı kentte yaşayan dört arkadaşın gündelik hayatından kesitler sunuyor ve son derece basit fikirlerden ilginç açılımlara uzanıyor.\n\nAna karakter Jerry Seinfeld kadar yan karakterler de dikkat çekici. Hemen her konuda kararsız biri olan Elaine, bitmeyen kompleksleriyle herkesi bıktıran George Costanza ve tuhaf karizması, parlak fikirleriyle Cosmo Kramer. Kumsalda uyuyor gibi hissedebilmek için kumla doldurulmuş yatakta uyumak fikri Cosmo Kramer’in dehasına sadece küçük bir örnek.",
+        "poster_path": "/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 110.4967,
+        "first_air_date": "1989-07-05",
+        "vote_average": 8.259,
+        "vote_count": 2108,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1lOGkpGa9SjZ2uP1PxfxDkSXRNs.jpg",
+        "id": 2382,
+        "name": "Freaks and Geeks",
+        "original_name": "Freaks and Geeks",
+        "overview": "Liseli bir matematik olimpiyatçısı kız, aykırı gençlerden oluşan bir arkadaş grubu ile takılmaya başlar. Küçük erkek kardeşi ise lisenin ilk yılında hayatta kalmaya çalışıyordur.",
+        "poster_path": "/tPqV63zcW6ZV0Hd48DMGb5UzQIG.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 22.4851,
+        "first_air_date": "1999-09-25",
+        "vote_average": 8.161,
+        "vote_count": 788,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1axH9IYz5fCHVUDNXLzivKEQObK.jpg",
+        "id": 2224,
+        "name": "The Daily Show",
+        "original_name": "The Daily Show",
+        "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+        "poster_path": "/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10763,
+          35
+        ],
+        "popularity": 403.5517,
+        "first_air_date": "1996-07-22",
+        "vote_average": 6.367,
+        "vote_count": 570,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uM6WJodeCyTp7h7NhE4rgd0RbRZ.jpg",
+        "id": 74204,
+        "name": "Big Mouth",
+        "original_name": "Big Mouth",
+        "overview": "İki dost olan Nick Kroll ve Andrew Goldberg'ün bu cüretkâr komedisinde, ergenliğin mucizevi ve korkutucu yönleri, yeni yetme arkadaşların hayatlarını altüst ediyor.",
+        "poster_path": "/nQM8Lq5URBCOqbnEmGrgxOZhwvR.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          16
+        ],
+        "popularity": 24.7029,
+        "first_air_date": "2017-09-29",
+        "vote_average": 7.648,
+        "vote_count": 1111,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/hHEqDPbO6z4Xje5tOf3Wm1mdMtI.jpg",
+        "id": 73021,
+        "name": "Disenchantment",
+        "original_name": "Disenchantment",
+        "overview": "Disenchantment, parçalanmak üzere olan Orta Çağ krallığı Dreamland’de geçiyor. Bentwood Prensi Guysbert ile evlenmekten vazgeçen Prenses Bean kendisini farklı bir dünyanın içerisinde bulur. Düğün töreninden kaçan prenses kendi kaderini çizmek için sarayından çıkarak gerçek dünyaya adım atar. Hayatta kim olduğunu çözmeye çalışan Bean, Elf arkadaşı Elfo ve içindeki şeytan Luci ile türlü maceralara atılır. Fantastik yaratıklarla dolu bu dünyada canavarlar, cinler, mitolojik yaratıklar, iblisler, troller, morslar ve birçok budala insan yer alıyor.\n\nSimpsonlar efsanesinin yaratıcısı Matt Groenling tarafından hayata geçirilen yapımın seslendirme kadrosunda Abbi Jacobson, Nat Faxon, Eric Andre, John DiMaggio, Billy West, Maurice LaMarche, Tress MacNeille, David Herman, Matt Berry, Noel Fielding ve Lucy Montgomery gibi isimler yer alıyor.",
+        "poster_path": "/qQrMvkF2CoQBCAJHpml158Cmxvz.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10759,
+          10765
+        ],
+        "popularity": 21.6296,
+        "first_air_date": "2018-08-17",
+        "vote_average": 7.448,
+        "vote_count": 1164,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uhVBmZBgjd9rjDU9JfjrJt3Tees.jpg",
+        "id": 10283,
+        "name": "Archer",
+        "original_name": "Archer",
+        "overview": "Uluslararası bir casus ajansı olan ISIS’te global sorunlar iyi eğitimli çalışanların birbirlerinin kafasını karıştırmak, birbirlerini ezmek ve ihanet etmek için kullandıkları fırsatlardır. Tüm bunların merkezinde ise usta casus Sterling Archer vardır. Archer baskın annesi ve aynı zamanda patronu Malory ile birlikte çalışmaktadır. Archer bir yandan da eski kız arkadaşı Ajan Lana Kane ve onun yeni erkek arkadaşı ISIS müfettişi Cyril Figgis ile uğraşmak zorundadır.",
+        "poster_path": "/vhnrkTGYPqcB63ALcSJm0WoaKHT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10759,
+          16
+        ],
+        "popularity": 40.8242,
+        "first_air_date": "2009-09-17",
+        "vote_average": 7.945,
+        "vote_count": 1291,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/91Q7jfrCqrN7TUWUOa2oea2qJVJ.jpg",
+        "id": 32351,
+        "name": "Ugly Americans",
+        "original_name": "Ugly Americans",
+        "overview": "Social worker Mark Lilly helps new citizens—both human and \"other\"—begin the process of adapting to life in the Big Apple, but his coworkers, demonic bureaucrat Twayne, drunken wizard Leonard Powers, surly law enforcement head Frank Grimes & his girlfriend, Callie, don't make it easy.",
+        "poster_path": "/gFB8nca5PEvgM7HbWIzrkcNJTxO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 10.4387,
+        "first_air_date": "2010-03-17",
+        "vote_average": 8.223,
+        "vote_count": 638,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/te4VJNMipsFQofCkiytuyswGDlV.jpg",
+        "id": 1437,
+        "name": "Firefly",
+        "original_name": "Firefly",
+        "overview": "2500'lü yıllarda Dünya nüfusunun iyice artması ve kaynakların tükenmesi sonucu insanların başka gezegenlere göçmesi başlıyor. Merkez gezegenlere yerleşenler, medeniyeti devam etttiriyor ve Alliance'ı kuruyor. Diğerleri ise çevre gezegenlere ve aylara yerleşerek bağımsızlıklarını ilan ediyor. Alliance bu bağımsızları kendine katmak için savaş başlatıyor. Savaş sonrası Kaptan Malcolm Reynolds, Firefly model bir uzay gemisi kaçırıp kaçakçılık işine giriyor.",
+        "poster_path": "/vZcKsy4sGAvWMVqLluwYuoi11Kj.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          10765
+        ],
+        "popularity": 17.7271,
+        "first_air_date": "2002-09-20",
+        "vote_average": 8.3,
+        "vote_count": 2162,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dQOphbONxlpPsKo30araFr0CYMO.jpg",
+        "id": 71912,
+        "name": "The Witcher",
+        "original_name": "The Witcher",
+        "overview": "Yalnız bir canavar avcısı olan Rivialı Geralt, insanların yaratıklardan bile daha kötü olabildiği bir dünyada kendine yer edinmeye çalışmaktadır. Ancak kader onu güçlü bir büyücü ve tehlikeli bir sırra sahip genç bir prensesle karşılaştırır. Üçlü, artık her geçen gün daha da vahşi hale gelen bu kıtada birlikte yürümeyi öğrenmelidir.",
+        "poster_path": "/cZ0d3rtvXPVvuiX22sP79K3Hmjz.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 32.6648,
+        "first_air_date": "2019-12-20",
+        "vote_average": 8.0,
+        "vote_count": 6114,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/3ILUdTEetxZZ8RkPxf5e0H9pCcP.jpg",
+        "id": 4327,
+        "name": "Mr. Bean",
+        "original_name": "Mr. Bean",
+        "overview": "Sayısız skeç aracılığıyla tuhaf ve komik bir karakter olan Mr. Bean'in başına gelen talihsizlikleri anlatıyor. Derinlemesine basit bir zihne sahip olan bu yetişkin, en basit görevlerin bile kendisi için olağanüstü bir çaba gerektirdiği ve her zaman beklenmedik derecede eğlenceli bir hale dönüştüğü durumlarla karşılaşıyor.",
+        "poster_path": "/pUNQV35kDaKuejnXGNiUeEBurNE.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751,
+          18
+        ],
+        "popularity": 22.5452,
+        "first_air_date": "1990-01-01",
+        "vote_average": 7.949,
+        "vote_count": 1401,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/8GGD7djS6oqTWcKwJb3uT833xeA.jpg",
+        "id": 100698,
+        "name": "Tiger King",
+        "original_name": "Tiger King",
+        "overview": "Amerika'daki büyük kedi korumacıları ve koleksiyoncularından oluşan derinden birbirine bağlı topluluğu ve bu hayvanların bakımı ve halka açık sergilenmesi için kurdukları özel hayvanat bahçeleri ve hayvan barınaklarını araştırıyor.",
+        "poster_path": "/dXQCEjVth8P8L47XIsoRt0oL8Gw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          80
+        ],
+        "popularity": 3.6412,
+        "first_air_date": "2020-03-20",
+        "vote_average": 6.864,
+        "vote_count": 491,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/oMgRyddjdo4UzzXmgFZpy9GVs4N.jpg",
+        "id": 7171,
+        "name": "Going Postal",
+        "original_name": "Going Postal",
+        "overview": "kahramanımız moist von lipwig yetenekli ama şiddet karşıtı iyimser bir dolandırıcıdır ve en sonunda yakalanır, suçlu bulunur ve halkın önünde asılmak istenir. sahte bir asılma olayıyla halkın isteğini yerine getiren lord vetinari herkesin öldüğünü düşünmesini istediği kahramanımıza parlak zekasından dolayı bir iş teklifinde bulunur yani şehir postanesine tekrar işlerlik kazandırmasını ister. yalnız ortada bir de rakip vardır görsel telgraf gönderme şirketi ve onun kötü kalpli yöneticisi reacher gilt'tir. postaneyi tekrar canlandırmak için girdiği rekabette tanıştığı adora belle dearheart ile yakınlaşırken bir yandan da rekabet içinde olduğu reacher gilt'in mesaj kulelerini nasıl ele geçirdiğini öğrenir. tüm bunlar olurken de geçmişiyle yüzleşir ve özgürlüğe giden tek yolun bu olduğunu düşünen lipwig görevi kabul etmiştir ama yine de huyundan vazgeçmeyeceğini yaptığı işlerle gösterir",
+        "poster_path": "/i03NYQoPmw40fodRPkSFt7nrot9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10765
+        ],
+        "popularity": 2.6463,
+        "first_air_date": "2010-05-30",
+        "vote_average": 7.1,
+        "vote_count": 187,
+        "origin_country": [
+          "GB"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

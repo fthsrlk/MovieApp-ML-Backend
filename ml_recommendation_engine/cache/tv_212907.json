@@ -1,0 +1,678 @@
+{
+  "adult": false,
+  "backdrop_path": "/mbSSCIbNpeyNJqKAKkWgdvYsQ8F.jpg",
+  "created_by": [
+    {
+      "id": 2047799,
+      "credit_id": "647c84e593828e00f9d7de67",
+      "name": "Josep Cister Rubio",
+      "original_name": "Josep Cister Rubio",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2023-01-12",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 9648,
+      "name": "Gizem"
+    },
+    {
+      "id": 10766,
+      "name": "Pembe Dizi"
+    }
+  ],
+  "homepage": "",
+  "id": 212907,
+  "in_production": true,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2025-03-04",
+  "last_episode_to_air": {
+    "id": 5994069,
+    "name": "51. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-06",
+    "episode_number": 51,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 55,
+    "season_number": 4,
+    "show_id": 212907,
+    "still_path": null
+  },
+  "name": "La promesa",
+  "next_episode_to_air": {
+    "id": 5994070,
+    "name": "52. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-07",
+    "episode_number": 52,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 55,
+    "season_number": 4,
+    "show_id": 212907,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 443,
+      "logo_path": "/dN6GTZyNY32q2onfrvJ2iAeE4su.png",
+      "name": "La 1",
+      "origin_country": "ES"
+    }
+  ],
+  "number_of_episodes": 543,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_name": "La promesa",
+  "overview": "",
+  "popularity": 2492.96,
+  "poster_path": "/t6q9xzdt3XGnEvbvMtD9GxpQaW4.jpg",
+  "production_companies": [
+    {
+      "id": 27628,
+      "logo_path": "/bh3pBLmTPkgrD41WqFzJ2hQgvaF.png",
+      "name": "Bambú Producciones",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2023-01-12",
+      "episode_count": 122,
+      "id": 313539,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/gHYO8IXfVAlRwqDGJ1WVI1UxNZB.jpg",
+      "season_number": 1,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2023-06-21",
+      "episode_count": 119,
+      "id": 357804,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2023-11-30",
+      "episode_count": 250,
+      "id": 406894,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2024-12-26",
+      "episode_count": 52,
+      "id": 434286,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.574,
+  "vote_count": 47,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3748373,
+        "known_for_department": "Acting",
+        "name": "Ana Garcés",
+        "original_name": "Ana Garcés",
+        "popularity": 6.129,
+        "profile_path": "/gwttUDHoPRmrkNKOXptzAoFBwjR.jpg",
+        "character": "Jana",
+        "credit_id": "63528ffd880c9200900acb26",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1506920,
+        "known_for_department": "Acting",
+        "name": "Eva Martín",
+        "original_name": "Eva Martín",
+        "popularity": 6.486,
+        "profile_path": "/s0b06rkRzizAB0nndhMCbSZAXaH.jpg",
+        "character": "Cruz",
+        "credit_id": "6352900f880c9200796cfdc1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1017115,
+        "known_for_department": "Acting",
+        "name": "María Castro",
+        "original_name": "María Castro",
+        "popularity": 7.254,
+        "profile_path": "/cOI8McLWzng2GuRU2RKippTI4Kt.jpg",
+        "character": "Pía",
+        "credit_id": "63529028d8e2250082238f1e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1304975,
+        "known_for_department": "Acting",
+        "name": "Manuel Regueiro",
+        "original_name": "Manuel Regueiro",
+        "popularity": 3.963,
+        "profile_path": "/8qD6PmZ7y1yPe9lY23fWy3zSFj4.jpg",
+        "character": "",
+        "credit_id": "64857e62d2b20900ca1faf00",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 272018,
+        "known_for_department": "Acting",
+        "name": "Joaquín Climent",
+        "original_name": "Joaquín Climent",
+        "popularity": 4.026,
+        "profile_path": "/xtq8blzK76qwRwg5CAtvk9gm57D.jpg",
+        "character": "",
+        "credit_id": "64857e8cc9dbf9013a070cd9",
+        "order": 5
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": []
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/bSygAp4S8bFxyxOnEvtquLvWEOR.jpg",
+        "id": 63485,
+        "name": "The Time in Between",
+        "original_name": "El tiempo entre costuras",
+        "overview": "Sira Quiroga is a young Spanish dressmaker engaged to a solid suitor when a suave typewriter salesman upends her life. Spain is being upended by a civil war and the new regime's growing alliances with Nazi Germany. Sira, smart, gutsy and resourceful with a Scarlett O'Hara-like ability to whip up designer duds on a moment's notice, Sira has spunk. Sira gains and loses a small fortune, is dumped by her cad of a lover in Morocco, runs guns to get the cash to start her life anew and becomes couturier to the Nazi wives stationed in Madrid. Urged on by her friend, the real-life British spy Rosalinda Fox, Sira, too, aids the British cause.",
+        "poster_path": "/nHEsG18uciqj9bw6OVs8KtqeOpE.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "popularity": 42.657,
+        "first_air_date": "2013-10-21",
+        "vote_average": 7.76,
+        "vote_count": 52,
+        "origin_country": [
+          "ES"
+        ]
+      },
+      {
+        "backdrop_path": "/rB1wfdiJAWNi3OCEIMyMFqMW3p0.jpg",
+        "id": 265156,
+        "name": "Aşkın Gerçek Yüzü",
+        "original_name": "Inganno",
+        "overview": "60 yaşına giren varlıklı bir kadın, çekici ve kendisinden çok daha genç bir adama birden âşık olur, ancak kadının ailesi adamın niyetinden şüphelidir.",
+        "poster_path": "/fpiL20BTFXUG5MxflLVKo69Z1Q4.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "it",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 29.718,
+        "first_air_date": "2024-10-09",
+        "vote_average": 6.9,
+        "vote_count": 43,
+        "origin_country": [
+          "IT"
+        ]
+      },
+      {
+        "backdrop_path": "/y7OmK7ObIw58jpWmrK4dmslG1UH.jpg",
+        "id": 241889,
+        "name": "Máxima",
+        "original_name": "Máxima",
+        "overview": "From the moment Máxima Zorreguieta appears at the Dutch crown prince’s side, she finds herself in the spotlight. When Willem-Alexander asks her to marry him, the past catches up with her. Heated discussion erupts about her father’s political career in the Videla regime – a discussion she never faced in her own circles. What allows this Argentine to finally thrive at an old European court? And how can Máxima stay true to herself without giving up her family – or do these things not go together?",
+        "poster_path": "/fBG4YjMZk4wRpYOtr3uSlBM5dx0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "nl",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 25.244,
+        "first_air_date": "2024-04-20",
+        "vote_average": 5.971,
+        "vote_count": 18,
+        "origin_country": [
+          "NL"
+        ]
+      },
+      {
+        "backdrop_path": "/wGbEvyX8hVljZW3Q19GfInyJe7b.jpg",
+        "id": 153950,
+        "name": "Yeh Kaali Kaali Ankhein",
+        "original_name": "ये काली काली आंखें",
+        "overview": "Relentlessly pursued by a powerful politician’s daughter who will do anything to make him hers, a man slips down a dark, risky path to reclaim his life.",
+        "poster_path": "/cyHFgiRHBW3DP43x0vw2gpBpBUx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "hi",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 18.404,
+        "first_air_date": "2022-01-14",
+        "vote_average": 6.4,
+        "vote_count": 25,
+        "origin_country": [
+          "IN"
+        ]
+      },
+      {
+        "backdrop_path": "/qY5OVoLHeIaE2F0GrhY613aARyB.jpg",
+        "id": 235571,
+        "name": "Neredeyse Sıradan Bir Aile",
+        "original_name": "En helt vanlig familj",
+        "overview": "Şoke edici bir cinayet, görünüşte kusursuz bir ailenin üyelerinin birbirlerini korumak için ne kadar ileriye gidebileceğini kanıtlayınca her birinin hayatı altüst olur.",
+        "poster_path": "/vHNisp4EE9i2ZX48JybCdJIbNnn.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "sv",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 32.27,
+        "first_air_date": "2023-11-24",
+        "vote_average": 6.9,
+        "vote_count": 107,
+        "origin_country": [
+          "SE"
+        ]
+      },
+      {
+        "backdrop_path": "/vDqCoaMU5FUAuUs0EvL4OAUCxJk.jpg",
+        "id": 210865,
+        "name": "Yalı Çapkını",
+        "original_name": "Yalı Çapkını",
+        "overview": "Yalı Çapkını, Gaziantepli Korhan Ailesi'nin direği Halis Ağa'nın (Çetin Tekindor) el bebek gül bebek yetiştirilmiş torunu Ferit'in (Mert Ramazan Demir) evlenmesine karar vermesiyle gelişecek olayları konu alıyor.",
+        "poster_path": "/r8PQMEuTAjsgE9M3b4OEQXNTHFu.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "tr",
+        "genre_ids": [
+          10751,
+          18
+        ],
+        "popularity": 321.382,
+        "first_air_date": "2022-09-23",
+        "vote_average": 8.3,
+        "vote_count": 60,
+        "origin_country": [
+          "TR"
+        ]
+      },
+      {
+        "backdrop_path": "/9feA6Kd1G456nq2XrDqpDQpFlcG.jpg",
+        "id": 54728,
+        "name": "Beyblade",
+        "original_name": "爆転シュートベイブレード",
+        "overview": "13 yaşındaki Takao Kinomiya, gençler arasında büyük bir tutku halinde devam eden Beyblade’de kendini geliştirmek ve kanıtlamak istiyordur. Bunun için yanına hem ona destek olan hem de birlikte savaşacak dostları Max Mizuhara, Kai Hiwatari ve Rei Kon ile teknik bilgisi çok yüksek bir başka arkadaşları Kyouju’yu da alarak dünyanın dört bir yanından, birbirinden güçlü Beyblade oyuncularının kıran kırana dövüştüğü turnuvaya katılırlar. Maceraları boyunca karşılaştıkları sayısız zorluk onlara hiç beklemedikleri dostluklar ve zorlu düşmanlar kazandıracaktır.",
+        "poster_path": "/l6ZQhEHjtOd9t6lOvVGzs5YEHcG.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          10762,
+          10759,
+          16,
+          10765,
+          35
+        ],
+        "popularity": 105.027,
+        "first_air_date": "2001-01-08",
+        "vote_average": 7.7,
+        "vote_count": 216,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg",
+        "id": 37854,
+        "name": "One Piece",
+        "original_name": "ワンピース",
+        "overview": "Korsan Kral Gold Roger, bu dünyadaki herşeyi elde eder ve idam edilirken, tüm servetinin Grand Line'da olduğunu, onu arayıp bulmaları gerektiğini söyler. Bu olaydan sonra herkes Grand Line'a gider. Ancak Grand Line'a girmek çok zor, Grand Line'da canlı kalabilmek imkansızdır.\n\nKahramanımız Monkey D. Luffy'nin rüyası, Korsan Kral olmak ve One Piece denen kimsenin bilmediği, görmediği hazineyi ele geçirmektir. Küçük yaşlardan beri hep korsan olmak isteyen Luffy, kazara bir şeytan meyvası (Akuma No Mi) yemiştir. 3 farklı şeytan meyvası vardır ve bu meyvalar yiyenlere çok üstün güçler sağlamaktadır ancak bu güçlerin bedeli asla yüzememektir. Luffy'nin yediği meyva onu bir lastik çocuğa çevirir. Bu olaydan yıllar sonra Luffy denize açılır. Yolculuğu sırasında ekibini toplayacak ve One Piece'i bulmak için Grand Line'da birbirinden tehlikeli ve komik maceralara atılacaktır.",
+        "poster_path": "/cMD9Ygz11zjJzAovURpO75Qg7rT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          10759,
+          35,
+          16
+        ],
+        "popularity": 187.371,
+        "first_air_date": "1999-10-20",
+        "vote_average": 8.7,
+        "vote_count": 4802,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/mQJVtl7SYjNLwjsUZZsITmAxtdU.jpg",
+        "id": 77169,
+        "name": "Cobra Kai",
+        "original_name": "Cobra Kai",
+        "overview": "Amansız düşmanlar, kavgalı iki dövüş okulu, tazekan... Daniel ve Johnny, \"Karate Kid\" serisinin devamı niteliğindeki bu dizide West Valley'deki ezelî rekabeti kızıştırıyor.",
+        "poster_path": "/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          35
+        ],
+        "popularity": 484.596,
+        "first_air_date": "2018-05-02",
+        "vote_average": 8.2,
+        "vote_count": 6521,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/20eIP9o5ebArmu2HxJutaBjhLf4.jpg",
+        "id": 87108,
+        "name": "Çernobil",
+        "original_name": "Chernobyl",
+        "overview": "1986 senesinde Sovyet nükleer santralinde meydana gelen patlama sonrası santral işçileri ve itfaiyeciler faciayı kontrol altına almaya çalışır.",
+        "poster_path": "/87QSOjVXFwXpCcczMLhh2WRJDV5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 86.964,
+        "first_air_date": "2019-05-06",
+        "vote_average": 8.7,
+        "vote_count": 6644,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
+        "id": 119051,
+        "name": "Wednesday",
+        "original_name": "Wednesday",
+        "overview": "Zeki, alaycı ve azıcık içi geçmiş bir kız olan Wednesday Addams, Nevermore Akademisinde yeni dostlar ve düşmanlar edinirken art arda gerçekleşen cinayetleri araştırır.",
+        "poster_path": "/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          9648,
+          35
+        ],
+        "popularity": 130.303,
+        "first_air_date": "2022-11-23",
+        "vote_average": 8.433,
+        "vote_count": 8902,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+        "id": 1399,
+        "name": "Game of Thrones",
+        "original_name": "Game of Thrones",
+        "overview": "Krallık dediğin savaşsız olur mu? En güçlü krallığı kurup, huzuru sağlamış olsan bile bu gücü elinde nasıl koruyacaksın? Burada yanlış yapana yer yok, affetmek yok. Kuzey Krallığının hükümdarı Lord Ned Stark, uzun ve zorlu savaşlardan sonra anayurduna dönüp krallığını bütünlük içerisinde tutmayı başarmıştır. Kral Robert Baratheon ile yıllarca omuz omuza çarpışan ve Baratheon'un kral olmasını sağlayan Ned Stark'ın tek istediği kuzey sınırlarını koruyan krallığında ailesiyle ve halkıyla yaşamaktır. \n\nFakat suyun öte yanında kendi topraklarından ve krallığından kovulduğunu iddia eden Viserys Targaryen , kız kardeşi Daenerys'i barbar kavimlerin başı Han Drogo'ya vererek, güç birliği planları yapmaktadır. Tahtını büyük bir iştahla geri isteyen ama kraliyet oyunlarından habersiz olan Viserys'in planları Kral Baratheon'a ulaşır. Savaş alanında büyük cengaver olan ama ülke ve aile yönetiminde aynı başarıyı tutturamayan Baratheon'un tamamen güvenebileceği ve her yanlış hamlesini arkasından toplayacak yeni bir sağ kola ihtiyacı vardır. Kuzeyin Lordu Ned Stark bu görev için seçilen tek aday isimdir. Kış yaklaşıyor...\n\nHanedan entrikaları, kapılı kapılar ardında dönen oyunlar, birilerinin kuyusunu kazmak için düşmanın koynuna girmekten çekinmeyen kadınlar, kardeşler arası çekişmeler, dışlanmalar... Hepsi tek bir hedef için: Taht kavgası..",
+        "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 723.189,
+        "first_air_date": "2011-04-17",
+        "vote_average": 8.5,
+        "vote_count": 24677,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+        "id": 93405,
+        "name": "Squid Game",
+        "original_name": "오징어 게임",
+        "overview": "Para sıkıntısı çeken yüzlerce oyuncu, çocuk oyunlarında yarışmaları için aldıkları tuhaf daveti kabul eder. İçeride onları cazip bir ödül ve ölüm riski beklemektedir.",
+        "poster_path": "/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          10759,
+          9648,
+          18
+        ],
+        "popularity": 603.484,
+        "first_air_date": "2021-09-17",
+        "vote_average": 7.862,
+        "vote_count": 15548,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/wyspZaGs7CXceV3Ct7NJhcKNDkn.jpg",
+        "id": 48891,
+        "name": "Brooklyn Nine-Nine",
+        "original_name": "Brooklyn Nine-Nine",
+        "overview": "Jake, işinde iyi, yetenekli ve ekibi içinde yakalama oranı en iyi polistir. Ama öteki yandan ciddiyetten yoksun ve sıkı çalışması gerekmemiş biri olarak oldukça da rahat biridir. Ekibe yeni gelen patron, emrindekilerin “rozetin hakkını vermesi” gerektiğini düşünen biri olarak işe koyulur ve Jake’ten başlar. Bu da komik pek çok olayın yaşanmasına sebebiyet verir. Brooklyn 99, New York’lu bir grup dedektifin ekip içi ve suçlularla yaşadığı komik olaylar üstüne kurulu olacak.",
+        "poster_path": "/qYjAdP0n62dJ9WLl8WGeQj7CGPH.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          80
+        ],
+        "popularity": 473.676,
+        "first_air_date": "2013-09-17",
+        "vote_average": 8.2,
+        "vote_count": 3482,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/pxeqQX4qFQ0cVxPt5SWZENV5BH3.jpg",
+        "id": 456,
+        "name": "The Simpsons",
+        "original_name": "The Simpsons",
+        "overview": "Bu animasyon komedi Springfield'de diziye adını veren aileye odaklanıyor. Baba Homer tipik bir aile babası değil. Nükleer santralde çalışarak ailesine liderlik etmeye çabalıyor ancak çoğu zaman ailesi onu yönetiyor. Sevgi dolu, mavi saçlı aile reisi anne Marge, sorun çıkaran oğlu Bart, çok başarılı kızı Lisa ve bebek Maggie ailenin diğer fertleri.",
+        "poster_path": "/vHqeLzYl3dEAutojCO26g0LIkom.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          16,
+          35
+        ],
+        "popularity": 834.384,
+        "first_air_date": "1989-12-17",
+        "vote_average": 8.015,
+        "vote_count": 10085,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5vUux2vNUTqwCzb7tVcH18XnsF.jpg",
+        "id": 113988,
+        "name": "DAHMER - Canavar: Jeffrey Dahmer’ın Hikâyesi",
+        "original_name": "DAHMER - Monster: The Jeffrey Dahmer Story",
+        "overview": "Dizi, Amerika'nın en kötü şöhretli seri katillerinden biri olan Jeffrey Dahmer'ın hikayesini konu ediyor. Jeffrey Dahmer'ın zor çocukluğundan, dehşet verici suçlarına ve 1992'deki mahkumiyetine odaklanılan yapımda, Dahmer’ın yıllar boyunca cinayet işlemesini mümkün kılan sistem sorunlarında da değiniliyor.",
+        "poster_path": "/6vf8ZN91tuTGQpJBzz1Rrz7tSHn.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 70.103,
+        "first_air_date": "2022-09-21",
+        "vote_average": 8.0,
+        "vote_count": 2629,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/aTjbqMONy77fHJrIYu14g1F0d5h.jpg",
+        "id": 88396,
+        "name": "The Falcon and the Winter Soldier",
+        "original_name": "The Falcon and the Winter Soldier",
+        "overview": "Marvel Studios'dan \"The Falcon and The Winter Soldier\"da, Anthony Mackie Sam Wilson/Falcon olarak ve Sebastian Stan Bucky Barnes/Kış Askeri olarak rol almaktadır. \"Avengers: Endgame\"in son sahnelerinde bir araya gelen bu ikili, yeteneğinin ve sabrının sınandığı küresel bir macerada birlik olur.",
+        "poster_path": "/lRk6NxH6BTnEKdRdxkyPaoxGb3i.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "popularity": 81.848,
+        "first_air_date": "2021-03-19",
+        "vote_average": 7.635,
+        "vote_count": 8529,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/8VXhcrl5z2I1zEU9X3pkkNrZlD.jpg",
+        "id": 65494,
+        "name": "The Crown",
+        "original_name": "The Crown",
+        "overview": "II. Dünya Savaşı’nın yarattığı yıkımın ardından İngiltere siyasi karışıklık içindedir ve bu zorlu dönemde tahta bir kadın geçmektedir. II. Elizabeth'in tahta geçmesi ile yeni bir dönem başlayacaktır. Kraliçe II. Elizabeth'in tahttaki ilk yıllarının perde arkasının konu edildiği dizide, siyasi rekabetler, aşk ve 20. Yüzyılın ikinci yarısına şekil veren olaylar anlatılıyor.",
+        "poster_path": "/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 179.041,
+        "first_air_date": "2016-11-04",
+        "vote_average": 8.2,
+        "vote_count": 2141,
+        "origin_country": [
+          "GB",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wbiPjTWpZMIB8ffBq7HvzAph4Ft.jpg",
+        "id": 63174,
+        "name": "Lucifer",
+        "original_name": "Lucifer",
+        "overview": "“Cehennem Lordu” Lucifer Morningstar, Los Angeles Polis Departmanı için suçluları yakalamaktadır. Ancak büyük bir sırrı vardır: Bu çekici adam, aslında yeryüzüne düşmüş bir melektir!",
+        "poster_path": "/cLz75DTxXPPR814YHZ0XhiQuEI2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          10765
+        ],
+        "popularity": 406.998,
+        "first_air_date": "2016-01-25",
+        "vote_average": 8.454,
+        "vote_count": 14893,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/627K48naKH2Y3Rz47Ydra4qktdI.jpg",
+        "id": 103516,
+        "name": "Star Trek: Strange New Worlds",
+        "original_name": "Star Trek: Strange New Worlds",
+        "overview": "Star Trek: The Original Series’in öncesince geçecek olan bir Star Trek prequel’i. Federasyon Gemisi Enterprise (Atılgan)’ın Kaptan Kirk’ten önceki kaptanı olan Kaptan Christopher Pike ve ekibinin hikayelerini konu ediniyor",
+        "poster_path": "/511LZFZJIbxhGjclesSBGQ2ygnE.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765
+        ],
+        "popularity": 71.928,
+        "first_air_date": "2022-05-05",
+        "vote_average": 8.125,
+        "vote_count": 583,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

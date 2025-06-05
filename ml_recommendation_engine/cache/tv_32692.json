@@ -1,0 +1,897 @@
+{
+  "adult": false,
+  "backdrop_path": "/goDtZCB5pFIuuSfYDvApe6iXTID.jpg",
+  "created_by": [
+    {
+      "id": 1215436,
+      "credit_id": "5258a4fb760ee3466168e832",
+      "name": "Robin Green",
+      "original_name": "Robin Green",
+      "gender": 1,
+      "profile_path": "/3BFHQqNHMEb1ykx91KnxUqN72dU.jpg"
+    },
+    {
+      "id": 1215437,
+      "credit_id": "5258a4fb760ee3466168e838",
+      "name": "Mitchell Burgess",
+      "original_name": "Mitchell Burgess",
+      "gender": 2,
+      "profile_path": "/7K1D3FvUwzv902NzihG02iFVGKB.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2010-09-24",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Suç"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    }
+  ],
+  "homepage": "https://www.cbs.com/shows/blue_bloods/",
+  "id": 32692,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2024-12-13",
+  "last_episode_to_air": {
+    "id": 5781920,
+    "name": "18. Bölüm",
+    "overview": "",
+    "vote_average": 8.0,
+    "vote_count": 1,
+    "air_date": "2024-12-13",
+    "episode_number": 18,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 44,
+    "season_number": 14,
+    "show_id": 32692,
+    "still_path": "/81QVX9tTlalEC7hyMXA06cHFdUl.jpg"
+  },
+  "name": "Blue Bloods",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 293,
+  "number_of_seasons": 14,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Blue Bloods",
+  "overview": "Ailenin reisi olan Frank Reagan (Tom Selleck) New York emniyet müdürüdür. Çoğu zaman kendisinden evvel emniyet müdürlüğü görevini yürüten babası Henry\\'nin (Len Cariou) aksine resmi ilişkilere önem vermekte ve zamanında babasının sorumsuzca sebep olduğu sorunları düzeltme çabası içine girmektedir. Frank\\'in hem gurur kaynağı olan hem de endişelenmesine neden olan büyük oğlu Danny (Donnie Wahlberg) işinde uzman bir dedektif ve bir aile babasıdır. Aynı zamanda Irak Savaşı gazisi de olan Danny kimi suçları çözerken sonucu kestirilemeyen yöntemlere başvurmaktadır. Ailenin tek kız evladı olan Erin (Bridget Moynahan) savcı yardımcılığı görevini yürüten yeni boşanmış bir annedir. Erin aynı zamanda kardeşleri ve babasının kanunun tanıdığı sınırlar içinde kalmasına yardım etmektedir. Ailenin en genci Jamie (Will Estes) Harvard Hukuk Fakültesinden yeni mezun olmuştur. Ailenin göz bebeği olan Jamie aile geleneğine sırt çeviremez ve hukuk alanındaki parlak gelecekten vazgeçerek polis olmaya karar verir. Kariyerinde yaptığı bu hamle henüz 1 yıllık avukat olan sevgilisi Sydney Davenport (Dylan Moore) tarafından da desteklenmektedir. Babasının bile haberinin olmadığı gizli bir polis soruşturmasının parçası olmak istemesiyle birlikte hem Jamie\\'nin hayatı altüst olacak, hem de ailenin ismi lekelenme tehlikesiyle karşı karşıya kalacaktır.",
+  "popularity": 113.424,
+  "poster_path": "/q1WlrxnCvNhBjJ4N7V0JQXjnIBN.jpg",
+  "production_companies": [
+    {
+      "id": 2161,
+      "logo_path": "/kaHPCUD2nQ1DGWDAH3zbYVCkTae.png",
+      "name": "CBS Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 195030,
+      "logo_path": null,
+      "name": "Paw in Your Face Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 12408,
+      "logo_path": null,
+      "name": "Panda Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-11-29",
+      "episode_count": 1,
+      "id": 431388,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2010-09-24",
+      "episode_count": 22,
+      "id": 43962,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/6PIkEHETIAmtIqKJEAU1Xr41r42.jpg",
+      "season_number": 1,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2011-09-23",
+      "episode_count": 22,
+      "id": 43963,
+      "name": "Sezon 2",
+      "overview": "Bütün hayatlarını New York polis teşkilatına adamış olan Reagen ailesi kendi yöntemleriyle kentteki huzuru sağlamaya devam ediyor. \"Blue Bloods\" aksiyon, suç ve dramayla dolu maceralarıyla yeni sezonuyla ekranlarda.",
+      "poster_path": "/qkIouFUj8GwvrugxB9Vi3duMpnn.jpg",
+      "season_number": 2,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2012-09-28",
+      "episode_count": 23,
+      "id": 43964,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/xzEpCch3KVJ5yeacXc3KhLqCGw0.jpg",
+      "season_number": 3,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2013-09-27",
+      "episode_count": 22,
+      "id": 43966,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/jf5oeYJSSvtpTEXtoWcA2uIlzDD.jpg",
+      "season_number": 4,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2014-09-26",
+      "episode_count": 22,
+      "id": 62767,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/x4lr7dGCOvTgvA4FV03eklE1AHf.jpg",
+      "season_number": 5,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2015-09-25",
+      "episode_count": 22,
+      "id": 69185,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/piEyaD4ISv1flRt20oT1E11DVXW.jpg",
+      "season_number": 6,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2016-09-23",
+      "episode_count": 22,
+      "id": 80157,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/1XWndvLOCPb0LHXkatngX9UvZ94.jpg",
+      "season_number": 7,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2017-09-29",
+      "episode_count": 22,
+      "id": 93412,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/4xWYZ0q6RlKnStWJlpz535uElfd.jpg",
+      "season_number": 8,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2018-09-28",
+      "episode_count": 22,
+      "id": 109457,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/4rwJFpCXGpReWG6oDheCoCrIMbm.jpg",
+      "season_number": 9,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2019-09-27",
+      "episode_count": 19,
+      "id": 126166,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/9J2yrEANuY6bnyVweI4k039Q45T.jpg",
+      "season_number": 10,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2020-12-04",
+      "episode_count": 16,
+      "id": 168573,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/kVMiKM0NyyswC89ldksHHp1GQWb.jpg",
+      "season_number": 11,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2021-10-01",
+      "episode_count": 20,
+      "id": 202004,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/nWYB1Pn3bNKQnTp4sWqyUxPTLI1.jpg",
+      "season_number": 12,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2022-10-07",
+      "episode_count": 21,
+      "id": 298443,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": "/ceqomvL0e1jGkJAPVWFlq2hGl7i.jpg",
+      "season_number": 13,
+      "vote_average": 8.9
+    },
+    {
+      "air_date": "2024-02-16",
+      "episode_count": 18,
+      "id": 365601,
+      "name": "Sezon 14",
+      "overview": "Gönüllere taht kuran polisiye dizisi \"Blue Bloods\" hikayesine bir nokta koyacağı final sezonuyla ekranlara son kez geri dönüyor. Reagen ailesi 13 sezondur olduğu gibi adaleti sağlamak için uğraşıyor.",
+      "poster_path": "/q1WlrxnCvNhBjJ4N7V0JQXjnIBN.jpg",
+      "season_number": 14,
+      "vote_average": 7.6
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.807,
+  "vote_count": 919,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15112,
+        "known_for_department": "Acting",
+        "name": "Tom Selleck",
+        "original_name": "Tom Selleck",
+        "popularity": 8.8763,
+        "profile_path": "/3JaeMTmbrufVo6BZsLVeRQ9V7JR.jpg",
+        "character": "Frank Reagan",
+        "credit_id": "5258a4f7760ee3466168e5ed",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2680,
+        "known_for_department": "Acting",
+        "name": "Donnie Wahlberg",
+        "original_name": "Donnie Wahlberg",
+        "popularity": 3.592,
+        "profile_path": "/tjW6n5jD6ZBISsdN41GKV9XDyYA.jpg",
+        "character": "Danny Reagan",
+        "credit_id": "5258a4f7760ee3466168e69d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 18354,
+        "known_for_department": "Acting",
+        "name": "Bridget Moynahan",
+        "original_name": "Bridget Moynahan",
+        "popularity": 3.0387,
+        "profile_path": "/7WuwRCcwtBmJZ64pNsLbwhQCEA4.jpg",
+        "character": "Erin Reagan-Boyle",
+        "credit_id": "5258a4f7760ee3466168e637",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32363,
+        "known_for_department": "Acting",
+        "name": "Will Estes",
+        "original_name": "Will Estes",
+        "popularity": 1.7088,
+        "profile_path": "/ddxb9Me3pNLpBUYZQ7stpCrIxFs.jpg",
+        "character": "Jamie Reagan",
+        "credit_id": "5258a4f7760ee3466168e659",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 41247,
+        "known_for_department": "Acting",
+        "name": "Len Cariou",
+        "original_name": "Len Cariou",
+        "popularity": 2.4749,
+        "profile_path": "/9VJeCcxHkPkN4xH4izmwYHXRMy2.jpg",
+        "character": "Henry Reagan",
+        "credit_id": "5258a4f7760ee3466168e67b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24360,
+        "known_for_department": "Acting",
+        "name": "Gregory Jbara",
+        "original_name": "Gregory Jbara",
+        "popularity": 1.738,
+        "profile_path": "/nYkdyh9E0iNuue8k4437gCWD70G.jpg",
+        "character": "Garrett Moore",
+        "credit_id": "52fdb4f592514109391136a1",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1232548,
+        "known_for_department": "Acting",
+        "name": "Abigail Hawk",
+        "original_name": "Abigail Hawk",
+        "popularity": 1.6054,
+        "profile_path": "/q6luEpJdlh0U1t6EQXvfthKK58g.jpg",
+        "character": "Abigail Baker",
+        "credit_id": "59eb779f925141628b0196f6",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4484437,
+        "known_for_department": "Crew",
+        "name": "Robin Verde",
+        "original_name": "Robin Verde",
+        "popularity": 0.1931,
+        "profile_path": null,
+        "credit_id": "65a6b36aeb64f10125f51d5b",
+        "department": "Crew",
+        "job": "Creator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3470804,
+        "known_for_department": "Editing",
+        "name": "Charles McClelland",
+        "original_name": "Charles McClelland",
+        "popularity": 0.094,
+        "profile_path": null,
+        "credit_id": "65a6b3885a991500c1058795",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1215437,
+        "known_for_department": "Writing",
+        "name": "Mitchell Burgess",
+        "original_name": "Mitchell Burgess",
+        "popularity": 0.5346,
+        "profile_path": "/7K1D3FvUwzv902NzihG02iFVGKB.jpg",
+        "credit_id": "65a6b35085702e00c3c3a306",
+        "department": "Crew",
+        "job": "Creator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1215436,
+        "known_for_department": "Writing",
+        "name": "Robin Green",
+        "original_name": "Robin Green",
+        "popularity": 0.4142,
+        "profile_path": "/3BFHQqNHMEb1ykx91KnxUqN72dU.jpg",
+        "credit_id": "65a99e5ed9542000cc210077",
+        "department": "Crew",
+        "job": "Creator"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "new york city",
+        "id": 242
+      },
+      {
+        "name": "police",
+        "id": 6149
+      },
+      {
+        "name": "police station",
+        "id": 15321
+      },
+      {
+        "name": "police commissioner",
+        "id": 207534
+      },
+      {
+        "name": "police procedural",
+        "id": 268067
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/riBPF8AXg5cSAO5cFVy0mJYxqjM.jpg",
+        "id": 31585,
+        "name": "Rookie Blue",
+        "original_name": "Rookie Blue",
+        "overview": "Ambitious young cops try to prove themselves in their high-stakes careers, in which the smallest mistake can have deadly consequences. At the core of the close-knit group is perfectionist Andy McNally, whose father was a homicide detective before he burned out on the job. The series follows Andy and her four colleagues -- Dov Epstein, Gail Peck, Traci Nash and Chris Diaz -- as they experience the trials, triumphs and tribulations of police work, as well as its effect on their personal lives.",
+        "poster_path": "/e3hfrKjLHKjj3p82xvvGvfIu628.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 20.9488,
+        "first_air_date": "2010-06-24",
+        "vote_average": 7.667,
+        "vote_count": 203,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/ea8hQSjnPBHqduZVDX5CyU2FVVp.jpg",
+        "id": 63329,
+        "name": "Rosewood",
+        "original_name": "Rosewood",
+        "overview": "Önde gelen bir patolog ve sert bir dedektif, Miami'nin en zor vakalarını görünmeyen ipuçlarıyla çözmek için uzmanlıklarını kullanarak işbirliği yapıyor.",
+        "poster_path": "/zjrfQbFzmOaOrgEbJHG2eIwjKbv.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 18.6674,
+        "first_air_date": "2015-09-23",
+        "vote_average": 6.54,
+        "vote_count": 164,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/iDu6LmIVHWiCdcW6CZcOP5Kx7Gr.jpg",
+        "id": 66840,
+        "name": "Bull",
+        "original_name": "Bull",
+        "overview": "Bull konusu itibariyle Dr.Jason Bull isimli karakterin etrafında geçecek bir hikâyeyle karşımıza çıkıyor. Trial Sciences Inc şirketinde görev yapan Jason şirket için önemli bir pozisyonda görevlidir. Zeki olmasıyla ön plana çıksa da aslında karakter özellikleri tam anlamıyla pozisyonuyla ters düşmektedir. Küstah, küstah olduğu kadarda sevimli bir karakterle karşımıza çıkacak olan Michael Weatherly izleyiciyi büyüleyecek gibi duruyor.",
+        "poster_path": "/r6bM2rNjSk5b9gWBOOKCVgKbjc0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          35
+        ],
+        "popularity": 51.5501,
+        "first_air_date": "2016-09-20",
+        "vote_average": 7.071,
+        "vote_count": 374,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dAepkmD4vdfhS82r2OIqF1nwGR5.jpg",
+        "id": 17610,
+        "name": "NCIS: Los Angeles",
+        "original_name": "NCIS: Los Angeles",
+        "overview": "Özet ve Detaylar. Deniz Kuvvetleri Araştırma Servisi'nin Los Angeles'da bulunan birimi, ulusal güvenliği tehdit eden ve bir türlü yakalanamayan azılı suçluların peşindedir. G. Callen ve Sam Hanna'nın da aralarında bulunduğu özel ajanlar, suçluları yakalamaya çalışırken en son teknoloji ürünü cihazlardan yararlanır.",
+        "poster_path": "/TIIgcznwNfNr3KOZvxn26eKV99.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          80,
+          9648
+        ],
+        "popularity": 124.3654,
+        "first_air_date": "2009-09-22",
+        "vote_average": 7.534,
+        "vote_count": 1181,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zJeWBM8AiA2wS8OnBMkt1l9Yy5d.jpg",
+        "id": 734,
+        "name": "Magnum, P.I.",
+        "original_name": "Magnum, P.I.",
+        "overview": "Hawai'de büyük, lüks bir evde yaşayan özel bir dedektifin hikayesini anlatır. Magnum'un (Tom Selleck) kaldığı yer i̇ngiliz asilzadesi Robin Masters'a ait olup, dedektif bu kişi için çalışmaktadır. Ferrari de dizinin simgelerinden biridir.",
+        "poster_path": "/wKJRQYmOTzLKy6rTVkyk8NIUC6I.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          80,
+          18,
+          9648
+        ],
+        "popularity": 69.5778,
+        "first_air_date": "1980-12-11",
+        "vote_average": 7.3,
+        "vote_count": 401,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2HpYUipbaIgYhcO3PkllGF9xy5D.jpg",
+        "id": 45094,
+        "name": "The Following",
+        "original_name": "The Following",
+        "overview": "FBI Amerika Birleşik Devletleri’nde hemen hemen 300’den fazla aktif seri katil olduğunu tahmin etmektedir. Bu katiller birbirleriyle iletişim kurmak için bir yol bulurlarsa ne olur? Ya da birlikte çalışıp ülke çapında ortaklıklar kurarlarsa? Zeki bir psikopat seri katil diğerlerini bir araya getirir ve bir hayran kitlesi oluşturursa neler yaşanır? Ünlü seri katil Joe Carroll (James Purefoy) ölüm hücresinden kaçar ve yeni bir çılgınlığa soyunur. Bunun üzerine FBI, eski ajan Ryan Hardy’i (Kevin Bacon) davaya danışmanlık yapması için departmana geri çağırır. Artık göz önünde olmayan Hardy, edebiyat öğretmenliği yaptığı Virginia Üniversitesi’nin kampüsünde 14 kız öğrenciyi öldüren Carroll’ın dokuz yıl önce yakalanıp hapse atılmasından sorumludur.\n\nHardy, Carroll’la ilgili her şeyi bilmektedir. Onu herkesten iyi tanır. Belki Carroll’ın psikolojik ve entelektüel anlamda tek dengidir. Ancak yıllar önce Carroll davasını çözen Ryan Hardy artık farklı bir adamdır. Bu seri katili yakalamak için harcadığı süre boyunca hem fiziksel hem de zihinsel olarak yaralanmış olan Hardy sahadan ayrılalı uzun zaman olmuştur. Bu soruşturma Hardy’nin kurtuluşudur, harekete geçme çağrısıdır.",
+        "poster_path": "/tiSvhb2cyPAULTql5atgxceNvpF.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 25.7785,
+        "first_air_date": "2013-01-21",
+        "vote_average": 6.867,
+        "vote_count": 516,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4uWvmON2pqDJtpPAsHMggdDFFrn.jpg",
+        "id": 549,
+        "name": "Law & Order",
+        "original_name": "Law & Order",
+        "overview": "Law &amp; Order, ABD kaynaklı bir mahkeme ve suç draması konulu bir televizyon dizisi. Dick Wolf tarafından yaratılan dizi 13 Eylül 1990 tarihinde ABD'nin NBC televizyon kanalında yayına başlamıştır. New York kentinde geçen dizi bir grup savcı ve polis görevlilerinin meslek yaşamlarını konu almaktadır.Dizinin büyük bir başarı kazanması bu diziden türeyen Law &amp; Order: Special Victims Unit, Law &amp; Order: Criminal Intent, Crime &amp; Punishment, Law &amp; Order: Trial by Jury gibi çok sayıda benzer dizilerin yaratılmasına neden olmuştur.Law &amp; Order 2008 yılı itibarıyla ABD televizyonlarında en uzun süre gösterimde kalan dizi durumundadır.",
+        "poster_path": "/6vFL8S6Cci8s7SHWXz60xOisGBC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 152.8383,
+        "first_air_date": "1990-09-13",
+        "vote_average": 7.4,
+        "vote_count": 615,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/pIPMPMEZErCxTvQG9HDt4AsnAfn.jpg",
+        "id": 4454,
+        "name": "Will & Grace",
+        "original_name": "Will & Grace",
+        "overview": "İki çok yakın arkadaş; Will gay bir avukat, Grace heteroseksüel bir iç mimar. Will ve Grace'in başlarından geçen birbirinden komik onlarca hikaye... Bu yetmezmiş gibi Willin kendisi gibi gay olan süslü arkadaşı Jack ve Gracein ayyaş iş arkadaşı Karen da bu ikiliye katılınca işler daha da karışır...",
+        "poster_path": "/kTkWxh0e4Lzmn19KWQxzMdKE4NC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 47.6171,
+        "first_air_date": "1998-09-21",
+        "vote_average": 6.825,
+        "vote_count": 504,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/tLccUh3uazZ9TkLhe53UwprJhI4.jpg",
+        "id": 32798,
+        "name": "Hawaii Five-0",
+        "original_name": "Hawaii Five-0",
+        "overview": "Binbaşı Steve 5 yıldır bir kaçakçının peşindedir. Söz konusu kaçakçı ile 5 yıldır uğraşan binbaşı kaçakçı olan Victor’u yakalayamasa da onun kardeşini yakalayacaktır. Victor da bu durumda Steve’in babasını rehin alacaktır. Bu sırada bir çatışmanın ortaya çıktığı görülecektir. Bu çatışmada iki tarafın da esirlerini öldürmeleri söz konusudur. Steve Havaii’ye dönecektir. Ona Vali tarafından bir teklif sunulacaktır. Hem babasının intikamını almak hem de Havaii’yi güvende tutmak için bir ekip kuracak ve Vali tarafından desteklenecektir. Steve ilk aşamada bu teklifi reddetse de daha sonra söz konusu teklifi kabul edecektir Akula.",
+        "poster_path": "/sIdCKlmM2nU4akIvFQaAIiU8YES.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          10759
+        ],
+        "popularity": 147.5828,
+        "first_air_date": "2010-09-20",
+        "vote_average": 7.76,
+        "vote_count": 1764,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/mlEkLMkyL9ldRz4fnLANV4XsHsl.jpg",
+        "id": 2389,
+        "name": "Las Vegas",
+        "original_name": "Las Vegas",
+        "overview": "Ed Deline is a strict ex-CIA officer who went from being Head of Security to becoming President of Operations of the Montecito, whose job is to run the day-to-day operations of the casino. Following his departure, former Marine Danny McCoy, Ed's former protégé, becomes the Montecito's new President of Operations.",
+        "poster_path": "/AknZ6uDYvswlIrUKDm2Nte32xge.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35,
+          10759,
+          80
+        ],
+        "popularity": 31.3575,
+        "first_air_date": "2003-09-22",
+        "vote_average": 7.0,
+        "vote_count": 227,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/jB66SWgijY4bU8J4msxj768U9Qe.jpg",
+        "id": 3626,
+        "name": "American Idol",
+        "original_name": "American Idol",
+        "overview": "Each year, hopeful singers from all over the country audition to be part of one of the biggest shows in American television history. Who will become the new American Idol?",
+        "poster_path": "/iIlKBCqv5YkjQIWj7hYcFndxoLp.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 69.3856,
+        "first_air_date": "2002-06-11",
+        "vote_average": 5.095,
+        "vote_count": 163,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2Fc9ap5qsYmOZkSZnwMk9kNoLVQ.jpg",
+        "id": 18202,
+        "name": "Cougar Town",
+        "original_name": "Cougar Town",
+        "overview": "Jules Cobb, pervasız kocası Bobby ile yıllarca evli kaldıktan sonra boşanır ve ilişki yaşamaya hazırdır. Ama kırklı yaşlarındadır ve yaşına uygun bir adam bulmakta zorlanır; hepsi de kendilerinden genç kadınlarla çıkmaktadır. Komşusu Grayson, her gece evine yeni bir yirmilik delikanlı getirmektedir ama Jules, erkeklerle nasıl tanışılacağına dair bilgisizdir ve genç erkek avcısı olmaktan, utanmadan genç erkeklerin peşinden koşan yaşlı bir kadın olmaktan korkar. Mutlu bir evliliği olan ve genellikle Jules’un yeni genç onaylamayan komşusu Ellie ona yardımcı olan iyi bir arkadaşıdır. Kendisi ayrıca özgüveni yüksek bir parti kızı olan umarsız asistanı Laurie tarafından da cesaretlendirilmektedir. Evde ise Jules ve Bobby’nin genç oğlu Travis vardır ki o annesinin seks hayatından ve okul peyzajcısı olan babasının işinden utansa da alaycı ama sevgi doludur. Bir şey kesindir: Jules'u bekleyen yeni maceralar vardır.",
+        "poster_path": "/AvxlfUW8OVQ630v7Se1mesDYbfW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 38.7498,
+        "first_air_date": "2009-09-23",
+        "vote_average": 6.439,
+        "vote_count": 237,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2DxTaDzhtPbF53blqeJTyMVtRkf.jpg",
+        "id": 6647,
+        "name": "Cesur ve Güzel",
+        "original_name": "The Bold and the Beautiful",
+        "overview": "İlk bölümü 1987 yılında ekrana gelen ve 20 yıldır devam eden dizi ; Amerika, Kanada , İtalya, Almanya ve Fransa dahil olmak üzere tam 79 ülkede yayınlandı. Halen 40 ülkede yayınlanan ve yüz milyonlarca izleyicisi olan dizi, televizyon dünyasının en popüler dizisi unvanına sahip.",
+        "poster_path": "/1LsYmbJHKp1bp1JxX7HkcOr9ddv.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 62.5435,
+        "first_air_date": "1987-03-23",
+        "vote_average": 5.5,
+        "vote_count": 137,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gkWfeC2eDk3QfKvEO7Zv8bOM732.jpg",
+        "id": 7087,
+        "name": "Being Human",
+        "original_name": "Being Human",
+        "overview": "Deciding to turn over a new leaf, a group of friends who also happen to be vampires and werewolves move into a house together, only to find that it is haunted by ghosts of people who have been killed under mysterious circumstances. As they deal with the challenges of being supernatural creatures, their desire to be human bonds them.",
+        "poster_path": "/rlDefnxVHcXwwm2bxPHknNRl4l.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          9648,
+          10759
+        ],
+        "popularity": 9.245,
+        "first_air_date": "2009-01-25",
+        "vote_average": 7.035,
+        "vote_count": 214,
+        "origin_country": [
+          "GB",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/E8p0Vx3Y3Pn74lWK8fFE5saQ7Q.jpg",
+        "id": 1246,
+        "name": "Bionic Woman",
+        "original_name": "Bionic Woman",
+        "overview": "Jaime Sommers is saved from death after receiving experimental medical implants. While adjusting to her new bionic powers and raising a rebellious younger sister, Jaime agrees to work for the Berkut Group, a quasi-governmental private organisation that performed her surgery.",
+        "poster_path": "/lAJPZbL8x0HKtqQZLW1gfNFlPWc.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10765
+        ],
+        "popularity": 3.5829,
+        "first_air_date": "2007-09-26",
+        "vote_average": 6.292,
+        "vote_count": 113,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/unpuZD1N1Wfxo9izU1YX88qKvv6.jpg",
+        "id": 3200,
+        "name": "Even Stevens",
+        "original_name": "Even Stevens",
+        "overview": "The Stevens are a middle-class family living in Sacramento, CA. Husband and father Steve is a successful attorney. Wife and mother Eileen is a state Senator. Their oldest child Donnie ia a high-school sports legend. Ren, an 8th-grader, is just about the perfect daughter. She makes the best grades, she's popular, she does volunteer work and other extracurricular tasks by the score. Her brother Louis, in the 7th grade, is her opposite. He likes to sleep late, he's messy, his grades are not good, he's frequently in detention and he seems to take nothing seriously. But he is serious about finding something of his own that he can do to put himself on a par with the rest of his overachieving family. Though he and Ren occasionally soften their attitudes toward each other, at any given moment the're likely to be fighting like mongoose and cobra.",
+        "poster_path": "/6wdftSHL6EF8sevUFJSVOnEBOHT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 11.7242,
+        "first_air_date": "2000-06-17",
+        "vote_average": 7.0,
+        "vote_count": 75,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wnAboUyDiTILkZfPhFyVIiY87Fa.jpg",
+        "id": 3050,
+        "name": "The Practice",
+        "original_name": "The Practice",
+        "overview": "A provocative legal drama focused on young associates at a bare-bones Boston firm and their scrappy boss, Bobby Donnell. The show's forte is its storylines about “people who walk a moral tightrope.”",
+        "poster_path": "/7OKZSUIWhjFP0F2s478zTrAYwDB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 38.118,
+        "first_air_date": "1997-03-04",
+        "vote_average": 7.717,
+        "vote_count": 106,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/t1EBs3EqB69DaA0SJLFZqanuPyq.jpg",
+        "id": 71737,
+        "name": "A.P. Bio",
+        "original_name": "A.P. Bio",
+        "overview": "When disgraced Harvard philosophy scholar Jack Griffin loses out on his dream job, he is forced to return to Toledo, Ohio, and work as a high school Advanced Placement biology teacher.",
+        "poster_path": "/8GwiuZazRFNrmvSkagZlEDH7qSS.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 25.1757,
+        "first_air_date": "2018-02-01",
+        "vote_average": 6.89,
+        "vote_count": 168,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/60dGNoEA0FMU5DmofZVpIkrGGu0.jpg",
+        "id": 92461,
+        "name": "Bob Hearts Abishola",
+        "original_name": "Bob Hearts Abishola",
+        "overview": "A love story about a middle-aged compression sock businessman from Detroit who unexpectedly falls for his cardiac nurse, a Nigerian immigrant, while recovering from a heart attack and sets his sights on winning her over.",
+        "poster_path": "/7NQRz0RcN2ohT98fZv287YEddtW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 50.6887,
+        "first_air_date": "2019-09-23",
+        "vote_average": 7.5,
+        "vote_count": 65,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cJIW5VtjipFbvmA6moBjGCn7pz8.jpg",
+        "id": 243006,
+        "name": "NCIS: Origins",
+        "original_name": "NCIS: Origins",
+        "overview": "1991'de, NCIS olaylarından yıllar önce, Leroy Jethro Gibbs, yeni atanmış bir özel ajan olarak NCIS'in yeni kurulan Camp Pendleton ofisinde kariyerine başlar ve burada NCIS efsanesi Mike Franks'in liderliğindeki azimli, düzensiz bir ekipte yerini sağlamlaştırır.",
+        "poster_path": "/mgn4Vxx5PHIcKUBSsSecDlahIBH.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 7.9212,
+        "first_air_date": "2024-10-14",
+        "vote_average": 7.4,
+        "vote_count": 30,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

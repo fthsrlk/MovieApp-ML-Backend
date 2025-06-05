@@ -1,0 +1,786 @@
+{
+  "adult": false,
+  "backdrop_path": "/5tGYbT3irV4ZuO7M65HewlVT6fx.jpg",
+  "created_by": [
+    {
+      "id": 1217162,
+      "credit_id": "52574297760ee36aaa0c4521",
+      "name": "Bob Carroll Jr.",
+      "original_name": "Bob Carroll Jr.",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1217163,
+      "credit_id": "52574297760ee36aaa0c4527",
+      "name": "Madelyn Pugh",
+      "original_name": "Madelyn Pugh",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 1227387,
+      "credit_id": "52574297760ee36aaa0c451b",
+      "name": "Jess Oppenheimer",
+      "original_name": "Jess Oppenheimer",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1951-10-15",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Komedi"
+    },
+    {
+      "id": 10751,
+      "name": "Aile"
+    }
+  ],
+  "homepage": "",
+  "id": 2730,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1957-05-06",
+  "last_episode_to_air": {
+    "id": 214081,
+    "name": "27. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "1957-05-06",
+    "episode_number": 27,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 26,
+    "season_number": 6,
+    "show_id": 2730,
+    "still_path": "/wO3qavv6RI29zMT5PDdXsljMgGK.jpg"
+  },
+  "name": "I Love Lucy",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 180,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "I Love Lucy",
+  "overview": "",
+  "popularity": 70.4726,
+  "poster_path": "/mPUSrFTvQqwEqTtfukxJBtkbxWj.jpg",
+  "production_companies": [
+    {
+      "id": 39856,
+      "logo_path": "/x929GPaOozzVA92B0IkjbucZRAk.png",
+      "name": "Desilu Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1990-04-30",
+      "episode_count": 18,
+      "id": 8869,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/5HXXBLdPJEn6qIcqFxZYeHmZapd.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1951-10-15",
+      "episode_count": 35,
+      "id": 8867,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/n2hHVHoSJb6cx65J0CME2drE66i.jpg",
+      "season_number": 1,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "1952-09-15",
+      "episode_count": 31,
+      "id": 8868,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/6xRq6KW6uGLIAHkWH6yFh7ONshu.jpg",
+      "season_number": 2,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "1953-10-05",
+      "episode_count": 31,
+      "id": 8866,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/rV6TsknL6l3F44kE1HK8MTyc9f0.jpg",
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1954-10-04",
+      "episode_count": 30,
+      "id": 8863,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/ihVqENEyrnvxsD00EUslWrWblZK.jpg",
+      "season_number": 4,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "1955-10-03",
+      "episode_count": 26,
+      "id": 8865,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/ue3TG3vHlMIkfclcZWzUVf6IGi4.jpg",
+      "season_number": 5,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "1956-10-01",
+      "episode_count": 27,
+      "id": 8864,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/mgAnyKRKvLI9cj8Yb7cCULrkQOm.jpg",
+      "season_number": 6,
+      "vote_average": 7.2
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.91,
+  "vote_count": 229,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 40174,
+        "known_for_department": "Acting",
+        "name": "Lucille Ball",
+        "original_name": "Lucille Ball",
+        "popularity": 3.119,
+        "profile_path": "/HpqB6dUz4eqZnOjk5xEuHCvp5Y.jpg",
+        "character": "Lucy Ricardo",
+        "credit_id": "52574297760ee36aaa0c43b7",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 91711,
+        "known_for_department": "Acting",
+        "name": "Desi Arnaz",
+        "original_name": "Desi Arnaz",
+        "popularity": 1.4492,
+        "profile_path": "/5XLcxJCZYUX2t7PuCwvE9hOOYzI.jpg",
+        "character": "Ricky Ricardo",
+        "credit_id": "52574297760ee36aaa0c43fd",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 153254,
+        "known_for_department": "Acting",
+        "name": "Vivian Vance",
+        "original_name": "Vivian Vance",
+        "popularity": 1.6576,
+        "profile_path": "/yQLSRUQOOM88Tunu879cYFuQTrl.jpg",
+        "character": "Ethel Mertz",
+        "credit_id": "52574297760ee36aaa0c4443",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34285,
+        "known_for_department": "Acting",
+        "name": "William Frawley",
+        "original_name": "William Frawley",
+        "popularity": 1.7482,
+        "profile_path": "/mPCnAsN2GbBoLl34nrviZ4aCCe1.jpg",
+        "character": "Fred Mertz",
+        "credit_id": "52574297760ee36aaa0c4489",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1232480,
+        "known_for_department": "Directing",
+        "name": "Jack Aldworth",
+        "original_name": "Jack Aldworth",
+        "popularity": 0.7427,
+        "profile_path": null,
+        "credit_id": "52574298760ee36aaa0c45d8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1227387,
+        "known_for_department": "Writing",
+        "name": "Jess Oppenheimer",
+        "original_name": "Jess Oppenheimer",
+        "popularity": 0.5403,
+        "profile_path": null,
+        "credit_id": "52574297760ee36aaa0c458f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 91711,
+        "known_for_department": "Acting",
+        "name": "Desi Arnaz",
+        "original_name": "Desi Arnaz",
+        "popularity": 1.4492,
+        "profile_path": "/5XLcxJCZYUX2t7PuCwvE9hOOYzI.jpg",
+        "credit_id": "52574297760ee36aaa0c4549",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2503397,
+        "known_for_department": "Sound",
+        "name": "Wilbur Hatch",
+        "original_name": "Wilbur Hatch",
+        "popularity": 0.7324,
+        "profile_path": null,
+        "credit_id": "6509d87f3cd12c00ad8c7f08",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "new york city",
+        "id": 242
+      },
+      {
+        "name": "husband wife relationship",
+        "id": 1157
+      },
+      {
+        "name": "housewife",
+        "id": 3451
+      },
+      {
+        "name": "friendship",
+        "id": 6054
+      },
+      {
+        "name": "slapstick comedy",
+        "id": 9253
+      },
+      {
+        "name": "neighbor",
+        "id": 10226
+      },
+      {
+        "name": "singer",
+        "id": 10229
+      },
+      {
+        "name": "bandleader",
+        "id": 171346
+      },
+      {
+        "name": "nightclub entertainer",
+        "id": 191441
+      },
+      {
+        "name": "sitcom",
+        "id": 193171
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/jc9AEI95a7lzecF8XDd3e2GN05c.jpg",
+        "id": 45194,
+        "name": "Dragnet",
+        "original_name": "Dragnet",
+        "overview": "Police Detective Sgt. Joe Friday and his partners investigate crimes in Los Angeles.",
+        "poster_path": "/tvozcbojiCAHIFar7kdaGfwSWew.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 11.9121,
+        "first_air_date": "1967-01-12",
+        "vote_average": 6.9,
+        "vote_count": 15,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7gWTV42DZa6qCqm0OLqEEiWDs7h.jpg",
+        "id": 11821,
+        "name": "The Abbott and Costello Show",
+        "original_name": "The Abbott and Costello Show",
+        "overview": "Bud and Lou are unemployed actors living in Mr. Fields’ boarding house. Lou’s girlfriend Hillary lives across the hall. Many situations arise leading to slapstick and puns.",
+        "poster_path": "/vorrWqNL7alMqScKhrNLdZZcMOt.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 27.0508,
+        "first_air_date": "1952-12-05",
+        "vote_average": 7.1,
+        "vote_count": 18,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vF7PN9TbCz5qK7kjnejsoKhQv3G.jpg",
+        "id": 95401,
+        "name": "Citizen Chief",
+        "original_name": "Гражданин начальник",
+        "overview": "The action takes place in our time: an exciting criminal intrigue unfolds in one of the major regional cities. In the center of it is the investigator of the prosecutor's office Paphnutiev, forced by the nature of his service to face not only the criminal elements of the city, but also the entire official city leadership.",
+        "poster_path": "/iS2hEcbdWHrCGEg39LBCeLxrqy2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ru",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 1.9823,
+        "first_air_date": "2001-11-15",
+        "vote_average": 8.5,
+        "vote_count": 2,
+        "origin_country": [
+          "RU"
+        ]
+      },
+      {
+        "backdrop_path": "/erup8OAw0RvWCtURrlezIIi1Orh.jpg",
+        "id": 14269,
+        "name": "A History of Britain",
+        "original_name": "A History of Britain",
+        "overview": "Stretching from the Stone Age to the year 2000, Simon Schama's Complete History of Britain does not pretend to be a definitive chronicle of the turbulent events which buffeted and shaped the British Isles. What Schama does do, however, is tell the story in vivid and gripping narrative terms, free of the fustiness of traditional academe, personalising key historical events by examining the major characters at the centre of them. Not all historians would approve of the history depicted here as shaped principally by the actions of great men and women rather than by more abstract developments, but Schama's way of telling it is a good deal more enthralling as a result. \n\nSchama successfully gives lie to the idea that the history of Britain has been moderate and temperate, passing down the generations as stately as a galleon, taking on board sensible ideas but steering clear of sillier, revolutionary ones. Nonsense. Schama retells British history the way it was--as bloody, convulsive, precarious, hot-blooded and several times within an inch of haring off onto an entirely different course. Schama seems almost to delight in the goriness of history. Themes returned to repeatedly include the wars between the Scots and the Irish and the Catholic/Protestant conflicts--only the Irish question remains unresolved by the new millennium. As Britain becomes a constitutional monarchy, Schama talks less of Kings and Queens but of poets and idea-makers like Orwell. Still, with his pungent, direct manner and against an evocative visual and aural backdrop, Schama makes history seem as though it happened yesterday, the bloodstains not yet dry.",
+        "poster_path": "/znHndnfGtFuYIRcPd8RFrk4Jl6.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 3.048,
+        "first_air_date": "2000-09-30",
+        "vote_average": 8.2,
+        "vote_count": 10,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 276396,
+        "name": "Scribbles and Ink",
+        "original_name": "Scribbles and Ink",
+        "overview": "Scribbles and Ink are two artists that couldn't be more different; one is a cat and one is a mouse; one likes clean pencil lines and one likes splattered paint; together they make beautiful art.",
+        "poster_path": null,
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [],
+        "popularity": 0.0281,
+        "first_air_date": "2019-08-16",
+        "vote_average": 8.0,
+        "vote_count": 1,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/kXNBx6zc25SyL6zVMJZUQAB9Eu7.jpg",
+        "id": 3295,
+        "name": "Soap",
+        "original_name": "Soap",
+        "overview": "The antics of a wealthy family, the Tates, and a working-class family, the Campbells, in the fictional town of Dunn's River, Connecticut.",
+        "poster_path": "/kq2G0SjdVcZnKh5cpq9hp0MKvWL.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10766,
+          18
+        ],
+        "popularity": 20.2475,
+        "first_air_date": "1977-09-13",
+        "vote_average": 7.3,
+        "vote_count": 62,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4KUMCCjykGqgzeUpubxlwABm6ok.jpg",
+        "id": 2822,
+        "name": "Felicity",
+        "original_name": "Felicity",
+        "overview": "Felicity Porter, a sensitive and intelligent girl from the San Francisco Bay Area, decides to give up a slot at Stanford University's pre-med program to follow her long time crush to college in New York City. Things get even more complicated when she meets her dorm's resident advisor and they fall in love.",
+        "poster_path": "/i6gZ7fVpLBK3l5FkxCzMtEtT7Bz.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 22.5764,
+        "first_air_date": "1998-09-29",
+        "vote_average": 6.6,
+        "vote_count": 79,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/yyeyf8FYlJzQERUfrOb5PndyLwI.jpg",
+        "id": 738,
+        "name": "Welcome Back, Kotter",
+        "original_name": "Welcome Back, Kotter",
+        "overview": "Welcome Back, Kotter is an American television sitcom starring Gabe Kaplan and featuring a young John Travolta. Videotaped in front of a live studio audience, it originally aired on the ABC network from September 9, 1975, to June 8, 1979.",
+        "poster_path": "/xBNM75kZjHdWcE4brawakg1uQQf.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 9.4989,
+        "first_air_date": "1975-09-09",
+        "vote_average": 7.2,
+        "vote_count": 51,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qP6w5T2aMTTkIW5qFqziWhgYlPu.jpg",
+        "id": 1922,
+        "name": "All in the Family",
+        "original_name": "All in the Family",
+        "overview": "Archie Bunker, a working class bigot, constantly squabbles with his family over the important issues of the day.",
+        "poster_path": "/s2Y9QWyuyjRP78DZsatknEjn0iN.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 46.5039,
+        "first_air_date": "1971-01-12",
+        "vote_average": 7.863,
+        "vote_count": 164,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/xyh5AtlJ9jGduhKD7Km5Nf2gbCb.jpg",
+        "id": 609,
+        "name": "Green Acres",
+        "original_name": "Green Acres",
+        "overview": "Green Acres is an American sitcom starring Eddie Albert and Eva Gabor as a couple who move from New York City to a rural country farm. Produced by Filmways as a sister show to Petticoat Junction, the series was first broadcast on CBS, from September 15, 1965 to April 27, 1971.\n\nReceiving solid ratings during its six-year run, Green Acres was cancelled in 1971 as part of the \"rural purge\" by CBS. The sitcom has been in syndication and is available in DVD and VHS releases. In 1997, the two-part episode \"A Star Named Arnold is Born\" was ranked #59 on TV Guide's 100 Greatest Episodes of All Time.",
+        "poster_path": "/1tCh5D0dyPw8tiknprgbljAAEPw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 39.9977,
+        "first_air_date": "1965-09-15",
+        "vote_average": 7.3,
+        "vote_count": 65,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/aq73Xh3bwqpO7lIwAOxq1UQ5QhZ.jpg",
+        "id": 128554,
+        "name": "Power Rangers Dino Force Brave",
+        "original_name": "파워레인저 다이노포스 브레이브",
+        "overview": "Power Rangers Dino Force Brave is a South Korean-Japanese superhero series that serves as the sequel to Zyuden Sentai Kyoryuger’s Korean dub, Power Rangers Dino Force.\n\nThe show was later dubbed into Japanese and aired in Japan as Zyuden Sentai Kyoryuger Brave.",
+        "poster_path": "/7fVOuYEdogkUJagxJJkOsupXE1G.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          10759,
+          18,
+          10765,
+          10751,
+          35
+        ],
+        "popularity": 1.5958,
+        "first_air_date": "2017-04-01",
+        "vote_average": 7.5,
+        "vote_count": 12,
+        "origin_country": [
+          "KR",
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/y9NxBik1XhNKV3c0TGiKQYdPGXE.jpg",
+        "id": 1685,
+        "name": "Project Runway",
+        "original_name": "Project Runway",
+        "overview": "Aspiring fashion designers compete for a chance to break into the industry. Each week, a designer is eliminated from the competition after exhibiting their work in front of a judges' panel.",
+        "poster_path": "/3JKvoVulQXwibxdGQYqBQyZBlBj.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 63.779,
+        "first_air_date": "2004-12-01",
+        "vote_average": 6.189,
+        "vote_count": 103,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1t4m2WWx581A8jEwp2LG6cCjzrY.jpg",
+        "id": 2132,
+        "name": "The Dick Van Dyke Show",
+        "original_name": "The Dick Van Dyke Show",
+        "overview": "The Dick Van Dyke Show centers around the work and home life of television comedy writer Rob Petrie. The plots generally revolve around problems at work, where Rob got into various comedic jams with fellow writers Buddy Sorrell, Sally Rogers and producer Mel Cooley.",
+        "poster_path": "/3eiFZrarzOd08323sHX7RbR7vdn.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 54.5519,
+        "first_air_date": "1961-10-03",
+        "vote_average": 7.442,
+        "vote_count": 95,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/fjRkgcVW0KJTVqUTF4aWkTDH1qT.jpg",
+        "id": 11105,
+        "name": "Forensic Files",
+        "original_name": "Forensic Files",
+        "overview": "Real crimes, disease outbreaks and accidents around the world are solved by experts using scientific laboratory analysis which helps them find previously undetectable evidence. Brilliant scientific work helps convict the guilty and free the innocent.",
+        "poster_path": "/k7zrsnodHEe3UUdwHG207rjdbrB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          99
+        ],
+        "popularity": 54.7644,
+        "first_air_date": "1996-04-21",
+        "vote_average": 7.9,
+        "vote_count": 72,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/pEjsb26MKpLzvGcg9OtLptXpNyH.jpg",
+        "id": 2126,
+        "name": "The Brady Bunch",
+        "original_name": "The Brady Bunch",
+        "overview": "When widower Mike Brady marries a lovely lady widow Carol Ann, their two families become one. These are the misadventures of this new couple, their six children, a dog named Tiger, and quirky housekeeper Alice.",
+        "poster_path": "/63MN0GwbAW4Oq2VxbpZODYomMsi.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 26.5692,
+        "first_air_date": "1969-09-26",
+        "vote_average": 6.7,
+        "vote_count": 147,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/szx8lk5wIv1jU3NpMBZVjjs96Fi.jpg",
+        "id": 106,
+        "name": "The Andy Griffith Show",
+        "original_name": "The Andy Griffith Show",
+        "overview": "The Andy Griffith Show is an American sitcom first televised on CBS between October 3, 1960 and April 1, 1968. Andy Griffith portrays the widowed sheriff of the fictional small community of Mayberry, North Carolina. His life is complicated by an inept, but well-meaning deputy, Barney Fife, a spinster aunt and housekeeper, Aunt Bee, and a precocious young son, Opie. Local ne'er-do-wells, bumbling pals, and temperamental girlfriends further complicate his life. Andy Griffith stated in a Today Show interview, with respect to the time period of the show: \"Well, though we never said it, and though it was shot in the '60s, it had a feeling of the '30s. It was when we were doing it, of a time gone by.\"\n\nThe series never placed lower than seventh in the Nielsen ratings and ended its final season at number one. It has been ranked by TV Guide as the 9th-best show in American television history. Though neither Griffith nor the show won awards during its eight-season run, series co-stars Knotts and Bavier accumulated a combined total of six Emmy Awards. The show, a semi-spin-off from an episode of The Danny Thomas Show titled \"Danny Meets Andy Griffith\", spawned its own spin-off series, Gomer Pyle, U.S.M.C., a sequel series, Mayberry R.F.D., and a reunion telemovie, Return to Mayberry. The show's enduring popularity has generated a good deal of show-related merchandise. Reruns currently air on TV Land, and the complete series is available on DVD. All eight seasons are also now available by streaming video services such as Netflix.",
+        "poster_path": "/smOam7qXPnqlfDlMx4I0UxK5ULB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 34.1305,
+        "first_air_date": "1960-10-03",
+        "vote_average": 7.603,
+        "vote_count": 150,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1FygXfA7eqGrd1sDENLtvgAVaNb.jpg",
+        "id": 17380,
+        "name": "The Real Housewives of Atlanta",
+        "original_name": "The Real Housewives of Atlanta",
+        "overview": "Umut vadeden bir moda tasarımcısı, eski bir \"futbolcu eşi\" ve arkadaşlarının drama dolu hayatına kadın kavgaları, kariyer hataları ve abartılı arkadaşlar damga vuruyor.",
+        "poster_path": "/h5HYOsyc1sJQYjqevaWEaLRjd6E.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 77.7834,
+        "first_air_date": "2008-10-07",
+        "vote_average": 6.013,
+        "vote_count": 118,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/h4ErR3mnZsMGqLpL31gB1Iws83R.jpg",
+        "id": 81940,
+        "name": "WHAT / IF",
+        "original_name": "WHAT / IF",
+        "overview": "İdealist bir bilim insanı ve kocası, kadının tıbbi teknoloji startup'ı için çaresizce kaynak ararken esrarengiz bir yatırımcı ile korkunç bir anlaşma yapar.",
+        "poster_path": "/qer2BokbQ9SpbexXQNNnlIV6C7k.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 4.8491,
+        "first_air_date": "2019-05-24",
+        "vote_average": 6.433,
+        "vote_count": 165,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9as2hYKrhbKWj4ePtFMftQfEsEX.jpg",
+        "id": 2303,
+        "name": "Hawaii Five-O",
+        "original_name": "Hawaii Five-O",
+        "overview": "Hawaii Five-O is an American police procedural drama series produced by CBS Productions and Leonard Freeman. Set in Hawaii, the show originally aired for 12 seasons from 1968 to 1980, and continues in reruns. Jack Lord portrayed Detective Lieutenant Steve McGarrett, the head of a special state police task force which was based on an actual unit that existed under martial law in the 1940s. The theme music composed by Morton Stevens became especially popular. Many episodes would end with McGarrett instructing his subordinate to \"Book 'em, Danno!\", sometimes specifying a charge such as \"murder one\".",
+        "poster_path": "/8iFAlqhfY1D0ithTrfKTxObPlUH.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "popularity": 70.6071,
+        "first_air_date": "1968-09-20",
+        "vote_average": 7.085,
+        "vote_count": 142,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/pfwENDuQ5cjD5ANgvMkgS9MRHcB.jpg",
+        "id": 985,
+        "name": "Wacky Races",
+        "original_name": "Wacky Races",
+        "overview": "Wacky Races is an animated television series produced by Hanna-Barbera that originally aired in 1968. The show is a parody of traditional car races, featuring a variety of eccentric characters and their outlandish vehicles, all racing across different terrains in a madcap competition for first place.\n\nThe series is centered around a group of 11 racers, each with their own unique vehicle and distinct personality. The main characters include Dick Dastardly and his dog Muttley, who are always trying to cheat and sabotage the other competitors, although they never succeed. Other notable racers include Penelope Pitstop, the glamorous but tough driver; the adventurous Red Max; and the lovable duo, the Slag Brothers, who drive a massive, rock-like car.",
+        "poster_path": "/yHeolC3qvELoeq8poh7BsMpBKd9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          16,
+          35,
+          10762
+        ],
+        "popularity": 8.2697,
+        "first_air_date": "1968-09-14",
+        "vote_average": 7.3,
+        "vote_count": 217,
+        "origin_country": [
+          "GB",
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

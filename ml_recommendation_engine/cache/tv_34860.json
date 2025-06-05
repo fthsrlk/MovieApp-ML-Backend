@@ -1,0 +1,850 @@
+{
+  "adult": false,
+  "backdrop_path": "/1LdoySO2wr2AtJUvxIoMEkCySZC.jpg",
+  "created_by": [
+    {
+      "id": 1253154,
+      "credit_id": "5258dbb8760ee34661751265",
+      "name": "Soubee Amako",
+      "original_name": "Soubee Amako",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1993-04-10",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Komedi"
+    },
+    {
+      "id": 10759,
+      "name": "Aksiyon & Macera"
+    },
+    {
+      "id": 10762,
+      "name": "Çocuklar"
+    },
+    {
+      "id": 16,
+      "name": "Animasyon"
+    },
+    {
+      "id": 10751,
+      "name": "Aile"
+    }
+  ],
+  "homepage": "",
+  "id": 34860,
+  "in_production": true,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "2008-01-01",
+  "last_episode_to_air": {
+    "id": 3069297,
+    "name": "50. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2008-01-01",
+    "episode_number": 50,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 20,
+    "season_number": 16,
+    "show_id": 34860,
+    "still_path": null
+  },
+  "name": "忍たま乱太郎",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 219,
+      "logo_path": "/yggDLcQ3huw76ee2tQRfsMrt0Yh.png",
+      "name": "NHK BS1",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 1753,
+  "number_of_seasons": 26,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "忍たま乱太郎",
+  "overview": "",
+  "popularity": 2203.987,
+  "poster_path": "/xdnt8Dx5Z8Ad78GfqSSsk9kv4tB.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 18,
+      "id": 313769,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1993-04-10",
+      "episode_count": 91,
+      "id": 45673,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 120,
+      "id": 45674,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 81,
+      "id": 45675,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2003-04-07",
+      "episode_count": 130,
+      "id": 45676,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2003-10-15",
+      "episode_count": 130,
+      "id": 45677,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2004-04-19",
+      "episode_count": 131,
+      "id": 45678,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 201966,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 80,
+      "id": 201967,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 26,
+      "id": 201968,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 15,
+      "id": 201969,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 5,
+      "id": 201970,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 78,
+      "id": 201971,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 201972,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 16,
+      "id": 201973,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 48,
+      "id": 201974,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2008-01-01",
+      "episode_count": 100,
+      "id": 201975,
+      "name": "Sezon 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 201976,
+      "name": "Sezon 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 91,
+      "id": 201977,
+      "name": "Sezon 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 90,
+      "id": 201978,
+      "name": "Sezon 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 90,
+      "id": 201979,
+      "name": "Sezon 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 75,
+      "id": 201980,
+      "name": "Sezon 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 75,
+      "id": 201981,
+      "name": "Sezon 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 70,
+      "id": 201982,
+      "name": "Sezon 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 70,
+      "id": 321158,
+      "name": "Sezon 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 64,
+      "id": 321159,
+      "name": "Sezon 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 76,
+      "id": 362551,
+      "name": "Sezon 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.2,
+  "vote_count": 18,
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1018897,
+        "known_for_department": "Directing",
+        "name": "芝山努",
+        "original_name": "芝山努",
+        "popularity": 6.376,
+        "profile_path": "/9xHbjsmKMduBQqAEmBE02gMHNAl.jpg",
+        "credit_id": "6322264e13a320007a5db2a2",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "results": []
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/9jCUq8c9UG39QxspETO3iZ2elnG.jpg",
+        "id": 24019,
+        "name": "Mamotte Shugogetten",
+        "original_name": "まもって守護月天!",
+        "overview": "Shichiri Tasuke's parents are always travelling around the world, so he basically lives alone. His life seems pretty boring and carefree until an artefact from China sent by his father makes a goddess appear: Shugogetten Shaorin is dedicated to protecting her master by summoning little spirits each with a unique power. If that is not enough, a second goddess appears: Keikounitten Ruaan, who can breathe life into objects. Her goal is to make Tasuke happy. Both goddesses are not very skilful though and cause a lot of trouble instead. Tasuke's peaceful and carefree days definitely seem to be over...\n\nSource: AnimeNfo",
+        "poster_path": "/8MOMbftJNzryitUTp3vo1VhaHS5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16
+        ],
+        "popularity": 48.738,
+        "first_air_date": "1998-10-17",
+        "vote_average": 8.8,
+        "vote_count": 4,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/9faGSFi5jam6pDWGNd0p8JcJgXQ.jpg",
+        "id": 1396,
+        "name": "Breaking Bad",
+        "original_name": "Breaking Bad",
+        "overview": "Kanserden öleceğini öğrenen bir kimya öğretmeni, ailesinin geleceğini garanti altına almak için metamfetamin üretip satmak üzere eski bir öğrencisiyle kafa kafaya verir.",
+        "poster_path": "/ineLOBPG8AZsluYwnkMpHRyu7L.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 540.297,
+        "first_air_date": "2008-01-20",
+        "vote_average": 8.9,
+        "vote_count": 15143,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/q3jHCb4dMfYF6ojikKuHd6LscxC.jpg",
+        "id": 84958,
+        "name": "Loki",
+        "original_name": "Loki",
+        "overview": "Marvel Studios'tan Loki'de, \"Avengers: Endgame\"de yaşananların sonrası ele alınmaktadır ve bu yeni dizide kurnaz süper kötü Loki (Tom Hiddleston) Fesatlık Tanrısı rolüne devam eder. Dizinin yönetmenliğini Kate Herron, baş yazarlığını ise Michael Waldron üstlenmiştir.",
+        "poster_path": "/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 113.217,
+        "first_air_date": "2021-06-09",
+        "vote_average": 8.173,
+        "vote_count": 11755,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+        "id": 93405,
+        "name": "Squid Game",
+        "original_name": "오징어 게임",
+        "overview": "Para sıkıntısı çeken yüzlerce oyuncu, çocuk oyunlarında yarışmaları için aldıkları tuhaf daveti kabul eder. İçeride onları cazip bir ödül ve ölüm riski beklemektedir.",
+        "poster_path": "/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          10759,
+          9648,
+          18
+        ],
+        "popularity": 603.484,
+        "first_air_date": "2021-09-17",
+        "vote_average": 7.9,
+        "vote_count": 15546,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/vNnLAKmoczRlNarxyGrrw0KSOeX.jpg",
+        "id": 1412,
+        "name": "Arrow",
+        "original_name": "Arrow",
+        "overview": "Şiddetli bir gemi kazasından sonra milyarder playboy Oliver Queen kaybolmuştur ve Pasifik’te ücra bir adada yaşadığı keşfedilinceye kadar, beş yıl boyunca ölü olduğu sanılmıştır. O sırada Oliver ada’da kendini eğitmiş bir çok sınavdan geçmiş ve hayat mücadelesi vermek zorunda kalmıştır. Evi Starling City’ye döndüğünde onu, üzerine titreyen annesi Moira, çok sevgili kız kardeşi Thea ve en iyi arkadaşı Tommy karşılar fakat onlar Oliver’ın adada çektiği sıkıntıların onu değiştirdiğini hissederler. Oliver tekrar ailesi ile bir araya geldiğinde henüz bilmediği bir çok sırrın olduğunu keşfeder. Arrow kimliğine büründüğünde zengin olmak için pis işlere karışan iş adamlarını öldürmek için savaşmaktadır.",
+        "poster_path": "/u8ZHFj1jC384JEkTt3vNg1DfWEb.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          10759
+        ],
+        "popularity": 284.05,
+        "first_air_date": "2012-10-10",
+        "vote_average": 6.82,
+        "vote_count": 6023,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wbiPjTWpZMIB8ffBq7HvzAph4Ft.jpg",
+        "id": 63174,
+        "name": "Lucifer",
+        "original_name": "Lucifer",
+        "overview": "“Cehennem Lordu” Lucifer Morningstar, Los Angeles Polis Departmanı için suçluları yakalamaktadır. Ancak büyük bir sırrı vardır: Bu çekici adam, aslında yeryüzüne düşmüş bir melektir!",
+        "poster_path": "/cLz75DTxXPPR814YHZ0XhiQuEI2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          10765
+        ],
+        "popularity": 406.998,
+        "first_air_date": "2016-01-25",
+        "vote_average": 8.454,
+        "vote_count": 14893,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
+        "id": 1408,
+        "name": "House, M.D.",
+        "original_name": "House",
+        "overview": "Gregory House New Jersey Princeton Plainsboro Hastanesinin tıbbi tanı uzamanı doktordur. Kendini aşırı beğenmesi, insanları önemsememesi ve boşvermişlik gibi özelliklerine rağmen müthiş bir doktordur. Uzmanlık alanı bulaşıcı hastalıklardır. Hiç kimsenin tanı koyamadığı hastalara tanı koyarak onların hayatlarını kurtarmaktadır ancak ekibindekilerin psikolojilerini de sürekli olarak bozmaktadır. Hastanenin yöneticisi Lisa Cuddy onu sürekli gözlem altında tutmaya çalışmaktadır ve ondan asla vazgeçmemektedir çünkü en zor durumlarda hastaları kurtaran hep odur ama Dr. House yüzünden hastane sık sık dava edilmektedir.",
+        "poster_path": "/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          35
+        ],
+        "popularity": 568.775,
+        "first_air_date": "2004-11-16",
+        "vote_average": 8.591,
+        "vote_count": 6804,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ysaA0BInz4071p3LKqAQnWKZCsK.jpg",
+        "id": 2004,
+        "name": "Malcolm in the Middle",
+        "original_name": "Malcolm in the Middle",
+        "overview": "Kaykay yapmak ve en iyi arkadaşı Stevie ile takılmaktan hoşlanan 9 yaşındaki Malcolm, \"yetenekliler\" sınıfına girmeye zorlanınca hayatı alt üst olur ve etrafı toplumdan dışlanan bir grup yetenekliyle çevrelenir.",
+        "poster_path": "/ckLLIsNy3Z0Go1PYHA2PHzVymUA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          35,
+          18
+        ],
+        "popularity": 295.632,
+        "first_air_date": "2000-01-09",
+        "vote_average": 8.479,
+        "vote_count": 4449,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+        "id": 1399,
+        "name": "Game of Thrones",
+        "original_name": "Game of Thrones",
+        "overview": "Krallık dediğin savaşsız olur mu? En güçlü krallığı kurup, huzuru sağlamış olsan bile bu gücü elinde nasıl koruyacaksın? Burada yanlış yapana yer yok, affetmek yok. Kuzey Krallığının hükümdarı Lord Ned Stark, uzun ve zorlu savaşlardan sonra anayurduna dönüp krallığını bütünlük içerisinde tutmayı başarmıştır. Kral Robert Baratheon ile yıllarca omuz omuza çarpışan ve Baratheon'un kral olmasını sağlayan Ned Stark'ın tek istediği kuzey sınırlarını koruyan krallığında ailesiyle ve halkıyla yaşamaktır. \n\nFakat suyun öte yanında kendi topraklarından ve krallığından kovulduğunu iddia eden Viserys Targaryen , kız kardeşi Daenerys'i barbar kavimlerin başı Han Drogo'ya vererek, güç birliği planları yapmaktadır. Tahtını büyük bir iştahla geri isteyen ama kraliyet oyunlarından habersiz olan Viserys'in planları Kral Baratheon'a ulaşır. Savaş alanında büyük cengaver olan ama ülke ve aile yönetiminde aynı başarıyı tutturamayan Baratheon'un tamamen güvenebileceği ve her yanlış hamlesini arkasından toplayacak yeni bir sağ kola ihtiyacı vardır. Kuzeyin Lordu Ned Stark bu görev için seçilen tek aday isimdir. Kış yaklaşıyor...\n\nHanedan entrikaları, kapılı kapılar ardında dönen oyunlar, birilerinin kuyusunu kazmak için düşmanın koynuna girmekten çekinmeyen kadınlar, kardeşler arası çekişmeler, dışlanmalar... Hepsi tek bir hedef için: Taht kavgası..",
+        "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 723.189,
+        "first_air_date": "2011-04-17",
+        "vote_average": 8.456,
+        "vote_count": 24677,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wQEW3xLrQAThu1GvqpsKQyejrYS.jpg",
+        "id": 94605,
+        "name": "Arcane",
+        "original_name": "Arcane",
+        "overview": "Piltover ve Zaun kentleri arasındaki sert çatışmanın ortasında iki kız kardeş, büyülü teknolojiler ve birbirine zıt inanışlar arasındaki savaşın karşı cephelerindedir.",
+        "poster_path": "/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 177.729,
+        "first_air_date": "2021-11-06",
+        "vote_average": 8.781,
+        "vote_count": 4942,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/20eIP9o5ebArmu2HxJutaBjhLf4.jpg",
+        "id": 87108,
+        "name": "Çernobil",
+        "original_name": "Chernobyl",
+        "overview": "1986 senesinde Sovyet nükleer santralinde meydana gelen patlama sonrası santral işçileri ve itfaiyeciler faciayı kontrol altına almaya çalışır.",
+        "poster_path": "/87QSOjVXFwXpCcczMLhh2WRJDV5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 86.964,
+        "first_air_date": "2019-05-06",
+        "vote_average": 8.7,
+        "vote_count": 6644,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
+        "id": 60735,
+        "name": "The Flash",
+        "original_name": "The Flash",
+        "overview": "Geçmişinde büyük bir trajedi yaşamış Barry Allen, Central City Polis Birimi’nde çalışan ve suçluların arkalarında bıraktıkları ipuçlarını toplayan bir adli laboratuvar asistanıdır. Talihsiz bir yıldırım kazası yaşamasının ardından süper hız gücüne sahip olan Barry, Flash kimliğine bürünür ve kötü adamları adalete teslim etmeyi kendine görev edinir!",
+        "poster_path": "/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 624.918,
+        "first_air_date": "2014-10-07",
+        "vote_average": 7.776,
+        "vote_count": 11219,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7cqKGQMnNabzOpi7qaIgZvQ7NGV.jpg",
+        "id": 76479,
+        "name": "The Boys",
+        "original_name": "The Boys",
+        "overview": "The Boys, süper kahramanların güçlerini ve şöhretlerini kötüye kullandığı bir evrende geçiyor. Kendilerini kanunu korumaya adayan ve “The Boys” olarak adlandırılan bir grup insan, yozlaşmış süper kahramanları ortadan kaldırmak için zorlu bir yolculuğa çıkar.",
+        "poster_path": "/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759
+        ],
+        "popularity": 315.912,
+        "first_air_date": "2019-07-25",
+        "vote_average": 8.5,
+        "vote_count": 10830,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qtr5i6hOm6oVzTYl3jOQAYP3oc7.jpg",
+        "id": 1403,
+        "name": "S.H.I.E.L.D. Ajanları",
+        "original_name": "Marvel's Agents of S.H.I.E.L.D.",
+        "overview": "Marvel's Agents of S.H.I.E.L.D. veya sadece Agents of S.H.I.E.L.D (S.H.I.E.L.D. Ajanları) ABC için çekilen bir Amerikan televizyon dizisidir. Dizi, ABC Studyoları, Marvel Televizyonu ve Mutant Enemy tarafından çekilmektedir ve Marvel Sinematik Evrenindeki filmlerle etkileşim içinde geçmektedir. Yapım, Clark Gregg'ın canlandırdığı Phil Coulson karakteri etrafında döner. Ajan Phil Coulson, yeni garip olayların çözümü için küçük bir ekip kurar. Dünyayı tehdit eden doğaüstü olayların çözümünde birlikte çalışacaklardır.",
+        "poster_path": "/gHUCCMy1vvj58tzE3dZqeC9SXus.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765,
+          10759
+        ],
+        "popularity": 317.982,
+        "first_air_date": "2013-09-24",
+        "vote_average": 7.479,
+        "vote_count": 3552,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/pxeqQX4qFQ0cVxPt5SWZENV5BH3.jpg",
+        "id": 456,
+        "name": "The Simpsons",
+        "original_name": "The Simpsons",
+        "overview": "Bu animasyon komedi Springfield'de diziye adını veren aileye odaklanıyor. Baba Homer tipik bir aile babası değil. Nükleer santralde çalışarak ailesine liderlik etmeye çabalıyor ancak çoğu zaman ailesi onu yönetiyor. Sevgi dolu, mavi saçlı aile reisi anne Marge, sorun çıkaran oğlu Bart, çok başarılı kızı Lisa ve bebek Maggie ailenin diğer fertleri.",
+        "poster_path": "/vHqeLzYl3dEAutojCO26g0LIkom.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          16,
+          35
+        ],
+        "popularity": 834.384,
+        "first_air_date": "1989-12-17",
+        "vote_average": 8.015,
+        "vote_count": 10085,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/rBF8wVQN8hTWHspVZBlI3h7HZJ.jpg",
+        "id": 60625,
+        "name": "Rick and Morty",
+        "original_name": "Rick and Morty",
+        "overview": "Parlak zekalı fakat alkolik bilim adamı Rick, başka dünyalara ve alternatif boyutlara çılgın kaçamaklar yaparken huysuz torunu Morty'i de zorla yanında götürür.",
+        "poster_path": "/gdIrmf2DdY5mgN6ycVP0XlzKzbE.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10759
+        ],
+        "popularity": 917.083,
+        "first_air_date": "2013-12-02",
+        "vote_average": 8.7,
+        "vote_count": 10003,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/smSbK5cd8T9XHcxEUcems23BDEF.jpg",
+        "id": 67915,
+        "name": "Goblin",
+        "original_name": "쓸쓸하고 찬란하神-도깨비",
+        "overview": "Guardian: The Lonely and Great God olarak da bilinen kore serisidir. Bir goblin olan Kim Shin (Gong Yoo) sevdiği birçok insanın ölümünü görmüştür ve ölümsüz hayatını sonlandırmak istemektedir. Bunun için de insan bir goblin gelinine ihtiyacı vardır ve yüz yılardır bir goblin gelini aramaktadır. Bir gün, amnezyadan (hafıza kaybı) muzdarip olan bir ölüm meleği (Lee Dong-Wook) ile tanışır ve birlikte aynı evi paylaşmak zorunda kalır.",
+        "poster_path": "/t7aUi8jbsIUSCNqA1akAbKjBWjU.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          18,
+          10765,
+          35
+        ],
+        "popularity": 78.666,
+        "first_air_date": "2016-12-02",
+        "vote_average": 8.6,
+        "vote_count": 2876,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/sccDflItNho4OiHkzpiDxB2fUFw.jpg",
+        "id": 1418,
+        "name": "The Big Bang Theory",
+        "original_name": "The Big Bang Theory",
+        "overview": "En büyük zevkleri kuantum fiziğine kafa yormak olan üstün zekalı iki arkadaş, güzel bir kızla karşılaşınca ne yaparlar? The Big Bang Theory, işte o karşılaşma anında gerçekleşen büyük patlama ve sonrasını anlatan bir komedi dizisi. Leonard ve Sheldon adlarındaki iki arkadaşın oturdukları apartmanda yan dairelerine yeni bir komşu taşınır. Adı Penny olan bu komşu güzeller güzeli bir sarışındır. Üstelik maceralı bir ilişkiden daha yeni sapasağlam ayakta çıkmıştır. Penny, zekaları gereğinden fazla ilerlemiş, ancak kızlar konusunda oldukça geri kalmış bu yeni iki komşusuna hayat hakkında öğretebileceği bir şeyleri olduğunu düşünmektedir. Yaşanacak olanlar da zaman içinde onun ne kadar haklı olduğunu gösterecektir. ",
+        "poster_path": "/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 222.02,
+        "first_air_date": "2007-09-24",
+        "vote_average": 7.91,
+        "vote_count": 11545,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lirPqYLTtd6XZqGn4cS1wiesTq0.jpg",
+        "id": 1622,
+        "name": "Supernatural",
+        "original_name": "Supernatural",
+        "overview": "Evlerinin yandığı şüpheli bir yangında, annelerinin ölümünden sonra, Sam ve Dean Winchester yaşları büyüdükçe babaları ile yollarda bir hayat yaşamaya başlarlar. Yıllar geçer ve bir av sırasında kaybolan babalarını bulmak için kardeşler bir araya gelirler.\n\nAncak, babaları normal bir avcı değildir: o hayaletler, vampirler, ve ruhlar gibi doğaüstü yaratıkları avlar ve aynı şeyi oğullarına da çok küçük yaşlardan itibaren öğretmiştir. Yol boyunca, Sam ve Dean, masum insanları yaratıklar ve hayaletlerden kurtarmak için büyük bir mücadeleye girerler ve babalarının nerede olduğuna dair ipuçlarını toplarlar.",
+        "poster_path": "/KoYWXbnYuS3b0GyQPkbuexlVK9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          10765
+        ],
+        "popularity": 858.836,
+        "first_air_date": "2005-09-13",
+        "vote_average": 8.3,
+        "vote_count": 7739,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/yUOFocKDW7MCC5isx4FK8A68QFp.jpg",
+        "id": 4607,
+        "name": "Lost",
+        "original_name": "Lost",
+        "overview": "Oceanic Havayolları’nın Sidney-Los Angeles seferini yapan 815 sefer sayılı uçağı, okyanus üzerinden geçerken, manyetik bir alana kapılarak büyük bir adaya düşer. Fakat önceleri sıradan, tropik bir ada gibi görünen bu kara parçasının, kazazedelerin her birinin hayatını farklı biçimde değiştireceğinden habersizdirler. \n\nAdada sandıklarından daha fazla zaman mahsur kalan Oceanic Havayolları yolcuları her gün yeni bir sürprizle karşılaştıkları bu gizemli adada hayatta kalabilmek ve ne olursa olsun bir yolunu bulup adadan kurtulmak ya da anakaraya haber ulaştırmak için mücadeleye girerler. Öte yandan hem ormanın derinliklerinden gelen 'Diğer ada sakinleri', kara bir duman, silahlı bir Fransız kadın, üniformalı iskeletler, terkedilmiş ambarlar adadan kurtulmak isteyenleri bekleyen cevaplanmamış sorular... \n\nEn İyi Televizyon Dizisi dalında Altın Küre ve Emmy Ödüllü Lost, 6 sezon boyunca televizyon seyircisini ekran başına kitlemeyi başaran, 2000'li yılların kendi fenomenini yaratamış, en çok izlenen dizilerinden biri. Ayrıca oyuncu kadrosuna da kazandırdığı ödüller ve adaylıklarla da televizyon ve sinema dünyasında yeni yıldızlar yaratan LOST fenomeni, hem teknik ekibi, hem yazar ve yapımcı kadrosuyla en çok konuşulan, üzerine en çok komplo teorisi ve senaryo üretilen televizyon yapımı olma özelliğini koruyor...",
+        "poster_path": "/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          10759,
+          18
+        ],
+        "popularity": 299.858,
+        "first_air_date": "2004-09-22",
+        "vote_average": 7.9,
+        "vote_count": 4443,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

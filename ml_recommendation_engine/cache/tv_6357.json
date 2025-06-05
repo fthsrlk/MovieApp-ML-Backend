@@ -1,0 +1,721 @@
+{
+  "adult": false,
+  "backdrop_path": "/v6mHYpO4NG2O3F1S4YFf08iV01f.jpg",
+  "created_by": [
+    {
+      "id": 13268,
+      "credit_id": "5257864d19c29531db297dcb",
+      "name": "Rod Serling",
+      "original_name": "Rod Serling",
+      "gender": 2,
+      "profile_path": "/yrQvDQ08tBOgnhY8tG6Oc0RBGde.jpg"
+    }
+  ],
+  "episode_run_time": [
+    25,
+    52
+  ],
+  "first_air_date": "1959-10-02",
+  "genres": [
+    {
+      "id": 10765,
+      "name": "Bilim Kurgu & Fantazi"
+    },
+    {
+      "id": 9648,
+      "name": "Gizem"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    }
+  ],
+  "homepage": "http://www.cbs.com/shows/the_twilight_zone/",
+  "id": 6357,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1964-06-19",
+  "last_episode_to_air": {
+    "id": 374887,
+    "name": "36. Bölüm",
+    "overview": "",
+    "vote_average": 6.1,
+    "vote_count": 9,
+    "air_date": "1964-06-19",
+    "episode_number": 36,
+    "episode_type": "finale",
+    "production_code": "2619",
+    "runtime": 26,
+    "season_number": 5,
+    "show_id": 6357,
+    "still_path": "/14dGGthtsrdrh6w9104eDJiun95.jpg"
+  },
+  "name": "Alacakaranlık Kuşağı",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 156,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Twilight Zone",
+  "overview": "\"İnsanoğlunun bildiğinin ötesinde beşinci bir boyut vardır. Uzay kadar geniş ve sonsuzluk kadar zamansız bir boyut. Işık ile gölge, bilim ile hurafe arasındaki orta yoldur ve insanın korku çukuru ile bilgisinin zirvesi arasında yer alır. Bu, hayal gücünün boyutudur. Alacakaranlık Kuşağı dediğimiz bir alandır.\"\n\nHer bölümde farklı oyuncularla, farklı konuların işlendiği, bilim kurgu, korku ve gerilim öğelerini barındıran beş sezonluk dizi, bu türdeki dizilerin öncülüğünü yapmaktadır.",
+  "popularity": 70.0529,
+  "poster_path": "/rgXN8DsraVEjCD9tOWuR8wnpcaB.jpg",
+  "production_companies": [
+    {
+      "id": 78181,
+      "logo_path": null,
+      "name": "Cayuga Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 4898,
+      "logo_path": "/nm8d7P7MJNiBLdgIzUK0gkuEA4r.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1958-11-24",
+      "episode_count": 179,
+      "id": 16515,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/qxCj5i5vVaA58UxIWavzIGUQ2Cu.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1959-10-02",
+      "episode_count": 36,
+      "id": 16510,
+      "name": "Sezon 1",
+      "overview": "Alacakaranlık Kuşağı ilk sezonu, 2 Ekim 1959'dan 1 Temmuz 1960'a kadar CBS'de cuma günleri 22:00-22:30'da yayınlandı. Pilot bölüm \"Herkes Nerede?\" dahil olmak üzere 36 bölüm var. Bernard Herrman tarafından yazılan bu sezonun tema müziği, Marius Constant tarafından ikinci sezondan itibaren yazılan ve diziyle en çok ilişkilendirilen müzikten farklıdır.",
+      "poster_path": "/1DKVWl80YSLi0TE8IbyUdqq2o5l.jpg",
+      "season_number": 1,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "1960-09-30",
+      "episode_count": 29,
+      "id": 16513,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/jxH1SvUiMnaTXOEo9ivA9RegktH.jpg",
+      "season_number": 2,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "1961-09-15",
+      "episode_count": 37,
+      "id": 16514,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/1bBd7xSbATm9VfOZWKedkzTWXen.jpg",
+      "season_number": 3,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "1963-01-03",
+      "episode_count": 18,
+      "id": 16511,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/x5TWWLTvpDRZ7Pk1043rViXoQkB.jpg",
+      "season_number": 4,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "1963-09-27",
+      "episode_count": 36,
+      "id": 16512,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/nQwRHZVKS1Pn9xSoTYNJP6Hk8Z3.jpg",
+      "season_number": 5,
+      "vote_average": 6.9
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.442,
+  "vote_count": 932,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13268,
+        "known_for_department": "Writing",
+        "name": "Rod Serling",
+        "original_name": "Rod Serling",
+        "popularity": 1.6981,
+        "profile_path": "/yrQvDQ08tBOgnhY8tG6Oc0RBGde.jpg",
+        "character": "Self - Host",
+        "credit_id": "5257864b19c29531db297c22",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 47756,
+        "known_for_department": "Production",
+        "name": "Buck Houghton",
+        "original_name": "Buck Houghton",
+        "popularity": 0.7038,
+        "profile_path": "/awYLIMQA0KiIfMsFvmipseorWZv.jpg",
+        "credit_id": "5257864e19c29531db297df7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1211924,
+        "known_for_department": "Directing",
+        "name": "Herbert Hirschman",
+        "original_name": "Herbert Hirschman",
+        "popularity": 0.6982,
+        "profile_path": null,
+        "credit_id": "5257864e19c29531db297e4b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13268,
+        "known_for_department": "Writing",
+        "name": "Rod Serling",
+        "original_name": "Rod Serling",
+        "popularity": 1.6981,
+        "profile_path": "/yrQvDQ08tBOgnhY8tG6Oc0RBGde.jpg",
+        "credit_id": "5257864e19c29531db297e77",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "time travel",
+        "id": 4379
+      },
+      {
+        "name": "computer",
+        "id": 6104
+      },
+      {
+        "name": "anthology",
+        "id": 9706
+      },
+      {
+        "name": "misfit",
+        "id": 9789
+      },
+      {
+        "name": "space",
+        "id": 9882
+      },
+      {
+        "name": "alien",
+        "id": 9951
+      },
+      {
+        "name": "escape",
+        "id": 10685
+      },
+      {
+        "name": "social commentary",
+        "id": 11479
+      },
+      {
+        "name": "robot",
+        "id": 14544
+      },
+      {
+        "name": "second chance",
+        "id": 34004
+      },
+      {
+        "name": "wishes come true",
+        "id": 187084
+      },
+      {
+        "name": "morality tale",
+        "id": 207444
+      },
+      {
+        "name": "humanoid alien",
+        "id": 290950
+      },
+      {
+        "name": "horror",
+        "id": 315058
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/7rsml8nSsAm5Wg1Tx7Uj9Wf7Fxd.jpg",
+        "id": 21567,
+        "name": "The Outer Limits",
+        "original_name": "The Outer Limits",
+        "overview": "The Outer Limits is an anthology tv series of self-contained sci-fi-horror stories, sometimes with a plot twist at the end.",
+        "poster_path": "/f6IxRbfpfOiJgs15DG42s4BbCb6.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765
+        ],
+        "popularity": 25.5508,
+        "first_air_date": "1963-09-16",
+        "vote_average": 7.762,
+        "vote_count": 149,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/aiZEtOKUfUY0zEeLupeLhnJlW7u.jpg",
+        "id": 5273,
+        "name": "Alfred Hitchcock Sunar",
+        "original_name": "Alfred Hitchcock Presents",
+        "overview": "Farklı geçmişlerden cinayetler, intiharlar, hırsızlıklar ve algılanan veya algılanamayan belirli motivasyonların neden olduğu diğer suç türlerine ilişkin suç, korku, drama ve komedi unsurlarını kapsayan ilgisiz kısa öyküler dizisi.",
+        "poster_path": "/lH6gQRnRtYtFcuxpdpkyl4LlMrX.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          18,
+          80
+        ],
+        "popularity": 15.4321,
+        "first_air_date": "1955-10-02",
+        "vote_average": 7.7,
+        "vote_count": 232,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gTUHsbKX20VAx9YJKEMWBD7prrH.jpg",
+        "id": 16399,
+        "name": "Alacakaranlık Kuşağı",
+        "original_name": "The Twilight Zone",
+        "overview": "A 2002 revival of Rod Serling's 1950/60s television series, The Twilight Zone, with actor Forest Whitaker assuming Serling's role as narrator and on-screen host.",
+        "poster_path": "/sS1ykUhvyurff4CohExIh8qYO99.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          9648,
+          18
+        ],
+        "popularity": 20.403,
+        "first_air_date": "2002-09-18",
+        "vote_average": 7.2,
+        "vote_count": 106,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/fy9fhl09shpTLjw4IEqqmVMYM28.jpg",
+        "id": 1918,
+        "name": "Alacakaranlık Kuşağı",
+        "original_name": "The Twilight Zone",
+        "overview": "This 1980s revival of the classic sci-fi series features a similar style to the original anthology series. Each episode tells a tale (sometimes two or three) rooted in horror or suspense, often with a surprising twist at the end. Episodes usually feature elements of drama and comedy.",
+        "poster_path": "/5OYHoUEKE3RJMqiHcJ8XA5kB7bw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          9648
+        ],
+        "popularity": 49.8297,
+        "first_air_date": "1985-09-27",
+        "vote_average": 7.7,
+        "vote_count": 224,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7esDVGdVWqLkpsrUV4bb4QoXLMU.jpg",
+        "id": 83135,
+        "name": "The Twilight Zone",
+        "original_name": "The Twilight Zone",
+        "overview": "Son dönemde Us filmiyle gündeme oturan Jordan Peele'ın hayata geçirdiği The Twilight Zone, eski serilerin konseptini yeniden ekrana taşıyor.",
+        "poster_path": "/aEuzZqJTEH9E4JwQyv8JtuCu22B.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          9648,
+          18
+        ],
+        "popularity": 12.7851,
+        "first_air_date": "2019-04-01",
+        "vote_average": 6.688,
+        "vote_count": 386,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7LbWPcttJ5a8YPnwwD7mHNd4D6X.jpg",
+        "id": 891,
+        "name": "Thunderbirds",
+        "original_name": "Thunderbirds",
+        "overview": "Thunderbirds is a 1960s British science-fiction television series which was produced using a mixed method of marionette puppetry and scale-model special effects termed \"Supermarionation\". The series is set in the 21st century and follows the exploits of International Rescue, a secret organization formed to save people in mortal danger with the help of technologically advanced land, sea, air and space vehicles and equipment, launched from a hidden base on Tracy Island in the South Pacific Ocean.",
+        "poster_path": "/8uwms1QTwIvelcyVBLCOvYwfV9m.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          10759,
+          16,
+          10765
+        ],
+        "popularity": 16.0758,
+        "first_air_date": "1965-09-30",
+        "vote_average": 7.5,
+        "vote_count": 92,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/vl2lLJcbbnTcvWH6ZfHlXuLxIaP.jpg",
+        "id": 648,
+        "name": "The Incredible Hulk",
+        "original_name": "The Incredible Hulk",
+        "overview": "During an experiment gone bad, radiation turns a scientist into a raging green behemoth whenever he becomes agitated. Unable to control his transformations, David Banner searches for a cure as he crosses the country, fugitive-style, with a dogged tabloid reporter on his trail.",
+        "poster_path": "/8q7uFuNuMWTWfcpnCpBuZa3KZXx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 60.9264,
+        "first_air_date": "1977-11-04",
+        "vote_average": 7.239,
+        "vote_count": 462,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cmHkLlircXTxI7nv93It7gVCH8N.jpg",
+        "id": 849,
+        "name": "Monty Python's Flying Circus",
+        "original_name": "Monty Python's Flying Circus",
+        "overview": "A British sketch comedy series with the shows being composed of surreality, risqué or innuendo-laden humour, sight gags and observational sketches without punchlines.",
+        "poster_path": "/p91aop04lAeAklz32RXAMEWftQh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 36.4803,
+        "first_air_date": "1969-10-05",
+        "vote_average": 8.249,
+        "vote_count": 642,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/omPcylzcwlsser7aKTlsyoMJLyK.jpg",
+        "id": 103,
+        "name": "The Time Tunnel",
+        "original_name": "The Time Tunnel",
+        "overview": "The Time Tunnel is a 1966–1967 U.S. color science fiction TV series, written around a theme of time travel adventure. The show was creator-producer Irwin Allen's third science fiction television series, released by 20th Century Fox and broadcast on ABC. The show ran for one season of 30 episodes. Reruns are viewable on cable and by internet streaming. A pilot for a new series was produced in 2002, although it was not picked up.",
+        "poster_path": "/6E3Ncd9iLWqi8m1GcdkU5bSwOnS.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10765,
+          18
+        ],
+        "popularity": 10.1559,
+        "first_air_date": "1966-09-09",
+        "vote_average": 7.599,
+        "vote_count": 172,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/mCbh1Mzcu6AlTO4aFlfnwfKsxsE.jpg",
+        "id": 9045,
+        "name": "Mahşer",
+        "original_name": "The Stand",
+        "overview": "Bir ölümcül virüsten kurtulmayı başaranlar nihayet uzun ve tehlikeli yolculuklarının sonuna gelirler. Mother Abagail’in liderliğindeki iyilerin gücü Boulder, Colorado’da bir araya gelirler. Bu arada sayıları zaten az olan insanlar, ordusunu Las Vegas’ta toplayan Karanlık Güç Randall Flagg’ın çağrısına boyun eğmek zorunda kalmışlardır.",
+        "poster_path": "/o4Gb63aXRh5mMqGifYACixnxGkQ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 7.0295,
+        "first_air_date": "1994-05-08",
+        "vote_average": 6.823,
+        "vote_count": 472,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sEkUddzvrgRd70o28aRiZdwdq2p.jpg",
+        "id": 4464,
+        "name": "Homicide: Life on the Street",
+        "original_name": "Homicide: Life on the Street",
+        "overview": "An American police procedural chronicling the work of a fictional version of the Baltimore Police Department's Homicide Unit.",
+        "poster_path": "/nb5310xlFjx5r9TnpKoaOTQsAlP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          18,
+          80
+        ],
+        "popularity": 60.6351,
+        "first_air_date": "1993-01-31",
+        "vote_average": 8.1,
+        "vote_count": 131,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vAHR5oY1jZLpyKFhnQf7Qj66mMp.jpg",
+        "id": 97,
+        "name": "The Drew Carey Show",
+        "original_name": "The Drew Carey Show",
+        "overview": "Drew is an assistant director of personnel in a Cleveland department store and he has been stuck there for ten years. Other than fighting with co-worker Mimi, his hobbies include drinking beer and not being able to get dates. To make a few extra bucks he has a micro-brewery going in his garage with his buddies.",
+        "poster_path": "/cWboJ8Cfi5NgHoENAB0gYtgZHkR.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 82.4946,
+        "first_air_date": "1995-09-13",
+        "vote_average": 6.55,
+        "vote_count": 159,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/i3Q1wvghlLktqiWZUF43RdnEF7z.jpg",
+        "id": 2852,
+        "name": "That Mitchell and Webb Look",
+        "original_name": "That Mitchell and Webb Look",
+        "overview": "A comedy sketch show featuring David Mitchell and Robert Webb.",
+        "poster_path": "/7TqlyrCZ5Pk2oQyj2QKI5slcsyQ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 16.1593,
+        "first_air_date": "2006-09-14",
+        "vote_average": 7.7,
+        "vote_count": 99,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/pSCOyP2VKzEmwXmDCjWU0pL0WD7.jpg",
+        "id": 32900,
+        "name": "Morgan Freeman ile Evrenin Sırları",
+        "original_name": "Through the Wormhole",
+        "overview": "Gezegenin en zeki bilim insanlarıyla birlikte varoluşumuzun en derin gizemlerini ve insanlığı sonsuza dek şaşırtan soruları araştırıran bu belgesel, Morgan Freeman’ın sunumuyla, evrenin kökeni, insanın yapısı, başlangıç öncesinde ne olduğu, gerçekten yalnız mıyız, bir yaratıcı var mı gibi sorulara yanıt arar. Bu sorular, insanlık tarihinde en parlak zihinler tarafından düşünülmüştür.",
+        "poster_path": "/cEziWNr1n1HKAuKhngF2n4engOR.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 20.0979,
+        "first_air_date": "2010-06-09",
+        "vote_average": 7.5,
+        "vote_count": 148,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/snSylVifJ29t7mxiIi5dxi6x2q2.jpg",
+        "id": 46930,
+        "name": "Ripper Street",
+        "original_name": "Ripper Street",
+        "overview": "1888 yılının ikinci yarısında, Dedektif Müfettiş Edmund Reid ve ekibi bir zamanlar Karındeşen Jack'in terör estirdiği Doğu Londra’nın gecekondu semti Whitechapel sokaklarında kanun ve düzeni tekrardan sağlamaya çalışıyor.",
+        "poster_path": "/6w8yKYsA7RkuyauW224kBZQebFt.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          80
+        ],
+        "popularity": 23.3537,
+        "first_air_date": "2012-12-30",
+        "vote_average": 7.4,
+        "vote_count": 173,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/mQYdERQ3flDX5s1jb7Jc2KHrK8C.jpg",
+        "id": 93219,
+        "name": "The Movies That Made Us",
+        "original_name": "The Movies That Made Us",
+        "overview": "Bu gişe rekortmeni filmler, bizi bir araya getirdi ve bize güzel anlar yaşattı. Bu filmleri ortaya çıkaran oyuncular, yönetmenler ve sektörün içinden isimlerle tanışın.",
+        "poster_path": "/1EpwMUmY6BhF1r082c3SYzR1rFP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 8.4138,
+        "first_air_date": "2019-11-29",
+        "vote_average": 7.188,
+        "vote_count": 117,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/eE8q2gfFrcvk99dbr8i3a62SjjW.jpg",
+        "id": 2468,
+        "name": "The Streets of San Francisco",
+        "original_name": "The Streets of San Francisco",
+        "overview": "Two police officers, the older Lt. Stone and the young upstart Inspector Keller, investigate murders and other serious crimes in San Francisco. Stone would become a second father to Keller as he learned the rigors and procedures of detective work.",
+        "poster_path": "/9Hpeu6FfEsWuy2rED3JuAMdNKhk.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          10759
+        ],
+        "popularity": 20.9493,
+        "first_air_date": "1972-09-23",
+        "vote_average": 6.9,
+        "vote_count": 91,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/a7uctxNMaqQdY7ructiJGtRVgLq.jpg",
+        "id": 43358,
+        "name": "Hammer House of Horror",
+        "original_name": "Hammer House of Horror",
+        "overview": "Anthology series, in which each self-contained episode featured a different kind of horror. These varied from witches, werewolves, ghosts, devil worship and voodoo, but also included non-supernatural horror themes such as cannibalism, confinement and serial killers.",
+        "poster_path": "/8WUZ79mp39huaffAabcTZ72pMW4.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          18
+        ],
+        "popularity": 4.0488,
+        "first_air_date": "1980-09-13",
+        "vote_average": 7.058,
+        "vote_count": 69,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/1FiouT6ifmRmNQgbUaESMskZe8o.jpg",
+        "id": 4340,
+        "name": "Rüyalar ve Karabasanlar",
+        "original_name": "Nightmares & Dreamscapes: From the Stories of Stephen King",
+        "overview": "Stephen King'in kısa hikâyelerinden uyarlanan bu antoloji dizisi, doğaüstü olaylar, psikolojik korku ve beklenmedik twist'lerle dolu sekiz farklı hikâye sunuyor. Her bölüm bağımsız olmakla birlikte, King'in karakteristik \"sıradan insanların olağanüstü dehşetle sınavı\" temasını işliyor.",
+        "poster_path": "/30bZ3M79A3Lz2iwNmQnRpisylz1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 15.8793,
+        "first_air_date": "2006-07-12",
+        "vote_average": 6.9,
+        "vote_count": 113,
+        "origin_country": [
+          "US",
+          "AU"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

@@ -1,0 +1,793 @@
+{
+  "adult": false,
+  "backdrop_path": "/nFnzqHuiKF7mLjGb9GFKZ7SeuoB.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2003-09-08",
+  "genres": [
+    {
+      "id": 10763,
+      "name": "Haber"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://www.ac360.com/",
+  "id": 3508,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-01-01",
+  "last_episode_to_air": {
+    "id": 5967165,
+    "name": "1. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-01-01",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 23,
+    "show_id": 3508,
+    "still_path": null
+  },
+  "name": "Anderson Cooper 360°",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 59,
+      "logo_path": "/2EIKV6SomKx8L52HoSViKyJO87m.png",
+      "name": "CNN",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 1534,
+  "number_of_seasons": 23,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Anderson Cooper 360°",
+  "overview": "",
+  "popularity": 2296.435,
+  "poster_path": "/zdLqNAHFeaVM6dhRHdnhSoP0Xax.jpg",
+  "production_companies": [
+    {
+      "id": 184839,
+      "logo_path": "/m7Ru1PEVnGGv1lTGrKWDUkM1JkR.png",
+      "name": "CNN",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-04-16",
+      "episode_count": 57,
+      "id": 441413,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/eYeZj4fKCQub85AcHURwydEaZ4q.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2003-09-08",
+      "episode_count": 77,
+      "id": 10699,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2004-01-02",
+      "episode_count": 254,
+      "id": 10700,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2005-01-10",
+      "episode_count": 245,
+      "id": 10701,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2006-01-02",
+      "episode_count": 257,
+      "id": 10702,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2007-01-01",
+      "episode_count": 252,
+      "id": 10703,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2008-01-01",
+      "episode_count": 254,
+      "id": 10704,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2008-12-31",
+      "episode_count": 140,
+      "id": 10705,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2010-01-01",
+      "episode_count": 1,
+      "id": 164249,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-01-01",
+      "episode_count": 1,
+      "id": 164250,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2012-01-01",
+      "episode_count": 1,
+      "id": 164251,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2013-01-01",
+      "episode_count": 1,
+      "id": 164252,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2014-01-01",
+      "episode_count": 1,
+      "id": 164253,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2015-01-01",
+      "episode_count": 1,
+      "id": 164254,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2015-01-01",
+      "episode_count": 2,
+      "id": 164255,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2017-01-01",
+      "episode_count": 1,
+      "id": 164256,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2018-01-01",
+      "episode_count": 6,
+      "id": 164257,
+      "name": "Sezon 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2019-01-01",
+      "episode_count": 7,
+      "id": 164258,
+      "name": "Sezon 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2020-01-01",
+      "episode_count": 2,
+      "id": 164259,
+      "name": "Sezon 18",
+      "overview": "",
+      "poster_path": "/iJWL5hPb0YBZEdH3nPQBHPEkLvx.jpg",
+      "season_number": 18,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2021-01-01",
+      "episode_count": 1,
+      "id": 329675,
+      "name": "Sezon 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2022-01-01",
+      "episode_count": 1,
+      "id": 329676,
+      "name": "Sezon 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2023-01-01",
+      "episode_count": 16,
+      "id": 329677,
+      "name": "Sezon 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2024-01-01",
+      "episode_count": 12,
+      "id": 393660,
+      "name": "Sezon 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2025-01-01",
+      "episode_count": 1,
+      "id": 441415,
+      "name": "Sezon 23",
+      "overview": "",
+      "poster_path": "/fi7KWbkJq3MirP32nsYOPQIc3oJ.jpg",
+      "season_number": 23,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "News",
+  "vote_average": 5.1,
+  "vote_count": 8,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1217309,
+        "known_for_department": "Acting",
+        "name": "Anderson Cooper",
+        "original_name": "Anderson Cooper",
+        "popularity": 8.374,
+        "profile_path": "/p2p0b6NSJb37DdCZSRtatva1Ob9.jpg",
+        "character": "Self - Host",
+        "credit_id": "5378769cc3a368553a003637",
+        "order": 0
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": []
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/95DOsfIpXweztOlzGBU1bnePCIS.jpg",
+        "id": 87104,
+        "name": "Years and Years",
+        "original_name": "Years and Years",
+        "overview": "Russell T. Davies’in yazdığı altı bölümlük dizi Lyons ailesinin yıllar içindeki değişimine odaklanıyor. Brexit sonrası İngiltere’de politik yaklaşımlar oldukça popülist hale gelmiş, ABD’de Donald Trump tekrar seçilmiş, Çin‘in tüm dünyada ağırlığı artmış. Artırılmış gerçeklik, yapay zeka, implant teknolojiler iyice hayatımıza girmiş. Artan dijitalleşme aile bireylerini ve aralarındaki ilişkileri, jenerasyonlar arası iletişimi ciddi anlamda zorlar hale gelmiştir.  Dizi günümüzden 4-5 yıl sonrasında İngiltere'de geçiyor. Dönemin sosyoekonomik gerilimini ve dünyadaki siyasi durumu İngiltere'deki bir geniş aileyi odak noktasına alarak gayet başarılı anlatıyor. Teknolojiyi ve insan ilişkilerine etkisini de son dönem Black Mirror'ından çok daha iyi aktarıyor. Bunda karakterlerle bağ kurmamızın da etkisi büyüktür tabii. Göçmenler ve yükselen sağın yanı sıra siyasilerin kitlesel korku ve \"save the children\"ı kullanması konuları da işlenmiş.",
+        "poster_path": "/u1FBsyMH9Tx7K5yzMnJsYRvNEKQ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10768,
+          10765
+        ],
+        "popularity": 30.782,
+        "first_air_date": "2019-05-14",
+        "vote_average": 7.6,
+        "vote_count": 296,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/mu3lEhGovyhKHPJzb7HNYtZUCDT.jpg",
+        "id": 206559,
+        "name": "Binnelanders",
+        "original_name": "Binnelanders",
+        "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+        "poster_path": "/3bzECfllho8PphdYujLUIuhncJD.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "af",
+        "genre_ids": [
+          10766
+        ],
+        "popularity": 3212.703,
+        "first_air_date": "2005-10-13",
+        "vote_average": 5.6,
+        "vote_count": 90,
+        "origin_country": [
+          "ZA"
+        ]
+      },
+      {
+        "backdrop_path": "/h3F3LlriXJBD8Zr7D4JRFIheCHG.jpg",
+        "id": 64852,
+        "name": "Trapped",
+        "original_name": "Ófærð",
+        "overview": "Büyük bir kar fırtınası yüzünden dünyanın geri kalanıyla bağlantısı kesilen küçük bir İzlanda kasabasında, vahşi bir cinayete kurban gitmiş bir ceset bulunur.",
+        "poster_path": "/bTpSWcEqeTXH7Ipr2XUfGW36n02.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "is",
+        "genre_ids": [
+          18,
+          9648,
+          80
+        ],
+        "popularity": 52.057,
+        "first_air_date": "2015-12-27",
+        "vote_average": 7.3,
+        "vote_count": 243,
+        "origin_country": [
+          "IS"
+        ]
+      },
+      {
+        "backdrop_path": "/pP3z3VS68PFRqTmypsYJWhWRkrG.jpg",
+        "id": 2418,
+        "name": "The Venture Bros.",
+        "original_name": "The Venture Bros.",
+        "overview": "Hank and Dean Venture, with their father Doctor Venture and faithful bodyguard Brock Samson, go on wild adventures facing megalomaniacs, zombies, and suspicious ninjas, all for the glory of adventure. Or something like that.",
+        "poster_path": "/8FWODo6XwPXCoynqiqXf7x3eftC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10759,
+          10765
+        ],
+        "popularity": 132.93,
+        "first_air_date": "2004-08-07",
+        "vote_average": 7.8,
+        "vote_count": 199,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4cKT4tpP5xuuqfI9BWCdfIzKDXs.jpg",
+        "id": 1767,
+        "name": "Bobby's World",
+        "original_name": "Bobby's World",
+        "overview": "Bobby Generic lives in a typical suburban neighborhood and uses his overactive imagination to discover a world of daring adventure, incredible wonder and lots of laughs — all in pint-sized perspective.",
+        "poster_path": "/zrcPIkzTim0ICyc6h81LfmBSQgB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10762,
+          16,
+          10751,
+          35
+        ],
+        "popularity": 55.51,
+        "first_air_date": "1990-09-08",
+        "vote_average": 6.9,
+        "vote_count": 134,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/p4DbDy38yDWCujibRsCI7tpwZeD.jpg",
+        "id": 57389,
+        "name": "Klondike",
+        "original_name": "Klondike",
+        "overview": "Film, 1890'ların sonlarında geçiyor ve altın madenciliği için Klondike Bölgesi'ne akın eden insanların hikâyesini anlatıyor. Film, Bill ve Epstein adlı iki çocukluk arkadaşı etrafında dönerken, onları keşfedilmemiş zenginliklerle dolu bir toprakta zorlu bir mücadeleye sokuyor. Ancak bu topraklar yalnızca zenginlik vaat etmiyor; aynı zamanda sert iklim koşulları, öngörülemeyen hava durumu ve açgözlü iş adamları, baştan çıkarıcı genelev kadınları ve kendi halklarının yok oluşuna tanıklık eden yerli kabileler gibi tehlikeli karakterlerle doludur. Film, hayatta kalma mücadelesi ve insan doğasının karanlık yönlerini ele alırken, dostluk, ihanet ve fırsatçılığın da derinlemesine incelendiği bir yapım olarak öne çıkıyor. Klondike'ın zorlu koşullarında, karakterlerin içsel çatışmaları ve dayanışmaları izleyicilere sürükleyici bir deneyim sunuyor.",
+        "poster_path": "/2GefrF8K5fqyiHoMF0M5Qh8LCi5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          37
+        ],
+        "popularity": 14.758,
+        "first_air_date": "2014-01-20",
+        "vote_average": 7.1,
+        "vote_count": 83,
+        "origin_country": [
+          "US",
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/ov13wkTj8wfAdJWlTnITDLth6Z0.jpg",
+        "id": 91615,
+        "name": "It's Your Turn",
+        "original_name": "あなたの番です 扉の向こう",
+        "overview": "",
+        "poster_path": "/yf1mMgbbsUexyYzWmgjKCiwA4KQ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 21.406,
+        "first_air_date": "2019-04-21",
+        "vote_average": 6.8,
+        "vote_count": 6,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/3dLLntvEB5uqyrSj4Q4QOF1CLDs.jpg",
+        "id": 37636,
+        "name": "Gizli Bahçe",
+        "original_name": "시크릿 가든",
+        "overview": "Kim Joo Won, harika görünüşlü fakat kibirli ve çocukça bir adamdır. Gil Ra IM, gözde aktristlerin kıskandığı vücudu ve güzelliği olan bir dublördür. Bir gün yolları birleşir ve tuhaf bir eve girerler. Evdeki garip bir yaşlı kadın onlara içmeleri için içki ikram eder. Ertesi gün ikili uyandıklarında, bedenlerinin yer değiştiğini görürler...",
+        "poster_path": "/2G5m6cMGN5DR5GsGGdg9OcgNNlG.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          35,
+          18,
+          10765
+        ],
+        "popularity": 60.109,
+        "first_air_date": "2010-11-13",
+        "vote_average": 7.385,
+        "vote_count": 96,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/lG8qwygOAC6BTslQ6oeTsgdC9VT.jpg",
+        "id": 86822,
+        "name": "Back To The Island",
+        "original_name": "L'Isola Di Pietro",
+        "overview": "Carloforte, a small island overlooking Sardinian Sea, someday shocked by an accident… a tuna factory explodes, killing some young, having there a party",
+        "poster_path": "/7ujbS9ogl3MJQHmElLE48AJy0Rm.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "it",
+        "genre_ids": [
+          10751,
+          80,
+          18,
+          9648
+        ],
+        "popularity": 34.378,
+        "first_air_date": "2017-09-24",
+        "vote_average": 2.6,
+        "vote_count": 10,
+        "origin_country": [
+          "IT"
+        ]
+      },
+      {
+        "backdrop_path": "/e4QDyKfCmamMIi0Ub3yd7OhM2xN.jpg",
+        "id": 73178,
+        "name": "The Long Road Home",
+        "original_name": "The Long Road Home",
+        "overview": "Relive a heroic fight for survival during the Iraq War, when the 1st Cavalry Division from Fort Hood was ferociously ambushed on April 4, 2004, in Sadr City, Baghdad — a day that came to be known in military annals as “Black Sunday.”",
+        "poster_path": "/hMnUiBReooPHM4Ic6jZ4jT3a9W6.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10768,
+          18
+        ],
+        "popularity": 34.74,
+        "first_air_date": "2017-11-07",
+        "vote_average": 6.8,
+        "vote_count": 51,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/pYEFwZj6YDR8OhX9tyO78IoJADe.jpg",
+        "id": 815,
+        "name": "Peep Show",
+        "original_name": "Peep Show",
+        "overview": "Peep Show follows the lives of two men from their twenties to thirties, Mark Corrigan, who has steady employment for most of the series, and Jeremy \"Jez\" Usbourne, an unemployed would-be musician.",
+        "poster_path": "/6rdoQ0cTjsEQLIwEjhBV8U98oUm.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 108.684,
+        "first_air_date": "2003-09-19",
+        "vote_average": 8.032,
+        "vote_count": 380,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/9vkHfS9QFporrFCTqy1OarDZIs9.jpg",
+        "id": 85,
+        "name": "Buster'dan Mektup Var",
+        "original_name": "Postcards from Buster",
+        "overview": "Postcards from Buster is a children's television series for children aged 6–12, containing both animation and live-action that originally aired on Public Broadcasting Service. It is a spin-off of the Arthur cartoon series. The show stars Arthur's best friend, 8-year-old rabbit Buster Baxter. Inspired by a 2003 episode of Arthur entitled \"Postcards from Buster\", the television series was produced by Cinar and Marc Brown Studios.\n\nIt first aired October 11, 2004, on PBS Kids Go!. Buster's interests include eating anything, reading comic books, and playing video games. Buster's personality is that of a fairly intelligent and curious child. He also believes that extraterrestrials are real. Buster's parents are divorced; in this series, Buster is seen with his father, Bo Baxter.",
+        "poster_path": "/7GZ3nM8Mod24ego7IdIi9hqSSsN.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762
+        ],
+        "popularity": 41.45,
+        "first_air_date": "2004-10-11",
+        "vote_average": 8.3,
+        "vote_count": 82,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/k1UpU2cfa4PbDUBnJtr43TpdNBg.jpg",
+        "id": 1423,
+        "name": "Ray Donovan",
+        "original_name": "Ray Donovan",
+        "overview": "Los Angeles'in zengin ve ünlüleri, ne zaman başları sıkışsa Ray Donovan'ı ararlar, ancak Donovan kendi ailesinin neden olduğu sorunları çözmekte o kadar da iyi değildir.",
+        "poster_path": "/cwJ6nLNvX62By0yoLYWFhRelPkF.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 118.636,
+        "first_air_date": "2013-06-30",
+        "vote_average": 7.5,
+        "vote_count": 764,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/fRkL08tLtjMKaiDjkdniAS2MXw6.jpg",
+        "id": 96450,
+        "name": "Bayan Scarlet ve Dük",
+        "original_name": "Miss Scarlet and the Duke",
+        "overview": "Ünlü bir sihirbazın ortadan kaybolmasının ardından gizemli olay bütün Londra'nın ilgisini çeker. Dük'ün davayı üstlenmiş olmasına rağmen Eliza bir gazete tarafından olayı incelemesi için işe alınır.",
+        "poster_path": "/9pbxTckwvaTXMABenkcmO1VhQi8.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          80
+        ],
+        "popularity": 77.407,
+        "first_air_date": "2020-03-31",
+        "vote_average": 7.4,
+        "vote_count": 95,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/whKuIfYI6iESs3ogaZYbeZVkxRb.jpg",
+        "id": 71951,
+        "name": "Get Shorty",
+        "original_name": "Get Shorty",
+        "overview": "Dizi Nevadalı bir kiralık katil olan Miles Daly’nin suçlarla dolu geçmişini bırakıp Hollywood’da bir film yapımcısı olmasını ve ailesini yeniden kazanmasını konu alıyor. Burada ikinci sınıf filmlerin yapımcısı Rick Moreweather’la tanışan Miles, Rick’in rehberliğinde şov dünyasının içine girmeye çalışacaktır.",
+        "poster_path": "/ism3TUNdIl5MpQR6E8ApjE89LQy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          35
+        ],
+        "popularity": 45.362,
+        "first_air_date": "2017-08-13",
+        "vote_average": 7.0,
+        "vote_count": 91,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/s3cU8EkdeviEueyB4afY8EIb9Pf.jpg",
+        "id": 68415,
+        "name": "RWBY Chibi",
+        "original_name": "RWBY Chibi",
+        "overview": "Join the cast of RWBY in cute comedy shorts with infinite possibilities! It's playing tag! It's baking cookies! It's posing as police officers! It's... really quite absurd. It's RWBY CHIBI!",
+        "poster_path": "/9XmS0yDLMpjOIyP9RSoDFSfbYi9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10765
+        ],
+        "popularity": 89.18,
+        "first_air_date": "2016-05-08",
+        "vote_average": 6.9,
+        "vote_count": 30,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1FiouT6ifmRmNQgbUaESMskZe8o.jpg",
+        "id": 4340,
+        "name": "Nightmares & Dreamscapes: From the Stories of Stephen King",
+        "original_name": "Nightmares & Dreamscapes: From the Stories of Stephen King",
+        "overview": "An anthology series based on the works of Stephen King.",
+        "poster_path": "/30bZ3M79A3Lz2iwNmQnRpisylz1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 47.912,
+        "first_air_date": "2006-07-12",
+        "vote_average": 6.9,
+        "vote_count": 110,
+        "origin_country": [
+          "AU",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/52UMX6fg1PHgkgZicP8eBktR7Ay.jpg",
+        "id": 44264,
+        "name": "Kendini Arayış",
+        "original_name": "Endeavour",
+        "overview": "The early days of a young Endeavour Morse, whose experiences as a detective constable with the Oxford City Police will ultimately shape his future.",
+        "poster_path": "/suX3F5e8XN9emrb52CQSwt2mRwx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 104.296,
+        "first_air_date": "2013-04-14",
+        "vote_average": 8.1,
+        "vote_count": 247,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/wAEOFMX407pMVdtVriRpIZE9Iaw.jpg",
+        "id": 17035,
+        "name": "Generation Kill",
+        "original_name": "Generation Kill",
+        "overview": "The first 40 days of the war in Iraq as seen through the eyes of an elite group of U.S. Marines who spearheaded the invasion along with an embedded Rolling Stone reporter. A vivid account of the soldiers and of the forces that guided them in an often-improvised initiative.",
+        "poster_path": "/wiihoYOODwh82xVzPoiaztlg6c9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10768,
+          18,
+          10759
+        ],
+        "popularity": 21.547,
+        "first_air_date": "2008-07-13",
+        "vote_average": 7.9,
+        "vote_count": 436,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

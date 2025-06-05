@@ -1,0 +1,916 @@
+{
+  "adult": false,
+  "backdrop_path": "/b8fW3cOXCHKWNQw2g37A45RpICk.jpg",
+  "created_by": [
+    {
+      "id": 18267,
+      "credit_id": "52540db419c2957940312d81",
+      "name": "Larry Gelbart",
+      "original_name": "Larry Gelbart",
+      "gender": 2,
+      "profile_path": "/cR7GQsZkm9Ju4q4VMFQaftLNacF.jpg"
+    }
+  ],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "1972-09-17",
+  "genres": [
+    {
+      "id": 10768,
+      "name": "Savaş & Politik"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 35,
+      "name": "Komedi"
+    }
+  ],
+  "homepage": "",
+  "id": 918,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1983-02-28",
+  "last_episode_to_air": {
+    "id": 50093,
+    "name": "16. Bölüm",
+    "overview": "",
+    "vote_average": 9.1,
+    "vote_count": 11,
+    "air_date": "1983-02-28",
+    "episode_number": 16,
+    "episode_type": "finale",
+    "production_code": "9-B04",
+    "runtime": 119,
+    "season_number": 11,
+    "show_id": 918,
+    "still_path": "/cLJt35GXe537NmRxZ9a5AjrzjQ6.jpg"
+  },
+  "name": "M*A*S*H",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 251,
+  "number_of_seasons": 11,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "M*A*S*H",
+  "overview": "",
+  "popularity": 98.4946,
+  "poster_path": "/6rhuM3oMoEWKxAdrm7IyM8oq8cC.jpg",
+  "production_companies": [
+    {
+      "id": 1556,
+      "logo_path": "/31h94rG9hzjprXoYNy3L1ErUya2.png",
+      "name": "20th Century Fox Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1972-09-17",
+      "episode_count": 24,
+      "id": 2656,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/duH17foDC2MdYoTVbjafH1feUgt.jpg",
+      "season_number": 1,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "1973-09-15",
+      "episode_count": 24,
+      "id": 2658,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/cChJbCwph81D0O4X7LaJzPvvmeo.jpg",
+      "season_number": 2,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "1974-09-10",
+      "episode_count": 24,
+      "id": 2657,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/r1zv4bZcSUhf3rnjfOiVn9naURx.jpg",
+      "season_number": 3,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "1975-09-12",
+      "episode_count": 24,
+      "id": 2655,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/u7pH8CUdLg2zoXT0oUFvYLL0isO.jpg",
+      "season_number": 4,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "1976-09-21",
+      "episode_count": 24,
+      "id": 2654,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/6FLXh5NqBzzJP63ZcTJKNGSZOSw.jpg",
+      "season_number": 5,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "1977-09-20",
+      "episode_count": 24,
+      "id": 2660,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/uOxLDty7RVaERrItYYwpbihHk4r.jpg",
+      "season_number": 6,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "1978-09-18",
+      "episode_count": 25,
+      "id": 2659,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/3dJOqhJymEHrtTqgZjbNUTRRaxN.jpg",
+      "season_number": 7,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "1979-09-17",
+      "episode_count": 25,
+      "id": 2661,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/sWSWsy3ISTTury8m7HsjfzdbHxO.jpg",
+      "season_number": 8,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "1980-11-17",
+      "episode_count": 20,
+      "id": 2663,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/tW1WkZ6fw3VQibtX2ftXDhzjlud.jpg",
+      "season_number": 9,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "1981-10-26",
+      "episode_count": 21,
+      "id": 2662,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/zcmIJYinMFWDvcmxp0sWp1UOda6.jpg",
+      "season_number": 10,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "1982-10-25",
+      "episode_count": 16,
+      "id": 2664,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/yFbouHWg8rINh0pjopiHfyFl5vM.jpg",
+      "season_number": 11,
+      "vote_average": 7.4
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.915,
+  "vote_count": 680,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21278,
+        "known_for_department": "Acting",
+        "name": "Alan Alda",
+        "original_name": "Alan Alda",
+        "popularity": 3.2431,
+        "profile_path": "/6ccCKFhXiMmjLoiFDyJaU4eJaQO.jpg",
+        "character": "Hawkeye Pierce",
+        "credit_id": "52540db419c2957940312b0b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64811,
+        "known_for_department": "Acting",
+        "name": "Mike Farrell",
+        "original_name": "Mike Farrell",
+        "popularity": 2.4779,
+        "profile_path": "/qfbWM9PEAEAeSXvJwm399ucjgxU.jpg",
+        "character": "B. J. Hunnicutt",
+        "credit_id": "52540db419c2957940312c4f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4073,
+        "known_for_department": "Acting",
+        "name": "Harry Morgan",
+        "original_name": "Harry Morgan",
+        "popularity": 2.4093,
+        "profile_path": "/fD3YDU0P6W02Ee8frvgFx8tUa0B.jpg",
+        "character": "Sherman Potter",
+        "credit_id": "52540db419c2957940312c11",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 55428,
+        "known_for_department": "Acting",
+        "name": "Loretta Swit",
+        "original_name": "Loretta Swit",
+        "popularity": 1.4293,
+        "profile_path": "/ESJahTEhSZZtmoGHecfH3yXvgZ.jpg",
+        "character": "Margaret Houlihan",
+        "credit_id": "52540db419c2957940312b57",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28010,
+        "known_for_department": "Acting",
+        "name": "David Ogden Stiers",
+        "original_name": "David Ogden Stiers",
+        "popularity": 2.6276,
+        "profile_path": "/cgCTQt3RZVkhkusG77l4HwHEH6A.jpg",
+        "character": "Charles Winchester",
+        "credit_id": "52540db419c2957940312ccb",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55432,
+        "known_for_department": "Acting",
+        "name": "Jamie Farr",
+        "original_name": "Jamie Farr",
+        "popularity": 2.2026,
+        "profile_path": "/4vzM97TVRJy4hkrYk2XsgTJWi6I.jpg",
+        "character": "Maxwell Klinger",
+        "credit_id": "52540db419c2957940312b95",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 157321,
+        "known_for_department": "Acting",
+        "name": "William Christopher",
+        "original_name": "William Christopher",
+        "popularity": 1.3302,
+        "profile_path": "/cHzfv3vvBFmtPjCH0GrECwWu3uc.jpg",
+        "character": "Father Mulcahy",
+        "credit_id": "558c9fecc3a3687e6500673e",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18267,
+        "known_for_department": "Writing",
+        "name": "Larry Gelbart",
+        "original_name": "Larry Gelbart",
+        "popularity": 1.6228,
+        "profile_path": "/cR7GQsZkm9Ju4q4VMFQaftLNacF.jpg",
+        "credit_id": "52540dc419c29579403137a5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1221170,
+        "known_for_department": "Acting",
+        "name": "Burt Metcalfe",
+        "original_name": "Burt Metcalfe",
+        "popularity": 0.9119,
+        "profile_path": null,
+        "credit_id": "52540dc419c29579403136fd",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1221203,
+        "known_for_department": "Writing",
+        "name": "Jim Mulligan",
+        "original_name": "Jim Mulligan",
+        "popularity": 0.784,
+        "profile_path": null,
+        "credit_id": "52540dc419c29579403139ef",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14874,
+        "known_for_department": "Acting",
+        "name": "Gene Reynolds",
+        "original_name": "Gene Reynolds",
+        "popularity": 1.5007,
+        "profile_path": "/6yDAz8JMGw04ndeFhAxb1NR4OqC.jpg",
+        "credit_id": "52540dc419c2957940313751",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1213327,
+        "known_for_department": "Writing",
+        "name": "Thad Mumford",
+        "original_name": "Thad Mumford",
+        "popularity": 1.0812,
+        "profile_path": null,
+        "credit_id": "52540dc419c29579403137f9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1212560,
+        "known_for_department": "Writing",
+        "name": "Dan Wilcox",
+        "original_name": "Dan Wilcox",
+        "popularity": 0.5783,
+        "profile_path": null,
+        "credit_id": "52540dc419c295794031389f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64390,
+        "known_for_department": "Writing",
+        "name": "Allan Katz",
+        "original_name": "Allan Katz",
+        "popularity": 0.7474,
+        "profile_path": null,
+        "credit_id": "52540dc419c2957940313947",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1221204,
+        "known_for_department": "Writing",
+        "name": "John Rappaport",
+        "original_name": "John Rappaport",
+        "popularity": 0.3338,
+        "profile_path": null,
+        "credit_id": "52540dc419c295794031384b",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "based on novel or book",
+        "id": 818
+      },
+      {
+        "name": "surgeon",
+        "id": 3262
+      },
+      {
+        "name": "korean war (1950-53)",
+        "id": 3264
+      },
+      {
+        "name": "us army",
+        "id": 4595
+      },
+      {
+        "name": "doctor",
+        "id": 13005
+      },
+      {
+        "name": "american abroad",
+        "id": 34061
+      },
+      {
+        "name": "military",
+        "id": 162365
+      },
+      {
+        "name": "sitcom",
+        "id": 193171
+      },
+      {
+        "name": "military hospital",
+        "id": 198421
+      },
+      {
+        "name": "medical drama",
+        "id": 208788
+      },
+      {
+        "name": "field hospital",
+        "id": 220811
+      },
+      {
+        "name": "army camp",
+        "id": 234823
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/yqbIAJBoZ6DTHsOOiyppg79go3x.jpg",
+        "id": 400,
+        "name": "Shark",
+        "original_name": "Shark",
+        "overview": "Notorious Los Angeles defense attorney Sebastian Stark becomes disillusioned with his career after his successful defense of a wife-abuser results in the wife's death. After more than a month trying to come to grips with his situation, he is invited by the Los Angeles district attorney to become a public prosecutor so he can apply his unorthodox-but-effective talents to putting guilty people away instead of putting them back on the street.",
+        "poster_path": "/Ahxpbk4Uu6zs1DgAbgfU80eHerx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          80
+        ],
+        "popularity": 16.9675,
+        "first_air_date": "2006-09-21",
+        "vote_average": 6.8,
+        "vote_count": 94,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wPT3xuLb4OM5IKCAiHiMblxiqX.jpg",
+        "id": 2474,
+        "name": "A Touch of Frost",
+        "original_name": "A Touch of Frost",
+        "overview": "Jack Frost is a gritty, dogged and unconventional detective with sympathy for the underdog and an instinct for moral justice who attracts trouble like a magnet. Despite some animosity with his superintendent, Norman “Horn-rimmed Harry” Mullett, Frost and his ever-changing roster of assistants manage to solve cases via his clever mind, good heart, and cool touch.",
+        "poster_path": "/dgpUNSkIWdU1i9vjc7MQPfGBFLo.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "popularity": 21.496,
+        "first_air_date": "1992-12-06",
+        "vote_average": 7.5,
+        "vote_count": 67,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/xyh5AtlJ9jGduhKD7Km5Nf2gbCb.jpg",
+        "id": 609,
+        "name": "Green Acres",
+        "original_name": "Green Acres",
+        "overview": "Green Acres is an American sitcom starring Eddie Albert and Eva Gabor as a couple who move from New York City to a rural country farm. Produced by Filmways as a sister show to Petticoat Junction, the series was first broadcast on CBS, from September 15, 1965 to April 27, 1971.\n\nReceiving solid ratings during its six-year run, Green Acres was cancelled in 1971 as part of the \"rural purge\" by CBS. The sitcom has been in syndication and is available in DVD and VHS releases. In 1997, the two-part episode \"A Star Named Arnold is Born\" was ranked #59 on TV Guide's 100 Greatest Episodes of All Time.",
+        "poster_path": "/1tCh5D0dyPw8tiknprgbljAAEPw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 39.9977,
+        "first_air_date": "1965-09-15",
+        "vote_average": 7.3,
+        "vote_count": 65,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dca2YVViyCBGfUImvHymrNnPG3j.jpg",
+        "id": 78881,
+        "name": "Picnic at Hanging Rock",
+        "original_name": "Picnic at Hanging Rock",
+        "overview": "Valentine's Day, 1900. Three schoolgirls and their governess mysteriously disappear in Hanging Rock, Australia, without a trace.",
+        "poster_path": "/tO5lLXy9GdxSRrKKlreqgLVfYGr.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 3.4944,
+        "first_air_date": "2018-05-06",
+        "vote_average": 5.9,
+        "vote_count": 60,
+        "origin_country": [
+          "AU",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/30syjvXZ7QevfNzpSordlHh1VrM.jpg",
+        "id": 60929,
+        "name": "Kara Para Aşk",
+        "original_name": "Kara Para Aşk",
+        "overview": "Para ve hırs yüzünden hızla kirlenen dünyada, suçlularla giriştiği amansız mücadelelerde büyük başarılar kazanan Ömer Komiser, kız arkadaşı Sibel'le nişanlanmak için İstanbul'a gelir. Roma'da yaşayan Elif ise doğum gününde ailesiyle birlikte olmak için İstanbul'a gelir.  Ömer ile Elif aynı gece ölüm acısı yaşarlar. Ömer'in kız arkadaşı ve Elif'in babası cinayete kurban giderler. İkisi de cevaplayamadıkları sorularla baş başa kalırlar. Gergin ve önyargılı bir tanışmanın ardından peşlerine düştükleri her ipucu yollarını kesiştirir.\n\nÖmer, Sibel'in katilini bulmaya, ona atılan iftiraları temizlemeye kararlıdır. Elif ise ömrünün en zor anlarını yaşarken, babasının göründüğünün aksine karanlık bir hayatı olduğu gerçeğiyle yüzleşir. Bu Elif'in yüzünde patlayan ne ilk ne de son tokat olacaktır. Elif, ailesi için tehlikelerle dolu, karanlık yolda kaybolmak üzeredir.",
+        "poster_path": "/ud39J949yldVdbmyLottd9E2VeW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "tr",
+        "genre_ids": [
+          10759,
+          18,
+          9648,
+          80
+        ],
+        "popularity": 13.071,
+        "first_air_date": "2014-03-12",
+        "vote_average": 8.105,
+        "vote_count": 38,
+        "origin_country": [
+          "TR"
+        ]
+      },
+      {
+        "backdrop_path": "/A3wuM8vUPCJ7X1ChzL6nYs0Lmwy.jpg",
+        "id": 69830,
+        "name": "Soldiers",
+        "original_name": "Солдаты",
+        "overview": "",
+        "poster_path": "/gfA8qCggI61oLFun7ZjVpwCcuCw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ru",
+        "genre_ids": [
+          18,
+          35,
+          10751
+        ],
+        "popularity": 141.606,
+        "first_air_date": "2004-08-23",
+        "vote_average": 7.2,
+        "vote_count": 26,
+        "origin_country": [
+          "RU"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 2491,
+        "name": "Max and Paddy's Road to Nowhere",
+        "original_name": "Max and Paddy's Road to Nowhere",
+        "overview": "Max And Paddy's Road To Nowhere is the much-loved sequel to Peter Kay's critically-acclaimed comedy series, \"Phoenix Nights\". Written by and starring Peter Kay and Patrick McGuinness, this six-part comedy/drama series is the story of clueless Phoenix Club bouncers Max (Kay) and Paddy (McGuinness), as they escape clubland in their prized motor-home and take to the open highway.",
+        "poster_path": "/lenZvwj3gCXl4GDZlxTzWi5L4f1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 4.452,
+        "first_air_date": "2004-11-12",
+        "vote_average": 7.5,
+        "vote_count": 28,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/iKQm68NeKhrQMV7sbP2Ivmtm1Uk.jpg",
+        "id": 240932,
+        "name": "Wild Cards",
+        "original_name": "Wild Cards",
+        "overview": "Cesur bir dolandırıcı kadın ve rütbesi düşürülmüş bir dedektife kendilerini affettirme şansı verilir. Ancak şöyle bir sorun vardır: Suçları çözmek için birlikte çalışmanın bir yolunu bulmak zorundadırlar.",
+        "poster_path": "/lIhkV9LNwViVD2bylPTFQvDD21e.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35,
+          9648
+        ],
+        "popularity": 12.5053,
+        "first_air_date": "2024-01-10",
+        "vote_average": 7.0,
+        "vote_count": 33,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/sPY0kR6TGgePdqQF5npOSVnauPf.jpg",
+        "id": 84915,
+        "name": "Sydney to the Max",
+        "original_name": "Sydney to the Max",
+        "overview": "Outgoing 13-year-old Sydney is on the fast track to growing up, despite the goodhearted efforts of her protective father, Max. As Sydney attempts to spread her wings and make more decisions for herself, Max does everything he can to rein her in and keep her his little girl. But in so doing, his mother, Judy, is reminded of his own antics at Sydney's age, and the parallels -- illustrated by comical flashback sequences starring a young Max -- are both amusing and enlightening.",
+        "poster_path": "/hEK2rKRvbQL6p66TRjkmuKBxdRI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 10.0102,
+        "first_air_date": "2019-01-25",
+        "vote_average": 7.7,
+        "vote_count": 32,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sOBK7XRjdEmcgeMTMzX0A7ed0S.jpg",
+        "id": 75804,
+        "name": "Our Cartoon President",
+        "original_name": "Our Cartoon President",
+        "overview": "A hilarious look into the Trump presidency, animation style. Starring two-dimensional avatars of Donald Trump and his merry band of insiders and family members, this cutting-edge comedy presents the truish adventures of Trump, his confidants and bon vivants through the eyes of an imaginary documentary crew.",
+        "poster_path": "/pVmH4R0d34UHH3n9ODWbPC3ALn7.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 10.963,
+        "first_air_date": "2018-02-11",
+        "vote_average": 5.278,
+        "vote_count": 36,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4iSl4y1gWZwXmjyS3Ho8HqLWXAK.jpg",
+        "id": 10929,
+        "name": "The Wild Wild West",
+        "original_name": "The Wild Wild West",
+        "overview": "The Wild Wild West is an American television series. Developed at a time when the television western was losing ground to the spy genre, this show was conceived by its creator, Michael Garrison, as \"James Bond on horseback.\" Set during the administration of President Ulysses Grant, the series followed Secret Service agents James West and Artemus Gordon as they solved crimes, protected the President, and foiled the plans of megalomaniacal villains to take over all or part of the United States.\n\nThe show also featured a number of fantasy elements, such as the technologically advanced devices used by the agents and their adversaries. The combination of the Victorian era time-frame and the use of Verne-esque style technology have inspired some to give the show credit for the origins of the steam punk subculture.",
+        "poster_path": "/4LSZNCSxDodwCP8EsKRTgMDUKY4.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          35,
+          18,
+          37,
+          10765
+        ],
+        "popularity": 21.4455,
+        "first_air_date": "1965-09-17",
+        "vote_average": 7.534,
+        "vote_count": 74,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/5MjPWU0z8M2bijbJ0mnZfI8dhyd.jpg",
+        "id": 38242,
+        "name": "The Great White Tower",
+        "original_name": "白い巨塔",
+        "overview": "A striking drama of the amazingly gifted surgeon Zaizen Goro, caught up by his desire for power and fame, and his contemporary physician Satomi Shuji, who selflessly continues a quest to save human lives. The Great White Tower is the title of a representative novel by Toyoko Yamazaki that depicts the hidden side of the medical world and the dignity of human life, thus shocking and moving many readers, marking a milestone in medical dramas. A dense human drama develops starting with the first half, which depicts the tragicomic circumstances arising from human ambition in the selection of professors, and proceeding to the second half, which inquires into the dignity of human life through a medical court case involving a malpractice suit.",
+        "poster_path": "/ewWvv9eV3cRdBudojaF6FiqtqX2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 5.266,
+        "first_air_date": "2003-10-09",
+        "vote_average": 9.0,
+        "vote_count": 29,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/uD8PGTvVR2JsFxi9DEi740rwX8A.jpg",
+        "id": 1521,
+        "name": "Quark",
+        "original_name": "Quark",
+        "overview": "Quark is an American science fiction situation comedy starring Richard Benjamin broadcast on NBC. The pilot first aired on May 7, 1977, and the series followed as a mid-season replacement in February 1978. The series was cancelled in April 1978. Quark was created by Buck Henry, co-creator of the spy spoof Get Smart.\n\nThe show was set on a United Galaxy Sanitation Patrol Cruiser, an interstellar garbage scow operating out of United Galaxies Space Station Perma One in the year 2226. Adam Quark, the main character, works to clean up trash in space by collecting \"space baggies\" with his trusted and highly unusual crew.\n\nIn its short run, Quark satirized such science fiction as Star Wars, 2001: A Space Odyssey and Flash Gordon. Three of the episodes were direct satires of Star Trek episodes.\n\nThe series won one Emmy Award nomination, for costume designer Grady Hunt's work in the episode \"All the Emperor's Quasi-Norms, Part 2\".\n\nThe complete series was released on DVD on October 14, 2008.",
+        "poster_path": "/jzHndascxtvxE6FtAczjIymckS7.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10765
+        ],
+        "popularity": 2.0939,
+        "first_air_date": "1977-05-07",
+        "vote_average": 6.5,
+        "vote_count": 18,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ocGIgjb53YKuPoLykhxO2orKrlc.jpg",
+        "id": 11053,
+        "name": "Daniel Boone",
+        "original_name": "Daniel Boone",
+        "overview": "Daniel Boone is an American action-adventure television series starring Fess Parker as Daniel Boone that aired from September 24, 1964 to September 10, 1970 on NBC for 165 episodes, and was made by 20th Century Fox Television. Ed Ames co-starred as Mingo, Boone's Cherokee friend, for the first four seasons of the series. Albert Salmi portrayed Boone's companion Yadkin in season one only. Dallas McKennon portrayed innkeeper Cincinnatus. Country Western singer-actor Jimmy Dean was a featured actor as Josh Clements during the 1968–1970 seasons. Actor and former NFL football player Rosey Grier made regular appearances as Gabe Cooper in the 1969 to 1970 season. The show was broadcast \"in living color\" beginning in fall 1965, the second season, and was shot entirely in California and Kanab, Utah.",
+        "poster_path": "/lL4XDk4wRELIqciMtjcrD4TQ5m6.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          37
+        ],
+        "popularity": 22.4088,
+        "first_air_date": "1964-09-24",
+        "vote_average": 6.9,
+        "vote_count": 29,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/eFNxPIY3BuLua3RSKsFQ7iz6FII.jpg",
+        "id": 93286,
+        "name": "DNA",
+        "original_name": "DNA",
+        "overview": "Five years after his daughter disappeared, a mistake in the National Police's DNA register makes it possible for the officer Rolf to finally find out what happened to her.",
+        "poster_path": "/9nznsSr4DNObllAnI3Lqeg5S7Q6.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "da",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "popularity": 4.3827,
+        "first_air_date": "2019-09-02",
+        "vote_average": 6.9,
+        "vote_count": 36,
+        "origin_country": [
+          "DK"
+        ]
+      },
+      {
+        "backdrop_path": "/kVLLCtYpTx3rQI6YCAB52YAkeWL.jpg",
+        "id": 30794,
+        "name": "Paper Moon",
+        "original_name": "Paper Moon",
+        "overview": "Paper Moon is a short-lived situation comedy which aired on ABC during the fall of 1974, starring Christopher Connelly and Jodie Foster in the roles of Moses Pray and his presumed daughter, Addie. The series is based on the 1973 Peter Bogdanovich film of the same name starring Ryan O'Neal and real-life daughter Tatum O'Neal, which was based on Joe David Brown's 1971 novel entitled Addie Pray.",
+        "poster_path": "/i87ywDMKZMKh1gAWwTkmAKAjExG.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 3.7002,
+        "first_air_date": "1974-09-12",
+        "vote_average": 6.3,
+        "vote_count": 6,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 18,
+        "name": "W*A*L*T*E*R",
+        "original_name": "W*A*L*T*E*R",
+        "overview": "W*A*L*T*E*R is a pilot for a spin-off of M*A*S*H made in 1984 that was never picked up. It starred Gary Burghoff, who reprised his M*A*S*H character.\n\nThe show relates the adventures of Corporal Walter O'Reilly after he returns home from the Korean War. He is no longer calling himself \"Radar\" and has moved away from Iowa after he sent his mother to live with his aunt. Settling in St. Louis, Missouri, by the beginning of the series he has become a police officer, though his character is still as in the original series.",
+        "poster_path": "/fwSw4fl08MVl5w6Q9lVUGIFkZQ2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 0.969,
+        "first_air_date": "1984-07-17",
+        "vote_average": 5.9,
+        "vote_count": 7,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/h4Z2gdoQj0yLVvFsxAJsbIREGEA.jpg",
+        "id": 71705,
+        "name": "Broken",
+        "original_name": "Broken",
+        "overview": "Father Michael, a Catholic priest presiding over a Northern urban parish, who is modern, maverick, and reassuringly flawed, must be confidante, counselor and confessor to a congregation struggling to reconcile its beliefs with the challenges of daily life.",
+        "poster_path": "/xvwcRQiE7aanggwKgwj9T3x4pdt.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 1.6709,
+        "first_air_date": "2017-05-30",
+        "vote_average": 7.014,
+        "vote_count": 36,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 53465,
+        "name": "The Pentagon Wars",
+        "original_name": "The Pentagon Wars",
+        "overview": "The Pentagon Wars is a 1998 HBO film, directed by Richard Benjamin, based on a book of the same name by Colonel James G. Burton, USAF. Starring Kelsey Grammer, Cary Elwes and Richard Schiff, the film is a dark comedy describing the development of the M2 Bradley fighting vehicle.\n\nTagline: They aimed to build the ultimate fighting machine. They missed.",
+        "poster_path": null,
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [],
+        "popularity": 0.3739,
+        "first_air_date": "",
+        "vote_average": 7.0,
+        "vote_count": 2,
+        "origin_country": []
+      },
+      {
+        "backdrop_path": "/rpWfujZbfdMP7NIYqzVsGKKmLkz.jpg",
+        "id": 15925,
+        "name": "Włatcy móch",
+        "original_name": "Włatcy móch",
+        "overview": "Włatcy móch is a Polish adult animated comedy series, which had been on the Polish TV channel TV4 between November 2006 and December 2010. The title is a misspelled version of \"Władcy much\" meaning \"The Lords of Flies\" and derives from William Golding's novel Lord of the Flies. The plot of the story revolves around four 8-year-old boys in the second grade of elementary school: Anusiak, Konieczko, Maślana, and Czesio. The director and writer of the show is Bartek Kędzierski. He also dubs one of characters - Czesio. The show has a total of 127 regular and 2 special episodes. An entire movie that features the four boys has also been made. The Comedy won Świry 2008 award in category \"TV Series\".",
+        "poster_path": "/bsTDYatnt68YoPo9sXWI7KD3ns1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "pl",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 14.7786,
+        "first_air_date": "2006-11-14",
+        "vote_average": 7.6,
+        "vote_count": 9,
+        "origin_country": [
+          "PL"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

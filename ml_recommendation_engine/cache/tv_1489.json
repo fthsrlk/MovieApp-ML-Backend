@@ -1,0 +1,851 @@
+{
+  "adult": false,
+  "backdrop_path": "/uXhIpe03EaFffpRa7IoPPSnFptS.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2003-01-26",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 35,
+      "name": "Komedi"
+    }
+  ],
+  "homepage": "https://abc.com/shows/jimmy-kimmel-live",
+  "id": 1489,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-05-01",
+  "last_episode_to_air": {
+    "id": 6210452,
+    "name": "115. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-05-08",
+    "episode_number": 115,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 41,
+    "season_number": 23,
+    "show_id": 1489,
+    "still_path": null
+  },
+  "name": "Jimmy Kimmel Live!",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 2897,
+  "number_of_seasons": 23,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Jimmy Kimmel Live!",
+  "overview": "",
+  "popularity": 151.0523,
+  "poster_path": "/bGB6bEbG4qL22C1SFupkdAxYC9i.jpg",
+  "production_companies": [
+    {
+      "id": 134465,
+      "logo_path": "/3g8ZMj6UBVclAQX2USBnGaxGVam.png",
+      "name": "Kimmelot",
+      "origin_country": "US"
+    },
+    {
+      "id": 1558,
+      "logo_path": "/wwaKUcOENHix2jxLfFBfNkCtOEQ.png",
+      "name": "Touchstone Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 90040,
+      "logo_path": null,
+      "name": "Jackhole Industries",
+      "origin_country": "US"
+    },
+    {
+      "id": 19366,
+      "logo_path": "/vOH8dyQhLK01pg5fYkgiS31jlFm.png",
+      "name": "ABC Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 236613,
+      "logo_path": "/9DTggoZARHzATCRewGRs9XSNOWP.png",
+      "name": "ABC Signature",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2010-06-23",
+      "episode_count": 74,
+      "id": 4023,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/7jvbli6P3k6OQCouerw4R39Vx8o.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2003-01-26",
+      "episode_count": 182,
+      "id": 4019,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/7jvbli6P3k6OQCouerw4R39Vx8o.jpg",
+      "season_number": 1,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 7,
+      "id": 4018,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/7jvbli6P3k6OQCouerw4R39Vx8o.jpg",
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2005-01-10",
+      "episode_count": 178,
+      "id": 4024,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/7jvbli6P3k6OQCouerw4R39Vx8o.jpg",
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2006-01-03",
+      "episode_count": 189,
+      "id": 4025,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/7jvbli6P3k6OQCouerw4R39Vx8o.jpg",
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2007-01-02",
+      "episode_count": 154,
+      "id": 4021,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/7jvbli6P3k6OQCouerw4R39Vx8o.jpg",
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2008-01-02",
+      "episode_count": 172,
+      "id": 4020,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/7jvbli6P3k6OQCouerw4R39Vx8o.jpg",
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2009-01-06",
+      "episode_count": 171,
+      "id": 4022,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/7jvbli6P3k6OQCouerw4R39Vx8o.jpg",
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2010-01-05",
+      "episode_count": 176,
+      "id": 4026,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/7jvbli6P3k6OQCouerw4R39Vx8o.jpg",
+      "season_number": 8,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-01-03",
+      "episode_count": 168,
+      "id": 4028,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": "/4aZvdFFcYLkCyl0GjjKggPyXv9P.jpg",
+      "season_number": 9,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2012-01-03",
+      "episode_count": 166,
+      "id": 4027,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/4aZvdFFcYLkCyl0GjjKggPyXv9P.jpg",
+      "season_number": 10,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2013-01-08",
+      "episode_count": 171,
+      "id": 4029,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": "/m1TJzj3mLHbLMKBqj3CoCRYybLR.jpg",
+      "season_number": 11,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2014-01-06",
+      "episode_count": 169,
+      "id": 61503,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": "/4aZvdFFcYLkCyl0GjjKggPyXv9P.jpg",
+      "season_number": 12,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2015-01-05",
+      "episode_count": 151,
+      "id": 64341,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": "/4aZvdFFcYLkCyl0GjjKggPyXv9P.jpg",
+      "season_number": 13,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2016-01-04",
+      "episode_count": 14,
+      "id": 126236,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": "/4aZvdFFcYLkCyl0GjjKggPyXv9P.jpg",
+      "season_number": 14,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2017-01-09",
+      "episode_count": 14,
+      "id": 84884,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": "/4aZvdFFcYLkCyl0GjjKggPyXv9P.jpg",
+      "season_number": 15,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2018-01-18",
+      "episode_count": 9,
+      "id": 112145,
+      "name": "Sezon 16",
+      "overview": "",
+      "poster_path": "/4aZvdFFcYLkCyl0GjjKggPyXv9P.jpg",
+      "season_number": 16,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2019-01-07",
+      "episode_count": 171,
+      "id": 129159,
+      "name": "Sezon 17",
+      "overview": "",
+      "poster_path": "/so9HEHkIN0fsT0lNLcLGfm2UxkN.jpg",
+      "season_number": 17,
+      "vote_average": 6.0
+    },
+    {
+      "air_date": "2020-01-06",
+      "episode_count": 13,
+      "id": 158739,
+      "name": "Sezon 18",
+      "overview": "",
+      "poster_path": "/cIqC0dUUdrxwbkONnneykpBjyBi.jpg",
+      "season_number": 18,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2020-09-21",
+      "episode_count": 95,
+      "id": 189844,
+      "name": "Sezon 19",
+      "overview": "",
+      "poster_path": "/so9HEHkIN0fsT0lNLcLGfm2UxkN.jpg",
+      "season_number": 19,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2021-09-20",
+      "episode_count": 167,
+      "id": 210833,
+      "name": "Sezon 20",
+      "overview": "",
+      "poster_path": "/so9HEHkIN0fsT0lNLcLGfm2UxkN.jpg",
+      "season_number": 20,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2022-09-19",
+      "episode_count": 104,
+      "id": 309464,
+      "name": "Sezon 21",
+      "overview": "",
+      "poster_path": "/so9HEHkIN0fsT0lNLcLGfm2UxkN.jpg",
+      "season_number": 21,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2023-10-02",
+      "episode_count": 145,
+      "id": 358729,
+      "name": "Sezon 22",
+      "overview": "",
+      "poster_path": "/so9HEHkIN0fsT0lNLcLGfm2UxkN.jpg",
+      "season_number": 22,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "2024-09-03",
+      "episode_count": 115,
+      "id": 404206,
+      "name": "Sezon 23",
+      "overview": "",
+      "poster_path": "/bGB6bEbG4qL22C1SFupkdAxYC9i.jpg",
+      "season_number": 23,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 5.5,
+  "vote_count": 166,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78303,
+        "known_for_department": "Acting",
+        "name": "Jimmy Kimmel",
+        "original_name": "Jimmy Kimmel",
+        "popularity": 2.7583,
+        "profile_path": "/wVVvvIwDtCgArdp0fsmjcM2tYyr.jpg",
+        "character": "Self - Host",
+        "credit_id": "527bbf3419c29508d7040dfc",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4603862,
+        "known_for_department": "Art",
+        "name": "Heidi Miller",
+        "original_name": "Heidi Miller",
+        "popularity": 0.5754,
+        "profile_path": null,
+        "credit_id": "66ddf3087ec73e907e49975f",
+        "department": "Art",
+        "job": "Set Designer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "celebrity",
+        "id": 6562
+      },
+      {
+        "name": "late night",
+        "id": 156202
+      },
+      {
+        "name": "late-night show",
+        "id": 242216
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/lCjsx47getocXMUTPOUgN6sh9pa.jpg",
+        "id": 18851,
+        "name": "Bang Goes the Theory",
+        "original_name": "Bang Goes the Theory",
+        "overview": "Dallas Campbell, Liz Bonnin, Jem Stansfield and Dr. Yan Wong take on the scientific world by devising their own ingenious ways of explaining cutting-edge developments in technology.",
+        "poster_path": "/o2o9IlTiEQqOE4lPFqpot3ARrqw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          99
+        ],
+        "popularity": 11.973,
+        "first_air_date": "2009-07-27",
+        "vote_average": 7.8,
+        "vote_count": 5,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/zzG3qWbwtwkgEocx99mSIcoUJSU.jpg",
+        "id": 766,
+        "name": "This Morning",
+        "original_name": "This Morning",
+        "overview": "This Morning features a variety of news, as well as show business, fashion, beauty, lifestyle, home and garden, food, tech, live phone-ins, and competitions.",
+        "poster_path": "/3h4Ys4vzaD59YsD7IIv2f4ZS3rg.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767,
+          10763
+        ],
+        "popularity": 4.1241,
+        "first_air_date": "1988-10-03",
+        "vote_average": 5.238,
+        "vote_count": 21,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/9ERhB2NEcwpOaWJeE4q64wPSBSV.jpg",
+        "id": 2396,
+        "name": "Punk'd",
+        "original_name": "Punk'd",
+        "overview": "What happens when the biggest stars in the world get too high on the Hollywood hog? When their bank accounts start swelling bigger than their heads? Master prankster Ashton Kutcher is there to punk 'em down to earth.",
+        "poster_path": "/sqcaFHnnJU1nIbUikN3cpm9Mjn9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10764
+        ],
+        "popularity": 17.9903,
+        "first_air_date": "2003-03-17",
+        "vote_average": 5.038,
+        "vote_count": 91,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vgfM2beyPyOpairO54Jb72IihMA.jpg",
+        "id": 556,
+        "name": "Good Morning America: Weekend Edition",
+        "original_name": "Good Morning America",
+        "overview": "Good Morning America is a daily American television show on the ABC television network. The program features news, interviews, weather forecasts, special-interest stories, and segments such as \"Pop News\" and \"Play of the Day\". It is produced by ABC News and broadcasts from the Times Square Studios in New York City.",
+        "poster_path": "/oxLO2ROvzS6oGNFaweV745wynP8.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10763,
+          10767
+        ],
+        "popularity": 8.1834,
+        "first_air_date": "1975-01-06",
+        "vote_average": 4.5,
+        "vote_count": 22,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/unzZzmBD8bfXR7kdmGcjW0ixgQ0.jpg",
+        "id": 17535,
+        "name": "The Tonight Show with Conan O'Brien",
+        "original_name": "The Tonight Show with Conan O'Brien",
+        "overview": "",
+        "poster_path": "/hkDDxwhBKqrziSVHZknZFomTslq.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767,
+          35
+        ],
+        "popularity": 21.0947,
+        "first_air_date": "2009-06-01",
+        "vote_average": 7.038,
+        "vote_count": 78,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/upD2G9Z7W07w47c7B8ZqLqbTDc5.jpg",
+        "id": 1900,
+        "name": "LIVE with Kelly and Mark",
+        "original_name": "LIVE with Kelly and Mark",
+        "overview": "A morning talk show with A-list celebrity guests, top-notch performances and one-of-a-kind segments that are unrivaled on daytime television, plus spontaneous, hilarious and unpredictable talk.",
+        "poster_path": "/hBkyypWN3EcOzkozatiCm5VeaG.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 183.2841,
+        "first_air_date": "1988-09-05",
+        "vote_average": 5.6,
+        "vote_count": 44,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/nAY6ZoWlRzzyvYSfWGmg3MdnFme.jpg",
+        "id": 64978,
+        "name": "Whose Line Is It Anyway?",
+        "original_name": "Whose Line Is It Anyway?",
+        "overview": "Comedian Aisha Tyler hosts this improv comedy show where the actors on the show - Wayne Brady, Colin Mochrie, Ryan Stiles along with a special guest each episode -must put their comedic skills to the test through a series of spontaneous improv games, prompted only by random ideas supplied by the studio audience.",
+        "poster_path": "/v8prqphh93EaZQD3tRXCGmN68iG.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764,
+          35
+        ],
+        "popularity": 40.023,
+        "first_air_date": "2013-07-16",
+        "vote_average": 7.7,
+        "vote_count": 89,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/iEg2LHsFV3vC6LywkBAL3c1n9PP.jpg",
+        "id": 61818,
+        "name": "Late Night with Seth Meyers",
+        "original_name": "Late Night with Seth Meyers",
+        "overview": "Seth Meyers, who is \"Saturday Night Live’s\" longest serving anchor on the show’s wildly popular \"Weekend Update,\" takes over as host of NBC’s \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+        "poster_path": "/rw0QaegwgKbRoB2CZe2lfewltT9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767,
+          35
+        ],
+        "popularity": 489.7386,
+        "first_air_date": "2014-02-25",
+        "vote_average": 5.317,
+        "vote_count": 104,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/aRYZLopz1Csh86mKMXjY4W7Ed3K.jpg",
+        "id": 71739,
+        "name": "Ghosted",
+        "original_name": "Ghosted",
+        "overview": "Herşeyden şüphe duyan bir adam, Los Angeles'ta açıklanamayan olaylar hakkında paranormal bir inançla çalışmak zorunda kalır.",
+        "poster_path": "/3sH6dEC1m7Ar43BeZU0NVl20gpV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 5.4956,
+        "first_air_date": "2017-10-01",
+        "vote_average": 6.362,
+        "vote_count": 116,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/m0bV3qBiJBBlpFaaKjwHo13MVjm.jpg",
+        "id": 14981,
+        "name": "The Late Late Show with Craig Ferguson",
+        "original_name": "The Late Late Show with Craig Ferguson",
+        "overview": "The Late Late Show with Craig Ferguson is an American late-night talk show hosted by Scottish American comedian Craig Ferguson, who is the third regular host of the Late Late Show franchise. It follows Late Show with David Letterman in the CBS late-night lineup, airing weekdays in the US at 12:37 a.m. It is taped in front of a live studio audience from Monday to Friday at CBS Television City in Los Angeles, California, directly above the Bob Barker Studio. It is produced by David Letterman's production company Worldwide Pants Incorporated and CBS Television Studios.\n\nSince becoming host on January 3, 2005, after Craig Kilborn and Tom Snyder, Ferguson has achieved the highest ratings since the show's inception in 1995. While the majority of the episodes focus on comedy, Ferguson has also addressed difficult subject matter, such as the deaths of his parents, and undertaken serious interviews, such as one with Desmond Tutu, which earned the show a 2009 Peabody Award.",
+        "poster_path": "/gGC7zSDgG0FY0MbM1pjfhTCWQBI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 513.9352,
+        "first_air_date": "2005-01-03",
+        "vote_average": 6.8,
+        "vote_count": 101,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/rewalTto9U3qOysTv54HAwpcSIv.jpg",
+        "id": 61854,
+        "name": "Nicky, Ricky, Dicky & Dawn",
+        "original_name": "Nicky, Ricky, Dicky & Dawn",
+        "overview": "The story of a 10-year-old girl Dawn Haley whose sibling rivalry with her three brothers is heightened by the fact that they are quadruplets.",
+        "poster_path": "/nBkA2uXAaySBmlrinn5KroFZn94.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          10762,
+          35
+        ],
+        "popularity": 20.8334,
+        "first_air_date": "2014-09-13",
+        "vote_average": 7.0,
+        "vote_count": 94,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/tZ2kKliPcBVEKQOTYbndFdIKIB8.jpg",
+        "id": 2187,
+        "name": "Reno 911!",
+        "original_name": "Reno 911!",
+        "overview": "This partially unscripted comedy brings viewers into the squad car as incompetent officers swing into action, answering 911 calls about everything from speeding violations and prostitution to staking out a drug den. Within each episode, viewers catch a \"fly on the wall\" glimpse of the cops' often politically incorrect opinions, ranging from their personal feelings to professional critiques of their colleagues.",
+        "poster_path": "/phkCW1Hdoijl5i15H7KnnnBhaNL.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 41.1169,
+        "first_air_date": "2003-07-23",
+        "vote_average": 7.177,
+        "vote_count": 158,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qP6w5T2aMTTkIW5qFqziWhgYlPu.jpg",
+        "id": 1922,
+        "name": "All in the Family",
+        "original_name": "All in the Family",
+        "overview": "Archie Bunker, a working class bigot, constantly squabbles with his family over the important issues of the day.",
+        "poster_path": "/s2Y9QWyuyjRP78DZsatknEjn0iN.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 46.5039,
+        "first_air_date": "1971-01-12",
+        "vote_average": 7.863,
+        "vote_count": 164,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cs4wxElH1XPgRLFq1FOtIFpeKqz.jpg",
+        "id": 4419,
+        "name": "Real Time with Bill Maher",
+        "original_name": "Real Time with Bill Maher",
+        "overview": "Each week Bill Maher surrounds himself with a panel of guests which include politicians, actors, comedians, musicians and the like to discuss what's going on in the world.",
+        "poster_path": "/pbpoLLp4kvnYVfnEGiEhagpJuVZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 316.8466,
+        "first_air_date": "2003-02-21",
+        "vote_average": 6.0,
+        "vote_count": 213,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dGvW61JwuqwtShk849PHZflOAX.jpg",
+        "id": 3934,
+        "name": "Mickey Farenin Kulüp Evi",
+        "original_name": "Mickey Mouse Clubhouse",
+        "overview": "Mickey ve arkadaşları Minnie, Donald, Pluto, Daisy, Goofy, Pete, Clarabelle ve daha fazlası eğlenceli ve eğitici maceralara atılıyor.",
+        "poster_path": "/gHtEhlAZHxMawOiPq7JoKwkmETQ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10762,
+          10751,
+          16,
+          35
+        ],
+        "popularity": 50.9787,
+        "first_air_date": "2006-05-05",
+        "vote_average": 6.8,
+        "vote_count": 354,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/Ad92YVpv9gjpb1oqGYgbaTRANwI.jpg",
+        "id": 34408,
+        "name": "Mischievous Kiss",
+        "original_name": "장난스런 키스",
+        "overview": "A clumsy high-school girl - Oh Ha-ni - is at the bottom of her class, and she has had a crush on a popular genius, Baek Seung-Jo, ever since she first laid eyes on him.",
+        "poster_path": "/7VIAQ9nc29od35NytFiEHSlTlkZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 5.5667,
+        "first_air_date": "2010-09-01",
+        "vote_average": 7.764,
+        "vote_count": 415,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/7Rc1rI5djLtjuy8iSvLCQE6ZjnX.jpg",
+        "id": 2022,
+        "name": "Batman",
+        "original_name": "The Batman",
+        "overview": "Batman karakterinin animasyon dizisi.\n\nBatman veya Yarasa Adam ilk defa 1939 un Mayıs ayında Detective Comics'in 27. sayısında çizilen bir çizgi roman süper kahramanıdır. Çizer Bob Kane ve yazar Bill Finger tarafından yaratılmıştır.",
+        "poster_path": "/3w7koeOR2x71XYMJDGpygxYtScI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10765,
+          10759,
+          10762
+        ],
+        "popularity": 19.5285,
+        "first_air_date": "2004-09-11",
+        "vote_average": 7.98,
+        "vote_count": 473,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1orqm4lN8VtYGlxZ1g12ip6iwmG.jpg",
+        "id": 1417,
+        "name": "Glee",
+        "original_name": "Glee",
+        "overview": "Dizi, bir lisede geçiyor. Will Schuester, lise çağlarında koroda şarkı söylemiş ve büyük bir ödül kazanmış, şu anda da mezun olduğu okulda çalışan genç bir öğretmendir. Zamanında büyük işler başaran bu koro şimdi tam bir enkaz halinde olduğundan Schuester, bu koroya el atmaya karar verir ve onları eğitmeye başlar. Okulun bu kaybedenler takımı, Will Schuester sayesinde yavaş yavaş içinde ki yeteneği ortaya çıkarıp kendilerinin bile beklemediği bir şekilde popüler olmaya başlayacaktır.",
+        "poster_path": "/62T2vsZYTje3KhdCsiLR1K1RFJW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 35.4143,
+        "first_air_date": "2009-05-19",
+        "vote_average": 6.8,
+        "vote_count": 855,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/yes70ElIny8ULL4jqQq4H7iSgRC.jpg",
+        "id": 35935,
+        "name": "Berserk",
+        "original_name": "剣風伝奇ベルセルク",
+        "overview": "Guts, ağaca asılı ölü bir bedenden doğmuş; tesadüfen bir grup savaşçı tarafından kurtarılmıştır. Küçüklüğünden beri boyundan büyük kılıçlarla beraber olduğu grupla savaştan savaşa sürüklenen Guts'ın yolu, günün birinde Band of Hawks(şahinler Topluluğu) adlı oldukça yetenekli bir savaşçı grubuyla kesişir. Lider Griffith, Guts'ın dövüş kabiliyetinden memnun kalmıştır ve kazananın isteğinin kabul edileceği bir düellodan sonra galip gelerek, Guts'ı grubuna dahil eder. Bir çok savaşta ünlerini artıran grup, Griffith'in sinsi planları ile Şovalyelik mertebesine kadar yükselir. Ancak Grifitth, bundan fazlasını istemektedir ve Band of Hawks için yıkım kaçınılmaz olur. Yaşanan gizemli olaylar Guts'ın hayatını sonuna dek etkileyecek; onu sürekli karanlık güçlerle mücadele eden bir kader savaşçısı haline getirecektir.",
+        "poster_path": "/zreH0OvbIy9djnV7LOq84UUqTJV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          10759,
+          10765,
+          16
+        ],
+        "popularity": 13.2481,
+        "first_air_date": "1997-10-08",
+        "vote_average": 8.5,
+        "vote_count": 665,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/aCbOj4wc6vQUUVNKppssj2PYUy0.jpg",
+        "id": 96580,
+        "name": "Resident Alien",
+        "original_name": "Resident Alien",
+        "overview": "Dark Hose’un aynı adlı çizgi roman serisinden uyarlanan “Resident Alien”da dünyaya düşen bir uzaylı, gizli görevini tamamlayabilmek için kasaba doktorunun yerine geçer.",
+        "poster_path": "/5van3ktOTqWr5lcixh5aR8NlqqW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765
+        ],
+        "popularity": 22.1894,
+        "first_air_date": "2021-01-27",
+        "vote_average": 7.815,
+        "vote_count": 809,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

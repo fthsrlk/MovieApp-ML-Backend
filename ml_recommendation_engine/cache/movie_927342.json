@@ -1,0 +1,1203 @@
+{
+  "adult": false,
+  "backdrop_path": "/7cNE2qydew1c8fqnlhWjkE3DHc2.jpg",
+  "belongs_to_collection": null,
+  "budget": 21000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Aksiyon"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 12,
+      "name": "Macera"
+    },
+    {
+      "id": 10752,
+      "name": "Savaş"
+    }
+  ],
+  "homepage": "",
+  "id": 927342,
+  "imdb_id": "tt27118357",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "ta",
+  "original_title": "அமரன்",
+  "overview": "",
+  "popularity": 757.91,
+  "poster_path": "/eCB06m1KUGilEOlIzb40nkQhVY0.jpg",
+  "production_companies": [
+    {
+      "id": 7202,
+      "logo_path": "/tanmRcGlEgtAZhdcU7kMGZvYFbr.png",
+      "name": "Raajkamal Films International",
+      "origin_country": "IN"
+    },
+    {
+      "id": 63520,
+      "logo_path": "/ytQNtv7i4wtkuLyguqRLC0FX8GL.png",
+      "name": "Sony Pictures International Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2024-10-31",
+  "revenue": 0,
+  "runtime": 169,
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "தமிழ்"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "அமரன்",
+  "video": false,
+  "vote_average": 7.4,
+  "vote_count": 179,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 587982,
+        "known_for_department": "Acting",
+        "name": "Sivakarthikeyan",
+        "original_name": "Sivakarthikeyan",
+        "popularity": 9.847,
+        "profile_path": "/9CWvjeawj9rYRFasyrNjVsqhR48.jpg",
+        "cast_id": 1,
+        "character": "Major Mukund Varadarajan",
+        "credit_id": "61e2dc8690b87e0042c459d1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1473119,
+        "known_for_department": "Acting",
+        "name": "Sai Pallavi",
+        "original_name": "Sai Pallavi",
+        "popularity": 11.104,
+        "profile_path": "/vn28J0CYDNrsXSiA7XiCTNTV1m.jpg",
+        "cast_id": 7,
+        "character": "Indhu Rebecca Varghese",
+        "credit_id": "61f631c1d7cd0600a51907aa",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86212,
+        "known_for_department": "Acting",
+        "name": "Rahul Bose",
+        "original_name": "Rahul Bose",
+        "popularity": 3.765,
+        "profile_path": "/6T0xhsganOB8SI48HCGd99XKj9l.jpg",
+        "cast_id": 31,
+        "character": "Colonel Amit Singh Dabas",
+        "credit_id": "671932c8e833d92ef05fbaee",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1295875,
+        "known_for_department": "Acting",
+        "name": "Bhuvan Arora",
+        "original_name": "Bhuvan Arora",
+        "popularity": 4.544,
+        "profile_path": "/AtEfX9ta8LZTWh7yZ4dVc2wpIRO.jpg",
+        "cast_id": 30,
+        "character": "Vikram Singh",
+        "credit_id": "671932be4be15469e70d65f4",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1353425,
+        "known_for_department": "Acting",
+        "name": "Lallu Prasath",
+        "original_name": "Lallu Prasath",
+        "popularity": 3.817,
+        "profile_path": "/f6TVtddrbG1Qk1brFASrpPehpQh.jpg",
+        "cast_id": 10,
+        "character": "Ravi Shankar",
+        "credit_id": "6483180299259c01392a822c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3398014,
+        "known_for_department": "Acting",
+        "name": "Shyam Mohan",
+        "original_name": "Shyam Mohan",
+        "popularity": 3.786,
+        "profile_path": "/wqUndf8mfVUxKtus68hrh7dlBhX.jpg",
+        "cast_id": 16,
+        "character": "Indhu's brother",
+        "credit_id": "65cefaa66d9fe80186cefc11",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4486281,
+        "known_for_department": "Acting",
+        "name": "Mir Salman",
+        "original_name": "Mir Salman",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Saifudeen K",
+        "credit_id": "65a8238a11386c0122e632e0",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 931521,
+        "known_for_department": "Directing",
+        "name": "Shyamaprasad",
+        "original_name": "Shyamaprasad",
+        "popularity": 1.114,
+        "profile_path": "/7XmS8tF5OGt7y9YdpyySIWBECkH.jpg",
+        "cast_id": 29,
+        "character": "R. Varadarajan",
+        "credit_id": "671932b06e4210780f789d74",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3188093,
+        "known_for_department": "Acting",
+        "name": "Geetha Kailasam",
+        "original_name": "Geetha Kailasam",
+        "popularity": 2.848,
+        "profile_path": "/8hOXtSmjgIVEq2LhSJAxNirTN95.jpg",
+        "cast_id": 32,
+        "character": "Geetha Varadarajan",
+        "credit_id": "671932d02685cb6563c087d1",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2330873,
+        "known_for_department": "Acting",
+        "name": "Gaurav Venkatesh",
+        "original_name": "Gaurav Venkatesh",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Sepoy Venkanna",
+        "credit_id": "671f66284542e371fe0b0e52",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2660840,
+        "known_for_department": "Acting",
+        "name": "Shreekumar",
+        "original_name": "Shreekumar",
+        "popularity": 0.001,
+        "profile_path": "/rgpQi9g4h4EzQQv7fXKhnEGWLq5.jpg",
+        "cast_id": 36,
+        "character": "Michael",
+        "credit_id": "671f664d5be9e8759da7ba93",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5027119,
+        "known_for_department": "Acting",
+        "name": "Umair Lateef",
+        "original_name": "Umair Lateef",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Waheed",
+        "credit_id": "671f6661769107d77b4842e2",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5038169,
+        "known_for_department": "Acting",
+        "name": "Abhinav Raj",
+        "original_name": "Abhinav Raj",
+        "popularity": 0.001,
+        "profile_path": "/hi1jEjmyaHLFURS950wWG83iUjx.jpg",
+        "cast_id": 40,
+        "character": "Major Srinath",
+        "credit_id": "672747e0761979f005e2a114",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3790096,
+        "known_for_department": "Acting",
+        "name": "Vaibhav Murugesan",
+        "original_name": "Vaibhav Murugesan",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Vinod",
+        "credit_id": "6784c43a78cfcd77ed4edd4b",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5176125,
+        "known_for_department": "Acting",
+        "name": "Prayas Mann",
+        "original_name": "Prayas Mann",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 43,
+        "character": "Joginder Singh",
+        "credit_id": "6784c445ee84fa4def7b8cb1",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5176126,
+        "known_for_department": "Acting",
+        "name": "Hanun Bawra",
+        "original_name": "Hanun Bawra",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "Abbas Nangroo (Terrorist)",
+        "credit_id": "6784c45678cfcd77ed4edd64",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2463153,
+        "known_for_department": "Acting",
+        "name": "Anbu Thasan",
+        "original_name": "Anbu Thasan",
+        "popularity": 2.702,
+        "profile_path": "/ycX5zV4CVOoSMnM3wkoOndZHaP7.jpg",
+        "cast_id": 46,
+        "character": "Sepoy",
+        "credit_id": "679b8241c35721885a345f0e",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5213544,
+        "known_for_department": "Acting",
+        "name": "Ajaey Naga Raaman",
+        "original_name": "Ajaey Naga Raaman",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 47,
+        "character": "Rajesh Shukla",
+        "credit_id": "679b825c819ed2eab0345568",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5213546,
+        "known_for_department": "Acting",
+        "name": "Paul T Baby",
+        "original_name": "Paul T Baby",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 48,
+        "character": "Andrews",
+        "credit_id": "679b8284819ed2eab034557f",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5213547,
+        "known_for_department": "Acting",
+        "name": "Sugamya Shankar",
+        "original_name": "Sugamya Shankar",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 49,
+        "character": "Nithya (Mukund's Sister)",
+        "credit_id": "679b82ac2643d7649dfbdae8",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5213537,
+        "known_for_department": "Acting",
+        "name": "Rohan Surya Kanuma Reddy",
+        "original_name": "Rohan Surya Kanuma Reddy",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 50,
+        "character": "Rifleman Narasimha Rao",
+        "credit_id": "679b82c52643d7649dfbdb01",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4327232,
+        "known_for_department": "Acting",
+        "name": "Shrysh Zutshi",
+        "original_name": "Shrysh Zutshi",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 51,
+        "character": "Atlaf Baba (Terrorist)",
+        "credit_id": "679b8303125798ad4bbd83ba",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2062625,
+        "known_for_department": "Acting",
+        "name": "Vikas Bangar",
+        "original_name": "Vikas Bangar",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 52,
+        "character": "Jyoti Sharma",
+        "credit_id": "679b8324125798ad4bbd83c5",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4218360,
+        "known_for_department": "Acting",
+        "name": "Rohman Shawl",
+        "original_name": "Rohman Shawl",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 53,
+        "character": "Asif Wani (Terrorist)",
+        "credit_id": "679b832eb23629e7f8fbd9ef",
+        "order": 23
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2992426,
+        "known_for_department": "Camera",
+        "name": "C. H. Sai",
+        "original_name": "C. H. Sai",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "6500b300ffc9de0eded44659",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1439810,
+        "known_for_department": "Art",
+        "name": "Rajeevan",
+        "original_name": "Rajeevan",
+        "popularity": 0.112,
+        "profile_path": null,
+        "credit_id": "6500b30e3ff2df0100d3c21c",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2268241,
+        "known_for_department": "Editing",
+        "name": "R. Kalaivanan",
+        "original_name": "R. Kalaivanan",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "6500b31c1bf26600c5d5ff7a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1670825,
+        "known_for_department": "Writing",
+        "name": "Rajkumar Periasamy",
+        "original_name": "Rajkumar Periasamy",
+        "popularity": 0.148,
+        "profile_path": null,
+        "credit_id": "61e2dcbacb30840098e0369f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1670825,
+        "known_for_department": "Writing",
+        "name": "Rajkumar Periasamy",
+        "original_name": "Rajkumar Periasamy",
+        "popularity": 0.148,
+        "profile_path": null,
+        "credit_id": "61e2dd37e0ec5100657fbe62",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 93193,
+        "known_for_department": "Acting",
+        "name": "Kamal Haasan",
+        "original_name": "Kamal Haasan",
+        "popularity": 7.238,
+        "profile_path": "/17zscZgz4wOlGDd3Gziw4YbI3G.jpg",
+        "credit_id": "61e2dd48bf0f63009a1a99f1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3299515,
+        "known_for_department": "Production",
+        "name": "R. Mahendran",
+        "original_name": "R. Mahendran",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "61e3dbad0cd32a001d39ce50",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1464562,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sameera Saneesh",
+        "original_name": "Sameera Saneesh",
+        "popularity": 0.67,
+        "profile_path": "/9uTT431FzCWvDyi2ragC2WSZUYx.jpg",
+        "credit_id": "65cf4892c9054f0164c410d3",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1590579,
+        "known_for_department": "Costume & Make-Up",
+        "name": "V. Sai",
+        "original_name": "V. Sai",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "65cf489e6d1bb2017b4cbb89",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4539449,
+        "known_for_department": "Costume & Make-Up",
+        "name": "U K Sasikumar",
+        "original_name": "U K Sasikumar",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "65cf48d58efe73017b76377f",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4539452,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Altaf Assu Mammoo",
+        "original_name": "Altaf Assu Mammoo",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "65cf4900873f00014d0cf024",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1488225,
+        "known_for_department": "Crew",
+        "name": "Stefan Richter",
+        "original_name": "Stefan Richter",
+        "popularity": 0.878,
+        "profile_path": null,
+        "credit_id": "65cf490e8efe7300e575aab7",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1643581,
+        "known_for_department": "Production",
+        "name": "Kabilan Chellaiah",
+        "original_name": "Kabilan Chellaiah",
+        "popularity": 1.531,
+        "profile_path": null,
+        "credit_id": "65cf491e66469a017c0a2cfa",
+        "department": "Production",
+        "job": "Publicist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1643578,
+        "known_for_department": "Sound",
+        "name": "Sachin Sudhakaran",
+        "original_name": "Sachin Sudhakaran",
+        "popularity": 0.855,
+        "profile_path": null,
+        "credit_id": "65cf492960c751017b698505",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1643577,
+        "known_for_department": "Sound",
+        "name": "Hari Haran",
+        "original_name": "Hari Haran",
+        "popularity": 0.743,
+        "profile_path": null,
+        "credit_id": "65cf493135db45014a186c60",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3299535,
+        "known_for_department": "Production",
+        "name": "M. Senthil",
+        "original_name": "M. Senthil",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "65cf4942c8113d0180db0017",
+        "department": "Crew",
+        "job": "Production Controller"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3299505,
+        "known_for_department": "Production",
+        "name": "S. Disney",
+        "original_name": "S. Disney",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "65cf4951fdf8b700c966a4cd",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1666868,
+        "known_for_department": "Sound",
+        "name": "Kannan Ganpat",
+        "original_name": "Kannan Ganpat",
+        "popularity": 0.621,
+        "profile_path": null,
+        "credit_id": "65cf495dfdf8b7018667a14c",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1671019,
+        "known_for_department": "Camera",
+        "name": "D. Narendran",
+        "original_name": "D. Narendran",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "65cf4968873f00018a0d7098",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584950,
+        "known_for_department": "Sound",
+        "name": "G. V. Prakash Kumar",
+        "original_name": "G. V. Prakash Kumar",
+        "popularity": 10.071,
+        "profile_path": "/ArX3l6CdNo0sGI8b6PFYveR9Azm.jpg",
+        "credit_id": "64566891903c5200fe309fa6",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1959058,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Amritha Ram",
+        "original_name": "Amritha Ram",
+        "popularity": 0.02,
+        "profile_path": "/uAnMryzml7dH9yIqtF7wevFd8ET.jpg",
+        "credit_id": "645668ec60620a011e2f3583",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5027120,
+        "known_for_department": "Writing",
+        "name": "Shiv Aroor",
+        "original_name": "Shiv Aroor",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "671f667a1ea33928297db6cb",
+        "department": "Writing",
+        "job": "Book"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4864825,
+        "known_for_department": "Acting",
+        "name": "Rahul Singh",
+        "original_name": "Rahul Singh",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "671f668b1ea33928297db6d5",
+        "department": "Writing",
+        "job": "Book"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5210916,
+        "known_for_department": "Writing",
+        "name": "Jayashree Mathimaran",
+        "original_name": "Jayashree Mathimaran",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "679a1059bd75caacdfc0cf9c",
+        "department": "Writing",
+        "job": "Lyricist"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 2803,
+        "name": "affectation"
+      },
+      {
+        "id": 9672,
+        "name": "based on true story"
+      },
+      {
+        "id": 163165,
+        "name": "martyr"
+      },
+      {
+        "id": 191819,
+        "name": "indian army"
+      },
+      {
+        "id": 208630,
+        "name": "counterterrorism"
+      },
+      {
+        "id": 254167,
+        "name": "loving"
+      },
+      {
+        "id": 257783,
+        "name": "2010s"
+      },
+      {
+        "id": 292592,
+        "name": "indian history"
+      },
+      {
+        "id": 325761,
+        "name": "admiring"
+      },
+      {
+        "id": 325824,
+        "name": "hopeful"
+      },
+      {
+        "id": 328926,
+        "name": "based on real person"
+      },
+      {
+        "id": 340924,
+        "name": "ashoka chakra"
+      },
+      {
+        "id": 340925,
+        "name": "indian military"
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+        "id": 939243,
+        "title": "Kirpi Sonic 3",
+        "original_title": "Sonic the Hedgehog 3",
+        "overview": "Süpersonik hızlarda koşabilen mavi bir kirpi olan Sonic'in maceralarını konu alan bu seride, dostları Knuckles ve Tails ile birlikte, daha önce karşılaştıkları hiçbir şeye benzemeyen gizemli ve güçlü bir düşman olan Shadow'a karşı mücadele ediyor. Shadow, sahip olduğu benzersiz yeteneklerle Sonic ve arkadaşlarını zorluyor. Bu tehlikeli düşmanı durdurmak ve gezegeni korumak için Sonic ve ekibi, beklenmedik ittifaklar kurmak zorunda kalıyor.",
+        "poster_path": "/xo04W0XBJRRERjATgmDm1QsJUTP.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          878,
+          35,
+          10751
+        ],
+        "popularity": 1013.822,
+        "release_date": "2024-12-19",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 2079
+      },
+      {
+        "backdrop_path": "/v9Du2HC3hlknAvGlWhquRbeifwW.jpg",
+        "id": 539972,
+        "title": "Avcı Kraven",
+        "original_title": "Kraven the Hunter",
+        "overview": "Avcı Kraven, Marvel'ın en ikonik kötü adamlarından birinin nasıl ve neden ortaya çıktığına dair farklı bir hikâye. Örümcek-Adam ile olan nam salmış kan davasından önce geçen filmin başrolünde Aaron Taylor-Johnson yer alıyor.",
+        "poster_path": "/pWI2qJG6PkS9wX601QfihkkZsPi.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          53
+        ],
+        "popularity": 497.919,
+        "release_date": "2024-12-11",
+        "video": false,
+        "vote_average": 6.675,
+        "vote_count": 1362
+      },
+      {
+        "backdrop_path": "/qfAfE5auxsuxhxPpnETRAyTP5ff.jpg",
+        "id": 822119,
+        "title": "Kaptan Amerika: Cesur Yeni Dünya",
+        "original_title": "Captain America: Brave New World",
+        "overview": "Kaptan Amerika: Cesur Yeni Dünya, Kaptan Amerika'nın maceralarını konu ediyor. Amerika Birleşik Devletleri'nin yeni Başkanı Thaddeus Ross ile tanıştıktan kısa bir süre sonra Kaptan Amerika olarak da bilinen Sam Wilson, kendisini devasa bir uluslararası olayın tam ortasında bulur. Operasyonun gerçek dehası tüm dünyayı ateşe vermeden önce Sam Wilson zamana karşı amansız bir savaşa girişir.",
+        "poster_path": "/vobieeFFffYbXjv0rQnQ7uyPQBQ.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          53,
+          878
+        ],
+        "popularity": 858.521,
+        "release_date": "2025-02-12",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 879
+      },
+      {
+        "backdrop_path": "/u7AZ5CdT2af8buRjmYCPXNyJssd.jpg",
+        "id": 1160956,
+        "title": "Panda Plan",
+        "original_title": "熊猫计划",
+        "overview": "Dünya çapında sansasyon yaratan tuhaf bir pandayı konu alıyor. Orta Doğu'dan bir zengin, bu pandayı kendi malikanesinde istemeye karar verir ve pandayı kaçırıp malikanesine getirmeleri için paralı askerler tutar. Tesadüf eseri, pandanın koruyucusu... Jackie Chan olur. Jackie, dövüş sanatlarındaki yeteneklerini kullanarak düşmanları alt etmek ve hayvanı kurtarmak zorundadır.",
+        "poster_path": "/xVS9XiO9upp2SnWx6KpBYb79hLR.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "zh",
+        "genre_ids": [
+          28,
+          35
+        ],
+        "popularity": 559.623,
+        "release_date": "2024-10-01",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 147
+      },
+      {
+        "backdrop_path": "/b3AeMIsXPm6wvGp9E7mGmRZ6528.jpg",
+        "id": 1093966,
+        "title": "Vettaiyan",
+        "original_title": "வேட்டையன்",
+        "overview": "A sought-after Supercop gets caught in a series of unexpected events when he encounters a suspect who is accused of being involved in a murder case.",
+        "poster_path": "/1q0dAC3OJZVKQcV2dG5sGvdUGqN.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "ta",
+        "genre_ids": [
+          28,
+          80,
+          18
+        ],
+        "popularity": 10.081,
+        "release_date": "2024-10-10",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 18
+      },
+      {
+        "backdrop_path": "/tLnalmc50W0MEOtgExpEeXU2KnA.jpg",
+        "id": 71446,
+        "title": "Lord, All Men Can't Be Dogs",
+        "original_title": "Lord, All Men Can't Be Dogs",
+        "overview": "Lord, All Men Can't Be Dogs is a riveting story of the lives of two people, Lisa and Tim Johnson, whose struggles are closely tied with the four spirits that reside in their home. It's a story of temptation, greed and finally, deliverance, mixed with just the right amount of humor! This show will keep you on the edge of your seat, saying, \"Lord, All Men Can't be Dogs!\"",
+        "poster_path": "/ue3kXcR09MNxnK95PPIGtHGS0wn.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10402
+        ],
+        "popularity": 2.006,
+        "release_date": "2011-06-13",
+        "video": false,
+        "vote_average": 8.438,
+        "vote_count": 8
+      },
+      {
+        "backdrop_path": "/ecz0o5V0GhmbjVSWzTJ1neEigQO.jpg",
+        "id": 1353436,
+        "title": "KA",
+        "original_title": "క",
+        "overview": "Set in 1970s Abhinaya Vasudev, an orphaned and happy-go-lucky postman, treats the Krishnagiri village populace as his extended family. When several women missing and Vasudev’s loved one is nearly abducted, he is determined to find answers.",
+        "poster_path": "/hnFd7WYGkeEUJ8BWl49fEzZ4FGI.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "te",
+        "genre_ids": [
+          28,
+          53,
+          80
+        ],
+        "popularity": 1.983,
+        "release_date": "2024-10-31",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 3
+      },
+      {
+        "backdrop_path": "/wIcBlkrxccDUaE8BjnAcH3Gni9P.jpg",
+        "id": 1130143,
+        "title": "Mem Famous",
+        "original_title": "మేమ్ Famous",
+        "overview": "After a shattering event that leaves three reckless lazing youngster friends with no hope and mounting debts, the trio must finally pull up their socks and do something worthwhile despite their incompetence.",
+        "poster_path": "/nyD8twFBUkkPuqzJBt8EHOh5VNr.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "te",
+        "genre_ids": [
+          35,
+          10749
+        ],
+        "popularity": 0.761,
+        "release_date": "2023-05-26",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 4
+      },
+      {
+        "backdrop_path": null,
+        "id": 524452,
+        "title": "NJPW Wrestle Kingdom IV",
+        "original_title": "NJPW Wrestle Kingdom IV",
+        "overview": "Wrestle Kingdom IV in Tokyo Dome was a professional wrestling pay-per-view (PPV) event produced by the New Japan Pro-Wrestling (NJPW) promotion, which took place at the Tokyo Dome in Tokyo, Japan on January 4, 2010. It was the 19th January 4 Tokyo Dome Show and the fourth held under the \"Wrestle Kingdom\" name. The event featured ten matches, five of which were contested for championships.",
+        "poster_path": "/mb3QG6UyPfbGnFnV7dCEDvtr1yo.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [],
+        "popularity": 1.179,
+        "release_date": "2010-01-04",
+        "video": true,
+        "vote_average": 8.0,
+        "vote_count": 1
+      },
+      {
+        "backdrop_path": "/aLhtnH4pKHnD02ZfBGm2djwlNBH.jpg",
+        "id": 426889,
+        "title": "Le Clitoris",
+        "original_title": "Le Clitoris",
+        "overview": "Women are lucky, they get to have the only organ in the human body dedicated exclusively for pleasure: the clitoris! In this humorous and instructive animated documentary, find out its unrecognized anatomy and its unknown herstory.",
+        "poster_path": "/p5i1yyQW6OpLfB59w7ZkX5lvBqD.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          16,
+          99
+        ],
+        "popularity": 680.476,
+        "release_date": "2016-06-18",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 35
+      },
+      {
+        "backdrop_path": "/qJUi08RHf2TVKNvvkhc07MJJiJt.jpg",
+        "id": 1397347,
+        "title": "Saturday Night's Main Event XXXVII",
+        "original_title": "Saturday Night's Main Event XXXVII",
+        "overview": "Undisputed WWE Champion Cody Rhodes will go head-to-head with Kevin Owens as Saturday Night's Main Event returns to NBC. Plus World Tag Team Champion Finn Bálor will face \"The Ring General\" Gunther for the World Heavyweight Title. The Women's World Championship will be on the line when Liv Morgan defends her title against IYO SKY.",
+        "poster_path": "/4wVEOOX8VEGWwEuuIWuN3XT1Avq.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28
+        ],
+        "popularity": 63.261,
+        "release_date": "2024-12-14",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 41
+      },
+      {
+        "backdrop_path": "/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
+        "id": 1241982,
+        "title": "Moana 2",
+        "original_title": "Moana 2",
+        "overview": "Moana ve Maui'yi üç yıl sonra alışılmadık denizcilerden oluşan bir ekiple birlikte geniş kapsamlı yeni bir yolculuk için yeniden bir araya getiriyor. Yol gösterici atalarından beklenmedik bir çağrı alan Moana, daha önce karşılaşmadığı bir macera için Okyanusya'nın uzak denizlerine, tehlikeli ve uzun süredir bilinmeyen sularına yolculuk etmek zorunda.",
+        "poster_path": "/3C9jcjZSwRVDk83VgBK7WU5qVQ8.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          12,
+          10751,
+          35
+        ],
+        "popularity": 1059.555,
+        "release_date": "2024-11-21",
+        "video": false,
+        "vote_average": 7.155,
+        "vote_count": 1777
+      },
+      {
+        "backdrop_path": null,
+        "id": 861396,
+        "title": "The F-Word",
+        "original_title": "Ф-слова",
+        "overview": "The video refers to the current protests in Belarus, political struggle and state violence through the discourse of fascism. The topic of fascism and victory over it has for a long time been central to the state ideology of Belarus.",
+        "poster_path": "/oRYyqHgDb2ZhlOoWYcBom2vnnDW.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "ru",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 1.938,
+        "release_date": "2021-08-10",
+        "video": false,
+        "vote_average": 6.566,
+        "vote_count": 38
+      },
+      {
+        "backdrop_path": "/kXPCUNo7ALN0S03AbmTY9Ln6Fbc.jpg",
+        "id": 1201734,
+        "title": "God of Pain",
+        "original_title": "God of Pain",
+        "overview": "A man wakes up in the middle of the street with no idea where he is or how he ended up there. Soon he is forced to confront the demons he is battling within before a gateway to the underworld unlocks the secret of Algea the God of Pain.",
+        "poster_path": "/dF0FAFCfILaor5RBqdNHq24OaIn.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          878,
+          53
+        ],
+        "popularity": 29.482,
+        "release_date": "2024-08-20",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 56
+      },
+      {
+        "backdrop_path": "/1w8kutrRucTd3wlYyu5QlUDMiG1.jpg",
+        "id": 762509,
+        "title": "Mufasa: Aslan Kral",
+        "original_title": "Mufasa: The Lion King",
+        "overview": "Mufasa, efsanesini Simba ve Nala'nın kızı aslan yavrusu Kiara'ya aktarması için Rafiki'den yardım istiyor. Geçmişe dönüşlerle anlatılan hikaye, Mufasa'yı kaybolmuş ve yalnız bir yetim yavru olarak tanıtıyor, ta ki kraliyet soyunun varisi Taka adında sempatik bir aslanla tanışana kadar. Şans eseri buluşma, kaderlerini arayan olağanüstü bir grup uyumsuzun yola koyulmasına neden oluyor. Bu grubun arasındaki bağ, tehditkar ve ölümcül bir düşmandan kaçmak için birlikte çalışmaları sonucu sınanıyor.",
+        "poster_path": "/9kNoxoZqpriNLh9OSECyBZc3DZW.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          10751,
+          16
+        ],
+        "popularity": 1086.525,
+        "release_date": "2024-12-18",
+        "video": false,
+        "vote_average": 7.47,
+        "vote_count": 1549
+      },
+      {
+        "backdrop_path": "/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
+        "id": 950396,
+        "title": "The Gorge",
+        "original_title": "The Gorge",
+        "overview": "Yüksek eğitimli iki ajan, gizemli bir vadinin iki tarafını korumak için gönderildikten sonra yakınlaşırlar. Vadideki kötülük ortaya çıktığında sağ kurtulmak için birlikte çalışmak zorundadırlar.",
+        "poster_path": "/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10749,
+          878,
+          53
+        ],
+        "popularity": 1623.512,
+        "release_date": "2025-02-13",
+        "video": false,
+        "vote_average": 7.77,
+        "vote_count": 1676
+      },
+      {
+        "backdrop_path": "/ybSA7fUbYHw8VeRiSJ7tgKJnYWZ.jpg",
+        "id": 1410082,
+        "title": "Keskin Nişancı: Son Direniş",
+        "original_title": "Sniper: The Last Stand",
+        "overview": "Ölümcül bir süper silahı piyasaya sürmeyi planlayan bir silah tüccarını durdurmak için görevlendirilen keskin nişancı Brandon Beckett ve Ajan Zero, Costa Verde'de seçkin bir asker grubuna liderlik eder. Acemi bir keskin nişancıyı da ekibe dahil eden Beckett, emir almaktan ziyade emir verme sorumluluğuyla yüzleşirken, azalan zaman ve cephane karşısında ekibiyle birlikte hayatta kalma mücadelesi verir.",
+        "poster_path": "/7O96D7Ea9qMYPozPcnDUy4clk6b.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          53
+        ],
+        "popularity": 280.309,
+        "release_date": "2025-01-21",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 115
+      },
+      {
+        "backdrop_path": "/AvLiHSrfLCfKL2wvhOY8wkOkpLp.jpg",
+        "id": 959098,
+        "title": "Autumn and the Black Jaguar",
+        "original_title": "Le Dernier Jaguar",
+        "overview": "Growing up in the Amazon rainforest gave Autumn the rarest of friendships – a lost jaguar cub she named Hope. When a tragic event forces her to leave Hope for New York City, she dreams of going back to the rainforest and her friend. That opportunity soon comes when Autumn decides to return to the Amazon to save her beloved jaguar from animal traffickers who threaten her childhood village.",
+        "poster_path": "/krLaIUZezfBDBSdQA2ChVTg9t3Z.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "fr",
+        "genre_ids": [
+          12,
+          10751
+        ],
+        "popularity": 31.916,
+        "release_date": "2024-02-01",
+        "video": false,
+        "vote_average": 6.621,
+        "vote_count": 140
+      },
+      {
+        "backdrop_path": "/3SOunz2Z0qcOVlrkYFj20HquziB.jpg",
+        "id": 1114894,
+        "title": "Star Trek: Section 31",
+        "original_title": "Star Trek: Section 31",
+        "overview": "Emperor Philippa Georgiou joins a secret division of Starfleet tasked with protecting the United Federation of Planets and faces the sins of her past.",
+        "poster_path": "/fQrr9hqQKpvMedz1gt0Kp8oG9rz.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          12,
+          28
+        ],
+        "popularity": 154.959,
+        "release_date": "2025-01-15",
+        "video": false,
+        "vote_average": 4.795,
+        "vote_count": 205
+      },
+      {
+        "backdrop_path": "/hfTyu2VPBqLRPo2DauW8q7bh9bm.jpg",
+        "id": 516729,
+        "title": "Ayı Paddington: Ormanda Macera",
+        "original_title": "Paddington in Peru",
+        "overview": "Paddington, şu anda Emekli Ayılar Evi'nde ikamet eden sevgili teyzesi Lucy'yi ziyaret etmek için Peru'ya seyahat eder. Brown Ailesi'nin de katılımıyla, bir gizem onları Amazon yağmur ormanları boyunca ve Peru'nun dağ zirvelerine doğru beklenmedik bir yolculuğa sürüklediğinde heyecan verici bir macera başlar.",
+        "poster_path": "/1ffZAucqfvQu36x1C49XfOdjuOG.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          12,
+          35
+        ],
+        "popularity": 246.364,
+        "release_date": "2024-11-08",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 192
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

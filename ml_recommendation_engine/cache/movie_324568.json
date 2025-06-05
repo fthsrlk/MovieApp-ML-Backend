@@ -1,0 +1,802 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animasyon"
+    },
+    {
+      "id": 35,
+      "name": "Komedi"
+    },
+    {
+      "id": 28,
+      "name": "Aksiyon"
+    }
+  ],
+  "homepage": "",
+  "id": 324568,
+  "imdb_id": "tt0422875",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "おいら女蛮",
+  "overview": "",
+  "popularity": 140.104,
+  "poster_path": "/rWEykM1thLhYee6mK25fGLXyO14.jpg",
+  "production_companies": [
+    {
+      "id": 71930,
+      "logo_path": null,
+      "name": "Studio Signal Club",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "1992-08-21",
+  "revenue": 0,
+  "runtime": 43,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "おいら女蛮",
+  "video": false,
+  "vote_average": 5.4,
+  "vote_count": 13,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68472,
+        "known_for_department": "Acting",
+        "name": "山口勝平",
+        "original_name": "山口勝平",
+        "popularity": 24.073,
+        "profile_path": "/mJyxKRZxLv9D7LH5KcNSkjSKYOB.jpg",
+        "cast_id": 12,
+        "character": "Suke Banji",
+        "credit_id": "5f4cdc17223a8b0035afe3ad",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67471,
+        "known_for_department": "Acting",
+        "name": "田中秀幸",
+        "original_name": "田中秀幸",
+        "popularity": 19.952,
+        "profile_path": "/1D1PmELZexM6aod77gbh9GwvvGG.jpg",
+        "cast_id": 13,
+        "character": "Bankaku Suke",
+        "credit_id": "5f4cdc4912aabc0034ab7a6a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1659636,
+        "known_for_department": "Acting",
+        "name": "及森玲子",
+        "original_name": "及森玲子",
+        "popularity": 1.303,
+        "profile_path": "/crdvjwiGBXlb3EPWX5xQZhhui2n.jpg",
+        "cast_id": 14,
+        "character": "Otoko Dan",
+        "credit_id": "5f4cdca412aabc0034ab7aee",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 81858,
+        "known_for_department": "Acting",
+        "name": "冬馬由美",
+        "original_name": "冬馬由美",
+        "popularity": 10.989,
+        "profile_path": "/4R0uvJ5d4deDQEEzRGgLzXlMuKm.jpg",
+        "cast_id": 15,
+        "character": "Suke Banchiyo",
+        "credit_id": "5f4cdcbfb2681f0032ddc8bb",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 549566,
+        "known_for_department": "Acting",
+        "name": "山田栄子",
+        "original_name": "山田栄子",
+        "popularity": 10.477,
+        "profile_path": "/uIESaPrL2AxOaYyfmh6krMVe813.jpg",
+        "cast_id": 16,
+        "character": "Eliza",
+        "credit_id": "5f4cdcd4eec4f30037d7e0fb",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1222060,
+        "known_for_department": "Acting",
+        "name": "堀内賢雄",
+        "original_name": "堀内賢雄",
+        "popularity": 14.819,
+        "profile_path": "/qIsrjSbtdhmmUdd3xvpDHNWRuJp.jpg",
+        "cast_id": 17,
+        "character": "Tochinta Tomoe",
+        "credit_id": "5f4cdcebb2681f0031df52da",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 122482,
+        "known_for_department": "Acting",
+        "name": "江森浩子",
+        "original_name": "江森浩子",
+        "popularity": 6.735,
+        "profile_path": "/igA6ftYG0lxckcsxH40cZ9y4zh2.jpg",
+        "cast_id": 18,
+        "character": "Tomoe's Mother",
+        "credit_id": "5f4cdd0d9ecf180036908814",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 57734,
+        "known_for_department": "Acting",
+        "name": "富沢美智恵",
+        "original_name": "富沢美智恵",
+        "popularity": 10.062,
+        "profile_path": "/42Au1FT7mGOghHcrlX8g44v6dTG.jpg",
+        "cast_id": 19,
+        "character": "Kanko",
+        "credit_id": "5f4cdd401684f7003673d72a",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 553282,
+        "known_for_department": "Acting",
+        "name": "松本保典",
+        "original_name": "松本保典",
+        "popularity": 11.052,
+        "profile_path": "/12vPpqoppN12i3Zk313dwQsUQYi.jpg",
+        "cast_id": 20,
+        "character": "Rentan",
+        "credit_id": "5f4cdd5741465c0037a2d777",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 235337,
+        "known_for_department": "Acting",
+        "name": "塩屋翼",
+        "original_name": "塩屋翼",
+        "popularity": 6.748,
+        "profile_path": "/zJCaOJWub2g8ZlXuH8vE9yaBVy1.jpg",
+        "cast_id": 21,
+        "character": "Yochien Fujimura",
+        "credit_id": "5f4cdd6d74507d0034ae4df9",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 550612,
+        "known_for_department": "Writing",
+        "name": "永井豪",
+        "original_name": "永井豪",
+        "popularity": 8.124,
+        "profile_path": "/4O0lqdSDEJOXCss0sYJDAZEbyZ4.jpg",
+        "credit_id": "54d9271d9251410a4b000316",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 553917,
+        "known_for_department": "Directing",
+        "name": "Yusaku Saotome",
+        "original_name": "Yusaku Saotome",
+        "popularity": 1.557,
+        "profile_path": null,
+        "credit_id": "569132a4c3a36802e400002f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 2041468,
+        "known_for_department": "Art",
+        "name": "中山益男",
+        "original_name": "中山益男",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "5af7700cc3a3682aa7001c31",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2495404,
+        "known_for_department": "Sound",
+        "name": "Teruyoshi Sudo",
+        "original_name": "Teruyoshi Sudo",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "5e0c0db6a84ff700133306e3",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1809544,
+        "known_for_department": "Sound",
+        "name": "Yoshihiro Kunimoto",
+        "original_name": "Yoshihiro Kunimoto",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "5f4cdad165e0a20032524fa2",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2761498,
+        "known_for_department": "Writing",
+        "name": "Fumio Nishikidera",
+        "original_name": "Fumio Nishikidera",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "5f4cdbb0eec4f30037d7df13",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2356505,
+        "known_for_department": "Writing",
+        "name": "Ryuji Kumano",
+        "original_name": "Ryuji Kumano",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "5f4cdaea1684f7003673d286",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1783224,
+        "known_for_department": "Production",
+        "name": "Masato Takami",
+        "original_name": "Masato Takami",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "5f4cdaf91684f7003575f128",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1344802,
+        "known_for_department": "Camera",
+        "name": "沖野雅英",
+        "original_name": "沖野雅英",
+        "popularity": 0.049,
+        "profile_path": null,
+        "credit_id": "5f4cdb3ab2681f0033e19af0",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2761499,
+        "known_for_department": "Sound",
+        "name": "Keisuke Tsuruta",
+        "original_name": "Keisuke Tsuruta",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "5f4cdbdf12aabc0032a6d3a1",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1449550,
+        "known_for_department": "Sound",
+        "name": "松浦典良",
+        "original_name": "松浦典良",
+        "popularity": 0.48,
+        "profile_path": null,
+        "credit_id": "5f4cdb5712aabc0034ab73d6",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1315202,
+        "known_for_department": "Editing",
+        "name": "関一彦",
+        "original_name": "関一彦",
+        "popularity": 0.979,
+        "profile_path": null,
+        "credit_id": "5f4cdbc5eec4f30035d26c27",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 12090,
+        "name": "cross dressing"
+      },
+      {
+        "id": 174523,
+        "name": "gender disguise"
+      },
+      {
+        "id": 210024,
+        "name": "anime"
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/dWkdmxIkH9y23s9v1PjQFhTGIwo.jpg",
+        "id": 1043905,
+        "title": "Dirty Angels",
+        "original_title": "Dirty Angels",
+        "overview": "During the United States' 2021 withdrawal from Afghanistan, a group of female soldiers posing as medical relief are sent back in to rescue a group of kidnapped teenagers caught between ISIS and the Taliban.",
+        "poster_path": "/3O3qSGmjRGc10hMwFul8WDxKE5t.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          18,
+          53,
+          10752
+        ],
+        "popularity": 187.695,
+        "release_date": "2024-12-11",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 209
+      },
+      {
+        "backdrop_path": "/isFQiBiBiz4Xyx22sTs6CR1scL3.jpg",
+        "id": 8845,
+        "title": "Kuşatma Altında",
+        "original_title": "Under Siege",
+        "overview": "Amerikan Donanması'nın en güçlü savaş gemilerinden Missouri'nin son yolculuğu için düzenlenen partide, eski bir CIA ajanı ve orduya ihanet eden bir subay, tüm gemiyi ve mürettebatı ele geçirir: Geminin aşçısı dışında. Kendisi eski bir deniz komandosu ve dövüş usatası olan Casey Ryback, gerilla taktikleriyle deniz korsanlarıyla savaşmaya başlar. Üçüncü Dünya Savaşı'nı çıkarmaya yetecek kadar çok silah donanımı olan geminin ve belki de dünyanın kaderi, artık Ryback'in ellerindedir.",
+        "poster_path": "/8URCw7VyPmaNbxwa4U1LNKPgtzM.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          53
+        ],
+        "popularity": 22.642,
+        "release_date": "1992-10-08",
+        "video": false,
+        "vote_average": 6.286,
+        "vote_count": 1564
+      },
+      {
+        "backdrop_path": "/wb83iFJGSK0n3x6iMEgVIVLRexg.jpg",
+        "id": 116236,
+        "title": "Crazy Desire",
+        "original_title": "La voglia matta",
+        "overview": "A middle-aged businessman meets a band of rowdy youths and is smitten by one, named Francesca.",
+        "poster_path": "/lXKfrdbwUQEId2O18a5O0FEaq2l.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "it",
+        "genre_ids": [
+          10749,
+          35,
+          18
+        ],
+        "popularity": 51.876,
+        "release_date": "1962-03-15",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 56
+      },
+      {
+        "backdrop_path": "/vW7lwVHkRePHzayZfoKOyYBeZqO.jpg",
+        "id": 1221404,
+        "title": "Crayon Shin-chan the Movie: Our Dinosaur Diary",
+        "original_title": "映画クレヨンしんちゃん オラたちの恐竜日記",
+        "overview": "Follow the friendship between the Nobara family's pet dog Shiro and a \"small dinosaur\". Their connection helps the growth of Shinnosuke and the Kusakabe Defense Squad.",
+        "poster_path": "/n7YcOeqPOmvQ2PUatn4UqV5YStj.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          12,
+          35,
+          10751
+        ],
+        "popularity": 86.023,
+        "release_date": "2024-08-09",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 20
+      },
+      {
+        "backdrop_path": "/nb3xI8XI3w4pMVZ38VijbsyBqP4.jpg",
+        "id": 872585,
+        "title": "Oppenheimer",
+        "original_title": "Oppenheimer",
+        "overview": "Amerikalı fizikçi Julius Robert Oppenheimer'ın hayatına odaklanılan filmde, Julius Robert Oppenheimer’ın, İkinci Dünya Savaşı sırasında atom bombasının geliştirilme sürecindeki rolü gözler önüne seriliyor.  Fizikçi Julius Robert Oppenheimer'a 2. Dünya Savaşı sırasında Manhattan Projesi'nin bilimsel liderliği verildiğinde, o ve eşi Kitty, Oppenheimer'ın çalışmasının sadece kendi hayatları üzerinde değil, tüm dünya üzerinde bu kadar etki edeceğini hayal edemezdi.  Ancak ölümcül icadının Hiroşima ve Nagazaki'de kullanılacak olması, Oppenheimer'ın kendisini projeden uzaklaştırmasına neden olur. Savaş sona ermek üzereyken, Lewis Strauss'un ortak kurduğu ABD Atom Enerjisi Ajansı'nın danışmanı olan Robert Oppenheimer, nükleer enerjinin uluslararası kontrolüne ve nükleer silahlanma yarışına karşı olduğunu savunur ve bu nedenle ABD tarafından hedef haline gelir.",
+        "poster_path": "/r4JdkyE7AMJA8xODOfCC20pWvtU.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          36
+        ],
+        "popularity": 105.618,
+        "release_date": "2023-07-19",
+        "video": false,
+        "vote_average": 8.071,
+        "vote_count": 9895
+      },
+      {
+        "backdrop_path": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+        "id": 238,
+        "title": "Baba",
+        "original_title": "The Godfather",
+        "overview": "Mario Puzo'nun çok satan kitabından Puzo ve yönetmen Francis Ford Coppola tarafından sinemaya uyarlanan eser, 40'lar ve 50'lerin Amerika'sında, bir İtalyan mafya ailesinin destansı öyküsünü konu alıyor. Corleone ailesi, Don Vito Corleone'nin başında olduğu, suça dayalı bir örgüt kurmuş olan İtalyan asıllı meşhur bir ailedir. Aile, New York'taki diğer dört aileyle birlikte New York'un yeraltı işlerini yönetmektedir. Ancak Corleone ailesini diğerlerinden ayıran özelliği, Don Corleone'nin cebinde bozuk para gibi taşıdığı politikacılar ve yargıçlardır. Politikacılar ve yargıçlarla olan bu yakın ilişkileri diğer ailelerin açamadığı kapıları açabilmesini sağlamaktadır.",
+        "poster_path": "/vseIVRdN4xasYwStQIi6SI7DcEu.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 134.96,
+        "release_date": "1972-03-14",
+        "video": false,
+        "vote_average": 8.689,
+        "vote_count": 21124
+      },
+      {
+        "backdrop_path": "/eZzNdjNDvaSoyywy9ICg2UmFwul.jpg",
+        "id": 974576,
+        "title": "Konsey",
+        "original_title": "Conclave",
+        "overview": "Kardinal Lawrence, yeni bir Papa seçerek dünyanın en gizli ve kadim olaylarından birine liderlik etmekle görevlendirilir. Katolik Kilisesi'nin dünyanın dört bir yanından en güçlü liderleri bir araya toplanıp Vatikan salonlarında bir araya kilitlendiğinde, Lawrence kendisini bir komplonun ortasında bulur ve Kilise'nin temellerini sarsabilecek bir sırrı keşfeder.",
+        "poster_path": "/u5iu2SRjXRpcu6gDkCXS1itguyk.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          53,
+          9648
+        ],
+        "popularity": 333.275,
+        "release_date": "2024-10-25",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 1541
+      },
+      {
+        "backdrop_path": "/rvtdN5XkWAfGX6xDuPL6yYS2seK.jpg",
+        "id": 414906,
+        "title": "The Batman",
+        "original_title": "The Batman",
+        "overview": "Suçluların kalplerine korku salarak sokaklarda Batman olarak iki yıldır sinsice dolaşmak, Bruce Wayne'i Gotham Şehri'nin karanlığının derinliklerine sürükler. Şehirdeki yozlaşmış memurlar ve tanınmış kişilerden oluşan ağın içinde sadece birkaç güvenilir müttefiki kalan bu yalnız infazcı, kendisini yoldaş vatandaşları arasında intikamın vücut bulmuş hâli olarak kabul ettirmiştir. Bir katil çeşitli sadist entrikalarla Gotham'ın seçkin sınıfını hedef alınca bazı gizemli ipuçları dünyanın en harika dedektifi Batman'i; Selina Kyle (namı diğer Kedi Kadın), Oswald Cobblepot (namıdiğer Penguen), Carmine Falcone ve Edward Nashton (namı diğer The Riddler) ile karşılaşacağı yeraltı dünyasında bir araştırmaya sürükler. Kanıtlar şahsileşmeye başladıkça ve failin planları gün yüzüne çıktıkça Batman artık yeni ilişkiler kurmalı, suçlunun maskesini indirmeli ve Gotham Şehri'ni uzun süredir yozlaştıran ve istismar eden güce karşı adaleti sağlamalıdır.",
+        "poster_path": "/3B19RaHTSpyNEcjWtsAPqgJsQ0h.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          9648,
+          53
+        ],
+        "popularity": 80.062,
+        "release_date": "2022-03-01",
+        "video": false,
+        "vote_average": 7.659,
+        "vote_count": 10686
+      },
+      {
+        "backdrop_path": "/bHeUgZKqduubnNl8GshjrpHS9lF.jpg",
+        "id": 558449,
+        "title": "Gladyatör II",
+        "original_title": "Gladiator II",
+        "overview": "Gladyatör Maximus Decimus Meridius’un ölümünden 15 yıl sonrasıdır. Kana susamış kalabalıklar yarı deli ikiz imparatorları zalimliğin yeni zirvelerine iterken Kolezyum’daki savaşlar çok daha ölümcül ve görkemli hâle gelmiştir. Roma İmparatorluğu sınırlarını genişleterek, yoluna çıkan her kültürü yağmalayarak ve hayatta kalanları ringde yaşamları için savaşmaya zorlayarak yeryüzündeki yürüyüşünü sürdürmektedir.",
+        "poster_path": "/dARTCpnHY0R0B28j5q5ynq7erua.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          18
+        ],
+        "popularity": 490.786,
+        "release_date": "2024-11-13",
+        "video": false,
+        "vote_average": 6.767,
+        "vote_count": 2952
+      },
+      {
+        "backdrop_path": "/ewUqXnwiRLhgmGhuksOdLgh49Ch.jpg",
+        "id": 696806,
+        "title": "The Adam Project",
+        "original_title": "The Adam Project",
+        "overview": "Zamanda yolculuk ederken kazara 2022 yılına zorunlu iniş yapan savaş pilotu Adam Reed, kendi 12 yaşındaki hâliyle iş birliği yaparak geleceği kurtarmaya çalışır.",
+        "poster_path": "/wFjboE0aFZNbVOF05fzrka9Fqyx.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          878
+        ],
+        "popularity": 21.39,
+        "release_date": "2022-03-11",
+        "video": false,
+        "vote_average": 7.025,
+        "vote_count": 4448
+      },
+      {
+        "backdrop_path": "/j9eOeLlTGoHoM8BNUJVNyWmIvCi.jpg",
+        "id": 1072790,
+        "title": "Senden Başka",
+        "original_title": "Anyone But You",
+        "overview": "Harika bir ilk randevunun ardından Bea ve Ben'in ateşli çekiciliği buz gibi bir hal alır; ta ki kendilerini Avustralya'daki bir düğünde beklenmedik bir şekilde yeniden bir araya gelene kadar. Böylece her iki olgun yetişkinin yapacağı şeyi yaparlar: bir çiftmiş gibi davranmak.  Peki birbirlerinden nefret etmelerine rağmen bu oyunu sürdürebilecekler midir?",
+        "poster_path": "/5qpzXjfU1WUBi773tU4lunCdCSz.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10749,
+          35
+        ],
+        "popularity": 65.63,
+        "release_date": "2023-12-21",
+        "video": false,
+        "vote_average": 6.894,
+        "vote_count": 2442
+      },
+      {
+        "backdrop_path": "/d5l2ITQvpgP0dcWCAG6PUvp8YZw.jpg",
+        "id": 965150,
+        "title": "Güneş Sonrası",
+        "original_title": "Aftersun",
+        "overview": "Daha kendi hayatını bir düzene oturtamamışken genç yaşta baba olması Calum'u altüst eder. Karısından ayrılır, işlerini tam olarak yoluna koyamaz, filmin ortalarında kızıyla yaptığı bir konuşmada da anlarız ki çok fazla para da kazanamamaktadır. Zaten kızı Sophie ile birlikte okullar açılmadan gittikleri yaz tatilini de oldukça ucuza getirmiştir. Bir baba-kız ve büyüme hikâyesi, anıların hüznü ve sevinciyle dolu, zamanın hızla geçişine dair sade, incelikli bir dram... Sophie, tam 20 yıl önce Fethiye'de bir tatil köyünde babasıyla geçirdiği tatilin unutulmaz anlarını geçmişe duyduğu melankoliyle anar. Babasını tanıdığını düşünse de yıllar sonra hatırladıklarıyla gerçekliğin arasında boşluklar kalır.",
+        "poster_path": "/cfW5wPV3cO01ObD6WeQ8fagImzt.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 30.792,
+        "release_date": "2022-10-21",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 1499
+      },
+      {
+        "backdrop_path": "/oZDRuGHhe5uY8wBqFJcJZT9kdvJ.jpg",
+        "id": 1086747,
+        "title": "Gözcüler",
+        "original_title": "The Watchers",
+        "overview": "Mina, İrlanda'nın batısındaki geniş ve el değmemiş bir ormanda arabası arıza yaptığı için mahsur kalır. Ormanın derinliklerinde bir sığınak keşfeden Mina, her gece gizemli yaratıklar tarafından izlenen ve takip edilen üç yabancıyla birlikte kapana kısılır ve bir çıkış yolu bulmaya çalışır.",
+        "poster_path": "/aSVgnz4NFVKgwQOcOnG39ZhbnVW.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          14,
+          27,
+          9648
+        ],
+        "popularity": 43.123,
+        "release_date": "2024-06-06",
+        "video": false,
+        "vote_average": 6.432,
+        "vote_count": 1193
+      },
+      {
+        "backdrop_path": "/kVd3a9YeLGkoeR50jGEXM6EqseS.jpg",
+        "id": 569094,
+        "title": "Örümcek-Adam: Örümcek-Evrenine Geçiş",
+        "original_title": "Spider-Man: Across the Spider-Verse",
+        "overview": "Spider-Man: Across the Spider-Verse, radyoaktif bir örümcek tarafından ısırılmasıyla bambaşka bir dünyaya adım atıp özel yeteneklerle donanan Miles Morales'in maceralarını konu ediyor.",
+        "poster_path": "/2k49onFB4SnbMWgczIhf1JWl6Tr.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          28,
+          12,
+          878
+        ],
+        "popularity": 108.225,
+        "release_date": "2023-05-31",
+        "video": false,
+        "vote_average": 8.3,
+        "vote_count": 7358
+      },
+      {
+        "backdrop_path": "/mbYTRO33LJAgpCMrIn9ibiWHbMH.jpg",
+        "id": 346698,
+        "title": "Barbie",
+        "original_title": "Barbie",
+        "overview": "Barbie, yaşadığı dünyanın koşullarına uymayan bir kadındır. Yaşadığı dünyanın \"mükemmel kadın\" imajına uzak olduğunu farkeden Barbie, yaşadığı fantastik dünyadan dışlanır ve kimsenin iletişim kurmak istemediği biri halini alır. Uyum sağlayabileceği bir dünya bulma umuduyla bizim yaşadığımız gerçek dünyaya bir yolculuğa çıkar. Bu yeni dünyada, onu kendi evinde dışlanmış kılan farklılıkları, onu özel kılan avantajlara dönüşür.",
+        "poster_path": "/o1BB6Cimho6R72QzJDwcwnCkp2a.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          12
+        ],
+        "popularity": 99.27,
+        "release_date": "2023-07-19",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 9622
+      },
+      {
+        "backdrop_path": "/by8z9Fe8y7p4jo2YlW2SZDnptyT.jpg",
+        "id": 533535,
+        "title": "Deadpool & Wolverine",
+        "original_title": "Deadpool & Wolverine",
+        "overview": "Wade Wilson’ın bir paralı asker olarak geçirdiği günler ve Deadpool kimliği artık geride kalmıştır. O şimdi sivil hayatta varlık göstermek için çabalar. Wade, yeni hayatına alışmaya çalışırken, büyük bir tehlike ile karşı karşıya kalınca harekete geçmek zorunda kalır. Ancak bu tehlike ile tek başına baş etmesi zordur. Bu yüzden Wade en az kendisi kadar isteksiz olan Wolverine'i yardım etmesi için ikna etmeye çalışır.",
+        "poster_path": "/fVr2X3jnoeLuZ2v0L1O8MOdOiSz.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          35,
+          878
+        ],
+        "popularity": 267.281,
+        "release_date": "2024-07-24",
+        "video": false,
+        "vote_average": 7.618,
+        "vote_count": 6836
+      },
+      {
+        "backdrop_path": "/tC78Pck2YCsUAtEdZwuHYUFYtOj.jpg",
+        "id": 926393,
+        "title": "Adalet 3: Son",
+        "original_title": "The Equalizer 3",
+        "overview": "Her zaman ezilenlerin yanında olup adaleti aramakta teselli bulan Robert McCall bir hükümet suikastçısı olarak hayatından vazgeçtiğinden beri, geçmişte yaptığı korkunç şeyler yüzünden kendini affetmek için mücadele ediyor. McCall, Güney İtalya'da bir şekilde kendini evinde bulup, yeni arkadaşlarının yerel mafyaların kontrolü altında olduğunu fark eder. Olaylar ölümcül bir hal alırken McCall arkadaşlarının koruyucusu olup mafyayı alt etmesi gerektiğini biliyor.",
+        "poster_path": "/mgYfHIxJw4b4XSnRkGfKLDb7PUU.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          53,
+          80
+        ],
+        "popularity": 58.83,
+        "release_date": "2023-08-30",
+        "video": false,
+        "vote_average": 7.316,
+        "vote_count": 3171
+      },
+      {
+        "backdrop_path": "/8x9iKH8kWA0zdkgNdpAew7OstYe.jpg",
+        "id": 372058,
+        "title": "Senin Adın",
+        "original_title": "君の名は。",
+        "overview": "Mitsuha Miyamizu, kırsal kesimde, dağların etrafını sardığı bir kentte yaşamaktadır. Vali olan babası genellikte evde bulunmadığından evinde daha çok ilkokul öğrencisi kız kardeşi ve büyük annesiyle kalan Mitsuha her ne kadar dürüst bir kişiliğe sahip olsa da ailesinin Shinto tapınağına ait geleneklerden ve babasının seçim kampanyasında yer almasından hiç hoşlanmamaktadır. Kırsal kesimde yaşadığı için içten içe üzülmekte ve Tokyo’daki harikulade şehir hayatını arzulamaktadır. Taki Tachibana ise Tokyo’nun merkezinde yaşayan liseli bir gençtir. Arkadaşlarıyla zaman geçirmekten hoşlanan ve bir İtalyan restoranında yarı zamanlı çalışan Taki, mimariye ve güzel sanatlara ilgi duymaktadır. Günlerden bir gün rüyasında daha önce hiç gitmediği dağlar arasına kurulmuş bir şehirde yaşayan genç bir kız olduğunu görür. Mitsuha ise erkek olduğu bir rüya görecektir. Rüyalarının arkasındaki sır nedir?",
+        "poster_path": "/jkK6XdJqSCm7maDV8xgbE0JVNIP.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10749,
+          18
+        ],
+        "popularity": 70.724,
+        "release_date": "2016-08-26",
+        "video": false,
+        "vote_average": 8.487,
+        "vote_count": 11623
+      },
+      {
+        "backdrop_path": "/h7r6LZ32dgLwtwSW3CxoWIYD9pr.jpg",
+        "id": 426063,
+        "title": "Nosferatu",
+        "original_title": "Nosferatu",
+        "overview": "Bir genç kadın ile ona aşık olan vampir arasındaki takıntının hikâyesi. Güney Romanya’da vampir olduğuna inanılan bir adam mezardan çıkarılır ve cesedi ritüel olarak parçalanır. Zor ve çok içki içen bir adamdır. Öldükten sonra ailesi onun bir strigoi olarak geri döndüğünü ve geceleri kendilerine saldırdığını söyler. Gelini bu gece saldırılarından rahatsız olur ve hastalanır. Folklorik prosedüre göre ceset ortadan kaldırıldığında, vampir ziyaretleri de durur.",
+        "poster_path": "/oHmwlW121vqSPvD27sRTRco1Vz6.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          14,
+          27
+        ],
+        "popularity": 227.991,
+        "release_date": "2024-12-25",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 2300
+      },
+      {
+        "backdrop_path": "/xhet9FxP6VoRdlBSsfc9FhCsKSW.jpg",
+        "id": 1398,
+        "title": "İz Sürücü",
+        "original_title": "Сталкер",
+        "overview": "Bir nevi kıyamet sonrası gelecekte, isimsiz bir ülkedeyiz. Düşen dev bir meteor açıklanması güç olaylara sebep olmuştur. Yarattığı etki 'Bölge' adı verilen bir alanda etkili olmaktadır. Bu alanın ortasında yer alan bir odada insanlığın en derin tutkularını gerçek yapacağı söylenen bir güç vardır.  Dikenli teller ve askerlerle korunan Bölge'ye sadece zihinsel güçleri ve yeterli cesaretleri olan İz Sürücüler girebilmekte ve eşlik ettikleri insanları odadaki güçle yüzleşmeye götürmektedirler. Kahramanımız da böyle bir İz Sürücü'dür. Karısının itirazlarına rağmen bir bilim adamını ve bir de yazarı yanına alarak hayatının yolculuğuna çıkar.",
+        "poster_path": "/npvwT8SxBPNqX7MAE9yYMuGCZcB.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "ru",
+        "genre_ids": [
+          878,
+          18
+        ],
+        "popularity": 18.24,
+        "release_date": "1979-05-25",
+        "video": false,
+        "vote_average": 8.126,
+        "vote_count": 2228
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

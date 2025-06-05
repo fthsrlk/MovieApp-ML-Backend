@@ -1,0 +1,921 @@
+{
+  "adult": false,
+  "backdrop_path": "/7j4ug9B6JXVeh5HhQjjPScrdj4Z.jpg",
+  "created_by": [
+    {
+      "id": 1193190,
+      "credit_id": "591e2cb19251414ab1026495",
+      "name": "Aaron Rahsaan Thomas",
+      "original_name": "Aaron Rahsaan Thomas",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1216733,
+      "credit_id": "6469ef34a5046e0124682ce1",
+      "name": "Shawn Ryan",
+      "original_name": "Shawn Ryan",
+      "gender": 2,
+      "profile_path": "/49EdiYMjYg0FzTI10zPyubxIPk7.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2017-11-02",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Suç"
+    },
+    {
+      "id": 10759,
+      "name": "Aksiyon & Macera"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    }
+  ],
+  "homepage": "http://www.cbs.com/shows/swat/",
+  "id": 71790,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-05-02",
+  "last_episode_to_air": {
+    "id": 6179923,
+    "name": "20. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-05-09",
+    "episode_number": 20,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 8,
+    "show_id": 71790,
+    "still_path": "/zmyRF7zNqUod1sDVhxHyhqmBuD2.jpg"
+  },
+  "name": "S.W.A.T.",
+  "next_episode_to_air": {
+    "id": 6179926,
+    "name": "21. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-05-16",
+    "episode_number": 21,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 8,
+    "show_id": 71790,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 163,
+  "number_of_seasons": 8,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "S.W.A.T.",
+  "overview": "Memleketi Los Angeles'ta emniyet teşkilatında görevli bir çavuş, elit bir polis ekibine liderlik etmek ve kentte tırmanan ölümcül gerilimi yatıştırmakla görevlendirilir.",
+  "popularity": 120.5951,
+  "poster_path": "/1rTEcLsnOoKXfDdGlbg0RHDvoaE.jpg",
+  "production_companies": [
+    {
+      "id": 11073,
+      "logo_path": "/aCbASRcI1MI7DXjPbSW9Fcv9uGR.png",
+      "name": "Sony Pictures Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 1081,
+      "logo_path": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+      "name": "CBS Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 34530,
+      "logo_path": null,
+      "name": "Perfect Storm Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-11-02",
+      "episode_count": 22,
+      "id": 88501,
+      "name": "Sezon 1",
+      "overview": "Eski denizci Çavuş Daniel \"Hondo\" Harrelson oldukça özel bir görev için lider olarak seçilir. Los Angeles'ta gücüne güç katan ekibiyle birbirinden zorlu görevlere imza atar.",
+      "poster_path": "/oW61C2vQfAT33324CklzzuEdyxw.jpg",
+      "season_number": 1,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2018-09-27",
+      "episode_count": 23,
+      "id": 108338,
+      "name": "Sezon 2",
+      "overview": "Daniel Hondo Harrelson büyüdüğü toplulukta yüksek vasıflı bir birimin liderliğini yapmak üzere görevlendirilir. Güç ve hırsla hareket etmek yerine daima saygı ve güvene teşvik ederek ekibini motive eden Hondo, bu sezonda da vakadan vakaya koşuyor!",
+      "poster_path": "/5LkqvZwp0LXzpumpnFp5eMgaMGE.jpg",
+      "season_number": 2,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2019-10-02",
+      "episode_count": 21,
+      "id": 126169,
+      "name": "Sezon 3",
+      "overview": "Hondo ekibini güç ve saldırganlık yerine iletişim ve saygıya güvenmeye teşvik eder ancak bir kriz patlak verdiğinde ekibindeki arkadaşları taktik eğitimlerini test etmeye hazırdır.",
+      "poster_path": "/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg",
+      "season_number": 3,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2020-11-11",
+      "episode_count": 18,
+      "id": 165720,
+      "name": "Sezon 4",
+      "overview": "Daniel Hondo Harrelson ve birbirinden yetenekli ekibi Los Angeles sokaklarını daha güvenli bir hale getirmek için sıkı bir disiplinle çalışmaya devam ediyor.",
+      "poster_path": "/ushSkKB8aeLsyyW2c7S7CCmEmRA.jpg",
+      "season_number": 4,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "2021-10-01",
+      "episode_count": 22,
+      "id": 202002,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/7Bttz4hEspKlpU0Me57dkHNR3nf.jpg",
+      "season_number": 5,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2022-10-07",
+      "episode_count": 22,
+      "id": 298433,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/pWQOWeVWxKGFzQXuUx7qQ4xU8La.jpg",
+      "season_number": 6,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2024-02-16",
+      "episode_count": 13,
+      "id": 365562,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/1l7vsAIkqOzrqiPwjO27Cb5QdfJ.jpg",
+      "season_number": 7,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2024-10-18",
+      "episode_count": 22,
+      "id": 402120,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/1rTEcLsnOoKXfDdGlbg0RHDvoaE.jpg",
+      "season_number": 8,
+      "vote_average": 7.6
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Hizmet et • Koru • Birlik ol",
+  "type": "Scripted",
+  "vote_average": 8.094,
+  "vote_count": 1467,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50266,
+        "known_for_department": "Acting",
+        "name": "Shemar Moore",
+        "original_name": "Shemar Moore",
+        "popularity": 9.602,
+        "profile_path": "/aLDTjeQLU8TXsEwjWWoas5kXPTu.jpg",
+        "character": "Daniel 'Hondo' Harrelson",
+        "credit_id": "591e2df692514149f3027203",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 108889,
+        "known_for_department": "Acting",
+        "name": "Jay Harrington",
+        "original_name": "Jay Harrington",
+        "popularity": 8.8987,
+        "profile_path": "/gcp0SZGtu0OBNhMsMfPcEWPfV5J.jpg",
+        "character": "David 'Deacon' Kay",
+        "credit_id": "591e2e45c3a368799b026263",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1353288,
+        "known_for_department": "Acting",
+        "name": "David Lim",
+        "original_name": "David Lim",
+        "popularity": 1.4022,
+        "profile_path": "/5NrK9bMn893aku8hXeIDSqVj0mC.jpg",
+        "character": "Victor Tan",
+        "credit_id": "5984c23fc3a368756400b929",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117437,
+        "known_for_department": "Acting",
+        "name": "Patrick St. Esprit",
+        "original_name": "Patrick St. Esprit",
+        "popularity": 2.0415,
+        "profile_path": "/qdbkKWZqkObz0WFTLTSsq9wr5hw.jpg",
+        "character": "Robert 'Bob' Hicks",
+        "credit_id": "5b9f0dc5c3a36833af01349c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 963547,
+        "known_for_department": "Acting",
+        "name": "Anna Enger Ritch",
+        "original_name": "Anna Enger Ritch",
+        "popularity": 1.5749,
+        "profile_path": "/aj44r0OabDGGXkr78Lag6lJgeIO.jpg",
+        "character": "Zoe Powell",
+        "credit_id": "6610164fde11e5017c2b8e7a",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 997406,
+        "known_for_department": "Acting",
+        "name": "Niko Pepaj",
+        "original_name": "Niko Pepaj",
+        "popularity": 1.0979,
+        "profile_path": "/bu2fl5zSyrAjji3fn4hJGLbpFjA.jpg",
+        "character": "Miguel Alfaro",
+        "credit_id": "6610bb8cd768fe0162416362",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 209196,
+        "known_for_department": "Acting",
+        "name": "Annie Ilonzeh",
+        "original_name": "Annie Ilonzeh",
+        "popularity": 1.7456,
+        "profile_path": "/CTJr6V472oxa92GDCd3Eqh4jDd.jpg",
+        "character": "Devin Gamble",
+        "credit_id": "6713f0100cb6252f99086e90",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1193190,
+        "known_for_department": "Writing",
+        "name": "Aaron Rahsaan Thomas",
+        "original_name": "Aaron Rahsaan Thomas",
+        "popularity": 0.7501,
+        "profile_path": null,
+        "credit_id": "5f448d7d99d5c30034b93bbe",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1668158,
+        "known_for_department": "Production",
+        "name": "Nicolas Bradley",
+        "original_name": "Nicolas Bradley",
+        "popularity": 0.1047,
+        "profile_path": null,
+        "credit_id": "5f448d894772150032637227",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50266,
+        "known_for_department": "Acting",
+        "name": "Shemar Moore",
+        "original_name": "Shemar Moore",
+        "popularity": 9.602,
+        "profile_path": "/aLDTjeQLU8TXsEwjWWoas5kXPTu.jpg",
+        "credit_id": "5f448d90414291003652ff09",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15749,
+        "known_for_department": "Writing",
+        "name": "Robert Hamner",
+        "original_name": "Robert Hamner",
+        "popularity": 1.327,
+        "profile_path": null,
+        "credit_id": "6469e39a006b010126f64b4c",
+        "department": "Writing",
+        "job": "Original Series Creator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1193190,
+        "known_for_department": "Writing",
+        "name": "Aaron Rahsaan Thomas",
+        "original_name": "Aaron Rahsaan Thomas",
+        "popularity": 0.7501,
+        "profile_path": null,
+        "credit_id": "6469f7a4d1857201802d3757",
+        "department": "Production",
+        "job": "Executive Consultant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29707,
+        "known_for_department": "Sound",
+        "name": "Barry De Vorzon",
+        "original_name": "Barry De Vorzon",
+        "popularity": 1.0171,
+        "profile_path": "/x0cBT6lnOR3AX1Ky2SvmaRerNAq.jpg",
+        "credit_id": "6455e940daf57c013690f16f",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5150389,
+        "known_for_department": "Crew",
+        "name": "Glen Enzen",
+        "original_name": "Glen Enzen",
+        "popularity": 0.2915,
+        "profile_path": null,
+        "credit_id": "677346274111599e38129b4d",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "s.w.a.t.",
+        "id": 1470
+      },
+      {
+        "name": "elite unit",
+        "id": 8498
+      },
+      {
+        "name": "los angeles, california",
+        "id": 12670
+      },
+      {
+        "name": "reboot",
+        "id": 161184
+      },
+      {
+        "name": "lapd",
+        "id": 167377
+      },
+      {
+        "name": "police training",
+        "id": 177258
+      },
+      {
+        "name": "police sergeant",
+        "id": 188127
+      },
+      {
+        "name": "first responders",
+        "id": 221218
+      },
+      {
+        "name": "special response teams",
+        "id": 242610
+      },
+      {
+        "name": "tactical command unit",
+        "id": 246148
+      },
+      {
+        "name": "police procedural",
+        "id": 268067
+      },
+      {
+        "name": "based on tv series",
+        "id": 269769
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/ojyo33io8HGxNCRg21Z1o87YEZX.jpg",
+        "id": 71789,
+        "name": "SEAL Team",
+        "original_name": "SEAL Team",
+        "overview": "\"Başarısızlık\" ülkenin en seçkin ve özel operasyon güçleri Navy SEAL takımı için bir seçenek değildir. Bu aksiyon dolu yeni dizide, serin kanlı ve korkusuz savaşçılar kendilerini, imkansız olasılıklara karşı mücadele ederek, ülkenin en tehlikeli ve yüksek riskli görevleri içinde bulacaklar. Eve döndüklerinde ise farklı bir stresle karşı karşıyalar. Sırları saklamak, her an habersizce göreve çağırılmak ve çıktıkları her görevin son olabilme ihtimali kendileri ve aileleri üzerinde kaygı yaratıyor. Ancak dönüşü olmayan yeminleri ve vatanseverlik tutkuları herşeyden önce gelir.",
+        "poster_path": "/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10768
+        ],
+        "popularity": 66.1615,
+        "first_air_date": "2017-09-27",
+        "vote_average": 8.0,
+        "vote_count": 1546,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2m1Mu0xPj4SikiqkaolTRUcNtWH.jpg",
+        "id": 79744,
+        "name": "The Rookie",
+        "original_name": "The Rookie",
+        "overview": "Küçük bir kasabada yaşayan kırk yaşındaki John Nolan’ın en büyük hayali polis memuru olmaktır. Yaşadığı ölümcül kazanın ardından hayallerinin peşinden koşan John, yaşadığı kasabayı terk ederek Los Angeles’a gider. Los Angeles Polis Departmanı’nda göreve başlayan John, çalıştığı birimde orta yaş krizi de dahil birçok farklı sorunla boğuşmak zorunda kalır.",
+        "poster_path": "/bL1mwXDnH5fCxqc4S2n40hoVyoe.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          35
+        ],
+        "popularity": 225.5888,
+        "first_air_date": "2018-10-16",
+        "vote_average": 8.524,
+        "vote_count": 2419,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/adOjU80AEcr70IPTXe6ALLyXGxF.jpg",
+        "id": 80748,
+        "name": "FBI",
+        "original_name": "FBI",
+        "overview": "Teröre ve organize suçlara karşı ülke güvenliğini sağlamak için kendi hayatlarını hiçe sayan, birbirinden yetenekli FBI ajanları nefes kesen maceralarıyla karşınızda...",
+        "poster_path": "/bircXcCsvP2DUximyQUOn5p2s4.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          10759,
+          18
+        ],
+        "popularity": 57.1096,
+        "first_air_date": "2018-09-25",
+        "vote_average": 7.9,
+        "vote_count": 832,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/k1bsEXwwxSSRNH6mp5y7ys5oKCf.jpg",
+        "id": 89393,
+        "name": "9-1-1: Lone Star",
+        "original_name": "9-1-1: Lone Star",
+        "overview": "New York’ta itfaiye şefi olan Owen Stand, Teksas’ta yeni bir ekip kurması için görevlendirilir. Oğlu ile birlikte Teksas’a yerleşen Owen, bir yandan hayat kurtarmaya çalışırken diğer yandan kişisel problemleriyle uğraşacaktır. 9-1-1 dizisinin spin-off projesi olan dizi, oğlu ile birlikte Austin’e taşınan bir adamın hayatına odaklanıyor. İtfaiye görevlisi olan Owen Strand, oğlu ile birlikte yıllardır yaşadığı New York’tan ayrılarak Austin’e taşınır. Kendisine yeni bir hayat kurmaya çalışan Owen, yeni şehrinde bir yandan zor durumdaki insanlara yardım etmeye çalışırken bir yandan da özel hayatındaki sorunları çözmek için çabalar.",
+        "poster_path": "/BOTITv548LYGB4xRD3rHfbwkqm.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          80
+        ],
+        "popularity": 34.7206,
+        "first_air_date": "2020-01-19",
+        "vote_average": 8.053,
+        "vote_count": 1141,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/kl8hBoMohGjWzXVGN5sd6xMeLZT.jpg",
+        "id": 69889,
+        "name": "Imposters",
+        "original_name": "Imposters",
+        "overview": "Dizi, kadınların ve erkeklerin kendisine aşık olmasını sağlayan, onları evlilikle kandıran ve paralarını aldıktan sonra kılık değiştirerek ortadan kaybolan \"Maddie/Ava/Alice/Saffron\" (Inbar Lavi) adlı sahtekar bir kadını merkezine alıyor. Maddie, kurbanlarının polise gitmelerine engel olmak için tüm kirli bilgilerini kendine koz olarak toplar. Ancak, son kurbanları Ezra (Heaps) ve Richard (Young) bir sonraki avı olan Patrick'i (Bishop) oltaya getirmeye çalışırken onu takip ederler. Üç kurban bir araya gelir ve Maddie'yi yakalamak için bir takım oluştururlar.",
+        "poster_path": "/1nezOc66ykPbbUbZGlfjuJaJH2d.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35,
+          9648,
+          80
+        ],
+        "popularity": 6.4506,
+        "first_air_date": "2017-02-07",
+        "vote_average": 7.217,
+        "vote_count": 120,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/eSVvx8xys2NuFhl8fevXt41wX7v.jpg",
+        "id": 103302,
+        "name": "Clarice",
+        "original_name": "Clarice",
+        "overview": "Yıl 1993. \"Kuzuların Sessizliği\" olaylarından bir sene sonra. Clarice, Washington D.C.nin politik dünyasında seri katilleri ve sapıkları yakalamak için sahaya döner ve Clarice Starling'in anlatılmamış hikayesini açığa çıkarır.",
+        "poster_path": "/7OFxU0bBO0HDL4klXmM1ahJPbv8.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 4.9804,
+        "first_air_date": "2021-02-11",
+        "vote_average": 6.932,
+        "vote_count": 243,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zJUldDj1immG5ppySDNKElfDgci.jpg",
+        "id": 11129,
+        "name": "S.W.A.T.",
+        "original_name": "S.W.A.T.",
+        "overview": "S.W.A.T. is an American action/crime drama series about the adventures of a Special Weapons And Tactics team operating in an unidentified California city. A spin-off of The Rookies, the series aired on ABC from February 1975 to April 1976.\n\nLike The Rookies, S.W.A.T. was produced by Aaron Spelling and Leonard Goldberg.",
+        "poster_path": "/nqAwPI72AxzFxPevUO2LqM0OFFu.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "popularity": 8.3802,
+        "first_air_date": "1975-02-24",
+        "vote_average": 7.0,
+        "vote_count": 67,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/nU5nByGzsPTXm2w4WdMFtE6YU14.jpg",
+        "id": 75219,
+        "name": "9-1-1",
+        "original_name": "9-1-1",
+        "overview": "En korkutucu, şok edici ve kalp durdurucu durumlara sürüklenen polis memurlarının, sağlık görevlilerinin ve itfaiyecilerin yüksek basınçlı deneyimlerini keşfedin. Bu acil müdahale ekipleri, en savunmasız olanları kurtarmakla kendi hayatlarındaki sorunları çözme arasında denge kurmaya çalışmalıdır.",
+        "poster_path": "/9dNWZPjFWdKo5Avr5JEEzLShLMZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          10759
+        ],
+        "popularity": 76.5752,
+        "first_air_date": "2018-01-03",
+        "vote_average": 8.229,
+        "vote_count": 2603,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/xadC4VMl6UPRdBINAUgTBmYL7BF.jpg",
+        "id": 39276,
+        "name": "Unforgettable",
+        "original_name": "Unforgettable",
+        "overview": "Former Syracuse, New York, police detective Carrie Wells has hyperthymesia, a rare medical condition that gives her the ability to visually remember everything. She reluctantly joins the New York City Police Department's Queens homicide unit after her former boyfriend and partner asks for help with solving a case. The move allows her to try to find out the one thing she has been unable to remember, which is what happened the day her sister was murdered.",
+        "poster_path": "/6NsNh4qDhYiGp7SiHyk0Ec3Dns6.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 29.6725,
+        "first_air_date": "2011-09-20",
+        "vote_average": 7.171,
+        "vote_count": 315,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dAepkmD4vdfhS82r2OIqF1nwGR5.jpg",
+        "id": 17610,
+        "name": "NCIS: Los Angeles",
+        "original_name": "NCIS: Los Angeles",
+        "overview": "Özet ve Detaylar. Deniz Kuvvetleri Araştırma Servisi'nin Los Angeles'da bulunan birimi, ulusal güvenliği tehdit eden ve bir türlü yakalanamayan azılı suçluların peşindedir. G. Callen ve Sam Hanna'nın da aralarında bulunduğu özel ajanlar, suçluları yakalamaya çalışırken en son teknoloji ürünü cihazlardan yararlanır.",
+        "poster_path": "/TIIgcznwNfNr3KOZvxn26eKV99.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          80,
+          9648
+        ],
+        "popularity": 124.3654,
+        "first_air_date": "2009-09-22",
+        "vote_average": 7.534,
+        "vote_count": 1181,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cUh0d1ev6cEQ8KxCe3YQYa8AR50.jpg",
+        "id": 62650,
+        "name": "Chicago Med",
+        "original_name": "Chicago Med",
+        "overview": "Şehrin en patlayıcı hastanesinin ve onu bir arada tutan cesur doktor ekibinin günlük kaosunda duygusal bir heyecan yolculuğu. Acil servisin nabzını artıran pandeminin içinde ateşli ilişkiler kurarak, güncel olaylardan ilham alan benzersiz yeni vakaları ele alacaklar.",
+        "poster_path": "/8UXGfvjKzzkGepXZU43dgpK48oY.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 63.0221,
+        "first_air_date": "2015-11-17",
+        "vote_average": 8.305,
+        "vote_count": 1185,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1vwIV2zQ88Dx6PwY7ZFZyamhYhV.jpg",
+        "id": 76773,
+        "name": "Station 19",
+        "original_name": "Station 19",
+        "overview": "Bir grup itfaiyeci canlarını ve yüreklerini tehlikeye atar.",
+        "poster_path": "/3gs9wBsvv1GJ3EzLheh5yGuTQis.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759
+        ],
+        "popularity": 37.2402,
+        "first_air_date": "2018-03-22",
+        "vote_average": 8.217,
+        "vote_count": 1496,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/aP0V3qTB1iy3JW90EKVpLPNhMia.jpg",
+        "id": 122194,
+        "name": "CSI: Vegas",
+        "original_name": "CSI: Vegas",
+        "overview": "CSI: Vegas, Las Vegas'ta yepyeni bir sayfa açıyor. Suç laboratuarının mirası ve geleceği sorgulandığında, Maxine Roby (Paula Newsome) liderliğindeki yeni ve parlak bir araştırmacı ekibi, eski arkadaşları Gil Grissom (William Peterson) ve Sara Sidle'ın (Jorja Fox) yardımına başvururlar. Bu ekip, Günah Şehri'nde adaleti korumak, adalete hizmet etmek ve gerçeği ortaya çıkarmak için en iyi yaptıkları şeyi yapacak, yani kanıtları takip edecek ve bunu yaparken de en son adlî teknikleri kullanacaklardır.",
+        "poster_path": "/8DtOnaOQPiptM9umpV0Xntwv9t3.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 15.7636,
+        "first_air_date": "2021-10-06",
+        "vote_average": 7.796,
+        "vote_count": 294,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/3rdQ4cbley3iOIkruTwMKDUzsLj.jpg",
+        "id": 62816,
+        "name": "Quantico",
+        "original_name": "Quantico",
+        "overview": "FBI akademi yeni ajanlarını aramaktadır, Alex Parrish!ın adaylık başvurusunun kabul edilmesiyle hayatı değişecektir. Akademiye birçok öğrenci kabul edilmiştir ancak verilen görevlerdeki başarılarına göre elenerek sadece başarılı olanlar yeni ajanlar olacaktır ancak Amerika’ya yapılmış en büyük terörist saldırısının ardından tüm adaylar şüpheli konumuna gelecektir. Alex bu saldırıdan şans esiri kurtulmuş olsa da FBI gözünde en büyük şüpheli odur ya gerçeği ortaya çıkartacaktır yada bu saldırı onun üzerine atılacaktır.",
+        "poster_path": "/3ofY2mALEiE0QDyRlVOV3sDNMYC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 20.5629,
+        "first_air_date": "2015-09-27",
+        "vote_average": 6.523,
+        "vote_count": 679,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cFZYtCx54BmFXe4wExts2tPnPHh.jpg",
+        "id": 58841,
+        "name": "Chicago P.D.",
+        "original_name": "Chicago P.D.",
+        "overview": "Chicago Fire'ın uzantısı (Spin-off) olan ve NBC kanalı için çekilmiş bir Amerikan dizisidir. Chicago Polis Departmanı, iki farklı gruptan oluşur: Üniformalı polisler ve İstihbarat Birimi. İstihbarat Birimi, organize suçlar, uyuşturucu kaçakçılığı ve üst düzey cinayetlerle ilgilenirken, Üniformalı Polisler ise şehrin sokak suçlarıyla ve devriye gezmekle meşguldürler.",
+        "poster_path": "/2nHdAW7MUMuXMJO6ev0mFMhEq8P.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 103.0331,
+        "first_air_date": "2014-01-08",
+        "vote_average": 8.4,
+        "vote_count": 2460,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
+        "id": 4614,
+        "name": "NCIS",
+        "original_name": "NCIS",
+        "overview": "Deniz Kuvvetleri Kriminal Araştırma Servisi ya da kısa deyişle \"NCIS\". Bu nefes kesen aksiyon drama, deniz kuvvetlerine ilişkin suçları araştıran özel bir ekibin her daim şaşırtıcı serüvenlerine odaklanıyor. Bol dozda mizahla yoğrulmuş \"NCIS\"ın başrolünde '80'lerin unutulmaz dizilerinden \"Flamingo Yolu\"yla tanıyıp sevdiğimiz Mark Harmon var.\n\nRenkli kişiliklerden oluşan NCIS ekibinin lideri; eşsiz yeteneklere sahip, eski bir deniz topçu astsubayı olan Özel Ajan Leroy Jethro Gibbs. Gibbs'in altında çalışan Özel Ajan Anthony Dinozzo ise eski bir cinayet masası dedektifi. Sezgileri çok kuvvetli. Ekibin diğer üyeleri; yetenekli bir bilimadamı olan adli uzman Abby Sciuto ve bilgisayar dahisi NCIS Özel Ajanı Timoth McGee. Ekibin en büyük yardımcısı ise adli tıp doktoru Dr. Donald \"Ducky\" Mallard. Cinayet ve casusluktan, terörizme ve denizaltı hırsızlığına kadar bu özel ajanlar, deniz kuvvetleriyle bağlantılı her türlü suçu araştırmak için dünyayı dolaşıyor.",
+        "poster_path": "/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          10759
+        ],
+        "popularity": 166.3235,
+        "first_air_date": "2003-09-23",
+        "vote_average": 7.622,
+        "vote_count": 2352,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/p4GKINJxZoFbPEvX5NKIb4lzaL.jpg",
+        "id": 2458,
+        "name": "CSI: NY",
+        "original_name": "CSI: NY",
+        "overview": "Crime Scene Investigation (Olay Yeri İnceleme) efsanesinin son durağı CSI: NY, çözülmesi güç suç vakalarında araştırmayı yürüten ve son teknolojiler sayesinde en küçük bulguları bile derinlemesine inceleyerek olağanüstü sonuçlara ulaşan bir grup balistik uzmanının maceralarını ekrana taşıyor. Mac Taylor’ın şefliğini yaptığı, teknolojik araçları kuşanmış detektifler adaleti yerine getirmeye kararlı. Olay yeri inceleme detektiflerinin hiç uyumayan New York sokaklarında suçluların peşinden koşmaya ihtiyacı yok. Onlar delil peşinde... Kaçan suçlunun, arkasında bırakacağı bir iz onu içeri atmaları için yetip de artıyor bile. Mac Taylor’ın da dediği gibi: “New York’ta herkes yalan söyleyebilir; ama kanıtların yalan söylediği çok nadirdir.”",
+        "poster_path": "/4TGV4Bb3OPay4cHkQRlfwghv3vC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 66.1269,
+        "first_air_date": "2004-09-22",
+        "vote_average": 7.356,
+        "vote_count": 700,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/goDtZCB5pFIuuSfYDvApe6iXTID.jpg",
+        "id": 32692,
+        "name": "Blue Bloods",
+        "original_name": "Blue Bloods",
+        "overview": "Ailenin reisi olan Frank Reagan (Tom Selleck) New York emniyet müdürüdür. Çoğu zaman kendisinden evvel emniyet müdürlüğü görevini yürüten babası Henry\\'nin (Len Cariou) aksine resmi ilişkilere önem vermekte ve zamanında babasının sorumsuzca sebep olduğu sorunları düzeltme çabası içine girmektedir. Frank\\'in hem gurur kaynağı olan hem de endişelenmesine neden olan büyük oğlu Danny (Donnie Wahlberg) işinde uzman bir dedektif ve bir aile babasıdır. Aynı zamanda Irak Savaşı gazisi de olan Danny kimi suçları çözerken sonucu kestirilemeyen yöntemlere başvurmaktadır. Ailenin tek kız evladı olan Erin (Bridget Moynahan) savcı yardımcılığı görevini yürüten yeni boşanmış bir annedir. Erin aynı zamanda kardeşleri ve babasının kanunun tanıdığı sınırlar içinde kalmasına yardım etmektedir. Ailenin en genci Jamie (Will Estes) Harvard Hukuk Fakültesinden yeni mezun olmuştur. Ailenin göz bebeği olan Jamie aile geleneğine sırt çeviremez ve hukuk alanındaki parlak gelecekten vazgeçerek polis olmaya karar verir. Kariyerinde yaptığı bu hamle henüz 1 yıllık avukat olan sevgilisi Sydney Davenport (Dylan Moore) tarafından da desteklenmektedir. Babasının bile haberinin olmadığı gizli bir polis soruşturmasının parçası olmak istemesiyle birlikte hem Jamie\\'nin hayatı altüst olacak, hem de ailenin ismi lekelenme tehlikesiyle karşı karşıya kalacaktır.",
+        "poster_path": "/q1WlrxnCvNhBjJ4N7V0JQXjnIBN.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 113.424,
+        "first_air_date": "2010-09-24",
+        "vote_average": 7.807,
+        "vote_count": 919,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4mwCGK8ppHNU34fNkr80Hs7w3HU.jpg",
+        "id": 67116,
+        "name": "Cehennem Silahı",
+        "original_name": "Lethal Weapon",
+        "overview": "Fox kanalının yeni dizilerinden olan ve  Mel Gibson ve Danny Glover’in başrolünü paylaştığı popüler film “Cehennem Silahı” isimli filmden uyarlanacak olan dizi uyarlaması ve geliştirmesi Matt Miller tarafından yapılacak. Lethal Weapon dizisinin oyuncuları ise; Clayne Crawford (Rectify, Rogue, 24), Damon Wayans (The Underground, My Wife and Kids), Keesha Sharp (American Crime Story), Jordana Brewster (American Crime Story, Dallas), Kevin Rahm (Bates Motel, Mad Men, Desperate Housewives), Chandler Kinney ve Johnathan Fernandez.\n\nLethal Weapon dizisinin konusu ise; küçük bir kalp krizi geçiren Detektif Murtaugh’un hayatındaki tüm stresi kaldırmaya çalışmasını anlatacak. Ama bu yolda suçlular kadar ortağı Riggs de ona yardımcı olmayacaktır.",
+        "poster_path": "/oJkAusD2NDl7S7YXJC7aclcr1de.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          80,
+          18,
+          35
+        ],
+        "popularity": 20.3389,
+        "first_air_date": "2016-09-21",
+        "vote_average": 7.3,
+        "vote_count": 757,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/q7iwBG89RLMdkXoYGdVxC9rRg8Y.jpg",
+        "id": 3764,
+        "name": "Hustle",
+        "original_name": "Hustle",
+        "overview": "A motley group of London con artists pull of a series of daring and intricate stings.",
+        "poster_path": "/xty7kinvhVH3RzMdjNQSpJj2pEm.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          80,
+          18,
+          9648
+        ],
+        "popularity": 27.3045,
+        "first_air_date": "2004-02-24",
+        "vote_average": 7.6,
+        "vote_count": 166,
+        "origin_country": [
+          "GB"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

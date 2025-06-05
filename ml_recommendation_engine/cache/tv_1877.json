@@ -1,0 +1,822 @@
+{
+  "adult": false,
+  "backdrop_path": "/5MWFjQ3NuNtNeOE9FdrVLeNMNPs.jpg",
+  "created_by": [
+    {
+      "id": 104644,
+      "credit_id": "525717bc19c295711409f911",
+      "name": "Dan Povenmire",
+      "original_name": "Dan Povenmire",
+      "gender": 2,
+      "profile_path": "/fw4mmvp4G3V3pR3X3BvhEQ2C9tV.jpg"
+    },
+    {
+      "id": 567615,
+      "credit_id": "525717bc19c295711409f917",
+      "name": "Jeff 'Swampy' Marsh",
+      "original_name": "Jeff 'Swampy' Marsh",
+      "gender": 2,
+      "profile_path": "/bbJufeLLpO3bs8V4cslz6ttNqEY.jpg"
+    }
+  ],
+  "episode_run_time": [
+    12
+  ],
+  "first_air_date": "2007-08-17",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animasyon"
+    },
+    {
+      "id": 35,
+      "name": "Komedi"
+    },
+    {
+      "id": 10751,
+      "name": "Aile"
+    },
+    {
+      "id": 10765,
+      "name": "Bilim Kurgu & Fantazi"
+    }
+  ],
+  "homepage": "https://disneynow.com/shows/phineas-and-ferb",
+  "id": 1877,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2015-06-12",
+  "last_episode_to_air": {
+    "id": 1075438,
+    "name": "48. Bölüm",
+    "overview": "",
+    "vote_average": 9.5,
+    "vote_count": 2,
+    "air_date": "2015-06-12",
+    "episode_number": 48,
+    "episode_type": "finale",
+    "production_code": "436/437",
+    "runtime": 44,
+    "season_number": 4,
+    "show_id": 1877,
+    "still_path": "/7adb9fIUoIbI8COwzYApnz4LQJ5.jpg"
+  },
+  "name": "Phineas ve Förb",
+  "next_episode_to_air": {
+    "id": 6086003,
+    "name": "1. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-06-05",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 11,
+    "season_number": 5,
+    "show_id": 1877,
+    "still_path": "/lLlr8ITVF3Xf4ge0G06bkaTtNXc.jpg"
+  },
+  "networks": [
+    {
+      "id": 54,
+      "logo_path": "/9AxUB1RdRnm0r5ki8Thb69Jo9Ma.png",
+      "name": "Disney Channel",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 235,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Phineas and Ferb",
+  "overview": "\"Phineas and Ferb\" / \"Phineas ve Förb\" - Yazın her gününü iyi değerlendiren iki üvey kardeş, küçük yaşta olmalarına rağmen çok zekidirler. Yazın her günü sıkılmayacakları yeni bir icat yaparlar. Ama Bu icatlar kız kardeşleri Candace'in ispiyonlama isteğini hergeçen gün dahada arttırır. Bu arada, evcil hayvanları ornitorenk, kötü Dr. Doofenshmirtz'e karşı Her gün kötü icatlarını yok etmek için karşı karşıya.",
+  "popularity": 77.0996,
+  "poster_path": "/oSLwJMOOQGAsyJNMi4Y3MO44iAJ.jpg",
+  "production_companies": [
+    {
+      "id": 3475,
+      "logo_path": "/jTPNzDEn7eHmp3nEXEEtkHm6jLg.png",
+      "name": "Disney Television Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2009-11-12",
+      "episode_count": 3,
+      "id": 5389,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/uCjcTxSYVYg858NSrYWuU8AodIF.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2007-08-17",
+      "episode_count": 47,
+      "id": 5385,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/c9cng65bJWjlnNZS3kN9FkUVBAd.jpg",
+      "season_number": 1,
+      "vote_average": 8.4
+    },
+    {
+      "air_date": "2009-02-19",
+      "episode_count": 66,
+      "id": 5386,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/mdkMCvocOkCblmUF02ZZDwL9Y4B.jpg",
+      "season_number": 2,
+      "vote_average": 8.9
+    },
+    {
+      "air_date": "2011-03-04",
+      "episode_count": 62,
+      "id": 5387,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/zFd83zYmWjMalMRzuP4NXtyiFwo.jpg",
+      "season_number": 3,
+      "vote_average": 9.0
+    },
+    {
+      "air_date": "2012-12-07",
+      "episode_count": 48,
+      "id": 5388,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/vHgeyVGDygjfrIa5YpaDOTWpFIU.jpg",
+      "season_number": 4,
+      "vote_average": 9.9
+    },
+    {
+      "air_date": "2025-06-05",
+      "episode_count": 12,
+      "id": 351575,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/sItD0Fxbb1XUu0lNl6fChlxsYUf.jpg",
+      "season_number": 5,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.883,
+  "vote_count": 896,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 188024,
+        "known_for_department": "Acting",
+        "name": "Vincent Martella",
+        "original_name": "Vincent Martella",
+        "popularity": 2.1893,
+        "profile_path": "/wr2j1gBsQBfNrS9bEBCmyxsdTo3.jpg",
+        "character": "Phineas Flynn (voice)",
+        "credit_id": "525717b819c295711409f5ef",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1661268,
+        "known_for_department": "Acting",
+        "name": "David Errigo Jr.",
+        "original_name": "David Errigo Jr.",
+        "popularity": 1.0288,
+        "profile_path": null,
+        "character": "Ferb Fletcher (voice)",
+        "credit_id": "6711cc5298f6a758cd548860",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 67600,
+        "known_for_department": "Acting",
+        "name": "Ashley Tisdale",
+        "original_name": "Ashley Tisdale",
+        "popularity": 2.4944,
+        "profile_path": "/ot6ib67jxvKVG1JCBl0ROPGtdeP.jpg",
+        "character": "Candace Flynn (voice)",
+        "credit_id": "525717b819c295711409f637",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 86905,
+        "known_for_department": "Acting",
+        "name": "Caroline Rhea",
+        "original_name": "Caroline Rhea",
+        "popularity": 2.0926,
+        "profile_path": "/mlZbWfwoGkoGlbDhOscfo9f0jT4.jpg",
+        "character": "Linda Flynn-Fletcher (voice)",
+        "credit_id": "5bea0c0cc3a36817460465fe",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23680,
+        "known_for_department": "Acting",
+        "name": "Dee Bradley Baker",
+        "original_name": "Dee Bradley Baker",
+        "popularity": 4.0529,
+        "profile_path": "/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg",
+        "character": "Perry the Platypus (voice)",
+        "credit_id": "525717b819c295711409f6bf",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 58965,
+        "known_for_department": "Acting",
+        "name": "Alyson Stoner",
+        "original_name": "Alyson Stoner",
+        "popularity": 2.3171,
+        "profile_path": "/nRug8vylTBpkRGPVXGcDtHE2Ha7.jpg",
+        "character": "Isabella Garcia-Shapiro (voice)",
+        "credit_id": "525717b819c295711409f69d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 104644,
+        "known_for_department": "Acting",
+        "name": "Dan Povenmire",
+        "original_name": "Dan Povenmire",
+        "popularity": 1.4669,
+        "profile_path": "/fw4mmvp4G3V3pR3X3BvhEQ2C9tV.jpg",
+        "character": "Heinz Doofenshmirtz (voice)",
+        "credit_id": "5bea0c820e0a264c3e01a9eb",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 567615,
+        "known_for_department": "Acting",
+        "name": "Jeff 'Swampy' Marsh",
+        "original_name": "Jeff 'Swampy' Marsh",
+        "popularity": 1.4217,
+        "profile_path": "/bbJufeLLpO3bs8V4cslz6ttNqEY.jpg",
+        "character": "Francis Monogram (voice)",
+        "credit_id": "5bea0e6b92514143e00433c2",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1995616,
+        "known_for_department": "Sound",
+        "name": "Danny Jacob",
+        "original_name": "Danny Jacob",
+        "popularity": 0.8024,
+        "profile_path": null,
+        "credit_id": "65830c92df857c09a87a9d53",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "secret agent",
+        "id": 4289
+      },
+      {
+        "name": "blended family",
+        "id": 212795
+      },
+      {
+        "name": "lighthearted",
+        "id": 288816
+      },
+      {
+        "name": "absurd",
+        "id": 309974
+      },
+      {
+        "name": "hilarious",
+        "id": 320420
+      },
+      {
+        "name": "whimsical",
+        "id": 324713
+      },
+      {
+        "name": "admiring",
+        "id": 325761
+      },
+      {
+        "name": "amused",
+        "id": 325765
+      },
+      {
+        "name": "cheerful",
+        "id": 325782
+      },
+      {
+        "name": "excited",
+        "id": 325811
+      },
+      {
+        "name": "sincere",
+        "id": 325849
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/cDKKjjiCC4FkIcER2yiZsJ1TvpZ.jpg",
+        "id": 34406,
+        "name": "Take Two with Phineas and Ferb",
+        "original_name": "Take Two with Phineas and Ferb",
+        "overview": "Have you ever wanted to see Jack Black interviewed by cartoon characters? Now's your chance. Step brothers Phineas Flynn and Ferb Fletcher have an animated talk show set complete with a desk, chairs and skyline backdrop. Each episode, a celebrity (in live-action form) takes a seat on the cartoon set and answers questions posed by the titular pair.",
+        "poster_path": "/gqKRtWDEbzkHdxMrpCgqiqkRSpk.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767,
+          10762,
+          16
+        ],
+        "popularity": 9.5027,
+        "first_air_date": "2010-12-03",
+        "vote_average": 7.5,
+        "vote_count": 35,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/3wVv1UQNQVBb2d22oOo4WDwkFTV.jpg",
+        "id": 2345,
+        "name": "Kim Possible",
+        "original_name": "Kim Possible",
+        "overview": "If there's danger or trouble, Kim Possible is there on the double to save the world from villains... and still make it home in time for cheerleading practice! Luckily, Kim has her sidekick Ron Stoppable and his pet naked mole-rat Rufus by her side.",
+        "poster_path": "/xAIm6KkiQKl0UsagMUyhLFzX2X2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          35,
+          10762
+        ],
+        "popularity": 36.1262,
+        "first_air_date": "2002-06-07",
+        "vote_average": 7.543,
+        "vote_count": 513,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/onwny8s0VTTN7te9TJnItgvyWHy.jpg",
+        "id": 3902,
+        "name": "Shaun the Sheep",
+        "original_name": "Shaun the Sheep",
+        "overview": "Shaun the Sheep thinks and acts like a person in a barnyard, which usually gets him into trouble. The farmer's sheepdog, Bitzer, tries to keep Shaun and his friends out of trouble. The farmer is oblivious to the humanlike features of his flock, who are like one big, happy family.",
+        "poster_path": "/z2gPfTQd3I0JLWOAEdKYMQRLoun.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10762
+        ],
+        "popularity": 39.8578,
+        "first_air_date": "2007-03-05",
+        "vote_average": 7.68,
+        "vote_count": 244,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/1szJqm8ksrwbPheLfEZn2ohTGbg.jpg",
+        "id": 5687,
+        "name": "Şirinler",
+        "original_name": "The Smurfs",
+        "overview": "Belçikalı çizer Pierre Culliford'un oluşturduğu çizgi roman ve animasyon dizisinin ortak ismi. 1958'de Pierre Culliford tarafından çizgi roman olarak ortaya çıktı. 1981'de televizyonda gösterilen Şirinler büyük ilgi gördü. Yıllarca Türkiye'de de yayınlanan çizgi dizi, başta Amerika Birleşik Devletleri olmak üzere birçok ülkede, yüksek izlenme oranlarına rağmen gösterimden kaldırılmıştır.\n\nŞirinler'in ingilizce adı olan \"Smurf\" kelimesinin \"Socialist Men Under Red Flag'ın (Kızıl Bayrak Altındaki Sosyalist Adamlar) kısaltması olduğu iddiası bir şehir efsanesinden ibarettir. Çünkü, Şirinler'in yaratıcısı Peyo tarafından Şirinler'e verilen orijinal isim Les Schtroumpfs'tur.",
+        "poster_path": "/cezQyM5cO454vUdLiLOkv78K64D.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10751,
+          10765,
+          10762,
+          35
+        ],
+        "popularity": 49.805,
+        "first_air_date": "1981-09-12",
+        "vote_average": 6.9,
+        "vote_count": 512,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/b0qbBjZyly5hUS0A3715DGFlR1F.jpg",
+        "id": 103672,
+        "name": "Tig n' Seek",
+        "original_name": "Tig n' Seek",
+        "overview": "Follow 8-year-old Tiggy and his gadget-building cat, Gweeseek, as they search for the lost items of Wee Gee City. With Tiggy’s cheerful attitude and Gweeseek’s exceptional inventing capabilities, the duo humorously navigate day-to-day dilemmas at the Department of Lost and Found.",
+        "poster_path": "/pbDxzZX0jJhRgivKwYCA82Q7Klp.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10762,
+          16
+        ],
+        "popularity": 0.7431,
+        "first_air_date": "2020-07-23",
+        "vote_average": 6.7,
+        "vote_count": 32,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/F0aJ6CVPJhIMwBtvHQpMC9FPvm.jpg",
+        "id": 4270,
+        "name": "Living Single",
+        "original_name": "Living Single",
+        "overview": "Living Single is an American television sitcom that aired for five seasons on the Fox network from August 22, 1993, to January 1, 1998. The show centered on the lives of six friends who share personal and professional experiences while living in a Brooklyn brownstone.\n\nThroughout its run, Living Single became one of the most popular African-American sitcoms of its era, ranking among the top five in African-American ratings in all five seasons. The series was produced by Yvette Lee Bowser's company, Sister Lee, in association with Warner Bros. Television. In contrast to the popularity of NBC's \"Must See TV\" on Thursday nights in the 1990s, many African American and Latino viewers flocked to Fox's Thursday night line-up of Martin, Living Single, and New York Undercover. In fact, these were the three highest-rated series among black households for the 1996–1997 season.",
+        "poster_path": "/mgttYgspalxaLVrjJ9rxzDG9owO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 19.0628,
+        "first_air_date": "1993-08-29",
+        "vote_average": 8.4,
+        "vote_count": 45,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/6eWhYRuA381fHMXzovXjo3sEtkS.jpg",
+        "id": 65858,
+        "name": "LEGO Nexo Knights",
+        "original_name": "LEGO Nexo Knights",
+        "overview": "The adventure takes place in the futuristic Kingdom of Knighton. It focuses on the Nexo Knights as they journey to defeat Jestro the evil jester, the Book of Monsters, and their lava monster army. Clay leads the Nexo Knights, which include Macy, Lance, Aaron, and Axl. Together, under their mentor Merlok 2.0, they band together to defeat Jestro.",
+        "poster_path": "/d0e5dJ2FQhlwEhFX4cB0ijp5SMd.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          10762,
+          35,
+          10751
+        ],
+        "popularity": 21.2592,
+        "first_air_date": "2015-12-13",
+        "vote_average": 7.067,
+        "vote_count": 30,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/6YiBTAPjp9ia7tsxDbcc4xQ2SgB.jpg",
+        "id": 118439,
+        "name": "Waffles + Mochi",
+        "original_name": "Waffles + Mochi",
+        "overview": "Curious puppet pals Waffles and Mochi travel the world exploring the wonders of food and culture while learning how to cook with fresh ingredients.",
+        "poster_path": "/oPpA8DMcMThacHlAo5az83WxwBr.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10762
+        ],
+        "popularity": 1.9024,
+        "first_air_date": "2021-03-16",
+        "vote_average": 6.8,
+        "vote_count": 35,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/6832R2aNwWv2PofPjMxFTTHXU3z.jpg",
+        "id": 61174,
+        "name": "Bee ve PuppyCat",
+        "original_name": "Bee and PuppyCat",
+        "overview": "Harika bir sihirli adada yaşayan ve içinden geldiği gibi davranan Bee ile tüylü dostu, galaksiler arası bir geçici iş ajansında çalışırken maceradan maceraya atılır.",
+        "poster_path": "/lSvaxHqan42Y8zTX28GQx1MaL0p.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10751
+        ],
+        "popularity": 11.6946,
+        "first_air_date": "2014-11-06",
+        "vote_average": 8.125,
+        "vote_count": 52,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/a2NGvoGgHhEbrXve1L88oQRfG8y.jpg",
+        "id": 4251,
+        "name": "Life with Louie",
+        "original_name": "Life with Louie",
+        "overview": "The 8-year-old Louie is doing his best to grow up and cope with a large family, a doting mother, a pesky little brother, and a by-the-book, military veteran dad. Add to that a slew of holiday family squabbles, a flood, an old Rambler and a huge goldfish, and you have the background for Life with Louie. Each episode is a portrait of humor and warmth drawn from Louie Anderson's real-life experience as a child in the Midwest.",
+        "poster_path": "/myyLrufbm0iDF0kOwpgWbw3G8pQ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10762,
+          10751
+        ],
+        "popularity": 13.595,
+        "first_air_date": "1994-12-24",
+        "vote_average": 6.8,
+        "vote_count": 77,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/q0zY5AbqOhCghYWWwzpfT7dhcfb.jpg",
+        "id": 29173,
+        "name": "House Hunters International",
+        "original_name": "House Hunters International",
+        "overview": "This spin-off of the wildly popular House Hunters goes around the globe. Home hunters and their realtors check out all sorts of architectural styles and work through the quirks of buying real estate in other countries.",
+        "poster_path": "/uzPQ3FvOtmMrvGsNnKPoIJuMJON.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 72.008,
+        "first_air_date": "2006-03-06",
+        "vote_average": 6.4,
+        "vote_count": 25,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/mCt3coepPkF6QlDQSO9tqI46yIV.jpg",
+        "id": 68665,
+        "name": "Big Hero 6 The Series",
+        "original_name": "Big Hero 6 The Series",
+        "overview": "14 yaşındaki bir teknoloji dehası ve robotu, şehirlerinde efsanevi bir süper kahraman ekibi olarak yüksek teknolojili kötülerle savaşmak için arkadaşlarıyla güçlerini birleştirir.",
+        "poster_path": "/ldG4xXImCPyv5U5gbRmlB8On842.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          35,
+          10751
+        ],
+        "popularity": 36.1408,
+        "first_air_date": "2017-11-20",
+        "vote_average": 7.616,
+        "vote_count": 86,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vV1EQ1zLuZ5yPL7LaBqPayVsggC.jpg",
+        "id": 34891,
+        "name": "Jake ve Var Olmayan Ülkenin Korsanları",
+        "original_name": "Jake and the Never Land Pirates",
+        "overview": "Jake, Izzy, Cubby ve papağanları Skully'yi Korsan Adası'ndaki saklandıkları yerden gemileri Bucky'ye binip Kaptan Kanca ve Smee'nin peşinden bir hazine avı macerasına yelken açarken takip edin. Bir kaykay, gitar veya değerli bir deniz kabuğu olsun, Kaptan Kanca hazineyi ele geçirmek için her şeyi yapacaktır, ancak Jake izleyicileri hazinelerini geri almak için ekip çalışmasına, problem çözmeye ve fiziksel aktiviteye davet ederken, yol boyunca takım hazine sandığı için altın para kazanmaktadır.",
+        "poster_path": "/dIdMPWiDRQnGgRUDzl6UjOZHh9j.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          16,
+          10759
+        ],
+        "popularity": 98.2158,
+        "first_air_date": "2011-02-14",
+        "vote_average": 6.48,
+        "vote_count": 51,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wIe1HL7oMNwyltsqqx2sCPwNl4w.jpg",
+        "id": 2304,
+        "name": "Thomas & Friends",
+        "original_name": "Thomas & Friends",
+        "overview": "Thomas & Friends is a British children's television series, which had its first broadcast on the ITV network on 4 September 1984. It is based on The Railway Series of books by the Reverend Wilbert Awdry and his son, Christopher Awdry. These books deal with the adventures of a group of anthropomorphised locomotives and road vehicles who live on the fictional Island of Sodor. The books were based on stories Wilbert told to entertain his son, Christopher during his recovery from measles. From Series one to four, many of the stories are based on events from Awdry's personal experience.",
+        "poster_path": "/ovJvWQ8E8aYShcRlTwpqKhuq7FA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762
+        ],
+        "popularity": 74.8759,
+        "first_air_date": "1984-10-09",
+        "vote_average": 6.7,
+        "vote_count": 123,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/trRaDnVmmzCxjO1nLUH8Jr8bruk.jpg",
+        "id": 6589,
+        "name": "Kikoriki",
+        "original_name": "Смешарики",
+        "overview": "The Smeshariki are stylized rounded animals. Each of the nine characters has a unique personality and a range of interests with no negative characters among them. Plots are built not on the battle of opposing forces but on the unexpected situations the animated characters stumble upon in their interactions deemed similar to the ones that children may encounter in their everyday lives. Many of the topics foreground the guidance that friendship and community provide to the individual making his or her way in the world. Complex themes and specific cultural references place this cartoon firmly within the Russian tradition of animation. Much attention was devoted to the humor in the series, some of which has attracted adults as well.",
+        "poster_path": "/cR5Jzs1JpfIkVZGAGJPkLm85pKC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ru",
+        "genre_ids": [
+          10762,
+          16,
+          10751
+        ],
+        "popularity": 30.9937,
+        "first_air_date": "2004-05-17",
+        "vote_average": 7.317,
+        "vote_count": 41,
+        "origin_country": [
+          "RU"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 62999,
+        "name": "The Jim Gaffigan Show",
+        "original_name": "The Jim Gaffigan Show",
+        "overview": "Comedy about a husband and wife trying to raise their five kids in a New York two-bedroom apartment.",
+        "poster_path": "/fIs7LLODtiowheV17UXycFM7DSV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 6.0378,
+        "first_air_date": "2015-07-15",
+        "vote_average": 6.0,
+        "vote_count": 28,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/veBzDrayUD3judzRzCntwroDT0y.jpg",
+        "id": 101137,
+        "name": "Cursed Films",
+        "original_name": "Cursed Films",
+        "overview": "A documentary series exploring the myths and legends behind some of Hollywood’s notoriously “cursed” horror film productions. From plane accidents and bombings during the making of The Omen, to the rumored use of real human skeletons on the set of Poltergeist, these stories are legendary amongst film fans and filmmakers alike. But where does the truth lie?",
+        "poster_path": "/qrdhQ2jVx8Ewu33ahp7HbhT1hHn.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 1.7111,
+        "first_air_date": "2020-04-02",
+        "vote_average": 7.3,
+        "vote_count": 35,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wRoKPYQpwUEcE201LMKyFlDJVWw.jpg",
+        "id": 74538,
+        "name": "Laakhon Mein Ek",
+        "original_name": "Laakhon Mein Ek",
+        "overview": "All that 15-year-old Aakash wants to do is make mimicry videos and post them online. Instead, he finds himself in an IIT coaching institute called Genius Infinity, where he is a misfit, unable to cope with the syllabus, and placed in the notorious section D. Now, along with roommates Bakri and Chudail, Aakash will learn to answer life’s multiple-choice questions.",
+        "poster_path": "/1cmPvN63JCTIcRGx8SLlftmEXcx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "hi",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 4.2259,
+        "first_air_date": "2017-10-13",
+        "vote_average": 7.9,
+        "vote_count": 19,
+        "origin_country": [
+          "IN"
+        ]
+      },
+      {
+        "backdrop_path": "/sPrmd4L7zedxRmhsiHqaopltFLD.jpg",
+        "id": 78414,
+        "name": "Sonic Mania Adventures",
+        "original_name": "Sonic Mania Adventures",
+        "overview": "Classic Sonic is back to his dimension after the events of Sonic Forces. He discovers Eggman is collecting the Chaos Emeralds and already has four of them. Sonic must gather all the Chaos Emeralds before Eggman.",
+        "poster_path": "/bZuk527rFDJuoKLShC48F89Pkjt.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10751,
+          35,
+          10759,
+          10765
+        ],
+        "popularity": 2.2892,
+        "first_air_date": "2018-03-30",
+        "vote_average": 8.0,
+        "vote_count": 20,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/d9OoIg7Ekz8Uwab9ByEAsiuI7DH.jpg",
+        "id": 12784,
+        "name": "Outnumbered",
+        "original_name": "Outnumbered",
+        "overview": "Partly-improvised sitcom looking at the trials and tribulations of bringing up three young children - a regal five-year-old girl with a talent for interrogation, a seven-year-old boy who could fib for Britain and an 11-year-old who is gearing up for his scary first day at secondary school.",
+        "poster_path": "/h8uJc3UALqeAEXzckKykoke0VoU.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 4.3051,
+        "first_air_date": "2007-08-28",
+        "vote_average": 7.8,
+        "vote_count": 68,
+        "origin_country": [
+          "GB"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

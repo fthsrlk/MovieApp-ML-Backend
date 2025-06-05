@@ -1,0 +1,824 @@
+{
+  "adult": false,
+  "backdrop_path": "/nDipuGxuzr6eOGAjETKznTaF4NE.jpg",
+  "created_by": [
+    {
+      "id": 26458,
+      "credit_id": "5257314d760ee3776a34f18d",
+      "name": "Kevin Williamson",
+      "original_name": "Kevin Williamson",
+      "gender": 2,
+      "profile_path": "/jWgZZoKBU1WFaCO5C7jpMBZ7xJs.jpg"
+    }
+  ],
+  "episode_run_time": [
+    44
+  ],
+  "first_air_date": "1998-01-20",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 10766,
+      "name": "Pembe Dizi"
+    }
+  ],
+  "homepage": "",
+  "id": 2327,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2003-05-14",
+  "last_episode_to_air": {
+    "id": 170808,
+    "name": "24. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2003-05-14",
+    "episode_number": 24,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 6,
+    "show_id": 2327,
+    "still_path": "/blB4aQcMiym0VmYRNHYUqcX5nmM.jpg"
+  },
+  "name": "Dawson's Creek",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 21,
+      "logo_path": "/9GlDHjQj9c2dkfARCR3zlH87R66.png",
+      "name": "The WB",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 128,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Dawson's Creek",
+  "overview": "",
+  "popularity": 69.6556,
+  "poster_path": "/arT93dBemanftfWTcf9I0JRIlxU.jpg",
+  "production_companies": [
+    {
+      "id": 11073,
+      "logo_path": "/aCbASRcI1MI7DXjPbSW9Fcv9uGR.png",
+      "name": "Sony Pictures Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 2180,
+      "logo_path": null,
+      "name": "Outerbanks Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 10471,
+      "logo_path": "/tHIwIKoXdLKA8Nt3XeRInh71OvD.png",
+      "name": "Columbia TriStar Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 76238,
+      "logo_path": null,
+      "name": "Granville Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 22367,
+      "logo_path": "/pbkAbvOROqyZOcWgGvTsiryrUfW.png",
+      "name": "Procter & Gamble Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 65895,
+      "logo_path": null,
+      "name": "Global Entertainment Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1998-01-20",
+      "episode_count": 13,
+      "id": 7272,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/7qUPNq2YMM37ZOgWRMRq57P2hwI.jpg",
+      "season_number": 1,
+      "vote_average": 8.4
+    },
+    {
+      "air_date": "1998-10-07",
+      "episode_count": 22,
+      "id": 7273,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/wLiYYvK6nEVoCOOOpKD6vvg5sK5.jpg",
+      "season_number": 2,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "1999-09-29",
+      "episode_count": 23,
+      "id": 7274,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/j8WVbOqmd980IV5hR2V7SuIUQjI.jpg",
+      "season_number": 3,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2000-10-04",
+      "episode_count": 23,
+      "id": 7275,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/1hB1ut0hwYJhJqgjfKIwl7uYh0b.jpg",
+      "season_number": 4,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2001-10-10",
+      "episode_count": 23,
+      "id": 7276,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/92pdPzoxREOscv0ZkKGiHX7MIRT.jpg",
+      "season_number": 5,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2002-10-02",
+      "episode_count": 24,
+      "id": 7277,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/tg8oodr9fpTVElFHmIZCMPXZBAT.jpg",
+      "season_number": 6,
+      "vote_average": 7.5
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.342,
+  "vote_count": 555,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19210,
+        "known_for_department": "Acting",
+        "name": "James Van Der Beek",
+        "original_name": "James Van Der Beek",
+        "popularity": 2.4107,
+        "profile_path": "/5CzRqYzRMNevIu6rB8gUFKpsKZL.jpg",
+        "character": "Dawson Leery",
+        "credit_id": "5257314d760ee3776a34ef99",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3897,
+        "known_for_department": "Acting",
+        "name": "Katie Holmes",
+        "original_name": "Katie Holmes",
+        "popularity": 4.16,
+        "profile_path": "/1o9j7xajyWILCubtElbfovu43DT.jpg",
+        "character": "Joey Potter",
+        "credit_id": "5257314d760ee3776a34efc3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1812,
+        "known_for_department": "Acting",
+        "name": "Michelle Williams",
+        "original_name": "Michelle Williams",
+        "popularity": 4.4161,
+        "profile_path": "/mfgKyigaQLI0NtZsaJRVlbUiMdX.jpg",
+        "character": "Jen Lindley",
+        "credit_id": "5257314d760ee3776a34efed",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11866,
+        "known_for_department": "Acting",
+        "name": "Joshua Jackson",
+        "original_name": "Joshua Jackson",
+        "popularity": 3.4279,
+        "profile_path": "/mH2a5YFd8J7upjjWwEzM75vitA2.jpg",
+        "character": "Pacey Witter",
+        "credit_id": "5257314d760ee3776a34f017",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43442,
+        "known_for_department": "Acting",
+        "name": "Kerr Smith",
+        "original_name": "Kerr Smith",
+        "popularity": 1.7403,
+        "profile_path": "/2XHffxdkDVhaETNi6ajSntQ40du.jpg",
+        "character": "Jack McPhee",
+        "credit_id": "5257314d760ee3776a34f041",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 60928,
+        "known_for_department": "Acting",
+        "name": "Busy Philipps",
+        "original_name": "Busy Philipps",
+        "popularity": 2.5746,
+        "profile_path": "/7UUe7IgetfpyhNSSpoyaC9iWF7C.jpg",
+        "character": "Audrey Liddell",
+        "credit_id": "5645e1d19251410a49008cad",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 36554,
+        "known_for_department": "Acting",
+        "name": "Mary Beth Peil",
+        "original_name": "Mary Beth Peil",
+        "popularity": 1.3755,
+        "profile_path": "/dngypOKbFTd4g0frMasQp5KZFn8.jpg",
+        "character": "Evelyn 'Grams' Ryan",
+        "credit_id": "5641f2fec3a3685be2002d40",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 62780,
+        "known_for_department": "Art",
+        "name": "Alan Hook",
+        "original_name": "Alan Hook",
+        "popularity": 1.5599,
+        "profile_path": null,
+        "credit_id": "660816a18a0e9b017c4f5185",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1230929,
+        "known_for_department": "Production",
+        "name": "Paul Stupin",
+        "original_name": "Paul Stupin",
+        "popularity": 0.262,
+        "profile_path": null,
+        "credit_id": "5257314f760ee3776a34f1db",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1222585,
+        "known_for_department": "Production",
+        "name": "Tom Kapinos",
+        "original_name": "Tom Kapinos",
+        "popularity": 0.4388,
+        "profile_path": "/ol7GfeO0OIDCWGYzlg1LDLmwluO.jpg",
+        "credit_id": "5257314f760ee3776a34f20f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26458,
+        "known_for_department": "Writing",
+        "name": "Kevin Williamson",
+        "original_name": "Kevin Williamson",
+        "popularity": 2.4042,
+        "profile_path": "/jWgZZoKBU1WFaCO5C7jpMBZ7xJs.jpg",
+        "credit_id": "5257314f760ee3776a34f243",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "small town",
+        "id": 1415
+      },
+      {
+        "name": "boston, massachusetts",
+        "id": 1680
+      },
+      {
+        "name": "friendship",
+        "id": 6054
+      },
+      {
+        "name": "growing up",
+        "id": 9825
+      },
+      {
+        "name": "coming of age",
+        "id": 10683
+      },
+      {
+        "name": "friends in love",
+        "id": 178329
+      },
+      {
+        "name": "teenage romance",
+        "id": 188237
+      },
+      {
+        "name": "teen drama",
+        "id": 193400
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/eDNSgT1xPMKYcEzJ5GG0PCE3NcN.jpg",
+        "id": 269,
+        "name": "One Tree Hill",
+        "original_name": "One Tree Hill",
+        "overview": "In Tree Hill, North Carolina two half brothers share a last name and nothing else. Brooding, blue-collar Lucas is a talented street-side basketball player, but his skills are appreciated only by his friends at the river court. Popular, affluent Nathan basks in the hero-worship of the town, as the star of his high school team. And both boys are the son of former college ball player Dan Scott whose long ago choice to abandon Lucas and his mother Karen, will haunt him long into his life with wife Deb and their son Nathan.",
+        "poster_path": "/sOrelBaAhp7DZbPTivDwKEyPslC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 76.303,
+        "first_air_date": "2003-09-23",
+        "vote_average": 7.761,
+        "vote_count": 515,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/iMFsQ7yyToYg7SkS9Ml0by9UJ0X.jpg",
+        "id": 2025,
+        "name": "Beverly Hills, 90210",
+        "original_name": "Beverly Hills, 90210",
+        "overview": "Follow the lives of a group of teenagers living in the upscale, star-studded community of Beverly Hills, California and attending the fictitious West Beverly Hills High School and, subsequently, the fictitious California University after graduation.",
+        "poster_path": "/b7BYfkhu653D894krwGO1ysIKTf.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 73.3779,
+        "first_air_date": "1990-10-04",
+        "vote_average": 7.372,
+        "vote_count": 745,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/tEm6hydl6wJ13gfrasriMug96SS.jpg",
+        "id": 4266,
+        "name": "Party of Five",
+        "original_name": "Party of Five",
+        "overview": "Five brothers and sisters are determined to stay together following the tragic loss of their parents.",
+        "poster_path": "/5LZgFeMynMeeKX8Bn9s1RWe9n9S.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 41.6631,
+        "first_air_date": "1994-09-12",
+        "vote_average": 7.03,
+        "vote_count": 117,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gEqlce8JAJGUGwSdhZsKSJFFiP6.jpg",
+        "id": 4392,
+        "name": "Big Love",
+        "original_name": "Big Love",
+        "overview": "The story of Bill Henrickson and his life in suburban Salt Lake City, balancing the needs of his three wives -- Barb, Nicki and Margene-- their seven kids, three new houses and the opening of his newest hardware store. When disturbing news arrives about Bill's father, he is forced to reconnect with his polygamist parents who live on a fundamentalist compound in rural Utah.",
+        "poster_path": "/38aaxDXz4qim9M85VTzpUecKlq9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 19.7074,
+        "first_air_date": "2006-03-12",
+        "vote_average": 6.929,
+        "vote_count": 133,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/oKHOMudHakxD5E9u9BXs59jZQfe.jpg",
+        "id": 64339,
+        "name": "Chewing Gum",
+        "original_name": "Chewing Gum",
+        "overview": "The life of Tracey, a religious, Beyoncé-obsessed 22-year-old  living in an estate in Tower Hamlets, and the mishaps of her neighbourhood, friends and family. Oh, and obvs her boyfriend!",
+        "poster_path": "/g7K7IrHzfCMbvJDahkymKugyfuZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 5.5729,
+        "first_air_date": "2015-10-06",
+        "vote_average": 7.2,
+        "vote_count": 90,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/5FN3RO7ZdQr2NoT3BfNUXmnHaUZ.jpg",
+        "id": 8459,
+        "name": "Being Erica",
+        "original_name": "Being Erica",
+        "overview": "Erica Strange has tons of regrets in her young life - so many she's started a list. But when she shares her list with her therapist, he undertakes an unusual course of treatment: she is transported back in time and given the chance to make different decisions at pivotal moments in her life, based on her knowledge of the here and now.",
+        "poster_path": "/s8rxITTSps8OWdvs6aSvYqyj2sV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          35
+        ],
+        "popularity": 8.2621,
+        "first_air_date": "2009-01-05",
+        "vote_average": 6.5,
+        "vote_count": 57,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 101501,
+        "name": "Tira",
+        "original_name": "Tira",
+        "overview": "Santiago Quiñones, a self-destructive detective has to solve two cases, the emergence of a radicalized xenophobic group and, the murder of a drug dealer of Chinese origin, however, the most difficult case to get his own life in order and fight demons of his past.",
+        "poster_path": "/3nCMhbOg8cb4fB12C1VcPu46uy5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 1.3816,
+        "first_air_date": "2019-10-13",
+        "vote_average": 6.9,
+        "vote_count": 15,
+        "origin_country": [
+          "CL"
+        ]
+      },
+      {
+        "backdrop_path": "/5pYgyjVT016dlW2EYgblqqONzAo.jpg",
+        "id": 3114,
+        "name": "Silk Stalkings",
+        "original_name": "Silk Stalkings",
+        "overview": "Silk Stalkings is a crime drama television series.  The series portrays the daily lives of two detectives who solve sexually-based crimes of passion among the ultra-rich of Palm Beach, Florida.",
+        "poster_path": "/mzJDp1iZmhxlSCBBicWsiYcZGv.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          10759
+        ],
+        "popularity": 26.2407,
+        "first_air_date": "1991-11-07",
+        "vote_average": 6.051,
+        "vote_count": 39,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/aBv3ol0a1ae3vj4je4xl7Uoj4mX.jpg",
+        "id": 126025,
+        "name": "Alfredino - Una storia italiana",
+        "original_name": "Alfredino - Una storia italiana",
+        "overview": "",
+        "poster_path": "/cDzi8k46fpIfmPxt6xOHj7MK5OD.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "it",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 0.9995,
+        "first_air_date": "2021-06-21",
+        "vote_average": 8.1,
+        "vote_count": 10,
+        "origin_country": [
+          "IT"
+        ]
+      },
+      {
+        "backdrop_path": "/6SqOvbOrhNDui4ZpYYGYUMnk877.jpg",
+        "id": 4040,
+        "name": "New York Undercover",
+        "original_name": "New York Undercover",
+        "overview": "New York Undercover is an American police drama The series stars Detective J.C. Williams and Detective Eddie Torres, two undercover detectives in New York City's Fourth Precinct who were assigned to investigate various crimes and gang-related cases.",
+        "poster_path": "/14dtuuJXd3drJZISX4FGbcfOPOv.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 28.2396,
+        "first_air_date": "1994-09-08",
+        "vote_average": 7.1,
+        "vote_count": 34,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sEkAdIZGIpr0mXb7euGEG0VwHeB.jpg",
+        "id": 66094,
+        "name": "Dice",
+        "original_name": "Dice",
+        "overview": "Hickory, dickory, dock — the Dice Man's back and he's ready to rock. The semi-true stories of Andrew Dice Clay, whose unique brand of humor often gets him in trouble. Once on top, the comedian now must work to resurrect his career, pay his gambling debts, manage his sons’ rock band, fend off old fans and keep his family afloat.",
+        "poster_path": "/tKTVOH9DonnjKzj4UOPYEIilvmI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 3.6234,
+        "first_air_date": "2016-04-10",
+        "vote_average": 6.524,
+        "vote_count": 21,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/98e1jGlPYEQTxg0gohCDgb3TlFw.jpg",
+        "id": 70624,
+        "name": "Fratelli di Crozza",
+        "original_name": "Fratelli di Crozza",
+        "overview": "",
+        "poster_path": "/kUqnCG9eR3zTARTKQLNmVMnT6p0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "it",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 26.0406,
+        "first_air_date": "2017-03-03",
+        "vote_average": 7.4,
+        "vote_count": 7,
+        "origin_country": [
+          "IT"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 58168,
+        "name": "Power Games: The Packer-Murdoch Story",
+        "original_name": "Power Games: The Packer-Murdoch Story",
+        "overview": "The making of modern Australia through the eyes of competing media moguls Sir Frank Packer and a young Rupert Murdoch.",
+        "poster_path": "/oUFG4zVVyplR5MDJKjB1DwtYMnP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 1.7548,
+        "first_air_date": "2013-08-09",
+        "vote_average": 5.5,
+        "vote_count": 2,
+        "origin_country": [
+          "AU"
+        ]
+      },
+      {
+        "backdrop_path": "/wnAboUyDiTILkZfPhFyVIiY87Fa.jpg",
+        "id": 3050,
+        "name": "The Practice",
+        "original_name": "The Practice",
+        "overview": "A provocative legal drama focused on young associates at a bare-bones Boston firm and their scrappy boss, Bobby Donnell. The show's forte is its storylines about “people who walk a moral tightrope.”",
+        "poster_path": "/7OKZSUIWhjFP0F2s478zTrAYwDB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 38.118,
+        "first_air_date": "1997-03-04",
+        "vote_average": 7.717,
+        "vote_count": 106,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 4668,
+        "name": "Mirror, Mirror",
+        "original_name": "Mirror, Mirror",
+        "overview": "When Jo Tiegan is given an oval-shaped mirror, as a gift, by the elderly owner of an antique shop, she is amazed to see another girl's image in the mirror instead of her own reflection. It is also quite obvious that the other girl can see her just as clearly. Jo (from the 1990's) and 'the girl in the mirror', Louisa Iredale (from 1919), later accidently find that they can also travel to each other's times through the mirror - following upon which discovery a relentless sequence of events is set in motion.",
+        "poster_path": "/gucQybDQsHkNvhh7NOUCd7F7jRf.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          10765,
+          10751
+        ],
+        "popularity": 2.593,
+        "first_air_date": "1995-09-30",
+        "vote_average": 7.2,
+        "vote_count": 5,
+        "origin_country": [
+          "AU",
+          "NZ"
+        ]
+      },
+      {
+        "backdrop_path": "/A7VSqH6eeNcELKBJHcGoDHt3l17.jpg",
+        "id": 20580,
+        "name": "Around the World in 80 Days",
+        "original_name": "Around the World in 80 Days",
+        "overview": "The plot centres around Phileas Fogg making a £20,000 wager with three members of the Reform Club that he can circumnavigate the world in 80 days. He takes with him his newly employed French valet Passepartout, and is pursued by Detective Wilbur Fix who mistakenly thinks Fogg robbed the Bank of England and is using the wager as a cover to escape capture.",
+        "poster_path": "/j2VO11OVKtGpJNPLQOBsVlcKEuE.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759
+        ],
+        "popularity": 3.2432,
+        "first_air_date": "1989-04-16",
+        "vote_average": 6.6,
+        "vote_count": 75,
+        "origin_country": [
+          "IT",
+          "DE",
+          "US",
+          "YU"
+        ]
+      },
+      {
+        "backdrop_path": "/oxFrNX7ylANnN5wLRT3abtxNJjv.jpg",
+        "id": 73554,
+        "name": "Liar",
+        "original_name": "Liar",
+        "overview": "Uzun süreli sevgilisinden kısa bir süre önce ayrılan Laura, bir lisede öğretmenlik yapmaktadır. Sınıfındaki öğrencilerden biri olan Luke’un karizmatik cerrah babası Andrew ile çıkmayı kabul ettiği randevu ise olayları bambaşka bir yere taşır. (13 yaş ve üzeri için uygundur)",
+        "poster_path": "/hQFQok8j8vErenASWIUtBEsbTVY.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "popularity": 5.4817,
+        "first_air_date": "2017-09-11",
+        "vote_average": 6.6,
+        "vote_count": 102,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/6NJdscx3qb2H7h8rEHFn9i6vTcs.jpg",
+        "id": 2093,
+        "name": "Matlock",
+        "original_name": "Matlock",
+        "overview": "Matlock is an American television legal drama, starring Andy Griffith in the title role of criminal defense attorney Ben Matlock. The show, produced by The Fred Silverman Company, Dean Hargrove Productions, Viacom Productions and Paramount Television originally aired from September 23, 1986 to May 8, 1992 on NBC; and from November 5, 1992 until May 7, 1995 on ABC.\n\nThe show's format is similar to that of CBS's Perry Mason, with Matlock identifying the perpetrators and then confronting them in dramatic courtroom scenes. One difference, however, was that whereas Mason usually exculpated his clients at a pretrial hearing, Matlock usually secured an acquittal at trial, from the jury.",
+        "poster_path": "/2eGYyekQjcAXVmcYW1g4keR4plV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 32.653,
+        "first_air_date": "1986-03-03",
+        "vote_average": 7.127,
+        "vote_count": 118,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gVAwcl83Ys1dtcFCiLuCLAx6xge.jpg",
+        "id": 2625,
+        "name": "Diagnosis: Murder",
+        "original_name": "Diagnosis: Murder",
+        "overview": "Dr. Mark Sloan is a good-natured, offbeat physician who is called upon to solve murders.",
+        "poster_path": "/5yhozeY2KgYXQQE9kfbiIyypYiI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10751,
+          9648
+        ],
+        "popularity": 45.144,
+        "first_air_date": "1993-10-29",
+        "vote_average": 7.071,
+        "vote_count": 113,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/w8vJB83ekK6bC0GXqync3sh8IWm.jpg",
+        "id": 217211,
+        "name": "The Irrational",
+        "original_name": "The Irrational",
+        "overview": "Alec Mercer is a world-renowned professor of behavioral psychology with a unique insight into human nature who lends his expertise to an array of high-stakes cases involving governments, corporations and law enforcement. However, he meets his match in a female domestic terror suspect who turns his world upside down.",
+        "poster_path": "/jJtOpfgV4iPu9RtxllHwZgn9dqI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 11.5746,
+        "first_air_date": "2023-09-25",
+        "vote_average": 6.727,
+        "vote_count": 55,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

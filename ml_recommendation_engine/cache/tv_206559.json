@@ -1,0 +1,891 @@
+{
+  "adult": false,
+  "backdrop_path": "/mu3lEhGovyhKHPJzb7HNYtZUCDT.jpg",
+  "created_by": [
+    {
+      "id": 4191117,
+      "credit_id": "64c8a4d61fa1c800cdf649d3",
+      "name": "Elsje Stark",
+      "original_name": "Elsje Stark",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 4191118,
+      "credit_id": "64c8a4dd08cf8700e2778123",
+      "name": "Human Stark",
+      "original_name": "Human Stark",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2005-10-13",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Pembe Dizi"
+    }
+  ],
+  "homepage": "https://www.showmax.com/eng/tvseries/98g2yjrb-binnelanders",
+  "id": 206559,
+  "in_production": true,
+  "languages": [
+    "af",
+    "en"
+  ],
+  "last_air_date": "2025-03-03",
+  "last_episode_to_air": {
+    "id": 5360383,
+    "name": "199. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-06",
+    "episode_number": 199,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 20,
+    "show_id": 206559,
+    "still_path": null
+  },
+  "name": "Binnelanders",
+  "next_episode_to_air": {
+    "id": 5360384,
+    "name": "200. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-03-07",
+    "episode_number": 200,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 20,
+    "show_id": 206559,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 192,
+      "logo_path": "/dJ9KWprPx7AXMOxBrGJoadLhhZQ.png",
+      "name": "M-Net",
+      "origin_country": "ZA"
+    },
+    {
+      "id": 1826,
+      "logo_path": "/2tNeujuBe8MR40hoUE4FLYA7Knl.png",
+      "name": "kykNET",
+      "origin_country": "ZA"
+    }
+  ],
+  "number_of_episodes": 4852,
+  "number_of_seasons": 20,
+  "origin_country": [
+    "ZA"
+  ],
+  "original_language": "af",
+  "original_name": "Binnelanders",
+  "overview": "",
+  "popularity": 3212.703,
+  "poster_path": "/3bzECfllho8PphdYujLUIuhncJD.jpg",
+  "production_companies": [
+    {
+      "id": 240436,
+      "logo_path": "/uQbJVxmj5hhGWmym13JOs2rFAM8.png",
+      "name": "Stark Studios",
+      "origin_country": "ZA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ZA",
+      "name": "South Africa"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2005-10-13",
+      "episode_count": 52,
+      "id": 301848,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 4.0
+    },
+    {
+      "air_date": "2006-04-13",
+      "episode_count": 88,
+      "id": 301849,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2007-05-09",
+      "episode_count": 260,
+      "id": 301850,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2008-05-07",
+      "episode_count": 260,
+      "id": 301851,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2009-05-07",
+      "episode_count": 237,
+      "id": 301852,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2010-04-05",
+      "episode_count": 260,
+      "id": 301853,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-04-04",
+      "episode_count": 260,
+      "id": 301854,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2012-04-02",
+      "episode_count": 260,
+      "id": 301855,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2013-04-01",
+      "episode_count": 260,
+      "id": 301856,
+      "name": "Sezon 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2014-03-31",
+      "episode_count": 260,
+      "id": 301857,
+      "name": "Sezon 10",
+      "overview": "",
+      "poster_path": "/n8or9JBQ52qELY7TccfLbB3FLws.jpg",
+      "season_number": 10,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2015-03-30",
+      "episode_count": 260,
+      "id": 301858,
+      "name": "Sezon 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2016-03-28",
+      "episode_count": 315,
+      "id": 301859,
+      "name": "Sezon 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2017-06-12",
+      "episode_count": 260,
+      "id": 301860,
+      "name": "Sezon 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2018-06-11",
+      "episode_count": 260,
+      "id": 301861,
+      "name": "Sezon 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2019-06-10",
+      "episode_count": 260,
+      "id": 301862,
+      "name": "Sezon 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2020-06-08",
+      "episode_count": 260,
+      "id": 301863,
+      "name": "Sezon 16",
+      "overview": "",
+      "poster_path": "/2g4RnUinfqMyeQnwNpRROkbgbRQ.jpg",
+      "season_number": 16,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2021-06-07",
+      "episode_count": 260,
+      "id": 301864,
+      "name": "Sezon 17",
+      "overview": "",
+      "poster_path": "/5URikDdjnciD9t5VgqMpcIKQyVU.jpg",
+      "season_number": 17,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2022-06-06",
+      "episode_count": 260,
+      "id": 351344,
+      "name": "Sezon 18",
+      "overview": "",
+      "poster_path": "/tdX2Fb6yXpxBolz0OXPp3JSQWB8.jpg",
+      "season_number": 18,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2023-06-05",
+      "episode_count": 260,
+      "id": 351346,
+      "name": "Sezon 19",
+      "overview": "",
+      "poster_path": "/omwys5OcmSQCJwS02uOGcqBAQ4m.jpg",
+      "season_number": 19,
+      "vote_average": 9.3
+    },
+    {
+      "air_date": "2024-06-03",
+      "episode_count": 260,
+      "id": 394733,
+      "name": "Sezon 20",
+      "overview": "",
+      "poster_path": "/3bzECfllho8PphdYujLUIuhncJD.jpg",
+      "season_number": 20,
+      "vote_average": 9.7
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "Afrikaans",
+      "iso_639_1": "af",
+      "name": "Afrikaans"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.6,
+  "vote_count": 90,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70966,
+        "known_for_department": "Acting",
+        "name": "Hans Strydom",
+        "original_name": "Hans Strydom",
+        "popularity": 2.941,
+        "profile_path": "/eiThKxPOvP5K27smyugz6LW8NsH.jpg",
+        "character": "Dr. At Koster",
+        "credit_id": "64c8a92d89f74900e8cc6281",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1707492,
+        "known_for_department": "Acting",
+        "name": "Reynardt Hugo",
+        "original_name": "Reynardt Hugo",
+        "popularity": 0.356,
+        "profile_path": "/bzRCvB5eCwfPNG22LraDmy8f0PZ.jpg",
+        "character": "Dr. Tertius Jonker",
+        "credit_id": "64c8d158f794ad00ad058503",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1149949,
+        "known_for_department": "Acting",
+        "name": "Hykie Berg",
+        "original_name": "Hykie Berg",
+        "popularity": 0.949,
+        "profile_path": "/v4yr7aKtg1pa8Zl7vmwRF1RNK5x.jpg",
+        "character": "Dr. Conrad Bester",
+        "credit_id": "64c8e807d5191f00acd5882d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2057047,
+        "known_for_department": "Acting",
+        "name": "Germandt Geldenhuys",
+        "original_name": "Germandt Geldenhuys",
+        "popularity": 0.226,
+        "profile_path": "/mL3Ytc2t96RwvXAfsy5Fq9ZjeIn.jpg",
+        "character": "Louis Koster",
+        "credit_id": "65c480a9fd6fa10187791b08",
+        "order": 66
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1854858,
+        "known_for_department": "Acting",
+        "name": "Je-ani Swiegelaar",
+        "original_name": "Je-ani Swiegelaar",
+        "popularity": 0.71,
+        "profile_path": "/7ikfkseBLPdPD55NFWW4hJlwS9L.jpg",
+        "character": "Naomi Koster",
+        "credit_id": "65c4811c9451e70184bd0e3b",
+        "order": 71
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3413849,
+        "known_for_department": "Acting",
+        "name": "Kate Roothman",
+        "original_name": "Kate Roothman",
+        "popularity": 0.165,
+        "profile_path": "/xx88JkG4dTfqx3eB8y1jY5GXc4k.jpg",
+        "character": "Dr. Nicolette Nortje",
+        "credit_id": "661f7841a39d0b017d56401a",
+        "order": 78
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3947231,
+        "known_for_department": "Acting",
+        "name": "Gerald Steyn",
+        "original_name": "Gerald Steyn",
+        "popularity": 0.032,
+        "profile_path": "/dYnfi6UYok930QgcqECBhKRdiWg.jpg",
+        "character": "Dr. Uys Wagener",
+        "credit_id": "65002153d7dcd200ffeb7b45",
+        "order": 81
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "afrikaans",
+        "id": 10257
+      },
+      {
+        "name": "hospital",
+        "id": 11612
+      },
+      {
+        "name": "soap",
+        "id": 287219
+      },
+      {
+        "name": "drama",
+        "id": 316421
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/yWVqYVOUcS6vu22v4BPXKJW10m5.jpg",
+        "id": 206679,
+        "name": "Na lovu",
+        "original_name": "Na lovu",
+        "overview": "Na Lovu is a Czech game-show, based on the license of the popular global format The Chase. A heart-racing quiz show where four competitors must pit their wits and face off against Lovec (the Chaser), a ruthless quiz genius determined to stop them from winning cash prizes.",
+        "poster_path": "/udJ1wVuOwFg1q6UBcQGwcpcdIYF.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "cs",
+        "genre_ids": [
+          10764,
+          10751
+        ],
+        "popularity": 309.281,
+        "first_air_date": "2021-08-16",
+        "vote_average": 5.9,
+        "vote_count": 8,
+        "origin_country": [
+          "CZ"
+        ]
+      },
+      {
+        "backdrop_path": "/m944gXwEJ8Hp7GyokMAKSSo0yK9.jpg",
+        "id": 262969,
+        "name": "Return to Las Sabinas",
+        "original_name": "Regreso a Las Sabinas",
+        "overview": "Gracia ve Paloma, babaları Emilio'ya bakmak için Las Sabinas'a geri döner. Gracia, artık Esther ile nişanlı olan çocukluk aşkı Miguel ile yeniden bir araya gelir. Paloma ailenin topraklarını devralır ve Emilio'ya korkunç bir sırrı söyleyen, köyle ilgili kötü bir planı olan toprak sahibi Paca Utrera ile anlaşmazlık yaşar. Genç Óscar tuhaf koşullar altında ölü bulunur. Manuela, Óscar'ın rahip olan kardeşi Álex'in yardımıyla cinayeti araştırmalıdır.",
+        "poster_path": "/xMMH3r8gJtWVe1841BtHGjDooUm.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 30.092,
+        "first_air_date": "2024-10-11",
+        "vote_average": 6.1,
+        "vote_count": 7,
+        "origin_country": [
+          "ES"
+        ]
+      },
+      {
+        "backdrop_path": "/hifVroEnB9m6vTDXeqCeKfrp7Q3.jpg",
+        "id": 240909,
+        "name": "La Casa de los Famosos Colombia",
+        "original_name": "La Casa de los Famosos Colombia",
+        "overview": "",
+        "poster_path": "/xCvZ0H1RiWhU6yFtzRJL3PSI2jF.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 2407.27,
+        "first_air_date": "2024-02-11",
+        "vote_average": 6.6,
+        "vote_count": 27,
+        "origin_country": [
+          "CO"
+        ]
+      },
+      {
+        "backdrop_path": "/azQGTV8qSvwefjy25UXieleGFX.jpg",
+        "id": 215709,
+        "name": "Esaret",
+        "original_name": "Esaret",
+        "overview": "Bir yanda kibri ve intikam hırsıyla yanıp tutuşan Orhun, diğer yanda günahsız olduğu halde kendine biçilen rolü üstlenmeye hazır Hira… Demirhanlı ailesinin veliahdı Orhun ve ikiz kardeşini öldürdüğünü düşündüğü Hira’nın intikamla yoğurulan aşkı Esaret adıyla ekrana geliyor.\n\nDemirhanlı Konağı acı bir haberle sarsılır. Ailenin lideri, kudretli Orhun Demirhanlı’nın ikiz kız kardeşi, görev için gittiği Afrika’da korkunç bir cinayete kurban gider. Kız kardeşini almak için gittiği Afrika’da acı gerçekle yüzleşen Orhun, kardeşinin katillerini cezalandırmayı kafasına koyar. Yüreğindeki intikam ateşiyle hayatına devam etmeye çalışan Orhun, Afrika’dan dönerken içinde kor bir ateş, yanında ise köle bir kız olan Hira vardır. Bundan sonra ne dünya eskisi gibi olacaktır ne de Orhun Demirhanlı…",
+        "poster_path": "/2lUypzrIpZ87Crg2yrJKIJ5N5Z9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "tr",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 346.355,
+        "first_air_date": "2022-11-21",
+        "vote_average": 7.8,
+        "vote_count": 8,
+        "origin_country": [
+          "TR"
+        ]
+      },
+      {
+        "backdrop_path": "/cchlQWYrnMPyl1EbjZWCzeAz8l5.jpg",
+        "id": 36361,
+        "name": "Ulice",
+        "original_name": "Ulice",
+        "overview": "Ulice is a Czech soap opera produced and broadcast by Nova. In the Czech language Ulice means street.\n\nThe show describes the lives of the Farský, Jordán, Boháč, Nikl, and Liška families and many other people that live in Prague. Their daily battle against real problems of living in a modern world like divorce, love, betrayal and illness or disease. Ulice often shows crime.",
+        "poster_path": "/gFEHva8Csx18hMGJJZ6gi4sFSKR.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "cs",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 3651.829,
+        "first_air_date": "2005-09-05",
+        "vote_average": 4.6,
+        "vote_count": 31,
+        "origin_country": [
+          "CZ"
+        ]
+      },
+      {
+        "backdrop_path": "/i8iqYtAy9qcO5RSrA1f6fY1n6SN.jpg",
+        "id": 235484,
+        "name": "Suidooster",
+        "original_name": "Suidooster",
+        "overview": "Suidooster is a South African television soap opera produced by Suidooster Films which revolves around a matriarch, her family, friends and the people of Suidooster, a small shopping and business centre in the fictional Cape Town suburb of Ruiterbosch.",
+        "poster_path": "/naCgSiacvV685kait6fBvhVhdce.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "af",
+        "genre_ids": [
+          10766
+        ],
+        "popularity": 3176.151,
+        "first_air_date": "2015-11-16",
+        "vote_average": 7.381,
+        "vote_count": 21,
+        "origin_country": [
+          "ZA"
+        ]
+      },
+      {
+        "backdrop_path": "/wqebNDaopLixqxeQRDaqhNfy866.jpg",
+        "id": 242551,
+        "name": "Rüzgarlı Tepe",
+        "original_name": "Rüzgarlı Tepe",
+        "overview": "Zeynep is the smart, well-behaved, exemplary daughter of the wealthiest family in the town where she lives, while Halil is a young man who lost his mother and father at an early age and lives with his aunt with a grudge to avenge his family. These two young people who live despite their families will find themselves in an unthinkable blind knot.",
+        "poster_path": "/vGrrdx21rS69tl55mxpl9pn9ebx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "tr",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 244.796,
+        "first_air_date": "2024-01-01",
+        "vote_average": 7.5,
+        "vote_count": 20,
+        "origin_country": [
+          "TR"
+        ]
+      },
+      {
+        "backdrop_path": "/va6iR1UBVvbj9xFKbK1XHvALb98.jpg",
+        "id": 233952,
+        "name": "Golden Trio",
+        "original_name": "老家伙",
+        "overview": "Xiao Changqing, Sun Qiancheng, and Chen Xincheng worked hard all their lives. After retirement, they finally got together and co-founded a warm retirement community. In the community, they solved problems that elderly people faced, including their own.",
+        "poster_path": "/4edgc2TuV3PP7FvFV2zzWDRagNP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "zh",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 28.451,
+        "first_air_date": "2024-05-14",
+        "vote_average": 6.1,
+        "vote_count": 9,
+        "origin_country": [
+          "CN"
+        ]
+      },
+      {
+        "backdrop_path": "/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
+        "id": 291,
+        "name": "Coronation Street",
+        "original_name": "Coronation Street",
+        "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
+        "poster_path": "/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10766
+        ],
+        "popularity": 1370.411,
+        "first_air_date": "1960-12-09",
+        "vote_average": 5.3,
+        "vote_count": 110,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg",
+        "id": 65701,
+        "name": "Good Mythical Morning",
+        "original_name": "Good Mythical Morning",
+        "overview": "Two \"Internetainers\" (Rhett & Link) go far out and do the weirdest things, giving you a daily dose of casual comedy every Monday-Friday.",
+        "poster_path": "/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 3344.859,
+        "first_air_date": "2012-01-09",
+        "vote_average": 6.8,
+        "vote_count": 67,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7VO04TtL1jIT6XOPs9u4jdB8KaB.jpg",
+        "id": 59941,
+        "name": "The Tonight Show Starring Jimmy Fallon",
+        "original_name": "The Tonight Show Starring Jimmy Fallon",
+        "overview": "Emmy ve Grammy ödüllü Jimmy Fallon, yüksek enerjisi ve esprileriyle bir televizyon efsanesi olan \"The Tonight Show\"a damgasını vuruyor. Oyuncudan müzisyene, komedyenden politikacıya çok sayıda renkli ismin katıldığı şovda ünlülerle yapılan skeçler ve müzikal parodiler de eğlencenin dozunu artırıyor.",
+        "poster_path": "/g4amxJvtpnY79J77xeamnAEUO8r.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 3686.848,
+        "first_air_date": "2014-02-17",
+        "vote_average": 5.8,
+        "vote_count": 322,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/36iVELhma9MawHkdMDPNRX8onEu.jpg",
+        "id": 68073,
+        "name": "Gürültü Ailesi",
+        "original_name": "The Loud House",
+        "overview": "Ortanca çocuk Lincoln'ün her biri birer baş belası olan beşi büyük, beşi küçük tam on kız kardeşle yaşamaya çalıştığı Gürültü ailesinin evine kargaşa hâkimdir.",
+        "poster_path": "/rR1X56iuTkmszfqp2QRPyWJvNQY.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10751,
+          10762,
+          9648
+        ],
+        "popularity": 652.548,
+        "first_air_date": "2016-05-02",
+        "vote_average": 7.824,
+        "vote_count": 535,
+        "origin_country": [
+          "US",
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/qmcoEOrTm6BcgR4iO7KBQKE9AKT.jpg",
+        "id": 4614,
+        "name": "NCIS",
+        "original_name": "NCIS",
+        "overview": "Deniz Kuvvetleri Kriminal Araştırma Servisi ya da kısa deyişle \"NCIS\". Bu nefes kesen aksiyon drama, deniz kuvvetlerine ilişkin suçları araştıran özel bir ekibin her daim şaşırtıcı serüvenlerine odaklanıyor. Bol dozda mizahla yoğrulmuş \"NCIS\"ın başrolünde '80'lerin unutulmaz dizilerinden \"Flamingo Yolu\"yla tanıyıp sevdiğimiz Mark Harmon var.\n\nRenkli kişiliklerden oluşan NCIS ekibinin lideri; eşsiz yeteneklere sahip, eski bir deniz topçu astsubayı olan Özel Ajan Leroy Jethro Gibbs. Gibbs'in altında çalışan Özel Ajan Anthony Dinozzo ise eski bir cinayet masası dedektifi. Sezgileri çok kuvvetli. Ekibin diğer üyeleri; yetenekli bir bilimadamı olan adli uzman Abby Sciuto ve bilgisayar dahisi NCIS Özel Ajanı Timoth McGee. Ekibin en büyük yardımcısı ise adli tıp doktoru Dr. Donald \"Ducky\" Mallard. Cinayet ve casusluktan, terörizme ve denizaltı hırsızlığına kadar bu özel ajanlar, deniz kuvvetleriyle bağlantılı her türlü suçu araştırmak için dünyayı dolaşıyor.",
+        "poster_path": "/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          10759
+        ],
+        "popularity": 1034.739,
+        "first_air_date": "2003-09-23",
+        "vote_average": 7.627,
+        "vote_count": 2324,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cFZYtCx54BmFXe4wExts2tPnPHh.jpg",
+        "id": 58841,
+        "name": "Chicago P.D.",
+        "original_name": "Chicago P.D.",
+        "overview": "Chicago Fire'ın uzantısı (Spin-off) olan ve NBC kanalı için çekilmiş bir Amerikan dizisidir. Chicago Polis Departmanı, iki farklı gruptan oluşur: Üniformalı polisler ve İstihbarat Birimi. İstihbarat Birimi, organize suçlar, uyuşturucu kaçakçılığı ve üst düzey cinayetlerle ilgilenirken, Üniformalı Polisler ise şehrin sokak suçlarıyla ve devriye gezmekle meşguldürler.",
+        "poster_path": "/2nHdAW7MUMuXMJO6ev0mFMhEq8P.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 645.501,
+        "first_air_date": "2014-01-08",
+        "vote_average": 8.4,
+        "vote_count": 2448,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lHe8iwM4Cdm6RSEiara4PN8ZcBd.jpg",
+        "id": 44217,
+        "name": "Vikingler",
+        "original_name": "Vikings",
+        "overview": "Viking kahramanı Ragnar Lothbrok’un, ileriyi göremeyen, yetersiz bir lidere meydan okuyarak Norse sınırlarını nasıl genişlettiğini seyrettiğimiz gerçekçi bir dram.",
+        "poster_path": "/qkCh6cFSHikSIFTWUQyJ2qJzqsy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10768
+        ],
+        "popularity": 450.102,
+        "first_air_date": "2013-03-03",
+        "vote_average": 8.096,
+        "vote_count": 7070,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/9faGSFi5jam6pDWGNd0p8JcJgXQ.jpg",
+        "id": 1396,
+        "name": "Breaking Bad",
+        "original_name": "Breaking Bad",
+        "overview": "Kanserden öleceğini öğrenen bir kimya öğretmeni, ailesinin geleceğini garanti altına almak için metamfetamin üretip satmak üzere eski bir öğrencisiyle kafa kafaya verir.",
+        "poster_path": "/ineLOBPG8AZsluYwnkMpHRyu7L.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 540.297,
+        "first_air_date": "2008-01-20",
+        "vote_average": 8.923,
+        "vote_count": 15144,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+        "id": 93405,
+        "name": "Squid Game",
+        "original_name": "오징어 게임",
+        "overview": "Para sıkıntısı çeken yüzlerce oyuncu, çocuk oyunlarında yarışmaları için aldıkları tuhaf daveti kabul eder. İçeride onları cazip bir ödül ve ölüm riski beklemektedir.",
+        "poster_path": "/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          10759,
+          9648,
+          18
+        ],
+        "popularity": 603.484,
+        "first_air_date": "2021-09-17",
+        "vote_average": 7.9,
+        "vote_count": 15546,
+        "origin_country": [
+          "KR"
+        ]
+      },
+      {
+        "backdrop_path": "/cUh0d1ev6cEQ8KxCe3YQYa8AR50.jpg",
+        "id": 62650,
+        "name": "Chicago Med",
+        "original_name": "Chicago Med",
+        "overview": "Şehrin en patlayıcı hastanesinin ve onu bir arada tutan cesur doktor ekibinin günlük kaosunda duygusal bir heyecan yolculuğu. Acil servisin nabzını artıran pandeminin içinde ateşli ilişkiler kurarak, güncel olaylardan ilham alan benzersiz yeni vakaları ele alacaklar.",
+        "poster_path": "/8UXGfvjKzzkGepXZU43dgpK48oY.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 303.684,
+        "first_air_date": "2015-11-17",
+        "vote_average": 8.3,
+        "vote_count": 1174,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+        "id": 1399,
+        "name": "Game of Thrones",
+        "original_name": "Game of Thrones",
+        "overview": "Krallık dediğin savaşsız olur mu? En güçlü krallığı kurup, huzuru sağlamış olsan bile bu gücü elinde nasıl koruyacaksın? Burada yanlış yapana yer yok, affetmek yok. Kuzey Krallığının hükümdarı Lord Ned Stark, uzun ve zorlu savaşlardan sonra anayurduna dönüp krallığını bütünlük içerisinde tutmayı başarmıştır. Kral Robert Baratheon ile yıllarca omuz omuza çarpışan ve Baratheon'un kral olmasını sağlayan Ned Stark'ın tek istediği kuzey sınırlarını koruyan krallığında ailesiyle ve halkıyla yaşamaktır. \n\nFakat suyun öte yanında kendi topraklarından ve krallığından kovulduğunu iddia eden Viserys Targaryen , kız kardeşi Daenerys'i barbar kavimlerin başı Han Drogo'ya vererek, güç birliği planları yapmaktadır. Tahtını büyük bir iştahla geri isteyen ama kraliyet oyunlarından habersiz olan Viserys'in planları Kral Baratheon'a ulaşır. Savaş alanında büyük cengaver olan ama ülke ve aile yönetiminde aynı başarıyı tutturamayan Baratheon'un tamamen güvenebileceği ve her yanlış hamlesini arkasından toplayacak yeni bir sağ kola ihtiyacı vardır. Kuzeyin Lordu Ned Stark bu görev için seçilen tek aday isimdir. Kış yaklaşıyor...\n\nHanedan entrikaları, kapılı kapılar ardında dönen oyunlar, birilerinin kuyusunu kazmak için düşmanın koynuna girmekten çekinmeyen kadınlar, kardeşler arası çekişmeler, dışlanmalar... Hepsi tek bir hedef için: Taht kavgası..",
+        "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 723.189,
+        "first_air_date": "2011-04-17",
+        "vote_average": 8.5,
+        "vote_count": 24677,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sccDflItNho4OiHkzpiDxB2fUFw.jpg",
+        "id": 1418,
+        "name": "The Big Bang Theory",
+        "original_name": "The Big Bang Theory",
+        "overview": "En büyük zevkleri kuantum fiziğine kafa yormak olan üstün zekalı iki arkadaş, güzel bir kızla karşılaşınca ne yaparlar? The Big Bang Theory, işte o karşılaşma anında gerçekleşen büyük patlama ve sonrasını anlatan bir komedi dizisi. Leonard ve Sheldon adlarındaki iki arkadaşın oturdukları apartmanda yan dairelerine yeni bir komşu taşınır. Adı Penny olan bu komşu güzeller güzeli bir sarışındır. Üstelik maceralı bir ilişkiden daha yeni sapasağlam ayakta çıkmıştır. Penny, zekaları gereğinden fazla ilerlemiş, ancak kızlar konusunda oldukça geri kalmış bu yeni iki komşusuna hayat hakkında öğretebileceği bir şeyleri olduğunu düşünmektedir. Yaşanacak olanlar da zaman içinde onun ne kadar haklı olduğunu gösterecektir. ",
+        "poster_path": "/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 222.02,
+        "first_air_date": "2007-09-24",
+        "vote_average": 7.91,
+        "vote_count": 11545,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

@@ -1,0 +1,732 @@
+{
+  "adult": false,
+  "backdrop_path": "/fVO7r9tAnauny8DAqbetlQ1tVtu.jpg",
+  "created_by": [
+    {
+      "id": 1232720,
+      "credit_id": "5257448619c29531db07bdf9",
+      "name": "Jean-Yves Raimbaud",
+      "original_name": "Jean-Yves Raimbaud",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    7
+  ],
+  "first_air_date": "1999-09-06",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animasyon"
+    },
+    {
+      "id": 35,
+      "name": "Komedi"
+    },
+    {
+      "id": 10762,
+      "name": "Çocuklar"
+    },
+    {
+      "id": 10751,
+      "name": "Aile"
+    }
+  ],
+  "homepage": "http://www.oggy.com",
+  "id": 2777,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2022-05-10",
+  "last_episode_to_air": {
+    "id": 4682729,
+    "name": "78. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2022-05-10",
+    "episode_number": 78,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 7,
+    "season_number": 8,
+    "show_id": 2777,
+    "still_path": null
+  },
+  "name": "Oggy ve Hamam Böcekleri",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 249,
+      "logo_path": "/1ePfTUHHvBlVQxa0Fltx5kWhIs5.png",
+      "name": "France 3",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1655,
+      "logo_path": "/hH6DWsQrWaoLYN3X7TnaqGWJ9CO.png",
+      "name": "Canal+ Family",
+      "origin_country": "FR"
+    },
+    {
+      "id": 2638,
+      "logo_path": "/4b8ZM73YKqFCJLbQB70Pyw5wQCK.png",
+      "name": "Gulli",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 579,
+  "number_of_seasons": 8,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Oggy et les Cafards",
+  "overview": "",
+  "popularity": 100.3097,
+  "poster_path": "/fCsdxyQLVTy8KkGUZ4yKt71YdVJ.jpg",
+  "production_companies": [
+    {
+      "id": 17065,
+      "logo_path": "/mqoS56YswPVBO3nriH2Qj6pWWbY.png",
+      "name": "Studio Xilam",
+      "origin_country": "FR"
+    },
+    {
+      "id": 11070,
+      "logo_path": null,
+      "name": "Saban International",
+      "origin_country": "FR"
+    },
+    {
+      "id": 7961,
+      "logo_path": null,
+      "name": "Gaumont International",
+      "origin_country": "FR"
+    },
+    {
+      "id": 11244,
+      "logo_path": "/gCHH1xt3dKjlm9NuMPF9ekpPWD6.png",
+      "name": "France 3",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1999-09-06",
+      "episode_count": 78,
+      "id": 9000,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/ossEEip38LND9rbuJZh46zHQJrM.jpg",
+      "season_number": 1,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2000-09-04",
+      "episode_count": 78,
+      "id": 9002,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/562u8EEZcjqf7qDxiai6tnU8BK5.jpg",
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2008-10-18",
+      "episode_count": 39,
+      "id": 9003,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/lIbjzcAFDHyRNLb599Unn72aDnH.jpg",
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2012-06-02",
+      "episode_count": 74,
+      "id": 9004,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/lh3bkethDDAMEF7vTxJ7kQ1NXW7.jpg",
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2017-06-30",
+      "episode_count": 39,
+      "id": 92535,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/9yCve6Ad9iWgXIyRQIszyqyvulr.jpg",
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2017-11-25",
+      "episode_count": 115,
+      "id": 115892,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/uLPaXsPysWU9j8RWlQ49TS7BXq4.jpg",
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2019-01-12",
+      "episode_count": 78,
+      "id": 173933,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/QJL1kS41PHdUhqKSks612UGrHL.jpg",
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2021-11-08",
+      "episode_count": 78,
+      "id": 354330,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/cCrq8nrKTsR0SsAtiEjwjphKDpo.jpg",
+      "season_number": 8,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.4,
+  "vote_count": 342,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1643163,
+        "known_for_department": "Acting",
+        "name": "Kaycie Chase",
+        "original_name": "Kaycie Chase",
+        "popularity": 0.7116,
+        "profile_path": "/tis8Xvy8ALtFc9Kt7JBma0ze3Xp.jpg",
+        "character": "Piya (voice)",
+        "credit_id": "64eb0a71594c9400acb0d392",
+        "order": 0
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "cockroach",
+        "id": 7325
+      },
+      {
+        "name": "slapstick comedy",
+        "id": 9253
+      },
+      {
+        "name": "rivalry",
+        "id": 9823
+      },
+      {
+        "name": "cartoon cat",
+        "id": 15284
+      },
+      {
+        "name": "annoying",
+        "id": 211471
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/txdtb0VZwGqWBisR6dg8XHbKAvc.jpg",
+        "id": 8456,
+        "name": "Shaka Laka Boom Boom",
+        "original_name": "शाका लाका बूम बूम",
+        "overview": "Anything that is drawn using the magical pencil found by Sanju, a young boy, becomes a reality. Soon, Sanju finds himself battling many evil forces who wish to misuse the pencil.",
+        "poster_path": "/6lbFeuPxjDBagcqxVu5PHrcVzvy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "hi",
+        "genre_ids": [
+          10751,
+          10762
+        ],
+        "popularity": 12.623,
+        "first_air_date": "2002-08-19",
+        "vote_average": 6.7,
+        "vote_count": 17,
+        "origin_country": [
+          "IN"
+        ]
+      },
+      {
+        "backdrop_path": "/4yEyKxaN9AR1s9vTqKCY1Dr3a0X.jpg",
+        "id": 24211,
+        "name": "Josie and the Pussycats in Outer Space",
+        "original_name": "Josie and the Pussycats in Outer Space",
+        "overview": "Josie and the gang are accidentally launched into space.",
+        "poster_path": "/bdoWG0ras2rpDdZkJQvVw21W7PO.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10751,
+          10762
+        ],
+        "popularity": 9.5778,
+        "first_air_date": "1972-09-09",
+        "vote_average": 7.7,
+        "vote_count": 27,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/v2b4GxILejrDk8Y0WLzTZqkM39Z.jpg",
+        "id": 3048,
+        "name": "Gece Bahçesi",
+        "original_name": "In the Night Garden",
+        "overview": "In the Night Garden is a magical place that exists between the waking and sleeping imagination of children close to the representation of a nursery rhyme.",
+        "poster_path": "/qD5xsX8aPNYHATq6f28WVQslpqq.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10762
+        ],
+        "popularity": 20.6252,
+        "first_air_date": "2007-03-19",
+        "vote_average": 6.6,
+        "vote_count": 14,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/sQ9dqz7i2i1vjBdhERgbWJpEh6c.jpg",
+        "id": 22824,
+        "name": "If I See You in my Dreams",
+        "original_name": "夢で逢えたら",
+        "overview": "Virgin 24 year-old Fuguno Masuo is desperately in love with Shiozaki Nagisa, a 22 year-old kindergarten teacher. He is popular among the women, but he truly only has eyes for Nagisa. However, he is a clumsy, thickheaded and gentle man and gets into trouble a lot. He ends up in situations where it is easy for poor Nagisa to misinterpret what really happened.",
+        "poster_path": "/A3lIh4SoN1aKN1Sl4Oy7fLTUZ3Z.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16
+        ],
+        "popularity": 1.3402,
+        "first_air_date": "1998-11-30",
+        "vote_average": 6.6,
+        "vote_count": 26,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/fCmdCfl4aKGWhw5s5XBarohihXL.jpg",
+        "id": 3578,
+        "name": "The Herculoids",
+        "original_name": "The Herculoids",
+        "overview": "Somewhere out in the deep space live the Herculoids. Humanoid Zandor, along with his wife Tara and son Dorno, lead a group of unique creatures: Zok the flying dragon, powerful simian Igoo, rhinoceros hybrid Tundro and two protoplasmic wonders  named Gloop and Gleep. Together, they use their diverse super strengths to defend their utopian planet against attack from sinister invaders.",
+        "poster_path": "/uoNk7Lkt44lIaosI2clzQZMAqgY.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "popularity": 8.6384,
+        "first_air_date": "1967-09-09",
+        "vote_average": 7.2,
+        "vote_count": 24,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/aPv4PHQgQdJtjChMcHmffvFJ5JY.jpg",
+        "id": 65739,
+        "name": "Perman",
+        "original_name": "パーマン",
+        "overview": "After Mitsuo receives a mask from a retiring superhero, he becomes Perman.",
+        "poster_path": "/gIYb3boKJ7QScJwzmcUs2ztb84U.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          35,
+          10765
+        ],
+        "popularity": 10.9518,
+        "first_air_date": "1967-04-02",
+        "vote_average": 7.1,
+        "vote_count": 9,
+        "origin_country": []
+      },
+      {
+        "backdrop_path": "/kdBkbMykQBG6oeSpJQ2nttCuvmS.jpg",
+        "id": 5500,
+        "name": "SOKO München",
+        "original_name": "SOKO München",
+        "overview": "SOKO 5113 is a long-running German police procedural television series. It was first aired in 1978 on 2 January. SOKO is an abbreviation of the term \"Sonderkommission\" in German.",
+        "poster_path": "/hXWVu2OyKMnfrurvCRUY1TpzOjx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          80
+        ],
+        "popularity": 59.2579,
+        "first_air_date": "1978-01-02",
+        "vote_average": 5.5,
+        "vote_count": 6,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 48512,
+        "name": "Classic Tales",
+        "original_name": "Classic Tales",
+        "overview": "",
+        "poster_path": "/hvGxYsXWQf8jLb6Pz6GnA7OElnG.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762
+        ],
+        "popularity": 9.8763,
+        "first_air_date": "2008-05-31",
+        "vote_average": 8.5,
+        "vote_count": 2,
+        "origin_country": [
+          "AU"
+        ]
+      },
+      {
+        "backdrop_path": "/6bxkjD9jkRl6oRSOi0y3O9ADV6X.jpg",
+        "id": 68388,
+        "name": "İçerde",
+        "original_name": "İçerde",
+        "overview": "Polis Akademisi'nde öğrenci olan Sarp ve Mert, kardeş olduklarından habersiz birbirlerine rakip olurlar. Bu rekabet, içine girdikleri tehlikeli hayatlarda da devam eder.",
+        "poster_path": "/63v7p8t5sShiCGRLzePlgCu6TNj.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "tr",
+        "genre_ids": [
+          10759,
+          18,
+          80
+        ],
+        "popularity": 9.7084,
+        "first_air_date": "2016-09-19",
+        "vote_average": 7.881,
+        "vote_count": 42,
+        "origin_country": [
+          "TR"
+        ]
+      },
+      {
+        "backdrop_path": "/37NKej5mfqvTxvJVoADfRaVVl6h.jpg",
+        "id": 9867,
+        "name": "The Sylvester & Tweety Mysteries",
+        "original_name": "The Sylvester & Tweety Mysteries",
+        "overview": "Sylvester and Tweety help out when Granny opens a detective agency.",
+        "poster_path": "/b8AkMeacC71nABALm5GgT1x5nMo.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          9648,
+          80
+        ],
+        "popularity": 21.08,
+        "first_air_date": "1995-09-09",
+        "vote_average": 6.5,
+        "vote_count": 104,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qfR4wMsqkBUu4LLtiQvtqAgL7zQ.jpg",
+        "id": 31756,
+        "name": "Son Çarpışma",
+        "original_name": "Impact",
+        "overview": "Dev bir asteroid ay yüzeyine çarparak büyük bir patlama oluşturur. Kısa süre içinde Dünya yüzeyinde felaket seviyesinde anormallikler ortaya çıkmaya başlar. 10,000 yıldan bu yana en geniş alana yayılan meteor düşüşleri Dünya ve Ay arasında potensiyel bir çarpışmanın tetikleyicisi olur.",
+        "poster_path": "/rXPMbXRcuTQe8T8iwpWa1bxZt62.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10765,
+          18
+        ],
+        "popularity": 3.7351,
+        "first_air_date": "2009-02-14",
+        "vote_average": 5.922,
+        "vote_count": 83,
+        "origin_country": [
+          "US",
+          "DE"
+        ]
+      },
+      {
+        "backdrop_path": "/eHaGHJyT8O44N4kEwjKXZfVLzzF.jpg",
+        "id": 69919,
+        "name": "World of Winx",
+        "original_name": "World of Winx",
+        "overview": "The Winx travel all over the world searching for talent for WOW. and preventing the mysterious talent thief from kidnapping them.",
+        "poster_path": "/cOC38RuSnknVx2jwASBDFN3dbVe.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759
+        ],
+        "popularity": 4.8721,
+        "first_air_date": "2016-11-04",
+        "vote_average": 8.0,
+        "vote_count": 46,
+        "origin_country": [
+          "IT"
+        ]
+      },
+      {
+        "backdrop_path": "/axCCTUxJcc8Ju03iCvsvK8OwT0o.jpg",
+        "id": 86389,
+        "name": "Cyborg Kuro-chan",
+        "original_name": "サイボーグクロちゃん",
+        "overview": "Kuro is just an ordinary cat who only wants to protect his owners who are an old couple that can't fend for themselves. One day while on a date with his girlfriend Pooly who is a dog, he is kidnapped by an evil scientist and turned into a robot. Kuro somehow removes the chip that controlled him and notices that people get scared with his new robotic appearance and that he can now talk like a human. He decides to disguise himself with the skin of a stuffed toy and to continue living as a pet.",
+        "poster_path": "/rjTuVZBLV7DCNN7R0CtPziVFPb4.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          35,
+          16,
+          10759
+        ],
+        "popularity": 1.5306,
+        "first_air_date": "1999-10-02",
+        "vote_average": 8.6,
+        "vote_count": 125,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/f307veKEFZqvFRkMkffDEXf280w.jpg",
+        "id": 606,
+        "name": "Ed, Edd ve Eddy",
+        "original_name": "Ed, Edd n Eddy",
+        "overview": "Dikkat çekici, kendine özgü üç renkli karakter... Kendilerine ait ayrı ayrı hayatları var ama davranışları ve aralarındaki ilişki daha da önemli.",
+        "poster_path": "/nfKenwmfmdtoXGhaYiDIftrBchw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10762,
+          10751
+        ],
+        "popularity": 35.3029,
+        "first_air_date": "1999-01-04",
+        "vote_average": 7.9,
+        "vote_count": 747,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/70xTjXpb0kfOhTRJqKwDYSG8Kle.jpg",
+        "id": 30623,
+        "name": "Shin Chan",
+        "original_name": "クレヨンしんちゃん",
+        "overview": "Shin-chan, the boy next door, is a walking disaster, creating chaos wherever he goes. With the body of a child and the mind of an adult, Shinchan is wreaking more havoc than any child before. Shin-chan is carefree, optimistic and gets excited about everything. This 5 year-old likes to do things his way.",
+        "poster_path": "/zg19Paur3lVVSh8J4LJVO1wgBIg.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          35,
+          10762
+        ],
+        "popularity": 35.5085,
+        "first_air_date": "1992-04-13",
+        "vote_average": 7.82,
+        "vote_count": 100,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/wIe1HL7oMNwyltsqqx2sCPwNl4w.jpg",
+        "id": 2304,
+        "name": "Thomas & Friends",
+        "original_name": "Thomas & Friends",
+        "overview": "Thomas & Friends is a British children's television series, which had its first broadcast on the ITV network on 4 September 1984. It is based on The Railway Series of books by the Reverend Wilbert Awdry and his son, Christopher Awdry. These books deal with the adventures of a group of anthropomorphised locomotives and road vehicles who live on the fictional Island of Sodor. The books were based on stories Wilbert told to entertain his son, Christopher during his recovery from measles. From Series one to four, many of the stories are based on events from Awdry's personal experience.",
+        "poster_path": "/ovJvWQ8E8aYShcRlTwpqKhuq7FA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762
+        ],
+        "popularity": 74.8759,
+        "first_air_date": "1984-10-09",
+        "vote_average": 6.7,
+        "vote_count": 123,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/b1jIOCcB9QeXubzhvoguq258RNW.jpg",
+        "id": 1072,
+        "name": "Scooby's Laff-A Lympics",
+        "original_name": "Scooby's Laff-A Lympics",
+        "overview": "Each episode of this series include multiple segments: The first and last were \"Laff-A-Lympics\" segments, the other ones were \"Captain Caveman and the Teen Angels\", \"Scooby-Doo\" and \"Dynomutt\" segments.\n\nThe \"Laff-A-Lympics\" segments feature 45 Hanna-Barbera cartoon characters (classic and otherwise) competing for gold medals in wacky events. Events include racing on ostriches, camels, kangaroos, rickshaws and unicycles, as well as scavenging for creatures like the Abominable Snowman, vampires, and the Loch Ness Monster.",
+        "poster_path": "/a49OxzhDFJiGETpp1toYcfh4Nww.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10762,
+          10751,
+          9648
+        ],
+        "popularity": 23.1744,
+        "first_air_date": "1977-09-10",
+        "vote_average": 8.2,
+        "vote_count": 127,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/PJSgscE4Es0TXmgIqp3X6ey8Ux.jpg",
+        "id": 1546,
+        "name": "Recess",
+        "original_name": "Recess",
+        "overview": "Join a group of six fourth-grade best friends at Third Street Elementary School on their fun-filled adventures in their school playground. Through the ups-and-downs of adolescence, they must wrestle with authority, avoid the school snitch, and try their best to win at kick-ball.",
+        "poster_path": "/nRKCxiZROeNaC5H80hVqSqWMYZr.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762,
+          35
+        ],
+        "popularity": 26.1216,
+        "first_air_date": "1997-09-13",
+        "vote_average": 7.7,
+        "vote_count": 482,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/iAyrPRIy0RjIFIFMHcDaRe0CW9U.jpg",
+        "id": 3809,
+        "name": "Yin Yang Yo!",
+        "original_name": "Yin Yang Yo!",
+        "overview": "Two 11-year-old rabbit twins named Yin and Yang train under Master Yo, a grumpy old panda. They learn the sacred art of Woo Foo, a special type of martial arts that involves both might and magic. They must work together to save the world from evil villains and forces that want to destroy, corrupt or take it over. However, through all these adventures, Yin and Yang still portray stereotypical siblings; belligerently antagonistic but still ultimately caring about each other and working together if needed.",
+        "poster_path": "/qb8gxfpjQ2smnnDIEiEsFmK1lqE.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10751,
+          10759,
+          10765,
+          35,
+          10762
+        ],
+        "popularity": 46.9913,
+        "first_air_date": "2006-08-26",
+        "vote_average": 7.6,
+        "vote_count": 117,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/onwny8s0VTTN7te9TJnItgvyWHy.jpg",
+        "id": 3902,
+        "name": "Shaun the Sheep",
+        "original_name": "Shaun the Sheep",
+        "overview": "Shaun the Sheep thinks and acts like a person in a barnyard, which usually gets him into trouble. The farmer's sheepdog, Bitzer, tries to keep Shaun and his friends out of trouble. The farmer is oblivious to the humanlike features of his flock, who are like one big, happy family.",
+        "poster_path": "/z2gPfTQd3I0JLWOAEdKYMQRLoun.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10762
+        ],
+        "popularity": 39.8578,
+        "first_air_date": "2007-03-05",
+        "vote_average": 7.68,
+        "vote_count": 244,
+        "origin_country": [
+          "GB"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

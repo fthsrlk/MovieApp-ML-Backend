@@ -1,0 +1,708 @@
+{
+  "adult": false,
+  "backdrop_path": "/amtOltTVcK9vQtL1iQS6p3LBi05.jpg",
+  "created_by": [
+    {
+      "id": 136487,
+      "credit_id": "65fc88bc0bc529017cb0df46",
+      "name": "David Letterman",
+      "original_name": "David Letterman",
+      "gender": 2,
+      "profile_path": "/nk1rMabb84e52G2oax6yO9FBiAd.jpg"
+    },
+    {
+      "id": 1217250,
+      "credit_id": "65fc88c17707000163079cf1",
+      "name": "Peter Lassally",
+      "original_name": "Peter Lassally",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    40
+  ],
+  "first_air_date": "2015-03-23",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://www.cbs.com/shows/late-late-show/",
+  "id": 62223,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2023-04-27",
+  "last_episode_to_air": {
+    "id": 4399075,
+    "name": "102. Bölüm",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2023-04-27",
+    "episode_number": 102,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 40,
+    "season_number": 8,
+    "show_id": 62223,
+    "still_path": null
+  },
+  "name": "The Late Late Show with James Corden",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 1200,
+  "number_of_seasons": 8,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Late Late Show with James Corden",
+  "overview": "",
+  "popularity": 1794.776,
+  "poster_path": "/qPmVoG8G9tc1nN8ZwGV2zYcknit.jpg",
+  "production_companies": [
+    {
+      "id": 1081,
+      "logo_path": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+      "name": "CBS Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 211069,
+      "logo_path": "/lNSXnoZxWcqSFbjI62A7aRGZOPa.png",
+      "name": "Fulwell 73 Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-03-29",
+      "episode_count": 11,
+      "id": 88095,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2015-03-23",
+      "episode_count": 164,
+      "id": 65538,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/4jflgcZbpbYGeBqkFokZsHLEGeW.jpg",
+      "season_number": 1,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "2016-03-28",
+      "episode_count": 207,
+      "id": 73522,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/3TenBKveHTyhuLnVkMzlpzrkwOO.jpg",
+      "season_number": 2,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2017-09-05",
+      "episode_count": 148,
+      "id": 95886,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/3TenBKveHTyhuLnVkMzlpzrkwOO.jpg",
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2018-09-03",
+      "episode_count": 146,
+      "id": 95888,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/3TenBKveHTyhuLnVkMzlpzrkwOO.jpg",
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2019-09-02",
+      "episode_count": 136,
+      "id": 137810,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2020-09-07",
+      "episode_count": 153,
+      "id": 197767,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2021-09-07",
+      "episode_count": 144,
+      "id": 209429,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2022-09-06",
+      "episode_count": 102,
+      "id": 309514,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 10.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 5.4,
+  "vote_count": 132,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55466,
+        "known_for_department": "Acting",
+        "name": "James Corden",
+        "original_name": "James Corden",
+        "popularity": 14.605,
+        "profile_path": "/xGB0gfZ48M27gQjjL7inJIh1Pqj.jpg",
+        "character": "Self - Host",
+        "credit_id": "5513ab4fc3a36841bd000c18",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 223879,
+        "known_for_department": "Acting",
+        "name": "Reggie Watts",
+        "original_name": "Reggie Watts",
+        "popularity": 5.748,
+        "profile_path": "/4498ocedmBNnMIKtnMUGO8yIesx.jpg",
+        "character": "Self - Bandleader",
+        "credit_id": "5513ab7b92514104620015f1",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1701467,
+        "known_for_department": "Production",
+        "name": "Michelle Basterrechea",
+        "original_name": "Michelle Basterrechea",
+        "popularity": 0.074,
+        "profile_path": "/7gVshvqhfFv9ZJvelA7Pm4vQjhI.jpg",
+        "credit_id": "5e97007e30f79c0012d8983a",
+        "department": "Production",
+        "job": "Line Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "late night",
+        "id": 156202
+      },
+      {
+        "name": "late-night show",
+        "id": 242216
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/7VO04TtL1jIT6XOPs9u4jdB8KaB.jpg",
+        "id": 59941,
+        "name": "The Tonight Show Starring Jimmy Fallon",
+        "original_name": "The Tonight Show Starring Jimmy Fallon",
+        "overview": "Emmy ve Grammy ödüllü Jimmy Fallon, yüksek enerjisi ve esprileriyle bir televizyon efsanesi olan \"The Tonight Show\"a damgasını vuruyor. Oyuncudan müzisyene, komedyenden politikacıya çok sayıda renkli ismin katıldığı şovda ünlülerle yapılan skeçler ve müzikal parodiler de eğlencenin dozunu artırıyor.",
+        "poster_path": "/g4amxJvtpnY79J77xeamnAEUO8r.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 3686.848,
+        "first_air_date": "2014-02-17",
+        "vote_average": 5.8,
+        "vote_count": 322,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7jEnft2CLNbILWAiBRIBrXNN7Qh.jpg",
+        "id": 498,
+        "name": "David Letterman ile Geç Gösteri",
+        "original_name": "Late Show with David Letterman",
+        "overview": "ABD’nin en çok izlenen talk show ustalarından David Letterman; sinema, televizyon, tiyatro, müzik, politika ve spor dünyasının zirvedeki isimlerini ağırladığı ünlü şovuyla izleyicileri gülmekten kırıp geçiriyor.",
+        "poster_path": "/fTBC5EpsgKmli9VQcJMtqQ08Qj4.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767,
+          35
+        ],
+        "popularity": 2955.528,
+        "first_air_date": "1993-08-30",
+        "vote_average": 6.3,
+        "vote_count": 149,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1IVTdSgLtx4tFrEmpmAfhy746Fk.jpg",
+        "id": 135597,
+        "name": "Fairfax",
+        "original_name": "Fairfax",
+        "overview": "Follow four middle school best friends on their never-ending quest for clout in Fairfax Avenue in Los Angeles — the pulsing heart of hypebeast culture.",
+        "poster_path": "/oOEFB2yTmaDOoYsybgxJw7lz8UW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          16
+        ],
+        "popularity": 18.095,
+        "first_air_date": "2021-10-29",
+        "vote_average": 5.0,
+        "vote_count": 19,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/p1vfmHHZkxCaTFDXjYNGB3WSkak.jpg",
+        "id": 62521,
+        "name": "Acacias 38",
+        "original_name": "Acacias 38",
+        "overview": "Acacias 38, the address of a stately apartment building where our stories unfold, is set in 1899 and tells the story of a group of maids and the bourgeois families they serve, in a single block in a distinguished neighborhood of a large Spanish city. Two worlds colliding in a universe of crossed lives.",
+        "poster_path": "/uApImWv5VMhXKvv543EvJlAN29O.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 464.461,
+        "first_air_date": "2015-04-15",
+        "vote_average": 5.6,
+        "vote_count": 13,
+        "origin_country": [
+          "ES"
+        ]
+      },
+      {
+        "backdrop_path": "/6JxPt3brbwE3IySdL1BtzDYFqo3.jpg",
+        "id": 562,
+        "name": "The Ellen DeGeneres Show",
+        "original_name": "The Ellen DeGeneres Show",
+        "overview": "The Ellen DeGeneres Show, often shortened to just Ellen, is an American television talk show hosted by comedian/actress Ellen DeGeneres.",
+        "poster_path": "/PhUYIGUUk1RzWq2Aw3TqH65McE.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 124.098,
+        "first_air_date": "2003-09-08",
+        "vote_average": 5.8,
+        "vote_count": 158,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/m0bV3qBiJBBlpFaaKjwHo13MVjm.jpg",
+        "id": 14981,
+        "name": "The Late Late Show with Craig Ferguson",
+        "original_name": "The Late Late Show with Craig Ferguson",
+        "overview": "The Late Late Show with Craig Ferguson is an American late-night talk show hosted by Scottish American comedian Craig Ferguson, who is the third regular host of the Late Late Show franchise. It follows Late Show with David Letterman in the CBS late-night lineup, airing weekdays in the US at 12:37 a.m. It is taped in front of a live studio audience from Monday to Friday at CBS Television City in Los Angeles, California, directly above the Bob Barker Studio. It is produced by David Letterman's production company Worldwide Pants Incorporated and CBS Television Studios.\n\nSince becoming host on January 3, 2005, after Craig Kilborn and Tom Snyder, Ferguson has achieved the highest ratings since the show's inception in 1995. While the majority of the episodes focus on comedy, Ferguson has also addressed difficult subject matter, such as the deaths of his parents, and undertaken serious interviews, such as one with Desmond Tutu, which earned the show a 2009 Peabody Award.",
+        "poster_path": "/gGC7zSDgG0FY0MbM1pjfhTCWQBI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 1869.633,
+        "first_air_date": "2005-01-03",
+        "vote_average": 6.8,
+        "vote_count": 96,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/iEg2LHsFV3vC6LywkBAL3c1n9PP.jpg",
+        "id": 61818,
+        "name": "Late Night with Seth Meyers",
+        "original_name": "Late Night with Seth Meyers",
+        "overview": "Seth Meyers, who is \"Saturday Night Live’s\" longest serving anchor on the show’s wildly popular \"Weekend Update,\" takes over as host of NBC’s \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+        "poster_path": "/jm95V8XjfvqmEhw0MN09wbg9Mi3.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10767,
+          35
+        ],
+        "popularity": 4670.664,
+        "first_air_date": "2014-02-25",
+        "vote_average": 5.4,
+        "vote_count": 98,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/6wX6105dCfRqTrwvoQgA8bGxUCo.jpg",
+        "id": 1220,
+        "name": "The Graham Norton Show",
+        "original_name": "The Graham Norton Show",
+        "overview": "Each week celebrity guests join Irish comedian Graham Norton to discuss what's being going on around the world that week. The guests poke fun and share their opinions on the main news stories. Graham is often joined by a band or artist to play the show out.",
+        "poster_path": "/vrbqaBXB8AALynQzpWz6JdCPEJS.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 338.307,
+        "first_air_date": "2007-02-22",
+        "vote_average": 7.2,
+        "vote_count": 260,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/qqaCwVzDmocRBI5Kl4RGgfwabn1.jpg",
+        "id": 46879,
+        "name": "Mickey Mouse",
+        "original_name": "Mickey Mouse",
+        "overview": "In this series of cartoon shorts, Mickey Mouse finds himself in silly situations all around the world! From New York to Paris to Tokyo, Mickey experiences new adventures with his friends!",
+        "poster_path": "/aAJ5T2Ab28vbbP9s6wWqdtK3arQ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762,
+          35,
+          18
+        ],
+        "popularity": 136.816,
+        "first_air_date": "2013-06-28",
+        "vote_average": 7.401,
+        "vote_count": 207,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wsfIB9NyqLwztoPupinjN0V61We.jpg",
+        "id": 1667,
+        "name": "Saturday Night Live",
+        "original_name": "Saturday Night Live",
+        "overview": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which parody contemporary culture and politics, are performed by a large and varying cast of repertory and newer cast members. Each episode is hosted by a celebrity guest, who usually delivers an opening monologue and performs in sketches with the cast, and features performances by a musical guest.",
+        "poster_path": "/74QkM94ur8vhJiMiqaPCqkQeBYl.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10763
+        ],
+        "popularity": 779.405,
+        "first_air_date": "1975-10-11",
+        "vote_average": 6.9,
+        "vote_count": 436,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gMMnf8VRg3Z98WaFmOLr9Jk8pIs.jpg",
+        "id": 63770,
+        "name": "The Late Show with Stephen Colbert",
+        "original_name": "The Late Show with Stephen Colbert",
+        "overview": "Doğaçlama oyuncusu ve komedyen Stephen Colbert, uzun zamandır beklenen televizyona dönüşünü yaparken \"The Colbert Report\" karakterini geride bırakıyor. New York'taki tarihi Ed Sullivan Tiyatrosu'nda kaydedilen The Late Show franchise redux'un ev sahibi olarak Colbert, aktörler, sporcular, politikacılar, çizgi romanlar, sanatçılar ve müzisyenlerle ilk kez kendisi olarak konuşuyor. Bununla birlikte, sadık hayranlar, Colbert'in eski girişiminden yazı ve dijital ekibinin birçok üyesi tarafından desteklenmeye devam ettiği için tutarlılık muamelesi görecek. Julliard tarafından eğitilmiş Jon Batiste, grup lideri olarak görev yapıyor.",
+        "poster_path": "/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 4211.46,
+        "first_air_date": "2015-09-08",
+        "vote_average": 6.5,
+        "vote_count": 290,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qq9ZQLpYAj0PwI2uWPPuLyCNW6h.jpg",
+        "id": 4624,
+        "name": "Roswell",
+        "original_name": "Roswell",
+        "overview": "Bizarre things start happening in the little New Mexico town where UFOs were spotted in 1947. Cut to 1999, when a cute high-school student saves the life of a teenage waitress. Surrounded by cliques of clever, angst-filled classmates, the two form a bond that threatens the survival of a secret universe involving superhuman powers, a yen for hot sauce and an alien gene pool.",
+        "poster_path": "/47CaTpah62bxbAkWANDzZdJxkxw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 93.995,
+        "first_air_date": "1999-10-06",
+        "vote_average": 7.7,
+        "vote_count": 449,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/aWl0xdhBAQunTzv8QKFyoFfwskA.jpg",
+        "id": 1908,
+        "name": "Miami Vice",
+        "original_name": "Miami Vice",
+        "overview": "The story of the Miami Police Department's vice squad and its efforts to end drug trafficking and prostitution, centered on the unlikely partnership of Sonny Crockett and Ricardo Tubbs - who first meet when Tubbs is undercover in a drug cartel.",
+        "poster_path": "/b5kLqC6eDiA17nq3jr1Vi340Kns.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 134.7,
+        "first_air_date": "1984-09-16",
+        "vote_average": 7.4,
+        "vote_count": 439,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/7Rc1rI5djLtjuy8iSvLCQE6ZjnX.jpg",
+        "id": 2022,
+        "name": "Batman",
+        "original_name": "The Batman",
+        "overview": "Batman karakterinin animasyon dizisi.\n\nBatman veya Yarasa Adam ilk defa 1939 un Mayıs ayında Detective Comics'in 27. sayısında çizilen bir çizgi roman süper kahramanıdır. Çizer Bob Kane ve yazar Bill Finger tarafından yaratılmıştır.",
+        "poster_path": "/3w7koeOR2x71XYMJDGpygxYtScI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10765,
+          10759,
+          10762
+        ],
+        "popularity": 78.786,
+        "first_air_date": "2004-09-11",
+        "vote_average": 7.9,
+        "vote_count": 442,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uh74RN8lCY2JyZnbjoCoxzJo6a1.jpg",
+        "id": 211684,
+        "name": "The Walking Dead: Daryl Dixon",
+        "original_name": "The Walking Dead: Daryl Dixon",
+        "overview": "Daryl Dixon, The Commonwealth'den ayrılışının ardından Fransa'da kıyıya vurur ve Paris merkezli parçalanmış ama büyüyen otokratik bir hareketin öfkesini uyandırır. Daryl istemeden de olsa hayırsever bir dini hareketin kalbindeki genç bir çocuğu tehlikeye atar.…",
+        "poster_path": "/kdM24KINoAVK9wjCtDJCkdffEpc.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 114.799,
+        "first_air_date": "2023-09-10",
+        "vote_average": 8.14,
+        "vote_count": 655,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9oVp0xfKW2igxDEo5wr3JTMQBub.jpg",
+        "id": 74016,
+        "name": "The Resident",
+        "original_name": "The Resident",
+        "overview": "Conrad Hawkins, Chastain Park Hastanesi'nin en iyi doktorlarından biridir. Büyüleyici ve kibirli Conrad, mümkün olduğunda alışılmadık bir yaklaşım benimsemeyi sever ve birinci sınıf stajyer doktorların romantik yanılsamalarını paramparça etmeyi kişisel görevi edinmiştir. Dr. Devon Pravesh, ince ayarlı ahlaki pusulasına göre hareket eden masum bir idealisttir ancak Conrad'in yardımıyla tıp pratiğinin diğer işlere benzediğini, pek de melek sayılmayan hastalar ve hataya düşebilen doktorlarla yapılan bir iş olduğunu anlamaya başlar.",
+        "poster_path": "/2IkYQJlT26yXef2iot7dhRtavSC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 351.721,
+        "first_air_date": "2018-01-21",
+        "vote_average": 8.425,
+        "vote_count": 1235,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/hXdQ4MWsEOX6qg6VydKrLb3YJ4g.jpg",
+        "id": 67070,
+        "name": "Fleabag",
+        "original_name": "Fleabag",
+        "overview": "Fleabag altı bölümden oluşan bir İngiliz komedi dizisi ve daha ilk bölümünde elinizi ayağınıza dolaştırıyor. Amazon üzerinden yayınlanan BBC3 dizisi, aslında 2013 Edinburgh Festivali’nde Fringe First Award sahibi tek kişilik bir tiyatro metninden uyarlandı. Yazan, oynayan ve televizyona uyarlayan ise aynı isim: Phoebe Waller-Bridge.\n\nFleabag, Londra’da ayakta kalmaya çalışan, son derece tuhaf bir aileye sahip, beş parasız ve yalnız, bir orta sınıf mensubu kadının hikâyesi. En yakın arkadaşını bir kazada kaybetmesinin ardından bu taze trajediyle baş etmeye çalışırken, hayata tutunmaktaki ısrarını hepsi birbirinden kaçık aile fertleri aracılığıyla anlatıyor. Mesafeli babası, dayanılmaz ölçüde alaycı ve itici üvey annesi, gergin ve muhafazakâr ablası ve tek gecelik ilişkileri etrafında dönen bu komik evren ekranın karşısındaki izleyicilerde sağlam bir empati duygusu yaratıyor.",
+        "poster_path": "/27vEYsRKa3eAniwmoccOoluEXQ1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 39.802,
+        "first_air_date": "2016-07-21",
+        "vote_average": 8.3,
+        "vote_count": 1521,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/zOnLMRD3PIhwO5KZmWMVEnLokMo.jpg",
+        "id": 1419,
+        "name": "Castle",
+        "original_name": "Castle",
+        "overview": "Nick Castle tanınmış ve çok ünlü bir Roman yazarıdır,kendine göre üslubu ve yaşam tarzı olan Nick özellikle romanlarındaki değişik ve tahmin edilemez cinayetleri yazması ile tanınmaktadır. NYPD de görev yapan Dedektif Kate Beckett son zamanlarda meydana gelen seri cinayetler'de Nick'in romanlarından alıntı yapıldığını fark eder, Nick'ten cinayetler ile ilgili yardım ister.",
+        "poster_path": "/diXBeMzvfJb2iJg3G0kCUaMCzEc.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 370.514,
+        "first_air_date": "2009-03-09",
+        "vote_average": 8.0,
+        "vote_count": 1909,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/bT7pArYmcE91iCTec5H7pjrVbSu.jpg",
+        "id": 63351,
+        "name": "Narcos",
+        "original_name": "Narcos",
+        "overview": "Uyuşturucu İle Mücadele Dairesi’nde çalışan bir Meksikalı bir ajan olan Javier Pena, ünlü Kolombiyalı uyuşturucu kaçakçısı Pablo Escobar’ı yakalamak için Birleşik Devletler tarafından Kolombiya’ya yollanır. Escobar'ın gerçek hayat hikayesinden uyarlanan dizi, dünya çapına yayılmış bir uyuşturucu şebekesini engellemeye çalışan kolluk kuvvetlerini konu ediniyor.",
+        "poster_path": "/rTmal9fDbwh5F0waol2hq35U4ah.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 132.26,
+        "first_air_date": "2015-08-28",
+        "vote_average": 8.044,
+        "vote_count": 2891,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zjOj2gnDJYFdYt6R7FtuHn7yrPr.jpg",
+        "id": 34307,
+        "name": "Shameless",
+        "original_name": "Shameless",
+        "overview": "Bir aile düşünün; her bir ferdi bir başka pis işe bulaşmış olsun. Alkolik bir baba, yaşları 2'den 20'ye uzanan 6 çocuk ve terk edip giden bir anne. Shameless bu karanlık tablodan sıkı bir dram yerine trajikomik bir hikaye çıkarmayı başarıyor. En büyük kardeş Fiona'nın ayakta tutmaya çalıştığı ailesi, her geçen gün biraz daha uçuruma sürüklenirken işler bir türlü düzelmek bilmiyor.",
+        "poster_path": "/9akij7PqZ1g6zl42DQQTtL9CTSb.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 460.673,
+        "first_air_date": "2011-01-09",
+        "vote_average": 8.2,
+        "vote_count": 2840,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

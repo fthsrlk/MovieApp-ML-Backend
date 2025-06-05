@@ -1,0 +1,832 @@
+{
+  "adult": false,
+  "backdrop_path": "/f3cin9kOz4nOrlYEMxGFQhv4bdN.jpg",
+  "created_by": [
+    {
+      "id": 169061,
+      "credit_id": "5918e7e4925141583c04b400",
+      "name": "David Shore",
+      "original_name": "David Shore",
+      "gender": 2,
+      "profile_path": "/5xVWN3KCGtGjGkEIrHqHrx8UikG.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2017-09-25",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Dram"
+    }
+  ],
+  "homepage": "https://abc.com/shows/the-good-doctor",
+  "id": 71712,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2024-05-21",
+  "last_episode_to_air": {
+    "id": 5158044,
+    "name": "10. Bölüm",
+    "overview": "",
+    "vote_average": 9.3,
+    "vote_count": 11,
+    "air_date": "2024-05-21",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 46,
+    "season_number": 7,
+    "show_id": 71712,
+    "still_path": "/zPKhaUJtlduU6v2AEf4OXkxDb4y.jpg"
+  },
+  "name": "The Good Doctor",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 126,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Good Doctor",
+  "overview": "Otistik ve Savant Sendromlu Shaun Murphy isimli genç bir cerrah, prestijli bir hastanenin çocuk cerrahisi birimine yerleştirilir. Şu sorunun cevabı aranır: İnsanlarla iletişim kurma yeteneğine sahip olmayan bir kişi insanların hayatlarını kurtarabilir mi? Yalnız ve çevresindeki kişilerle iletişim kuramayan Shaun, hastalarının hayatlarını kurtarmak ve meslektaşlarının şüphelerini yok etmek için olağanüstü yeteneklerini kullanır.",
+  "popularity": 109.7774,
+  "poster_path": "/HW3aPHzgPbhl77BdBZAozVTfSm.jpg",
+  "production_companies": [
+    {
+      "id": 19366,
+      "logo_path": "/vOH8dyQhLK01pg5fYkgiS31jlFm.png",
+      "name": "ABC Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 90375,
+      "logo_path": "/n1DLv6P0RaxqvJRnOXPRNuqDwfQ.png",
+      "name": "3AD",
+      "origin_country": "US"
+    },
+    {
+      "id": 11073,
+      "logo_path": "/aCbASRcI1MI7DXjPbSW9Fcv9uGR.png",
+      "name": "Sony Pictures Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 236613,
+      "logo_path": "/9DTggoZARHzATCRewGRs9XSNOWP.png",
+      "name": "ABC Signature",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-09-25",
+      "episode_count": 18,
+      "id": 88380,
+      "name": "Sezon 1",
+      "overview": "Otizmli ve savant sendromu olan yetenekli bir cerrah, çalışmaya başladığı prestijli hastanede hem hastaların hem de personelin şüpheci tavırlarıyla karşılaşır.",
+      "poster_path": "/sWEt1DZxOC5dzRB33ULaTW7JSuO.jpg",
+      "season_number": 1,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2018-09-24",
+      "episode_count": 18,
+      "id": 107199,
+      "name": "Sezon 2",
+      "overview": "İnsanlarla ilişki kurma konusunda giderek güçlenen Shaun, cerrahi hastalarına yardım etmek için olağanüstü yeteneklerini kullanmaya devam ediyor.",
+      "poster_path": "/noNEqRQoHsKcQhVHVElkqKkPeyH.jpg",
+      "season_number": 2,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2019-09-23",
+      "episode_count": 20,
+      "id": 127097,
+      "name": "Sezon 3",
+      "overview": "Shaun, yeni evli bir kadının hayatını kurtarmak için radikal bir ameliyat konusunda ısrarcı olur. Ayrıca Dr. Lever ile randevuya çıkmayı dener.",
+      "poster_path": "/S6iCIv9vOih1qmkIkXq1P9t7rV.jpg",
+      "season_number": 3,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2020-11-02",
+      "episode_count": 20,
+      "id": 163383,
+      "name": "Sezon 4",
+      "overview": "KOVİD-19 bir yığın karmaşıklığa neden olurken Shaun ve Lea'nın ilişkisi bir sınavdan geçer. Claire ise üzüntüyle boğuşur.",
+      "poster_path": "/yEBFLsqF7OmcntxSvy3ibjVAQ2F.jpg",
+      "season_number": 4,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2021-09-27",
+      "episode_count": 18,
+      "id": 202432,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/cXUqtadGsIcZDWUTrfnbDjAy8eN.jpg",
+      "season_number": 5,
+      "vote_average": 8.4
+    },
+    {
+      "air_date": "2022-10-03",
+      "episode_count": 22,
+      "id": 297662,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/luhKkdD80qe62fwop6sdrXK9jUT.jpg",
+      "season_number": 6,
+      "vote_average": 8.7
+    },
+    {
+      "air_date": "2024-02-20",
+      "episode_count": 10,
+      "id": 366042,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/dnxJshiDUIyg2UotGJguQCjeHvU.jpg",
+      "season_number": 7,
+      "vote_average": 8.5
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Zihni bir gizem, yöntemleri bir mucize.",
+  "type": "Scripted",
+  "vote_average": 8.477,
+  "vote_count": 12543,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1281,
+        "known_for_department": "Acting",
+        "name": "Freddie Highmore",
+        "original_name": "Freddie Highmore",
+        "popularity": 4.3203,
+        "profile_path": "/berpjuXALltPnJSkISZfQEDGnYQ.jpg",
+        "character": "Dr. Shaun Murphy",
+        "credit_id": "5918e8ecc3a368371b03d660",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1233749,
+        "known_for_department": "Acting",
+        "name": "Fiona Gubelmann",
+        "original_name": "Fiona Gubelmann",
+        "popularity": 2.0957,
+        "profile_path": "/c80VyX8RyupJXb7EqTxHNHtN4Cn.jpg",
+        "character": "Dr. Morgan Reznick",
+        "credit_id": "5a9dc9270e0a2671f5005cdf",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10884,
+        "known_for_department": "Acting",
+        "name": "Will Yun Lee",
+        "original_name": "Will Yun Lee",
+        "popularity": 2.2344,
+        "profile_path": "/zR29E2BHrp6PF7bxD6bVq0nDZXm.jpg",
+        "character": "Dr. Alex Park",
+        "credit_id": "5a9dc9189251411030005990",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1215689,
+        "known_for_department": "Acting",
+        "name": "Christina Chang",
+        "original_name": "Christina Chang",
+        "popularity": 2.0314,
+        "profile_path": "/p1m4Da7ZOt6BOcXy4T58Mu3jAY3.jpg",
+        "character": "Dr. Audrey Lim",
+        "credit_id": "5b9331980e0a2619850005c4",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1454610,
+        "known_for_department": "Acting",
+        "name": "Paige Spara",
+        "original_name": "Paige Spara",
+        "popularity": 1.3452,
+        "profile_path": "/elcx21E3X5xBjW31gXBJnWTSvYX.jpg",
+        "character": "Lea Dilallo",
+        "credit_id": "5b9f067e0e0a266384011c77",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2601751,
+        "known_for_department": "Acting",
+        "name": "Bria Samoné Henderson",
+        "original_name": "Bria Samoné Henderson",
+        "popularity": 0.4681,
+        "profile_path": "/b2Zi6Hb6SLLunl3Ndr9OLz8bTld.jpg",
+        "character": "Dr. Jordan Allen",
+        "credit_id": "607ab2b57e3483006f9db6f4",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1472747,
+        "known_for_department": "Acting",
+        "name": "Noah Galvin",
+        "original_name": "Noah Galvin",
+        "popularity": 1.0391,
+        "profile_path": "/wKGpfo1BHeNMvFVGVJjGqOgiaMh.jpg",
+        "character": "Dr. Asher Wolke",
+        "credit_id": "607ab2bb7e348300294345b8",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1610710,
+        "known_for_department": "Acting",
+        "name": "Chuku Modu",
+        "original_name": "Chuku Modu",
+        "popularity": 1.8946,
+        "profile_path": "/1yy2VDpFRGYqpaZarKvFoPdwc3Q.jpg",
+        "character": "Dr. Jared Kalu",
+        "credit_id": "5918e934c3a36842c104dc37",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31028,
+        "known_for_department": "Acting",
+        "name": "Richard Schiff",
+        "original_name": "Richard Schiff",
+        "popularity": 3.0713,
+        "profile_path": "/oFDka3Y5H3DBiZRqbdPabtX8ncP.jpg",
+        "character": "Dr. Aaron Glassman",
+        "credit_id": "5918ea14c3a3683fb6047852",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1255712,
+        "known_for_department": "Writing",
+        "name": "박재범",
+        "original_name": "박재범",
+        "popularity": 0.6259,
+        "profile_path": "/hS96Gb7vGebNgo1wQOcnRSVXxkQ.jpg",
+        "credit_id": "659dde537776f0014829716a",
+        "department": "Writing",
+        "job": "Original Series Creator"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "nurse",
+        "id": 428
+      },
+      {
+        "name": "san francisco, california",
+        "id": 582
+      },
+      {
+        "name": "medicine",
+        "id": 1279
+      },
+      {
+        "name": "autism",
+        "id": 1646
+      },
+      {
+        "name": "remake",
+        "id": 9714
+      },
+      {
+        "name": "hospital",
+        "id": 11612
+      },
+      {
+        "name": "asperger's syndrome",
+        "id": 181318
+      },
+      {
+        "name": "medical drama",
+        "id": 208788
+      },
+      {
+        "name": "medical",
+        "id": 258786
+      },
+      {
+        "name": "based on tv series",
+        "id": 269769
+      },
+      {
+        "name": "admiring",
+        "id": 325761
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "tr",
+        "iso_3166_1": "TR",
+        "name": "THE GOOD DOCTOR",
+        "key": "AJtWa1Crdz4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "published_at": "2018-05-02T13:11:09.000Z",
+        "id": "652ceb6f1f3e6001399f7e54"
+      }
+    ]
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
+        "id": 1408,
+        "name": "House, M.D.",
+        "original_name": "House",
+        "overview": "Gregory House New Jersey Princeton Plainsboro Hastanesinin tıbbi tanı uzamanı doktordur. Kendini aşırı beğenmesi, insanları önemsememesi ve boşvermişlik gibi özelliklerine rağmen müthiş bir doktordur. Uzmanlık alanı bulaşıcı hastalıklardır. Hiç kimsenin tanı koyamadığı hastalara tanı koyarak onların hayatlarını kurtarmaktadır ancak ekibindekilerin psikolojilerini de sürekli olarak bozmaktadır. Hastanenin yöneticisi Lisa Cuddy onu sürekli gözlem altında tutmaya çalışmaktadır ve ondan asla vazgeçmemektedir çünkü en zor durumlarda hastaları kurtaran hep odur ama Dr. House yüzünden hastane sık sık dava edilmektedir.",
+        "poster_path": "/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          35
+        ],
+        "popularity": 134.857,
+        "first_air_date": "2004-11-16",
+        "vote_average": 8.592,
+        "vote_count": 6917,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9oVp0xfKW2igxDEo5wr3JTMQBub.jpg",
+        "id": 74016,
+        "name": "The Resident",
+        "original_name": "The Resident",
+        "overview": "Conrad Hawkins, Chastain Park Hastanesi'nin en iyi doktorlarından biridir. Büyüleyici ve kibirli Conrad, mümkün olduğunda alışılmadık bir yaklaşım benimsemeyi sever ve birinci sınıf stajyer doktorların romantik yanılsamalarını paramparça etmeyi kişisel görevi edinmiştir. Dr. Devon Pravesh, ince ayarlı ahlaki pusulasına göre hareket eden masum bir idealisttir ancak Conrad'in yardımıyla tıp pratiğinin diğer işlere benzediğini, pek de melek sayılmayan hastalar ve hataya düşebilen doktorlarla yapılan bir iş olduğunu anlamaya başlar.",
+        "poster_path": "/2IkYQJlT26yXef2iot7dhRtavSC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 70.3203,
+        "first_air_date": "2018-01-21",
+        "vote_average": 8.413,
+        "vote_count": 1244,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/fgvM6m7gAd8kDAaLF16aflbOSAK.jpg",
+        "id": 1416,
+        "name": "Grey's Anatomy",
+        "original_name": "Grey's Anatomy",
+        "overview": "Grace Hastanesi'ne hoş geldiniz! Burada yeni ve acemi doktorlar için en zorlu doktorluk ihtisas devresi programlarından biri uygulanıyor. Bu acımasız eğitimle başa çıkmak zorunda olan kahramanlarımız ise Meredith, Izzie, George, Alex ve Cristina. Onlar dün öğrenciydiler, bugün ise doktor oldular. Eğer yedi yıl boyunca Grace gibi bir cehennemde başarılı olurlarsa cerrahlığa da hak kazanmış olacaklar. Ancak ihtisas devresinin bu kadar zorlu olması, onlar için yaşamlarının geri kalanının durdurduğu anlamına da gelmiyor. Yani bu grup, aynı zamanda kıskanç sevgililer, ebeveynler, tek gecelik ilişkiler ve ev bulma krizleriyle mücadele etmek zorunda. Üstelik kahramanlarımız, bu stresli ve rekabet dolu ortamda dostluklar da kurmaya çalışıyolar.",
+        "poster_path": "/7jEVqXC14bhfAzSPgr896dMdDv6.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 264.6504,
+        "first_air_date": "2005-03-27",
+        "vote_average": 8.228,
+        "vote_count": 10491,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wbiPjTWpZMIB8ffBq7HvzAph4Ft.jpg",
+        "id": 63174,
+        "name": "Lucifer",
+        "original_name": "Lucifer",
+        "overview": "“Cehennem Lordu” Lucifer Morningstar, Los Angeles Polis Departmanı için suçluları yakalamaktadır. Ancak büyük bir sırrı vardır: Bu çekici adam, aslında yeryüzüne düşmüş bir melektir!",
+        "poster_path": "/cLz75DTxXPPR814YHZ0XhiQuEI2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          10765
+        ],
+        "popularity": 90.6622,
+        "first_air_date": "2016-01-25",
+        "vote_average": 8.449,
+        "vote_count": 14972,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/fThSrHjuS1X82XoH9VrtvgvMIXm.jpg",
+        "id": 60797,
+        "name": "Scorpion",
+        "original_name": "Scorpion",
+        "overview": "Yapımcıları arasında Alex Kurtzman ve Roberto Orci var. Konusu için “Sheldon’lar ile Leonard’lardan oluşan bir grup adamın üzerine drama” diye benzetme yapılan dizide, bir grup nevi şahsına münhasır dahi Dünya sorunlarını çözmeye ve modern çağın getirdiği tehditleri aşmaya çalışıyor.",
+        "poster_path": "/hzeirSF6bRjssDh5JFrm5WRwFLd.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          80
+        ],
+        "popularity": 37.8301,
+        "first_air_date": "2014-09-22",
+        "vote_average": 8.216,
+        "vote_count": 4037,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
+        "id": 60735,
+        "name": "The Flash",
+        "original_name": "The Flash",
+        "overview": "Geçmişinde büyük bir trajedi yaşamış Barry Allen, Central City Polis Birimi’nde çalışan ve suçluların arkalarında bıraktıkları ipuçlarını toplayan bir adli laboratuvar asistanıdır. Talihsiz bir yıldırım kazası yaşamasının ardından süper hız gücüne sahip olan Barry, Flash kimliğine bürünür ve kötü adamları adalete teslim etmeyi kendine görev edinir!",
+        "poster_path": "/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 254.3106,
+        "first_air_date": "2014-10-07",
+        "vote_average": 7.773,
+        "vote_count": 11281,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/s3pypVJf05ELPCUA6jSW381nLwm.jpg",
+        "id": 46786,
+        "name": "Bates Motel",
+        "original_name": "Bates Motel",
+        "overview": "Bates Motel, Carlton Cuse, Kerry Ehrin ve Anthony Cipriano tarafından televizyon için hazırlanan bir Amerikan gerilim dizisidir. Alfred Hitchcock'un çığır açan 1960 yapımı filmi Psycho'daki olayların öncesini anlatan bu dizi, Norman Bates ve annesi Norma'nın hayatına odaklanıyor. Dizi, Norma'nın kocasının ölümünden sonra, yeni bir hayata başlamak için oğlu ile birlikte bir motel satın almasıyla başlar. Norma ve Norman sahil kasabası Oregon'daki evlerine yerleştikten sonra, kasabanın hiç de göründüğü gibi olmadığını anlarlar. Yerli halk da onlarla kendi sırlarını paylaşmamaya kararlıdır. Ama Bates ailesi kendi sırlarını korumak için her şeyi yapacaklardır. Dizi, Rotten Tomatoes ve Metacritic gibi eleştiri sitelerinden genel olarak olumlu eleştiriler almıştır. Vera Farmiga, dizideki performansıyla 2013 Emmy Ödüllerinde, En İyi Kadın Oyuncu Emmy Ödülü'ne aday gösterildi.",
+        "poster_path": "/xXKcfZE7ulYxgjjYv51s0zDG69s.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "popularity": 27.223,
+        "first_air_date": "2013-03-18",
+        "vote_average": 8.062,
+        "vote_count": 1635,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cUh0d1ev6cEQ8KxCe3YQYa8AR50.jpg",
+        "id": 62650,
+        "name": "Chicago Med",
+        "original_name": "Chicago Med",
+        "overview": "Şehrin en patlayıcı hastanesinin ve onu bir arada tutan cesur doktor ekibinin günlük kaosunda duygusal bir heyecan yolculuğu. Acil servisin nabzını artıran pandeminin içinde ateşli ilişkiler kurarak, güncel olaylardan ilham alan benzersiz yeni vakaları ele alacaklar.",
+        "poster_path": "/8UXGfvjKzzkGepXZU43dgpK48oY.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 63.0221,
+        "first_air_date": "2015-11-17",
+        "vote_average": 8.305,
+        "vote_count": 1185,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/18inwHlpKnK9mt02wFBJoIVKXI.jpg",
+        "id": 69629,
+        "name": "The Gifted",
+        "original_name": "The Gifted",
+        "overview": "X-Men filmleri ile aynı örgüye sahip olan Gifted; banliyöde yaşayan bir ailenin, çocuklarının mutant güçleri olduğunu bir anda öğrenince değişen hayatlarını anlatıyor. Mutantların güvensizlik ve korkuyla muhattap olduğu dünyada, mutantların oluşturduğu bir topluluk; mutantların insanlarla beraber yaşaması için uğraş vermektedir. Düşmanca davranan hükümetten kaçmaya çalışan aile; mutantların oluşturduğu yer altı ağına katılır ve hayatta kalabilmek için savaşmaya başlar.",
+        "poster_path": "/nshCqszjTNuqhrB53vrSqWO18sE.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 16.0389,
+        "first_air_date": "2017-10-02",
+        "vote_average": 7.624,
+        "vote_count": 1483,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sccDflItNho4OiHkzpiDxB2fUFw.jpg",
+        "id": 1418,
+        "name": "The Big Bang Theory",
+        "original_name": "The Big Bang Theory",
+        "overview": "En büyük zevkleri kuantum fiziğine kafa yormak olan üstün zekalı iki arkadaş, güzel bir kızla karşılaşınca ne yaparlar? The Big Bang Theory, işte o karşılaşma anında gerçekleşen büyük patlama ve sonrasını anlatan bir komedi dizisi. Leonard ve Sheldon adlarındaki iki arkadaşın oturdukları apartmanda yan dairelerine yeni bir komşu taşınır. Adı Penny olan bu komşu güzeller güzeli bir sarışındır. Üstelik maceralı bir ilişkiden daha yeni sapasağlam ayakta çıkmıştır. Penny, zekaları gereğinden fazla ilerlemiş, ancak kızlar konusunda oldukça geri kalmış bu yeni iki komşusuna hayat hakkında öğretebileceği bir şeyleri olduğunu düşünmektedir. Yaşanacak olanlar da zaman içinde onun ne kadar haklı olduğunu gösterecektir. ",
+        "poster_path": "/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 84.6161,
+        "first_air_date": "2007-09-24",
+        "vote_average": 7.909,
+        "vote_count": 11703,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
+        "id": 5920,
+        "name": "The Mentalist",
+        "original_name": "The Mentalist",
+        "overview": "Patrick Jane isimli bir medyum, sirkte çalışan ve gözlem güçlerini kullanarak insanlar hakkında birtakım fikirler edinip bu fikirleri onlara medyum gibi satan biridir. Bir gün bu özelliği sebebiyle televizyona çıkar ve kendine Red John isimli bir düşman edinir. Red John Jane’in kızını ve eşini öldürünce ortada kalan ve bu ölümlerin sebebinin kendisi olduğunu düşünen Jane, en sonunda FBI’a başvurarak Red John’ın peşine düşmek ister. Her ne kadar ilk başlarda bu isteği geri çevrilse de FBI’ın çözemediği birtakım davaları çözen Jane, bu özel ekibe danışman olarak işe alınır.",
+        "poster_path": "/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 96.1905,
+        "first_air_date": "2008-09-23",
+        "vote_average": 8.4,
+        "vote_count": 3908,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/nU5nByGzsPTXm2w4WdMFtE6YU14.jpg",
+        "id": 75219,
+        "name": "9-1-1",
+        "original_name": "9-1-1",
+        "overview": "En korkutucu, şok edici ve kalp durdurucu durumlara sürüklenen polis memurlarının, sağlık görevlilerinin ve itfaiyecilerin yüksek basınçlı deneyimlerini keşfedin. Bu acil müdahale ekipleri, en savunmasız olanları kurtarmakla kendi hayatlarındaki sorunları çözme arasında denge kurmaya çalışmalıdır.",
+        "poster_path": "/9dNWZPjFWdKo5Avr5JEEzLShLMZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          10759
+        ],
+        "popularity": 76.5752,
+        "first_air_date": "2018-01-03",
+        "vote_average": 8.229,
+        "vote_count": 2603,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ysaA0BInz4071p3LKqAQnWKZCsK.jpg",
+        "id": 2004,
+        "name": "Malcolm in the Middle",
+        "original_name": "Malcolm in the Middle",
+        "overview": "Kaykay yapmak ve en iyi arkadaşı Stevie ile takılmaktan hoşlanan 9 yaşındaki Malcolm, \"yetenekliler\" sınıfına girmeye zorlanınca hayatı alt üst olur ve etrafı toplumdan dışlanan bir grup yetenekliyle çevrelenir.",
+        "poster_path": "/ckLLIsNy3Z0Go1PYHA2PHzVymUA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 99.3378,
+        "first_air_date": "2000-01-09",
+        "vote_average": 8.477,
+        "vote_count": 4498,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/or0E36KfzJYZwqXeiCfm1JgepKF.jpg",
+        "id": 37680,
+        "name": "Suits",
+        "original_name": "Suits",
+        "overview": "Önemli bir avukatı zehir gibi zekâsıyla etkileyen üniversite terk genç, avukatlık ruhsatı olmadığı halde altın gibi bir iş ortaklığı fırsatını on ikiden vurur.",
+        "poster_path": "/vQiryp6LioFxQThywxbC6TuoDjy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 92.6162,
+        "first_air_date": "2011-06-23",
+        "vote_average": 8.224,
+        "vote_count": 5266,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+        "id": 1399,
+        "name": "Game of Thrones",
+        "original_name": "Game of Thrones",
+        "overview": "Krallık dediğin savaşsız olur mu? En güçlü krallığı kurup huzuru sağlamış olsanız bile bu gücü elinizde nasıl tutardınız? Burada yanlış yapana yer yok, affetmek yok. Hanedan entrikaları, kapılı kapılar ardında dönen oyunlar, birilerinin kuyusunu kazmak için düşmanın koynuna girmekten çekinmeyen kadınlar, kardeşler arası çekişmeler, dışlanmalar. Hepsi tek bir amaç için: taht kavgası.",
+        "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 202.8327,
+        "first_air_date": "2011-04-17",
+        "vote_average": 8.457,
+        "vote_count": 24960,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/nlDBlCtorM7nx130wYnfR5ZmyLX.jpg",
+        "id": 71728,
+        "name": "Young Sheldon",
+        "original_name": "Young Sheldon",
+        "overview": "The Big Bang Theory'nin zeki çocuğu Sheldon'ın 9 yaşındaki haliyle tanışmaya hazır mısınız? Teksas'ta yaşayan dahi çocuk Sheldon Cooper, ne yazık ki gelişmiş matematik yeteneğinin ve sivri zekasının faydasını sosyal hayatında göremez. Sheldon için hayat pek o kadar da kolay olmayacaktır...",
+        "poster_path": "/kidkbZRBGbsEIrX7pODRSKi9ipl.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751,
+          18
+        ],
+        "popularity": 88.1251,
+        "first_air_date": "2017-09-25",
+        "vote_average": 8.048,
+        "vote_count": 2704,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lirPqYLTtd6XZqGn4cS1wiesTq0.jpg",
+        "id": 1622,
+        "name": "Supernatural",
+        "original_name": "Supernatural",
+        "overview": "Evlerinin yandığı şüpheli bir yangında, annelerinin ölümünden sonra, Sam ve Dean Winchester yaşları büyüdükçe babaları ile yollarda bir hayat yaşamaya başlarlar. Yıllar geçer ve bir av sırasında kaybolan babalarını bulmak için kardeşler bir araya gelirler.\n\nAncak, babaları normal bir avcı değildir: o hayaletler, vampirler, ve ruhlar gibi doğaüstü yaratıkları avlar ve aynı şeyi oğullarına da çok küçük yaşlardan itibaren öğretmiştir. Yol boyunca, Sam ve Dean, masum insanları yaratıklar ve hayaletlerden kurtarmak için büyük bir mücadeleye girerler ve babalarının nerede olduğuna dair ipuçlarını toplarlar.",
+        "poster_path": "/KoYWXbnYuS3b0GyQPkbuexlVK9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          10765
+        ],
+        "popularity": 171.0522,
+        "first_air_date": "2005-09-13",
+        "vote_average": 8.3,
+        "vote_count": 7800,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2eIlCirgcvEwmCSYh2wDfz5Sxvz.jpg",
+        "id": 46952,
+        "name": "The Blacklist",
+        "original_name": "The Blacklist",
+        "overview": "FBI'ın arananlar listesindeki kaçak, diğer kötüleri yakalamaları için FBI'a yardım teklifinde bulunur; tek şartı çaylak profil uzmanı Elizabeth Keen'in ortağı olmasıdır.",
+        "poster_path": "/4HTfd1PhgFUenJxVuBDNdLmdr0c.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "popularity": 144.8986,
+        "first_air_date": "2013-09-23",
+        "vote_average": 7.638,
+        "vote_count": 3269,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/u23G9KZregWHs1use6ir1fX27gl.jpg",
+        "id": 81356,
+        "name": "Sex Education",
+        "original_name": "Sex Education",
+        "overview": "Öz güvensiz Otis, terapist annesi sayesinde cinsel tavsiyeler hakkında her şeyi bilmektedir. Öyle ki asi Maeve ona okulda bir seks terapisi kliniği açmayı teklif eder.",
+        "poster_path": "/vDPxd8umSGkkhCO7eA1yML1zT1o.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 53.6642,
+        "first_air_date": "2019-01-11",
+        "vote_average": 8.238,
+        "vote_count": 7468,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/w88B4ooZ2LSYPw5107JOkjvI8PI.jpg",
+        "id": 4057,
+        "name": "Criminal Minds",
+        "original_name": "Criminal Minds",
+        "overview": "Dizinin temel esprisi, \"Bir suçluyu yakalamak istiyorsanız onun gibi düşünün\" sözünde yatıyor. Quantico'daki Davranış Analizi Ünitesi'nde çalışan ajanlar, suçluların psikolojilerinden, davranış biçimlerinden yola çıkarak suçu çözüyor.  Yöntem: Davranış psikolojisinin uygulanması, istatistikler, ajanların deneyimleri, 'hızlı hızlı konuşanlar bir şey saklıyordur' önermesinde olduğu gibi çıkarsamalar.",
+        "poster_path": "/wLMQebhTApmn4F6Fzg6FovdwVvL.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 141.8295,
+        "first_air_date": "2005-09-22",
+        "vote_average": 8.3,
+        "vote_count": 3824,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

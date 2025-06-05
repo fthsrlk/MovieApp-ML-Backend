@@ -1,0 +1,908 @@
+{
+  "adult": false,
+  "backdrop_path": "/3sTfEJ0kE8C4SUkiVH2ZzWb5aDe.jpg",
+  "created_by": [
+    {
+      "id": 2637472,
+      "credit_id": "5ebc5f3a614c6d001d9051f6",
+      "name": "Roger Sweet",
+      "original_name": "Roger Sweet",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "1983-09-05",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Aksiyon & Macera"
+    },
+    {
+      "id": 16,
+      "name": "Animasyon"
+    },
+    {
+      "id": 10765,
+      "name": "Bilim Kurgu & Fantazi"
+    },
+    {
+      "id": 10762,
+      "name": "Çocuklar"
+    }
+  ],
+  "homepage": "",
+  "id": 931,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1984-12-08",
+  "last_episode_to_air": {
+    "id": 50583,
+    "name": "65. Bölüm",
+    "overview": "",
+    "vote_average": 7.0,
+    "vote_count": 1,
+    "air_date": "1984-12-08",
+    "episode_number": 65,
+    "episode_type": "finale",
+    "production_code": "MU130",
+    "runtime": 22,
+    "season_number": 2,
+    "show_id": 931,
+    "still_path": "/wItL7XwvZ3w1uztdYKF5CGRscyG.jpg"
+  },
+  "name": "He-Man ve Evrenin Efendileri",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 184,
+      "logo_path": null,
+      "name": "Syndication",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 130,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "He-Man and the Masters of the Universe",
+  "overview": "Eternia gezegeninin Prensi Adam sihirli kılıcını kaldırdığında He-Man'e (evrendeki en güçlü adam) dönüşür. Müttefikleri ve arkadaşlarıyla birlikte, Greyskull Kalesi'nin sırlarını korumak için kötü İskeletor ve yardakçılarıyla savaşır.",
+  "popularity": 71.2333,
+  "poster_path": "/tawmMe0D3ncyzEmmfMraGucXBCA.jpg",
+  "production_companies": [
+    {
+      "id": 6220,
+      "logo_path": "/cAj69EL1zSXmZH6STbMGZrunyMD.png",
+      "name": "Mattel",
+      "origin_country": "US"
+    },
+    {
+      "id": 1506,
+      "logo_path": "/kn81D1txpA73a90z7CWJPvlP6iP.png",
+      "name": "Filmation Associates",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1985-12-25",
+      "episode_count": 4,
+      "id": 2702,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/6GH4d18TWD7XkFzyKoqNsRYWfUd.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1983-09-05",
+      "episode_count": 65,
+      "id": 2701,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/tASyOa5K7sU5zVWD9HGVlwM8YE6.jpg",
+      "season_number": 1,
+      "vote_average": 6.2
+    },
+    {
+      "air_date": "1984-09-11",
+      "episode_count": 65,
+      "id": 2699,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/eYj5qjj7kekrx3RzTcHEEwVDIiH.jpg",
+      "season_number": 2,
+      "vote_average": 6.3
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.29,
+  "vote_count": 371,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 176053,
+        "known_for_department": "Acting",
+        "name": "John Erwin",
+        "original_name": "John Erwin",
+        "popularity": 0.7839,
+        "profile_path": "/q9526ap2Il3LXp3EFdYkI3spmR3.jpg",
+        "character": "He-Man / Prince Adam / Ram Man / Beast Man / Whiplash / Webstor / Faker / Granamyr (voice)",
+        "credit_id": "52540e9f19c295794031fa7e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24320,
+        "known_for_department": "Acting",
+        "name": "Alan Oppenheimer",
+        "original_name": "Alan Oppenheimer",
+        "popularity": 2.1639,
+        "profile_path": "/5UAa7wSnoh6JwiAKciCCKB9dnro.jpg",
+        "character": "Skeletor / Battle Cat / Cringer / Man-at-Arms / Mer-Man / Buzz-Off (voice)",
+        "credit_id": "52540e9f19c295794031fa9c",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 586496,
+        "known_for_department": "Acting",
+        "name": "Linda Gary",
+        "original_name": "Linda Gary",
+        "popularity": 1.6716,
+        "profile_path": null,
+        "character": "Teela / Evil-Lyn / Queen Marlena / Sorceress of Castle Greyskull (voice)",
+        "credit_id": "52540ea019c295794031fac6",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 176055,
+        "known_for_department": "Production",
+        "name": "Lou Scheimer",
+        "original_name": "Lou Scheimer",
+        "popularity": 0.8112,
+        "profile_path": "/4tIrsOTcDVzE7LNyAIDr1fA5Q8z.jpg",
+        "character": "Orko / King Randor / Stratos / Mekaneck / Man-E-Faces (voice)",
+        "credit_id": "538f74920e0a26297f0006e9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 586498,
+        "known_for_department": "Acting",
+        "name": "Erika Scheimer",
+        "original_name": "Erika Scheimer",
+        "popularity": 0.7649,
+        "profile_path": "/mbwE2yfg7kZkXqV97ZmIjLwSLEU.jpg",
+        "character": "Arcadian women (voice)",
+        "credit_id": "538f74640e0a2629760006ba",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 938722,
+        "known_for_department": "Acting",
+        "name": "Ole Fick",
+        "original_name": "Ole Fick",
+        "popularity": 0.3418,
+        "profile_path": "/bkOJn4VAEwVtFNpVTTm8MmtqvI.jpg",
+        "character": "Skeletor (stemme)",
+        "credit_id": "680e66135a9b78d27281147b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225517,
+        "known_for_department": "Directing",
+        "name": "Martin Miehe-Renard",
+        "original_name": "Martin Miehe-Renard",
+        "popularity": 0.4591,
+        "profile_path": "/7gFXTbxvlktQuG227650bd2FcZa.jpg",
+        "character": "He-Man/Kong Randor/Prins Adam",
+        "credit_id": "680e6688baac1c5a7d813106",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1294351,
+        "known_for_department": "Acting",
+        "name": "Timm Mehrens",
+        "original_name": "Timm Mehrens",
+        "popularity": 0.2982,
+        "profile_path": "/wsNNxO4mvVf86h61DLQ8qesHaLO.jpg",
+        "character": "Man At Arms/Skeletor/Zagraz (stemme)",
+        "credit_id": "680e66acf97f5cb6b8eb015f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 559150,
+        "known_for_department": "Production",
+        "name": "Karin Jagd",
+        "original_name": "Karin Jagd",
+        "popularity": 0.4575,
+        "profile_path": "/2Ufp59WHxP2xfHqJ1uL52mPsMdx.jpg",
+        "character": "Battle-Cat/Dronning Elmora/Dronning Marlena/Evil-Lyn/Orco/Teela/Troldkvinden (stemme)",
+        "credit_id": "680e66daf97f5cb6b8eb018b",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1447357,
+        "known_for_department": "Visual Effects",
+        "name": "Rick Maki",
+        "original_name": "Rick Maki",
+        "popularity": 0.9553,
+        "profile_path": null,
+        "credit_id": "554aa8099251414694000243",
+        "department": "Directing",
+        "job": "Layout"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56899,
+        "known_for_department": "Production",
+        "name": "Haim Saban",
+        "original_name": "Haim Saban",
+        "popularity": 1.4366,
+        "profile_path": "/7y8hDpuw5A7TfEx3kehjoLzJT9E.jpg",
+        "credit_id": "568b257d9251417c06004e9b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50099,
+        "known_for_department": "Sound",
+        "name": "Shuki Levy",
+        "original_name": "Shuki Levy",
+        "popularity": 1.5104,
+        "profile_path": "/4fzlZFMAFiWzjAuUt583uZmqTTZ.jpg",
+        "credit_id": "568b258c9251417c06004e9d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1125691,
+        "known_for_department": "Sound",
+        "name": "Erika Lane",
+        "original_name": "Erika Lane",
+        "popularity": 0.0725,
+        "profile_path": null,
+        "credit_id": "568b25a892514169d00177f2",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1447368,
+        "known_for_department": "Visual Effects",
+        "name": "Randy Sanchez",
+        "original_name": "Randy Sanchez",
+        "popularity": 0.5696,
+        "profile_path": null,
+        "credit_id": "5543d5c6c3a3680ce8002661",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1213962,
+        "known_for_department": "Writing",
+        "name": "Brynne Stephens",
+        "original_name": "Brynne Stephens",
+        "popularity": 0.1959,
+        "profile_path": null,
+        "credit_id": "52540ea019c295794031fb02",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 176055,
+        "known_for_department": "Production",
+        "name": "Lou Scheimer",
+        "original_name": "Lou Scheimer",
+        "popularity": 0.8112,
+        "profile_path": "/4tIrsOTcDVzE7LNyAIDr1fA5Q8z.jpg",
+        "credit_id": "52540ea019c295794031fb26",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1125691,
+        "known_for_department": "Sound",
+        "name": "Erika Lane",
+        "original_name": "Erika Lane",
+        "popularity": 0.0725,
+        "profile_path": null,
+        "credit_id": "553d646492514135c8004a05",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1459489,
+        "known_for_department": "Production",
+        "name": "Patricia Ryan",
+        "original_name": "Patricia Ryan",
+        "popularity": 0.076,
+        "profile_path": null,
+        "credit_id": "553d6425c3a3687db1001c1d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1213644,
+        "known_for_department": "Production",
+        "name": "Norm Prescott",
+        "original_name": "Norm Prescott",
+        "popularity": 0.4528,
+        "profile_path": null,
+        "credit_id": "553d63fb92514135c8004a00",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "magic",
+        "id": 2343
+      },
+      {
+        "name": "castle",
+        "id": 3098
+      },
+      {
+        "name": "sorcery",
+        "id": 5147
+      },
+      {
+        "name": "alien planet",
+        "id": 10158
+      },
+      {
+        "name": "based on toy",
+        "id": 10542
+      },
+      {
+        "name": "fantasy world",
+        "id": 170362
+      },
+      {
+        "name": "haunted castle",
+        "id": 179433
+      },
+      {
+        "name": "sword and planet",
+        "id": 195446
+      },
+      {
+        "name": "sorceress",
+        "id": 199814
+      },
+      {
+        "name": "sword and sorcery",
+        "id": 234213
+      },
+      {
+        "name": "superhuman abilities",
+        "id": 235578
+      },
+      {
+        "name": "ancient castle",
+        "id": 278380
+      },
+      {
+        "name": "science fiction",
+        "id": 281358
+      },
+      {
+        "name": "animation",
+        "id": 297442
+      },
+      {
+        "name": "ancient sword",
+        "id": 299584
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/6lP2c9anPeGU4NxQmx5TsH4X6XZ.jpg",
+        "id": 14755,
+        "name": "She-Ra: Gücün Prensesi",
+        "original_name": "She-Ra: Princess of Power",
+        "overview": "He-Man'in ikiz kız kardeşi She-Ra, anavatanları Etheria'yı Hordak ve Evil Horde'un zalim yönetiminden kurtarmak umuduyla Büyük İsyan olarak bilinen bir grup özgürlük savaşçısına liderlik ediyor.",
+        "poster_path": "/49ZbBp4eUQnXYRvm6HjNI6sSrdW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          10765,
+          10762
+        ],
+        "popularity": 47.2787,
+        "first_air_date": "1985-09-09",
+        "vote_average": 7.532,
+        "vote_count": 202,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4KUMCCjykGqgzeUpubxlwABm6ok.jpg",
+        "id": 2822,
+        "name": "Felicity",
+        "original_name": "Felicity",
+        "overview": "Felicity Porter, a sensitive and intelligent girl from the San Francisco Bay Area, decides to give up a slot at Stanford University's pre-med program to follow her long time crush to college in New York City. Things get even more complicated when she meets her dorm's resident advisor and they fall in love.",
+        "poster_path": "/i6gZ7fVpLBK3l5FkxCzMtEtT7Bz.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 22.5764,
+        "first_air_date": "1998-09-29",
+        "vote_average": 6.6,
+        "vote_count": 79,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/4Lgk1eAW1w1ch76cagXfxABbHA7.jpg",
+        "id": 68435,
+        "name": "Skylanders Academy",
+        "original_name": "Skylanders Academy",
+        "overview": "Follow the heroic adventures of the Skylanders team, a group of heroes with unique elemental skills and personalities who travel the vast Skylands universe, protecting it from evil-doers and showing the next wave of Academy cadets how to do things the “Skylander way.”",
+        "poster_path": "/jh1RVeQaiT9qjWYm6DOyWkotnd9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10762,
+          10759,
+          16,
+          10751
+        ],
+        "popularity": 7.8787,
+        "first_air_date": "2016-10-28",
+        "vote_average": 6.4,
+        "vote_count": 33,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cF5jj9Suhwia8ozAHmjowKAo3Ak.jpg",
+        "id": 1469,
+        "name": "Birds of Prey",
+        "original_name": "Birds of Prey",
+        "overview": "The series is set in New Gotham City, several years after it has been apparently abandoned by Batman. In his absence, Huntress, Oracle and Dinah are now the protectors of New Gotham: the Birds of Prey, and had taken over his war on crime.  They are joined by Alfred Pennyworth, who serves Helena as she is heir to the Wayne estate; and Detective Jesse Reese, a police officer confronted with crimes and abilities he cannot explain.\n\nA central feature of the series is the concept of metahumans: individuals born with powers that cannot be explained. No two metahumans have the same abilities (unless hereditary), and there exists a whole subculture of metahuman society that the outside world knows nothing about.",
+        "poster_path": "/gXeFSST0xqy5XNgrbuEaa5BxvDM.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          10765
+        ],
+        "popularity": 11.6083,
+        "first_air_date": "2002-10-09",
+        "vote_average": 6.03,
+        "vote_count": 82,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": null,
+        "id": 16247,
+        "name": "Nitro Circus Live",
+        "original_name": "Nitro Circus",
+        "overview": "Nitro Circus is an \"action sport collective\" led by Travis Pastrana, featuring his friends and him traveling around the world riding dirtbikes, base jumping, and performing stunts. It has spawned a tour, a second television series based on the tour, and a 3D feature film.",
+        "poster_path": "/t2s4hxwplcV3r7L6UcdKbRIMOAV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759
+        ],
+        "popularity": 4.5432,
+        "first_air_date": "2009-02-08",
+        "vote_average": 6.529,
+        "vote_count": 17,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gYheV2hDzXVbWpZCoVcp8OhpanU.jpg",
+        "id": 10421,
+        "name": "Alf Tales",
+        "original_name": "Alf Tales",
+        "overview": "ALF Tales is an animated American series that ran on the NBC television network on Saturdays from August 1988 to December 1989. The show was a spinoff from the series ALF: The Animated Series. The show had characters from that series play various characters from fairy tales. The fairy tale was usually altered for comedic effect in a manner relational to Fractured Fairy Tales.\n\nEach story typically spoofs a film genre, such as the \"Cinderella\" episode done as an Elvis movie. Some episodes featured a \"fourth wall\" effect where ALF is backstage preparing for the episode, and Rob Cowan would appear drawn as a TV executive to try to brief ALF on how to improve this episode. For instance Cowan once told ALF who was readying for a medieval themed episode that \"less than 2% of our audience lives in the Dark Ages\".",
+        "poster_path": "/uwMDdxMHV4hI2xK72FHYHRS21e5.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10762,
+          35,
+          16,
+          10751
+        ],
+        "popularity": 2.0261,
+        "first_air_date": "1988-09-10",
+        "vote_average": 7.1,
+        "vote_count": 8,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/d5INXBI1fDN0fHjMba7ZUyzAifJ.jpg",
+        "id": 2650,
+        "name": "The Centurions",
+        "original_name": "The Centurions",
+        "overview": "In the near future, Doc Terror and his cyborg companion Hacker unleash their forces to conquer Earth! Only one force can stop this evil: a handful of brave men. In specially created Exo-Frames, they can be transported anywhere to fuse with incredible assault weapon systems beamed down from the space station Skyvault, becoming man and machine, Power Xtreme! Max Ray, brilliant Sea Operations commander! Jake Rockwell, rugged Land Operations specialist! Ace McCloud, daring Air Operations expert! Whatever the challenge, they are ready - The Centurions!",
+        "poster_path": "/iQpTDb8VTMylGRK861BPxkLwVbs.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762,
+          10759,
+          10765
+        ],
+        "popularity": 4.7103,
+        "first_air_date": "1986-04-07",
+        "vote_average": 7.2,
+        "vote_count": 37,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/veX5cQQdUYEHF5q3R1zT13GbHjE.jpg",
+        "id": 34827,
+        "name": "Ultimate Girls",
+        "original_name": "UG☆アルティメットガール",
+        "overview": "During a monster attack on the city, which is something that happens quite often, Silk and her two friends try get close to the attacking monster for a better view. An unfortunate choice of location to watch from leads to UFO-man, the city's giant protector, to land on the girls crushing them to death. Feeling sorry, UFO-man blames their death on the monster and promises to bring Silk and her friends back to life by lending them his power but the catch is that they now have to become the city's protector as well.",
+        "poster_path": "/mMSeycVEk4pVm0NopfQkvMr5zat.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16
+        ],
+        "popularity": 4.7419,
+        "first_air_date": "2005-01-10",
+        "vote_average": 7.0,
+        "vote_count": 2,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/fYFjdVdoQQXrrzbPBxj6fCdTt7S.jpg",
+        "id": 126150,
+        "name": "The Titans That Built America",
+        "original_name": "The Titans That Built America",
+        "overview": "Out of the ashes of World War I, a new generation of titan rises…Pierre Du Pont, Walter Chrysler, J.P. Morgan Jr., Henry Ford, and William Boeing. Their fight to reach the top will transform America as they compete to dominate new industries—from the highways to the skyways. After years of fighting each other, and FDR, these rivals must unite during World War II to defeat a greater enemy and save the world.",
+        "poster_path": "/bbsBmOEkOz77Rm3a5inW7DjgdjN.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 2.2032,
+        "first_air_date": "2021-05-31",
+        "vote_average": 7.8,
+        "vote_count": 6,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/6WiDJrLzN8PUdwVS03gFyVpmGSw.jpg",
+        "id": 12140,
+        "name": "Blackstar",
+        "original_name": "Blackstar",
+        "overview": "Blackstar is an American animated television series, a science fantasy story sometimes reported as being inspired by Thundarr the Barbarian. It was produced in 1981 by Lou Scheimer and Norm Prescott for Filmation. The series was Filmation's second fantasy epic, the first being tucked in as a segment of Tarzan and Tarzan and the Super 7, The Freedom Force. Blackstar has many notable similarities to He-Man and the Masters of the Universe, which was produced shortly afterwards.",
+        "poster_path": "/ujWNJd0ckjohwNrUsHM0tuBNZj8.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759
+        ],
+        "popularity": 1.955,
+        "first_air_date": "1981-09-19",
+        "vote_average": 6.2,
+        "vote_count": 10,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/oy1qvROnSoOznpa0MJQo9CGR2Ra.jpg",
+        "id": 15839,
+        "name": "Eagle Riders",
+        "original_name": "Eagle Riders",
+        "overview": "Earth is under siege from the alien menace known only by the name  Cybercon and its legion of android forces, the Vorak. The Global  Security Council convenes to address this problem, and calls upon Dr.  Thaddeus Keane for assistance. They remember the aid they had received  from Keane's special force, the Eagle Riders, in years past. Keane  assures them that the Eagle Riders are still together, still strong, and  armed with brand new weapons.\n\nEagle Riders is an adaptation of the Japanese series \"Gatchaman II\" and \"Gatchaman Fighter\", and is a sequel to the American show, \"Battle of the Planets\".",
+        "poster_path": "/l9fawJaP1mV2X5xS5WPsgg1Cc9I.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16
+        ],
+        "popularity": 2.7045,
+        "first_air_date": "1996-09-09",
+        "vote_average": 6.5,
+        "vote_count": 2,
+        "origin_country": [
+          "US",
+          "AU",
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/h6GA4qaV6WUpULdAl0NdYKtXsUL.jpg",
+        "id": 14666,
+        "name": "The Listener",
+        "original_name": "The Listener",
+        "overview": "Toby Logan is a highly skilled paramedic with a secret – he can read minds. Toby never really knew his parents and grew up in foster care, this coupled with his secret, which he shares with no one, has made him a bit of a loner. Until now, Toby has kept his ability hidden, exploring its possibilities only with his long time mentor and confidante Dr. Ray Mercer.",
+        "poster_path": "/8408RJvs3zRjA0e69I1zJTRxQye.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          80,
+          18
+        ],
+        "popularity": 23.6345,
+        "first_air_date": "2009-06-04",
+        "vote_average": 6.8,
+        "vote_count": 104,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/janrDLDdXOjjVLsiTvDPMjyjMVO.jpg",
+        "id": 2674,
+        "name": "Komşular",
+        "original_name": "Neighbours",
+        "overview": "Komşular bir Avustralya televizyon dizisidir. Şovun hikayeleri, Melbourne, Victoria'nın kurgusal bir banliyösü olan Erinsborough'da yaşayan ve çalışan insanların ev içi ve profesyonel yaşamlarıyla ilgilidir. Dizi öncelikle Ramsay Caddesi sakinleri, kısa bir çıkmaz sokak ve komşu bölgeler, bir bar, otel, kafe, haber ofisi ve park içeren Lassiters kompleksi etrafında toplanıyor. Komşular, Watson tarafından oluşturulan üç aile ile başladı - Ramsay'ler, Robinson'lar ve Clark'lar. Watson, küçük bir sokakta yaşayan arkadaş olan üç aileyi göstermek istediğini söyledi. Robinson'lar ve Ramsay'lerin uzun bir geçmişi vardı ve süregiden bir rekabet içindeydiler.",
+        "poster_path": "/bXY78bQsKCIiD17Sr6yO4wLIXqS.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18,
+          10751,
+          35
+        ],
+        "popularity": 67.934,
+        "first_air_date": "1985-03-18",
+        "vote_average": 6.046,
+        "vote_count": 54,
+        "origin_country": [
+          "AU"
+        ]
+      },
+      {
+        "backdrop_path": "/f7otxzK1w3sBxT8PeHJCFTb8ebf.jpg",
+        "id": 29200,
+        "name": "G.I. Joe: A Real American Hero",
+        "original_name": "G.I. Joe: A Real American Hero",
+        "overview": "G.I. Joe: A Real American Hero is a half-hour American animated television series based on the successful toyline from Hasbro and the comic book series from Marvel Comics. The cartoon had its beginnings with two five-part mini-series in 1983 and 1984, then became a regular series that ran in syndication from 1985 to 1986. Ron Friedman created the G.I. Joe animated series for television, and wrote all four miniseries. The fourth mini-series was intended to be a feature film, but due to production difficulties was released as a television mini-series.",
+        "poster_path": "/nq3hyd68PeUbm1Wz3nQMkUUaYZ1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          10762
+        ],
+        "popularity": 61.0282,
+        "first_air_date": "1983-09-12",
+        "vote_average": 7.7,
+        "vote_count": 70,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/A4KK6HthXvDMYRJekrM1GF6sH7y.jpg",
+        "id": 96659,
+        "name": "He-Man and the Masters of the Universe",
+        "original_name": "He-Man and the Masters of the Universe",
+        "overview": "Mighty teen Adam and his heroic squad of misfits discover the legendary power of Grayskull — and their destiny to defend Eternia from sinister Skeletor.",
+        "poster_path": "/khU0nt0PAbX0t6IpBBvTxm1uzoZ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10765,
+          10751,
+          10759
+        ],
+        "popularity": 15.1463,
+        "first_air_date": "2021-09-16",
+        "vote_average": 7.036,
+        "vote_count": 111,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/eOLKWXXbcZJg91Jf1Fn7odUirl3.jpg",
+        "id": 96658,
+        "name": "Kâinatın Hâkimleri: Keşif",
+        "original_name": "Masters of the Universe: Revelation",
+        "overview": "80'lerin klasikleşen dizisinin devamında Teela, savaşla parçalanmış bir Eternia'da beklenmedik müttefikleriyle birlikte kâinatın sonunun gelmesini önlemeye çabalar.",
+        "poster_path": "/vIhyANmvTiBjlmX0Uy48Z9AD24j.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10765,
+          16
+        ],
+        "popularity": 8.6385,
+        "first_air_date": "2021-07-23",
+        "vote_average": 6.526,
+        "vote_count": 364,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sZaKY0C1tYf0T8cBZ2B0I0bsiPL.jpg",
+        "id": 3035,
+        "name": "He-Man and the Masters of the Universe",
+        "original_name": "He-Man and the Masters of the Universe",
+        "overview": "Years ago, two leaders battled for the fantastical land of Eternia, one became the good King Randor, the other grew into the evil monster Skeletor who plans to rise once again and take Eternia. To protect the kingdom, the mystical powers of Castle Greyskull chose a hero - Randor's lazy, impulsive teenage son Adam.",
+        "poster_path": "/2MZQ7GH4WfxeZYkuDGZD7H69X4L.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          10765,
+          10762
+        ],
+        "popularity": 8.4785,
+        "first_air_date": "2002-08-16",
+        "vote_average": 7.391,
+        "vote_count": 55,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/416gFTW7b02m1PqPbtMHFWUIFnE.jpg",
+        "id": 12544,
+        "name": "Street Sharks",
+        "original_name": "Street Sharks",
+        "overview": "Gene-slammed by an evil genius, four young brothers fight for honor and goodness. They are street smart, street tough...STREET SHARKS!",
+        "poster_path": "/zbTgkwLXELZSeZZkEpDCv7ETIcL.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          10765,
+          10762
+        ],
+        "popularity": 9.2499,
+        "first_air_date": "1994-09-07",
+        "vote_average": 6.8,
+        "vote_count": 47,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/g3ZQcP5bpwco1BsuCYu9zau4Fwg.jpg",
+        "id": 5150,
+        "name": "Around the World With Willy Fog",
+        "original_name": "La vuelta al mundo de Willy Fog",
+        "overview": "Willy Fog is a British millionaire who bets that he will be able to go around the world in only eighty days.",
+        "poster_path": "/dWKS3vmYHvCXaxTUU8eVyXpHsY2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          16,
+          35,
+          10759,
+          10762
+        ],
+        "popularity": 8.8859,
+        "first_air_date": "1983-08-01",
+        "vote_average": 7.4,
+        "vote_count": 68,
+        "origin_country": [
+          "JP",
+          "ES"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

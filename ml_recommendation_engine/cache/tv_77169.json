@@ -1,0 +1,922 @@
+{
+  "adult": false,
+  "backdrop_path": "/mQJVtl7SYjNLwjsUZZsITmAxtdU.jpg",
+  "created_by": [
+    {
+      "id": 347335,
+      "credit_id": "5ab36c76c3a368615b004c6e",
+      "name": "Josh Heald",
+      "original_name": "Josh Heald",
+      "gender": 2,
+      "profile_path": "/gAGqe7l5VMTdVZuah2YczbXOJUl.jpg"
+    },
+    {
+      "id": 68844,
+      "credit_id": "5ab47d649251417b020149ed",
+      "name": "Hayden Schlossberg",
+      "original_name": "Hayden Schlossberg",
+      "gender": 2,
+      "profile_path": "/kLkKtht08e9Z451RpD5l5ebpwZu.jpg"
+    },
+    {
+      "id": 68843,
+      "credit_id": "64511fa5e942ee0e37e700e5",
+      "name": "Jon Hurwitz",
+      "original_name": "Jon Hurwitz",
+      "gender": 2,
+      "profile_path": "/fl3yAMOLbQFF86m8amwH2Ufntjs.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2018-05-02",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Aksiyon & Macera"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    },
+    {
+      "id": 35,
+      "name": "Komedi"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81002370",
+  "id": 77169,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-02-13",
+  "last_episode_to_air": {
+    "id": 5505565,
+    "name": "Eski Dejenere",
+    "overview": "Zorlu rakipler. Yeni fırsatlar. Daniel ve Johnny kendilerini her şeyin başladığı yerde bulur ama bu kez riskler çok daha büyüktür.",
+    "vote_average": 8.9,
+    "vote_count": 11,
+    "air_date": "2025-02-13",
+    "episode_number": 15,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 50,
+    "season_number": 6,
+    "show_id": 77169,
+    "still_path": "/tfB0zgSSPV5jpa0PM2iycDjQ70p.jpg"
+  },
+  "name": "Cobra Kai",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 213,
+      "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+      "name": "Netflix",
+      "origin_country": ""
+    },
+    {
+      "id": 1436,
+      "logo_path": "/291gKkFoCfbpKXJD2jMn3QeZlJ4.png",
+      "name": "YouTube Premium",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 65,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Cobra Kai",
+  "overview": "Amansız düşmanlar, kavgalı iki dövüş okulu, tazekan... Daniel ve Johnny, \"Karate Kid\" serisinin devamı niteliğindeki bu dizide West Valley'deki ezelî rekabeti kızıştırıyor.",
+  "popularity": 69.7014,
+  "poster_path": "/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg",
+  "production_companies": [
+    {
+      "id": 101024,
+      "logo_path": null,
+      "name": "Hurwitz & Schlossberg Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 11073,
+      "logo_path": "/aCbASRcI1MI7DXjPbSW9Fcv9uGR.png",
+      "name": "Sony Pictures Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 907,
+      "logo_path": "/ca5SWI5uvU985f8Kbb4xc8AmVWH.png",
+      "name": "Overbrook Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-05-02",
+      "episode_count": 10,
+      "id": 99459,
+      "name": "Sezon 1",
+      "overview": "\"Karate Kid\" filmlerinin devamı niteliğindeki bu dizide, hayatlarını değiştiren turnuvadan onlarca yıl sonra Johnny ile Daniel arasındaki rekabet yeniden kızışıyor.",
+      "poster_path": "/lLrKXnM3WPEtrPCd1aTHT6x3hn.jpg",
+      "season_number": 1,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2019-04-24",
+      "episode_count": 10,
+      "id": 120052,
+      "name": "Sezon 2",
+      "overview": "Johnny yeni bir hayat kurmaya devam eder, ama eskiden tanıdığı biri geleceğini mahvedebilir. Bu arada Daniel, Cobra Kai'a rakip olmak için bir Miyagi-Do stüdyosu açar.",
+      "poster_path": "/77kyNXN6yCRjDt9eBMj96vLMx8W.jpg",
+      "season_number": 2,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2021-01-01",
+      "episode_count": 10,
+      "id": 160283,
+      "name": "Sezon 3",
+      "overview": "Cobra Kai dojo'sunda yeni bir sensei'in başa geçmesiyle gözler üç yönlü bir savaşa çevrilir. Tıpkı Cobra Kai gibi, eski düşmanlıklar da asla ölmez.",
+      "poster_path": "/f9ccj6MfeAsOk1qAqpifJwzxdfn.jpg",
+      "season_number": 3,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2021-12-31",
+      "episode_count": 10,
+      "id": 197131,
+      "name": "Sezon 4",
+      "overview": "Kreese kendisine yeni bir müttefik bulmak için eski defterleri karıştırırken ortak bir düşmanla karşı karşıya olan Daniel ve Johnny birlikte çalışmaya karar verir.",
+      "poster_path": "/hETMqMZYTBtVrA4A8AcLw5w76Xa.jpg",
+      "season_number": 4,
+      "vote_average": 8.5
+    },
+    {
+      "air_date": "2022-09-09",
+      "episode_count": 10,
+      "id": 292695,
+      "name": "Sezon 5",
+      "overview": "Terry, Cobra Kai'ın yönetim anlayışını değiştirirken Daniel, Johnny ve eski bir dostları güçlerini birleştirip karate matının dışına taşan bir mücadeleye girişir.",
+      "poster_path": "/u2o6NDi5aNQ3SfyN1kZSXBaKoHK.jpg",
+      "season_number": 5,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2024-07-17",
+      "episode_count": 15,
+      "id": 325233,
+      "name": "Sezon 6",
+      "overview": "Küresel turnuva yaklaşırken Daniel ve Johnny, takımlarını yeniden kurmaya çalışır. Ancak zafere giden yolda eski düşmanlarla ve yeni tehditlerle karşılaşırlar.",
+      "poster_path": "/dC88tPr0RwuKe0O16hh8AevlKcO.jpg",
+      "season_number": 6,
+      "vote_average": 8.1
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Vadinin ruhu için savaşın.",
+  "type": "Scripted",
+  "vote_average": 8.211,
+  "vote_count": 6595,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56124,
+        "known_for_department": "Acting",
+        "name": "William Zabka",
+        "original_name": "William Zabka",
+        "popularity": 3.0858,
+        "profile_path": "/AoTxNif6Kv5KtIk3YdfQUxLrLeR.jpg",
+        "character": "Johnny Lawrence",
+        "credit_id": "5a862bbac3a36863e702c427",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2877,
+        "known_for_department": "Acting",
+        "name": "Ralph Macchio",
+        "original_name": "Ralph Macchio",
+        "popularity": 3.6573,
+        "profile_path": "/AoqqL9UlyPrcTLnpzbQvKXPvXrz.jpg",
+        "character": "Daniel LaRusso",
+        "credit_id": "5a862bab9251410a8902c980",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 43483,
+        "known_for_department": "Acting",
+        "name": "Courtney Henggeler",
+        "original_name": "Courtney Henggeler",
+        "popularity": 1.8133,
+        "profile_path": "/81l7EjdcASyUiWYJeiYx3JR90Um.jpg",
+        "character": "Amanda LaRusso",
+        "credit_id": "5aea4aba92514172b70026f0",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1185997,
+        "known_for_department": "Acting",
+        "name": "Xolo Mariduena",
+        "original_name": "Xolo Mariduena",
+        "popularity": 2.3059,
+        "profile_path": "/6Bm2Qz7fsdnUeYiGXoUp9ohPcix.jpg",
+        "character": "Miguel Diaz",
+        "credit_id": "5b048c85c3a36864b7000ea8",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1130555,
+        "known_for_department": "Acting",
+        "name": "Tanner Buchanan",
+        "original_name": "Tanner Buchanan",
+        "popularity": 3.0238,
+        "profile_path": "/5GHr8DgXHVFmStkKxcDXRASgQjQ.jpg",
+        "character": "Robby Keene",
+        "credit_id": "5aea4a940e0a2629080025c2",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1223084,
+        "known_for_department": "Acting",
+        "name": "Mary Mouser",
+        "original_name": "Mary Mouser",
+        "popularity": 2.6161,
+        "profile_path": "/A5AMjqFB5SqWdZh4gOBGQNXK8vf.jpg",
+        "character": "Samantha LaRusso",
+        "credit_id": "5a862bf10e0a2653b302d82d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1254435,
+        "known_for_department": "Acting",
+        "name": "Peyton List",
+        "original_name": "Peyton List",
+        "popularity": 3.9085,
+        "profile_path": "/zRYSmQVNod3Py2FQ4IXvtv0EMvd.jpg",
+        "character": "Tory Nichols",
+        "credit_id": "6129d5b9f8e98200420fb254",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 114446,
+        "known_for_department": "Acting",
+        "name": "Jacob Bertrand",
+        "original_name": "Jacob Bertrand",
+        "popularity": 2.0064,
+        "profile_path": "/fKBZ74IdYZA1uRqGIqGYfrPF2Tj.jpg",
+        "character": "Eli 'Hawk' Moskowitz",
+        "credit_id": "5a862bd492514175930303e2",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1776137,
+        "known_for_department": "Acting",
+        "name": "Gianni DeCenzo",
+        "original_name": "Gianni DeCenzo",
+        "popularity": 1.0599,
+        "profile_path": "/aqbQh0hMt5vRbdhErs32bybr7Ah.jpg",
+        "character": "Demetri Alexopoulos",
+        "credit_id": "5f0c140a13a320003673b474",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1892090,
+        "known_for_department": "Acting",
+        "name": "Dallas Dupree Young",
+        "original_name": "Dallas Dupree Young",
+        "popularity": 0.671,
+        "profile_path": "/2whzoMgXAmyGCQthZsFtkuEplXL.jpg",
+        "character": "Kenny Payne",
+        "credit_id": "61d19bae8ee49c006d2c0754",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1784330,
+        "known_for_department": "Acting",
+        "name": "Vanessa Rubio",
+        "original_name": "Vanessa Rubio",
+        "popularity": 0.6595,
+        "profile_path": "/ArxMTCiBPA6dqxiPmdelYaq2NYl.jpg",
+        "character": "Carmen Diaz",
+        "credit_id": "5f0c2cb113a32000357e6138",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56117,
+        "known_for_department": "Acting",
+        "name": "Martin Kove",
+        "original_name": "Martin Kove",
+        "popularity": 3.2253,
+        "profile_path": "/vKfS55g6rqldWekNdy4JifuJQsw.jpg",
+        "character": "John Kreese",
+        "credit_id": "5ed09e6498f1f1001eec0eab",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61,
+        "known_for_department": "Writing",
+        "name": "Robert Mark Kamen",
+        "original_name": "Robert Mark Kamen",
+        "popularity": 2.2738,
+        "profile_path": "/t7XwxMyS2ANsDDsRWJY7FhdjgQ5.jpg",
+        "credit_id": "5cc4456cc3a36820b5816284",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1433463,
+        "known_for_department": "Sound",
+        "name": "Zach Robinson",
+        "original_name": "Zach Robinson",
+        "popularity": 0.7848,
+        "profile_path": "/zp5CKwVNtTJqqmybxDdcJuvQrfD.jpg",
+        "credit_id": "5f4cc80565e0a20034500cff",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1272997,
+        "known_for_department": "Sound",
+        "name": "Leo Birenberg",
+        "original_name": "Leo Birenberg",
+        "popularity": 0.5198,
+        "profile_path": "/jpBOX2Zs2CI3NGZjP0eNYUiW5Yc.jpg",
+        "credit_id": "5f4cc7dfeec4f30035d25bda",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "california",
+        "id": 387
+      },
+      {
+        "name": "martial arts",
+        "id": 779
+      },
+      {
+        "name": "karate",
+        "id": 3436
+      },
+      {
+        "name": "sensei",
+        "id": 9362
+      },
+      {
+        "name": "rivalry",
+        "id": 9823
+      },
+      {
+        "name": "dojo",
+        "id": 9992
+      },
+      {
+        "name": "martial artist",
+        "id": 14941
+      },
+      {
+        "name": "father figure",
+        "id": 170652
+      },
+      {
+        "name": "frenemies",
+        "id": 211775
+      },
+      {
+        "name": "father son relationship",
+        "id": 240119
+      },
+      {
+        "name": "absurd",
+        "id": 309974
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "tr",
+        "iso_3166_1": "TR",
+        "name": "Cobra Kai | 6. Sezon 3. Kısım | Tarih Duyurusu",
+        "key": "w-ZvnOgaa2M",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "published_at": "2024-12-24T15:00:03.000Z",
+        "id": "676bcb669d07c335fe7ed4c8"
+      }
+    ]
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/jt7c70Axkhy7o9u00JT8Lygfd3H.jpg",
+        "id": 76747,
+        "name": "On My Block",
+        "original_name": "On My Block",
+        "overview": "Los Angeles'ın çetin bir mahallesinde yaşayan zeki, eğlenceli ve zorluklara alışkın dört gencin kadim dostluğu, liseye başlamalarıyla birlikte sınavdan geçer.",
+        "poster_path": "/w6oviv65UEducvjAdH3sYYaxdu2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 7.4303,
+        "first_air_date": "2018-03-16",
+        "vote_average": 8.33,
+        "vote_count": 660,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/cj0zZiJfFj3xn9p0K3kx8qHSyng.jpg",
+        "id": 73107,
+        "name": "Barry",
+        "original_name": "Barry",
+        "overview": "Yalnız ve hayatından memnun olmayan biri olan Barry oyunculuk alanında şansını denemek için Los Angeles’a gider. Oyunculuk kursuna yazılan ve kısa zaman içinde kendisi gibi oyunculuk kariyeri yapmak isteyen insanlarla kaynaşan Barry, yeni bir sayfa açmaya kararlıdır. Ne var ki suç dolu geçmişinden zannettiği kadar kolay kurtulamayacaktır.",
+        "poster_path": "/j1XpwD11f0BAEI7pX6UdMhUVX2F.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          80,
+          18
+        ],
+        "popularity": 20.4481,
+        "first_air_date": "2018-03-25",
+        "vote_average": 7.9,
+        "vote_count": 972,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/my5yVNMwg6QqkxrSKRbSVEfOS5E.jpg",
+        "id": 80307,
+        "name": "Bodyguard",
+        "original_name": "Bodyguard",
+        "overview": "Başrollerinde Richard Madden (Game of Thrones, Medici: Masters of Florence, Klondike) ve Keeley Hawes (The Durrells, The Missing, Ashes to Ashes) olan politik gerilim türündeki drama dizisinde; İçişleri Bakanı Julia Montague (Hawes) ve onu korumak üzere atanan David Budd (Madden) isimli kahraman bir savaş gazisini merkezine alıyor. İkilinin politika üzerine çatışmasıyla gerilim yükselecek ve Julia’nın koruması kısa süre içerisinde onun için en büyük tehdit haline gelecek.",
+        "poster_path": "/5DUJTrHTRLHLCKWriPhdusQogAv.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          10768
+        ],
+        "popularity": 8.7916,
+        "first_air_date": "2018-08-26",
+        "vote_average": 7.769,
+        "vote_count": 950,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/xRjmUdnxvEPGNYzZY0LFyoHI9yJ.jpg",
+        "id": 67166,
+        "name": "Marjinal",
+        "original_name": "El marginal",
+        "overview": "Eski bir polis, önemli bir ulusal hakimin genç kızını henüz kaçıran bir grup mahkumun içine sızmak için sahte bir kimlikle mahkum olarak hapishaneye girdi.",
+        "poster_path": "/p1GFsUK5nCVHYNtjRxoGyfGdD9C.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "es",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 5.0989,
+        "first_air_date": "2016-06-02",
+        "vote_average": 8.194,
+        "vote_count": 403,
+        "origin_country": [
+          "AR"
+        ]
+      },
+      {
+        "backdrop_path": "/wX3twEPd6RCkQly9JVEkw4a6Qbi.jpg",
+        "id": 90802,
+        "name": "The Sandman",
+        "original_name": "The Sandman",
+        "overview": "Gözlerimizi kapatıp uykuya daldığımızda bizi bambaşka bir dünya bekler. Düşdünya denen bu yerde Düşler Lordu Sandman, en derindeki tüm korkularımızı ve fantezilerimizi şekillendirir. Ancak Düş, beklenmedik şekilde yakalanıp yüz yıl boyunca tutsak edilince yokluğu hem rüyalar âlemini hem de gerçek dünyayı sonsuza dek değiştirecek bir dizi olayı tetikler. Düş, düzeni yeniden sağlamak için farklı dünyalarda ve zamanlarda seyahat ederek sonsuz varlığı sırasında yaptığı hataları telafi etmeye çalışır. Bu yolculuk sırasında hem eski dost ve düşmanlarıyla tekrar karşılaşır hem de kozmik ve insani yeni varlıklarla tanışır.",
+        "poster_path": "/vfJ1nBnqiiRWZWv3ZvtFWO5zccg.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 14.6071,
+        "first_air_date": "2022-08-05",
+        "vote_average": 7.936,
+        "vote_count": 2160,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9zcbqSxdsRMZWHYtyCd1nXPr2xq.jpg",
+        "id": 82856,
+        "name": "The Mandalorian",
+        "original_name": "The Mandalorian",
+        "overview": "İmparatorluk'un çöküşünden sonra yalnız bir Mandalorian, öksüzü Grogu'yla beraber kanunsuz galakside dikkatle yol alır.",
+        "poster_path": "/eU1i6eHXlzMOlEq0ku1Rzq7Y4wA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 36.2649,
+        "first_air_date": "2019-11-12",
+        "vote_average": 8.425,
+        "vote_count": 10330,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vHuoq8HAmBFge8aiiyhHVVtmQr3.jpg",
+        "id": 100757,
+        "name": "Outer Banks",
+        "original_name": "Outer Banks",
+        "overview": "Karolina sahilindeki tatil beldesi Outer Banks’de yaşayan bir grup gencin (“Yoksullar”) başından geçenleri aktaran bir yetişkinliğe geçiş hikâyesi. Bir kasırga nedeniyle bölgenin yaz boyunca elektriksiz kalması, bir yasa dışı olaylar zincirini tetikler. Bu olaylar, arkadaşları yaşamlarını değiştiren kararlar almaya zorlar. Elebaşlarının kaybolan babasını arayış, yasak aşklar, büyük riskler alınan bir hazine avı ve Yoksullar ile rakipleri arasında büyüyen anlaşmazlık, arkadaşların asla unutamayacağı, macera ve gizem dolu bir yaz geçirmelerine yol açar.",
+        "poster_path": "/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          9648
+        ],
+        "popularity": 22.3799,
+        "first_air_date": "2020-04-15",
+        "vote_average": 8.36,
+        "vote_count": 1048,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/xp5zva2Zav7mTxy3gApo2QM1GMC.jpg",
+        "id": 2913,
+        "name": "Are You Afraid of the Dark?",
+        "original_name": "Are You Afraid of the Dark?",
+        "overview": "Kendilerine \"Geceyarısı Topluluğu\" adını veren bir grup çocuk, kamp ateşi etrafında oturup korkunç hikayeler anlatıyorlar. Her bölümde  ayrı bir hikaye işleniyor.",
+        "poster_path": "/2qdoOexi0Slgma5QyrQYf0pkbNB.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          10762,
+          18
+        ],
+        "popularity": 44.2453,
+        "first_air_date": "1992-08-15",
+        "vote_average": 8.1,
+        "vote_count": 584,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wu444tM9YBllq9UcBv5TeidO3j3.jpg",
+        "id": 91557,
+        "name": "Ragnarok",
+        "original_name": "Ragnarok",
+        "overview": "Kirliliğin zehirlediği ve eriyen buzulların sarstığı bir Norveç kasabası, kıyameti yoğun biçimde hissetmektedir. Kadim bir kötülüğü alt etmek için bir efsane gereklidir.",
+        "poster_path": "/37p95Lpe7mfVX86ZcVr7TisAHPn.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "no",
+        "genre_ids": [
+          10765,
+          18,
+          9648
+        ],
+        "popularity": 9.4385,
+        "first_air_date": "2020-01-31",
+        "vote_average": 7.808,
+        "vote_count": 1054,
+        "origin_country": [
+          "NO"
+        ]
+      },
+      {
+        "backdrop_path": "/u23G9KZregWHs1use6ir1fX27gl.jpg",
+        "id": 81356,
+        "name": "Sex Education",
+        "original_name": "Sex Education",
+        "overview": "Öz güvensiz Otis, terapist annesi sayesinde cinsel tavsiyeler hakkında her şeyi bilmektedir. Öyle ki asi Maeve ona okulda bir seks terapisi kliniği açmayı teklif eder.",
+        "poster_path": "/vDPxd8umSGkkhCO7eA1yML1zT1o.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 53.6642,
+        "first_air_date": "2019-01-11",
+        "vote_average": 8.238,
+        "vote_count": 7468,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/2MaumbgBlW1NoPo3ZJO38A6v7OS.jpg",
+        "id": 66732,
+        "name": "Stranger Things",
+        "original_name": "Stranger Things",
+        "overview": "Ufak bir kasabada küçük bir çocuk kaybolunca, gizli deneyler, korkutucu doğaüstü güçler ve tuhaf bir küçük kızın da parçası olduğu bir gizem ortaya çıkar.",
+        "poster_path": "/hjVNQA2a12OxkpDEOQTBMbKVZ1K.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765,
+          9648
+        ],
+        "popularity": 62.6575,
+        "first_air_date": "2016-07-15",
+        "vote_average": 8.596,
+        "vote_count": 18275,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1R68vl3d5s86JsS2NPjl8UoMqIS.jpg",
+        "id": 88329,
+        "name": "Hawkeye",
+        "original_name": "Hawkeye",
+        "overview": "Marvel Studios'un orijinal yeni dizisi olan \"Hawkeye\", Eski Avenger Clint Barton, diğer adıyla Hawkeye'ın blip sonrası New York'ta görünürde basit bir görevini konu alıyor: Noel'e kadar ailesinin yanına gitmesi. Geçmişinden bir tehdit ortaya çıkınca, Hawkeye bir suç komplosunu ortaya çıkarmak için, istemeyerek 22 yaşındaki yetenekli okçu ve en büyük hayranı olan Kate Bishop'la çalışmak zorunda kalır.",
+        "poster_path": "/ct5pNE5dDHryHLDnxyZPYcqO1sz.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35,
+          10759
+        ],
+        "popularity": 17.1863,
+        "first_air_date": "2021-11-24",
+        "vote_average": 7.844,
+        "vote_count": 3443,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wbiPjTWpZMIB8ffBq7HvzAph4Ft.jpg",
+        "id": 63174,
+        "name": "Lucifer",
+        "original_name": "Lucifer",
+        "overview": "“Cehennem Lordu” Lucifer Morningstar, Los Angeles Polis Departmanı için suçluları yakalamaktadır. Ancak büyük bir sırrı vardır: Bu çekici adam, aslında yeryüzüne düşmüş bir melektir!",
+        "poster_path": "/cLz75DTxXPPR814YHZ0XhiQuEI2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          10765
+        ],
+        "popularity": 90.6622,
+        "first_air_date": "2016-01-25",
+        "vote_average": 8.449,
+        "vote_count": 14972,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/or7wKwv1IT6LEOktt395O5qi7e.jpg",
+        "id": 60574,
+        "name": "Peaky Blinders",
+        "original_name": "Peaky Blinders",
+        "overview": "Birinci Dünya Savaşı’ndan yeni çıkmış İngiltere’yi, yasadışı faaliyet gösteren çeşitli çeteler sarmıştır. Bunlardan biri de soygunculuk ve at yarışıyla para kazanan Peaky Blinders’dır. Polislere rüşvet yedirerek paçayı kurtaran çete, bir soygunda yanlışlık yapınca başlarına bela olacak yeni bir müfettişin şehre gelmesine vesile olurlar.",
+        "poster_path": "/5aHpODCpUa0kGTPXtiYC0moIPhT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 78.428,
+        "first_air_date": "2013-09-12",
+        "vote_average": 8.532,
+        "vote_count": 10339,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/lOr9NKxh4vMweufMOUDJjJhCRHW.jpg",
+        "id": 85271,
+        "name": "WandaVision",
+        "original_name": "WandaVision",
+        "overview": "Yorucu bir hayatı arkalarında bırakmak isteyen süper kahramanlar Wanda ve Vision, güçlerini kullanmak zorunda olmadıkları bir hayatı arzular. Bunun için de sıradan bir yaşam sürebilecekleri idealize edilmiş bir banliyöde yaşamaya başlarlar. Artık geçmişte yaşadıkları zorlukları arkalarında bırakıp sonunda istedikleri hayata kavuştuklarını düşünen Wanda ve Vision, çok geçmeden hiçbir şeyin göründüğü gibi olmadığını keşfeder.",
+        "poster_path": "/sgCHdBJ1w0vJNUrW1Sq90KEXv9j.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          9648,
+          18
+        ],
+        "popularity": 15.8862,
+        "first_air_date": "2021-01-15",
+        "vote_average": 8.2,
+        "vote_count": 12213,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vCQpZH516gnrWE8R4lPS7fp5Dkr.jpg",
+        "id": 111625,
+        "name": "Bize Çıkan Yollar",
+        "original_name": "Dash & Lily",
+        "overview": "Alaycı Dash ve iyimser Lily, New York'ta sürekli birbirlerine verdikleri bir defter içinde mesajlar ve cesaret oyunları paylaşınca Noel'de zıt kutuplar birbirini çeker.",
+        "poster_path": "/eqBW1sqUxtOf1arBUAWNPJP5msD.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 2.0824,
+        "first_air_date": "2020-11-10",
+        "vote_average": 7.859,
+        "vote_count": 319,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ey9RcQXlp8hm0o7fFQfFza3JB5F.jpg",
+        "id": 67773,
+        "name": "Dirk Gently's Holistic Detective Agency",
+        "original_name": "Dirk Gently's Holistic Detective Agency",
+        "overview": "A comedic thriller that follows the bizarre adventures of eccentric “holistic” detective Dirk Gently and his reluctant assistant Todd. An adaptation of Douglas Adams’ wildly successful comic novels.",
+        "poster_path": "/q8oMpXPEAUJJ0KztsRs5K51T2lo.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10765,
+          80
+        ],
+        "popularity": 19.2231,
+        "first_air_date": "2016-10-22",
+        "vote_average": 7.687,
+        "vote_count": 812,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vEMl9RED1HelffdKWxToa3fmyo2.jpg",
+        "id": 74387,
+        "name": "Son Uzay",
+        "original_name": "Final Space",
+        "overview": "Gary ve gezegen imha eden yardımcısı Mooncake adlı bir astronot, gerçekten varsa, evrendeki son nokta olan “Son Uzay” ın gizemini açmak için uzayda serileştirilmiş yolculuklara başlar.",
+        "poster_path": "/zT6tXWsJoBOWJT1PeUEKLTFOoHh.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          10765,
+          35
+        ],
+        "popularity": 9.9185,
+        "first_air_date": "2018-02-26",
+        "vote_average": 8.387,
+        "vote_count": 877,
+        "origin_country": [
+          "US",
+          "CA"
+        ]
+      },
+      {
+        "backdrop_path": "/k5LOQVkVhwq8qybNjwSdWpGghM7.jpg",
+        "id": 88236,
+        "name": "How to Sell Drugs Online (Fast)",
+        "original_name": "How to Sell Drugs Online (Fast)",
+        "overview": "Eski kız arkadaşını geri kazanmaya çalışan inek bir çocuk, internet üzerinden ecstasy satmaya başlar ve Avrupa'nın en büyük uyuşturucu tacirlerinden biri hâline gelir.",
+        "poster_path": "/iC1pIyIaX2oslYtytmPHKqvZFfv.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "de",
+        "genre_ids": [
+          18,
+          35,
+          80
+        ],
+        "popularity": 18.9349,
+        "first_air_date": "2019-05-31",
+        "vote_average": 7.955,
+        "vote_count": 842,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "backdrop_path": "/JYgqp8g2kI3SEus9XBDSHukfBN.jpg",
+        "id": 108978,
+        "name": "Reacher",
+        "original_name": "Reacher",
+        "overview": "Emekli Askerî Polis Subayı Jack Reacher işlemediği bir cinayetten tutuklanınca kendini kirli polisler, karanlık iş adamları ve yozlaşmış siyasetçilerle dolu ölümcül bir komplonun ortasında bulur. Aklından başka bir şeyi olmayan Reacher Margrave, Georgia'da neler döndüğünü çözmek zorunda kalacaktır.",
+        "poster_path": "/31GlRQMiDunO8cl3NxTz34U64rf.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          80
+        ],
+        "popularity": 62.6984,
+        "first_air_date": "2022-02-03",
+        "vote_average": 8.109,
+        "vote_count": 2292,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

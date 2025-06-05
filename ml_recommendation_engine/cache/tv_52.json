@@ -1,0 +1,855 @@
+{
+  "adult": false,
+  "backdrop_path": "/3zRUiH8erHIgNUBTj05JT00HwsS.jpg",
+  "created_by": [
+    {
+      "id": 56156,
+      "credit_id": "525333e819c295794002bd8f",
+      "name": "Bonnie Turner",
+      "original_name": "Bonnie Turner",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 56157,
+      "credit_id": "525333e819c295794002bd89",
+      "name": "Terry Turner",
+      "original_name": "Terry Turner",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1212469,
+      "credit_id": "525333e819c295794002bd83",
+      "name": "Mark Brazill",
+      "original_name": "Mark Brazill",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    25,
+    45
+  ],
+  "first_air_date": "1998-08-23",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Komedi"
+    },
+    {
+      "id": 10751,
+      "name": "Aile"
+    },
+    {
+      "id": 18,
+      "name": "Dram"
+    }
+  ],
+  "homepage": "",
+  "id": 52,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2006-05-18",
+  "last_episode_to_air": {
+    "id": 1418,
+    "name": "22. Bölüm",
+    "overview": "",
+    "vote_average": 7.9,
+    "vote_count": 9,
+    "air_date": "2006-05-18",
+    "episode_number": 22,
+    "episode_type": "finale",
+    "production_code": "822",
+    "runtime": 22,
+    "season_number": 8,
+    "show_id": 52,
+    "still_path": "/6sdZ8PpPVHlcN4ocCa6n2FKna0y.jpg"
+  },
+  "name": "That '70s Show",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 19,
+      "logo_path": "/1DSpHrWyOORkL9N2QHX7Adt31mQ.png",
+      "name": "FOX",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 200,
+  "number_of_seasons": 8,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "That '70s Show",
+  "overview": "That 70's Show, 1998-2006 yılları arasında 8 sezon boyunca Amerika Fox televizyonunda yayınlanmış bir komedi sitcom dizisidir. Türkiye'de uzun bir süre TV8 ekranlarında yayınlanmıştır, şu anda da Comedy Smart kanalında yayını sürmektedir.Dizi, 70'li yıllarda hayali kasaba olan Point Place'de yaşayan bir grup genç etrafında geçiyor ve 70'li yılların Amerikan gençlik kültürünü konu alıyor. Dizinin ana karakterlerinden Eric ve tayfasının her bölümde yaptıkları bol dumanlı ve anlamsız bodrum muhabbetleri dizinin en eğlenceli bölümünü oluşturuyor.70'li yılların moda kıyafetleri, şarkıları, sosyal ve politik olayları, diziye konuk oyuncu olarak katılan o dönemin ünlüleri dizinin dikkat çeken önemli unsurlarında biridir. That 70's Show, bir kez Emmy ödülü kazanmıştır ve sekiz kezde aday gösterilmiştir. Dizi, Emmy dışında da bir çok ödül almaya hak kazanmış, bir çok ödüle de aday gösterilmiştir.",
+  "popularity": 86.8438,
+  "poster_path": "/laEZvTqM80UaplUaDSCCbWhlyEV.jpg",
+  "production_companies": [
+    {
+      "id": 3215,
+      "logo_path": "/1eDyeAkLR41PjyharYL7V3dcuiG.png",
+      "name": "Carsey-Werner Company",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2002-04-30",
+      "episode_count": 13,
+      "id": 95,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/vx9Zy0T9WLAzND6tZlzvk6ZqEFy.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "1998-08-23",
+      "episode_count": 25,
+      "id": 94,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/d3jLBFnqub6rYXifgus5fkNt2H6.jpg",
+      "season_number": 1,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "1999-09-28",
+      "episode_count": 26,
+      "id": 93,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/nbIgnJBJ4oRYnXJ1zl53DyXHWEv.jpg",
+      "season_number": 2,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2000-10-03",
+      "episode_count": 25,
+      "id": 92,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/yZs3Xr7zONuhkA57GH56J0YqBOu.jpg",
+      "season_number": 3,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2001-09-25",
+      "episode_count": 27,
+      "id": 91,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/b0SDehzJhZQHZZZfKWlY8i3Ora0.jpg",
+      "season_number": 4,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2002-09-17",
+      "episode_count": 25,
+      "id": 90,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/aT6SJBZ59DGlWWngap3cJg6Q85n.jpg",
+      "season_number": 5,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2003-10-29",
+      "episode_count": 25,
+      "id": 89,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/iRaAMuc99WF9X4kwyi2TNuN3kH3.jpg",
+      "season_number": 6,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2004-09-08",
+      "episode_count": 25,
+      "id": 88,
+      "name": "Sezon 7",
+      "overview": "",
+      "poster_path": "/aYpOYiPcwC2svCeFR3scBx6vgXs.jpg",
+      "season_number": 7,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "2005-11-02",
+      "episode_count": 22,
+      "id": 87,
+      "name": "Sezon 8",
+      "overview": "",
+      "poster_path": "/w7p2VhIbwjizHg7eDF1z9WFiMrJ.jpg",
+      "season_number": 8,
+      "vote_average": 6.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.945,
+  "vote_count": 1466,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 18973,
+        "known_for_department": "Acting",
+        "name": "Mila Kunis",
+        "original_name": "Mila Kunis",
+        "popularity": 9.2073,
+        "profile_path": "/cJAHQWX9hVadDFx5WTSBIW0VjvP.jpg",
+        "character": "Jackie Burkhart",
+        "credit_id": "525333e619c295794002ba23",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18972,
+        "known_for_department": "Acting",
+        "name": "Danny Masterson",
+        "original_name": "Danny Masterson",
+        "popularity": 1.9802,
+        "profile_path": "/AeYYtZhDCqJqDmaFcA0eJV0bGSx.jpg",
+        "character": "Steven Hyde",
+        "credit_id": "525333e719c295794002ba6f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 18974,
+        "known_for_department": "Acting",
+        "name": "Laura Prepon",
+        "original_name": "Laura Prepon",
+        "popularity": 2.7495,
+        "profile_path": "/i1dlAE49jbRLKrbTe9qIH8VY0MK.jpg",
+        "character": "Donna Pinciotti",
+        "credit_id": "525333e719c295794002bab3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18975,
+        "known_for_department": "Acting",
+        "name": "Wilmer Valderrama",
+        "original_name": "Wilmer Valderrama",
+        "popularity": 2.9067,
+        "profile_path": "/uohkEwMGIGCq4k8P2AiomuKQwYv.jpg",
+        "character": "Fez",
+        "credit_id": "525333e719c295794002baf9",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15453,
+        "known_for_department": "Acting",
+        "name": "Debra Jo Rupp",
+        "original_name": "Debra Jo Rupp",
+        "popularity": 2.0706,
+        "profile_path": "/jVGXbJvfIoRI6PtKbwUYGNyiI67.jpg",
+        "character": "Kitty Forman",
+        "credit_id": "525333e719c295794002bb37",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2115,
+        "known_for_department": "Acting",
+        "name": "Kurtwood Smith",
+        "original_name": "Kurtwood Smith",
+        "popularity": 2.5654,
+        "profile_path": "/7dqsk4NYbNZNnmppv2zPuf1hKBn.jpg",
+        "character": "Red Forman",
+        "credit_id": "525333e719c295794002bb9d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 130129,
+        "known_for_department": "Acting",
+        "name": "Don Stark",
+        "original_name": "Don Stark",
+        "popularity": 2.0495,
+        "profile_path": "/lkPWvElz5RxR4t4v3hM4SRy5E1j.jpg",
+        "character": "Bob Pinciotti",
+        "credit_id": "525333e719c295794002bbcf",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 63208,
+        "known_for_department": "Acting",
+        "name": "Tommy Chong",
+        "original_name": "Tommy Chong",
+        "popularity": 2.3769,
+        "profile_path": "/xjAZc5IB4iPAlqpUbtM1LkcUAhI.jpg",
+        "character": "Leo",
+        "credit_id": "525333e819c295794002bd25",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 124471,
+        "known_for_department": "Acting",
+        "name": "Josh Meyers",
+        "original_name": "Josh Meyers",
+        "popularity": 1.3651,
+        "profile_path": "/WhY4Lr9d6QikXlrYeaFdyMmo1i.jpg",
+        "character": "Randy Pearson",
+        "credit_id": "5ff3875c21118f003f2871e9",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2305544,
+        "known_for_department": "Production",
+        "name": "Greg Schaffer",
+        "original_name": "Greg Schaffer",
+        "popularity": 0.1374,
+        "profile_path": null,
+        "credit_id": "5e8b38ed4d0e8d0016e1d063",
+        "department": "Production",
+        "job": "Supervising Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21767,
+        "known_for_department": "Production",
+        "name": "Tom Werner",
+        "original_name": "Tom Werner",
+        "popularity": 1.0708,
+        "profile_path": null,
+        "credit_id": "525333e919c295794002bef5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 59420,
+        "known_for_department": "Production",
+        "name": "Caryn Mandabach",
+        "original_name": "Caryn Mandabach",
+        "popularity": 1.3162,
+        "profile_path": "/9JMAeNmjFFc4d1RnPz4XHEFysLq.jpg",
+        "credit_id": "525333e919c295794002bf39",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "1970s",
+        "id": 1228
+      },
+      {
+        "name": "small town",
+        "id": 1415
+      },
+      {
+        "name": "self-discovery",
+        "id": 2796
+      },
+      {
+        "name": "friendship",
+        "id": 6054
+      },
+      {
+        "name": "family relationships",
+        "id": 10235
+      },
+      {
+        "name": "group of friends",
+        "id": 155939
+      },
+      {
+        "name": "teenage romance",
+        "id": 188237
+      },
+      {
+        "name": "sitcom",
+        "id": 193171
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/adsc78pBssCRr3iTgzxgdCPI1v2.jpg",
+        "id": 155,
+        "name": "3rd Rock from the Sun",
+        "original_name": "3rd Rock from the Sun",
+        "overview": "The high commander of an alien expedition lands on Earth -- what he considers to be the least-important planet -- in human form as Dick Solomon. Along for the ride are his alien compatriots Harry, Sally and Tommy -- who is the eldest of the group but is now angrily trapped in a teen's body.",
+        "poster_path": "/sUB4lZghNnwQywKqgjIfJsyBqI2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          10765,
+          35,
+          18
+        ],
+        "popularity": 47.6805,
+        "first_air_date": "1996-01-09",
+        "vote_average": 7.48,
+        "vote_count": 505,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/wdQ9nON4M93VDwkwcPAkuVLS2yM.jpg",
+        "id": 4477,
+        "name": "Becker",
+        "original_name": "Becker",
+        "overview": "Becker is a dedicated, outspoken and talented doctor with a gruff exterior. While he tends to offend those who try to get close to him, he is extremely dedicated to his medical practice in the Bronx, N.Y., where he always goes the extra mile to help those in need. But Dr. John Becker looks at the world around him and sees a society gone mad, full of incongruities and just plain wrong thinking. And he has no qualms about saying anything that comes to mind – anything.",
+        "poster_path": "/hno1hP545G5xS1l4mLBXaY7NIqn.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 34.6808,
+        "first_air_date": "1998-11-02",
+        "vote_average": 7.184,
+        "vote_count": 128,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/hZmWDFV7qVAlhvEqJ23txLD7oHa.jpg",
+        "id": 1739,
+        "name": "According to Jim",
+        "original_name": "According to Jim",
+        "overview": "According to Jim is an American sitcom television series starring Jim Belushi in the title role as a suburban father of three children. It originally ran on ABC from October 1, 2001 to June 2, 2009.",
+        "poster_path": "/iNegoiByXFILSmBccfISNpVmTAK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 43.6054,
+        "first_air_date": "2001-10-03",
+        "vote_average": 6.5,
+        "vote_count": 347,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9YteO4VWteiPmEbWYJRAeBTQZPD.jpg",
+        "id": 1100,
+        "name": "How I Met Your Mother",
+        "original_name": "How I Met Your Mother",
+        "overview": "Ted çocuklarına yıllar önce anneleriyle nasıl tanıştığını anlatırken, Ted'in ruh ikizi için destansı arayışı büyük ölçüde geriye dönüşlerle gösteriliyor.",
+        "poster_path": "/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 119.0829,
+        "first_air_date": "2005-09-19",
+        "vote_average": 8.144,
+        "vote_count": 5206,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/lBmlLro9ZfY815ZXE5NKhYNxPRQ.jpg",
+        "id": 95,
+        "name": "Buffy the Vampire Slayer",
+        "original_name": "Buffy the Vampire Slayer",
+        "overview": "Buffy, görünüşte annesiyle birlikte Sunnydale'e taşınan ve burada yeni okulu Sunnydale High'a alışmaya çalışan sıradan bir genç kızdır. Buffy'nin kısa zamanda bu küçük kasabaya alışmasını kolaylaştıran şey, yöre halkının sıcak karşılamasından çok, Cehennem Ağzı'ndan fırlamış türlü iblis ve vampirlerdir. Buffy her nesilde, gecenin yaratıklarıyla mücadele etmeleri üzere seçilen Avcı'ların sonuncusudur ve buraya gelmesinin sebebi de önceki okulunu, vampirleri yok etmek için ateşe verip kül etmiş olmasıdır. Hiç de istemediği bu kaderi yaşamasını kolaylaştıran şey arkadaşları Willow, Xander ve gözetmeni Giles'ın varlığıdır. Ancak ruhu olan vampir Angel'ın devreye girişi işleri biraz karıştıracaktır.",
+        "poster_path": "/y7fVZkyheCEQHDUEHwNmYENGfT2.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          35,
+          18,
+          10759
+        ],
+        "popularity": 78.4572,
+        "first_air_date": "1997-03-10",
+        "vote_average": 8.126,
+        "vote_count": 1814,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/rIycDdkLET20EVW2LPytLNuyOp3.jpg",
+        "id": 65493,
+        "name": "The Ranch",
+        "original_name": "The Ranch",
+        "overview": "Bennett çok da başarılı olmayan yarı amatör, yarı profesyonel futbolculuk yıllarını sonlandırır ve ailesinin yanına Colorado’ya geri döner. Aradan geçen yıllar onun için hayallerini kovalaması için büyük fırsatlar sunsa da, o yılları artık geride bırakmak ve yeni hayatına adapte olmak zorundadır. Çiftçilik ile geçinen ailesiyle birlikte yaşamaya başlayan Bennett’in unutamadığı lise aşkıyla arasında yeni kıvılcımlar doğacak mı hep birlikte göreceğiz. Ashton Kutcher’ın kardeşi olarak izleyeceğimiz Danny Masterson’da Jimmy karakterine hayat veriyor. İkilinin babalarını ise Sam Elliott, annelerini de Debra Winger oynayacak. Başarılı oyunculara Colt Bennett’in eski sevgilisini canlandıracak Elisha Cuthbert eşlik edecek.",
+        "poster_path": "/lrbHBAxF9Ir83rxgeBrfmEJriLt.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751,
+          37
+        ],
+        "popularity": 24.8806,
+        "first_air_date": "2016-04-01",
+        "vote_average": 7.435,
+        "vote_count": 248,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/uyB27Tx3KtczuSo4tDfmiXhfuCp.jpg",
+        "id": 1892,
+        "name": "The Fresh Prince of Bel-Air",
+        "original_name": "The Fresh Prince of Bel-Air",
+        "overview": "Will, a street-smart teenager, moves from the tough streets of West Philly to posh Bel-Air to live with his Uncle Philip, Aunt Vivian, his cousins — spoiled Hilary, preppy Carlton and young Ashley — and their sophisticated British butler, Geoffrey. Though Will’s antics and upbringing contrast greatly with the upper-class lifestyle of his extended relatives, he soon finds himself right at home as a loved part of the family.",
+        "poster_path": "/fJXzwxCVr2TEkhhKRKcih9o5DYK.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 31.1798,
+        "first_air_date": "1990-09-10",
+        "vote_average": 7.9,
+        "vote_count": 2312,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/btUwsz9ttVBVyqtEyZvFBQFyJgv.jpg",
+        "id": 4313,
+        "name": "Bizim Ev",
+        "original_name": "Full House",
+        "overview": "Bekar baba, 2 erkek kardeşi ve 3 kızının maceraları.",
+        "poster_path": "/7g0EyKsIaYjYw3gCIBKMHHE0Kcu.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 75.9485,
+        "first_air_date": "1987-09-22",
+        "vote_average": 7.551,
+        "vote_count": 1050,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ysaA0BInz4071p3LKqAQnWKZCsK.jpg",
+        "id": 2004,
+        "name": "Malcolm in the Middle",
+        "original_name": "Malcolm in the Middle",
+        "overview": "Kaykay yapmak ve en iyi arkadaşı Stevie ile takılmaktan hoşlanan 9 yaşındaki Malcolm, \"yetenekliler\" sınıfına girmeye zorlanınca hayatı alt üst olur ve etrafı toplumdan dışlanan bir grup yetenekliyle çevrelenir.",
+        "poster_path": "/ckLLIsNy3Z0Go1PYHA2PHzVymUA.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 99.3378,
+        "first_air_date": "2000-01-09",
+        "vote_average": 8.477,
+        "vote_count": 4498,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/hwlWGc8LD6eTN1l1A9vd3geWwtC.jpg",
+        "id": 2691,
+        "name": "Two and a Half Men",
+        "original_name": "Two and a Half Men",
+        "overview": "Malibu sahilinde yaşayan çapkın ve bekar Charlie Harper reklam filmlerine şarkı sözü yazar. Söylediğine bakılırsa, başarılıdır da (iddiasına göre Teenage Mutant Ninja Turtles’ın tema müziği ona aittir). Charlie, yalnız yaşamaktan son derece memnun; ama hemen her gece başka bir kadınla uyumak kaydıyla...\n\nHer şey tam da istediği gibi giderken, günün birinde eşi Judith tarafından kapı önüne konan kuralcı erkek kardeşi Alan ve onun 10 yaşındaki oğlu Jake Charlie’yle yaşamak için ona taşınırlar.\n\nKardeşi Alan ve oğlu Jake ile birlikte yaşama fikri Charlie’ye başta cazip gelmese de sonradan onlara o kadar alışır ki bu aile yaşantısını kaybetmemek için elinden gelen her şeyi yapar.\n\nCharlie ve Alan’ın baskıcı ve her şeye karışan anneleri Evelyn, Charlie’nin “tam bir hayal kırıklığı” olduğunu düşünüyor; Alan’ın ise “onu torun sahibi yaptığı için” hayatını alt üst ettiğini. Charlie’nin yan komşusu Rose ise Charlie’ye takıntılı bir tutkuyla bağlı ve sık sık ziyaretlerine geliyor.",
+        "poster_path": "/A9QDK4OWpv41W27kCv0LXe30k9S.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 183.051,
+        "first_air_date": "2003-09-22",
+        "vote_average": 7.452,
+        "vote_count": 3382,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gBeHadaylDePYy6Gy2xyDVeYLkP.jpg",
+        "id": 326,
+        "name": "Red Dwarf",
+        "original_name": "Red Dwarf",
+        "overview": "The adventures of the last human alive and his friends, stranded three million years into deep space on the mining ship Red Dwarf.",
+        "poster_path": "/cU9RFlyvJXbzyCzCGRqRmZrTDZU.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10765
+        ],
+        "popularity": 28.7379,
+        "first_air_date": "1988-02-15",
+        "vote_average": 8.051,
+        "vote_count": 395,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/mLyW3UTgi2lsMdtueYODcfAB9Ku.jpg",
+        "id": 2316,
+        "name": "‎Ofis‎",
+        "original_name": "The Office",
+        "overview": "Çalışanlarının mutluluğunu gözeterek şirket kurallarını esnetmeye çalışan, ara sıra masumane oyunların kurbanı, kaba ve taş kalpli bir şef: Michael Scott.\n\nHepsinin kendince takıntıları olan farklı yaş gruplarından personeliyle ile The Office çalışanlarının hayatlarına şöyle bir göz atıyor; bıkkın aynı zamanda yetenekli satış elemanı Jim, onun sosyopat, yalaka düşmanı Dwight, kibar ve dürüst resepsiyonisti Pam ve isteksiz, kayıtsız stajyeri Ryan.",
+        "poster_path": "/dg9e5fPRRId8PoBE0F6jl5y85Eu.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 114.6413,
+        "first_air_date": "2005-03-24",
+        "vote_average": 8.581,
+        "vote_count": 4494,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/pIPMPMEZErCxTvQG9HDt4AsnAfn.jpg",
+        "id": 4454,
+        "name": "Will & Grace",
+        "original_name": "Will & Grace",
+        "overview": "İki çok yakın arkadaş; Will gay bir avukat, Grace heteroseksüel bir iç mimar. Will ve Grace'in başlarından geçen birbirinden komik onlarca hikaye... Bu yetmezmiş gibi Willin kendisi gibi gay olan süslü arkadaşı Jack ve Gracein ayyaş iş arkadaşı Karen da bu ikiliye katılınca işler daha da karışır...",
+        "poster_path": "/kTkWxh0e4Lzmn19KWQxzMdKE4NC.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 47.6171,
+        "first_air_date": "1998-09-21",
+        "vote_average": 6.825,
+        "vote_count": 504,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/y6nEgbjMUpYLnVUwZDzX95wH5Vj.jpg",
+        "id": 4239,
+        "name": "Married... with Children",
+        "original_name": "Married... with Children",
+        "overview": "Al Bundy is an unsuccessful middle aged shoe salesman with a miserable life and an equally dysfunctional family. He hates his job, his wife is lazy, his son is dysfunctional (especially with women), and his daughter is dim-witted and promiscuous.",
+        "poster_path": "/qxdOgESOkBMmfcWUizL01mbdqzl.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 90.874,
+        "first_air_date": "1987-04-05",
+        "vote_average": 7.712,
+        "vote_count": 1074,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/zPyVcPi5vFjjHbZsYYbbIG1I0oL.jpg",
+        "id": 2140,
+        "name": "Everybody Loves Raymond",
+        "original_name": "Everybody Loves Raymond",
+        "overview": "Ray Barone, Long Island'da eşi Debra, kızı Ally ve ikiz oğulları Geoffrey ve Michael ile yaşayan başarılı bir spor yazarıdır. Bu iyi haber. Kötü haber? Ray'in burnunu sokan ebeveynleri Frank ve Marie, doğrudan caddenin karşısında oturuyorlar ve televizyon tarihinde benzeri görülmemiş bir ölçüde oğullarının evine sızan \"Su casa es mi casa\" sloganını benimsiyorlar.",
+        "poster_path": "/dcCnVVggEBfNpzHrqzDJqhE6tGP.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 63.6951,
+        "first_air_date": "1996-09-13",
+        "vote_average": 6.805,
+        "vote_count": 589,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/o2F0cIIuEOuai7Vzv0Rh7YvRppT.jpg",
+        "id": 4386,
+        "name": "Sahil Güvenlik",
+        "original_name": "Baywatch",
+        "overview": "Birbirinden güzel kızlar, inanılmaz bir heyecan ve dünyanın başka hiçbir yerinde görülemeyecek eşsiz bir manzara... Dizi, rüya gibi plajlarda yaşanan akla hayale gelmeyecek maceraları karşınıza getiriyor.",
+        "poster_path": "/34t8WxHn1OcIVpcTxmjYmjX9tE4.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          80
+        ],
+        "popularity": 61.7082,
+        "first_air_date": "1989-04-23",
+        "vote_average": 5.943,
+        "vote_count": 491,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/mofoDq8K1tvhSKE00NrlLkS7Mrg.jpg",
+        "id": 709,
+        "name": "Robot Chicken",
+        "original_name": "Robot Chicken",
+        "overview": "Robot Chicken, yarı robot bir tavuktur. Bir araba tarafından ezildiğinde, Fritz Huhnmorder adında tamamen çılgın bir bilim adamı tarafından hayata döndürülür ve Fritz onu bir cyborg tavuğu yapar.",
+        "poster_path": "/lMZv3mJC9QRolgzflM3ajtB3o2U.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          16
+        ],
+        "popularity": 46.3096,
+        "first_air_date": "2005-02-20",
+        "vote_average": 7.634,
+        "vote_count": 505,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1orqm4lN8VtYGlxZ1g12ip6iwmG.jpg",
+        "id": 1417,
+        "name": "Glee",
+        "original_name": "Glee",
+        "overview": "Dizi, bir lisede geçiyor. Will Schuester, lise çağlarında koroda şarkı söylemiş ve büyük bir ödül kazanmış, şu anda da mezun olduğu okulda çalışan genç bir öğretmendir. Zamanında büyük işler başaran bu koro şimdi tam bir enkaz halinde olduğundan Schuester, bu koroya el atmaya karar verir ve onları eğitmeye başlar. Okulun bu kaybedenler takımı, Will Schuester sayesinde yavaş yavaş içinde ki yeteneği ortaya çıkarıp kendilerinin bile beklemediği bir şekilde popüler olmaya başlayacaktır.",
+        "poster_path": "/62T2vsZYTje3KhdCsiLR1K1RFJW.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 35.4143,
+        "first_air_date": "2009-05-19",
+        "vote_average": 6.8,
+        "vote_count": 855,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/z6fUdAWIqSenjIYsPmRltaGHcTq.jpg",
+        "id": 4556,
+        "name": "Scrubs",
+        "original_name": "Scrubs",
+        "overview": "Genç doktorların garip deneyimlerini ekrana taşıyan Scrubs, prestijli Humanitas Prize Ödülü’ne sahip, iki kez de Emmy’ye aday gösterilmiş keyifli bir komedi dizisi. J.D. olarak tanınan John Dorian, dizimizin ana karakteri. J.D:’nin doktorluk macerasını izlerken ‘gerçeküstü’ bir hastane olan Sacred Heart Hospital’ın koridorlarında mizahı da trajediyi de birlikte izleyeceğiz. Chris Turk, genç doktorlarımızdan bir diğeri. J.D.’nin kolejdeki en yakın arkadaşı ve seçkin cerrahi grubunun bir üyesi. Güzel Elliot Reid’in ise tek kusuru gerçek bir asosyal oluşu. Gözleri her zaman bu genç doktorların üzerinde olan Dr. Bob, zaman zaman insanı zorlasa da onlar için endişelenen ve onlara yardımcı olmaya çalışan Dr. Perry Cox ve garip hemşire Carla Espinosa Scrubs’ın diğer karakterleri arasında. J.D.’nin baş düşmanı, hastanenin temizlikçisini de unutmamak lazım.",
+        "poster_path": "/u1z05trCA7AuSuDhi365grwdos1.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 42.8261,
+        "first_air_date": "2001-10-02",
+        "vote_average": 8.015,
+        "vote_count": 1930,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/sh7GRlX4d7j3XSTeyGZnlKqkHGk.jpg",
+        "id": 1447,
+        "name": "Psych",
+        "original_name": "Psych",
+        "overview": "Psych dizisi tam anlamıyla CSI serileriyle ve Medium dizisiyle komedinin harmanlanması diyebiliriz. Biraz daha ayrıntıya girelim o zaman...\n\nDizinin kısaca konusuna değinmek gerekirse, polis bir babanın oğlu olan Shaw'ın süper bir hafızası ve çok kuvvetli bir analiz yapma yeteneği vardır. Shawn bu yeteneklerini, çözülmesi zor olan suçların aydınlatılmasında kullanmaktadır. İzlediği suç ağırlıklı haberlerden, suçu kimin nasıl işlediğini var olan deliller doğrultusunda hafızasında birleştirerek suçluların yakalanmasını kolaylaştırmaktadır. Dizinin pilot bölümü bu tarzda gelişen olaylardan oluşmaktadır.",
+        "poster_path": "/fDI15gTVbtW5Sbv5QenqecRxWKJ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18,
+          9648,
+          80
+        ],
+        "popularity": 54.9482,
+        "first_air_date": "2006-07-07",
+        "vote_average": 7.871,
+        "vote_count": 855,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

@@ -1,0 +1,1069 @@
+{
+  "adult": false,
+  "backdrop_path": "/bxgTSUenZDHNFerQ1whRKplrMKF.jpg",
+  "belongs_to_collection": null,
+  "budget": 397751,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Dram"
+    }
+  ],
+  "homepage": "",
+  "id": 389,
+  "imdb_id": "tt0050083",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "12 Angry Men",
+  "overview": "Latin kökenli bir Amerikalı genç babasını bıçaklayarak öldürdüğü gerekçesiyle birinci dereceden cinayetle suçlanır ve mahkeme önüne çıkarılır. Sanığın kaybettiğini söylediği bir bıçak cinayetin işlendiği odada bulunmuştur, mahkemeye sunduğu savunma oldukça zayıftır ve kurbanın çığlıklarını ve katilin kaçışını duyduklarını söyleyen pek çok tanık vardır, dolayısıyla dava kısa sürecek gibi görünmektedir. Sanık suçlu bulunduğu taktirde idama mahkum edilecektir.Jüri üyeleri kararı açıklamak için odalarından döndüklerinde şaşırtıcı olmayan sonuçlar ortaya çıkar: oniki jüri üyesinden onbiri genç adam hakkında \"suçlu\" hükmünde bulunmuşlardır. Sekiz numaralı jüri üyesi Davis \"suçsuz\" hükmü yönünde oy veren tek üyedir.",
+  "popularity": 26.5323,
+  "poster_path": "/pGydzNYNOxqd8lDyTvdTNACw99N.jpg",
+  "production_companies": [
+    {
+      "id": 60,
+      "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
+      "name": "United Artists",
+      "origin_country": "US"
+    },
+    {
+      "id": 10212,
+      "logo_path": null,
+      "name": "Orion-Nova Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1957-04-10",
+  "revenue": 4360000,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Hayat onların elinde. Akıllarındaysa ölüm var.",
+  "title": "12 Öfkeli Adam",
+  "video": false,
+  "vote_average": 8.548,
+  "vote_count": 9112,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1936,
+        "known_for_department": "Acting",
+        "name": "Martin Balsam",
+        "original_name": "Martin Balsam",
+        "popularity": 2.7449,
+        "profile_path": "/2j4LJJfTPQtvnjp8LfSGOvWFATO.jpg",
+        "cast_id": 57,
+        "character": "Juror 1",
+        "credit_id": "5e93b065cedac40016ebbd44",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5247,
+        "known_for_department": "Acting",
+        "name": "John Fiedler",
+        "original_name": "John Fiedler",
+        "popularity": 2.8254,
+        "profile_path": "/6vfLLGeGuO6Ko0VRnyhgE2v6RUu.jpg",
+        "cast_id": 58,
+        "character": "Juror 2",
+        "credit_id": "5e93b09a8e87020013cd34eb",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5248,
+        "known_for_department": "Acting",
+        "name": "Lee J. Cobb",
+        "original_name": "Lee J. Cobb",
+        "popularity": 2.492,
+        "profile_path": "/yxMxBvM0PZwu7YXQamG0kFwt9DZ.jpg",
+        "cast_id": 59,
+        "character": "Juror 3",
+        "credit_id": "5e93b0a584448e0014910883",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5249,
+        "known_for_department": "Acting",
+        "name": "E.G. Marshall",
+        "original_name": "E.G. Marshall",
+        "popularity": 2.726,
+        "profile_path": "/psimeVoRk64DV7UNm4cLQylRFy2.jpg",
+        "cast_id": 60,
+        "character": "Juror 4",
+        "credit_id": "5e93b0ae7a97ab00120dd261",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5250,
+        "known_for_department": "Acting",
+        "name": "Jack Klugman",
+        "original_name": "Jack Klugman",
+        "popularity": 1.9969,
+        "profile_path": "/oJxveOxlunD8C9OczqKeryU0k6D.jpg",
+        "cast_id": 61,
+        "character": "Juror 5",
+        "credit_id": "5e93b0bd84448e001291147f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2651,
+        "known_for_department": "Acting",
+        "name": "Edward Binns",
+        "original_name": "Edward Binns",
+        "popularity": 2.2705,
+        "profile_path": "/s3fk0d0fwuj6bDVP9AcPUXFsGmK.jpg",
+        "cast_id": 62,
+        "character": "Juror 6",
+        "credit_id": "5e93b0c8ccb15f00136fd2a4",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5251,
+        "known_for_department": "Acting",
+        "name": "Jack Warden",
+        "original_name": "Jack Warden",
+        "popularity": 2.6159,
+        "profile_path": "/hSShXiYMfRpMByaB5euZ59qCKN.jpg",
+        "cast_id": 63,
+        "character": "Juror 7",
+        "credit_id": "5e93b0d3875d1a001444ade1",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4958,
+        "known_for_department": "Acting",
+        "name": "Henry Fonda",
+        "original_name": "Henry Fonda",
+        "popularity": 3.4604,
+        "profile_path": "/6wXWsqSXF3wCsGcwVqiszy6RX9X.jpg",
+        "cast_id": 64,
+        "character": "Juror 8",
+        "credit_id": "5e93b0e254508d001a177bde",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5252,
+        "known_for_department": "Acting",
+        "name": "Joseph Sweeney",
+        "original_name": "Joseph Sweeney",
+        "popularity": 1.301,
+        "profile_path": "/m0liVGH2JrhcvCr3buYUeXwhAyV.jpg",
+        "cast_id": 65,
+        "character": "Juror 9",
+        "credit_id": "5e93b0ec54508d0015176f37",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39816,
+        "known_for_department": "Acting",
+        "name": "Ed Begley",
+        "original_name": "Ed Begley",
+        "popularity": 2.0429,
+        "profile_path": "/AuPwjGgPphtfQOShb8pTtp5W7Ft.jpg",
+        "cast_id": 66,
+        "character": "Juror 10",
+        "credit_id": "5e93b0f7ca4f6700148145ab",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5254,
+        "known_for_department": "Acting",
+        "name": "Jiří Voskovec",
+        "original_name": "Jiří Voskovec",
+        "popularity": 2.0808,
+        "profile_path": "/nxW7pLtG8xLo4J3QHXzLxt8fd8P.jpg",
+        "cast_id": 67,
+        "character": "Juror 11",
+        "credit_id": "5e93b10684448e0012911546",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5255,
+        "known_for_department": "Acting",
+        "name": "Robert Webber",
+        "original_name": "Robert Webber",
+        "popularity": 2.1551,
+        "profile_path": "/1RlhCcfCkaSz0cWRSowsj5FiKXg.jpg",
+        "cast_id": 68,
+        "character": "Juror 12",
+        "credit_id": "5e93b11184448e001a90eb37",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3143,
+        "known_for_department": "Acting",
+        "name": "Rudy Bond",
+        "original_name": "Rudy Bond",
+        "popularity": 1.4214,
+        "profile_path": "/plsYnzwNlwGWc4s5YT1NASj4YvN.jpg",
+        "cast_id": 70,
+        "character": "Judge (uncredited)",
+        "credit_id": "5e93b13bccb15f00136fd3b1",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2498394,
+        "known_for_department": "Acting",
+        "name": "Tom Gorman",
+        "original_name": "Tom Gorman",
+        "popularity": 0.5389,
+        "profile_path": null,
+        "cast_id": 71,
+        "character": "Stenographer (uncredited)",
+        "credit_id": "5e93b147cedac40014ebb229",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1437464,
+        "known_for_department": "Acting",
+        "name": "James Kelly",
+        "original_name": "James Kelly",
+        "popularity": 0.0826,
+        "profile_path": null,
+        "cast_id": 72,
+        "character": "Guard (uncredited)",
+        "credit_id": "5e93b16584448e001291160b",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5257,
+        "known_for_department": "Acting",
+        "name": "Billy Nelson",
+        "original_name": "Billy Nelson",
+        "popularity": 1.2067,
+        "profile_path": "/cIwqyZX89h3LZ94oemmbvTuFX0o.jpg",
+        "cast_id": 73,
+        "character": "Court Clerk (uncredited)",
+        "credit_id": "5e93b181875d1a001944ed80",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5258,
+        "known_for_department": "Acting",
+        "name": "John Savoca",
+        "original_name": "John Savoca",
+        "popularity": 0.2091,
+        "profile_path": null,
+        "cast_id": 74,
+        "character": "The Accused (uncredited)",
+        "credit_id": "5e93b18b7a97ab00170e0666",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 153394,
+        "known_for_department": "Acting",
+        "name": "Walter Stocker",
+        "original_name": "Walter Stocker",
+        "popularity": 0.8591,
+        "profile_path": null,
+        "cast_id": 69,
+        "character": "Man Waiting for Elevator (uncredited)",
+        "credit_id": "5e93b122d55e4d001a19f805",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5246,
+        "known_for_department": "Writing",
+        "name": "Reginald Rose",
+        "original_name": "Reginald Rose",
+        "popularity": 1.7914,
+        "profile_path": "/qscQc09Nh6fTfenlwl2pNvnD2MQ.jpg",
+        "credit_id": "52fe423dc3a36847f800ec4f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4958,
+        "known_for_department": "Acting",
+        "name": "Henry Fonda",
+        "original_name": "Henry Fonda",
+        "popularity": 3.4604,
+        "profile_path": "/6wXWsqSXF3wCsGcwVqiszy6RX9X.jpg",
+        "credit_id": "52fe423dc3a36847f800ec55",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5246,
+        "known_for_department": "Writing",
+        "name": "Reginald Rose",
+        "original_name": "Reginald Rose",
+        "popularity": 1.7914,
+        "profile_path": "/qscQc09Nh6fTfenlwl2pNvnD2MQ.jpg",
+        "credit_id": "52fe423dc3a36847f800ec61",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5260,
+        "known_for_department": "Sound",
+        "name": "Kenyon Hopkins",
+        "original_name": "Kenyon Hopkins",
+        "popularity": 0.8245,
+        "profile_path": "/82drYehnA5LY0wxd1KecZwT6Sm6.jpg",
+        "credit_id": "52fe423dc3a36847f800ec67",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5261,
+        "known_for_department": "Camera",
+        "name": "Boris Kaufman",
+        "original_name": "Boris Kaufman",
+        "popularity": 0.9619,
+        "profile_path": "/850nIfw8hXTPcBDRsvpyIkVAeMj.jpg",
+        "credit_id": "52fe423dc3a36847f800ec6d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5262,
+        "known_for_department": "Editing",
+        "name": "Carl Lerner",
+        "original_name": "Carl Lerner",
+        "popularity": 0.7403,
+        "profile_path": null,
+        "credit_id": "52fe423dc3a36847f800ec73",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5263,
+        "known_for_department": "Art",
+        "name": "Robert Markel",
+        "original_name": "Robert Markel",
+        "popularity": 0.1264,
+        "profile_path": null,
+        "credit_id": "52fe423dc3a36847f800ec79",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5264,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Herman Buchman",
+        "original_name": "Herman Buchman",
+        "popularity": 0.3938,
+        "profile_path": null,
+        "credit_id": "52fe423dc3a36847f800ec7f",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5246,
+        "known_for_department": "Writing",
+        "name": "Reginald Rose",
+        "original_name": "Reginald Rose",
+        "popularity": 1.7914,
+        "profile_path": "/qscQc09Nh6fTfenlwl2pNvnD2MQ.jpg",
+        "credit_id": "5439c1c90e0a2649a8000ff1",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5259,
+        "known_for_department": "Production",
+        "name": "George Justin",
+        "original_name": "George Justin",
+        "popularity": 0.7081,
+        "profile_path": null,
+        "credit_id": "54fe6df8c3a368150c000859",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 30994,
+        "known_for_department": "Camera",
+        "name": "Saul Midwall",
+        "original_name": "Saul Midwall",
+        "popularity": 0.3933,
+        "profile_path": null,
+        "credit_id": "57463b5bc3a36808af000267",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2025366,
+        "known_for_department": "Production",
+        "name": "Steve Bono",
+        "original_name": "Steve Bono",
+        "popularity": 0.3797,
+        "profile_path": null,
+        "credit_id": "6655b86622c5d29c72dfd61f",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1043428,
+        "known_for_department": "Sound",
+        "name": "Al Gramaglia",
+        "original_name": "Al Gramaglia",
+        "popularity": 0.5496,
+        "profile_path": null,
+        "credit_id": "6655b88ad092532206e4bc5a",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81531,
+        "known_for_department": "Camera",
+        "name": "Muky",
+        "original_name": "Muky",
+        "popularity": 0.2811,
+        "profile_path": null,
+        "credit_id": "6655b8aa39c69edfd7e4bc3f",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5265,
+        "known_for_department": "Sound",
+        "name": "James A. Gleason",
+        "original_name": "James A. Gleason",
+        "popularity": 0.2354,
+        "profile_path": null,
+        "credit_id": "5e93b014cedac40016ebbcb3",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39996,
+        "known_for_department": "Directing",
+        "name": "Sidney Lumet",
+        "original_name": "Sidney Lumet",
+        "popularity": 2.4356,
+        "profile_path": "/hjj3V2DkPJ46zo5uz9bsZQzAk6R.jpg",
+        "credit_id": "5e8e3c2f62e86f00159ba2f3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1076666,
+        "known_for_department": "Directing",
+        "name": "Faith Hubley",
+        "original_name": "Faith Hubley",
+        "popularity": 0.4441,
+        "profile_path": "/kexhBysoVPdJFI7cWBs7XD8xbZH.jpg",
+        "credit_id": "5e8e3c78a14e1000124e5482",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1437471,
+        "known_for_department": "Directing",
+        "name": "Don Kranze",
+        "original_name": "Don Kranze",
+        "popularity": 0.5231,
+        "profile_path": null,
+        "credit_id": "5e8e3c9ccadb6b001b7f3a09",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5260,
+        "known_for_department": "Sound",
+        "name": "Kenyon Hopkins",
+        "original_name": "Kenyon Hopkins",
+        "popularity": 0.8245,
+        "profile_path": "/82drYehnA5LY0wxd1KecZwT6Sm6.jpg",
+        "credit_id": "5eb864a6bbe1dd002281f0f6",
+        "department": "Sound",
+        "job": "Conductor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 2122,
+        "name": "death penalty"
+      },
+      {
+        "id": 2142,
+        "name": "anonymity"
+      },
+      {
+        "id": 3012,
+        "name": "court case"
+      },
+      {
+        "id": 6148,
+        "name": "court"
+      },
+      {
+        "id": 934,
+        "name": "judge"
+      },
+      {
+        "id": 1417,
+        "name": "jurors"
+      },
+      {
+        "id": 2123,
+        "name": "father murder"
+      },
+      {
+        "id": 6069,
+        "name": "class"
+      },
+      {
+        "id": 3772,
+        "name": "heat"
+      },
+      {
+        "id": 6139,
+        "name": "innocence"
+      },
+      {
+        "id": 2124,
+        "name": "puerto rico"
+      },
+      {
+        "id": 10181,
+        "name": "based on play or musical"
+      },
+      {
+        "id": 12999,
+        "name": "black and white"
+      },
+      {
+        "id": 33519,
+        "name": "courtroom"
+      },
+      {
+        "id": 201864,
+        "name": "hostile"
+      },
+      {
+        "id": 214780,
+        "name": "courtroom drama"
+      },
+      {
+        "id": 266753,
+        "name": "cautionary"
+      },
+      {
+        "id": 284102,
+        "name": "dialog driven"
+      },
+      {
+        "id": 325780,
+        "name": "callous"
+      },
+      {
+        "id": 349163,
+        "name": "persidangan"
+      },
+      {
+        "id": 349164,
+        "name": "sidang"
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/zZvtZZXRnZ4Tdcs0QEWaZZcIWy8.jpg",
+        "id": 567,
+        "title": "Arka Pencere",
+        "original_title": "Rear Window",
+        "overview": "Fotoğrafçı L. B. “Jeff” Jeffries, geçirdiği kaza sonucunda bacağını kırar. New York’taki apartman dairesinde zorunlu tatili sırasında arka penceresinden komşularını dürbünle seyrederek zaman geçirmektedir. Jeff, yine bir seyri sırasında komşusunun, karısını öldürdüğünden şüphelenir. Olayı araştırmaları için fotomodel sevgilisi Lisa Carol Fremont ve hasta bakıcısı Stella’dan yardım ister.",
+        "poster_path": "/g50uFnTJy6NnC23NGbE7FmZWHjC.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          53,
+          9648
+        ],
+        "popularity": 4.646,
+        "release_date": "1954-08-01",
+        "video": false,
+        "vote_average": 8.352,
+        "vote_count": 6681
+      },
+      {
+        "backdrop_path": "/sJNNMCc6B7KZIY3LH3JMYJJNH5j.jpg",
+        "id": 346,
+        "title": "Yedi Samuray",
+        "original_title": "七人の侍",
+        "overview": "Usta Samuray Kambei'nin cesareti ve fedakarlığına şahit olan bir grup köylü ondan sürekli olarak haydutların baskınlarına uğrayan köylerini korumasını isterler. Kambei bu isteği herhangi bir çıkarı olmamasına rağmen kabul eder ve ilk olarak kısa süre sonra müridi olan genç samuray Katsushiro'yu, ardından da güç kullanmaya meraklı bir samuray olarak görünen fakat sonradan bir çiftçinin oğlu olduğu ortaya çıkan Kikuchiyo'yu yanına alır. Takımına dört yeni samuray daha ekleyerek köyü savunmaya girişen Kambei köylüler tarafından sevinçle karşılanır ve herkesin sevgisini kazanır; bir süre sonra onlara kendilerini savunmayı öğretmeye başlar. Bu arada haydutlar köyün sınırlarında dolaşmakta ve yeni saldırıları için uygun bir zaman kollamaktadırlar...",
+        "poster_path": "/8OKmBV5BUFzmozIC3pPWKHy17kx.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          28,
+          18
+        ],
+        "popularity": 7.5347,
+        "release_date": "1954-04-26",
+        "video": false,
+        "vote_average": 8.457,
+        "vote_count": 3886
+      },
+      {
+        "backdrop_path": "/qUq3QTr2KLvGIcN0GaaaYx9bbyH.jpg",
+        "id": 510,
+        "title": "Guguk Kuşu",
+        "original_title": "One Flew Over the Cuckoo's Nest",
+        "overview": "Eyalet Akıl Hastanesi'nde kısa bir tatil kulağa pek de kötü gelmiyor, öyle değil mi? Randle P. McMurphy, damarlarında kan yerine elektrik dolaşan, ağzı çok iyi laf yapan özgür ruhlu bir mahkumdur. McMurphy, deli numarası yaparak kendisini \"kaçıklar\" olarak nitelediği adamların yanına aldırır. Hemen ardından, onun bulaşıcı düzensizlik sevdası, yeni geldiği yerdeki uyuşturucu rutinle karşı karşıya gelir. McMurphy, Dünya Kupası maçları oynanırken yeni arkadaşlarının yatıştırıcı ilaçlara boğulmuş bir şekilde ortalıkta bornozlarla dolaşmasına dayanamaz.",
+        "poster_path": "/ctsV8lVuuuQqAYvv4dJuN5GYwMU.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 7.7828,
+        "release_date": "1975-11-19",
+        "video": false,
+        "vote_average": 8.412,
+        "vote_count": 10753
+      },
+      {
+        "backdrop_path": "/6oaL4DP75yABrd5EbC4H2zq5ghc.jpg",
+        "id": 129,
+        "title": "Ruhların Kaçışı",
+        "original_title": "千と千尋の神隠し",
+        "overview": "Film, küçük Chihiro ve ailesinin yeni bir kasabaya taşınmalarıyla açılır. Yolculuk esnasında yolda gördükleri bir tünele dikkat eden aile, tünelin içerisinden geçtiklerinde karşılaştıkları fantastik dünyanın içerisinde büyülenirler. Ancak bu kasabada yolunda gitmeyen bir şeyler vardır, bu büyü kısa bir zaman sonra bozulacaktır. Ailesini kaybeden küçük Chihiro, babasını kurtarmak için korku dolu bir maceraya atılacaktır.",
+        "poster_path": "/xvOEOMCzfV8qXkd1n1btZ8q4Psd.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10751,
+          14
+        ],
+        "popularity": 22.2486,
+        "release_date": "2001-07-20",
+        "video": false,
+        "vote_average": 8.536,
+        "vote_count": 17117
+      },
+      {
+        "backdrop_path": "/amZavErrjrdgDwhsIdpWxHNenIx.jpg",
+        "id": 497,
+        "title": "Yeşil Yol",
+        "original_title": "The Green Mile",
+        "overview": "Edgecomb, hikayesini anlatırken bir huzurevinde yaşamaktadır ve hapishanedeki görevinin üzerinden yıllar geçmiştir. Hapishanedeki hücrelerinden alınan idam mahkumlarının elektrikli sandalyenin bulunduğu ölüm odasına giderken yürüdükleri, bir millik yeşil yolda yaşananlara her defasında tanık olan Edgecomb, ömrü boyu unutamayacağı olaylara tanık olur. Edgecomb, yıllar boyunca sayısız idam mahkumu nakleder ama hiç birisi onu John Coffey kadar etkilemez. Oldukça iri yarı bir adam olan Coffey, iki küçük kızı öldürmek suçundan idama mahkum olmuştur. Ürkütücü görünümünün aksine oldukça ince, kırılgan ve düşünceli bir yapıya sahip olan Coffey, bazı doğaüstü güçlere sahiptir. Edgecomb'un ona gerçekten suçlu olup olmadığını sorması ile aralarında bir diyalog başlar.",
+        "poster_path": "/6ZNnKbdDRQm0ftkq3OKiDrwZkIN.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          14,
+          18,
+          80
+        ],
+        "popularity": 16.4762,
+        "release_date": "1999-12-10",
+        "video": false,
+        "vote_average": 8.505,
+        "vote_count": 18071
+      },
+      {
+        "backdrop_path": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+        "id": 424,
+        "title": "Schindler'in Listesi",
+        "original_title": "Schindler's List",
+        "overview": "Tüm zamanların tarihsel açıdan en önemli filmlerinden biri olan Steven Spielberg'in Schindler'in Listesi, cesaret ve inanç dersleriyle nesiller boyu ilham vermeye devam eden güçlü bir hikaye. En İyi Film ve En İyi Yönetmen de dahil olmak üzere yedi Akademi Ödülü sahibi olan bu inanılmaz gerçek hikaye, Holokost sırasında 1.100'den fazla Yahudinin hayatını kurtaran esrarengiz Oskar Schindler'i (Liam Neeson) konu alıyor. Bu, fark yaratan bir adamın zaferi ve yaptıkları sayesinde insanlık tarihinin en karanlık bölümlerinden birini atlatanların dramıdır.",
+        "poster_path": "/2mOH8EqumIaepdP94e0cy4Xnyg7.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          36,
+          10752
+        ],
+        "popularity": 23.9392,
+        "release_date": "1993-12-15",
+        "video": false,
+        "vote_average": 8.565,
+        "vote_count": 16416
+      },
+      {
+        "backdrop_path": "/x4biAVdPVCghBlsVIzB6NmbghIz.jpg",
+        "id": 429,
+        "title": "İyi, Kötü ve Çirkin",
+        "original_title": "Il buono, il brutto, il cattivo",
+        "overview": "Ortak bir hedefe doğru değişik nedenlerle yol almakta olan üç silah arkadaşı aslında kader açısından yolları kesişmiş insanlardır. İsimleri İyi, Kötü ve Çirkin olan bu kişiler için o dönemdeki Amerikan İç Savaşı bir araçtır. İyi ile Çirkin’in risk barındıran ancak iyi para getiren işleri mevcuttur. Çirkin, aranan azılı bir suçlu olduğu için İyi onu adalete teslim edip önce ödülünü alıyor sonra da darağacından riskli bir metot ile kurtarıp bir sonraki işe kadar sağ kalmasını sağlamaktadır. Bir gün gizli bir hazinenin ortaya çıkmasıyla ikilinin araları bozulur. Onlar birbirleriyle didişirken ortaya üçüncü bir hazine avcısı çıkar; o da Kötü adındaki kişidir. Artık her şeyin başka türlü yaşanma zamanıdır...",
+        "poster_path": "/c7xlVD3VVn5skrhvy03NbNx5FhR.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "it",
+        "genre_ids": [
+          37
+        ],
+        "popularity": 14.7527,
+        "release_date": "1966-12-22",
+        "video": false,
+        "vote_average": 8.462,
+        "vote_count": 8970
+      },
+      {
+        "backdrop_path": "/oOv2oUXcAaNXakRqUPxYq5lJURz.jpg",
+        "id": 155,
+        "title": "Kara Şövalye",
+        "original_title": "The Dark Knight",
+        "overview": "Batman, Teğmen Jim Gordon ve Bölge Savcısı Harvey Dent’in yardımlarıyla, şehir sokaklarını sarmış olan suç örgütlerinden geriye kalanları temizlemeye girişir. Bu ortaklığın etkili olduğu açıktır, ama ekip kısa süre sonra kendilerini, Joker olarak bilinen ve Gotham şehri sakinlerini daha önce de dehşete boğmuş olan suç dehasının yarattığı karmaşanın ortasında bulurlar.",
+        "poster_path": "/7IPCEr7ifdH5CtU97QG7XgAAtOp.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          28,
+          80,
+          53
+        ],
+        "popularity": 27.1621,
+        "release_date": "2008-07-16",
+        "video": false,
+        "vote_average": 8.52,
+        "vote_count": 33806
+      },
+      {
+        "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+        "id": 240,
+        "title": "Baba 2",
+        "original_title": "The Godfather Part II",
+        "overview": "Genç Vito Corleone, Amerika'ya yeni gelmiştir. 1917 yılında, New York şehri'nin yerel mafyalarından birinin liderini öldürünce saygınlık kazanır ve korkulan biri haline gelir.Bu arada, 50 yıl sonra, Michael Corleone, Washington'da senato komitesine aile işleriyle ilgili ifade vermektedir.1972 yapımı ilk filmin devamı niteliğinde, yine yazar Mario Puzo ve yönetmen Francis Ford Coppola'nın yaratıcı ellerinden çıkmış usta işi bir yapım. Eleştirmenler tarafından, önceki filmden daha başarılı bulunan az sayıdaki devam filminden biri olarak kabul ediliyor.",
+        "poster_path": "/3Yaj5y25485A2YeixwayoP8ywZ0.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 15.2114,
+        "release_date": "1974-12-20",
+        "video": false,
+        "vote_average": 8.571,
+        "vote_count": 12938
+      },
+      {
+        "backdrop_path": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+        "id": 238,
+        "title": "Baba",
+        "original_title": "The Godfather",
+        "overview": "Mario Puzo'nun çok satan kitabından Puzo ve yönetmen Francis Ford Coppola tarafından sinemaya uyarlanan eser, 40'lar ve 50'lerin Amerika'sında, bir İtalyan mafya ailesinin destansı öyküsünü konu alıyor. Corleone ailesi, Don Vito Corleone'nin başında olduğu, suça dayalı bir örgüt kurmuş olan İtalyan asıllı meşhur bir ailedir. Aile, New York'taki diğer dört aileyle birlikte New York'un yeraltı işlerini yönetmektedir. Ancak Corleone ailesini diğerlerinden ayıran özelliği, Don Corleone'nin cebinde bozuk para gibi taşıdığı politikacılar ve yargıçlardır. Politikacılar ve yargıçlarla olan bu yakın ilişkileri diğer ailelerin açamadığı kapıları açabilmesini sağlamaktadır.",
+        "poster_path": "/vseIVRdN4xasYwStQIi6SI7DcEu.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 65.257,
+        "release_date": "1972-03-14",
+        "video": false,
+        "vote_average": 8.687,
+        "vote_count": 21415
+      },
+      {
+        "backdrop_path": "/x0bQvdpr88xVhMrVM93tEIKSM2q.jpg",
+        "id": 938,
+        "title": "Bir Kaç Dolar İçin",
+        "original_title": "Per qualche dollaro in più",
+        "overview": "Indio adındaki bir kanun kaçağını yakalamak için iki kelle avcısı işbirliği yaparlar. Monco'nun kazanacağı para dışında dert ettiği bir şey yoktur. Ancak Mortimer'in kimsenin bilmediği bir sırrı vardır ve hesaplaşmak için büyük günün gelmesini beklemektedir. İki adamı da durduracak bir şey yoktur ve önlerine çıkan her şeyi yok etmeye hazırdırlar * Sert erkeklerin, hızla kılıfından çıkan silahların ve Hollywood'un birtakım ahlaki gerekçeleriyle ortaya çıkardığı western mitine inat eğlencelik şiddetin sahne aldığı \"Bir Kaç Dolar İçin\" türün meraklıları için bulunmaz fırsat",
+        "poster_path": "/l9jkFqjkwzS1hm60Yca5iZBwWuc.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "it",
+        "genre_ids": [
+          37
+        ],
+        "popularity": 5.8377,
+        "release_date": "1965-12-18",
+        "video": false,
+        "vote_average": 8.017,
+        "vote_count": 4118
+      },
+      {
+        "backdrop_path": "/ngh5pnvXPceZYdeKZqO4OYS9VHF.jpg",
+        "id": 3112,
+        "title": "Caniler Avcısı",
+        "original_title": "The Night of the Hunter",
+        "overview": "Ünlü aktör Charles Laughton'ın yönetmen olarak imza attığı film, konusu ve oyuncularıyla kaçırılmayacak bir klasik. Hapiste tanıdığı Ben adlı adamın evinin yakınlarına yüklü bir miktar para sakladığını öğrenen psikopat Harry, hapishaneden çıktıktan sonra Ben'in evine gider...",
+        "poster_path": "/k9BWhtZK2PqyNFsV2RwkZm2PGZx.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          53
+        ],
+        "popularity": 3.234,
+        "release_date": "1955-07-27",
+        "video": false,
+        "vote_average": 7.865,
+        "vote_count": 1662
+      },
+      {
+        "backdrop_path": "/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
+        "id": 496243,
+        "title": "Parazit",
+        "original_title": "기생충",
+        "overview": "Film, birbirinden yapı olarak tamamen farklı iki aileyi konu ediniyor. Ki-taek ve ailesi komple işsizdir ve varoşlarda yaşamaktadırlar. Ki-taek’in oğlu Ki-woo, bir arkadaşının referansı ile çok zengin, bir o kadar da saf olan Park ailesinin kızına İngilizce için özel ders vermeye başlar. Ancak bu onlara yeterli gelmez ve maaile Park ailesinin evdeki çalışanlarının adım adım kuyusunu kazarak çeşitli üçkağıtçılıklarla kapağı Park ailesine atmayı başarırlar. Ancak fazla açgözlülükleri ve beleşçilikleri günün birinde başlarına bela olacaktır.",
+        "poster_path": "/nx7TmJDMkgyBc09DVo5ze52Wt3F.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "ko",
+        "genre_ids": [
+          35,
+          53,
+          18
+        ],
+        "popularity": 53.8127,
+        "release_date": "2019-05-30",
+        "video": false,
+        "vote_average": 8.5,
+        "vote_count": 19013
+      },
+      {
+        "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+        "id": 680,
+        "title": "Ucuz Roman",
+        "original_title": "Pulp Fiction",
+        "overview": "Jules Winnfield ve Vincent Vega, mafya babası patronları Marsellus Wallace’tan çalınan bir çantayı geri almaya giden iki profesyonel tetikçidir. Wallace aynı zamanda Vincent’a, kendisi birkaç gün sonra şehir dışındayken karısını dışarı çıkarmasını söyler. Butch Coolidge, bir sonraki maçını kaybetmesi için Wallace’tan para alan yaşlı bir boksördür. Honey Bunny ve Pumpkin, yer değişikliğine ihtiyaçları olduğuna karar veren soyguncu bir çifttir. Görünüşte birbirleriyle alakası olmayan bu insanların hayatları, hem heyecanlı hem de eğlendirici bir sinema filmi macerasında nefes kesici bir şekilde birleşecektir.",
+        "poster_path": "/AgY33Wtg4737MhYopJSFyKWhKsO.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          53,
+          80
+        ],
+        "popularity": 18.2358,
+        "release_date": "1994-09-10",
+        "video": false,
+        "vote_average": 8.49,
+        "vote_count": 28639
+      },
+      {
+        "backdrop_path": "/7TF4p86ZafnxFuNqWdhpHXFO244.jpg",
+        "id": 769,
+        "title": "Sıkı Dostlar",
+        "original_title": "GoodFellas",
+        "overview": "Gerçek bir hayat hikayesinden uyarlanan filmde Henry Hill adında bir gangster, Jimmy Conway ve Tommy De Vito adlı iki arkadaşıyla birlikte bir soyguna kalkışır. Gözleri daha yukarda olan iki arkadaşı soyguna katılan diğerlerini öldürür ve mafya içinde yükselmeye başlarlar. Bu durum Henry'i olumsuz etkilemiştir ve bu konuda birşeyler yapması gerekmektedir. Büyük usta Martin Scorsese'nin başyapıtlarından biri olan Goodfellas, 1991 yılında 6 dalda Oscar'a aday gösterilmiş, en iyi yardımcı erkek oyuncu dalında Joe Pesci'ye ödül kazandırmıştı.",
+        "poster_path": "/oMPDt1rNLYEVRpigNLaiTnibVn8.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 23.7348,
+        "release_date": "1990-09-12",
+        "video": false,
+        "vote_average": 8.456,
+        "vote_count": 13349
+      },
+      {
+        "backdrop_path": "/rVreHs57dd8xonPeLlqXdHmYq4M.jpg",
+        "id": 37257,
+        "title": "Beklenmeyen Şahit",
+        "original_title": "Witness for the Prosecution",
+        "overview": "Geçirdiği ağır bir kalp krizi sonrası, doktorların tüm karşı çıkışlarına rağmen hastaneyi terk eden Avukat Sir Wilfrid Robarts evine döner. Henüz ilk günden davalar kapısına yığılmıştır. Fakat bunlar arasında bir cinayet davası vardır ki, adeta Robarts’ı yeniden hayata döndürür. Leonard Vole adındaki bir adam, yaşlı bir kadını öldürmekle suçlanmaktadır. Fakat uzun yılların verdiği deneyimle Robarts genç adamın masum olduğuna inanmaktadır. Davayı üstlenir, fakat tam her şey sonuca bağlanacakken beklenmedik bir şey olur. Davalının eşi Christine Helm, kendisine karşı tanıklık etmeye başlamıştır. Fakat neden?",
+        "poster_path": "/bCj4EfuehAlgBwVd3diyWyhuuau.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          80
+        ],
+        "popularity": 3.0226,
+        "release_date": "1957-12-17",
+        "video": false,
+        "vote_average": 8.214,
+        "vote_count": 1475
+      },
+      {
+        "backdrop_path": "/ghgfzbEV7kbpbi1O8eIILKVXEA8.jpg",
+        "id": 13,
+        "title": "Forrest Gump",
+        "original_title": "Forrest Gump",
+        "overview": "Forrest Gump, zeka seviyesi 75 olan bir erkeğin hayatını ele alıyor. Zeka seviyesi nedeni ile devlet okullarına girmekte bile zorlanan Forrest Gump zamanla akla mantığa uymayan başarılara imza atıyor. Her ne kadar zeka seviyesi düşük olsa da fiziksel olarak son derece sağlam olan Forrest Gump, zamanla gelişen olaylar zincirinde bizi hayal edemeyeceğimiz bir dünyaya götürüyor.",
+        "poster_path": "/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18,
+          10749
+        ],
+        "popularity": 23.1298,
+        "release_date": "1994-06-23",
+        "video": false,
+        "vote_average": 8.468,
+        "vote_count": 28185
+      },
+      {
+        "backdrop_path": "/ruF3Lmd4A8MHbnEBE6lxPMbsHGL.jpg",
+        "id": 15,
+        "title": "Yurttaş Kane",
+        "original_title": "Citizen Kane",
+        "overview": "Zengin medya patronu Charles Foster Kane kendi özel şatosu Xanadu'da ölür. Ölürken son söz olan Rosabud'u fısıldar. Bütün gazetelerde Kane ile ilgili değişik hayat hikayeleri yayınlanır. Genç bir gazeteci Kane'nin son sözünün ne anlama geldiğini araştırmak için görevlendirilir. Gazeteci Kane'nin yakınlarıyla iletişime geçer. Biz de Kane'nin geçmişine tanık oluruz. Bu bireysel hikaye aynı zamanda mükemmelliyetçiliğin ve otoriter yönetimin hazin sonuçlarını da göstermektedir.",
+        "poster_path": "/l0J0ZWrWVwKsGzzcY9GY0Es7vyS.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          18
+        ],
+        "popularity": 5.0069,
+        "release_date": "1941-04-17",
+        "video": false,
+        "vote_average": 7.998,
+        "vote_count": 5662
+      },
+      {
+        "backdrop_path": "/uif5fUshJrXyyDzfpzp1DLw3N0S.jpg",
+        "id": 539,
+        "title": "Sapık",
+        "original_title": "Psycho",
+        "overview": "Marion Crane’e patronuyla iş yapan zengin bir adam 40 bin dolar emanet eder ve Marion parayı bankaya yatırmak yerine yanına alıp şehirden ayrılır. Bir polis Marion’un şüpheli davranışları üzerine peşine takılır. Ancak Marion’un peşine takılan sadece polis değildir. Sevgilisi ile buluşmayı planlayan Marion şiddetli yağmur yüzünden geceyi bir otelde geçirmeye karar verir. Otelden içeri girer girmez garip şeyler olduğunun farkına varan Marion uyumadan önce otel sahibi Norman Bates ile biraz sohbet eder. Norman’ın kişiliğinde sorunlar olduğunu, annesine ve kuşlara karşı bir takıntısı olduğunu öğrenen Marion, sohbeti kısa kesip odasına giderek duş almaya karar verir ve olaylar gelişir.",
+        "poster_path": "/dx1GWvjwCSYgQATVyS1D1OuTtni.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          53,
+          9648
+        ],
+        "popularity": 8.2346,
+        "release_date": "1960-06-22",
+        "video": false,
+        "vote_average": 8.4,
+        "vote_count": 10341
+      },
+      {
+        "backdrop_path": "/kXfqcdQKsToO0OUXHcrrNCHDBzO.jpg",
+        "id": 278,
+        "title": "Esaretin Bedeli",
+        "original_title": "The Shawshank Redemption",
+        "overview": "Genç ve başarılı bir banker olan Andy Dufresne, karısını ve onun sevgilisini öldürmek suçundan ömür boyu hapse mahkum edilir ve Shawshank hapishanesine gönderilir. İşkence, tecavüz, dayak dahil her türlü kötü koşulun hüküm sürdüğü hapishane koşullarında, Andy'nin hayata bağlı ve her daim iyi bir şeyler bulma çabası içindeki hali, çevresindeki herkesi çok etkileyecektir. Bir süre sonra parmaklıkların arkasında bile özgür bir yaşam olabileceğine bütün mahkumları inandırır. Bu mahkumlardan biri olan Ellis Boyd \"Red\" ve Andy, unutulmaz bir dostluk kurarak hapishaneyi bambaşka bir yer haline getirirler.",
+        "poster_path": "/7T2SDS5efuJiK45oyKoEzf9RKjw.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 30.5937,
+        "release_date": "1994-09-23",
+        "video": false,
+        "vote_average": 8.71,
+        "vote_count": 28256
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}

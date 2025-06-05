@@ -1,0 +1,834 @@
+{
+  "adult": false,
+  "backdrop_path": "/shJhgNuC2a4hPdqvm8IDXFvYwLx.jpg",
+  "created_by": [
+    {
+      "id": 15892,
+      "credit_id": "578e0425c3a3681745002ab3",
+      "name": "Dan Fogelman",
+      "original_name": "Dan Fogelman",
+      "gender": 2,
+      "profile_path": "/grLBoLU2blYEoT8vjGFOiM8mw1D.jpg"
+    }
+  ],
+  "episode_run_time": [
+    43
+  ],
+  "first_air_date": "2016-09-20",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Dram"
+    }
+  ],
+  "homepage": "http://nbc.com/this-is-us",
+  "id": 67136,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2022-05-24",
+  "last_episode_to_air": {
+    "id": 3600291,
+    "name": "18. Bölüm",
+    "overview": "",
+    "vote_average": 9.0,
+    "vote_count": 2,
+    "air_date": "2022-05-24",
+    "episode_number": 18,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 6,
+    "show_id": 67136,
+    "still_path": "/oz7uSezA6M1LlPh1uevhwe3NDba.jpg"
+  },
+  "name": "This Is Us",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 105,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "This Is Us",
+  "overview": "Amerika Birleşik Devletleri'nde yaşayan 3 farklı ailenin yaşamları ve büyümelerini anlatan bu aile-dram dizisinde, karakterlerin yaşamları ve yolları birbirine girmeye başladığında bir kaçının aynı doğumgününü ve beklediğinizden çok daha fazlasını paylaştığını göreceksiniz.",
+  "popularity": 112.3659,
+  "poster_path": "/huxmY6Dmzwpv5Q2hnNft0UMK7vf.jpg",
+  "production_companies": [
+    {
+      "id": 1556,
+      "logo_path": "/31h94rG9hzjprXoYNy3L1ErUya2.png",
+      "name": "20th Century Fox Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 41131,
+      "logo_path": null,
+      "name": "Rhode Island Ave. Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 47586,
+      "logo_path": null,
+      "name": "Zaftig Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 236166,
+      "logo_path": "/8rFlu5iytnjsciYXZDw90ktllCI.png",
+      "name": "20th Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-09-13",
+      "episode_count": 119,
+      "id": 81539,
+      "name": "Özel Gösterim",
+      "overview": "",
+      "poster_path": "/gZiaw4bipt5ICOza2bjVxVlHAYK.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2016-09-20",
+      "episode_count": 18,
+      "id": 78564,
+      "name": "Sezon 1",
+      "overview": "",
+      "poster_path": "/rDjZVtIT2RzcdkA4X7YnAdUsLu5.jpg",
+      "season_number": 1,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2017-09-26",
+      "episode_count": 18,
+      "id": 91756,
+      "name": "Sezon 2",
+      "overview": "",
+      "poster_path": "/dTqz1n6hulCdevPIgJ43Ve05Qfd.jpg",
+      "season_number": 2,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2018-09-25",
+      "episode_count": 18,
+      "id": 108487,
+      "name": "Sezon 3",
+      "overview": "",
+      "poster_path": "/mkmxasTggFi6X8I2CmQ4eFmCl0O.jpg",
+      "season_number": 3,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2019-09-24",
+      "episode_count": 18,
+      "id": 129342,
+      "name": "Sezon 4",
+      "overview": "",
+      "poster_path": "/AptefJe8UWuZrRIeM8TI3cMHy6K.jpg",
+      "season_number": 4,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2020-10-27",
+      "episode_count": 15,
+      "id": 165760,
+      "name": "Sezon 5",
+      "overview": "",
+      "poster_path": "/ttyzaqFHMzKY9TfXUhvHBeRsKDD.jpg",
+      "season_number": 5,
+      "vote_average": 8.4
+    },
+    {
+      "air_date": "2022-01-04",
+      "episode_count": 18,
+      "id": 212122,
+      "name": "Sezon 6",
+      "overview": "",
+      "poster_path": "/2tpHLhHYsBJkiuhnnlMzUBnN7E4.jpg",
+      "season_number": 6,
+      "vote_average": 8.8
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.2,
+  "vote_count": 1503,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16501,
+        "known_for_department": "Acting",
+        "name": "Milo Ventimiglia",
+        "original_name": "Milo Ventimiglia",
+        "popularity": 3.4859,
+        "profile_path": "/9yFPsQCYi9sbPQ0xJGtoAF4Ar6v.jpg",
+        "character": "Jack Pearson",
+        "credit_id": "578e0491c3a3685acb0112da",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 16855,
+        "known_for_department": "Acting",
+        "name": "Mandy Moore",
+        "original_name": "Mandy Moore",
+        "popularity": 3.4401,
+        "profile_path": "/1Z5yJ6FUsEtlVZzpyzOpfzvcpcm.jpg",
+        "character": "Rebecca Pearson",
+        "credit_id": "578e048592514118b60027a8",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1225953,
+        "known_for_department": "Acting",
+        "name": "Sterling K. Brown",
+        "original_name": "Sterling K. Brown",
+        "popularity": 3.2491,
+        "profile_path": "/vjFATaJfAyBie56J4Qv2DQ9Dyem.jpg",
+        "character": "Randall Pearson",
+        "credit_id": "578e04b6925141180b002963",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1655001,
+        "known_for_department": "Acting",
+        "name": "Chrissy Metz",
+        "original_name": "Chrissy Metz",
+        "popularity": 1.721,
+        "profile_path": "/d1qBoF1JQdLI8OF99sVeNQqjXZG.jpg",
+        "character": "Kate Pearson",
+        "credit_id": "57938c509251413dae00b801",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1222596,
+        "known_for_department": "Acting",
+        "name": "Justin Hartley",
+        "original_name": "Justin Hartley",
+        "popularity": 3.1933,
+        "profile_path": "/oo7vqWz30pA1tY6quUOnS6O0AgB.jpg",
+        "character": "Kevin Pearson",
+        "credit_id": "57938bb69251414b3b00abed",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 155228,
+        "known_for_department": "Acting",
+        "name": "Susan Kelechi Watson",
+        "original_name": "Susan Kelechi Watson",
+        "popularity": 1.3862,
+        "profile_path": "/2hVnXxWj6j2R9edchIRsoSyxY5x.jpg",
+        "character": "Beth Pearson",
+        "credit_id": "57938be2c3a36828a600b130",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1293892,
+        "known_for_department": "Acting",
+        "name": "Chris Sullivan",
+        "original_name": "Chris Sullivan",
+        "popularity": 1.8636,
+        "profile_path": "/5I4pxgfl5agN38qrZqtFf8TlkUh.jpg",
+        "character": "Toby Damon",
+        "credit_id": "57ca61b192514128d5000181",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 62095,
+        "known_for_department": "Acting",
+        "name": "Jon Huertas",
+        "original_name": "Jon Huertas",
+        "popularity": 1.7246,
+        "profile_path": "/fNNJu1SJLQlpD8LVFFGJw1JlQSn.jpg",
+        "character": "Miguel Rivas",
+        "credit_id": "607f51350f0da500587b91fe",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56412,
+        "known_for_department": "Writing",
+        "name": "John Requa",
+        "original_name": "John Requa",
+        "popularity": 1.6019,
+        "profile_path": null,
+        "credit_id": "57ca625ec3a36872730001ad",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15892,
+        "known_for_department": "Writing",
+        "name": "Dan Fogelman",
+        "original_name": "Dan Fogelman",
+        "popularity": 2.1307,
+        "profile_path": "/grLBoLU2blYEoT8vjGFOiM8mw1D.jpg",
+        "credit_id": "57ca6250925141278a0031f8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1466267,
+        "known_for_department": "Production",
+        "name": "Charlie Gogolak",
+        "original_name": "Charlie Gogolak",
+        "popularity": 0.2912,
+        "profile_path": "/cYcXSiYcQ4Z0VLdIok4rRGSiyK5.jpg",
+        "credit_id": "57ca62789251411ac5000603",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56411,
+        "known_for_department": "Writing",
+        "name": "Glenn Ficarra",
+        "original_name": "Glenn Ficarra",
+        "popularity": 1.6934,
+        "profile_path": "/23EaR6q7B1wcg9trxtr7xHzKu7q.jpg",
+        "credit_id": "57ca626cc3a36861f2000672",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "results": [
+      {
+        "name": "sibling relationship",
+        "id": 380
+      },
+      {
+        "name": "loss of loved one",
+        "id": 697
+      },
+      {
+        "name": "adoption",
+        "id": 2393
+      },
+      {
+        "name": "addiction",
+        "id": 6782
+      },
+      {
+        "name": "romance",
+        "id": 9840
+      },
+      {
+        "name": "flashback",
+        "id": 9856
+      },
+      {
+        "name": "grief",
+        "id": 9872
+      },
+      {
+        "name": "family relationships",
+        "id": 10235
+      },
+      {
+        "name": "grieving",
+        "id": 172291
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/8Wo2Pqjxn7Xmd7p2dxRMIJtyMV7.jpg",
+        "id": 66292,
+        "name": "Big Little Lies",
+        "original_name": "Big Little Lies",
+        "overview": "Avustralyalı yazar Liane Moriary’nin aynı adlı çok satan romanından uyarlanacak Big Little Lies’da; dışarıdan mükemmel hayatlara sahipmiş gibi gözüken üç kadının, bir cinayet olayı ile yollarının kesişmesi işlenecek. Çocukları anaokuluna giden kadınlar, veli toplantısı esnasında gerçekleşen bir cinayeti aydınlatmaya çalışacak.",
+        "poster_path": "/b4HNJOc2N6SGyEhf2RagdpAKBK6.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 11.7684,
+        "first_air_date": "2017-02-19",
+        "vote_average": 7.892,
+        "vote_count": 1538,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/omzjmQdaV2PBSyfgsB6RWsxk1lo.jpg",
+        "id": 64433,
+        "name": "Shades of Blue",
+        "original_name": "Shades of Blue",
+        "overview": "FBI'ın yolsuzlukla mücadele biriminde göreve başlayan Harlee McCord aynı zamanda yalnız yaşayan bir annedir. Bu görev için gizli ajan olan McCord, ailesi ile işini ince bir çizgi ile ayırmak zorundadır.",
+        "poster_path": "/wxg8lxFpandLQtOiHRnTEQf7oeL.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 16.9861,
+        "first_air_date": "2016-01-07",
+        "vote_average": 7.3,
+        "vote_count": 254,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/jHaZMdEQVZUKsfE3yCZ1atSXEWw.jpg",
+        "id": 53606,
+        "name": "Love",
+        "original_name": "Love",
+        "overview": "Yaratıcıları arasında Judd Apatow'un da bulunduğu bu cesur komedide, asi Mickey ve iyi huylu Gus modern ilişkilerin heyecanları ve ızdırapları arasında geziniyor.",
+        "poster_path": "/wvtW9YoMkovpMqyZCWUbQC6FJlg.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 10.2946,
+        "first_air_date": "2016-02-19",
+        "vote_average": 7.166,
+        "vote_count": 295,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/52qTID1ckURhq8MFaV0x7ISRFiE.jpg",
+        "id": 61381,
+        "name": "black-ish",
+        "original_name": "black-ish",
+        "overview": "A family man struggles to gain a sense of cultural identity while raising his kids in a predominantly white, upper-middle-class neighborhood.",
+        "poster_path": "/ga1zJ6UejPIfyL8BA22pK6dqsC8.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 36.5075,
+        "first_air_date": "2014-09-24",
+        "vote_average": 7.193,
+        "vote_count": 311,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/8VWgyQjExeMgeg6Qzv6agduMU1A.jpg",
+        "id": 121,
+        "name": "Doctor Who",
+        "original_name": "Doctor Who",
+        "overview": "Doctor Who (Türkçe anlamıyla Doktor Kim) BBC yapımı İngiliz bilim kurgu televizyon dizisidir. Dizi; Doktor olarak bilinen, zamanda yolculuk yapan insansı Dünya dışı yaratık olan Zaman Lordu'nun maceralarını anlatmaktadır. Doktor, dışarıdan 1950'lerden kalma bir polis kulübesi gibi görünen TARDIS adındaki bilince sahip ve zamanda yolculuk edebilen bir uzay gemisi ile evreni araştırır. Doktor, yardımcıları ile beraber uzay ve zamanı keşfeder, sorunları çözer, yaratıklarla yüzleşir ve tarihe yapılan müdahalelere engel olur.\n\nGuinness Rekorlar Kitabı tarafından dünyanın en uzun süren bilim kurgu televizyon programı olarak listelenen dizi aynı zamanda İngiliz popüler kültürünün de önemli bir parçasıdır. Dizi iyi planlanmış hikâyeleri, ilk yayınlandığı dönemdeki düşük bütçeli yaratıcı özel efektleri ve elektronik müzik kullanımındaki önderliği ile tanınır.",
+        "poster_path": "/xinqAmYrZ1TEwowcQhgTkZVtVE0.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          10765
+        ],
+        "popularity": 90.5584,
+        "first_air_date": "1963-11-23",
+        "vote_average": 7.861,
+        "vote_count": 649,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/3JDoDeoCOWZTrAFaE1tm2fcOeVU.jpg",
+        "id": 85833,
+        "name": "Bir Katilin İfadeleri: Ted Bundy",
+        "original_name": "Conversations with a Killer: The Ted Bundy Tapes",
+        "overview": "Ted Bundy'nin ifadelerinden, güncel röportajlardan, arşiv görüntülerinden ve ölüm sırasındaki mahkûmların ses kayıtlarından oluşan bu sinematik otoportreyle, ünlü bir seri katilin zihninin içine benzersiz bir bakış atın.",
+        "poster_path": "/4N6ESz7e88292owYSOYn3Bq3x4q.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99,
+          80
+        ],
+        "popularity": 4.0671,
+        "first_air_date": "2019-01-24",
+        "vote_average": 7.47,
+        "vote_count": 345,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/jLE5bsPA9xOKzBWOaOmKbp1DWQS.jpg",
+        "id": 71024,
+        "name": "Castlevania",
+        "original_name": "Castlevania",
+        "overview": "Bir vampir avcısı, Dracula'nın komuta ettiği, öteki dünyaya ait yaratıklardan oluşan ordunun ablukasındaki şehri kurtarmak için savaşır.",
+        "poster_path": "/ubDtIBwdS9b29sBofAkqWz3PqkT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10765,
+          18
+        ],
+        "popularity": 15.3164,
+        "first_air_date": "2017-07-07",
+        "vote_average": 8.267,
+        "vote_count": 1386,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qEviP7N0j9tQa4jkgYqy689IKbq.jpg",
+        "id": 79084,
+        "name": "Pose",
+        "original_name": "POSE",
+        "overview": "New York'ta 1980'lerin yaşamının ve toplumunun çeşitli bölümlerinin yan yana gelmesini araştıran bir dans müzikali: top kültür dünyası, lüks Trump dönemi evreninin yükselişi ve şehir merkezindeki sosyal ve edebi sahne.",
+        "poster_path": "/5f23i30nFJz0nrd3DGheOCqXa2P.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 10.9484,
+        "first_air_date": "2018-06-03",
+        "vote_average": 8.288,
+        "vote_count": 554,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/d6zPhw7e6iEY5iRvtm5gL1hbS3h.jpg",
+        "id": 68799,
+        "name": "Gilmore Girls: A Year in the Life",
+        "original_name": "Gilmore Girls: A Year in the Life",
+        "overview": "Orijinal finalinden yaklaşık on yıl sonra seyircileriyle yeniden buluşan dizi, Lorelai, Rory ve Emily Gilmore'un dört mevsim boyunca yaşadıkları değişiklikleri anlatıyor.",
+        "poster_path": "/8vqjelflnBJAsfRWRQVGDkGfCFb.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 6.4101,
+        "first_air_date": "2016-11-25",
+        "vote_average": 7.3,
+        "vote_count": 378,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/oOQDvC3SObqnssVQ688IUdPp3ao.jpg",
+        "id": 88324,
+        "name": "Virgin River",
+        "original_name": "Virgin River",
+        "overview": "Yeni bir başlangıç yapmak isteyen pratisyen hemşire, Los Angeles'tan Kuzey Kaliforniya'daki ücra bir kasabaya taşınır. Burada onu çeşitli sürprizler beklemektedir.",
+        "poster_path": "/jSm9HdxUy9PpsJt0mVAQ0y7gbDJ.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 17.4052,
+        "first_air_date": "2019-12-06",
+        "vote_average": 8.0,
+        "vote_count": 545,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/b9cCIwtT0gD42wEMMZwMdY8zfgS.jpg",
+        "id": 70453,
+        "name": "Sharp Objects",
+        "original_name": "Sharp Objects",
+        "overview": "Kendisine zarar verdiği için yıllarca akıl hastanesinde kalan Camille (Amy Adams), bir adli muhabirdir ve iki küçük kızın cinayetini araştırmak için memleketi Wind Gap, Missouri’ye geri döner. Görevi dolayısıyla aralarında zarar verici bir ilişki bulunan, her şeyin kusursuz olmasını isteyen, küçük kasaba sosyetesinin üyesi annesi Adora’nın (Patricia Clarkson) yanına dönmek zorunda kalan Camille, hafızasından silip atmaya çalıştığı çocukluk trajedileriyle ve şımarık üvey kardeşi Amma (Eliza Scanlen) ile yeniden yüzleşecektir.",
+        "poster_path": "/1SGovj2qDdkJexvhFiXllj9EYfu.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 10.9652,
+        "first_air_date": "2018-07-08",
+        "vote_average": 7.732,
+        "vote_count": 906,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/vQ77kC1amsZECKIxkUIsMJCtBVp.jpg",
+        "id": 70796,
+        "name": "Muhteşem Bayan Maisel",
+        "original_name": "The Marvelous Mrs. Maisel",
+        "overview": "1958 yılında, New York’un Yukarı Batı Yakası’nda yaşayan Mrs. Maisel, hayatını tamamen eşi Joel Maisel’a ve eşinin eğlence için yaptığı stand-up gösterilerinin başarısına adamıştır. Ancak hayatı aniden değiştiğinde ve Midge her şeye yeniden başlamak zorunda kaldığında, daha önce bilinmeyen bir yeteneğini keşfeder - bu yetenek onu Greenwich Village'ın komedi kulüplerine kadar götürecektir.",
+        "poster_path": "/jJHClkUwDsSIPvh0ccA3dSpxi74.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 40.0601,
+        "first_air_date": "2017-03-16",
+        "vote_average": 8.084,
+        "vote_count": 829,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/gD830J0sf5gEeZvzkRVPdGxJmSR.jpg",
+        "id": 69740,
+        "name": "Ozark",
+        "original_name": "Ozark",
+        "overview": "Bir finans danışmanı, ailesini Chicago'dan Missouri'deki Ozarks'a sürükler. Burada, bir uyuşturucu patronunu memnun etmek için beş yılda 500 milyon dolar aklamalıdır.",
+        "poster_path": "/pCGyPVrI9Fzw6rE1Pvi4BIXF6ET.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 25.4948,
+        "first_air_date": "2017-07-21",
+        "vote_average": 8.21,
+        "vote_count": 2453,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qTFvZUtNwPz8laW5nYgy9FvKLGP.jpg",
+        "id": 66025,
+        "name": "Animal Kingdom",
+        "original_name": "Animal Kingdom",
+        "overview": "2010 yapımı David Michôd'un yazdığı ve yönettiği ve Liz Watts'ın yapımcısı olduğu aynı isimli sinema filminin dizi uyarlamasıdır. 5 milyon dolar bütçe ile çekilen film 6.8 milyon gişe hasılatı elde etmiştir\n\nDizi, annesi aşırı dozda aldığı eroinden öldükten sonra Güney Kaliforniya'da ki akrabalarının yanına dönen 17 yaşındaki Joshua \"J\" Cody'i (Cole) merkezine almaktadır. Sert ve otorite sahibi büyükannesi Janine \"Smurf\" Cody'in yanına taşınan Joshua çok geçmeden yeni ailesinin tam bir suç şebekesi olduğunu ve tüm ihtiyaçlarını işledikleri suçlarla finanse ettiklerini öğrenir.",
+        "poster_path": "/rzvdKrnSRKPFI0pgqMQknDPpRC9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 18.0307,
+        "first_air_date": "2016-06-14",
+        "vote_average": 7.695,
+        "vote_count": 456,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/9TvRRh8HUAMK9phVXLInPXHUg6K.jpg",
+        "id": 66786,
+        "name": "Timeless",
+        "original_name": "Timeless",
+        "overview": "Garcia Flynn isimli bir suçlu Amerika tarihinin seyrini değiştirmek ve yok etmek için bir zaman makinesi çalar ve geçmişe gider. Onu yakalamak için Lucy Preston isimli bir tarih profesörü, Wyatt Logan isimli bir asker ve Rufus isimli bir bilim adamı peşinden gider. Bu özenle seçilmiş takım hem tehlikeli kaçağı yakalamak hem de geleceği etkileyebilecek her türlü müdaheleyi çok geç olmadan durdurmak zorundadır.",
+        "poster_path": "/wFaS9kROwztTWNxIKBbOLwIgApV.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          10765
+        ],
+        "popularity": 19.6185,
+        "first_air_date": "2016-10-03",
+        "vote_average": 7.235,
+        "vote_count": 731,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/ibLYptKeE64xa3zzfgbLcBjtN09.jpg",
+        "id": 44549,
+        "name": "Nashville",
+        "original_name": "Nashville",
+        "overview": "Connie Britton'ın kariyerinin zirvesindeki bir yıldızı, Hayden Panettiere'nin ise yükselişteki bir müzisyeni canlandırdığı country müzikle ilgili aile dizisidir.",
+        "poster_path": "/oZ2K2cPeWURnQjCxrvSEnaEcIST.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 41.3972,
+        "first_air_date": "2012-10-10",
+        "vote_average": 6.57,
+        "vote_count": 235,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/kl8hBoMohGjWzXVGN5sd6xMeLZT.jpg",
+        "id": 69889,
+        "name": "Imposters",
+        "original_name": "Imposters",
+        "overview": "Dizi, kadınların ve erkeklerin kendisine aşık olmasını sağlayan, onları evlilikle kandıran ve paralarını aldıktan sonra kılık değiştirerek ortadan kaybolan \"Maddie/Ava/Alice/Saffron\" (Inbar Lavi) adlı sahtekar bir kadını merkezine alıyor. Maddie, kurbanlarının polise gitmelerine engel olmak için tüm kirli bilgilerini kendine koz olarak toplar. Ancak, son kurbanları Ezra (Heaps) ve Richard (Young) bir sonraki avı olan Patrick'i (Bishop) oltaya getirmeye çalışırken onu takip ederler. Üç kurban bir araya gelir ve Maddie'yi yakalamak için bir takım oluştururlar.",
+        "poster_path": "/1nezOc66ykPbbUbZGlfjuJaJH2d.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35,
+          9648,
+          80
+        ],
+        "popularity": 6.4506,
+        "first_air_date": "2017-02-07",
+        "vote_average": 7.217,
+        "vote_count": 120,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/i3crPeFkhLcT9ZRVwPSHQSnd6di.jpg",
+        "id": 69851,
+        "name": "FEUD",
+        "original_name": "FEUD",
+        "overview": "Kariyerlerinin başlarında başlayan , \"Whatever Happened to Baby Jane?\" filminin setinde doruk noktasına ulaşan ve adeta bir Oscar kan davasına dönüşen Bette Davis ile Joan Crawford arasındaki efsanevi rekabete dayanır.",
+        "poster_path": "/c5wn2eLRN3naOB1JxEbDIApRN2T.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 10.8307,
+        "first_air_date": "2017-03-05",
+        "vote_average": 7.743,
+        "vote_count": 228,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dSIdMGIID66wCBImiofd5FcESeZ.jpg",
+        "id": 215492,
+        "name": "Harry ve Meghan",
+        "original_name": "Harry & Meghan",
+        "overview": "Bu belgesel dizisinde Harry ve Meghan, flört ettikleri dönemden başlayarak kraliyet ailesinden ayrılışlarına dek olan karmaşık yolculuğu kendi sözleriyle anlatıyor.",
+        "poster_path": "/nxbQLpCm78w5UHOyLrnkFJVCY7p.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 2.7152,
+        "first_air_date": "2022-12-08",
+        "vote_average": 6.2,
+        "vote_count": 100,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/8mlPjKqMROLwpuuvKb0qXIFXAwf.jpg",
+        "id": 62417,
+        "name": "Emerald City",
+        "original_name": "Emerald City",
+        "overview": "Defalarca sinemaya ve televizyona uyarlanmış ünlü Oz Büyücüsü hikayesinin; tehlikeli savaşçılar, rekabet içindeki krallıklar ve kötü şöhretli bir büyücünün yer aldığı modern ve karanlık versiyonu… 20 yaşındaki Dorothy Gale kendini, Oz’un ele geçirilmesi için uğraşılan kanlı ve epik bir savaşın içinde bulacak.",
+        "poster_path": "/xjJSsAMd1kQrIslv4qHSMyGx9UT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 4.1152,
+        "first_air_date": "2017-01-06",
+        "vote_average": 6.647,
+        "vote_count": 187,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+  }
+}
